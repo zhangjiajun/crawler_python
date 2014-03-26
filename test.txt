@@ -1,0 +1,648 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Python抓取中文网页 - nevasun的专栏
+        - 博客频道 - CSDN.NET</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="早就有想法把博客每天的访问流量记下来，刚好现在申请了GAE的应用，又开始学Python，正好拿这个练手。打算先利用Python把访问记录保存在本地，熟悉之后可以部署到GAE，利用GAE提供的cron就可以每天更近访问流量了。OK，开始~首先是简单的网页抓取程序：import sys, urllib2req = urllib2.Request(http://blog.csdn.net/" />
+    <script src="http://static.blog.csdn.net/scripts/jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://static.blog.csdn.net/scripts/ad.js?v=1.1"></script>
+        <!--new top-->
+               <link rel="stylesheet" href="http://static.csdn.net/public/common/toolbar/css/index.css">        <!--new top-->
+
+    <link rel="Stylesheet" type="text/css" href="http://static.blog.csdn.net/skin/default/css/style.css?v=1.1" />
+    <link id="RSSLink" title="RSS" type="application/rss+xml" rel="alternate" href="/nevasun/rss/list" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link type="text/css" rel="stylesheet" href="http://static.blog.csdn.net/scripts/SyntaxHighlighter/styles/default.css" />
+ 
+
+</head>
+<body>
+    
+   
+      <!--new top-->
+    <script id="toolbar-tpl-scriptId" fixed="true" prod="blog" skin="black" src="http://static.csdn.net/public/common/toolbar/js/html.js" type="text/javascript"></script>
+     <!--new top-->
+    <div id="container">
+        <div id="header">
+    <div class="header">
+        <div id="blog_title">
+            <h2>
+                <a href="http://blog.csdn.net/nevasun">nevasun的专栏</a></h2>
+            <h3></h3>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+</div>
+<div id="navigator">
+    <div class="navigator_bg">
+    </div>
+    <div class="navigator">
+        <ul>
+                <li id="btnContents"><a href="http://blog.csdn.net/nevasun?viewmode=contents"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_mulu'])">
+                    <img src="http://static.blog.csdn.net/images/ico_list.gif">目录视图</span></a></li>
+                <li id="btnView"><a href="http://blog.csdn.net/nevasun?viewmode=list"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_zhaiyao'])">
+                    <img src="http://static.blog.csdn.net/images/ico_summary.gif">摘要视图</span></a></li>
+                <li id="btnRss"><a href="http://blog.csdn.net/nevasun/rss/list"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_RSS'])">
+                    <img src="http://static.blog.csdn.net/images/ico_rss.gif">订阅</span></a></li>
+</ul>
+    </div>
+</div>
+<script type="text/javascript">
+    var username = "nevasun";
+    var _blogger = username;
+    var blog_address = "http://blog.csdn.net/nevasun";
+    var static_host = "http://static.blog.csdn.net";
+    var currentUserName = "";
+</script>
+
+        <div id="body">
+            <div id="main">
+                <div class="main">
+<div class="notice tracking-ad" data-mod='popu_3' > 
+
+
+<a href="http://hero.csdn.net/Question/Details?ID=351&ExamID=346" target="_blank"><font color=blue>英雄会第四届在线编程大赛·线上初赛：带通配符的数
+</font></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<a href="http://www.csdn.net/article/2014-03-18/2818827">
+<font color=red>专访王然：与历史共舞的Linux程序员</font></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<a href="http://blog.csdn.net/blogdevteam/article/details/21389277"target="_blank">
+<font color=blue>CSDN博客“我的IT成长路”活动 </font></a>
+
+
+
+
+</div>                    <link href="http://static.blog.csdn.net/css/comment1.css" type="text/css" rel="stylesheet" />
+<link href="http://static.blog.csdn.net/css/style1.css" type="text/css" rel="stylesheet" />
+<div id="article_details" class="details">
+    <div class="article_title">
+    <span class="ico ico_type_Original"></span>
+    <h1>
+        <span class="link_title"><a href="/nevasun/article/details/7331644">
+        Python抓取中文网页
+        </a></span>
+    </h1>
+</div>
+
+    <div class="article_manage">
+        <span class="link_categories">
+        分类：
+            <a href="/nevasun/article/category/930557" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_fenlei']);">编程语言C/Python</a> 
+            <a href="/nevasun/article/category/763155" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_fenlei']);">网络技术&#183;移动通信</a> 
+        </span>
+    <span class="link_postdate">2012-03-08 10:11</span>
+    <span class="link_view" title="阅读次数">2697人阅读</span>
+    <span class="link_comments" title="评论次数"><a href="#comments" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(1)</span>
+    <span class="link_collect"><a href="javascript:void(0);" onclick="javascript:_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_shoucang']);collectArticle('Python抓取中文网页','7331644');return false;" title="收藏">收藏</a></span>
+    <span class="link_report"><a href="#report"  onclick="javascript:_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_jubao']);report(7331644,2);return false;" title="举报">举报</a></span>
+    
+</div>
+<div class="tag2box"><a href='http://www.csdn.net/tag/python' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">python</a><a href='http://www.csdn.net/tag/gae' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">gae</a><a href='http://www.csdn.net/tag/windows' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">windows</a><a href='http://www.csdn.net/tag/import' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">import</a><a href='http://www.csdn.net/tag/cron' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">cron</a><a href='http://www.csdn.net/tag/%e6%b5%8f%e8%a7%88%e5%99%a8' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">浏览器</a></div>
+
+    
+<div id="article_content" class="article_content">
+
+<p>早就有想法把博客每天的访问流量记下来，刚好现在申请了GAE的应用，又开始学Python，正好拿这个练手。打算先利用Python把访问记录保存在本地，熟悉之后可以部署到GAE，利用GAE提供的cron就可以每天更近访问流量了。OK，开始~</p>
+<p>首先是简单的网页抓取程序：</p>
+<pre class="python" name="code">import sys, urllib2
+
+req = urllib2.Request(&quot;http://blog.csdn.net/nevasun&quot;)
+fd = urllib2.urlopen(req)
+while True:
+    data = fd.read(1024)
+    if not len(data):
+        break
+    sys.stdout.write(data)</pre>
+<p>在终端运行提示urllib2.HTTPError: HTTP Error 403: Forbidden<img alt="难过" src="http://static.blog.csdn.net/xheditor/xheditor_emot/default/sad.gif">，怎么回事呢？</p>
+<p>这是由于网站禁止爬虫，可以在请求加上头信息，伪装成浏览器访问。添加和修改：</p>
+<pre class="python" name="code">headers = {'User-Agent':'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6'}
+req = urllib2.Request(&quot;http://blog.csdn.net/nevasun&quot;, headers=headers)</pre>
+<p>再试一下，HTTP Error 403没有了，但是中文全都是乱码<img alt="快哭了" src="http://static.blog.csdn.net/xheditor/xheditor_emot/default/fastcry.gif">。又是怎么回事？</p>
+<p>这是由于网站是utf-8编码的，需要转换成本地系统的编码&#26684;式：</p>
+<pre class="python" name="code">import sys, urllib2
+
+
+headers = {'User-Agent':'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6'}
+req = urllib2.Request(&quot;http://blog.csdn.net/nevasun&quot;, headers=headers)
+content = urllib2.urlopen(req).read()   # UTF-8
+
+type = sys.getfilesystemencoding()      # local encode format
+print content.decode(&quot;UTF-8&quot;).encode(type)  # convert encode format</pre>
+<p>OK，大功告成，可以抓取中文页面了。下一步就是在GAE上做个简单的应用了~</p>
+
+</div>
+
+
+
+<!-- Baidu Button BEGIN -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" style="float: right;">
+<a class="bds_qzone"></a>
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+<span class="bds_more">更多</span>
+<a class="shareCount"></a>
+</div>
+<!-- Baidu Button END -->
+
+
+<!--192.168.100.34-->
+<div class="article_next_prev">
+            <li class="prev_article"><span>上一篇：</span><a href="/nevasun/article/details/7320518" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_shangyipian'])">《编程之美》3.4扩展问题实现</a></li>
+            <li class="next_article"><span>下一篇：</span><a href="/nevasun/article/details/7335622" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_xiayipian'])">深入理解C语言的指针*和引用&amp;</a></li>
+</div>
+
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=1536434" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+<!-- Baidu Button END -->
+
+        <div id="digg" ArticleId="7331644">
+            <dl id="btnDigg" class="digg digg_disable">
+                <dt onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_ding'])">顶</dt>
+                <dd>1</dd>
+            </dl>
+            <dl id="btnBury" class="digg digg_disable">
+                <dt onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_cai'])">踩</dt>
+                <dd>0</dd>
+            </dl>
+        </div>
+</div>
+      <dl class="blog-associat-tag">
+        <dt>相关主题推荐</dt>
+        <dd>
+                <a href="http://www.csdn.net/tag/python" target="_blank">python</a> 
+                <a href="http://www.csdn.net/tag/浏览器" target="_blank">浏览器</a> 
+                <a href="http://www.csdn.net/tag/firefox" target="_blank">firefox</a> 
+                <a href="http://www.csdn.net/tag/mozilla" target="_blank">mozilla</a> 
+                <a href="http://www.csdn.net/tag/编码" target="_blank">编码</a> 
+        </dd>
+    </dl> 
+    <dl class="blog-ass-articl">
+        <dt>相关博文推荐</dt>
+            <dd>
+                <a href="http://blog.csdn.net/ckr815/article/details/22172069" title="python菜鸟之暴走漫画" target="_blank">python菜鸟之暴走漫画</a></dd>
+            <dd>
+                <a href="http://blog.csdn.net/shengshengwang/article/details/22166789" title="总结随笔" target="_blank">总结随笔</a></dd>
+            <dd>
+                <a href="http://blog.csdn.net/muyuxiaozi/article/details/22174421" title="Python PIL学习笔记" target="_blank">Python PIL学习笔记</a></dd>
+            <dd>
+                <a href="http://blog.csdn.net/hunter_hb/article/details/22166757" title="python2.7 import error no module named yaml &#183;问题" target="_blank">python2.7 import err...</a></dd>
+            <dd>
+                <a href="http://blog.csdn.net/muroachanf/article/details/22166337" title="python调用windows下的com组件" target="_blank">python调用windows下的com...</a></dd>
+            <dd>
+                <a href="http://blog.csdn.net/langlang2671/article/details/22166765" title="urllib2.HTTPError: HTTP Error 403: Forbidden 错误" target="_blank">urllib2.HTTPError: H...</a></dd>
+            <dd>
+                <a href="http://blog.csdn.net/yangtzerong/article/details/22164115" title="eclipse安装pydev不成功" target="_blank">eclipse安装pydev不成功</a></dd>
+            <dd>
+                <a href="http://blog.csdn.net/trochiluses/article/details/22165727" title="python GUI编程——Scrollbar&amp;&amp;Listbox" target="_blank">python GUI编程——Scroll...</a></dd>
+    </dl>
+
+    <div id="ad_cen">
+        <script type="text/javascript">            BAIDU_CLB_SLOT_ID = "117306";</script>
+        <script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>
+    </div>
+    <script type="text/javascript">
+        //new Ad(4, 'ad_cen');
+    </script>
+<div id="comment_title" class="panel_head">
+    查看评论<a name="comments"></a></div>
+<div id="comment_list">
+</div>
+<div id="comment_bar">
+</div>
+<div id="comment_form">
+</div>
+<div class="announce">
+    * 以上用户言论只代表其个人观点，不代表CSDN网站的观点或立场<a name="reply"></a><a name="quote"></a></div>
+<script type="text/javascript">
+    var fileName = '7331644';
+    var commentscount = 1;
+    var islock = false
+</script>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/comment.js"></script>
+    <div id="ad_bot">
+    </div>
+    <script type="text/javascript">
+    new Ad(5, 'ad_bot');
+    </script>
+<div id="report_dialog">
+</div>
+<div id="d-top" style="display: none;">
+    <a id="d-top-a" href="#" title="回到顶部" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_huidaodingbu'])">
+        <img src="http://static.blog.csdn.net/images/top.png" alt="TOP" /></a>
+</div>
+<script type="text/javascript">
+    $(function ()
+    {
+        var d_top = $('#d-top');
+        document.onscroll = function ()
+        {
+            var scrTop = (document.body.scrollTop || document.documentElement.scrollTop);
+            if (scrTop > 500)
+            {
+                d_top.show();
+            } else
+            {
+                d_top.hide();
+            }
+        }
+        $('#d-top-a').click(function ()
+        {
+            scrollTo(0, 0);
+            this.blur();
+            return false;
+        });
+    });
+  
+</script>
+<style type="text/css">
+    .tag_list
+    {
+        background: none repeat scroll 0 0 #FFFFFF;
+        border: 1px solid #D7CBC1;
+        color: #000000;
+        font-size: 12px;
+        line-height: 20px;
+        list-style: none outside none;
+        margin: 10px 2% 0 1%;
+        padding: 1px;
+    }
+    .tag_list h5
+    {
+        background: none repeat scroll 0 0 #E0DBD3;
+        color: #47381C;
+        font-size: 12px;
+        height: 24px;
+        line-height: 24px;
+        padding: 0 5px;
+        margin: 0;
+    }
+    .tag_list h5 a
+    {
+        color: #47381C;
+    }
+    .classify
+    {
+        margin: 10px 0;
+        padding: 4px 12px 8px;
+    }
+    .classify a
+    {
+        margin-right: 20px;
+        white-space: nowrap;
+    }
+</style>
+<div class="tag_list">
+    <h5>
+        <a href="http://www.csdn.net/tag/" target="_blank">核心技术类目</a></h5>
+    <div class="classify">
+<a title="全部主题" href="http://www.csdn.net/tag" target="_blank" onclick="LogClickCount(this,336);">全部主题</a>
+<a title="Java" href="http://www.csdn.net/tag/Java" target="_blank" onclick="LogClickCount(this,336);">Java</a>
+<a title="VPN" href="http://www.csdn.net/tag/vpn" target="_blank" onclick="LogClickCount(this,336);">VPN</a>
+<a title="Android" href="http://www.csdn.net/tag/android" target="_blank" onclick="LogClickCount(this,336);">Android</a>
+<a title="iOS" href="http://www.csdn.net/tag/ios" target="_blank" onclick="LogClickCount(this,336);">iOS</a>
+<a title="ERP" href="http://www.csdn.net/tag/erp" target="_blank" onclick="LogClickCount(this,336);">ERP</a>
+<a title="IE10" href="http://www.csdn.net/tag/ie10" target="_blank" onclick="LogClickCount(this,336);">IE10</a>
+<a title="Eclipse" href="http://www.csdn.net/tag/eclipse" target="_blank" onclick="LogClickCount(this,336);">Eclipse</a>
+<a title="CRM" href="http://www.csdn.net/tag/crm" target="_blank" onclick="LogClickCount(this,336);">CRM</a>
+<a title="JavaScript" href="http://www.csdn.net/tag/javascript" target="_blank" onclick="LogClickCount(this,336);">JavaScript</a>
+<a title="Ubuntu" href="http://www.csdn.net/tag/ubuntu" target="_blank" onclick="LogClickCount(this,336);">Ubuntu</a>
+<a title="NFC" href="http://www.csdn.net/tag/nfc" target="_blank" onclick="LogClickCount(this,336);">NFC</a>
+<a title="WAP" href="http://www.csdn.net/tag/wap" target="_blank" onclick="LogClickCount(this,336);">WAP</a>
+<a title="jQuery" href="http://www.csdn.net/tag/jquery" target="_blank" onclick="LogClickCount(this,336);">jQuery</a>
+<a title="数据库" href="http://www.csdn.net/tag/数据库" target="_blank" onclick="LogClickCount(this,336);">数据库</a>
+<a title="BI" href="http://www.csdn.net/tag/bi" target="_blank" onclick="LogClickCount(this,336);">BI</a>
+<a title="HTML5" href="http://www.csdn.net/tag/html5" target="_blank" onclick="LogClickCount(this,336);">HTML5</a>
+<a title="Spring" href="http://www.csdn.net/tag/spring" target="_blank" onclick="LogClickCount(this,336);">Spring</a>
+<a title="Apache" href="http://www.csdn.net/tag/apache" target="_blank" onclick="LogClickCount(this,336);">Apache</a>
+<a title="Hadoop" href="http://www.csdn.net/tag/hadoop" target="_blank" onclick="LogClickCount(this,336);">Hadoop</a>
+<a title=".NET" href="http://www.csdn.net/tag/.net" target="_blank" onclick="LogClickCount(this,336);">.NET</a>
+<a title="API" href="http://www.csdn.net/tag/api" target="_blank" onclick="LogClickCount(this,336);">API</a>
+<a title="HTML" href="http://www.csdn.net/tag/html" target="_blank" onclick="LogClickCount(this,336);">HTML</a>
+<a title="SDK" href="http://www.csdn.net/tag/sdk" target="_blank" onclick="LogClickCount(this,336);">SDK</a>
+<a title="IIS" href="http://www.csdn.net/tag/iis" target="_blank" onclick="LogClickCount(this,336);">IIS</a>
+<a title="Fedora" href="http://www.csdn.net/tag/fedora" target="_blank" onclick="LogClickCount(this,336);">Fedora</a>
+<a title="XML" href="http://www.csdn.net/tag/xml" target="_blank" onclick="LogClickCount(this,336);">XML</a>
+<a title="LBS" href="http://www.csdn.net/tag/lbs" target="_blank" onclick="LogClickCount(this,336);">LBS</a>
+<a title="Unity" href="http://www.csdn.net/tag/unity" target="_blank" onclick="LogClickCount(this,336);">Unity</a>
+<a title="Splashtop" href="http://www.csdn.net/tag/splashtop" target="_blank" onclick="LogClickCount(this,336);">Splashtop</a>
+<a title="UML" href="http://www.csdn.net/tag/uml" target="_blank" onclick="LogClickCount(this,336);">UML</a>
+<a title="components" href="http://www.csdn.net/tag/components" target="_blank" onclick="LogClickCount(this,336);">components</a>
+<a title="Windows Mobile" href="http://www.csdn.net/tag/windowsmobile" target="_blank" onclick="LogClickCount(this,336);">Windows Mobile</a>
+<a title="Rails" href="http://www.csdn.net/tag/rails" target="_blank" onclick="LogClickCount(this,336);">Rails</a>
+<a title="QEMU" href="http://www.csdn.net/tag/qemu" target="_blank" onclick="LogClickCount(this,336);">QEMU</a>
+<a title="KDE" href="http://www.csdn.net/tag/kde" target="_blank" onclick="LogClickCount(this,336);">KDE</a>
+<a title="Cassandra" href="http://www.csdn.net/tag/cassandra" target="_blank" onclick="LogClickCount(this,336);">Cassandra</a>
+<a title="CloudStack" href="http://www.csdn.net/tag/cloudstack" target="_blank" onclick="LogClickCount(this,336);">CloudStack</a>
+<a title="FTC" href="http://www.csdn.net/tag/ftc" target="_blank" onclick="LogClickCount(this,336);">FTC</a>
+<a title="coremail" href="http://www.csdn.net/tag/coremail" target="_blank" onclick="LogClickCount(this,336);">coremail</a>
+<a title="OPhone " href="http://www.csdn.net/tag/ophone " target="_blank" onclick="LogClickCount(this,336);">OPhone </a>
+<a title="CouchBase" href="http://www.csdn.net/tag/couchbase" target="_blank" onclick="LogClickCount(this,336);">CouchBase</a>
+<a title="云计算" href="http://www.csdn.net/tag/云计算" target="_blank" onclick="LogClickCount(this,336);">云计算</a>
+<a title="iOS6" href="http://www.csdn.net/tag/iOS6" target="_blank" onclick="LogClickCount(this,336);">iOS6</a>
+<a title="Rackspace " href="http://www.csdn.net/tag/rackspace " target="_blank" onclick="LogClickCount(this,336);">Rackspace </a>
+<a title="Web App" href="http://www.csdn.net/tag/webapp" target="_blank" onclick="LogClickCount(this,336);">Web App</a>
+<a title="SpringSide" href="http://www.csdn.net/tag/springside" target="_blank" onclick="LogClickCount(this,336);">SpringSide</a>
+<a title="Maemo" href="http://www.csdn.net/tag/maemo" target="_blank" onclick="LogClickCount(this,336);">Maemo</a>
+<a title="Compuware" href="http://www.csdn.net/tag/compuware" target="_blank" onclick="LogClickCount(this,336);">Compuware</a>
+<a title="大数据" href="http://www.csdn.net/tag/大数据" target="_blank" onclick="LogClickCount(this,336);">大数据</a>
+<a title="aptech" href="http://www.csdn.net/tag/aptech" target="_blank" onclick="LogClickCount(this,336);">aptech</a>
+<a title="Perl" href="http://www.csdn.net/tag/perl" target="_blank" onclick="LogClickCount(this,336);">Perl</a>
+<a title="Tornado" href="http://www.csdn.net/tag/tornado" target="_blank" onclick="LogClickCount(this,336);">Tornado</a>
+<a title="Ruby" href="http://www.csdn.net/tag/ruby" target="_blank" onclick="LogClickCount(this,336);">Ruby</a>
+<a title="Hibernate" href="http://www.csdn.net/hibernate" target="_blank" onclick="LogClickCount(this,336);">Hibernate</a>
+<a title="ThinkPHP" href="http://www.csdn.net/tag/thinkphp" target="_blank" onclick="LogClickCount(this,336);">ThinkPHP</a>
+<a title="Spark" href="http://www.csdn.net/tag/spark" target="_blank" onclick="LogClickCount(this,336);">Spark</a>
+<a title="HBase" href="http://www.csdn.net/tag/hbase" target="_blank" onclick="LogClickCount(this,336);">HBase</a>
+<a title="Pure" href="http://www.csdn.net/tag/pure" target="_blank" onclick="LogClickCount(this,336);">Pure</a>
+<a title="Solr" href="http://www.csdn.net/tag/solr" target="_blank" onclick="LogClickCount(this,336);">Solr</a>
+<a title="Angular" href="http://www.csdn.net/tag/angular" target="_blank" onclick="LogClickCount(this,336);">Angular</a>
+<a title="Cloud Foundry" href="http://www.csdn.net/tag/cloudfoundry" target="_blank" onclick="LogClickCount(this,336);">Cloud Foundry</a>
+<a title="Redis" href="http://www.csdn.net/tag/redis" target="_blank" onclick="LogClickCount(this,336);">Redis</a>
+<a title="Scala" href="http://www.csdn.net/tag/scala" target="_blank" onclick="LogClickCount(this,336);">Scala</a>
+<a title="Django" href="http://www.csdn.net/tag/django" target="_blank" onclick="LogClickCount(this,336);">Django</a>
+<a title="Bootstrap" href="http://www.csdn.net/tag/bootstrap" target="_blank" onclick="LogClickCount(this,336);">Bootstrap</a>
+    </div>
+</div>
+
+                    <div class="clear">
+                    </div>
+                </div>
+            </div>
+            <div id="side">
+    <div class="side">
+<div id="panel_Profile" class="panel">
+<ul class="panel_head"><span>个人资料</span></ul>
+<ul class="panel_body profile">
+<div id="blog_userface">
+    <a href="http://my.csdn.net/nevasun" target="_blank">
+    <img src="http://avatar.csdn.net/9/0/6/1_nevasun.jpg" title="访问我的空间" style="max-width:90%"/>
+    </a>
+    <br />
+    <span><a href="http://my.csdn.net/nevasun" class="user_name" target="_blank">nevasun</a></span>
+</div>
+<div class="interact">
+<a href="javascript:void(0);" class="attent" id="span_add_follow" title="[加关注]" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_guanzhu'])"></a>
+<a href="javascript:void(0);" class="letter" onclick="loginto(1)" title="[发私信]" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_sixin'])"></a>
+</div>
+<div id="blog_medal">
+</div>
+<ul id="blog_rank">
+    <li>访问：<span>55015次</span></li>
+    <li>积分：<span>1122分</span></li>
+    <li>排名：<span>第12203名</span></li>
+</ul>
+<ul id="blog_statistics">
+    <li>原创：<span>55篇</span></li>
+    <li>转载：<span>16篇</span></li>
+    <li>译文：<span>0篇</span></li>
+    <li>评论：<span>25条</span></li>
+</ul>
+</ul>
+</div>
+
+
+<div class="panel" id="panel_Search">
+    <ul class="panel_head"><span>文章搜索</span></ul>
+    <ul class="panel_body">
+        <form id="frmSearch" action="http://so.csdn.net/search" class="form_search" target="_blank">
+        <span><input id="inputSearch" type="text" class="blogsearch" title="请输入关键字" /></span>
+        <input id="btnSubmit" type="submit" value="搜索" title="search in blog" />
+        <input type="hidden" name="q" id="inputQ" />
+        <input type="hidden" name="t" value="blog" />
+        <a id="btnSearchBlog" target="_blank"></a>
+        </form>
+    </ul>
+</div><div id="panel_Category" class="panel">
+<ul class="panel_head"><span>文章分类</span></ul>
+<ul class="panel_body">
+             <li>
+                <a href="http://blog.csdn.net/nevasun/article/category/745120" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">Linux系统管理</a><span>(25)</span>
+            </li>
+             <li>
+                <a href="http://blog.csdn.net/nevasun/article/category/930557" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">编程语言C/Python</a><span>(22)</span>
+            </li>
+             <li>
+                <a href="http://blog.csdn.net/nevasun/article/category/930558" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">编程之美</a><span>(16)</span>
+            </li>
+             <li>
+                <a href="http://blog.csdn.net/nevasun/article/category/763155" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">网络技术&#183;移动通信</a><span>(9)</span>
+            </li>
+             <li>
+                <a href="http://blog.csdn.net/nevasun/article/category/745121" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">随想&#183;转载</a><span>(8)</span>
+            </li>
+</ul>
+</div><div id="panel_Archive" class="panel">
+<ul class="panel_head"><span>文章存档</span></ul>
+<ul class="panel_body">
+<div id="archive_list">
+<!--归档统计-->
+<li><a href="http://blog.csdn.net/nevasun/article/month/2012/07">2012年07月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/06">2012年06月</a><span>(7)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/05">2012年05月</a><span>(4)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/04">2012年04月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/03">2012年03月</a><span>(8)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/02">2012年02月</a><span>(7)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/01">2012年01月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/12">2011年12月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/11">2011年11月</a><span>(7)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/10">2011年10月</a><span>(8)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/09">2011年09月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/08">2011年08月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/06">2011年06月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/05">2011年05月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/04">2011年04月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/03">2011年03月</a><span>(3)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/01">2011年01月</a><span>(3)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2010/12">2010年12月</a><span>(6)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2010/11">2010年11月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2010/10">2010年10月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2010/08">2010年08月</a><span>(2)</span></li>
+</div>
+</ul>
+</div>
+<div id="hotarticls" class="panel">
+<ul class="panel_head"><span>阅读排行</span></ul>
+<ul class="panel_body itemlist">
+<li>
+<a href="/nevasun/article/details/7292222" title="Linux下文件名乱码的解决方法">Linux下文件名乱码的解决方法</a><span>(5026)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/6268332" title="ubuntu下用apt-get是总是出现0% [正在等待报头]">ubuntu下用apt-get是总是出现0% [正在等待报头]</a><span>(3286)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/7282421" title="Windows定时器学习">Windows定时器学习</a><span>(3209)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/7331644" title="Python抓取中文网页">Python抓取中文网页</a><span>(2696)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/7672506" title="MySQL登陆问题总结">MySQL登陆问题总结</a><span>(1952)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/7004355" title="UNIX环境中Real time, User time and Sys time">UNIX环境中Real time, User time and Sys time</a><span>(1594)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/6732141" title="VC6.0下打开文件失败的解决方法">VC6.0下打开文件失败的解决方法</a><span>(1542)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/7271925" title="安装mplayer后没有声音解决方法">安装mplayer后没有声音解决方法</a><span>(1240)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/6901641" title="C中#define和inline的区别">C中#define和inline的区别</a><span>(1220)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/7784751" title="微软2012暑期实习笔试题（附答案）">微软2012暑期实习笔试题（附答案）</a><span>(1174)</span>
+</li>
+</ul>
+</div>
+<div id="hotarticls2" class="panel">
+<ul class="panel_head"><span>评论排行</span></ul>
+<ul class="panel_body itemlist">
+<li>
+<a href="/nevasun/article/details/7450675" title="腾讯笔试题">腾讯笔试题</a><span>(8)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/6222308" title="Windows控制CPU使用率曲线">Windows控制CPU使用率曲线</a><span>(2)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/6386351" title="更改Windows背景颜色后VA高亮消失的解决方案">更改Windows背景颜色后VA高亮消失的解决方案</a><span>(2)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/6995584" title="一道面试题——四人喝酒的问题">一道面试题——四人喝酒的问题</a><span>(2)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/6096493" title="i++和++i的效率问题">i++和++i的效率问题</a><span>(2)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/7331644" title="Python抓取中文网页">Python抓取中文网页</a><span>(1)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/7407187" title="Visual Studio 2008不能打开工程的解决办法">Visual Studio 2008不能打开工程的解决办法</a><span>(1)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/6732141" title="VC6.0下打开文件失败的解决方法">VC6.0下打开文件失败的解决方法</a><span>(1)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/6268332" title="ubuntu下用apt-get是总是出现0% [正在等待报头]">ubuntu下用apt-get是总是出现0% [正在等待报头]</a><span>(1)</span>
+</li>
+<li>
+<a href="/nevasun/article/details/7198057" title="Vim使用技巧">Vim使用技巧</a><span>(1)</span>
+</li>
+</ul>
+</div>
+<div id="homepageArticles" class="panel tracking-ad" data-mod="popu_4">
+<ul class="panel_head"><span>推荐文章</span></ul>
+<ul class="panel_body" id="ad_commend"></ul>
+</div>
+<script type="text/javascript">
+ new Ad(12, 'ad_commend');
+</script><div id="newcomments" class="panel">
+<ul class="panel_head"><span>最新评论</span></ul>
+<ul class="panel_body itemlist">
+    <li>
+    <a href="/nevasun/article/details/7701942#comments">面试题：用一个临时变量实现单链表逆序</a>
+    <p style="margin:0px;"><a href="/swagle" class="user_name">swagle</a>:
+ListNode* reverseList(ListNode* pHead){        if(...
+    </p>
+    </li>
+    <li>
+    <a href="/nevasun/article/details/6268332#comments">ubuntu下用apt-get是总是出现0% [正在等待报头]</a>
+    <p style="margin:0px;"><a href="/xww810319" class="user_name">xww810319</a>:
+我困扰这个问题好几天了，终于按照你的方法解决了，谢谢分享呀。
+    </p>
+    </li>
+    <li>
+    <a href="/nevasun/article/details/7181373#comments">C语言断点调试和编译问题总结</a>
+    <p style="margin:0px;"><a href="/danfeng105" class="user_name">danfeng105</a>:
+不错！
+    </p>
+    </li>
+    <li>
+    <a href="/nevasun/article/details/7407187#comments">Visual Studio 2008不能打开工程的解决办法</a>
+    <p style="margin:0px;"><a href="/zenithward5" class="user_name">zenithward5</a>:
+楼主太感谢啦！折腾了好久的打不开项目就这么解决了！
+    </p>
+    </li>
+    <li>
+    <a href="/nevasun/article/details/6096493#comments">i++和++i的效率问题</a>
+    <p style="margin:0px;"><a href="/IEEEhuiyuan" class="user_name">IEEEhuiyuan</a>:
+1楼正解！
+    </p>
+    </li>
+    <li>
+    <a href="/nevasun/article/details/6096493#comments">i++和++i的效率问题</a>
+    <p style="margin:0px;"><a href="/suncuigang" class="user_name">suncuigang</a>:
+在内建数据类型的情况下，效率没有区别；在自定义数据类型的情况下，++i效率更高!
+    </p>
+    </li>
+    <li>
+    <a href="/nevasun/article/details/6386351#comments">更改Windows背景颜色后VA高亮消失的解决方案</a>
+    <p style="margin:0px;"><a href="/dongpy" class="user_name">dongpy</a>:
+方法不错，赞一个
+    </p>
+    </li>
+    <li>
+    <a href="/nevasun/article/details/6386351#comments">更改Windows背景颜色后VA高亮消失的解决方案</a>
+    <p style="margin:0px;"><a href="/mail_cm" class="user_name">mail_cm</a>:
+我Reset All之后 代码还都是黑色的，VA的高亮色还是都没有，其他功能都正常？
+    </p>
+    </li>
+    <li>
+    <a href="/nevasun/article/details/6732141#comments">VC6.0下打开文件失败的解决方法</a>
+    <p style="margin:0px;"><a href="/jiftlixu" class="user_name">jiftlixu</a>:
+遇到这个问题 office2010
+    </p>
+    </li>
+    <li>
+    <a href="/nevasun/article/details/7331644#comments">Python抓取中文网页</a>
+    <p style="margin:0px;"><a href="/guangmingwencheng" class="user_name">guangmingwencheng</a>:
+nice
+    </p>
+    </li>
+</ul>
+</div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+            <div class="clear">
+            </div>
+        </div>
+        
+
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/newblog.min.js"></script>
+<script type="text/javascript" src="http://medal.blog.csdn.net/showblogmedal.ashx?blogid=899796"></script>
+<script type="text/javascript">
+    document.write('<script type="text/javascript" src="http://csdnimg.cn/pubfooter/js/publib_footer.js?' + Math.floor(new Date() / 120000).toString(36) + '="></' + 'script>');
+</script>
+    <script type="text/javascript" src="http://passport.csdn.net/content/loginbox/login.js"></script>
+<script type="text/javascript">document.write("<img src=http://counter.csdn.net/pv.aspx?id=24 border=0 width=0 height=0>");</script>
+<script type="text/javascript" src="http://www.csdn.net/ui/scripts/Csdn/counter.js"></script>
+<script type="text/javascript" src="http://ad.csdn.net/scripts/ad-blog.js"></script>
+<script type="text/javascript" src="http://zz.csdn.net/js/count.js"></script>
+<script type="text/javascript">
+    $(function () {
+        function __get_code_toolbar(snippet_id) {
+            return $("<a href='https://code.csdn.net/snippets/"
+                    + snippet_id
+                    + "' target='_blank' title='在CODE上查看代码片' style='text-indent:0;'><img src='https://code.csdn.net/assets/CODE_ico.png' width=12 height=12 alt='在CODE上查看代码片' style='position:relative;top:1px;left:2px;'/></a>"
+                    + "<a href='https://code.csdn.net/snippets/"
+                    + snippet_id
+                    + "/fork' target='_blank' title='派生到我的代码片'  style='text-indent:0;'><img src='https://code.csdn.net/assets/ico_fork.svg' width=12 height=12 alt='派生到我的代码片' style='position:relative;top:2px;left:2px;'/></a>");
+        }
+        
+        $("[code_snippet_id]").each(function () {
+            __s_id = $(this).attr("code_snippet_id");
+            if (__s_id != null && __s_id != "" && __s_id != 0 && parseInt(__s_id) > 70020) {
+                __code_tool = __get_code_toolbar(__s_id);
+                $(this).prev().find(".tools").append(__code_tool);
+            }
+        });
+    });
+</script>
+
+    </div>
+      <!--new top-->
+    
+    <script id="csdn-toolbar-id" btnId="header_notice_num" wrapId="note1" count="5" subCount="5" type="text/javascript" src="http://static.csdn.net/public/common/toolbar/js/toolbar.js"></script>     <!--new top-->
+</body>
+</html>
