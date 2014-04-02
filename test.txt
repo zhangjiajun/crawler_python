@@ -1,648 +1,1847 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
- 
-<html xmlns="http://www.w3.org/1999/xhtml">
+http://tech.sina.com.cn/z/sinawap/
+http://m.sina.com.cn/m/weibo.shtml
+http://m.sina.com.cn/m/sinahome.shtml
+http://m.sina.com.cn/m/sinasports.shtml
+http://m.sina.com.cn/m/finance.html
+http://m.sina.com.cn/m/weather.shtml
+http://m.sina.com.cn/m/sinabook.shtml
+http://blog.sina.com.cn
+http://mail.sina.com.cn
+http://news.sina.com.cn/guide/
+http://sina.com.cn
+http://news.sina.com.cn/z/wljbxz/
+http://news.sina.com.cn/
+http://mil.news.sina.com.cn
+http://news.sina.com.cn/society/
+http://finance.sina.com.cn/
+http://finance.sina.com.cn/stock/
+http://finance.sina.com.cn/fund/
+http://tech.sina.com.cn/
+http://mobile.sina.com.cn/
+http://tech.sina.com.cn/discovery/
+http://sports.sina.com.cn/
+http://sports.sina.com.cn/g/premierleague/
+http://sports.sina.com.cn/nba/
+http://ent.sina.com.cn/
+http://ent.sina.com.cn/star/
+http://astro.sina.com.cn/
+http://auto.sina.com.cn/
+http://dealer.auto.sina.com.cn/price/
+http://data.auto.sina.com.cn/
+http://blog.sina.com.cn/
+http://zhuanlan.sina.com.cn/
+http://weather.news.sina.com.cn/
+http://video.sina.com.cn/
+http://video.sina.com.cn/movie/zongyi/
+http://baby.sina.com.cn/
+http://house.sina.com.cn/
+http://esf.sina.com.cn/
+http://jiaju.sina.com.cn/
+http://book.sina.com.cn/
+http://history.sina.com.cn/
+http://photo.sina.com.cn/
+http://edu.sina.com.cn/
+http://health.sina.com.cn/
+http://zhongyi.sina.com.cn/
+http://fashion.sina.com.cn/
+http://eladies.sina.com.cn/
+http://collection.sina.com.cn/
+http://city.sina.com.cn/
+http://gd.sina.com.cn/
+http://sh.sina.com.cn/
+http://travel.sina.com.cn/
+http://sky.news.sina.com.cn/
+http://edu.sina.com.cn/a/
+http://bbs.sina.com.cn/
+http://ok.sina.com.cn/
+http://show.sina.com.cn/
+http://games.sina.com.cn/
+http://qipai.sina.com.cn/
+http://wanwan.sina.com.cn/
+http://fo.sina.com.cn/
+http://golf.sina.com.cn/
+http://lottery.sina.com.cn/
+http://app.sina.com.cn/?f=p_dh&w=p_dh
+http://app.sina.com.cn/installs.php?f=p_dh&w=p_dh
+http://app.sina.com.cn/game_index.php?f=p_dh&w=p_dh
+http://search.sina.com.cn/
+http://m.sina.com.cn/
+http://help.sina.com.cn/index.php
+http://mail.sina.com.cn/
+http://gongyi.sina.com.cn/
+http://news.sina.com.cn/guide/
+http://m.sina.com.cn/
+http://m.sina.com.cn/m/finance.html
+http://m.sina.com.cn/m/sinahome.shtml
+http://m.sina.com.cn/m/sinasports.shtml
+http://m.sina.com.cn/m/sinabook.shtml
+http://m.sina.com.cn/m/weibo.shtml
+http://sina.allyes.com/main/adfclick?db=sina&bid=621513,690155,695421&cid=0,0,0&sid=700764&advid=9318&camid=110541&show=ignore&url=http://edu.sina.com.cn/kaoyan/kybd/
+http://video.sina.com.cn/
+http://video.sina.com.cn/movie/zongyi/
+http://photo.sina.com.cn/
+http://finance.sina.com.cn/focus/3rdlingnanforum/
 
-<head>
-    <title>Python抓取中文网页 - nevasun的专栏
-        - 博客频道 - CSDN.NET</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="早就有想法把博客每天的访问流量记下来，刚好现在申请了GAE的应用，又开始学Python，正好拿这个练手。打算先利用Python把访问记录保存在本地，熟悉之后可以部署到GAE，利用GAE提供的cron就可以每天更近访问流量了。OK，开始~首先是简单的网页抓取程序：import sys, urllib2req = urllib2.Request(http://blog.csdn.net/" />
-    <script src="http://static.blog.csdn.net/scripts/jquery.js" type="text/javascript"></script>
-    <script type="text/javascript" src="http://static.blog.csdn.net/scripts/ad.js?v=1.1"></script>
-        <!--new top-->
-               <link rel="stylesheet" href="http://static.csdn.net/public/common/toolbar/css/index.css">        <!--new top-->
-
-    <link rel="Stylesheet" type="text/css" href="http://static.blog.csdn.net/skin/default/css/style.css?v=1.1" />
-    <link id="RSSLink" title="RSS" type="application/rss+xml" rel="alternate" href="/nevasun/rss/list" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link type="text/css" rel="stylesheet" href="http://static.blog.csdn.net/scripts/SyntaxHighlighter/styles/default.css" />
- 
-
-</head>
-<body>
-    
-   
-      <!--new top-->
-    <script id="toolbar-tpl-scriptId" fixed="true" prod="blog" skin="black" src="http://static.csdn.net/public/common/toolbar/js/html.js" type="text/javascript"></script>
-     <!--new top-->
-    <div id="container">
-        <div id="header">
-    <div class="header">
-        <div id="blog_title">
-            <h2>
-                <a href="http://blog.csdn.net/nevasun">nevasun的专栏</a></h2>
-            <h3></h3>
-            <div class="clear">
-            </div>
-        </div>
-        <div class="clear">
-        </div>
-    </div>
-</div>
-<div id="navigator">
-    <div class="navigator_bg">
-    </div>
-    <div class="navigator">
-        <ul>
-                <li id="btnContents"><a href="http://blog.csdn.net/nevasun?viewmode=contents"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_mulu'])">
-                    <img src="http://static.blog.csdn.net/images/ico_list.gif">目录视图</span></a></li>
-                <li id="btnView"><a href="http://blog.csdn.net/nevasun?viewmode=list"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_zhaiyao'])">
-                    <img src="http://static.blog.csdn.net/images/ico_summary.gif">摘要视图</span></a></li>
-                <li id="btnRss"><a href="http://blog.csdn.net/nevasun/rss/list"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_RSS'])">
-                    <img src="http://static.blog.csdn.net/images/ico_rss.gif">订阅</span></a></li>
-</ul>
-    </div>
-</div>
-<script type="text/javascript">
-    var username = "nevasun";
-    var _blogger = username;
-    var blog_address = "http://blog.csdn.net/nevasun";
-    var static_host = "http://static.blog.csdn.net";
-    var currentUserName = "";
-</script>
-
-        <div id="body">
-            <div id="main">
-                <div class="main">
-<div class="notice tracking-ad" data-mod='popu_3' > 
-
-
-<a href="http://hero.csdn.net/Question/Details?ID=351&ExamID=346" target="_blank"><font color=blue>英雄会第四届在线编程大赛·线上初赛：带通配符的数
-</font></a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<a href="http://www.csdn.net/article/2014-03-18/2818827">
-<font color=red>专访王然：与历史共舞的Linux程序员</font></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<a href="http://blog.csdn.net/blogdevteam/article/details/21389277"target="_blank">
-<font color=blue>CSDN博客“我的IT成长路”活动 </font></a>
-
-
-
-
-</div>                    <link href="http://static.blog.csdn.net/css/comment1.css" type="text/css" rel="stylesheet" />
-<link href="http://static.blog.csdn.net/css/style1.css" type="text/css" rel="stylesheet" />
-<div id="article_details" class="details">
-    <div class="article_title">
-    <span class="ico ico_type_Original"></span>
-    <h1>
-        <span class="link_title"><a href="/nevasun/article/details/7331644">
-        Python抓取中文网页
-        </a></span>
-    </h1>
-</div>
-
-    <div class="article_manage">
-        <span class="link_categories">
-        分类：
-            <a href="/nevasun/article/category/930557" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_fenlei']);">编程语言C/Python</a> 
-            <a href="/nevasun/article/category/763155" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_fenlei']);">网络技术&#183;移动通信</a> 
-        </span>
-    <span class="link_postdate">2012-03-08 10:11</span>
-    <span class="link_view" title="阅读次数">2697人阅读</span>
-    <span class="link_comments" title="评论次数"><a href="#comments" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(1)</span>
-    <span class="link_collect"><a href="javascript:void(0);" onclick="javascript:_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_shoucang']);collectArticle('Python抓取中文网页','7331644');return false;" title="收藏">收藏</a></span>
-    <span class="link_report"><a href="#report"  onclick="javascript:_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_jubao']);report(7331644,2);return false;" title="举报">举报</a></span>
-    
-</div>
-<div class="tag2box"><a href='http://www.csdn.net/tag/python' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">python</a><a href='http://www.csdn.net/tag/gae' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">gae</a><a href='http://www.csdn.net/tag/windows' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">windows</a><a href='http://www.csdn.net/tag/import' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">import</a><a href='http://www.csdn.net/tag/cron' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">cron</a><a href='http://www.csdn.net/tag/%e6%b5%8f%e8%a7%88%e5%99%a8' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">浏览器</a></div>
-
-    
-<div id="article_content" class="article_content">
-
-<p>早就有想法把博客每天的访问流量记下来，刚好现在申请了GAE的应用，又开始学Python，正好拿这个练手。打算先利用Python把访问记录保存在本地，熟悉之后可以部署到GAE，利用GAE提供的cron就可以每天更近访问流量了。OK，开始~</p>
-<p>首先是简单的网页抓取程序：</p>
-<pre class="python" name="code">import sys, urllib2
-
-req = urllib2.Request(&quot;http://blog.csdn.net/nevasun&quot;)
-fd = urllib2.urlopen(req)
-while True:
-    data = fd.read(1024)
-    if not len(data):
-        break
-    sys.stdout.write(data)</pre>
-<p>在终端运行提示urllib2.HTTPError: HTTP Error 403: Forbidden<img alt="难过" src="http://static.blog.csdn.net/xheditor/xheditor_emot/default/sad.gif">，怎么回事呢？</p>
-<p>这是由于网站禁止爬虫，可以在请求加上头信息，伪装成浏览器访问。添加和修改：</p>
-<pre class="python" name="code">headers = {'User-Agent':'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6'}
-req = urllib2.Request(&quot;http://blog.csdn.net/nevasun&quot;, headers=headers)</pre>
-<p>再试一下，HTTP Error 403没有了，但是中文全都是乱码<img alt="快哭了" src="http://static.blog.csdn.net/xheditor/xheditor_emot/default/fastcry.gif">。又是怎么回事？</p>
-<p>这是由于网站是utf-8编码的，需要转换成本地系统的编码&#26684;式：</p>
-<pre class="python" name="code">import sys, urllib2
-
-
-headers = {'User-Agent':'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6'}
-req = urllib2.Request(&quot;http://blog.csdn.net/nevasun&quot;, headers=headers)
-content = urllib2.urlopen(req).read()   # UTF-8
-
-type = sys.getfilesystemencoding()      # local encode format
-print content.decode(&quot;UTF-8&quot;).encode(type)  # convert encode format</pre>
-<p>OK，大功告成，可以抓取中文页面了。下一步就是在GAE上做个简单的应用了~</p>
-
-</div>
-
-
-
-<!-- Baidu Button BEGIN -->
-<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" style="float: right;">
-<a class="bds_qzone"></a>
-<a class="bds_tsina"></a>
-<a class="bds_tqq"></a>
-<a class="bds_renren"></a>
-<a class="bds_t163"></a>
-<span class="bds_more">更多</span>
-<a class="shareCount"></a>
-</div>
-<!-- Baidu Button END -->
-
-
-<!--192.168.100.34-->
-<div class="article_next_prev">
-            <li class="prev_article"><span>上一篇：</span><a href="/nevasun/article/details/7320518" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_shangyipian'])">《编程之美》3.4扩展问题实现</a></li>
-            <li class="next_article"><span>下一篇：</span><a href="/nevasun/article/details/7335622" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_xiayipian'])">深入理解C语言的指针*和引用&amp;</a></li>
-</div>
-
-<!-- Baidu Button BEGIN -->
-<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=1536434" ></script>
-<script type="text/javascript" id="bdshell_js"></script>
-<script type="text/javascript">
-    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
-</script>
-<!-- Baidu Button END -->
-
-        <div id="digg" ArticleId="7331644">
-            <dl id="btnDigg" class="digg digg_disable">
-                <dt onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_ding'])">顶</dt>
-                <dd>1</dd>
-            </dl>
-            <dl id="btnBury" class="digg digg_disable">
-                <dt onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_cai'])">踩</dt>
-                <dd>0</dd>
-            </dl>
-        </div>
-</div>
-      <dl class="blog-associat-tag">
-        <dt>相关主题推荐</dt>
-        <dd>
-                <a href="http://www.csdn.net/tag/python" target="_blank">python</a> 
-                <a href="http://www.csdn.net/tag/浏览器" target="_blank">浏览器</a> 
-                <a href="http://www.csdn.net/tag/firefox" target="_blank">firefox</a> 
-                <a href="http://www.csdn.net/tag/mozilla" target="_blank">mozilla</a> 
-                <a href="http://www.csdn.net/tag/编码" target="_blank">编码</a> 
-        </dd>
-    </dl> 
-    <dl class="blog-ass-articl">
-        <dt>相关博文推荐</dt>
-            <dd>
-                <a href="http://blog.csdn.net/ckr815/article/details/22172069" title="python菜鸟之暴走漫画" target="_blank">python菜鸟之暴走漫画</a></dd>
-            <dd>
-                <a href="http://blog.csdn.net/shengshengwang/article/details/22166789" title="总结随笔" target="_blank">总结随笔</a></dd>
-            <dd>
-                <a href="http://blog.csdn.net/muyuxiaozi/article/details/22174421" title="Python PIL学习笔记" target="_blank">Python PIL学习笔记</a></dd>
-            <dd>
-                <a href="http://blog.csdn.net/hunter_hb/article/details/22166757" title="python2.7 import error no module named yaml &#183;问题" target="_blank">python2.7 import err...</a></dd>
-            <dd>
-                <a href="http://blog.csdn.net/muroachanf/article/details/22166337" title="python调用windows下的com组件" target="_blank">python调用windows下的com...</a></dd>
-            <dd>
-                <a href="http://blog.csdn.net/langlang2671/article/details/22166765" title="urllib2.HTTPError: HTTP Error 403: Forbidden 错误" target="_blank">urllib2.HTTPError: H...</a></dd>
-            <dd>
-                <a href="http://blog.csdn.net/yangtzerong/article/details/22164115" title="eclipse安装pydev不成功" target="_blank">eclipse安装pydev不成功</a></dd>
-            <dd>
-                <a href="http://blog.csdn.net/trochiluses/article/details/22165727" title="python GUI编程——Scrollbar&amp;&amp;Listbox" target="_blank">python GUI编程——Scroll...</a></dd>
-    </dl>
-
-    <div id="ad_cen">
-        <script type="text/javascript">            BAIDU_CLB_SLOT_ID = "117306";</script>
-        <script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>
-    </div>
-    <script type="text/javascript">
-        //new Ad(4, 'ad_cen');
-    </script>
-<div id="comment_title" class="panel_head">
-    查看评论<a name="comments"></a></div>
-<div id="comment_list">
-</div>
-<div id="comment_bar">
-</div>
-<div id="comment_form">
-</div>
-<div class="announce">
-    * 以上用户言论只代表其个人观点，不代表CSDN网站的观点或立场<a name="reply"></a><a name="quote"></a></div>
-<script type="text/javascript">
-    var fileName = '7331644';
-    var commentscount = 1;
-    var islock = false
-</script>
-<script type="text/javascript" src="http://static.blog.csdn.net/scripts/comment.js"></script>
-    <div id="ad_bot">
-    </div>
-    <script type="text/javascript">
-    new Ad(5, 'ad_bot');
-    </script>
-<div id="report_dialog">
-</div>
-<div id="d-top" style="display: none;">
-    <a id="d-top-a" href="#" title="回到顶部" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_huidaodingbu'])">
-        <img src="http://static.blog.csdn.net/images/top.png" alt="TOP" /></a>
-</div>
-<script type="text/javascript">
-    $(function ()
-    {
-        var d_top = $('#d-top');
-        document.onscroll = function ()
-        {
-            var scrTop = (document.body.scrollTop || document.documentElement.scrollTop);
-            if (scrTop > 500)
-            {
-                d_top.show();
-            } else
-            {
-                d_top.hide();
-            }
-        }
-        $('#d-top-a').click(function ()
-        {
-            scrollTo(0, 0);
-            this.blur();
-            return false;
-        });
-    });
-  
-</script>
-<style type="text/css">
-    .tag_list
-    {
-        background: none repeat scroll 0 0 #FFFFFF;
-        border: 1px solid #D7CBC1;
-        color: #000000;
-        font-size: 12px;
-        line-height: 20px;
-        list-style: none outside none;
-        margin: 10px 2% 0 1%;
-        padding: 1px;
-    }
-    .tag_list h5
-    {
-        background: none repeat scroll 0 0 #E0DBD3;
-        color: #47381C;
-        font-size: 12px;
-        height: 24px;
-        line-height: 24px;
-        padding: 0 5px;
-        margin: 0;
-    }
-    .tag_list h5 a
-    {
-        color: #47381C;
-    }
-    .classify
-    {
-        margin: 10px 0;
-        padding: 4px 12px 8px;
-    }
-    .classify a
-    {
-        margin-right: 20px;
-        white-space: nowrap;
-    }
-</style>
-<div class="tag_list">
-    <h5>
-        <a href="http://www.csdn.net/tag/" target="_blank">核心技术类目</a></h5>
-    <div class="classify">
-<a title="全部主题" href="http://www.csdn.net/tag" target="_blank" onclick="LogClickCount(this,336);">全部主题</a>
-<a title="Java" href="http://www.csdn.net/tag/Java" target="_blank" onclick="LogClickCount(this,336);">Java</a>
-<a title="VPN" href="http://www.csdn.net/tag/vpn" target="_blank" onclick="LogClickCount(this,336);">VPN</a>
-<a title="Android" href="http://www.csdn.net/tag/android" target="_blank" onclick="LogClickCount(this,336);">Android</a>
-<a title="iOS" href="http://www.csdn.net/tag/ios" target="_blank" onclick="LogClickCount(this,336);">iOS</a>
-<a title="ERP" href="http://www.csdn.net/tag/erp" target="_blank" onclick="LogClickCount(this,336);">ERP</a>
-<a title="IE10" href="http://www.csdn.net/tag/ie10" target="_blank" onclick="LogClickCount(this,336);">IE10</a>
-<a title="Eclipse" href="http://www.csdn.net/tag/eclipse" target="_blank" onclick="LogClickCount(this,336);">Eclipse</a>
-<a title="CRM" href="http://www.csdn.net/tag/crm" target="_blank" onclick="LogClickCount(this,336);">CRM</a>
-<a title="JavaScript" href="http://www.csdn.net/tag/javascript" target="_blank" onclick="LogClickCount(this,336);">JavaScript</a>
-<a title="Ubuntu" href="http://www.csdn.net/tag/ubuntu" target="_blank" onclick="LogClickCount(this,336);">Ubuntu</a>
-<a title="NFC" href="http://www.csdn.net/tag/nfc" target="_blank" onclick="LogClickCount(this,336);">NFC</a>
-<a title="WAP" href="http://www.csdn.net/tag/wap" target="_blank" onclick="LogClickCount(this,336);">WAP</a>
-<a title="jQuery" href="http://www.csdn.net/tag/jquery" target="_blank" onclick="LogClickCount(this,336);">jQuery</a>
-<a title="数据库" href="http://www.csdn.net/tag/数据库" target="_blank" onclick="LogClickCount(this,336);">数据库</a>
-<a title="BI" href="http://www.csdn.net/tag/bi" target="_blank" onclick="LogClickCount(this,336);">BI</a>
-<a title="HTML5" href="http://www.csdn.net/tag/html5" target="_blank" onclick="LogClickCount(this,336);">HTML5</a>
-<a title="Spring" href="http://www.csdn.net/tag/spring" target="_blank" onclick="LogClickCount(this,336);">Spring</a>
-<a title="Apache" href="http://www.csdn.net/tag/apache" target="_blank" onclick="LogClickCount(this,336);">Apache</a>
-<a title="Hadoop" href="http://www.csdn.net/tag/hadoop" target="_blank" onclick="LogClickCount(this,336);">Hadoop</a>
-<a title=".NET" href="http://www.csdn.net/tag/.net" target="_blank" onclick="LogClickCount(this,336);">.NET</a>
-<a title="API" href="http://www.csdn.net/tag/api" target="_blank" onclick="LogClickCount(this,336);">API</a>
-<a title="HTML" href="http://www.csdn.net/tag/html" target="_blank" onclick="LogClickCount(this,336);">HTML</a>
-<a title="SDK" href="http://www.csdn.net/tag/sdk" target="_blank" onclick="LogClickCount(this,336);">SDK</a>
-<a title="IIS" href="http://www.csdn.net/tag/iis" target="_blank" onclick="LogClickCount(this,336);">IIS</a>
-<a title="Fedora" href="http://www.csdn.net/tag/fedora" target="_blank" onclick="LogClickCount(this,336);">Fedora</a>
-<a title="XML" href="http://www.csdn.net/tag/xml" target="_blank" onclick="LogClickCount(this,336);">XML</a>
-<a title="LBS" href="http://www.csdn.net/tag/lbs" target="_blank" onclick="LogClickCount(this,336);">LBS</a>
-<a title="Unity" href="http://www.csdn.net/tag/unity" target="_blank" onclick="LogClickCount(this,336);">Unity</a>
-<a title="Splashtop" href="http://www.csdn.net/tag/splashtop" target="_blank" onclick="LogClickCount(this,336);">Splashtop</a>
-<a title="UML" href="http://www.csdn.net/tag/uml" target="_blank" onclick="LogClickCount(this,336);">UML</a>
-<a title="components" href="http://www.csdn.net/tag/components" target="_blank" onclick="LogClickCount(this,336);">components</a>
-<a title="Windows Mobile" href="http://www.csdn.net/tag/windowsmobile" target="_blank" onclick="LogClickCount(this,336);">Windows Mobile</a>
-<a title="Rails" href="http://www.csdn.net/tag/rails" target="_blank" onclick="LogClickCount(this,336);">Rails</a>
-<a title="QEMU" href="http://www.csdn.net/tag/qemu" target="_blank" onclick="LogClickCount(this,336);">QEMU</a>
-<a title="KDE" href="http://www.csdn.net/tag/kde" target="_blank" onclick="LogClickCount(this,336);">KDE</a>
-<a title="Cassandra" href="http://www.csdn.net/tag/cassandra" target="_blank" onclick="LogClickCount(this,336);">Cassandra</a>
-<a title="CloudStack" href="http://www.csdn.net/tag/cloudstack" target="_blank" onclick="LogClickCount(this,336);">CloudStack</a>
-<a title="FTC" href="http://www.csdn.net/tag/ftc" target="_blank" onclick="LogClickCount(this,336);">FTC</a>
-<a title="coremail" href="http://www.csdn.net/tag/coremail" target="_blank" onclick="LogClickCount(this,336);">coremail</a>
-<a title="OPhone " href="http://www.csdn.net/tag/ophone " target="_blank" onclick="LogClickCount(this,336);">OPhone </a>
-<a title="CouchBase" href="http://www.csdn.net/tag/couchbase" target="_blank" onclick="LogClickCount(this,336);">CouchBase</a>
-<a title="云计算" href="http://www.csdn.net/tag/云计算" target="_blank" onclick="LogClickCount(this,336);">云计算</a>
-<a title="iOS6" href="http://www.csdn.net/tag/iOS6" target="_blank" onclick="LogClickCount(this,336);">iOS6</a>
-<a title="Rackspace " href="http://www.csdn.net/tag/rackspace " target="_blank" onclick="LogClickCount(this,336);">Rackspace </a>
-<a title="Web App" href="http://www.csdn.net/tag/webapp" target="_blank" onclick="LogClickCount(this,336);">Web App</a>
-<a title="SpringSide" href="http://www.csdn.net/tag/springside" target="_blank" onclick="LogClickCount(this,336);">SpringSide</a>
-<a title="Maemo" href="http://www.csdn.net/tag/maemo" target="_blank" onclick="LogClickCount(this,336);">Maemo</a>
-<a title="Compuware" href="http://www.csdn.net/tag/compuware" target="_blank" onclick="LogClickCount(this,336);">Compuware</a>
-<a title="大数据" href="http://www.csdn.net/tag/大数据" target="_blank" onclick="LogClickCount(this,336);">大数据</a>
-<a title="aptech" href="http://www.csdn.net/tag/aptech" target="_blank" onclick="LogClickCount(this,336);">aptech</a>
-<a title="Perl" href="http://www.csdn.net/tag/perl" target="_blank" onclick="LogClickCount(this,336);">Perl</a>
-<a title="Tornado" href="http://www.csdn.net/tag/tornado" target="_blank" onclick="LogClickCount(this,336);">Tornado</a>
-<a title="Ruby" href="http://www.csdn.net/tag/ruby" target="_blank" onclick="LogClickCount(this,336);">Ruby</a>
-<a title="Hibernate" href="http://www.csdn.net/hibernate" target="_blank" onclick="LogClickCount(this,336);">Hibernate</a>
-<a title="ThinkPHP" href="http://www.csdn.net/tag/thinkphp" target="_blank" onclick="LogClickCount(this,336);">ThinkPHP</a>
-<a title="Spark" href="http://www.csdn.net/tag/spark" target="_blank" onclick="LogClickCount(this,336);">Spark</a>
-<a title="HBase" href="http://www.csdn.net/tag/hbase" target="_blank" onclick="LogClickCount(this,336);">HBase</a>
-<a title="Pure" href="http://www.csdn.net/tag/pure" target="_blank" onclick="LogClickCount(this,336);">Pure</a>
-<a title="Solr" href="http://www.csdn.net/tag/solr" target="_blank" onclick="LogClickCount(this,336);">Solr</a>
-<a title="Angular" href="http://www.csdn.net/tag/angular" target="_blank" onclick="LogClickCount(this,336);">Angular</a>
-<a title="Cloud Foundry" href="http://www.csdn.net/tag/cloudfoundry" target="_blank" onclick="LogClickCount(this,336);">Cloud Foundry</a>
-<a title="Redis" href="http://www.csdn.net/tag/redis" target="_blank" onclick="LogClickCount(this,336);">Redis</a>
-<a title="Scala" href="http://www.csdn.net/tag/scala" target="_blank" onclick="LogClickCount(this,336);">Scala</a>
-<a title="Django" href="http://www.csdn.net/tag/django" target="_blank" onclick="LogClickCount(this,336);">Django</a>
-<a title="Bootstrap" href="http://www.csdn.net/tag/bootstrap" target="_blank" onclick="LogClickCount(this,336);">Bootstrap</a>
-    </div>
-</div>
-
-                    <div class="clear">
-                    </div>
-                </div>
-            </div>
-            <div id="side">
-    <div class="side">
-<div id="panel_Profile" class="panel">
-<ul class="panel_head"><span>个人资料</span></ul>
-<ul class="panel_body profile">
-<div id="blog_userface">
-    <a href="http://my.csdn.net/nevasun" target="_blank">
-    <img src="http://avatar.csdn.net/9/0/6/1_nevasun.jpg" title="访问我的空间" style="max-width:90%"/>
-    </a>
-    <br />
-    <span><a href="http://my.csdn.net/nevasun" class="user_name" target="_blank">nevasun</a></span>
-</div>
-<div class="interact">
-<a href="javascript:void(0);" class="attent" id="span_add_follow" title="[加关注]" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_guanzhu'])"></a>
-<a href="javascript:void(0);" class="letter" onclick="loginto(1)" title="[发私信]" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_sixin'])"></a>
-</div>
-<div id="blog_medal">
-</div>
-<ul id="blog_rank">
-    <li>访问：<span>55015次</span></li>
-    <li>积分：<span>1122分</span></li>
-    <li>排名：<span>第12203名</span></li>
-</ul>
-<ul id="blog_statistics">
-    <li>原创：<span>55篇</span></li>
-    <li>转载：<span>16篇</span></li>
-    <li>译文：<span>0篇</span></li>
-    <li>评论：<span>25条</span></li>
-</ul>
-</ul>
-</div>
+http://video.sina.com.cn/news/#1-1-129967182-1
+http://video.sina.com.cn/news?opsubject_id=top1
+http://video.sina.com.cn/news/#1-1-129992268-1
+http://video.sina.com.cn/vlist/news/zt/topvideoes20140402/?opsubject_id=top1#130022133
+http://video.sina.com.cn/vlist/news/zt/topvideoes20140402/?opsubject_id=top1#129963508
+http://video.sina.com.cn/vlist/news/zt/topvideoes20140402/?opsubject_id=top1#129991259
+http://video.sina.com.cn/vlist/news/zt/topvideoes20140402/?opsubject_id=top1#129957346
+http://video.sina.com.cn/vlist/news/zt/topvideoes20140402/?opsubject_id=top1#129986156
+http://video.sina.com.cn/vlist/news/zt/topvideoes20140402/?opsubject_id=top1#130011758
+http://video.sina.com.cn/vlist/news/zt/zlxbyhdz/?opsubject_id=top1#129990045
+http://video.sina.com.cn/vlist/news/zt/zlxbyhdz/?opsubject_id=top1#129993980
+http://sports.sina.com.cn/video/g/all/2014-04-02/123/
+http://sports.sina.com.cn/nba/video/#129995196
+http://sports.sina.com.cn/nba/video/#129998979
+http://video.sina.com.cn/z/sports/nba/jiongtime/#130013198
+http://video.sina.com.cn/z/sports/k/nba/140402porlal/
+http://video.sina.com.cn/p/sports/k/v/2014-04-02/092563690875.html
+http://video.sina.com.cn/z/sports/k/nba/14marchtop10/#129984528
+http://video.sina.com.cn/z/sports/nba/officialbest/2014-04-02/#130008842
+http://sports.sina.com.cn/video/c/j/afccl/
+http://sports.sina.com.cn/video/g/ucl/match/1314/9/Barca_ATM/
+http://sports.sina.com.cn/video/g/ucl/match/1314/9/Barca_ATM/#129981443
+http://video.sina.com.cn/ent/
+http://ent.sina.com.cn/f/cwzcgydbzb/video/#129986499
+http://ent.sina.com.cn/f/cwzcgydbzb/video/#130008192
+http://ent.sina.com.cn/bn/entreport/#129997397
+http://ent.sina.com.cn/bn/entreport/#129990970
+http://ent.sina.com.cn/bn/entreport/#129992442
+http://ent.sina.com.cn/bn/entreport/#129992713
+http://video.sina.com.cn/gaoxiao/
+http://video.sina.com.cn/gaoxiao/
+http://video.sina.com.cn/talkshow/
+http://video.sina.com.cn/talkshow/
+http://video.sina.com.cn/meipin/#123045086
+http://video.sina.com.cn/vlist/news/zt/topvideoes20140402/?opsubject_id=top1#129983108
+http://video.sina.com.cn/vlist/news/zt/topvideoes20140402/?opsubject_id=top1#129982048
+http://video.sina.com.cn/paike/
+http://video.sina.com.cn/paike/
+http://video.sina.com.cn/bl/8508509-1624364062-129961335.html
+http://video.sina.com.cn/movie/
+http://video.sina.com.cn/m/201403060102281_63654409.html
+http://video.sina.com.cn/m/201312041142629_63379599.html
+http://video.sina.com.cn/m/201312130345670_63260343.html
+http://open.sina.com.cn/course/id_465/lesson_4882/
+http://video.sina.com.cn/movie/zongyi/
+http://ent.sina.com.cn/f/wsgs2/video/?opsubject_id=enttopnews#129636491
+http://video.sina.com.cn/m/srdz_63681855.html?opsubject_id=enttopnews
+http://video.sina.com.cn/m/qwbcg_63675123.html?opsubject_id=enttopnews
+http://video.sina.com.cn/m/gstx_63678517.html?opsubject_id=enttopnews
+http://video.sina.com.cn/m/lhxx_63675121.html?opsubject_id=enttopnews
+http://ent.sina.com.cn/f/CCTVZGHGQS1/video/?opsubject_id=enttopnews#128998951
+http://video.sina.com.cn/m/ndx_63678515.html?opsubject_id=enttopnews
+http://video.sina.com.cn/m/nzny_63675137.html?opsubject_id=enttopnews
+http://video.sina.com.cn/m/wwxjk_63671299.html?opsubject_id=enttopnews
+http://video.sina.com.cn/m/aqbwz_63671285.html?opsubject_id=enttopnews
+http://video.sina.com.cn/m/jtymlx_63685591.html?opsubject_id=enttopnews
+http://ent.sina.com.cn/f/DoInStyle/
+http://ent.sina.com.cn/z/SuperPartyNo.7/
+http://video.sina.com.cn/vlist/ent/zyjbd/#127616043
+http://ent.sina.com.cn/f/chinavoice2/video/?opsubject_id=zghsyindex.shtml#116650598
+http://ent.sina.com.cn/f/deyunshe/video
+http://ent.sina.com.cn/z/SuperPartyNo.5/
+http://video.sina.com.cn/m/yanglan_63681857.html
+http://video.sina.com.cn/m/fcjjl_63654875.html
+http://video.sina.com.cn/vlist/ent/zyjbd/#105454023
+http://video.sina.com.cn/vlist/ent/zyjbd/#110347244
+http://ent.sina.com.cn/f/zyjbd/video/#117601201
+http://ent.sina.com.cn/f/CCTVZGHGQS1/video
+http://video.sina.com.cn/vlist/ent/zgmxx/
+http://ent.sina.com.cn/f/zqdn/video
+http://video.sina.com.cn/vlist/ent/rsdyc
+http://video.sina.com.cn/movie/detail/lhxx
+http://video.sina.com.cn/movie/detail/zgxjx
+http://ent.sina.com.cn/f/ysmxxdd/video
+http://ent.sina.com.cn/f/2013jzj/video
+http://paike.video.sina.com.cn/pages/mpdkx_4
+http://slide.news.sina.com.cn/s/slide_1_2841_49057.html
+http://slide.news.sina.com.cn/w/slide_1_2841_49070.html
+http://photo.sina.com.cn/#dir
+http://slide.news.sina.com.cn/s/slide_1_2841_49056.html
+http://slide.news.sina.com.cn/c/slide_1_2841_49079.html
+http://slide.news.sina.com.cn/w/slide_1_2841_49073.html
+http://slide.news.sina.com.cn/s/slide_1_2841_49076.html
+http://slide.news.sina.com.cn/s/slide_1_2841_49065.html
+http://slide.news.sina.com.cn/w/slide_1_2841_49075.html
+http://slide.ent.sina.com.cn/film/w/slide_4_704_78266.html
+http://slide.sports.sina.com.cn/g_brazil2014/slide_2_730_63423.html
+http://zhuanlan.sina.com.cn/
+http://finance.sina.com.cn/zl/international/20140401/114418678541.shtml
+http://finance.sina.com.cn/zl/stock/20140401/093118676881.shtml
+http://history.sina.com.cn/his/zl/blog/2014-04-01/150486672/1045529987/3e5185830102emie.shtml
+http://history.sina.com.cn/his/zl/2014-04-01/153586680.shtml
+http://tech.sina.com.cn/zl/post/detail/i/2014-04-02/pid_8445914.htm
+http://ent.sina.com.cn/zl/
+http://sports.sina.com.cn/zl/football/blog/2014-04-02/0938/3871668296/e6c4f8480101y0lu.shtml
+http://sports.sina.com.cn/zl/basketball/blog/2014-04-02/1012/1548464785/5c4bb2910102ei6b.shtml
+http://fashion.sina.com.cn/zl/love/blog/2014-04-02/1020984/1926696262/72d70d460101nj8w.shtml
+http://fashion.sina.com.cn/zl/love/blog/2014-04-01/1636978/1804553562/6b8f4d5a0101hnje.shtml
+http://edu.sina.com.cn/zl/
+http://edu.sina.com.cn/zl/eat/blog/2014-04-02/1424825/1376588835/520d14230102eb3h.shtml
+http://wp.news.sina.com.cn/?s=default&a=fans_list_view&group_id=114
 
 
-<div class="panel" id="panel_Search">
-    <ul class="panel_head"><span>文章搜索</span></ul>
-    <ul class="panel_body">
-        <form id="frmSearch" action="http://so.csdn.net/search" class="form_search" target="_blank">
-        <span><input id="inputSearch" type="text" class="blogsearch" title="请输入关键字" /></span>
-        <input id="btnSubmit" type="submit" value="搜索" title="search in blog" />
-        <input type="hidden" name="q" id="inputQ" />
-        <input type="hidden" name="t" value="blog" />
-        <a id="btnSearchBlog" target="_blank"></a>
-        </form>
-    </ul>
-</div><div id="panel_Category" class="panel">
-<ul class="panel_head"><span>文章分类</span></ul>
-<ul class="panel_body">
-             <li>
-                <a href="http://blog.csdn.net/nevasun/article/category/745120" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">Linux系统管理</a><span>(25)</span>
-            </li>
-             <li>
-                <a href="http://blog.csdn.net/nevasun/article/category/930557" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">编程语言C/Python</a><span>(22)</span>
-            </li>
-             <li>
-                <a href="http://blog.csdn.net/nevasun/article/category/930558" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">编程之美</a><span>(16)</span>
-            </li>
-             <li>
-                <a href="http://blog.csdn.net/nevasun/article/category/763155" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">网络技术&#183;移动通信</a><span>(9)</span>
-            </li>
-             <li>
-                <a href="http://blog.csdn.net/nevasun/article/category/745121" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">随想&#183;转载</a><span>(8)</span>
-            </li>
-</ul>
-</div><div id="panel_Archive" class="panel">
-<ul class="panel_head"><span>文章存档</span></ul>
-<ul class="panel_body">
-<div id="archive_list">
-<!--归档统计-->
-<li><a href="http://blog.csdn.net/nevasun/article/month/2012/07">2012年07月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/06">2012年06月</a><span>(7)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/05">2012年05月</a><span>(4)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/04">2012年04月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/03">2012年03月</a><span>(8)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/02">2012年02月</a><span>(7)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2012/01">2012年01月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/12">2011年12月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/11">2011年11月</a><span>(7)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/10">2011年10月</a><span>(8)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/09">2011年09月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/08">2011年08月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/06">2011年06月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/05">2011年05月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/04">2011年04月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/03">2011年03月</a><span>(3)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2011/01">2011年01月</a><span>(3)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2010/12">2010年12月</a><span>(6)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2010/11">2010年11月</a><span>(2)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2010/10">2010年10月</a><span>(1)</span></li><li><a href="http://blog.csdn.net/nevasun/article/month/2010/08">2010年08月</a><span>(2)</span></li>
-</div>
-</ul>
-</div>
-<div id="hotarticls" class="panel">
-<ul class="panel_head"><span>阅读排行</span></ul>
-<ul class="panel_body itemlist">
-<li>
-<a href="/nevasun/article/details/7292222" title="Linux下文件名乱码的解决方法">Linux下文件名乱码的解决方法</a><span>(5026)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/6268332" title="ubuntu下用apt-get是总是出现0% [正在等待报头]">ubuntu下用apt-get是总是出现0% [正在等待报头]</a><span>(3286)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/7282421" title="Windows定时器学习">Windows定时器学习</a><span>(3209)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/7331644" title="Python抓取中文网页">Python抓取中文网页</a><span>(2696)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/7672506" title="MySQL登陆问题总结">MySQL登陆问题总结</a><span>(1952)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/7004355" title="UNIX环境中Real time, User time and Sys time">UNIX环境中Real time, User time and Sys time</a><span>(1594)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/6732141" title="VC6.0下打开文件失败的解决方法">VC6.0下打开文件失败的解决方法</a><span>(1542)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/7271925" title="安装mplayer后没有声音解决方法">安装mplayer后没有声音解决方法</a><span>(1240)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/6901641" title="C中#define和inline的区别">C中#define和inline的区别</a><span>(1220)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/7784751" title="微软2012暑期实习笔试题（附答案）">微软2012暑期实习笔试题（附答案）</a><span>(1174)</span>
-</li>
-</ul>
-</div>
-<div id="hotarticls2" class="panel">
-<ul class="panel_head"><span>评论排行</span></ul>
-<ul class="panel_body itemlist">
-<li>
-<a href="/nevasun/article/details/7450675" title="腾讯笔试题">腾讯笔试题</a><span>(8)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/6222308" title="Windows控制CPU使用率曲线">Windows控制CPU使用率曲线</a><span>(2)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/6386351" title="更改Windows背景颜色后VA高亮消失的解决方案">更改Windows背景颜色后VA高亮消失的解决方案</a><span>(2)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/6995584" title="一道面试题——四人喝酒的问题">一道面试题——四人喝酒的问题</a><span>(2)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/6096493" title="i++和++i的效率问题">i++和++i的效率问题</a><span>(2)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/7331644" title="Python抓取中文网页">Python抓取中文网页</a><span>(1)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/7407187" title="Visual Studio 2008不能打开工程的解决办法">Visual Studio 2008不能打开工程的解决办法</a><span>(1)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/6732141" title="VC6.0下打开文件失败的解决方法">VC6.0下打开文件失败的解决方法</a><span>(1)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/6268332" title="ubuntu下用apt-get是总是出现0% [正在等待报头]">ubuntu下用apt-get是总是出现0% [正在等待报头]</a><span>(1)</span>
-</li>
-<li>
-<a href="/nevasun/article/details/7198057" title="Vim使用技巧">Vim使用技巧</a><span>(1)</span>
-</li>
-</ul>
-</div>
-<div id="homepageArticles" class="panel tracking-ad" data-mod="popu_4">
-<ul class="panel_head"><span>推荐文章</span></ul>
-<ul class="panel_body" id="ad_commend"></ul>
-</div>
-<script type="text/javascript">
- new Ad(12, 'ad_commend');
-</script><div id="newcomments" class="panel">
-<ul class="panel_head"><span>最新评论</span></ul>
-<ul class="panel_body itemlist">
-    <li>
-    <a href="/nevasun/article/details/7701942#comments">面试题：用一个临时变量实现单链表逆序</a>
-    <p style="margin:0px;"><a href="/swagle" class="user_name">swagle</a>:
-ListNode* reverseList(ListNode* pHead){        if(...
-    </p>
-    </li>
-    <li>
-    <a href="/nevasun/article/details/6268332#comments">ubuntu下用apt-get是总是出现0% [正在等待报头]</a>
-    <p style="margin:0px;"><a href="/xww810319" class="user_name">xww810319</a>:
-我困扰这个问题好几天了，终于按照你的方法解决了，谢谢分享呀。
-    </p>
-    </li>
-    <li>
-    <a href="/nevasun/article/details/7181373#comments">C语言断点调试和编译问题总结</a>
-    <p style="margin:0px;"><a href="/danfeng105" class="user_name">danfeng105</a>:
-不错！
-    </p>
-    </li>
-    <li>
-    <a href="/nevasun/article/details/7407187#comments">Visual Studio 2008不能打开工程的解决办法</a>
-    <p style="margin:0px;"><a href="/zenithward5" class="user_name">zenithward5</a>:
-楼主太感谢啦！折腾了好久的打不开项目就这么解决了！
-    </p>
-    </li>
-    <li>
-    <a href="/nevasun/article/details/6096493#comments">i++和++i的效率问题</a>
-    <p style="margin:0px;"><a href="/IEEEhuiyuan" class="user_name">IEEEhuiyuan</a>:
-1楼正解！
-    </p>
-    </li>
-    <li>
-    <a href="/nevasun/article/details/6096493#comments">i++和++i的效率问题</a>
-    <p style="margin:0px;"><a href="/suncuigang" class="user_name">suncuigang</a>:
-在内建数据类型的情况下，效率没有区别；在自定义数据类型的情况下，++i效率更高!
-    </p>
-    </li>
-    <li>
-    <a href="/nevasun/article/details/6386351#comments">更改Windows背景颜色后VA高亮消失的解决方案</a>
-    <p style="margin:0px;"><a href="/dongpy" class="user_name">dongpy</a>:
-方法不错，赞一个
-    </p>
-    </li>
-    <li>
-    <a href="/nevasun/article/details/6386351#comments">更改Windows背景颜色后VA高亮消失的解决方案</a>
-    <p style="margin:0px;"><a href="/mail_cm" class="user_name">mail_cm</a>:
-我Reset All之后 代码还都是黑色的，VA的高亮色还是都没有，其他功能都正常？
-    </p>
-    </li>
-    <li>
-    <a href="/nevasun/article/details/6732141#comments">VC6.0下打开文件失败的解决方法</a>
-    <p style="margin:0px;"><a href="/jiftlixu" class="user_name">jiftlixu</a>:
-遇到这个问题 office2010
-    </p>
-    </li>
-    <li>
-    <a href="/nevasun/article/details/7331644#comments">Python抓取中文网页</a>
-    <p style="margin:0px;"><a href="/guangmingwencheng" class="user_name">guangmingwencheng</a>:
-nice
-    </p>
-    </li>
-</ul>
-</div>
-    </div>
-    <div class="clear">
-    </div>
-</div>
+http://tech.sina.com.cn/other/2014-01-28/16029134439.shtml
 
-            <div class="clear">
-            </div>
-        </div>
-        
 
-<script type="text/javascript" src="http://static.blog.csdn.net/scripts/newblog.min.js"></script>
-<script type="text/javascript" src="http://medal.blog.csdn.net/showblogmedal.ashx?blogid=899796"></script>
-<script type="text/javascript">
-    document.write('<script type="text/javascript" src="http://csdnimg.cn/pubfooter/js/publib_footer.js?' + Math.floor(new Date() / 120000).toString(36) + '="></' + 'script>');
-</script>
-    <script type="text/javascript" src="http://passport.csdn.net/content/loginbox/login.js"></script>
-<script type="text/javascript">document.write("<img src=http://counter.csdn.net/pv.aspx?id=24 border=0 width=0 height=0>");</script>
-<script type="text/javascript" src="http://www.csdn.net/ui/scripts/Csdn/counter.js"></script>
-<script type="text/javascript" src="http://ad.csdn.net/scripts/ad-blog.js"></script>
-<script type="text/javascript" src="http://zz.csdn.net/js/count.js"></script>
-<script type="text/javascript">
-    $(function () {
-        function __get_code_toolbar(snippet_id) {
-            return $("<a href='https://code.csdn.net/snippets/"
-                    + snippet_id
-                    + "' target='_blank' title='在CODE上查看代码片' style='text-indent:0;'><img src='https://code.csdn.net/assets/CODE_ico.png' width=12 height=12 alt='在CODE上查看代码片' style='position:relative;top:1px;left:2px;'/></a>"
-                    + "<a href='https://code.csdn.net/snippets/"
-                    + snippet_id
-                    + "/fork' target='_blank' title='派生到我的代码片'  style='text-indent:0;'><img src='https://code.csdn.net/assets/ico_fork.svg' width=12 height=12 alt='派生到我的代码片' style='position:relative;top:2px;left:2px;'/></a>");
-        }
-        
-        $("[code_snippet_id]").each(function () {
-            __s_id = $(this).attr("code_snippet_id");
-            if (__s_id != null && __s_id != "" && __s_id != 0 && parseInt(__s_id) > 70020) {
-                __code_tool = __get_code_toolbar(__s_id);
-                $(this).prev().find(".tools").append(__code_tool);
-            }
-        });
-    });
-</script>
+http://sina.allyes.com/main/adfclick?db=sina&bid=66825,97935,98029&cid=0,0,0&sid=90934&advid=1832&camid=13706&show=ignore&url=http://client.sina.com.cn/zt/haidianquzhengfu/index.shtml
+http://news.sina.com.cn/
+http://photo.sina.com.cn/
+http://zhuanlan.sina.com.cn/
+http://news.sina.com.cn/c/2014-04-01/223829843271.shtml
+http://news.sina.com.cn/c/p/2014-04-02/110129848262.shtml
+http://news.sina.com.cn/c/z/xjpfo/
+http://news.sina.com.cn/c/2014-04-02/125829848902.shtml
+http://news.sina.com.cn/c/2014-04-01/201729842966.shtml
+http://news.sina.com.cn/w/2014-04-02/103529848164.shtml
+http://video.sina.com.cn/p/news/w/v/2014-04-02/012063689867.html
+http://news.sina.com.cn/c/t/20140402/1145177.shtml
+http://news.sina.com.cn/c/2014-04-02/133929849053.shtml
+http://news.sina.com.cn/c/2014-04-02/162029849974.shtml
+http://news.sina.com.cn/china/
+http://mil.news.sina.com.cn/2014-04-02/1452771999.html
+http://news.sina.com.cn/c/2014-04-02/105029848169.shtml
+http://news.sina.com.cn/c/2014-04-02/140829849227.shtml
+http://news.sina.com.cn/c/2014-04-02/015729843746.shtml
+http://news.sina.com.cn/c/2014-04-02/015129843744.shtml
+http://news.sina.com.cn/c/2014-04-02/153229849886.shtml
+http://news.sina.com.cn/c/2014-04-02/112329848388.shtml
+http://news.sina.com.cn/c/p/2014-04-02/131929849045.shtml
+http://news.sina.com.cn/c/2014-04-02/154029849783.shtml
+http://video.sina.com.cn/news/#1-1-129991259-1
+http://zhuanlan.sina.com.cn/
+http://fashion.sina.com.cn/zl/love/blog/2014-04-02/1022985/1691754394/64d61f9a0102egg9.shtml
+http://fashion.sina.com.cn/zl/love/blog/2014-04-02/1020984/1926696262/72d70d460101nj8w.shtml
+http://news.sina.com.cn/world/
+http://news.sina.com.cn/w/z/zlxbyhdz/
+http://news.sina.com.cn/w/2014-04-02/082829846996.shtml
+http://news.sina.com.cn/w/2014-04-02/134529849195.shtml
+http://news.sina.com.cn/w/2014-04-02/124029848767.shtml
+http://news.sina.com.cn/c/2014-04-01/223829843271.shtml
+http://news.sina.com.cn/c/p/2014-04-02/110129848262.shtml
+http://news.sina.com.cn/c/z/xjpfo/
+http://news.sina.com.cn/c/2014-04-02/125829848902.shtml
+http://news.sina.com.cn/c/2014-04-01/201729842966.shtml
+http://news.sina.com.cn/w/2014-04-02/103529848164.shtml
+http://video.sina.com.cn/p/news/w/v/2014-04-02/012063689867.html
+http://news.sina.com.cn/c/t/20140402/1145177.shtml
+http://news.sina.com.cn/c/2014-04-02/133929849053.shtml
+http://news.sina.com.cn/c/2014-04-02/162029849974.shtml
+http://news.sina.com.cn/china/
+http://mil.news.sina.com.cn/2014-04-02/1452771999.html
+http://news.sina.com.cn/c/2014-04-02/105029848169.shtml
+http://news.sina.com.cn/c/2014-04-02/140829849227.shtml
+http://video.sina.com.cn/news/
+http://video.sina.com.cn/news/#1-1-129967182-1
+http://video.sina.com.cn/news/#1-1-129985265-1
+http://video.sina.com.cn/news/#1-1-129992268-1
+http://video.sina.com.cn/news/#1-1-129991259-1
+http://video.sina.com.cn/news/#1-1-129957346-1
+http://video.sina.com.cn/news/#1-1-130010801-1
+http://video.sina.com.cn/news/#1-1-129997392-1
+http://finance.sina.com.cn/
+http://finance.sina.com.cn/china/20140402/024318684386.shtml
+http://finance.sina.com.cn/stock/gujiayidong/20140402/161918692703.shtml
+http://finance.sina.com.cn/chanjing/gsnews/20140402/143818691758.shtml
+http://finance.sina.com.cn/china/20140402/012918683765.shtml
+http://finance.sina.com.cn/china/dfjj/20140402/125118690945.shtml
+http://finance.sina.com.cn/china/dfjj/20140402/145918692014.shtml
+http://finance.sina.com.cn/china/20140402/005918683008.shtml
+http://bj.house.sina.com.cn/2014-04-01/17182670662.shtml
+http://tech.sina.com.cn/
+http://tech.sina.com.cn/i/special/renrenkd/
+http://tech.sina.com.cn/i/2014-04-01/23259290474.shtml
+http://tech.sina.com.cn/i/2014-04-01/23539290487.shtml
+http://tech.sina.com.cn/discovery/
+http://slide.tech.sina.com.cn/d/slide_5_453_44737.html
+http://fashion.sina.com.cn/
+http://fashion.sina.com.cn/
+http://fashion.sina.com.cn/z/l/2014basel/
+http://slide.fashion.sina.com.cn/m/slide_24_54277_44645.html
+http://sports.sina.com.cn/tv
+http://video.sina.com.cn/sports/?show=live
+http://sports.sina.com.cn/
+http://sports.sina.com.cn/nba/
+http://video.sina.com.cn/sports/
+http://sports.sina.com.cn/csl/
+http://sports.sina.com.cn/tennis/
+http://f1.sina.com.cn/
+http://golf.sina.com.cn/
+http://sports.sina.com.cn/g/championsleague/
+http://sports.sina.com.cn/z/AFCCL2014/
+http://sports.sina.com.cn/j/2014-04-02/11157101763.shtml
+http://sports.sina.com.cn/j/2014-04-02/10157099145.shtml
+http://sports.sina.com.cn/video/c/j/afccl/
+http://sports.sina.com.cn/j/2014-04-02/12177101915.shtml
+http://sports.sina.com.cn/g/championsleague/
+http://sports.sina.com.cn/g/ucl/2014-04-02/03357101201.shtml
+http://sports.sina.com.cn/uclvideo/
+http://sports.sina.com.cn/nba/
+http://sports.sina.com.cn/nba/2014-04-02/13077102004.shtml
+http://sports.sina.com.cn/nba/video/
+http://sports.sina.com.cn/nba/2014-04-02/11007101752.shtml
+http://sports.sina.com.cn/nba/2014-04-02/07107101359.shtml
+http://sports.sina.com.cn/g/ucl/2014-04-02/11487101824.shtml
+http://2014.sina.com.cn/
+http://sports.sina.com.cn/csl
+http://sports.sina.com.cn/cba/2014-04-02/09357101583.shtml
+http://sports.sina.com.cn/z/snookerco14/
 
-    </div>
-      <!--new top-->
-    
-    <script id="csdn-toolbar-id" btnId="header_notice_num" wrapId="note1" count="5" subCount="5" type="text/javascript" src="http://static.csdn.net/public/common/toolbar/js/toolbar.js"></script>     <!--new top-->
-</body>
-</html>
+http://golf.sina.com.cn/
+http://blog.sina.com.cn/lm/sports/
+http://blog.sina.com.cn/s/blog_9e4b48650101qp2e.html?tj=1
+http://sports.sina.com.cn/zl/
+http://sports.sina.com.cn/zl/football/blog/2014-04-02/0938/3871668296/e6c4f8480101y0lu.shtml
+http://video.sina.com.cn/sports/#1-6-129990775-1
+http://video.sina.com.cn/sports/#1-6-130014930-1
+http://video.sina.com.cn/p/sports/g/v/2014-04-02/095763691061.html
+http://lottery.sina.com.cn/
+http://sports.sina.com.cn/lotto/
+http://sports.sina.com.cn/l/aicai/hd/mhdycj/?agentId=2332894
+http://sports.sina.com.cn/nba/
+http://sports.sina.com.cn/nba/2014-04-02/07107101359.shtml
+http://sports.sina.com.cn/nba/2014-04-02/03187101180.shtml
+http://sports.sina.com.cn/nba/2014-04-02/01407101136.shtml
+http://sports.sina.com.cn/nba/2014-04-02/00007101046.shtml
+http://sports.sina.com.cn/nba/
+http://sports.sina.com.cn/nba/2014-04-02/13077102004.shtml
+http://video.sina.com.cn/z/sports/k/nba/140402houbkn/
+http://video.sina.com.cn/z/sports/k/nba/140402porlal/
+http://video.sina.com.cn/z/sports/nba/officialbest/2014-04-02/#130008842
+http://video.sina.com.cn/z/sports/k/nba/14marchtop10/
+http://video.sina.com.cn/p/sports/k/v/2014-04-02/112163691353.html
+http://video.sina.com.cn/p/sports/k/v/2014-04-02/092563690875.html
+http://sports.sina.com.cn/nba/2014-04-02/10537101747.shtml
+http://sports.sina.com.cn/nba/2014-04-02/11217101778.shtml
+http://sports.sina.com.cn/nba/2014-04-02/02017101147.shtml
+http://sports.sina.com.cn/nba/2014-04-02/09527101612.shtml
+http://sports.sina.com.cn/nba/2014-04-02/00007101045.shtml
+http://sports.sina.com.cn/nba/2014-04-02/11007101752.shtml
+http://sports.sina.com.cn/nba/2014-04-02/10497101736.shtml
+http://sports.sina.com.cn/nba/2014-04-02/09347101581.shtml
+http://sports.sina.com.cn/nba/2014-04-02/11197101773.shtml
+http://sports.sina.com.cn/nba/2014-04-02/14367102133.shtml
+http://sports.sina.com.cn/l/2caipiao/jclq/?agentId=233380
+http://sports.sina.com.cn/l/2014-04-02/10287101688.shtml
+http://sports.sina.com.cn/l/aicai/hd/c50s88/?agentId=233380
+http://video.sina.com.cn/z/sports/nba/jiongtime/#130013198
+http://video.sina.com.cn/z/sports/k/nba/140402houbkn/
+http://sports.sina.com.cn/nba/video/#129998549
+http://video.sina.com.cn/z/sports/k/nba/140402porlal/
+http://video.sina.com.cn/z/sports/nba/officialbest/2014-04-02/#130008842
+http://video.sina.com.cn/p/sports/k/v/2014-04-02/112163691353.html
+http://video.sina.com.cn/p/sports/k/v/2014-04-02/113363691383.html
+http://video.sina.com.cn/z/sports/k/nba/14marchtop10/#129984522
+http://video.sina.com.cn/z/sports/k/nba/14marchtop10/#129984963
+http://video.sina.com.cn/z/sports/k/nba/14marchtop10/#129984528
+http://sports.sina.com.cn/video/g/laliga/
+http://sports.sina.com.cn/video/g/laliga/match/1314/31/barca/
+http://sports.sina.com.cn/video/g/laliga/match/1314/31/barca/#129706880
+http://sports.sina.com.cn/video/g/laliga/match/1314/31/real/
+http://video.sina.com.cn/p/sports/laliga/v/2014-03-30/065763678857.html
+http://sports.sina.com.cn/video/g/pl/
+http://sports.sina.com.cn/video/g/pl/match/1314/32/asn/
+http://sports.sina.com.cn/video/g/pl/match/1314/32/lfc/
+http://sports.sina.com.cn/video/g/pl/match/1314/32/che/
+http://sports.sina.com.cn/video/g/pl/match/1314/32/manu/
+http://sports.sina.com.cn/video/g/seriea/
+http://sports.sina.com.cn/video/g/seriea/match/1314/31/milan/
+http://sports.sina.com.cn/video/g/seriea/match/1314/31/milan/#129723655
+http://sports.sina.com.cn/video/g/seriea/match/1314/31/juv/
+http://sports.sina.com.cn/uclvideo/
+http://sports.sina.com.cn/video/g/ucl/match/1314/9/Manu_Bayern/
+http://sports.sina.com.cn/uclvideo/bn/2014-04-02/041463689995.html
+http://sports.sina.com.cn/uclvideo/bn/2014-04-02/041663690051.html
+http://sports.sina.com.cn/video/g/ucl/match/1314/9/Barca_ATM/
+http://sports.sina.com.cn/uclvideo/bn/2014-04-02/041563689991.html
+http://sports.sina.com.cn/uclvideo/bn/2014-04-02/043863690055.html
+http://sports.sina.com.cn/video/c/j/afccl/
+http://sports.sina.com.cn/video/c/j/afccl/match/2014/0401/guizhou/
+http://sports.sina.com.cn/video/c/j/afccl/match/2014/0401/guizhou/#129952048
+http://sports.sina.com.cn/video/c/j/afccl/match/2014/0401/guizhou/#129954572
+http://sports.sina.com.cn/video/c/j/afccl/match/2014/0401/guoan/
+http://sports.sina.com.cn/video/c/j/afccl/match/2014/0401/guoan/#129948587
+http://sports.sina.com.cn/video/c/j/afccl/match/2014/0401/guoan/#129951119
+http://video.sina.com.cn/p/sports/g/v/2014-03-30/032363678733.html
+http://sports.sina.com.cn/video/g/Ligue1/match/1314/30/PSG/
+http://sports.sina.com.cn/nba/video/
+http://sports.sina.com.cn/video/g/pl/
+http://sports.sina.com.cn/video/g/laliga/
+http://sports.sina.com.cn/video/g/seriea/
+http://sports.sina.com.cn/uclvideo/
+http://sports.sina.com.cn/video/c/j/csl/
+http://sports.sina.com.cn/video/c/j/afccl/
+http://2014.sina.com.cn/
+http://auto.sina.com.cn/
+http://auto.sina.com.cn/newcar/
+http://auto.sina.com.cn/guide/
+http://photo.auto.sina.com.cn/highindex.php?HDid=12711
+http://auto.sina.com.cn/
+http://auto.sina.com.cn/service/2014-03-26/09001279724.shtml
+http://auto.sina.com.cn/car/2014-04-02/09251284081.shtml
+http://auto.sina.com.cn/car/2014-04-02/09371284089.shtml
+http://auto.sina.com.cn/car/2014-04-02/09301284085.shtml
+http://photo.auto.sina.com.cn/highindex.php?HDid=12702
+http://auto.sina.com.cn/car/2014-04-02/10251284129.shtml
+http://auto.sina.com.cn/news/2014-04-02/11381284149.shtml
+http://auto.sina.com.cn/news/2014-04-02/10411284134.shtml
+http://auto.sina.com.cn/car/2014-04-01/10391283768.shtml
+http://auto.sina.com.cn/z/DS5LSLaunch/
+http://auto.sina.com.cn/car/2014-03-30/13051283240.shtml
+http://auto.sina.com.cn/news/2014-03-30/01491283185.shtml
+http://auto.sina.com.cn/car/2014-03-31/16371283550.shtml
+http://auto.sina.com.cn/PLAN-B/index.shtml
+http://auto.sina.com.cn/car/2014-04-02/09411284092.shtml
+http://auto.sina.com.cn/news/2014-03-27/13591282735.shtml
+http://auto.sina.com.cn/news/2014-03-19/18191280342.shtml
+http://auto.sina.com.cn/car/2014-03-31/09311283463.shtml
+http://photo.auto.sina.com.cn/highindex.php?HDid=12655
+http://auto.sina.com.cn/car/2014-03-28/08291282862.shtml
+http://auto.sina.com.cn/car/2014-03-31/09351283465.shtml
+http://auto.sina.com.cn/z/NewX-trailLaunch/
+http://auto.sina.com.cn/car/2014-03-26/23431282321.shtml
+http://auto.sina.com.cn/z/NewBenBenLaunch/
+http://auto.sina.com.cn/car/2014-03-26/00261281949.shtml
+http://photo.auto.sina.com.cn/highindex.php?HDid=12681
+http://auto.sina.com.cn/car/2014-03-31/09281283451.shtml
+http://auto.sina.com.cn/car/2014-03-31/09411283467.shtml
+http://auto.sina.com.cn/car/2014-03-25/16261281891.shtml
+http://auto.sina.com.cn/news/2014-03-27/17261282776.shtml
+http://data.auto.sina.com.cn/917
+http://data.auto.sina.com.cn/411
+http://data.auto.sina.com.cn/1386
+http://data.auto.sina.com.cn/881
+http://data.auto.sina.com.cn/1709
+http://data.auto.sina.com.cn/1849
+http://data.auto.sina.com.cn/938
+http://data.auto.sina.com.cn/234
+http://auto.sina.com.cn/news/2014-03-30/23351283268.shtml
+http://auto.sina.com.cn/news/2014-03-27/19431282782.shtml
+http://auto.sina.com.cn/news/2014-04-01/17151283890.shtml
+http://auto.sina.com.cn/z/cheshibankuaishuo14/
+http://auto.sina.com.cn/city/
+http://tj.auto.sina.com.cn/
+http://sh.auto.sina.com.cn/
+http://cq.auto.sina.com.cn/
+http://gz.auto.sina.com.cn/
+http://cc.auto.sina.com.cn/
+http://dealer.auto.sina.com.cn/
+http://bj.auto.sina.com.cn/
+http://nn.auto.sina.com.cn/shcs-pr/2014-04-02/6-6999.html
+http://xm.auto.sina.com.cn/shcs-pr/2014-04-02/393-14744.html
+http://gz.auto.sina.com.cn/shcs-pr/2014-04-02/136-3019.html
+http://wh.auto.sina.com.cn/shcs-pr/2014-04-02/56-16229.html
+http://xa.auto.sina.com.cn/shcs-hangqing/2014-04-02/52-19257.html
+http://cs.auto.sina.com.cn/shcs-pr/2014-04-02/138-22030.html
+http://nj.auto.sina.com.cn/shcs-pm/2014-04-02/303-8951.html
+http://nj.auto.sina.com.cn/shcs-pr/2014-04-02/303-8942.html
+http://heb.auto.sina.com.cn/shcs/2014-04-02/39-12544.html
+http://cc.auto.sina.com.cn/shcs-pr/2014-04-02/5-11572.html
+http://cc.auto.sina.com.cn/shcs-pr/2014-04-02/5-11584.html
+http://tj.auto.sina.com.cn/shcs-pr/2014-04-02/8-25092.html
+http://auto.sina.com.cn/car/2014-04-01/09281283706.shtml
+http://auto.sina.com.cn/car/2014-04-01/09321283716.shtml
+http://auto.sina.com.cn/car/2014-04-01/10571283784.shtml
+ http://auto.sina.com.cn/car/2014-04-01/11061283786.shtml
+http://auto.sina.com.cn/car/2014-04-01/12131283814.shtml
+http://auto.sina.com.cn/car/2014-04-01/11141283790.shtml
+http://auto.sina.com.cn/z/201306BUICK/index.shtml
+http://auto.sina.com.cn/car/2014-03-26/08441282062.shtml
+http://auto.sina.com.cn/z/201307VW/index.shtml
+http://data.auto.sina.com.cn/
+http://dealer.auto.sina.com.cn/price/search/price01_hot_1.html
+http://dealer.auto.sina.com.cn/price/search/price02_hot_1.html
+http://dealer.auto.sina.com.cn/price/search/price3_hot_1.html
+http://dealer.auto.sina.com.cn/price/search/price04_hot_1.html
+http://dealer.auto.sina.com.cn/price/search/price05_hot_1.html
+http://dealer.auto.sina.com.cn/price/search/price06_hot_1.html
+http://dealer.auto.sina.com.cn/price/search/price07_hot_1.html
+http://dealer.auto.sina.com.cn/price/search/price08_hot_1.html
+http://dealer.auto.sina.com.cn/price/search/price09_hot_1.html
+http://music.sina.com.cn/
+http://music.sina.com.cn/yueku/a/241752.html
+http://music.sina.com.cn/yueku/a/241689.html
+http://music.sina.com.cn/yueku/a/241682.html
+http://music.sina.com.cn/yueku/a/241674.html
+http://music.sina.com.cn/yueku/i/2853181.html
+http://music.sina.com.cn/yueku/a/241657.html
+http://music.sina.com.cn/
+http://ent.sina.com.cn/
+http://ent.sina.com.cn/star/
+http://video.sina.com.cn/movie/
+http://slide.ent.sina.com.cn/star/slide_4_704_78259.html
+http://ent.sina.com.cn/s/m/w/2014-04-02/10204121021.shtml
+http://ent.sina.com.cn/s/m/2014-04-02/03334120878.shtml
+http://ent.sina.com.cn/s/m/w/2014-04-01/16424120714.shtml
+http://ent.sina.com.cn/s/m/w/2014-04-02/10404121063.shtml
+http://ent.sina.com.cn/s/m/2014-04-02/11214121116.shtml
+http://ent.sina.com.cn/s/h/2014-04-02/09054120947.shtml 
+http://ent.sina.com.cn/v/m/w/2014-04-02/15094121242.shtml
+http://ent.sina.com.cn/y/2014-04-02/15374121260.shtml
+http://slide.ent.sina.com.cn/film/w/slide_4_704_78266.html
+http://ent.sina.com.cn/s/h/2014-04-02/00454120795.shtml
+http://ent.sina.com.cn/s/j/k/2014-04-02/03204120865.shtml
+http://ent.sina.com.cn/s/j/k/2014-04-02/03404120879.shtml
+http://ent.sina.com.cn/s/h/2014-04-02/07544120943.shtml
+http://ent.sina.com.cn/y/w/2014-04-02/12224121176.shtml
+http://ent.sina.com.cn/s/m/2014-04-02/11094121103.shtml
+http://ent.sina.com.cn/v/m/2014-04-02/12224121174.shtml
+http://slide.ent.sina.com.cn/star/w/slide_4_704_78273.html
+ http://ent.sina.com.cn/s/m/w/2014-04-02/00384120792.shtml
+http://ent.sina.com.cn/photo/
+http://slide.ent.sina.com.cn/film/slide_4_704_78278.html
+http://slide.ent.sina.com.cn/y/slide_4_704_78280.html
+http://slide.ent.sina.com.cn/star/h/slide_4_704_78291.html
+http://ent.sina.com.cn/f/cwzcgydbzb/video/#129986499
+http://ent.sina.com.cn/bn/entreport/#129992442
+http://blog.sina.com.cn/lm/ent/
+http://blog.sina.com.cn/lm/ent/
+http://blog.sina.com.cn/s/blog_4694741f0102ecly.html?tj=1
+http://blog.sina.com.cn/s/blog_dae120960101i81w.html?tj=1
+http://slide.ent.sina.com.cn/star/slide_4_704_78314.html
+http://ent.sina.com.cn/s/m/w/2014-04-02/10204121021.shtml
+http://ent.sina.com.cn/s/m/2014-04-02/03334120878.shtml
+http://ent.sina.com.cn/s/m/2014-04-02/11214121116.shtml
+http://ent.sina.com.cn/s/h/2014-04-02/00454120795.shtml
+http://ent.sina.com.cn/s/h/2014-04-02/09054120947.shtml 
+http://ent.sina.com.cn/s/m/w/2014-04-02/00384120792.shtml
+http://slide.ent.sina.com.cn/star/w/slide_4_704_78273.html
+http://ent.sina.com.cn/korea/
+http://slide.ent.sina.com.cn/y/k/slide_4_704_78292.html
+http://ent.sina.com.cn/v/j/k/2014-04-02/10564121086.shtml
+http://ent.sina.com.cn/jp/
+http://ent.sina.com.cn/v/j/r/2014-04-02/10324121052.shtml
+http://slide.ent.sina.com.cn/xiju/slide_4_704_78267.html
+http://slide.ent.sina.com.cn/?cate=304
+http://slide.ent.sina.com.cn/film/w/slide_4_704_78266.html
+http://slide.ent.sina.com.cn/film/slide_4_704_78278.html
+http://slide.ent.sina.com.cn/?cate=303
+http://ent.sina.com.cn/s/m/2014-04-02/11094121103.shtml
+http://ent.sina.com.cn/y/2014-04-02/07194120920.shtml
+http://blog.sina.com.cn/lm/ent/
+http://ent.sina.com.cn/zl/bagua/blog/2014-04-01/10301408/1420657134/54ad81ee0102ef7v.shtml
+http://ent.sina.com.cn/zl/discuss/blog/2014-04-01/11311409/1408910454/53fa44760101i29p.shtml
+http://blog.sina.com.cn/lm/ent/
+http://ent.sina.com.cn/zl/discuss/blog/2014-04-01/14171412/1400235930/5375e79a0101dcmm.shtml
+http://ent.sina.com.cn/zl/bagua/blog/2014-03-31/21261406/1855816273/6e9d82510101ev7o.shtml
+http://video.sina.com.cn/p/ent/2014-03-31/024863681927.html
+http://video.sina.com.cn/p/ent/s/m/2014-03-31/092163682987.html
+http://video.sina.com.cn/p/ent/s/m/2014-03-31/103663683247.html
+http://video.sina.com.cn/p/ent/s/m/2014-03-30/182063681273.html
+http://video.sina.com.cn/movie/
+http://video.sina.com.cn/m/lkezl_63637473.html
+http://video.sina.com.cn/m/201401160532608_63448691.html
+http://video.sina.com.cn/m/201306190727741_62651199.html
+http://video.sina.com.cn/m/201312130345673_63301015.html
+http://video.sina.com.cn/m/gftycbg1_63637293.html
+http://video.sina.com.cn/m/201306190727742_62547717.html
+http://video.sina.com.cn/m/201312130345671_63260355.html
+http://video.sina.com.cn/m/201309181000694_62992885.html
+http://video.sina.com.cn/m/201312130345670_63260343.html
+http://video.sina.com.cn/m/201312041142633_63423059.html
+http://video.sina.com.cn/m/201401160532609_63450403.html
+http://video.sina.com.cn/m/201312270314195_63327841.html
+http://video.sina.com.cn/movie/
+http://video.sina.com.cn/m/dmgc_63305099.html
+http://video.sina.com.cn/m/201306190727723_62623807.html
+http://video.sina.com.cn/m/201312041142627_63360267.html
+http://video.sina.com.cn/m/201306190727739_62598771.html
+http://video.sina.com.cn/m/201312041142623_63276577.html
+http://video.sina.com.cn/movie/category/teleplay/area/5.html
+http://video.sina.com.cn/m/201307310406701_62780947.html
+http://video.sina.com.cn/m/201307310406700_62776749.html
+http://video.sina.com.cn/m/gzdnr_61990053.html
+http://video.sina.com.cn/m/201307310406702_62805517.html
+http://video.sina.com.cn/movie/category/teleplay/area/1.html
+http://video.sina.com.cn/m/201312041142629_63379599.html
+http://video.sina.com.cn/m/201306190727731_62654497.html
+http://video.sina.com.cn/m/201312041142615_63351901.html
+http://video.sina.com.cn/m/xinshu_61739349.html
+http://video.sina.com.cn/m/201312041142607_63343963.html
+http://video.sina.com.cn/m/201312041142622_63356255.html
+http://video.sina.com.cn/movie/category/teleplay/area/3.html
+http://video.sina.com.cn/m/201306190727695_62582397.html
+http://video.sina.com.cn/m/201307310406692_62736189.html
+http://video.sina.com.cn/m/201306190727705_62590181.html
+http://video.sina.com.cn/m/201309181000695_62943099.html
+http://video.sina.com.cn/movie/movie/
+http://video.sina.com.cn/m/201309181000715_63133579.html
+http://video.sina.com.cn/m/ss_61867713.html
+http://video.sina.com.cn/m/201309181000718_63133779.html
+http://video.sina.com.cn/m/201309181000721_63056767.html
+http://video.sina.com.cn/movie/zongyi/
+http://video.sina.com.cn/vlist/ent/zyjbd/
+http://video.sina.com.cn/movie/detail/zgxjx
+http://video.sina.com.cn/movie/detail/jtymlx
+http://ent.sina.com.cn/f/CCTVZGHGQS1/video
+http://video.sina.com.cn/movie/zt/
+http://ent.sina.com.cn/z/twoxj/
+http://ent.sina.com.cn/z/xqkk/
+http://ent.sina.com.cn/z/kiss/
+http://ent.sina.com.cn/z/lmhj
+http://video.sina.com.cn/movie/category/original/
+http://video.sina.com.cn/m/lzlwh_63637067.html
+http://video.sina.com.cn/movie/detail/rzbj
+http://video.sina.com.cn/m/tyf_63566001.html
+http://video.sina.com.cn/movie/detail/shuaixingshenghuo
+http://video.sina.com.cn/documentary/
+http://video.sina.com.cn/m/ycyw_63422469.html
+http://video.sina.com.cn/m/ymxsy_61720599.html
+http://video.sina.com.cn/m/qdgcqj_61722069.html
+http://video.sina.com.cn/m/gd_61720637.html
+http://finance.sina.com.cn/
+http://finance.sina.com.cn/stock/
+http://finance.sina.com.cn/money/
+http://finance.sina.com.cn/realstock/company/sh000001/nc.shtml
+http://finance.sina.com.cn/chanjing/gsnews/20140402/153818692441.shtml
+http://finance.sina.com.cn/chanjing/gsnews/20140402/054018685470.shtml 
+http://finance.sina.com.cn/china/20140402/024718684422.shtml
+http://finance.sina.com.cn/world/20140402/054218685553.shtml
+http://finance.sina.com.cn/review/jcgc/20140402/005918682936.shtml
+http://finance.sina.com.cn/chanjing/gsnews/20140402/135718692403.shtml
+http://finance.sina.com.cn/consume/puguangtai/20140402/031918684609.shtml
+http://finance.sina.com.cn/chanjing/gsnews/20140402/030118684500.shtml
+http://finance.sina.com.cn/world/20140402/002918682921.shtml
+http://finance.sina.com.cn/stock/
+http://finance.sina.com.cn/stock/jsy/20140402/150218692101.shtml
+http://finance.sina.com.cn/stock/hkstock/hkstocknews/20140402/111518690320.shtml
+http://finance.sina.com.cn/stock/y/20140402/141518691512.shtml
+http://finance.sina.com.cn/stock/quanshang/qsyj/20140402/022818684227.shtml
+http://finance.sina.com.cn/money/
+http://finance.sina.com.cn/money/bank/ywycp/20140402/071918687106.shtml
+http://finance.sina.com.cn/zl/
+http://blog.sina.com.cn/lm/finance/
+http://blog.sina.com.cn/s/blog_44c6d9360101l9ys.html?tj=fina
+http://vip.stock.finance.sina.com.cn/moneyflow/
+http://vip.stock.finance.sina.com.cn/quotes_service/view/vStock_Qgqp.php
+http://vip.stock.finance.sina.com.cn/mkt/#stock_hs_up
+http://vip.stock.finance.sina.com.cn/mkt/#stock_hs_up_5min_20
+http://finance.sina.com.cn/stock/cpbd/
+http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_bill_sum.php
+http://blog.sina.com.cn/lm/stock/
+http://blog.sina.com.cn/lm/stock/
+http://finance.sina.com.cn/blog/14.html
+http://blog.sina.com.cn/s/blog_531c8a890102enft.html?tj=fina
+http://finance.sina.com.cn/stock/hkstock/
+http://finance.sina.com.cn/stock/hkstock/ggscyd/20140402/012818683760.shtml
+http://finance.sina.com.cn/stock/usstock/
+http://live.sina.com.cn/zt/l/v/finance/globalnews1/
+http://finance.sina.com.cn/stock/roll/gushilive.html
+http://finance.sina.com.cn/stock/jsy/20140402/150918692159.shtml
+http://finance.sina.com.cn/stock/gujiayidong/20140402/130918691095.shtml
+http://blog.sina.com.cn/s/blog_b0b8d3ab0101jy6a.html?tj=fina
+http://roll.finance.sina.com.cn/finance/zq1/scyj/index.shtml
+http://finance.sina.com.cn/stock/jsy/20140402/150118692095.shtml
+http://blog.sina.com.cn/s/blog_85c52d7c0101i6k1.html?tj=fina
+http://blog.sina.com.cn/s/blog_a39094320101cfqh.html?tj=fina
+http://roll.finance.sina.com.cn/finance/zq1/zldx/index.shtml
+http://blog.sina.com.cn/s/blog_ce22e6d40101kshz.html?tj=fina
+http://finance.sina.com.cn/stock/jsy/20140402/152818692285.shtml
+http://blog.sina.com.cn/s/blog_c10aef510101jl9k.html?tj=fina
+http://guba.sina.com.cn/
+http://guba.sina.com.cn/
+http://guba.sina.com.cn/?s=thread&tid=91117542&bid=1291
+http://finance.sina.com.cn/blog/8.html
+http://blog.sina.com.cn/s/blog_3e73dd170101j6n8.html?tj=fina
+http://blog.sina.com.cn/s/blog_4c3030840102evrp.html?tj=fina
+http://vip.stock.finance.sina.com.cn/q/go.php/vIR_CustomSearch/index.phtml
+http://finance.sina.com.cn/stock/s/20140402/055718685697.shtml
+http://finance.sina.com.cn/stock/marketresearch/20140402/035918684891.shtml
+http://finance.sina.com.cn/blog/14.html
+http://blog.sina.com.cn/lm/stock/
+http://blog.sina.com.cn/s/blog_606ca3a00102eexu.html?tj=fina
+http://finance.sina.com.cn/zl/stock/
+http://finance.sina.com.cn/stock/stocktalk/20140402/074318687749.shtml 
+http://finance.sina.com.cn/stock/hyyj/20140402/091318688804.shtml 
+http://finance.sina.com.cn/blog/7.html
+http://finance.sina.com.cn/money/future/GC/quote.shtml
+http://finance.sina.com.cn/money/future/CL/quote.shtml
+http://finance.sina.com.cn/money/forex/hq/USDCNY.shtml
+http://finance.sina.com.cn/fund/
+http://finance.sina.com.cn/money/fund/20140402/073018687547.shtml
+http://finance.sina.com.cn/money/fund/20140402/080718688050.shtml
+http://finance.sina.com.cn/money/fund/20140402/024418684391.shtml
+http://finance.sina.com.cn/money/fund/filter/#y5=4
+http://finance.sina.com.cn/money/
+http://finance.sina.com.cn/money/lczx/20140402/075318687897.shtml
+http://finance.sina.com.cn/money/zcsh/20140402/072018687416.shtml
+http://finance.sina.com.cn/money/lczx/20140402/080818688051.shtml
+http://finance.sina.com.cn/money/lczx/20140402/080518688045.shtml
+http://finance.sina.com.cn/money/insurance/bxyx/20140402/092118688909.shtml
+http://finance.sina.com.cn/money/dzxf/20140402/081618688139.shtml
+http://finance.sina.com.cn/money/lcgh/20140402/094318689147.shtml
+http://finance.sina.com.cn/forex/
+http://finance.sina.com.cn/money/forex/20140402/071118687540.shtml
+http://finance.sina.com.cn/money/forex/20140402/012618683740.shtml
+http://finance.sina.com.cn/nmetal/
+http://finance.sina.com.cn/stock/t/20140402/022818684225.shtml
+http://finance.sina.com.cn/money/nmetal/20140402/031918684569.shtml
+http://sports.sina.com.cn/l/2014-04-02/09277101550.shtml
+http://sports.sina.com.cn/l/2014-04-01/21387100935.shtml
+http://photo.sina.com.cn/
+http://slide.news.sina.com.cn/s/slide_1_2841_49057.html
+http://slide.sports.sina.com.cn/k/slide_2_786_63421.html
+http://slide.ent.sina.com.cn/star/h/slide_4_704_78291.html
+http://slide.mil.news.sina.com.cn/h/slide_8_27471_28762.html
+http://slide.history.sina.com.cn/z/slide_61_40602_44464.html
+http://slide.news.sina.com.cn/z/slide_1_33131_48496.html
+http://slide.sports.sina.com.cn/cba/slide_2_792_63384.html
+http://slide.ent.sina.com.cn/film/w/slide_4_704_78266.html
+http://fashion.sina.com.cn/z/s/2014FWZG/
+http://slide.tech.sina.com.cn/d/slide_5_453_44737.html
+http://photo.auto.sina.com.cn/highindex.php?HDid=12706
+http://blog.sina.com.cn/s/blog_450a32940102erv2.html?tj=1
+http://slide.fashion.sina.com.cn/b/slide_24_54277_44728.html
+http://slide.edu.sina.com.cn/slide_11_611_19740.html
+http://slide.collection.sina.com.cn/slide_26_17348_28323.html#p=11
+http://blog.sina.com.cn/lm/search/class/
+http://blog.sina.com.cn/lm/search/class/
+http://blog.sina.com.cn/s/blog_6780dfbb0101hoyp.html?tj=1
+http://blog.sina.com.cn/s/blog_45f00ef40102em2j.html?tj=1
+http://blog.sina.com.cn/s/blog_441b6f800102f960.html?tj=1
+http://blog.sina.com.cn/s/blog_57340dc90102eo8n.html?tj=1
+http://blog.sina.com.cn/s/blog_59b7078f0102e67i.html?tj=1
+http://blog.sina.com.cn/s/blog_3eac66f90102eaku.html?tj=1
+http://blog.sina.com.cn/
+http://blog.sina.com.cn/lm/rank/
+http://blog.sina.com.cn/
+http://blog.sina.com.cn/s/blog_d6febdb90101f4de.html?tj=1
+http://blog.sina.com.cn/s/blog_47383f2d0102e7hu.html?tj=1
+http://blog.sina.com.cn/s/blog_620cc9300101huyu.html?tj=1
+http://blog.sina.com.cn/s/blog_7bf69ea90101hoc3.html?tj=1
+http://blog.sina.com.cn/s/blog_48c00fbb0102e7n2.html?tj=1
+http://blog.sina.com.cn/s/blog_44dcedd70102el55.html?tj=1
+http://blog.sina.com.cn/s/blog_87f3adeb0101t559.html?tj=1
+http://blog.sina.com.cn/s/blog_4dafff710102ep5q.html?tj=1
+http://blog.sina.com.cn/s/blog_81ca55f80101jafa.html?tj=1
+http://blog.sina.com.cn/s/blog_4900fe270102efbs.html?tj=1
+http://blog.sina.com.cn/s/blog_5054769e0102ef3n.html?tj=1
+http://blog.sina.com.cn/s/blog_625c226d0101j30i.html?tj=1
+http://blog.sina.com.cn/s/blog_62df4ec10102e6i6.html?tj=1
+http://blog.sina.com.cn/s/blog_12ece77a00101e8gi.html?tj=1
+http://blog.sina.com.cn/s/blog_544a318c0101iecu.html?tj=1
+http://blog.sina.com.cn/s/blog_497631d70102esgo.html?tj=1
+http://blog.sina.com.cn/s/blog_4eddf60c0102e2bs.html?tj=1
+http://blog.sina.com.cn/s/blog_71c05d130101ewb5.html?tj=1
+http://blog.sina.com.cn/s/blog_bf83d6430101i052.html?tj=1
+http://blog.sina.com.cn/s/blog_aa875eee0101ib37.html?tj=1
+http://blog.sina.com.cn/s/blog_4ad54af90101gmme.html?tj=1
+http://blog.sina.com.cn/s/blog_649d796b0101ds3s.html?tj=1
+http://blog.sina.com.cn/s/blog_4d6a0eaa0101cv63.html?tj=1
+http://blog.sina.com.cn/lm/lz/#yl
+http://blog.sina.com.cn/lm/ruiblog/
+http://blog.sina.com.cn/lm/lz/#rw
+http://blog.sina.com.cn/lm/lz/#sh
+http://blog.sina.com.cn/s/blog_474a358f0102eeow.html?tj=1
+http://blog.sina.com.cn/s/blog_4870bbec0101h1nz.html?tj=1
+http://blog.sina.com.cn/s/blog_5549497e0102eul3.html?tj=1
+http://blog.sina.com.cn/s/blog_6a254f690101gkcv.html?tj=1
+http://blog.sina.com.cn/s/blog_653685b80101e7zt.html?tj=1
+http://blog.sina.com.cn/s/blog_4be8c9b30102eghq.html?tj=1
+http://blog.sina.com.cn/s/blog_9e8a163f0101hkub.html?tj=1
+http://blog.sina.com.cn/s/blog_a1b136950101ecak.html?tj=1
+http://blog.sina.com.cn/s/blog_578679c30101pupz.html?tj=1
+http://blog.sina.com.cn/s/blog_ab9e9eef0101jl7i.html?tj=1
+http://blog.sina.com.cn/s/blog_12d11cc650101hgu6.html?tj=1
+http://blog.sina.com.cn/s/blog_5d5947690102eevq.html?tj=1
+http://blog.sina.com.cn/s/blog_94b414920101emmr.html?tj=1
+http://blog.sina.com.cn/s/blog_5380600d0101efcq.html?tj=1
+http://blog.sina.com.cn/s/blog_631b93740101m398.html?tj=1
+http://blog.sina.com.cn/s/blog_473ffae70101i7wq.html?tj=1
+http://blog.sina.com.cn/s/blog_4bdc7dbf0102eg03.html?tj=1
+http://blog.sina.com.cn/s/blog_4ee36f050101j9bt.html?tj=1
+http://blog.sina.com.cn/s/blog_d6febdb90101f4de.html?tj=1
+http://blog.sina.com.cn/s/blog_44dcedd70102el55.html?tj=1
+http://blog.sina.com.cn/s/blog_87f3adeb0101t559.html?tj=1
+http://blog.sina.com.cn/s/blog_4dafff710102ep5q.html?tj=1
+http://blog.sina.com.cn/s/blog_81ca55f80101jafa.html?tj=1
+http://blog.sina.com.cn/s/blog_474a358f0102eeow.html?tj=1
+http://blog.sina.com.cn/s/blog_4870bbec0101h1nz.html?tj=1
+http://blog.sina.com.cn/s/blog_5549497e0102eul3.html?tj=1
+http://blog.sina.com.cn/s/blog_6a254f690101gkcv.html?tj=1
+http://blog.sina.com.cn/s/blog_653685b80101e7zt.html?tj=1
+http://blog.sina.com.cn/s/blog_4be8c9b30102eghq.html?tj=1
+http://blog.sina.com.cn/s/blog_9e8a163f0101hkub.html?tj=1
+http://blog.sina.com.cn/s/blog_a1b136950101ecak.html?tj=1
+http://blog.sina.com.cn/s/blog_578679c30101pupz.html?tj=1
+http://blog.sina.com.cn/s/blog_ab9e9eef0101jl7i.html?tj=1
+http://blog.sina.com.cn/s/blog_12d11cc650101hgu6.html?tj=1
+http://blog.sina.com.cn/s/blog_5d5947690102eevq.html?tj=1
+http://blog.sina.com.cn/s/blog_94b414920101emmr.html?tj=1
+http://blog.sina.com.cn/s/blog_5380600d0101efcq.html?tj=1
+http://blog.sina.com.cn/s/blog_631b93740101m398.html?tj=1
+http://blog.sina.com.cn/s/blog_473ffae70101i7wq.html?tj=1
+http://blog.sina.com.cn/s/blog_4bdc7dbf0102eg03.html?tj=1
+http://blog.sina.com.cn/s/blog_4ee36f050101j9bt.html?tj=1
+http://book.sina.com.cn/
+http://vip.book.sina.com.cn/book_lib.php?lib=001&order=fwc&sta=&pub=&dpc=1
+http://slide.book.sina.com.cn/book/slide_14_651_34032.html#p=1
+http://book.sina.com.cn/
+http://vip.book.sina.com.cn/books/40609.html
+http://vip.book.sina.com.cn/books/169629.html
+http://vip.book.sina.com.cn/books/5304566.html
+http://vip.book.sina.com.cn/books/238874.html
+http://vip.book.sina.com.cn/
+http://vip.book.sina.com.cn/books/5320127.html
+http://vip.book.sina.com.cn/books/5320131.html
+http://vip.book.sina.com.cn/books/254087.html
+http://vip.book.sina.com.cn/
+http://vip.book.sina.com.cn/books/5328519.html
+http://vip.book.sina.com.cn/books/258724.html
+http://vip.book.sina.com.cn/books/5323015.html
+http://vip.book.sina.com.cn/
+http://vip.book.sina.com.cn/books/5328516.html
+http://vip.book.sina.com.cn/books/5322034.html
+http://vip.book.sina.com.cn/books/260635.html
+http://vip.book.sina.com.cn/
+http://book.sina.com.cn/news/review/f/2014-04-01/1126618313.shtml
+http://book.sina.com.cn/news/review/w/2014-04-01/0949618232.shtml
+http://book.sina.com.cn/news/review/f/2014-03-24/1846615846.shtml
+http://vip.book.sina.com.cn/
+http://vip.book.sina.com.cn/books/260658.html
+http://vip.book.sina.com.cn/books/254459.html
+http://vip.book.sina.com.cn/books/5318375.html
+http://vip.book.sina.com.cn/
+http://vip.book.sina.com.cn/books/5320139.html
+http://vip.book.sina.com.cn/books/222406.html
+http://vip.book.sina.com.cn/books/231422.html
+http://vip.book.sina.com.cn/
+http://vip.book.sina.com.cn/books/5320135.html
+http://vip.book.sina.com.cn/books/176662.html
+http://vip.book.sina.com.cn/books/246966.html
+http://vip.book.sina.com.cn/
+http://vip.book.sina.com.cn/books/164424.html
+http://vip.book.sina.com.cn/books/228103.html
+http://vip.book.sina.com.cn/books/213773.html
+http://city.sina.com.cn/
+http://city.sina.com.cn/
+http://city.sina.com.cn/focus/t/2014-04-02/100042642.html
+http://vip.book.sina.com.cn/
+http://vip.book.sina.com.cn/books/255051.html
+http://vip.book.sina.com.cn/books/257771.html
+http://vip.book.sina.com.cn/books/256578.html
+http://vip.book.sina.com.cn/books/5320129.html
+http://vip.book.sina.com.cn/books/260111.html
+http://vip.book.sina.com.cn/books/5320145.html
+http://vip.book.sina.com.cn/books/255307.html
+http://vip.book.sina.com.cn/books/5318859.html
+http://vip.book.sina.com.cn/gg/index.html
+http://vip.book.sina.com.cn/books/241246.html
+http://vip.book.sina.com.cn/books/5297786.html
+http://vip.book.sina.com.cn/books/5321828.html
+http://vip.book.sina.com.cn/mm/index.html
+http://vip.book.sina.com.cn/books/238947.html
+http://vip.book.sina.com.cn/books/234184.html
+http://vip.book.sina.com.cn/books/5303949.html
+http://vip.book.sina.com.cn/book_type.php?t=3&dpc=1
+http://vip.book.sina.com.cn/books/234819.html
+http://vip.book.sina.com.cn/books/211772.html
+http://vip.book.sina.com.cn/books/200979.html
+http://vip.book.sina.com.cn/book_type.php?t=2&dpc=1
+http://vip.book.sina.com.cn/books/253607.html
+http://vip.book.sina.com.cn/books/237115.html
+http://vip.book.sina.com.cn/books/253719.html
+http://vip.book.sina.com.cn/mm/index.html
+http://vip.book.sina.com.cn/books/5328511.html
+http://vip.book.sina.com.cn/books/246842.html
+http://vip.book.sina.com.cn/books/5328508.html
+http://vip.book.sina.com.cn/gg/index.html
+http://vip.book.sina.com.cn/books/238229.html
+http://vip.book.sina.com.cn/books/233042.html
+http://vip.book.sina.com.cn/books/232930.html
+http://vip.book.sina.com.cn/book_lib.php?order=_dts&pub=2&s=list&dpc=1
+http://vip.book.sina.com.cn/books/195097.html
+http://vip.book.sina.com.cn/books/5328515.html
+http://vip.book.sina.com.cn/books/5318828.html
+http://book.sina.com.cn
+http://vip.book.sina.com.cn/books/110973.html
+http://vip.book.sina.com.cn/books/236711.html
+http://vip.book.sina.com.cn/books/151009.html
+http://book.sina.com.cn
+http://vip.book.sina.com.cn/books/243020.html
+http://vip.book.sina.com.cn/books/199098.html
+http://vip.book.sina.com.cn/books/5330344.html
+http://tech.sina.com.cn/d/photo/
+http://slide.tech.sina.com.cn/d/slide_5_453_44731.html
+http://slide.tech.sina.com.cn/d/slide_5_453_44731.html
+http://slide.tech.sina.com.cn/d/slide_5_453_44679.html
+http://slide.tech.sina.com.cn/d/slide_5_453_44732.html
+http://slide.tech.sina.com.cn/d/slide_5_453_44745.html
+http://slide.tech.sina.com.cn/d/slide_5_453_44733.html
+http://slide.tech.sina.com.cn/digi/slide_5_30939_44685.html
+http://tech.sina.com.cn/
+http://tech.sina.com.cn/discovery/
+http://tech.sina.com.cn/t/4g/
+http://blog.sina.com.cn/lm/tech/
+http://tech.sina.com.cn/internet/
+http://tech.sina.com.cn/zl/
+http://tech.sina.com.cn/zl/post/detail/2013-04-24/pid_8274000.htm
+http://tech.sina.com.cn/d/photo/
+http://tech.sina.com.cn/t/2014-04-02/01129290540.shtml
+http://tech.sina.com.cn/it/2014-04-02/04099291514.shtml
+http://tech.sina.com.cn/it/2014-04-02/07499292244.shtml
+http://tech.sina.com.cn/i/2014-04-02/02279291291.shtml
+http://tech.sina.com.cn/i/2014-04-02/14379293108.shtml
+http://tech.sina.com.cn/it/2014-04-02/10469292737.shtml
+http://tech.sina.com.cn/t/4g/2014-04-02/02359291317.shtml
+http://tech.sina.com.cn/i/2014-04-02/02319291313.shtml
+http://tech.sina.com.cn/i/2014-04-02/07299292048.shtml
+http://tech.sina.com.cn/it/2014-04-02/08109292293.shtml
+http://tech.sina.com.cn/zl/
+http://tech.sina.com.cn/zl/post/detail/i/2014-04-02/pid_8445914.htm
+http://blog.sina.com.cn/lm/tech/
+http://blog.sina.com.cn/s/blog_61feb3000101l0yo.html?tj=tech
+http://blog.sina.com.cn/s/blog_48a3708e0101gzrs.html?tj=tech
+http://tech.sina.com.cn/d/photo/
+http://slide.tech.sina.com.cn/d/slide_5_453_44737.html
+http://tech.sina.com.cn/d/2014-04-02/09189292449.shtml
+http://tech.sina.com.cn/d/2014-04-02/09339292497.shtml
+http://slide.tech.sina.com.cn/d/slide_5_453_44745.html
+http://slide.tech.sina.com.cn/d/slide_5_453_44731.html
+http://slide.tech.sina.com.cn/d/slide_5_453_44732.html
+http://tech.sina.com.cn/d/2014-04-02/10239292643.shtml
+http://slide.tech.sina.com.cn/d/slide_5_453_44733.html
+http://slide.tech.sina.com.cn/d/slide_5_453_44741.html
+http://tech.sina.com.cn/d/2014-04-02/09129292442.shtml
+http://slide.tech.sina.com.cn/d/slide_5_453_44682.html
+http://slide.tech.sina.com.cn/d/slide_5_453_44679.html
+http://tech.sina.com.cn/blog/image/
+http://blog.sina.com.cn/s/blog_69f845650102eien.html?tj=tech
+http://blog.sina.com.cn/s/blog_69f845650102eiem.html?tj=tech
+http://games.sina.com.cn/
+http://games.sina.com.cn/newgame/
+http://ka.sina.com.cn/
+http://games.sina.com.cn/hd.shtml
+http://games.sina.com.cn/photo/
+http://games.sina.com.cn/
+http://games.sina.com.cn/
+http://games.sina.com.cn/j/n/2014-04-02/1048774491.shtml
+http://games.sina.com.cn/g/n/2014-04-02/1008774449.shtml
+http://games.sina.com.cn/g/n/2014-04-02/1039774478.shtml
+http://games.sina.com.cn/newgame/
+http://games.sina.com.cn/ng/wxjh2/index.shtml
+http://games.sina.com.cn/ol/n/2014-04-01/1140774252.shtml
+http://games.sina.com.cn/ol/n/2014-04-01/1424774299.shtml
+http://games.sina.com.cn/ol/n/2014-04-01/1100774206.shtml
+http://ka.sina.com.cn/12019
+http://ka.sina.com.cn/11969
+http://games.sina.com.cn/9ding/index.shtml
+http://ka.sina.com.cn/11967
+http://games.sina.com.cn/jianghu/index.shtml
+http://ka.sina.com.cn/12069 
+http://games.sina.com.cn/wh/index.shtml
+http://ka.sina.com.cn/11976
+http://games.sina.com.cn/o/z/dhxy3/
+http://e.games.sina.com.cn/api/index?proj=hjavril
+http://e.games.sina.com.cn/?proj=whtg 
+http://e.games.sina.com.cn/api/index?proj=jianghu
+http://kan.sina.com.cn/act/fy
+http://e.games.sina.com.cn/api/index?proj=jdtx 
+http://ka.sina.com.cn/11973  
+http://e.games.sina.com.cn/api/index?proj=xsm
+http://games.sina.com.cn/m/n/2014-03-05/1526768024.shtml
+http://games.sina.com.cn/g/n/2014-03-03/1124767304.shtml
+http://games.sina.com.cn/g/n/2014-03-04/1050767562.shtml
+http://mobile.sina.com.cn/
+http://digi.sina.com.cn/
+http://tech.sina.com.cn/digital/
+http://tech.sina.com.cn/notebook/
+http://tech.sina.com.cn/down/
+http://tech.sina.com.cn/apple/
+http://tech.sina.com.cn/mobile/n/2014-04-02/07439292227.shtml
+http://tech.sina.com.cn/mobile/n/2014-04-02/08059292278.shtml
+http://tech.sina.com.cn/mobile/n/2014-04-02/07389292208.shtml
+http://tech.sina.com.cn/mobile/n/2014-04-02/08429292385.shtml
+http://tech.sina.com.cn/mobile/n/2014-04-02/08169292303.shtml
+http://tech.sina.com.cn/mobile/n/2014-04-02/05259291555.shtml
+http://tech.sina.com.cn/mobile/n/2014-04-02/05259291550.shtml
+http://tech.sina.com.cn/mobile/n/2014-04-02/05249291546.shtml
+http://tech.sina.com.cn/apple/
+http://tech.sina.com.cn/mobile/n/apple/2014-04-02/08069292287.shtml
+http://tech.sina.com.cn/it/2014-04-02/08249292337.shtml
+http://tech.sina.com.cn/mobile/tag/%E6%96%B0%E6%9C%BA%E6%9B%9D%E5%85%89
+http://tech.sina.com.cn/mobile/n/2014-04-02/10289292671.shtml
+http://tech.sina.com.cn/mobile/n/2014-04-02/13449292994.shtml
+http://tech.sina.com.cn/mobile/tag/Android
+http://tech.sina.com.cn/mobile/n/2014-04-01/15109289790.shtml
+http://slide.tech.sina.com.cn/mobile/slide_5_22298_44740.html
+http://tech.sina.com.cn/mobile/tag/%E8%AF%84%E6%B5%8B%E8%A7%A3%E6%9E%90
+http://slide.tech.sina.com.cn/mobile/slide_5_22298_44739.html
+http://tech.sina.com.cn/mobile/n/2014-04-02/07489292243.shtml
+http://mobile.sina.com.cn/
+http://tech.sina.com.cn/mobile/999/
+http://tech.sina.com.cn/mobile/n/2014-04-02/07439292228.shtml
+http://slide.tech.sina.com.cn/mobile/
+http://slide.tech.sina.com.cn/mobile/slide_5_22298_44620.html
+http://slide.tech.sina.com.cn/mobile/slide_5_22298_44628.html
+http://tech.sina.com.cn/mobile/tag/%E6%96%B0%E6%9C%BA%E6%9B%9D%E5%85%89
+http://tech.sina.com.cn/mobile/n/apple/2014-04-02/08209292335.shtml
+http://tech.sina.com.cn/mobile/n/2014-04-02/14369293107.shtml
+http://slide.tech.sina.com.cn/digi/slide_5_20550_44746.html
+http://tech.sina.com.cn/digital/
+http://tech.sina.com.cn/digi/tag/%E6%AF%8F%E6%97%A5%E8%A1%8C%E6%83%85
+http://tech.sina.com.cn/digi/dc/2014-04-02/08049292270.shtml
+http://tech.sina.com.cn/digi/dc/2014-04-02/07539292248.shtml
+http://tech.sina.com.cn/digi/dc/2014-04-02/08369292361.shtml
+http://tech.sina.com.cn/digi/dc/2014-04-02/08409292381.shtml
+http://tech.sina.com.cn/digi/dc/2014-04-02/08139292300.shtml
+http://tech.sina.com.cn/digi/dc/2014-04-02/07219291968.shtml
+http://tech.sina.com.cn/digi/tag/%E6%8A%80%E5%B7%A7
+http://tech.sina.com.cn/digi/dc/2014-04-02/08179292326.shtml
+http://slide.tech.sina.com.cn/digi/slide_5_20550_44736.html
+http://tech.sina.com.cn/digi/dc/2014-04-02/08399292375.shtml
+http://tech.sina.com.cn/digi/photo/
+http://slide.tech.sina.com.cn/digi/slide_5_30939_44727.html
+http://slide.tech.sina.com.cn/digi/slide_5_30939_44738.html
+http://slide.tech.sina.com.cn/digi/slide_5_30939_44742.html
+http://tech.sina.com.cn/notebook/
+http://tech.sina.com.cn/n/pad/2014-04-02/08169292304.shtml
+http://tech.sina.com.cn/notebook/buy.shtml
+http://tech.sina.com.cn/n/pad/2014-04-02/08339292354.shtml
+http://tech.sina.com.cn/n/2014-04-02/08489292404.shtml
+http://tech.sina.com.cn/notebook/new.shtml
+http://tech.sina.com.cn/n/pad/2014-04-02/08549292418.shtml
+http://tech.sina.com.cn/n/pad/2014-04-02/09049292425.shtml
+http://tech.sina.com.cn/pad
+http://tech.sina.com.cn/n/pad/2014-04-02/11159292804.shtml
+http://tech.sina.com.cn/n/2014-04-02/11429292859.shtml
+http://tech.sina.com.cn/hardware/
+http://tech.sina.com.cn/n/2014-04-02/08289292341.shtml
+http://tech.sina.com.cn/h/2014-04-02/08379292367.shtml
+http://app.sina.com.cn/?f=p_binfen&w=p_binfen
+http://app.sina.com.cn/app_index.php?f=p_binfen&w=p_binfen
+http://app.sina.com.cn/game_index.php?f=p_binfen&w=p_binfen
+http://app.sina.com.cn/installs.php?f=p_binfen&w=p_binfen
+http://app.sina.com.cn/?f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1399481&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1391137&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1371659&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1373324&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1395590&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=622549&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=100&secondcat=111&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=93489&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=100&secondcat=104&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=84504&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=100&secondcat=101&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=118088&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=100&secondcat=102&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=110395&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=545097&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=200&secondcat=205&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1408275&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=200&secondcat=204&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1312919&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=200&secondcat=212&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1007042&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=200&secondcat=206&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=136670&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1196010&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=100&secondcat=109&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=118149&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=100&secondcat=103&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=110131&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=100&secondcat=107&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=585118&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/catlist.php?cat=100&secondcat=103&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=76226&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1402379&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1401812&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1091192&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1339782&f=p_binfen&w=p_binfen
+http://app.sina.com.cn/appdetail.php?appID=1371825&f=p_binfen&w=p_binfen
+http://history.sina.com.cn/photo/
+http://slide.history.sina.com.cn/r/slide_61_40602_44644.html
+http://slide.history.sina.com.cn/r/slide_61_40602_43398.html
+http://slide.history.sina.com.cn/y/slide_61_40602_44530.html
+http://slide.history.sina.com.cn/r/slide_61_40602_44369.html
+http://history.sina.com.cn/
+http://cul.sina.com.cn/
+http://history.sina.com.cn/
+http://history.sina.com.cn/
+http://blog.sina.com.cn/lm/history/
+http://slide.history.sina.com.cn/r/slide_61_40602_35987.html
+http://history.sina.com.cn/zl/
+http://book.history.sina.com.cn/
+http://book.history.sina.com.cn/books/271
+http://book.history.sina.com.cn/
+http://blog.sina.com.cn/lm/history/
+http://blog.sina.com.cn/s/blog_3f5e61240102ebz8.html?tj=1
+http://blog.sina.com.cn/s/blog_470ffe5b0101ejw0.html?tj=1
+http://blog.sina.com.cn/lm/history/
+http://blog.sina.com.cn/s/blog_4bb2fcdf0102euot.html?tj=1
+http://blog.sina.com.cn/s/blog_c4f2b62a0101k506.html?tj=1
+http://cul.history.sina.com.cn/
+http://cul.history.sina.com.cn/
+http://slide.history.sina.com.cn/w/slide_61_40602_44756.html#p=1
+http://cul.book.sina.com.cn/
+http://history.sina.com.cn/cul/lx/2014-04-02/095186708.shtml
+http://history.sina.com.cn/cul/fx/2014-04-02/000186686.shtml
+http://history.sina.com.cn/news/list/29.shtml
+http://history.sina.com.cn/bk/jgcqs/2014-03-31/174686614.shtml
+http://history.sina.com.cn/bk/wgs/2014-03-31/171486610.shtml
+http://history.sina.com.cn/news/list/29.shtml
+http://history.sina.com.cn/bk/jgcqs/2014-03-31/165486607.shtml
+http://history.sina.com.cn/bk/wgs/2014-03-31/175286615.shtml
+http://history.sina.com.cn/bk/kzs/2014-03-31/163186605.shtml
+http://history.sina.com.cn/lszx/whrd/2014-04-02/101086716.shtml 
+http://blog.sina.com.cn/lm/history/
+http://cul.history.sina.com.cn/
+http://history.sina.com.cn/his/zl/2014-03-03/180184148.shtml
+http://history.sina.com.cn/cul/fx/2014-04-01/103686654.shtml
+http://history.sina.com.cn/cul/fx/2014-04-01/102586651.shtml
+http://history.sina.com.cn/cul/fx/2014-03-28/094086382.shtml
+http://history.sina.com.cn/litera/gc/2014-03-26/101586170.shtml
+http://history.sina.com.cn/cul/lx/2014-03-27/232286370.shtml
+http://history.sina.com.cn/cul/lx/2014-03-28/100286384.shtml
+http://history.sina.com.cn/litera/xz/2014-03-21/181585898.shtml
+http://history.sina.com.cn/cul/dt/2014-03-27/225786298.shtml
+http://history.sina.com.cn/litera/rw/2014-03-26/234086282.shtml
+http://history.sina.com.cn/art/2014-03-21/102085798.shtml
+http://history.sina.com.cn/obser/px/2014-03-26/232386279.shtml
+http://history.sina.com.cn/cul/dt/2014-03-19/171685618.shtml
+http://history.sina.com.cn/cul/fx/2014-03-03/103984072.shtml
+http://history.sina.com.cn/cul/fx/2014-03-19/164785616.shtml
+http://history.sina.com.cn/litera/rw/2014-03-24/154386025.shtml
+http://history.sina.com.cn/litera/gc/2014-03-21/101085811.shtml
+http://history.sina.com.cn/cul/lx/2014-03-10/151284803.shtml
+http://history.sina.com.cn/litera/xz/2014-03-24/095585979.shtml
+http://mil.news.sina.com.cn/
+http://slide.mil.news.sina.com.cn/h/slide_8_34780_28757.html
+http://mil.news.sina.com.cn/
+http://mil.news.sina.com.cn/2014-04-02/0955771948.html
+http://mil.news.sina.com.cn/2014-04-02/0802771911.html
+http://mil.news.sina.com.cn/2014-04-02/0956771949.html
+http://mil.news.sina.com.cn/2014-04-02/0808771912.html
+http://mil.news.sina.com.cn/2014-04-02/1105771976.html
+http://mil.news.sina.com.cn/2014-04-02/0857771931.html
+http://mil.news.sina.com.cn/2014-04-02/0939771946.html
+http://roll.mil.news.sina.com.cn/photo_hz/photo_hdphoto/index.shtml
+http://slide.mil.news.sina.com.cn/l/slide_8_34780_28758.html
+http://slide.mil.news.sina.com.cn/h/slide_8_34780_28760.html
+http://roll.mil.news.sina.com.cn/photo_hz/photo_hdphoto/index
+http://slide.mil.news.sina.com.cn/h/slide_8_27471_28762.html
+http://slide.mil.news.sina.com.cn/h/slide_8_28830_28759.html
+http://roll.mil.news.sina.com.cn/photo_hz/photo_hdphoto/index.shtml.shtml
+http://slide.mil.news.sina.com.cn/l/slide_8_442_28765.html
+http://slide.mil.news.sina.com.cn/h/slide_8_260_28767.html
+http://roll.mil.news.sina.com.cn/photo_hz/photo_hdphoto/index.shtml
+http://slide.mil.news.sina.com.cn/h/slide_8_323_28768.html
+http://slide.mil.news.sina.com.cn/h/slide_8_203_28769.html
+http://roll.mil.news.sina.com.cn/blog/js-jsrd/index.shtml
+http://blog.sina.com.cn/s/blog_470071c90102e2ni.html?tj=1
+http://blog.sina.com.cn/s/blog_5073c4d70102ft5n.html?tj=1
+http://news.sina.com.cn/society/
+http://gongyi.sina.com.cn/
+http://news.sina.com.cn/society/
+http://news.sina.com.cn/society/
+http://news.sina.com.cn/s/p/2014-04-02/090929847262.shtml
+http://news.sina.com.cn/s/2014-04-02/015929843784.shtml
+http://news.sina.com.cn/c/2014-04-02/044029844594.shtml
+http://video.sina.com.cn/p/news/s/v/2014-04-02/084563690669.html
+http://news.sina.com.cn/s/2014-04-02/084329847109.shtml
+http://news.sina.com.cn/s/2014-04-02/023729843976.shtml
+http://news.sina.com.cn/s/p/2014-04-02/042129844475.shtml
+http://news.sina.com.cn/s/2014-04-02/033329844410.shtml
+http://news.sina.com.cn/s/2014-04-02/030529844103.shtml
+http://news.sina.com.cn/s/2014-04-02/083729847066.shtml
+http://news.sina.com.cn/s/2014-04-02/021929843918.shtml
+http://news.sina.com.cn/s/2014-04-02/020029843828.shtml
+http://news.sina.com.cn/s/2014-04-02/043629844571.shtml
+http://gongyi.sina.com.cn/
+http://gongyi.sina.com.cn/
+http://gongyi.sina.com.cn/gyzx/2014-04-02/095648578.html
+http://gongyi.sina.com.cn/greenlife/2014-04-02/100748579.html
+http://gongyi.sina.com.cn/gyzx/2014-04-02/092748570.html
+http://gongyi.sina.com.cn/gyzx/2014-04-01/191048568.html
+http://gongyi.sina.com.cn/gyzx/2014-04-02/104448597.html
+http://gongyi.sina.com.cn/gyzx/2014-04-02/100848580.html
+http://gongyi.sina.com.cn/gyzx/2014-04-02/101048583.html
+http://gongyi.sina.com.cn/greenlife/index.shtml
+http://gongyi.sina.com.cn/gyzx/2014-04-02/100948581.html
+http://gongyi.sina.com.cn/gyzx/2014-04-02/095448577.html
+http://gongyi.sina.com.cn/gyzx/ngo.html
+http://gongyi.sina.com.cn/gyzx/2014-04-02/102848591.html
+http://gongyi.sina.com.cn/zhuantilist.html
+http://gongyi.sina.com.cn/z/yaeqx/index.shtml
+http://gongyi.sina.com.cn/z/qsgc/index.shtml
+http://gongyi.sina.com.cn/zhuantilist.html
+http://gongyi.sina.com.cn/z/wise/index.shtml
+http://gongyi.sina.com.cn/z/gongyizeren6/index.shtml
+http://yangfanbook.sina.com.cn/
+http://yangfanbook.sina.com.cn/news/763
+http://games.sina.com.cn/
+http://kan.sina.com.cn/
+http://ka.sina.com.cn/
+http://kan.sina.com.cn/
+http://games.sina.com.cn/
+http://games.sina.com.cn/y/n/2014-04-01/1409774289.shtml
+http://games.sina.com.cn/g/n/2014-04-01/1524774340.shtml
+http://games.sina.com.cn/y/n/2014-04-01/1157774264.shtml
+http://games.sina.com.cn/g/n/2014-04-01/1141774256.shtml
+http://games.sina.com.cn/o/z/wow/2014-04-01/1114533441.shtml
+http://games.sina.com.cn/ol/n/2014-04-01/1140774252.shtml
+http://games.sina.com.cn/m/n/2014-03-31/2003774103.shtml
+http://games.sina.com.cn/ol/n/2014-04-01/1100774206.shtml
+http://games.sina.com.cn/ol/n/2014-04-01/1045774182.shtml
+http://games.sina.com.cn/o/n/2014-04-01/0956774118.shtml
+http://ka.sina.com.cn/
+http://ka.sina.com.cn/11922
+http://ka.sina.com.cn/12019
+http://ka.sina.com.cn/12069     
+http://games.sina.com.cn/pc/
+http://games.sina.com.cn/j/n/2014-04-01/1027774158.shtml
+http://games.sina.com.cn/xyz/n/2014-04-01/1025774157.shtml
+http://top.sina.com.cn/
+http://games.sina.com.cn/r/2014-01-17/2765.html
+http://games.sina.com.cn/r/2014-01-17/2764.html
+http://games.sina.com.cn/r/2014-01-24/2770.html
+http://games.sina.com.cn/video/
+http://games.sina.com.cn/xyz/n/2014-04-01/1116774219.shtml
+http://games.sina.com.cn/j/n/2014-04-01/1013774138.shtml
+http://mall.sina.com.cn/
+http://mall.sina.com.cn/product/single/product_id/1277 
+http://mall.sina.com.cn/gw2  
+http://kan.sina.com.cn/zq/hj 
+http://kan.sina.com.cn/zq/fengyun 
+http://kan.sina.com.cn/zq/1006tv
+http://kan.sina.com.cn/act/hs 
+http://kan.sina.com.cn/act/sdzero
+http://kan.sina.com.cn/zq/dhxy2
+http://kan.sina.com.cn/zq/seiya 
+http://kan.sina.com.cn/u/2159261040/2740584 
+http://kan.sina.com.cn/zq/hj
+http://kan.sina.com.cn/zq/thyj 
+http://kan.sina.com.cn/u/2497398112
+http://kan.sina.com.cn/anchor/
+http://kan.sina.com.cn/u/2608720237/2814652 
+http://kan.sina.com.cn/u/1359540065/2818375
+http://kan.sina.com.cn/activity/
+http://kan.sina.com.cn/zq/scntvsc  
+http://kan.sina.com.cn/zq/gamefy1
+http://kan.sina.com.cn/hotgirls/
+http://kan.sina.com.cn/zq/shqz2 
+http://kan.sina.com.cn/act/fy
+http://kan.sina.com.cn/dj/
+http://kan.sina.com.cn/zq/scntvlol
+http://kan.sina.com.cn/u/teamlgd/ 
+http://kan.sina.com.cn/zq/gaoqing1
+http://kan.sina.com.cn/zq/D8TV
+http://kan.sina.com.cn/u/2868626764/2827033 
+http://eladies.sina.com.cn/
+http://eladies.sina.com.cn/feel/
+http://eladies.sina.com.cn/photo/
+http://eladies.sina.com.cn/
+http://eladies.sina.com.cn/
+http://eladies.sina.com.cn/feel/
+http://eladies.sina.com.cn/qg/2014/0402/07271241746.shtml
+http://eladies.sina.com.cn/qg/2014/0402/07271241747.shtml
+http://eladies.sina.com.cn/news/
+http://eladies.sina.com.cn/news/2014/0402/07291241760.shtml
+http://eladies.sina.com.cn/news/2014/0402/07301241758.shtml
+http://fashion.sina.com.cn/luxury/
+http://fashion.sina.com.cn/l/ts/2014-04-02/0719/doc-ianfzhne5907491.shtml
+http://fashion.sina.com.cn/d/sx/2014-04-02/0723/doc-ianfzhnw0137918.shtml
+http://fashion.sina.com.cn/style/
+http://slide.fashion.sina.com.cn/s/slide_24_54274_44695.html#p=1
+http://slide.fashion.sina.com.cn/s/slide_24_54274_44722.html#p=1
+http://fashion.sina.com.cn/wedding/
+http://fashion.sina.com.cn/w/re/2014-04-02/0746/doc-ianfzhne5907515.shtml
+http://fashion.sina.com.cn/match/
+http://slide.fashion.sina.com.cn/m/slide_24_54277_44719.html
+http://fashion.sina.com.cn/beauty/
+http://slide.fashion.sina.com.cn/b/slide_24_54277_44702.html#p=1
+http://fashion.sina.com.cn/b/ha/2014-04-02/0716/doc-ianfzhns6585825.shtml
+http://fashion.sina.com.cn/b/sk/2014-04-02/0716/doc-ianfzhnh2684035.shtml
+http://eladies.sina.com.cn/photo/
+http://slide.eladies.sina.com.cn/news/slide_3_56687_22223.html
+http://slide.eladies.sina.com.cn/news/slide_3_55689_22220.html
+http://slide.eladies.sina.com.cn/news/slide_3_55689_22218.html
+http://slide.eladies.sina.com.cn/news/slide_3_56687_22222.html
+http://eladies.sina.com.cn/qg/koushu/
+http://eladies.sina.com.cn/qg/2014/0402/07281241748.shtml
+http://eladies.sina.com.cn/qg/2014/0402/07281241749.shtml
+http://eladies.sina.com.cn/qg/2014/0402/07291241750.shtml
+http://eladies.sina.com.cn/news/
+http://eladies.sina.com.cn/news/2014/0402/07301241759.shtml
+http://eladies.sina.com.cn/news/2014/0402/07311241763.shtml
+http://eladies.sina.com.cn/news/2014/0402/07331241764.shtml
+http://fashion.sina.com.cn/column/
+http://blog.sina.com.cn/lm/eladies/
+http://blog.sina.com.cn/s/blog_56135cd50101p6mj.html?tj=1
+http://blog.sina.com.cn/s/blog_4d08765e0102egs2.html?tj=1
+http://eladies.sina.com.cn/bbs/
+http://club.eladies.sina.com.cn/slide.php?tid=5861628
+http://fashion.sina.com.cn/try/product/746
+http://eladies.sina.com.cn/qg/2014/0402/07261241769.shtml
+http://eladies.sina.com.cn/qg/2014/0402/07251241757.shtml
+http://eladies.sina.com.cn/qg/2014/0402/07271241745.shtml
+http://eladies.sina.com.cn/news/2014/0402/07301241759.shtml
+http://eladies.sina.com.cn/news/2014/0401/18021241770.shtml
+http://eladies.sina.com.cn/qg/2014/0402/07291241750.shtml
+http://eladies.sina.com.cn/qg/2014/0402/07281241749.shtml
+http://eladies.sina.com.cn/qg/2014/0402/07281241748.shtml
+http://eladies.sina.com.cn/qg/2014/0402/07271241747.shtml
+http://eladies.sina.com.cn/news/2014/0402/07301241758.shtml
+http://eladies.sina.com.cn/news/2014/0402/07291241760.shtml
+http://blog.sina.com.cn/s/blog_5031f2930101juhc.html?tj=1
+http://blog.sina.com.cn/s/blog_72d70d460101nj8w.html?tj=1
+http://slide.eladies.sina.com.cn/news/slide_3_55689_22203.html
+http://slide.eladies.sina.com.cn/news/slide_3_55689_22200.html
+http://slide.eladies.sina.com.cn/news/slide_3_55689_22126.html
+http://slide.eladies.sina.com.cn/news/slide_3_55689_22181.html
+http://blog.sina.com.cn/s/blog_51177cc40102ek4l.html?tj=1
+http://blog.sina.com.cn/s/blog_c3b3c9fd0101h0dz.html?tj=1
+http://blog.sina.com.cn/s/blog_e2bcbf7a0101q3me.html?tj=1
+http://blog.sina.com.cn/s/blog_ebfa936d0101dcw0.html?tj=1
+http://house.sina.com.cn/
+http://esf.sina.com.cn/
+http://jiaju.sina.com.cn/
+http://bj.house.sina.com.cn/zhuanti/kanfang/index.shtml
+http://search.house.sina.com.cn/bj/news/
+http://bj.house.sina.com.cn/
+http://data.house.sina.com.cn/bj/search/10,11,12,13,14,15,16,17,18,19,2,3,4,5,8,9-1113,1114,1115,1116,1119-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html
+http://bj.house.sina.com.cn/scan/2014-04-02/09082671435.shtml
+http://bj.house.sina.com.cn/exhibit/
+http://bj.house.sina.com.cn/exhibit/qipa/index.shtml
+http://data.house.sina.com.cn/bj/new/
+http://bj.house.sina.com.cn/exhibit/shouloudianhua/index.shtml
+http://search.house.sina.com.cn/bj/news/scdt/
+http://bj.house.sina.com.cn/news/2014-04-02/08282671093.shtml
+http://bj.house.sina.com.cn/news/2014-04-02/08132670948.shtml
+http://data.house.sina.com.cn/bj96567/slide/4290422/
+http://data.house.sina.com.cn/bj58344/slide/5034123/
+http://data.house.sina.com.cn/bj103089/slide/5053469/
+http://bj.house.sina.com.cn/bbs/
+http://bj.bbs.house.sina.com.cn/5833433131914382606/thread.html
+http://bj.bbs.house.sina.com.cn/5833387653290020389/thread.html
+http://blog.sina.com.cn/lm/house/
+http://blog.sina.com.cn/s/blog_48f319170102eba5.html?tj=1
+http://blog.sina.com.cn/s/blog_3e6711ee0102eba6.html?tj=1
+http://house.sina.com.cn/
+http://bj.house.sina.com.cn/news/2014-04-02/07562670860.shtml
+http://suzhou.house.sina.com.cn/news/2014-04-02/07524032579.shtml
+http://esf.sina.com.cn/
+http://bj.esf.sina.com.cn/act/house
+http://jiaju.sina.com.cn/
+http://jiaju.sina.com.cn/news/j/20140402/354325.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9999
+http://zx.jiaju.sina.com.cn/anli/34961.html?utm_source=snls&utm_medium=nrw&utm_campaign=n_9998
+http://bj.esf.sina.com.cn/news/hd/2014yrj/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140331qf/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140401qf/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140325xj/
+
+http://hz.esf.sina.com.cn/zt/hz.html
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140211zwy/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140324xj/
+http://esf.sina.com.cn/
+http://bj.esf.sina.com.cn/news_show.php?id=41530
+http://esf.sina.com.cn/
+http://bj.esf.sina.com.cn/news_show.php?id=41527
+http://bj.esf.sina.com.cn/news_show.php?id=41526
+http://esf.sina.com.cn/
+http://bj.esf.sina.com.cn/news_show.php?id=41531
+http://esf.sina.com.cn/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140324qf/
+
+http://bj.esf.sina.com.cn/news/hd/201403dhmwq/
+http://esf.sina.com.cn/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140313xj/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140305zwy/
+http://esf.sina.com.cn/
+http://bj.esf.sina.com.cn/news/hd/201403wb/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140318xj/
+
+http://esf.sina.com.cn/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140319xj/
+http://bj.esf.sina.com.cn/news/hd/sina_daogou/daogou20140318wy/
+http://esf.sina.com.cn/
+http://bj.esf.sina.com.cn/house/a7/
+http://bj.esf.sina.com.cn/house/t2/
+http://bj.esf.sina.com.cn/house/t11/
+http://bj.esf.sina.com.cn/house/o%E5%AD%A6%E5%8C%BA%E6%88%BF/
+http://bj.esf.sina.com.cn/house/o%E8%A7%82%E6%99%AF%E6%88%BF/
+http://bj.esf.sina.com.cn/house/o%E4%BC%98%E8%B4%A8%E6%88%BF/
+http://jiaju.sina.com.cn/news/j/20140401/354085.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9993
+http://jiaju.sina.com.cn/news/j/20140402/354313.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9997
+http://jiaju.sina.com.cn/haoguanjia/012.html?utm_source=snls&utm_medium=nrw&utm_campaign=n_9996
+http://zx.jiaju.sina.com.cn/anli/35072.html?utm_source=snls&utm_medium=nrw&utm_campaign=n_9995
+http://zx.jiaju.sina.com.cn/anli/34439.html?utm_source=snls&utm_medium=nrw&utm_campaign=n_9994
+http://jiaju.sina.com.cn/news/fengshui/20140402/354329.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9992
+http://jiaju.sina.com.cn/news/j/20140402/354323.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9984
+http://zx.jiaju.sina.com.cn/
+http://zx.jiaju.sina.com.cn/anli/35436.html?utm_source=snls&utm_medium=nrw&utm_campaign=n_9991
+http://zx.jiaju.sina.com.cn/anli/35338.html?utm_source=snls&utm_medium=nrw&utm_campaign=n_9983
+http://jiaju.sina.com.cn/decoration/
+http://jiaju.sina.com.cn/news/20140402/354318.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9990
+http://jiaju.sina.com.cn/news/20140402/354314.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9982
+http://jiaju.sina.com.cn/decoration/
+http://cs.jiaju.sina.com.cn/news/20140402/653383.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9985
+http://jiaju.sina.com.cn/news/j/20140402/354334.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9977
+http://jiaju.sina.com.cn/decoration/
+http://jiaju.sina.com.cn/news/j/20140402/354317.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9989
+http://jiaju.sina.com.cn/news/j/20140328/353621.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9981
+http://zx.jiaju.sina.com.cn/
+http://zx.jiaju.sina.com.cn/anli/35147.html?utm_source=snls&utm_medium=nrw&utm_campaign=n_9988
+http://zx.jiaju.sina.com.cn/anli/34183.html?utm_source=snls&utm_medium=nrw&utm_campaign=n_9980
+http://jiaju.sina.com.cn/design/
+http://jiaju.sina.com.cn/news/q/20140401/354245.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9987
+http://jiaju.sina.com.cn/news/j/20140402/354315.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9979
+http://jiaju.sina.com.cn/decoration/
+http://jiaju.sina.com.cn/news/j/20140402/354312.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9986
+http://jiaju.sina.com.cn/news/j/20140402/354305.shtml?utm_source=snls&utm_medium=nrw&utm_campaign=n_9978
+http://ke.edu.sina.com.cn/
+http://open.sina.com.cn/course/id_686
+http://open.sina.com.cn/course/id_686
+http://open.sina.com.cn/
+http://open.sina.com.cn/
+http://open.sina.com.cn/course/id_818
+http://edu.sina.com.cn/
+http://edu.sina.com.cn/a/
+http://open.sina.com.cn/
+http://edu.sina.com.cn/gaokao/
+http://edu.sina.com.cn/zxx/
+http://edu.sina.com.cn/bschool/
+http://edu.sina.com.cn/photo/
+http://edu.sina.com.cn/
+http://edu.sina.com.cn/gaokao/
+http://edu.sina.com.cn/official/
+http://kaoshi.edu.sina.com.cn/collegedb/collegelist.php
+http://edu.sina.com.cn/gaokao/2014-03-28/0934413564.shtml
+http://edu.sina.com.cn/gaokao/2014cuaa/
+http://edu.sina.com.cn/kaoyan/2014-04-02/1013413897.shtml
+http://edu.sina.com.cn/kaoyan/
+http://kaoshi.edu.sina.com.cn/kaoyan_tiaoji/index.php
+http://edu.sina.com.cn/a/2014-04-02/1122241501.shtml
+http://edu.sina.com.cn/a/2014-04-02/0852241474.shtml
+http://edu.sina.com.cn/a/
+http://edu.sina.com.cn/bschool/
+http://edu.sina.com.cn/bschool/2014-04-02/1557413938.shtml
+http://edu.sina.com.cn/a/2014-04-02/1109241499.shtml
+http://edu.sina.com.cn/foreign/
+http://edu.sina.com.cn/foreign/
+http://edu.sina.com.cn/en/2014-04-01/165979739.shtml
+http://edu.sina.com.cn/toefl/
+http://edu.sina.com.cn/zxx/
+http://edu.sina.com.cn/zxx/2014-04-01/1458413845.shtml
+http://edu.sina.com.cn/zxx/2014-04-01/1613413862.shtml
+http://edu.sina.com.cn/ischool/2014-04-01/1338413829.shtml
+http://edu.sina.com.cn/kids/
+http://blog.sina.com.cn/lm/edu/
+http://blog.sina.com.cn/s/blog_b62b04f60101jryw.html?tj=1
+http://blog.sina.com.cn/s/blog_e2ff853d0101q6s1.html?tj=1
+http://slide.edu.sina.com.cn/
+http://slide.edu.sina.com.cn/slide_11_615_19718.html
+http://slide.edu.sina.com.cn/slide_11_611_19700.html
+http://slide.edu.sina.com.cn/slide_11_615_19688.html
+http://open.sina.com.cn/course/id_465/lesson_4882/
+http://edu.sina.com.cn/a/2014-04-02/1122241500.shtml
+http://edu.sina.com.cn/a/2014-04-02/1100241493.shtml
+http://open.sina.com.cn/course/id_722
+http://open.sina.com.cn/course/id_1005
+http://open.sina.com.cn/course/id_467
+http://lx.edu.sina.com.cn/searchadv
+http://lx.edu.sina.com.cn/university
+http://lx.edu.sina.com.cn/adv/faq?qastat=1
+http://edu.sina.com.cn/a/2014-04-02/1029241486.shtml
+http://edu.sina.com.cn/a/2014-04-02/1044241490.shtml
+http://edu.sina.com.cn/a/2014-04-02/1122241501.shtml
+http://edu.sina.com.cn/a/2014-04-02/1023241485.shtml
+http://open.sina.com.cn/course/id_286/lesson_3934/
+http://open.sina.com.cn/course/id_657/
+http://m.sina.com.cn/m/sinaopencourse.shtml
+http://open.sina.com.cn/course/id_107
+http://open.sina.com.cn/course/id_870/
+http://open.sina.com.cn/course/id_783/
+http://open.sina.com.cn/course/id_1004
+http://open.sina.com.cn/course/id_121/lesson_3212/
+http://open.sina.com.cn/course/id_971/lesson_6567/
+http://open.sina.com.cn/course/id_3/
+http://open.sina.com.cn/course/id_880/lesson_6720/
+http://open.sina.com.cn/course/id_27/lesson_1351/
+http://open.sina.com.cn/course/id_292/lesson_3979/
+http://open.sina.com.cn/course/id_244/lesson_3327/
+http://open.sina.com.cn/course/id_137/lesson_2511/
+http://baby.sina.com.cn/
+http://slide.baby.sina.com.cn/other/slide_10_846_17567.html#p=1
+http://baby.sina.com.cn
+http://baby.sina.com.cn/photo/
+http://slide.baby.sina.com.cn/other/slide_10_846_18264.html#p=1
+http://slide.baby.sina.com.cn/yjq/slide_10_846_19720.html/d/1#p=1
+http://slide.baby.sina.com.cn/yjq/slide_10_846_19534.html/d/1#p=1
+http://slide.baby.sina.com.cn/syj/slide_10_846_19093.html/d/1#p=2
+http://video.sina.com.cn/v/b/127793882-1684836114.html
+http://video.sina.com.cn/v/b/123176458-1684836114.html
+http://baby.sina.com.cn/yunchan/
+http://baby.sina.com.cn/health/14/0104/2014-04-01/0741268265.shtml
+http://baby.sina.com.cn/health/14/0104/2014-04-01/0814268274.shtml
+http://baby.sina.com.cn/health/14/0104/2014-04-01/0911268285.shtml
+http://baby.sina.com.cn/baobao/
+http://baby.sina.com.cn/edu/14/0104/2014-04-01/0954268292.shtml
+http://baby.sina.com.cn/edu/14/0104/2014-04-01/0952268291.shtml
+http://baby.sina.com.cn/edu/14/0104/2014-04-01/1004268293.shtml
+http://baby.sina.com.cn/tv/
+http://video.baby.sina.com.cn/p/baby/v/2014-04-01/111663686971.html
+http://video.baby.sina.com.cn/p/baby/v/2014-04-01/111563686969.html
+http://video.baby.sina.com.cn/p/baby/v/2014-04-01/111663686973.html
+http://club.baby.sina.com.cn/
+http://club.baby.sina.com.cn/thread-3878112-1-1.html
+http://club.baby.sina.com.cn/thread-3877741-1-1.html
+http://club.baby.sina.com.cn/thread-3878118-1-1.html
+http://blog.baby.sina.com.cn/lm/baby/
+http://blog.baby.sina.com.cn/s/blog_5b2a14b00102ejja.html
+http://blog.baby.sina.com.cn/s/blog_6ea650ec0101kjwt.html
+http://blog.baby.sina.com.cn/s/blog_671d9a860102e9my.html
+http://ask.baby.sina.com.cn/
+http://ask.baby.sina.com.cn/ask/question-detail/qid/22524874
+http://ask.baby.sina.com.cn/ask/question-detail/qid/22524867
+http://ask.baby.sina.com.cn/ask/question-detail/qid/22521720
+http://baby.sina.com.cn/zt/
+http://baby.sina.com.cn/z/80chanyiyu/
+http://baby.sina.com.cn/z/xianai/
+http://baby.sina.com.cn/z/mianfeiwanju/
+http://baby.sina.com.cn/news/list.html
+http://baby.sina.com.cn/news/2014-04-01/084163515.shtml
+http://baby.sina.com.cn/news/2014-04-01/090263520.shtml
+http://baby.sina.com.cn/news/2014-04-01/084963516.shtml
+http://fashion.sina.com.cn/
+http://fashion.sina.com.cn/
+http://slide.fashion.sina.com.cn/s/slide_24_54274_44695.html
+http://fashion.sina.com.cn/b/sk/2014-03-31/1620/doc-ianfzhnh2684034.shtml
+http://slide.fashion.sina.com.cn/d/slide_24_54277_44720.html
+http://fashion.sina.com.cn/l/2014-04-02/0720/doc-ianfzhns6585945.shtml
+http://fashion.sina.com.cn/l/ds/2014-04-02/0720/doc-ianfzhnx6949856.shtml
+http://fashion.sina.com.cn/w/mo/2014-04-01/1653/doc-ianfzhns6585962.shtml
+http://fashion.sina.com.cn/
+http://fashion.sina.com.cn/photo/
+http://fashion.sina.com.cn/
+http://fashion.sina.com.cn/
+http://fashion.sina.com.cn/
+http://fashion.sina.com.cn/beauty/
+http://fashion.sina.com.cn/b/sk/2014-04-02/0715/doc-ianfzhnx6953280.shtml
+http://fashion.sina.com.cn/style/
+http://slide.fashion.sina.com.cn/s/slide_24_54274_44725.html
+http://fashion.sina.com.cn/try/
+http://fashion.sina.com.cn/try/product/744
+http://fashion.sina.com.cn/style/
+http://fashion.sina.com.cn/s/ce/2014-04-02/0710/doc-ianfzhnx6953183.shtml
+http://fashion.sina.com.cn/s/in/2014-04-02/0713/doc-ianfzhns6585946.shtml
+http://fashion.sina.com.cn/beauty/
+http://fashion.sina.com.cn/z/b/beautyicon034/
+http://fashion.sina.com.cn/b/sk/2014-04-02/0714/doc-ianfzhns6585820.shtml
+http://fashion.sina.com.cn/body/
+http://fashion.sina.com.cn/d/se/2014-04-02/0722/doc-ianfzhnw0141524.shtml
+http://fashion.sina.com.cn/d/ft/2014-04-02/0723/doc-ianfzhns6582207.shtml
+http://fashion.sina.com.cn/luxury/
+http://fashion.sina.com.cn/z/l/2014basel/
+ http://fashion.sina.com.cn/l/ds/2014-04-02/0717/doc-ianfzhnw0141927.shtml
+http://fashion.sina.com.cn/wedding/
+http://fashion.sina.com.cn/w/mo/2014-04-02/0745/doc-ianfzhnw0142218.shtml
+http://fashion.sina.com.cn/w/mo/2014-04-02/0746/doc-ianshist1090820.shtml
+http://fashion.sina.com.cn/column/
+http://fashion.sina.com.cn/zl/fashion/blog/2014-04-01/1109973/1265683744/4b70cd200101pcy0.shtml
+http://fashion.sina.com.cn/zl/beauty/blog/2014-04-01/1654980/1360250413/5113c62d0101c5ga.shtml
+http://fashion.sina.com.cn/photo/
+http://slide.fashion.sina.com.cn/l/slide_24_54277_44713.html
+http://slide.fashion.sina.com.cn/l/slide_24_54277_44710.html
+http://slide.fashion.sina.com.cn/l/slide_24_54277_44711.html
+http://fashion.sina.com.cn/photo/
+http://slide.fashion.sina.com.cn/l/slide_24_54277_44709.html
+http://eladies.sina.com.cn/news/
+http://eladies.sina.com.cn/news/2014/0401/06501241710.shtml
+http://fashion.sina.com.cn/photo/
+http://slide.fashion.sina.com.cn/l/slide_24_54277_44712.html
+http://fashion.sina.com.cn/beauty/
+http://fashion.sina.com.cn/beauty/
+http://fashion.sina.com.cn/photo/
+http://slide.fashion.sina.com.cn/l/slide_24_54277_44707.html
+http://slide.fashion.sina.com.cn/l/slide_24_54277_44704.html
+http://fashion.sina.com.cn/photo/
+http://slide.fashion.sina.com.cn/l/slide_24_54277_44705.html
+http://slide.fashion.sina.com.cn/l/slide_24_54277_44706.html
+http://fashion.sina.com.cn/style/
+http://slide.fashion.sina.com.cn/s/slide_24_54274_44698.html
+http://slide.fashion.sina.com.cn/s/slide_24_54274_44725.html
+http://fashion.sina.com.cn/beauty/
+http://fashion.sina.com.cn/b/ha/2014-03-21/doc-ianfzhne5902438.shtml
+http://fashion.sina.com.cn/b/ha/2014-03-28/1513/doc-ianfzhni9463554.shtml
+http://fashion.sina.com.cn/body/
+http://fashion.sina.com.cn/d/ft/2014-04-02/0722/doc-ianfzhna9115842.shtml
+http://fashion.sina.com.cn/d/ca/2014-04-02/0722/doc-ianfzhnh2684023.shtml
+http://fashion.sina.com.cn/luxury/
+http://fashion.sina.com.cn/l/ts/2014-04-02/0721/doc-ianfzhnh2684575.shtml
+http://fashion.sina.com.cn/wedding/
+http://slide.fashion.sina.com.cn/w/slide_24_51906_39313.html
+http://fashion.sina.com.cn/zl/
+http://blog.sina.com.cn/s/blog_4ac1e3c60101hrdb.html?tj=lady
+http://blog.sina.com.cn/s/blog_ec11c2d10101t2lw.html?tj=1
+http://travel.sina.com.cn/
+http://travel.sina.com.cn/
+http://travel.sina.com.cn/z/dache/
+http://travel.sina.com.cn/huilingdun_2293-xiangqing-gonglue/
+http://travel.sina.com.cn/kenniya_1958-xiangqing-gonglue/
+http://travel.sina.com.cn/lvyou/
+http://travel.sina.com.cn/sc_sichuan_2337-xiangqing-gonglue/
+http://travel.sina.com.cn/js_suzhou_2339-xiangqing-gonglue/
+http://travel.sina.com.cn/lvyou/
+http://i.travel.sina.com.cn/gx_guilin_2374-xiangqing-gonglue/?retcode=0
+http://i.travel.sina.com.cn/ah_xuancheng_2355-xiangqing-gonglue/?retcode=0
+http://travel.sina.com.cn/lvyou/
+http://travel.sina.com.cn/liwupu_1674-xiangqing-gonglue/
+http://travel.sina.com.cn/taiwan_1680-xiangqing-gonglue/
+http://travel.sina.com.cn/lvyou/
+http://travel.sina.com.cn/meiguo_1744-xiangqing-gonglue/
+http://travel.sina.com.cn/aidingbao_1655-xiangqing-gonglue/
+http://data.travel.sina.com.cn/quanbu-remen/
+http://travel.sina.com.cn/world/2014-04-02/0938255879.shtml
+http://travel.sina.com.cn/world/2014-04-01/1815255811.shtml
+http://travel.sina.com.cn/zhuti/
+http://vi.travel.sina.com.cn/play/?a=53279&u=&c=4&t=0
+http://vi.travel.sina.com.cn/play/?a=53273&u=&c=2&t=0
+http://vi.travel.sina.com.cn/play/?a=53297&u=&c=3&t=0
+http://discovery.travel.sina.com.cn/quanbu-faxian/
+http://blog.sina.com.cn/s/blog_76c5a72a0101efid.html?tj=1
+http://blog.sina.com.cn/s/blog_651653920101gdrr.html?tj=1
+http://blog.sina.com.cn/s/blog_6f75ca110102ejim.html?tj=1
+http://collection.sina.com.cn/
+http://golf.sina.com.cn/
+http://collection.sina.com.cn/
+http://collection.sina.com.cn/auction/hqgc/20140402/1420147920.shtml
+http://collection.sina.com.cn/zlxx/20140402/0758147855.shtml
+http://collection.sina.com.cn/cqyw/20140402/1221147915.shtml
+http://collection.sina.com.cn/plfx/20140402/1115147897.shtml
+http://roll.collection.sina.com.cn/collection/yjjj/index.shtml
+http://collection.sina.com.cn/yjjj/20140402/0805147859.shtml
+http://collection.sina.com.cn/yjjj/20140402/0802147857.shtml
+http://collection.sina.com.cn/auction/
+http://collection.sina.com.cn/auction/pcdt/20140402/1139147905.shtml
+http://zt.collection.sina.com.cn/index.php?d_id=550
+http://roll.collection.sina.com.cn/collection/wwzx/index.shtml
+http://collection.sina.com.cn/cqyw/20140402/0749147850.shtml
+http://collection.sina.com.cn/wwzx/20140402/0751147851.shtml
+http://roll.collection.sina.com.cn/collection/jczs2/index.shtml
+http://collection.sina.com.cn/jczs/20140402/0752147852.shtml
+http://collection.sina.com.cn/fcys/20140402/0739147846.shtml
+http://roll.collection.sina.com.cn/collection/yhds/index.shtml
+http://collection.sina.com.cn/yhds/20140402/1008147869.shtml
+http://collection.sina.com.cn/zlxx/20140402/1041147884.shtml
+http://roll.collection.sina.com.cn/collection/cqyw/index.shtml
+http://collection.sina.com.cn/cqyw/20140402/1201147912.shtml
+http://collection.sina.com.cn/cqyw/20140402/1053147889.shtml
+http://roll.collection.sina.com.cn/collection/plfx/index.shtml
+http://collection.sina.com.cn/auction/zjgd/20140402/1023147877.shtml
+http://collection.sina.com.cn/plfx/20140402/1043147886.shtml
+http://slide.sports.sina.com.cn/?sub=golf&cate=&k=%D1%A1%C3%C0%B4%F3%C8%FC&x=34&y=10
+http://golf.sina.com.cn/
+http://sports.sina.com.cn/golf/2014-04-02/08147101462.shtml
+http://slide.sports.sina.com.cn/golf/slide_2_754_63401.html
+http://sports.sina.com.cn/golf/2014-04-02/08517101497.shtml
+http://sports.sina.com.cn/golf/2014-03-30/17317095619.shtml
+http://sports.sina.com.cn/golf/2014-03-31/08507097707.shtml
+http://sports.sina.com.cn/golf/2014-03-31/09037097813.shtml
+http://sports.sina.com.cn/golf/2014-03-31/09207097905.shtml
+http://sports.sina.com.cn/golf/2014-04-01/09187100100.shtml
+http://sports.sina.com.cn/golf/2014-04-01/12027100395.shtml
+http://sports.sina.com.cn/golf/2014-03-29/15417092425.shtml
+http://sports.sina.com.cn/golf/2014-03-29/22317093127.shtml
+http://video.sina.com.cn/p/sports/golf/v/2014-03-21/120263644909.html
+http://video.sina.com.cn/p/sports/golf/v/2014-03-19/152363637265.html
+http://video.sina.com.cn/p/sports/golf/v/2014-03-19/124863636735.html
+http://sports.sina.com.cn/golf/blog/
+http://blog.sina.com.cn/s/blog_63415a250102e7qq.html?tj=1
+http://blog.sina.com.cn/s/blog_5a6217550101doy8.html?tj=1
+http://golf.sina.com.cn/instruction/
+http://golf.sina.com.cn/instruction/
+http://sports.sina.com.cn/golf/2014-03-29/15187092327.shtml
+http://health.sina.com.cn/
+http://health.sina.com.cn/healthcare/
+http://health.sina.com.cn/
+http://health.sina.com.cn/sexknowledge/
+http://health.sina.com.cn/healthcare/
+http://slide.health.sina.com.cn/hc/slide_31_28380_33951.html
+http://health.sina.com.cn/disease/
+http://health.sina.com.cn/d/2014-04-02/0732130383.shtml
+http://blog.sina.com.cn/lm/health/
+http://blog.sina.com.cn/s/blog_eccba32e0101exlq.html?tj=1
+http://health.sina.com.cn/healthcare/
+http://health.sina.com.cn/hc/ys/2014-04-02/0725130410.shtml
+http://health.sina.com.cn/hc/ys/2014-04-02/1031130474.shtml
+http://health.sina.com.cn/hc/sh/2014-04-02/1255130518.shtml
+http://health.sina.com.cn/disease/
+http://health.sina.com.cn/d/2014-04-02/1157130514.shtml
+http://health.sina.com.cn/d/2014-04-02/0728130373.shtml
+http://health.sina.com.cn/d/2014-04-02/0727130389.shtml
+http://health.sina.com.cn/news/
+http://health.sina.com.cn/news/2014-04-02/0747130419.shtml
+http://health.sina.com.cn/news/
+http://health.sina.com.cn/baoguang/
+http://health.sina.com.cn/baoguang/
+http://health.sina.com.cn/news/jianwenlianbo19/
+http://blog.sina.com.cn/lm/health/
+http://blog.sina.com.cn/s/blog_eccc0f7f0101jup4.html?tj=1
+http://blog.sina.com.cn/s/blog_bcf0813e0101i2j0.html?tj=1
+http://blog.sina.com.cn/s/blog_ec99b4eb0101kj70.html?tj=1
+http://health.sina.com.cn/photo/
+http://slide.health.sina.com.cn/d/slide_31_28379_33079.html
+http://slide.health.sina.com.cn/hc/slide_31_28380_40309.html
+http://slide.health.sina.com.cn/news/slide_31_28381_35221.html
+http://health.sina.com.cn/sexknowledge/
+http://health.sina.com.cn/sexknowledge/
+http://health.sina.com.cn/hc/s/2014-04-02/0716130351.shtml
+http://health.sina.com.cn/z/sexologist/
+http://fo.sina.com.cn/
+http://fo.sina.com.cn/
+http://fo.sina.com.cn/news/dfhd/2014-04-02/100817158.shtml
+http://fo.sina.com.cn/news/dfhd/2014-04-02/101417159.shtml
+http://blog.sina.com.cn/s/blog_4e4dbab00102ezrv.html?tj=1
+http://fo.sina.com.cn/news/dfhd/2014-04-02/101917160.shtml
+http://fo.sina.com.cn/news/gdfx/2014-04-02/115217168.shtml
+http://fo.sina.com.cn/school/2014-04-02/115917169.shtml
+http://blog.sina.com.cn/s/blog_bf33e3580101huzx.html?tj=1
+http://fo.sina.com.cn/intro/basic/index.shtml
+http://fo.sina.com.cn/intro/basic/2014-04-02/094117156.shtml
+http://fo.sina.com.cn/intro/basic/2014-04-02/111017164.shtml
+http://fo.sina.com.cn/intro/lecture/index.shtml
+http://blog.sina.com.cn/s/blog_697ccf950102e6eu.html?tj=1
+http://fo.sina.com.cn/intro/lecture/2014-04-02/094817157.shtml
+http://blog.sina.com.cn/s/blog_4c3eb8050102epjc.html?tj=1
+http://fo.sina.com.cn/blog/
+http://blog.sina.com.cn/s/blog_50ecf2130102ewp3.html?tj=1
+http://blog.sina.com.cn/s/blog_6ac6a4860102e2yw.html?tj=1
+http://fo.sina.com.cn/culture/tea/
+http://fo.sina.com.cn/culture/tea/2014-04-02/102017161.shtml
+http://blog.sina.com.cn/s/blog_769fb5f30101joiy.html?tj=1
+http://fo.sina.com.cn/veg/
+http://fo.sina.com.cn/veg/cp/2014-04-02/141617174.shtml
+http://fo.sina.com.cn/veg/cp/2014-04-02/141217173.shtml
+http://pet.sina.com.cn/
+http://eat.sina.com.cn/
+http://blog.sina.com.cn/s/blog_4fdcb72b0101ggl2.html?tj=1
+http://blog.sina.com.cn/s/blog_62d41bb30101gnjq.html?tj=1
+http://blog.sina.com.cn/s/blog_9b7eeaf10101s30t.html?tj=1
+http://blog.sina.com.cn/s/blog_abf70be70101k3vi.html?tj=1
+http://blog.sina.com.cn/s/blog_5505ed4b0102eifx.html?tj=1
+http://blog.sina.com.cn/s/blog_bcfe1c840101kfk1.html?tj=1
+http://blog.sina.com.cn/s/blog_98a3573d0101gk0e.html?tj=1
+http://blog.sina.com.cn/s/blog_58de062d0101rvo3.html?tj=1
+http://blog.sina.com.cn/s/blog_59b526250102fczm.html?tj=1
+http://food.bj.sina.com.cn/
+http://food.bj.sina.com.cn/restaurant.php
+http://food.bj.sina.com.cn/album/
+http://food.bj.sina.com.cn/explore/
+http://food.bj.sina.com.cn/explore/
+http://food.bj.sina.com.cn/explore/detail-8945866.html
+http://food.bj.sina.com.cn/explore/detail-8943956.html
+http://food.bj.sina.com.cn/explore/detail-8943294.html
+http://food.bj.sina.com.cn/album/
+http://food.bj.sina.com.cn/album/detail-136748.html
+http://food.bj.sina.com.cn/album/detail-134778.html
+http://food.bj.sina.com.cn/album/detail-140820.html
+http://blog.sina.com.cn/lm/edu/
+http://blog.sina.com.cn/s/blog_3fa735b80102ekh4.html?tj=edu
+http://blog.sina.com.cn/s/blog_e2ff83e40101gg6o.html?tj=1
+http://edu.sina.com.cn/bschool/
+http://edu.sina.com.cn/bschool/2014-04-02/1605413942.shtml
+http://edu.sina.com.cn/bschool/2014-04-02/1557413938.shtml
+http://edu.sina.com.cn/kids/2014-04-02/145979751.shtml
+http://edu.sina.com.cn/zl/
+http://blog.sina.com.cn/s/blog_b6235fc80101cin5.html?tj=1
+http://blog.sina.com.cn/s/blog_acff6a7a0101knpt.html?tj=1
+http://astro.sina.com.cn/
+http://slide.astro.sina.com.cn/slide_52_42283_28794.html
+http://astro.sina.com.cn/2013/4.html
+http://astro.sina.com.cn/z/blogsx/
+http://astro.sina.com.cn/fate/astro_aries_week.html?prourl=0
+http://astro.sina.com.cn/v/2014-04-01/1220108304.shtml
+http://astro.sina.com.cn/v/2014-04-01/1137108298.shtml
+http://blog.sina.com.cn/s/blog_4b4cded40102e5gu.html?tj=1
+http://astro.sina.com.cn/v/2014-04-01/1122108279.shtml
+http://astro.sina.com.cn/v/2014-04-01/1124108292.shtml
+http://blog.sina.com.cn/s/blog_d9b3ba840101fs0b.html?tj=1
+http://astro.sina.com.cn/test
+http://astro.sina.com.cn/t/2014-04-01/1506108322.shtml
+http://astro.sina.com.cn/t/2014-04-01/1512108324.shtml
+http://astro.sina.com.cn/t/2014-04-01/1513108325.shtml
+http://astro.sina.com.cn/luck/
+http://blog.sina.com.cn/s/blog_6431df490102e887.html?tj=1
+http://blog.sina.com.cn/s/blog_3e8e948a0102eoon.html?tj=1
+http://blog.sina.com.cn/s/blog_be7808710101gjeg.html?tj=1
+http://blog.sina.com.cn/s/blog_5e38a5f00101jvur.html?tj=1
+http://astro.sina.com.cn/learn/
+http://astro.sina.com.cn/l/2014-04-01/1519108327.shtml
+http://astro.sina.com.cn/l/2014-04-01/1517108326.shtml
+http://astro.sina.com.cn/l/2014-03-31/1151108244.shtml
+http://astro.sina.com.cn/psych/
+http://astro.sina.com.cn/xl/2014-04-01/1106108278.shtml
+http://astro.sina.com.cn/xl/2014-04-01/1059108277.shtml
+http://astro.sina.com.cn/xl/2014-03-31/1103108219.shtml
+http://astro.sina.com.cn/bbs/
+http://club.astro.sina.com.cn/thread-1300820-1-1.html
+http://club.astro.sina.com.cn/thread-1300985-1-1.html
+http://astro.sina.com.cn/bbs/
+http://club.astro.sina.com.cn/thread-1299744-1-1.html
+http://club.astro.sina.com.cn/thread-318676-1-1.html
+http://slide.astro.sina.com.cn/
+http://slide.astro.sina.com.cn/slide_52_42283_28691.html
+http://slide.astro.sina.com.cn/slide_52_42283_28728.html
+http://slide.astro.sina.com.cn/slide_52_42283_28731.html
+http://city.sina.com.cn/
+http://sh.sina.com.cn/
+http://tj.sina.com.cn/
+http://cq.sina.com.cn/
+http://gd.sina.com.cn/
+http://henan.sina.com.cn/
+http://sc.sina.com.cn/
+http://fj.sina.com.cn/
+http://mn.sina.com.cn/
+http://zj.sina.com.cn/
+http://jiangsu.sina.com.cn
+http://hebei.sina.com.cn/
+http://hb.sina.com.cn/
+http://hunan.sina.com.cn/
+http://sx.sina.com.cn/
+http://ln.sina.com.cn/
+http://hlj.sina.com.cn
+http://ah.sina.com.cn
+http://jx.sina.com.cn/
+http://jl.sina.com.cn/
+http://shanxi.sina.com.cn/
+http://hainan.sina.com.cn/
+http://sd.sina.com.cn/
+http://gx.sina.com.cn/
+http://nb.sina.com.cn/
+http://dl.sina.com.cn/
+http://wx.sina.com.cn/
+http://hlj.sina.com.cn/lyj/index.html 
+http://city.sina.com.cn/city/f/sjzwx.html
+http://hlj.sina.com.cn/shangzhi/
+http://city.sina.com.cn/city/Declaration.html
+http://city.sina.com.cn/invest/i/list.html
+http://sx.sina.com.cn/zt/city/xachanba/index.shtml
+http://hlj.sina.com.cn/mdr/index.html
+http://corp.sina.com.cn/chn/
+http://corp.sina.com.cn/eng/
+http://emarketing.sina.com.cn/
+http://www.sina.com.cn/contactus.html
+http://career.sina.com.cn/
+http://www.sina.com.cn/intro/lawfirm.shtml
+https://login.sina.com.cn/signup/signup.php
+http://help.sina.com.cn/
+http://corp.sina.com.cn/chn/sina_priv.html
+http://www.sina.com.cn/intro/copyright.shtml
+http://www.sina.com.cn/licence/www0003.html
+http://www.sina.com.cn/licence/pub.html
+http://www.sina.com.cn/licence/video.html
+http://www.sina.com.cn/licence/news.html
+http://www.sina.com.cn/licence/yjj0031.html
+http://www.sina.com.cn/licence/4.html
+http://www.sina.com.cn/licence/3.html
+http://www.sina.com.cn/license/telecom09.html
+http://www.sina.com.cn/licence/dx000007.html
+http://www.sina.com.cn/licence/wsxx.html
+http://www.sina.com.cn/license/rtppl2009.html
+http://www.sina.com.cn/license/map2011.html
