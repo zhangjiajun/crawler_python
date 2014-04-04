@@ -46,7 +46,8 @@ class MyParser(HTMLParser.HTMLParser):
 			#judge <a>  
 			for name,value in attrs:
 				if name =='href' and "http" in value and domain in value:  
-					self.links.append(value+"\n")
+					self.links.append(value)
+#					self.links.append(value+"\n")
 #					print value
 
 if __name__=='__main__':
@@ -66,12 +67,13 @@ if __name__=='__main__':
 	fp_1.close()
 #here input my.links to url_last
 
-#	print type(my.links),my.links[100]
-	for i in range(21,24,1):
+	fp_1=open("url_result.txt",'a')
+	print type(my.links),my.links[21:29]
+	for i in range(21,29,1):
 		print datetime.datetime.now()
-		Page_1=html_open(my.links[i])
+		Page_1=html_open(my.links[22])
 		my_1=MyParser()
 		my_1.feed(Page_1)
-		fp_1=open("url_result.txt",'a')
 		fp_1.writelines(my_1.links)
 		
+	fp_1.close()
