@@ -6,7 +6,7 @@
 #  target:just for python practise
 #  language:python
 
-import HTMLParser,urllib
+import HTMLParser,urllib2
 import re,sys,os,string
 import BeautifulSoup
 import chardet
@@ -52,5 +52,5 @@ if __name__=='__main__':
 		print i
 		time = datetime.datetime.now()
 		print time,type(time)
-		Page = urllib.urlopen(i).read()
+		Page = urllib2.urlopen(i).read()
 		get_title_keyword(Page)

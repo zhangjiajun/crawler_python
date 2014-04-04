@@ -7,14 +7,13 @@
 #  target:just for python practise
 #  language:python
 
-import HTMLParser,urllib2
+import HTMLParser,urllib2,urlparse
 import re,sys,os,string
 import datetime
 
 def domain_get(url_open):
 	
 	pattern = re.compile(r'https*://\w+?\.([\w\.]*)/*')
-#	pattern = re.compile(r'https*://([\w\.]*)/*')
 	domain = pattern.match(url_open)
 	return domain.group(1)
 
@@ -46,13 +45,13 @@ class MyParser(HTMLParser.HTMLParser):
 			#judge <a>  
 			for name,value in attrs:
 				if name =='href' and "http" in value and domain in value:  
-					self.links.append(value)
-#					self.links.append(value+"\n")
+#					self.links.append(value)
+					self.links.append(value+"\n")
 #					print value
 
 if __name__=='__main__':
 #	url_open = raw_input("Please input the url : \n")
-	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463']
+	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
 	global domain
 	example=url_open[0]
 	domain = domain_get(example)
@@ -64,14 +63,18 @@ if __name__=='__main__':
 	fp.writelines(my.links)
 	fp_1=open("url_result.txt",'wb+')
 	fp_1.truncate()
-	fp_1.close()
 #here input my.links to url_last
 
-	fp_1=open("url_result.txt",'a')
 	print type(my.links),my.links[21:29]
 	for i in range(21,29,1):
 		print datetime.datetime.now()
-		Page_1=html_open(my.links[22])
+		#just dig from the current website
+		link_open=my.links[23]
+		host=urlparse.urlparse(link_open)
+		domain = host.hostname
+		print domain
+
+		Page_1=html_open(link_open)
 		my_1=MyParser()
 		my_1.feed(Page_1)
 		fp_1.writelines(my_1.links)
