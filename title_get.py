@@ -9,7 +9,7 @@
 import HTMLParser,urllib2
 import re,sys,os,string
 import BeautifulSoup
-import chardet
+import codecs
 import datetime
 
 def get_title_keyword(Page):
@@ -40,9 +40,11 @@ def get_title_keyword(Page):
 
 
 #	写入标题
-#	fp = open("title.txt",'a')
-#	fp.writelines(str(title[7:-8]))
-#	fp.writelines(str(keyword))
+	reload(sys)
+	sys.setdefaultencoding("utf-8")
+	fp = open("title.txt",'wb+')
+	fp.writelines(str(title[7:-8]).encode("utf-8"))
+	fp.writelines(str(keyword).encode("utf-8"))
 
 if __name__=='__main__':
 	fp = open("title.txt",'wb+')

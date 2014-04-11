@@ -11,8 +11,8 @@ import BeautifulSoup
 import re,sys,os,string
 import datetime
 
-from Queue import Queue
-from threading import Thread,Lock
+import Queue
+import threading
 
 #-------founction make httpheaders and open html ---------
 def html_open(url_input):
@@ -27,50 +27,52 @@ def html_open(url_input):
 	return Page
 
 #------founction get title and keyword ----------
-def get_title_keyword(Page):
+def title_get(Page):
 	
 	soup= BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	title= unicode(soup.title)
-	print title[7:-8],type(title[8])
+	print title[7:-8]
 
-#	keyword=soup.findAll('meta',attrs={"name":"keywords"})
-#	print keyword,type(keyword)
+#------founction deal with html ----------
+def html_deal(url_input):
+
+	Page_1=html_open(url_input)
+	title_get(Page_1)
+	print url_input
 
 #---use thread to get information----
-class Thread_url:
-	def __init__(self,threads):
-		# lock thread
-		self.lock=Lock()
-		self.q_req=Queue()
-		self.q_ans=Queue()
-		for i in range(threads):
-			t=Thread(target=self.thread_start)
-			t.setDaemon(True)
-			t.start()
-		self.running=0
-	def push(self,queue):
-		self.q_req.put(queue)
-	def pop(self):
-		return self.q_ans.get()
-	def thread_start(self):
+class Thread_url(threading.Thread):
+	def __init__(self,queue):
+		threading.Thread.__init__(self)
+		self.q_req=queue
+	def run(self):
+		global count
 		url_open=self.q_req.get()
-		Page=html_open(url_open)
-		get_title_keyword(Page)
-		#sent a singal when task done
+		count +=1
+		html_deal(url_open)
 		self.q_req.task_done()
 
+def thread_go(num):
+	for i in range(0,num):
+		t =Thread_url(queue)
+		t.start()
+		t.join()
+	
 
 if __name__=='__main__':
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
 	time_1= datetime.datetime.now()
 	print "time start: ",time_1
 	print "crawler staring ..."
-	queue=Queue()
+	global queue
+	count =0
+	queue=Queue.Queue()
 	for i in url_open:
 		queue.put(i)
-#		print queue.qsize()
-	t =Thread_url(4)
-	t.push(queue)
+#	t= Thread_url(queue)
+#	t.start()
+	thread_go(2)
+	print "count=",count
 	time_2= datetime.datetime.now()
 	print "time end: ",time_2
 	print "time use: %s " %(time_2-time_1)
