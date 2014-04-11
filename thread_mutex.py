@@ -9,7 +9,7 @@
 import HTMLParser,urllib2,urlparse
 import BeautifulSoup
 import re,sys,os,string
-import datetime
+import datetime,time
 
 import Queue
 import threading
@@ -42,20 +42,23 @@ def html_deal(url_input):
 
 #---use thread to get information----
 class Thread_url(threading.Thread):
-	def __init__(self,queue):
-		threading.Thread.__init__(self)
-		self.q_req=queue
+	def __init__(self,t_name):
+		threading.Thread.__init__(self,name=t_name)
 	def run(self):
 		global count
-		url_open=self.q_req.get()
-		count +=1
-		html_deal(url_open)
-		self.q_req.task_done()
+		while queue.qsize():
+			url_open=queue.get()
+			count +=1
+			html_deal(url_open)
+			queue.task_done()
 
 def thread_go(num):
 	for i in range(0,num):
-		t =Thread_url(queue)
+		t_name="thread_%s" %i
+		t =Thread_url(t_name)
 		t.start()
+	for i in range(0,num):
+		t_name="thread_%s" %i
 		t.join()
 	
 
@@ -71,7 +74,8 @@ if __name__=='__main__':
 		queue.put(i)
 #	t= Thread_url(queue)
 #	t.start()
-	thread_go(2)
+	thread_go(8)
+	time.sleep(2)
 	print "count=",count
 	time_2= datetime.datetime.now()
 	print "time end: ",time_2

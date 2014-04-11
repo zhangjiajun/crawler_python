@@ -45,13 +45,6 @@ def get_title_keyword(Page):
 
 #	keyword=soup.findAll('meta',attrs={"name":"keywords"})
 #	print keyword,type(keyword)
-def thread_go(num):
-	for i in range(num):
-
-		t =Thread_url(queue)
-		t.setDaemon(True)
-		t.start()
-		queue.join()
 
 if __name__=='__main__':
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
@@ -62,7 +55,11 @@ if __name__=='__main__':
 	queue=Queue.Queue()
 	for i in url_open:
 		queue.put(i)
-	thread_go(4)
+#	thread_go(num)
+	t =Thread_url(queue)
+	t.setDaemon(True)
+	t.start()
+	queue.join()
 	time_2= datetime.datetime.now()
 	print "time end:",time_2
 	print "time use: %s " %(time_2-time_1)
