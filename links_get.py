@@ -9,14 +9,27 @@
 
 import HTMLParser,urllib2,urlparse
 import re,sys,os,string
-import datetime
+import datetime,time
 
 def domain_get(url_open):
 	
 	pattern = re.compile(r'https*://\w+?\.([\w\.]*)/*')
-	domain = pattern.match(url_open)
-	return domain.group(1)
+	domain_1 = pattern.match(url_open)
+#	host=urlparse.urlparse(example)
+#	domain = host.hostname
+	domain = domain_1.group(1)
+	return domain
 
+
+def link_get(url_open):
+	Page = html_open(url_open)
+	pattern = re.compile("href=\"(.+?)\"")
+	link_1 = pattern.findall(Page)
+	for link in link_1:
+		if "http" in link and domain in link:
+			if link not in links:
+				links.append(link+'\n')
+	
 
 def html_open(url_input):
 
@@ -45,38 +58,26 @@ class MyParser(HTMLParser.HTMLParser):
 			#judge <a>  
 			for name,value in attrs:
 				if name =='href' and "http" in value and domain in value:  
-#					self.links.append(value)
 					self.links.append(value+"\n")
-#					print value
 
 if __name__=='__main__':
-#	url_open = raw_input("Please input the url : \n")
-	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
-	global domain
-	example=url_open[0]
+	url_open = raw_input("Please input the url : \n")
+#	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
+	global domain,links
+	links = []
+	example=url_open
 	domain = domain_get(example)
 	print "url input:",example,'\n',"url domain:",domain
+	
 	Page = html_open(example)
-	my = MyParser()
-	my.feed(Page)
 	fp=open("test.txt",'wb+')
-	fp.writelines(my.links)
+	fp.writelines(Page)
+	time.sleep(1)
+	fp.close()
+
+	link_get(example)
 	fp_1=open("url_result.txt",'wb+')
 	fp_1.truncate()
-#here input my.links to url_last
-
-	print type(my.links),my.links[21:29]
-	for i in range(21,29,1):
-		print datetime.datetime.now()
-		#just dig from the current website
-		link_open=my.links[23]
-		host=urlparse.urlparse(link_open)
-		domain = host.hostname
-		print domain
-
-		Page_1=html_open(link_open)
-		my_1=MyParser()
-		my_1.feed(Page_1)
-		fp_1.writelines(my_1.links)
-		
+	fp_1.writelines(links)
+	time.sleep(1)
 	fp_1.close()

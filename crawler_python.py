@@ -32,8 +32,9 @@ def html_open(url_input):
 	return Page
 
 #------founction get title and keyword ----------
-def title_get(Page):
+def title_get(url_input):
 	
+	Page_1 = html_open(url_input)
 	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	title = unicode(soup.title)
 #	print title,type(title[8])
@@ -50,11 +51,12 @@ def title_get(Page):
 	return (title_url,keyword_url)
 
 def html_deal(url_input):
-	Page_1 = html_open(url_input)
-	title_1,keyword_1=title_get(Page_1)
-	fp_1.writelines(url_input)
-	fp_1.writelines(title_1)
-	fp_1.writelines(keyword_1)
+	title_1,keyword_1=title_get(url_input)
+	string_1 = url_input+title_1+keyword_1+'\n'
+	fp_1.writelines(string_1)
+#	fp_1.writelines(url_input)
+#	fp_1.writelines(title_1)
+#	fp_1.writelines(keyword_1)
 
 #--------define a class parser the source code of html --------
 class MyParser(HTMLParser.HTMLParser):
@@ -69,6 +71,7 @@ class MyParser(HTMLParser.HTMLParser):
 			for name,value in attrs:
 				if name == 'href' and "http" in value and domain in value:  
 					self.links.append(value+"\n")
+
 if __name__=='__main__':
 #	url_open = raw_input("Please input the url : \n")
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
@@ -92,7 +95,7 @@ if __name__=='__main__':
 	fp_1=open("title.txt",'wb+')
 	fp_1.truncate()
 	#here input my.links to url_open queue
-	for i in range(21,29,1):
+	for i in range(102,105,1):
 		link_open=my.links[i]
 		html_deal(link_open)
 
