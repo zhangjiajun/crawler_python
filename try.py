@@ -12,6 +12,16 @@ import re,sys,os,string
 import datetime,time
 import codecs
 import Queue,threading
+
+#------ founction get domain-----
+def crawler_init():
+	global domain,queue,links,sleep_time,time_out,thread_num
+	links = []
+	queue = Queue.Queue()
+	sleep_time = 0.1
+	time_out = 20
+	thread_num = 8
+	
 #------ founction get domain-----
 def domain_get(url_open):
 	
@@ -55,6 +65,9 @@ def title_get(url_input):
 #	print title,type(title[8])
 #	print url_input,'\n',title[7:-8]
 
+#	keyword = soup.findAll('meta',attrs={"name":"keywords"})
+#	print keyword,type(keyword)
+
 	reload(sys)
 	sys.setdefaultencoding("utf-8")
 	title_url = str(title[7:-8]).encode("utf-8")
@@ -95,14 +108,9 @@ if __name__=='__main__':
 #	url_open = raw_input("Please input the url : \n")
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
 
-	global domain,queue,links,sleep_time,time_out
 	count = 0
-	links = []
-	queue = Queue.Queue()
-	sleep_time = 0.1
-	time_out = 20
-	thread_num = 18 
 	example = url_open[0]
+	crawler_init()
 
 	time_start = datetime.datetime.now()
 	print time_start
@@ -115,28 +123,22 @@ if __name__=='__main__':
 	time.sleep(1)
 	fp.close()
 	
-	time_1 = datetime.datetime.now()
 	link_get(example)
 	fp_1=open("url_result.txt",'wb+')
 	fp_1.truncate()
 	fp_1.writelines(links)
 	time.sleep(1)
 	fp_1.close()
-	time_2 = datetime.datetime.now()
-	print "time about link use: %s " %(time_2-time_1)
 
 	fp_2=open("title.txt",'wb+')
 	fp_2.truncate()
-	#here input my.links to url_open queue
-	for i in links[1110:1180]:
+	print links[135:140]
+	for i in links[135:140]:
 		queue.put(i)
 	thread_go(thread_num)
-	time_3 = datetime.datetime.now()
-	time.sleep(120)
+	time.sleep(20)
 	fp_2.close()
 	
 	time_end = datetime.datetime.now()
 	print time_end
-	print "time about link use: %s " %(time_2-time_1)
-	print "time about thread use: %s " %(time_3-time_2)
 	print "time use: %s " %(time_end-time_start)
