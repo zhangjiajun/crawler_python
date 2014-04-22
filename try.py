@@ -38,7 +38,7 @@ def link_get(url_open):
 	pattern = re.compile("href=\"(.+?)\"")
 	link_1 = pattern.findall(Page)
 	for link in link_1:
-		if "http" in link and domain in link:
+		if "http" in link and domain in link and "auto" not in link:
 			if link not in links:
 				links.append(link+'\n')
 	
@@ -52,9 +52,12 @@ def html_open(url_input):
 	time.sleep(sleep_time)
 	req = urllib2.Request(url_input,headers=headers)
 	con = urllib2.urlopen(req)
+	status_html = con.getcode()
+	if status_html != 200:
+		print url_input
 	Page = con.read()
 	con.close()
-	
+
 	return Page
 
 #------founction get title ----------
@@ -62,8 +65,6 @@ def title_get(url_input):
 	Page = html_open(url_input)	
 	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	title = unicode(soup.title)
-#	print title,type(title[8])
-#	print url_input,'\n',title[7:-8]
 
 #	keyword = soup.findAll('meta',attrs={"name":"keywords"})
 #	print keyword,type(keyword)
@@ -109,7 +110,7 @@ if __name__=='__main__':
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
 
 	count = 0
-	example = url_open[0]
+	example = url_open[3]
 	crawler_init()
 
 	time_start = datetime.datetime.now()
@@ -132,13 +133,13 @@ if __name__=='__main__':
 
 	fp_2=open("title.txt",'wb+')
 	fp_2.truncate()
-	print links[135:140]
-	for i in links[135:140]:
+	for i in links[40:150]:
 		queue.put(i)
 	thread_go(thread_num)
-	time.sleep(20)
-	fp_2.close()
+#	time.sleep(20)
+#	fp_2.close()
 	
+	print "loop is ",count
 	time_end = datetime.datetime.now()
 	print time_end
 	print "time use: %s " %(time_end-time_start)

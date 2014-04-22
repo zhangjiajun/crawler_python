@@ -10,13 +10,25 @@ import HTMLParser,urllib2,urlparse
 import BeautifulSoup,socket
 import re,sys,os,string
 import datetime,time
-import codecs,sqlite3 
+import codecs
 import Queue,threading
+
+#------ founction get domain-----
+def crawler_init():
+	global domain,queue,links,sleep_time,time_out,thread_num
+	links = []
+	queue = Queue.Queue()
+	sleep_time = 0.1
+	time_out = 5
+	thread_num = 8
+	
 #------ founction get domain-----
 def domain_get(url_open):
 	
 	pattern = re.compile(r'https*://\w+?\.([\w\.]*)/*')
 	domain_1 = pattern.match(url_open)
+#	host=urlparse.urlparse(example)
+#	domain = host.hostname
 	domain =  domain_1.group(1)
 	return domain
 
@@ -26,7 +38,7 @@ def link_get(url_open):
 	pattern = re.compile("href=\"(.+?)\"")
 	link_1 = pattern.findall(Page)
 	for link in link_1:
-		if "http" in link and domain in link:
+		if "http" in link and domain in link and "auto" not in link:
 			if link not in links:
 				links.append(link+'\n')
 	
@@ -38,8 +50,10 @@ def html_open(url_input):
 
 #	socket.setdefaulttimeout(time_out)
 	time.sleep(sleep_time)
-	req = urllib2.Request(url_input,headers=headers)
-	con = urllib2.urlopen(req)
+	proxy_support = urllib2.ProxyHandler({"http":"http://1.2.3.4:3218"})
+	opener = urllib2.build_opener(proxy_support)
+	urllib2.install_opener(opener)
+	con = urllib2.urlopen(url_input)
 	Page = con.read()
 	con.close()
 	
@@ -50,6 +64,11 @@ def title_get(url_input):
 	Page = html_open(url_input)	
 	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	title = unicode(soup.title)
+#	print title,type(title[8])
+#	print url_input,'\n',title[7:-8]
+
+#	keyword = soup.findAll('meta',attrs={"name":"keywords"})
+#	print keyword,type(keyword)
 
 	reload(sys)
 	sys.setdefaultencoding("utf-8")
@@ -57,38 +76,11 @@ def title_get(url_input):
 
 	return title_url
 
-#------founction init ----------
-def crawler_init():
-
-	global domain,queue,links,sleep_time,time_out,thread_num
-	links = []
-	queue = Queue.Queue()
-	sleep_time = 0.1
-	time_out = 20
-	thread_num = 18 
-
-	global db,cursor,drop_table_sql,create_table_sql,insert_sql,select_sql
-	db='test.db'
-	conn=sqlite3.connect(db)
-	cursor=conn.cursor()
-	drop_table_sql="drop table if exists web_information"
-	create_table_sql="""
-	create table web_information(
-		id integer primary key autoincrement unique not null,
-		url text not null,
-		title text not null
-	);
-	"""
-	insert_sql="insert into web_information (url,title) values(?,?)"
-	select_sql="SELECT * FROM web_information"
-
-	cursor.execute(drop_table_sql)
-
 #------founction deal with html ----------
 def html_deal(url_input):
 	title_1=title_get(url_input)
-	cursor.execute(insert_sql,(url_input,title_1))
-	conn.commit()
+	string_1 = url_input+title_1+'\n'
+	fp_2.writelines(string_1)
 
 #---use thread to get information----
 class Thread_url(threading.Thread):
@@ -117,9 +109,10 @@ def thread_go(num):
 if __name__=='__main__':
 #	url_open = raw_input("Please input the url : \n")
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
-	example = url_open[0]
-	crawler_init()
+
 	count = 0
+	example = url_open[2]
+	crawler_init()
 
 	time_start = datetime.datetime.now()
 	print time_start
@@ -139,12 +132,15 @@ if __name__=='__main__':
 	time.sleep(1)
 	fp_1.close()
 
-	for i in links[1110:1180]:
+	fp_2=open("title.txt",'wb+')
+	fp_2.truncate()
+	for i in links[40:140]:
 		queue.put(i)
 	thread_go(thread_num)
-	time.sleep(20)
-	conn.close()
+#	time.sleep(20)
+#	fp_2.close()
 	
+	print "loop is ",count
 	time_end = datetime.datetime.now()
 	print time_end
 	print "time use: %s " %(time_end-time_start)
