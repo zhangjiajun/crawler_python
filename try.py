@@ -20,7 +20,7 @@ def crawler_init():
 	queue = Queue.Queue()
 	sleep_time = 0.1
 	time_out = 20
-	thread_num = 8
+	thread_num = 28
 	
 #------ founction get domain-----
 def domain_get(url_open):
@@ -54,11 +54,13 @@ def html_open(url_input):
 	con = urllib2.urlopen(req)
 	status_html = con.getcode()
 	if status_html != 200:
-		print url_input
-	Page = con.read()
+		error_link = url_input+"error"
+		print error_link 
+		return error_link 
+	else:
+		Page = con.read()
+		return Page
 	con.close()
-
-	return Page
 
 #------founction get title ----------
 def title_get(url_input):
@@ -97,12 +99,12 @@ class Thread_url(threading.Thread):
 
 def thread_go(num):
 	for i in range(0,num):
-		t_name="thread_%s" %i
+		t_name="thread_%3s" %i
 		t =Thread_url(t_name)
 		t.start()
 	for i in range(0,num):
-		t_name="thread_%s" %i
-		t.join()
+		t_name="thread_%3s" %i
+		t.join(6)
 
 #-----------main founction ------------------------
 if __name__=='__main__':
@@ -110,7 +112,7 @@ if __name__=='__main__':
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
 
 	count = 0
-	example = url_open[3]
+	example = url_open[2]
 	crawler_init()
 
 	time_start = datetime.datetime.now()
@@ -133,7 +135,7 @@ if __name__=='__main__':
 
 	fp_2=open("title.txt",'wb+')
 	fp_2.truncate()
-	for i in links[40:150]:
+	for i in links[34:100]:
 		queue.put(i)
 	thread_go(thread_num)
 #	time.sleep(20)

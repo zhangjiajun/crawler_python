@@ -98,11 +98,11 @@ class Thread_url(threading.Thread):
 
 def thread_go(num):
 	for i in range(0,num):
-		t_name="thread_%s" %i
+		t_name="thread_%3s" %i
 		t =Thread_url(t_name)
 		t.start()
 	for i in range(0,num):
-		t_name="thread_%s" %i
+		t_name="thread_%3s" %i
 		t.join()
 
 #-----------main founction ------------------------
@@ -134,7 +134,7 @@ if __name__=='__main__':
 
 	fp_2=open("title.txt",'wb+')
 	fp_2.truncate()
-	for i in links[40:140]:
+	for i in links[40:100]:
 		queue.put(i)
 	thread_go(thread_num)
 #	time.sleep(20)
