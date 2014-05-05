@@ -51,7 +51,8 @@ def html_open(url_input):
 #	socket.setdefaulttimeout(time_out)
 	time.sleep(sleep_time)
 	proxy_support = urllib2.ProxyHandler({"http":"http://1.2.3.4:3218"})
-	opener = urllib2.build_opener(proxy_support)
+	proxy_auth_support = urllib2.ProxyBasicAuthHandler()
+	opener = urllib2.build_opener(proxy_support,proxy_auth_support)
 	urllib2.install_opener(opener)
 	con = urllib2.urlopen(url_input)
 	Page = con.read()
@@ -64,8 +65,6 @@ def title_get(url_input):
 	Page = html_open(url_input)	
 	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	title = unicode(soup.title)
-#	print title,type(title[8])
-#	print url_input,'\n',title[7:-8]
 
 #	keyword = soup.findAll('meta',attrs={"name":"keywords"})
 #	print keyword,type(keyword)
@@ -103,7 +102,7 @@ def thread_go(num):
 		t.start()
 	for i in range(0,num):
 		t_name="thread_%3s" %i
-		t.join()
+		t.join(6)
 
 #-----------main founction ------------------------
 if __name__=='__main__':
@@ -111,7 +110,7 @@ if __name__=='__main__':
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
 
 	count = 0
-	example = url_open[2]
+	example = url_open[1]
 	crawler_init()
 
 	time_start = datetime.datetime.now()
@@ -134,11 +133,11 @@ if __name__=='__main__':
 
 	fp_2=open("title.txt",'wb+')
 	fp_2.truncate()
-	for i in links[40:100]:
+	for i in links[4:10]:
 		queue.put(i)
 	thread_go(thread_num)
-#	time.sleep(20)
-#	fp_2.close()
+	time.sleep(20)
+	fp_2.close()
 	
 	print "loop is ",count
 	time_end = datetime.datetime.now()

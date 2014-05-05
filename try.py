@@ -15,28 +15,29 @@ import MySQLdb,time,datetime
 
 #------ founction init crawler-----
 def crawler_init():
-	global domain,queue,links,sleep_time,time_out,thread_num
+	global domain,queue,queue_mysql,links,sleep_time,time_out,thread_num
 	links = []
 	queue = Queue.Queue()
+	queue_mysql = Queue.Queue()
 	sleep_time = 0.1
 	time_out = 20
 	thread_num = 8
 	
 #------ founction init mysql-----
 def mysql_init():
-	global conn,cur,db_name,create_database,create_table,insert_table
+	global conn,cur,db_name,create_database,drop_table,create_table,insert_table
 	conn=MySQLdb.connect(host='127.0.0.1',user='root',passwd='novell',port=3306,charset='utf8')
 	cur=conn.cursor()
 
 	db_name = "web_information"
 	creat_database = "create database if not exists %s" % db_name
-#	creat_table = "create table if not exists test( url varchar(40),title varchar(40) )"
-#	insert_table = "insert ignore into test values ( %s,%s )"
-	creat_table = "create table if not exists test( url varchar(40))"
-	insert_table = "insert ignore into test values ( %s )"
+	drop_table = "drop table if exists test"
+	creat_table = "create table test( url varchar(40), title varchar(40) )"
+	insert_table = "insert ignore into test values ( %s,%s )"
 	
 	cur.execute(creat_database)
 	conn.select_db(db_name)
+	cur.execute(drop_table)
 	cur.execute(creat_table)
 
 #------ founction get domain-----
@@ -96,13 +97,8 @@ def title_get(url_input):
 
 #------founction deal with html ----------
 def html_deal(url_input):
-#	title_1=title_get(url_input)
-#	cur.execute(insert_table,(url_input,title_1))
-	cur.execute(insert_table,url_input)
-	conn.commit()
-
-#	string_1 = url_input+title_1+'\n'
-#	fp_2.writelines(string_1)
+	title_1=title_get(url_input)
+	queue_mysql.put((url_input,title_1))
 
 #---use thread to get information----
 class Thread_url(threading.Thread):
@@ -133,7 +129,7 @@ if __name__=='__main__':
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
 
 	count = 0
-	example = url_open[2]
+	example = url_open[0]
 	crawler_init()
 	mysql_init()
 
@@ -155,16 +151,14 @@ if __name__=='__main__':
 	time.sleep(1)
 	fp_1.close()
 
-#	fp_2=open("title.txt",'wb+')
-#	fp_2.truncate()
 	for i in links[4:60]:
 		queue.put(i)
-#		cur.execute(insert_table,i)
-#		conn.commit()
 	thread_go(thread_num)
-#	time.sleep(20)
-#	fp_2.close()
 
+	while queue_mysql.qsize():
+		i = queue_mysql.get()
+		cur.execute(insert_table,i)
+		conn.commit()
 	cur.close()
 	conn.close()
 	
