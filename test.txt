@@ -66,13 +66,14 @@
                 <div class="main">
 <div class="notice tracking-ad" data-mod='popu_3' > 
 
-<a href="http://blog.csdn.net/blogdevteam/article/details/24000231"target="_blank">
-<font color=red>云计算大会抢票倒计时
+<a href="http://huiyi.csdn.net/meeting/info/858/biz"target="_blank">
+<font color=red>云计算大会门票限量申请
+
 </font></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="http://student.csdn.net/mcs/programming_challenges"target="_blank">
-<font color=blue>高校俱乐部“我是Coding之星”
+<a href="http://www.csdn.net/article/2014-04-28/2819531"target="_blank">
+<font color=blue>【社区之星】孔德芳：如何才能提高Java Web性能？
 </font></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -99,7 +100,7 @@
             <a href="/tianzhu123/article/category/1069944" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_fenlei']);">python</a> 
         </span>
     <span class="link_postdate">2012-11-15 16:24</span>
-    <span class="link_view" title="阅读次数">2033人阅读</span>
+    <span class="link_view" title="阅读次数">2106人阅读</span>
     <span class="link_comments" title="评论次数"><a href="#comments" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
     <span class="link_collect"><a href="javascript:void(0);" onclick="javascript:_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_shoucang']);collectArticle('python 模块 chardet','8187470');return false;" title="收藏">收藏</a></span>
     <span class="link_report"><a href="#report"  onclick="javascript:_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_jubao']);report(8187470,2);return false;" title="举报">举报</a></span>
@@ -167,7 +168,7 @@ view plain</a><a href="http://blog.csdn.net/aqwd2008/article/details/7506007#" c
 <!-- Baidu Button END -->
 
 
-<!--192.168.100.33-->
+<!--192.168.100.34-->
 <ul class="article_next_prev">
             <li class="prev_article"><span  onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_shangyipian']);location.href='/tianzhu123/article/details/8186513';">上一篇</span><a href="/tianzhu123/article/details/8186513" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_shangyipian'])">python fileinput中的description</a></li>
             <li class="next_article"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_xiayipian']);location.href='/tianzhu123/article/details/8207678';">下一篇</span><a href="/tianzhu123/article/details/8207678" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_xiayipian'])">如何评价代码质量</a></li>
@@ -195,21 +196,21 @@ view plain</a><a href="http://blog.csdn.net/aqwd2008/article/details/7506007#" c
     <dl class="blog-ass-articl tracking-ad"  data-mod="popu_17">
         <dt><span>博文推荐</span></dt>
             <dd>
-                <a href="http://blog.csdn.net/u012848631/article/details/24634297" title="想快速搞定字符串类题目？使用C++的标准库string类" target="_blank">想快速搞定字符串类题目？使用C++的标准...</a></dd>
+                <a href="http://blog.csdn.net/chenbifeng/article/details/25050693" title="MQTT源码分析" target="_blank">MQTT源码分析</a></dd>
             <dd>
-                <a href="http://blog.csdn.net/liuheng123456/article/details/24633435" title="python学习——编码" target="_blank">python学习——编码</a></dd>
+                <a href="http://blog.csdn.net/u014176406/article/details/25052243" title="插播题解一则： FizzBuzzWhizz" target="_blank">插播题解一则： FizzBuzzWhizz</a></dd>
             <dd>
-                <a href="http://blog.csdn.net/fanyilong_v5/article/details/24632785" title="codeigniter源代码分析 -输出类 Output.php" target="_blank">codeigniter源代码分析 -输出...</a></dd>
+                <a href="http://blog.csdn.net/u012367513/article/details/25044529" title="观察者模式" target="_blank">观察者模式</a></dd>
             <dd>
-                <a href="http://blog.csdn.net/shijiazhuang1314/article/details/24622261" title="总裁的小小嫩妻" target="_blank">总裁的小小嫩妻</a></dd>
+                <a href="http://blog.csdn.net/u010241906/article/details/25042659" title="Selenium的学习（1）——入门" target="_blank">Selenium的学习（1）——入门</a></dd>
             <dd>
-                <a href="http://blog.csdn.net/logens/article/details/24620631" title="wav格式分析" target="_blank">wav格式分析</a></dd>
+                <a href="http://blog.csdn.net/gong_xucheng/article/details/25045407" title="linux下编译boost.python" target="_blank">linux下编译boost.python</a></dd>
             <dd>
-                <a href="http://blog.csdn.net/shijiazhuang1314/article/details/24622111" title="“闲”妻" target="_blank">“闲”妻</a></dd>
+                <a href="http://blog.csdn.net/sofeien/article/details/25045185" title="使用twisted的简单服务器" target="_blank">使用twisted的简单服务器</a></dd>
             <dd>
-                <a href="http://blog.csdn.net/weizunde/article/details/24621013" title="java导出excel，自定义列与行" target="_blank">java导出excel，自定义列与行</a></dd>
+                <a href="http://blog.csdn.net/qq_dai/article/details/25042253" title=".net操作xml文件(新增.修改,删除,读取)" target="_blank">.net操作xml文件(新增.修改,删除...</a></dd>
             <dd>
-                <a href="http://blog.csdn.net/Leevons/article/details/24620907" title="Python线程池实现" target="_blank">Python线程池实现</a></dd>
+                <a href="http://blog.csdn.net/awsxsa/article/details/25043113" title="&lt;PY&gt;&lt;core python programming笔记&gt;C8 条件与循环" target="_blank">&lt;PY&gt;&lt;core python pro...</a></dd>
     </dl>
 
     <div id="ad_cen">
@@ -420,9 +421,9 @@ view plain</a><a href="http://blog.csdn.net/aqwd2008/article/details/7506007#" c
 <div id="blog_medal">
 </div>
 <ul id="blog_rank">
-    <li>访问：<span>100535次</span></li>
-    <li>积分：<span>1094分</span></li>
-    <li>排名：<span>第13067名</span></li>
+    <li>访问：<span>102047次</span></li>
+    <li>积分：<span>1106分</span></li>
+    <li>排名：<span>第12974名</span></li>
 </ul>
 <ul id="blog_statistics">
     <li>原创：<span>6篇</span></li>
@@ -511,34 +512,34 @@ view plain</a><a href="http://blog.csdn.net/aqwd2008/article/details/7506007#" c
 
 <ul class="panel_body itemlist">
 <li>
-<a href="/tianzhu123/article/details/8060468" title="win7访问共享文件，登录失败：禁用当前用户    解决方法">win7访问共享文件，登录失败：禁用当前用户    解决方法</a><span>(19524)</span>
+<a href="/tianzhu123/article/details/8060468" title="win7访问共享文件，登录失败：禁用当前用户    解决方法">win7访问共享文件，登录失败：禁用当前用户    解决方法</a><span>(19880)</span>
 </li>
 <li>
-<a href="/tianzhu123/article/details/7655499" title="python getopt使用">python getopt使用</a><span>(5013)</span>
+<a href="/tianzhu123/article/details/7655499" title="python getopt使用">python getopt使用</a><span>(5129)</span>
 </li>
 <li>
-<a href="/tianzhu123/article/details/6942864" title="cmd暂停命令后继续自动执行">cmd暂停命令后继续自动执行</a><span>(4702)</span>
+<a href="/tianzhu123/article/details/6942864" title="cmd暂停命令后继续自动执行">cmd暂停命令后继续自动执行</a><span>(4782)</span>
 </li>
 <li>
-<a href="/tianzhu123/article/details/7193455" title="python urllib介绍">python urllib介绍</a><span>(4282)</span>
+<a href="/tianzhu123/article/details/7193455" title="python urllib介绍">python urllib介绍</a><span>(4343)</span>
 </li>
 <li>
-<a href="/tianzhu123/article/details/7615425" title="如何修改Linux系统时间 ubuntu">如何修改Linux系统时间 ubuntu</a><span>(4187)</span>
+<a href="/tianzhu123/article/details/7615425" title="如何修改Linux系统时间 ubuntu">如何修改Linux系统时间 ubuntu</a><span>(4220)</span>
 </li>
 <li>
-<a href="/tianzhu123/article/details/7225809" title="Python xlrd、xlwt、xlutils修改Excel文件">Python xlrd、xlwt、xlutils修改Excel文件</a><span>(3983)</span>
+<a href="/tianzhu123/article/details/7225809" title="Python xlrd、xlwt、xlutils修改Excel文件">Python xlrd、xlwt、xlutils修改Excel文件</a><span>(4041)</span>
 </li>
 <li>
-<a href="/tianzhu123/article/details/8148611" title="使用shutdown命令实现远程关机">使用shutdown命令实现远程关机</a><span>(2925)</span>
+<a href="/tianzhu123/article/details/8148611" title="使用shutdown命令实现远程关机">使用shutdown命令实现远程关机</a><span>(2960)</span>
 </li>
 <li>
-<a href="/tianzhu123/article/details/7947752" title="CISCO密码设置">CISCO密码设置</a><span>(2896)</span>
+<a href="/tianzhu123/article/details/7947752" title="CISCO密码设置">CISCO密码设置</a><span>(2924)</span>
 </li>
 <li>
-<a href="/tianzhu123/article/details/7030992" title="python对excel操作   com_error错误">python对excel操作   com_error错误</a><span>(2770)</span>
+<a href="/tianzhu123/article/details/7030992" title="python对excel操作   com_error错误">python对excel操作   com_error错误</a><span>(2803)</span>
 </li>
 <li>
-<a href="/tianzhu123/article/details/7950810" title="华为交换机 s5700 SSH 配置">华为交换机 s5700 SSH 配置</a><span>(2324)</span>
+<a href="/tianzhu123/article/details/7950810" title="华为交换机 s5700 SSH 配置">华为交换机 s5700 SSH 配置</a><span>(2375)</span>
 </li>
 </ul>
 </div>

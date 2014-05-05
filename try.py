@@ -9,19 +9,36 @@
 import HTMLParser,urllib2,urlparse
 import BeautifulSoup,socket
 import re,sys,os,string
-import datetime,time
 import codecs
 import Queue,threading
+import MySQLdb,time,datetime
 
-#------ founction get domain-----
+#------ founction init crawler-----
 def crawler_init():
 	global domain,queue,links,sleep_time,time_out,thread_num
 	links = []
 	queue = Queue.Queue()
 	sleep_time = 0.1
 	time_out = 20
-	thread_num = 28
+	thread_num = 8
 	
+#------ founction init mysql-----
+def mysql_init():
+	global conn,cur,db_name,create_database,create_table,insert_table
+	conn=MySQLdb.connect(host='127.0.0.1',user='root',passwd='novell',port=3306,charset='utf8')
+	cur=conn.cursor()
+
+	db_name = "web_information"
+	creat_database = "create database if not exists %s" % db_name
+#	creat_table = "create table if not exists test( url varchar(40),title varchar(40) )"
+#	insert_table = "insert ignore into test values ( %s,%s )"
+	creat_table = "create table if not exists test( url varchar(40))"
+	insert_table = "insert ignore into test values ( %s )"
+	
+	cur.execute(creat_database)
+	conn.select_db(db_name)
+	cur.execute(creat_table)
+
 #------ founction get domain-----
 def domain_get(url_open):
 	
@@ -79,9 +96,13 @@ def title_get(url_input):
 
 #------founction deal with html ----------
 def html_deal(url_input):
-	title_1=title_get(url_input)
-	string_1 = url_input+title_1+'\n'
-	fp_2.writelines(string_1)
+#	title_1=title_get(url_input)
+#	cur.execute(insert_table,(url_input,title_1))
+	cur.execute(insert_table,url_input)
+	conn.commit()
+
+#	string_1 = url_input+title_1+'\n'
+#	fp_2.writelines(string_1)
 
 #---use thread to get information----
 class Thread_url(threading.Thread):
@@ -114,6 +135,7 @@ if __name__=='__main__':
 	count = 0
 	example = url_open[2]
 	crawler_init()
+	mysql_init()
 
 	time_start = datetime.datetime.now()
 	print time_start
@@ -133,13 +155,18 @@ if __name__=='__main__':
 	time.sleep(1)
 	fp_1.close()
 
-	fp_2=open("title.txt",'wb+')
-	fp_2.truncate()
-	for i in links[34:100]:
+#	fp_2=open("title.txt",'wb+')
+#	fp_2.truncate()
+	for i in links[4:60]:
 		queue.put(i)
+#		cur.execute(insert_table,i)
+#		conn.commit()
 	thread_go(thread_num)
 #	time.sleep(20)
 #	fp_2.close()
+
+	cur.close()
+	conn.close()
 	
 	print "loop is ",count
 	time_end = datetime.datetime.now()
