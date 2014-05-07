@@ -17,6 +17,8 @@ def domain_get(url_open):
 	
 	pattern = re.compile(r'https*://\w+?\.([\w\.]*)/*')
 	domain_1 = pattern.match(url_open)
+#	host=urlparse.urlparse(example)
+#	domain = host.hostname
 	domain =  domain_1.group(1)
 	return domain
 
@@ -50,6 +52,9 @@ def title_get(url_input):
 	Page = html_open(url_input)	
 	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	title = unicode(soup.title)
+
+#	keyword = soup.findAll('meta',attrs={"name":"keywords"})
+#	print keyword,type(keyword)
 
 	reload(sys)
 	sys.setdefaultencoding("utf-8")

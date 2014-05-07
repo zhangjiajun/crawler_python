@@ -6,8 +6,8 @@
 #  target:crawler for website information
 #  language:python
 
-import HTMLParser,urllib2,urlparse
-import BeautifulSoup,socket
+import urllib2,socket
+import BeautifulSoup
 import re,sys,os,string
 import codecs
 import Queue,threading
@@ -25,14 +25,15 @@ def crawler_init():
 	
 #------ founction init mysql-----
 def mysql_init():
-	global conn,cur,db_name,create_database,drop_table,create_table,insert_table
+	global conn,cur,db_name,tb_name,create_database,drop_table,create_table,insert_table
 	conn=MySQLdb.connect(host='127.0.0.1',user='root',passwd='novell',port=3306,charset='utf8')
 	cur=conn.cursor()
 
 	db_name = "web_information"
+	tb_name = "test"
 	creat_database = "create database if not exists %s" % db_name
-	drop_table = "drop table if exists test"
-	creat_table = "create table test( url varchar(40), title varchar(40) )"
+	drop_table = "drop table if exists %s " % tb_name
+	creat_table = "create table %s ( url varchar(40), title varchar(40) )" % tb_name
 	insert_table = "insert ignore into test values ( %s,%s )"
 	
 	cur.execute(creat_database)
@@ -45,8 +46,6 @@ def domain_get(url_open):
 	
 	pattern = re.compile(r'https*://\w+?\.([\w\.]*)/*')
 	domain_1 = pattern.match(url_open)
-#	host=urlparse.urlparse(example)
-#	domain = host.hostname
 	domain =  domain_1.group(1)
 	return domain
 
@@ -56,9 +55,8 @@ def link_get(url_open):
 	pattern = re.compile("href=\"(.+?)\"")
 	link_1 = pattern.findall(Page)
 	for link in link_1:
-		if "http" in link and domain in link and "auto" not in link:
-			if link not in links:
-				links.append(link+'\n')
+		if "http" in link and domain in link and "auto" not in link and "java" not in link:
+			links.append(link+'\n')
 	
 #-------founction make httpheaders and open html ---------
 def html_open(url_input):
@@ -66,10 +64,11 @@ def html_open(url_input):
 	headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11(KHTML,like Gecko) Chrome/23.0.1271.64 Safari/537.11',
 				}
 
-#	socket.setdefaulttimeout(time_out)
+#	urllib2.socket.setdefaulttimeout(time_out)
 	time.sleep(sleep_time)
 	req = urllib2.Request(url_input,headers=headers)
 	con = urllib2.urlopen(req)
+	time.sleep(0.5)
 	status_html = con.getcode()
 	if status_html != 200:
 		error_link = url_input+"error"
@@ -85,9 +84,6 @@ def title_get(url_input):
 	Page = html_open(url_input)	
 	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	title = unicode(soup.title)
-
-#	keyword = soup.findAll('meta',attrs={"name":"keywords"})
-#	print keyword,type(keyword)
 
 	reload(sys)
 	sys.setdefaultencoding("utf-8")
@@ -129,7 +125,7 @@ if __name__=='__main__':
 	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
 
 	count = 0
-	example = url_open[0]
+	example = url_open[2]
 	crawler_init()
 	mysql_init()
 
@@ -145,13 +141,14 @@ if __name__=='__main__':
 	fp.close()
 	
 	link_get(example)
+	links = list(set(links))
 	fp_1=open("url_result.txt",'wb+')
 	fp_1.truncate()
 	fp_1.writelines(links)
 	time.sleep(1)
 	fp_1.close()
 
-	for i in links[4:60]:
+	for i in links[1:500]:
 		queue.put(i)
 	thread_go(thread_num)
 

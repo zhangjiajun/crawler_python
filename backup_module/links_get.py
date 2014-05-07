@@ -61,11 +61,11 @@ class MyParser(HTMLParser.HTMLParser):
 					self.links.append(value+"\n")
 
 if __name__=='__main__':
-	url_open = raw_input("Please input the url : \n")
-#	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
+#	url_open = raw_input("Please input the url : \n")
+	url_open=['http://www.sina.com.cn','http://news.qq.com','http://blog.csdn.net/tianzhu123/article/details/8187470','http://gd.sina.com.cn/news/s/2014-03-25/073689102.html','http://news.qq.com/a/20140325/013858.htm','http://news.sina.com.cn','http://blog.csdn.net/forgetbook/article/details/9080463','http://sports.sina.com.cn/']
 	global domain,links
 	links = []
-	example=url_open
+	example=url_open[0]
 	domain = domain_get(example)
 	print "url input:",example,'\n',"url domain:",domain
 	

@@ -50,9 +50,8 @@ def html_open(url_input):
 
 #	socket.setdefaulttimeout(time_out)
 	time.sleep(sleep_time)
-	proxy_support = urllib2.ProxyHandler({"http":"http://1.2.3.4:3218"})
-	proxy_auth_support = urllib2.ProxyBasicAuthHandler()
-	opener = urllib2.build_opener(proxy_support,proxy_auth_support)
+	proxy_handler = urllib2.ProxyHandler({"http":"http://202.43.179.182:8080"})
+	opener = urllib2.build_opener(proxy_handler,urllib2.HTTPHandler)
 	urllib2.install_opener(opener)
 	con = urllib2.urlopen(url_input)
 	Page = con.read()
