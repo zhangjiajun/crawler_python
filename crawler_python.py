@@ -48,16 +48,20 @@ def html_open(url_input):
 	headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11(KHTML,like Gecko) Chrome/23.0.1271.64 Safari/537.11',
 				}
 
-#	socket.setdefaulttimeout(time_out)
+#	urllib2.socket.setdefaulttimeout(time_out)
 	time.sleep(sleep_time)
-	proxy_handler = urllib2.ProxyHandler({"http":"http://202.43.179.182:8080"})
-	opener = urllib2.build_opener(proxy_handler,urllib2.HTTPHandler)
-	urllib2.install_opener(opener)
-	con = urllib2.urlopen(url_input)
-	Page = con.read()
+	req = urllib2.Request(url_input,headers=headers)
+	con = urllib2.urlopen(req)
+	time.sleep(0.5)
+	status_html = con.getcode()
+	if status_html != 200:
+		error_link = url_input+"error"
+		print error_link 
+		return error_link 
+	else:
+		Page = con.read()
+		return Page
 	con.close()
-	
-	return Page
 
 #------founction get title ----------
 def title_get(url_input):
@@ -118,8 +122,10 @@ if __name__=='__main__':
 	print "url input: ",example,'\n',"url domain: ",domain
 
 	Page = html_open(example)
+	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	fp = open("test.txt",'wb+')
-	fp.writelines(Page)
+	soup = str (soup.title)
+	fp.writelines(soup)
 	time.sleep(1)
 	fp.close()
 	

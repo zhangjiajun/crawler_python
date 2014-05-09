@@ -135,8 +135,10 @@ if __name__=='__main__':
 	print "url input: ",example,'\n',"url domain: ",domain
 
 	Page = html_open(example)
+	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	fp = open("test.txt",'wb+')
-	fp.writelines(Page)
+	soup = str (soup)
+	fp.writelines(soup)
 	time.sleep(1)
 	fp.close()
 	
@@ -148,7 +150,7 @@ if __name__=='__main__':
 	time.sleep(1)
 	fp_1.close()
 
-	for i in links[1:500]:
+	for i in links[1:50]:
 		queue.put(i)
 	thread_go(thread_num)
 

@@ -70,13 +70,15 @@ if __name__=='__main__':
 	print "url input:",example,'\n',"url domain:",domain
 	
 	Page = html_open(example)
-	fp=open("test.txt",'wb+')
+	fp=open("./B/test.txt",'wb+')
 	fp.writelines(Page)
 	time.sleep(1)
 	fp.close()
 
 	link_get(example)
-	fp_1=open("url_result.txt",'wb+')
+	f_1 = datetime.datetime.now()
+	f_2 = str(datetime.datetime.now())+".txt"
+	fp_1=open("./B/%s" % f_2,'wb+')
 	fp_1.truncate()
 	fp_1.writelines(links)
 	time.sleep(1)
