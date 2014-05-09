@@ -1,0 +1,1595 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【香港二手家具市场|香港二手家具转让】 - 香港58同城</title>
+<meta name="description" content="香港二手家具市场,为您提供大量香港二手家具信息，在这里您可以免费查看和发布香港二手家具、香港二手家居用品转让、求购、价格、图片等信息，买卖香港二手二手家具请到58同城香港二手二手家具市场。" />
+<meta name="keywords" content="香港二手家具" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css?v=20130910" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/ershou/list-eui7.css?version=20130530" media="all" />
+<!-- =S 脚本这个由 脚本组负责 这个路径为暂时的 -->
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<!-- createElement-lte-IE8.js 该脚本只针对IE8及以下版本浏览器 -->
+<!-- =E -->
+<script type="text/javascript">try {
+        var ____json4fe = {"catentry":[{"dispid":"5","name":"二手市场","listname":"sale"},{"dispid":"508","name":"二手家具","listname":"ershoujiaju"}],"locallist":[{"dispid":"2050","name":"香港","listname":"hk"}],"start":(new Date()).getTime(),"modules":"list"};
+        ____json4fe.version = 'A';
+        ____json4fe.modules = 'listpage';
+        ____json4fe.smsc = 'ce882233f1f0d86e6563a54b234209ecb68c8ccb33b6cc21f07bf5b784107f8eb3d9d40e03e7884355bb7dbf18d2bb5a34575c67b268272edda3c31f285112f37995544a40a9436b';
+    } catch (e) {
+    }
+    ;</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';
+    var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2', '2050', '');
+    win1.setSearchButton('searchbtn1');
+    boot.require('util.cookie', function (Frame, cookie) {
+        cookie.set('city', 'hk');
+    });</script>
+<style>
+	    /*2014-1-16 相关搜索 by hezc*/
+		.RelatedSearch{ border:1px solid #E1E1E1; font-size:14px; padding:10px 5px;line-height:25px;  margin-bottom:15px;}
+		.RelatedSearch dt{ float:left; width:88px; text-align:right;font-weight:700;line-height:25px;}
+		.RelatedSearch dd{ float:right; width:720px;}.RelatedSearch dd a{ display:inline-block;width:140px;line-height:25px;}
+		#list_left_zhuti{border:1px solid #E1E1E1; margin-bottom:10px; padding:15px;}
+		#list_left_zhuti div{ margin-left:-55px; height:110px;}
+    </style>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/hk/ershoujiaju" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/hk/ershoujiaju" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/hk/ershoujiaju" />
+</head>
+<body>
+<script type="text/javascript">
+    var hasXiaobao = "false"
+</script>
+<!-- =S topbar -->
+<div id="topbar"></div>
+<script type="text/javascript">boot.require('business.topbar', function (Frame, topbar) {
+    topbar.init();
+});</script>
+<!-- =E topbar -->
+<!-- =S header -->
+<header id="header">
+<span class="logo">
+<a href="/" target="_blank"><img src="http://pic2.58.com/images/logonew.gif" title="到58同城首页" alt="58同城" /></a>
+</span>
+<!-- =S 面包屑导航 -->
+<div class="nav">
+<a href="/">香港58同城</a>
+<cite></cite><a href="/sale.shtml">香港二手市场</a>
+<cite></cite><a href="/ershoujiaju/">香港二手家具</a>
+</div>
+<!-- =E 面包屑导航 -->
+<span class="fr mt10">
+<a href="http://post.58.com/2050/508/s5" class="postBtn" target="_blank" rel="nofollow"></a>
+</span>
+</header>
+<!-- =E header -->
+<!-- S 推广广告 -->
+<div id="ad_d12" class="cripic"></div>
+<!-- E 推广广告 -->
+<!-- =S selection -->
+<section id="selection">
+<!-- =S 搜索结果 -->
+<script type="text/javascript">
+    $("#searchtree .selectbar1 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+
+    $("#searchtree .selectbar2 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+</script>
+<!-- =E 搜索结果 -->
+<div>
+<dl class="secitem">
+<dt>类别 ：</dt>
+<dd name="leibie" zwname="类别" zwnameid="2629">
+<a class="select" href="/ershoujiaju/" data-finalurl="/ershoujiaju/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/chuang/" href="http://hk.58.com/chuang/">床</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/chuangdian/" href="http://hk.58.com/chuangdian/">床垫</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/guizi/" href="http://hk.58.com/guizi/">柜子</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/jiazi/" href="http://hk.58.com/jiazi/">架子</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zhuolei/" href="http://hk.58.com/zhuolei/">桌子</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zuoju/" href="http://hk.58.com/zuoju/">椅子/凳</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/jiajushafa/" href="http://hk.58.com/jiajushafa/">沙发</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/chaji/" href="http://hk.58.com/chaji/">茶几</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/jiajuqita/" href="http://hk.58.com/jiajuqita/">其他家具</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>价格 ：</dt>
+<dd zwname="价格" zwnameid="5760">
+<a class="select" href="/ershoujiaju/" data-finalurl="/ershoujiaju/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_5760_0_100/" href="http://hk.58.com/ershoujiaju/pve_5760_0_100/">100元以下</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_5760_101_150/" href="http://hk.58.com/ershoujiaju/pve_5760_101_150/">100-150元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_5760_151_300/" href="http://hk.58.com/ershoujiaju/pve_5760_151_300/">150-300元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_5760_301_500/" href="http://hk.58.com/ershoujiaju/pve_5760_301_500/">300-500元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_5760_501_1000/" href="http://hk.58.com/ershoujiaju/pve_5760_501_1000/">500-1000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_5760_1001_2000/" href="http://hk.58.com/ershoujiaju/pve_5760_1001_2000/">1000-2000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_5760_2000_999999/" href="http://hk.58.com/ershoujiaju/pve_5760_2000_999999/">2000元以上</a>
+<span class="prifilter">
+<span class="text text2"><input type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /></span>
+<span class="dev"> - </span>
+<span class="dev text text2"><input class="mr5" type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /> 元   </span>
+<span class="btn btn2" style="display:none"><input type="button" value="价格筛选" onclick="b_query_minprice()" /></span>
+</span>
+<script type="text/javascript">
+                    $(document).ready(function () {
+                        //text控件事件
+                        $(".prifilter input:text").click(function () {
+                            $(".prifilter input:button").parent().show();
+                            return false;
+                        });
+
+                        //button控件事件
+                        $(".prifilter input:button").click(function () {
+                            return false;
+                        });
+
+                        //body控件事件
+                        $(document.body).click(function () {
+                            $(".prifilter input:button").parent().hide();
+                        });
+                    });
+                </script>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>新旧 ：</dt>
+<dd zwname="新旧" zwnameid="2630">
+<a class="select" href="/ershoujiaju/" data-finalurl="/ershoujiaju/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_2630_7/" href="http://hk.58.com/ershoujiaju/pve_2630_7/">全新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_2630_2/" href="http://hk.58.com/ershoujiaju/pve_2630_2/">95成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_2630_3/" href="http://hk.58.com/ershoujiaju/pve_2630_3/">9成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_2630_4/" href="http://hk.58.com/ershoujiaju/pve_2630_4/">8成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ershoujiaju/pve_2630_5/" href="http://hk.58.com/ershoujiaju/pve_2630_5/">7成新及以下</a>
+</dd>
+</dl>
+<!--S 显示区域 -->
+<dl class="secitem secitem_area clearfix">
+<dt>区域 ：</dt>
+<dd zwnameid="quyu" zwname="区域">
+<a href="/ershoujiaju/" data-finalurl="/ershoujiaju/" class="select">全香港</a>
+<a href="/jiulongcheng/ershoujiaju/" data-finalurl="/jiulongcheng/ershoujiaju/">九龙城</a>
+<a href="/zhongxi/ershoujiaju/" data-finalurl="/zhongxi/ershoujiaju/">中西</a>
+<a href="/dongqu/ershoujiaju/" data-finalurl="/dongqu/ershoujiaju/">东区</a>
+<a href="/guantang/ershoujiaju/" data-finalurl="/guantang/ershoujiaju/">观塘</a>
+<a href="/wanzai/ershoujiaju/" data-finalurl="/wanzai/ershoujiaju/">湾仔</a>
+<a href="/shatian/ershoujiaju/" data-finalurl="/shatian/ershoujiaju/">沙田</a>
+<a href="/tunmen/ershoujiaju/" data-finalurl="/tunmen/ershoujiaju/">屯门</a>
+<a href="/quanwan/ershoujiaju/" data-finalurl="/quanwan/ershoujiaju/">荃湾</a>
+<a href="/huangdaxian/ershoujiaju/" data-finalurl="/huangdaxian/ershoujiaju/">黄大仙</a>
+<a href="/lidao/ershoujiaju/" data-finalurl="/lidao/ershoujiaju/">离岛</a>
+<a href="/xianggang/ershoujiaju/" data-finalurl="/xianggang/ershoujiaju/">其它</a>
+<div class="fl clearfix recent_div" id="shangquan" style=" display: none;">
+</div>
+</dd>
+</dl>
+<!--E 显示区域 -->
+<!-- =S header-search -->
+<div class="sale_search clearfix_z" id="SearchForm">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<span class="search_input"><input class="but-wd" value="输入类别或关键字" maxlength="40" onkeyup="win1.GetContentData();" onclick="if(this.value=='输入类别或关键字')this.value=''" onblur="if(this.value=='')this.value='输入类别或关键字'" fdv="" id="keyword1" name="b_q" para="key" autocomplete="off" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="submit" id="searchbtn1" class="search_on" value="搜本类" onclick="return searchword_filter();" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="button" value="搜全站" onclick="if(searchword_filter())b_query_all();" /></span>
+</form>
+</div>
+<script type="text/javascript">
+        $(document).ready(function () {
+            $("#keyword1").keydown(function () {
+                $("#keyword1").attr("style", "color: rgb(0, 0, 0);"); //黑色
+            });
+        });
+
+        function searchword_filter() {
+            if ($("#keyword1").attr("value") == "输入类别或关键字") {
+                $("#keyword1").attr("style", "color: rgb(153, 153, 153);"); //灰色
+                //$("#keyword1").focus(); $("#keyword1").select();
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+<!-- =E header-search -->
+</div>
+<!-- =S 特色 -->
+<!-- =E 特色 -->
+<!-- =S 底部搜索结果 -->
+<!--  &lt;dl class="secitem"&gt;&lt;div id ="highlightline" class="line highlight"&gt;&lt;div id="selected" class="bar"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/dl&gt; -->
+<div class="selectResult clearfix" id="selected" style="display: none;"></div>
+</section>
+<!-- =E selection -->
+<!--S 百强县 -->
+<!--E 百强县 -->
+<!-- =S tabsbar -->
+<div class="pr tabsbar_pop_wrap" style="display:none">
+<div class="select-area"><a href="javascript:void(0)"></a></div>
+</div>
+<div class="tabsbar" id="tabsbar">
+<a class="sel" href="http://hk.58.com/ershoujiaju/"><h1>香港二手家具</h1></a>
+<a rel="nofollow" class="pubtopright" target="_blank" href="http://dingyue.58.com/ershou/shenqing">二手市场推广，加入会员即送1000元！</a>
+</div>
+<!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix">
+<!-- =S infolist 左侧列表主体 -->
+<div id="infolist" class="cleft">
+<!-- =S filterbar -->
+<div class="filterbar">
+<table cellspacing="0" cellpadding="0" class="tbfilter">
+<colgroup>
+<col />
+<col class="w100" />
+</colgroup>
+<tr class="bg">
+<td>
+<div class="caty">
+<a class="geren active" name="b_link" para="custom" cl="/ershoujiaju/?rb=1" data-finalurl="/ershoujiaju/" href="/ershoujiaju/">
+                            全部
+                        </a>
+<a class="geren" data-finalurl="/ershoujiaju/0/" href="/ershoujiaju/0/">
+                        个人
+                    </a>
+<a class="shangjia" data-finalurl="/ershoujiaju/1/" href="/ershoujiaju/1/">
+                        商家
+                    </a>
+</div>
+<span class="checkbox"><input name="" type="checkbox" value="" id="ispic" onclick="click_Ispic(this)" /><label for="ispic">只看有图</label></span>
+<span class="checkbox"><input type="checkbox" id="isonline" /><label for="isonline" class="isonline">帮帮在线</label></span>
+</td>
+<!-- =S 排序功能 -->
+<td class="tc"><a class="a_2words_none" href="#" rel="nofollow" name="b_s" para="sort" cv="minprice_asc" onclick="g2({sort:'minprice_asc'});return false">价格</a></td>
+<!-- =E 排序功能 -->
+</tr>
+</table>
+</div>
+<!-- =E filterbar -->
+<!-- =S 查询搜索无结果补充信息  -->
+<!-- =E 查询搜索无结果补充信息  -->
+<!-- =S top_google_ad -->
+<div id="top_google_ad"></div>
+<!-- =E top_google_ad  -->
+<!-- =S 头部精准推广显示 -->
+<!-- =E 头部精准推广显示 -->
+<div id="hoverinfo">
+<!-- =S 显示搜索无结果补充信息  -->
+<!-- =E 显示搜索无结果补充信息  -->
+<table class="tbimg" cellpadding="0" cellspacing="0">
+<col class="" />
+<col />
+<col class="w100" />
+<tr logr="p_0_22958077811719_17808587769224_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17808587769224x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12242215157302099016.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17808587769224x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                实惠高档茶几,原价近2000,刚买十五天,现价</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+            全新实惠茶几，刚买十五天，两边带抽屉，可储物，黑玻璃台面，很大气。有诚…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/dongqu/ershoujiaju/">东区</a>
+                
+                &nbsp;/ 05-03
+			</span>
+<span name="zaixian_22958077811719"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">800</b> 元        </td>
+</tr>
+<tr logr="p_0_22881339962631_17770218989573_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17770218989573x.shtml" target="_blank"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17770218989573x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                搬家急售二手家具</a>
+<i class="clear"></i>
+            双门衣柜，咖色，使用一年半，中环
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zhongxi/ershoujiaju/">中西</a>
+                
+                &nbsp;/ 04-30
+			</span>
+<span name="zaixian_22881339962631"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">500</b> 元        </td>
+</tr>
+<tr logr="p_0_22857294835718_17767512806920_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17767512806920x.shtml" target="_blank"><img src="http://3.pic.58control.cn/mobile/tiny/n_s02236964500704896126.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17767512806920x.shtml" target="_blank" class="t" tips="tips">
+                                長期收購各類酸枝黄花梨紫檀新舊傢具中西字晝瓷器</a>
+<span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+            新舊好壞各種状况不拘，歡迎把物品Whatsapp 63118186或微…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a>
+                
+                &nbsp;/ 04-30
+			</span>
+<span name="zaixian_22857294835718"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">88888</b> 元        </td>
+</tr>
+<tr logr="p_0_22824648052999_17741884524166_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17741884524166x.shtml" target="_blank"><img src="http://3.pic.58control.cn/mobile/tiny/n_s12233683402445275164.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17741884524166x.shtml" target="_blank" class="t" tips="tips">
+                                9.5新双人床转让</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+            9.5新双人床闲置转让
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/xianggangshi/ershoujiaju/">其它</a>
+                
+                &nbsp;/ 04-27
+			</span>
+<span name="zaixian_22824648052999"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1500</b> 元        </td>
+</tr>
+<tr logr="p_0_7252660893702_17707663003782_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17707663003782x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s02229303009742482126.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17707663003782x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                宜家購買實用書桌帶抽屜</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            宜家購買實用書桌，帶抽屜，九五成新
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zhongxi/ershoujiaju/">中西</a>
+                
+                &nbsp;/ 04-24
+			</span>
+<span name="zaixian_7252660893702"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">100</b> 元        </td>
+</tr>
+<tr logr="p_0_7252660893702_17707650220678_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17707650220678x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s02229300109625899075.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17707650220678x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                木製單人床九五成新</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            宜家購買九五成新木製單人床，與2012年9月購買
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zhongxi/ershoujiaju/">中西</a>
+                
+                &nbsp;/ 04-24
+			</span>
+<span name="zaixian_7252660893702"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">100</b> 元        </td>
+</tr>
+<tr logr="p_0_7320793484807_17672788932487_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17672788932487x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02224836621388285065.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17672788932487x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                晾衣架,衣架</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+            转让九成新晾衣架一个，原价350买的，只用了七个月，双向折叠，真的是居…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/jiulongcheng/ershoujiaju/">九龙城</a>
+                
+                &nbsp;/ 04-21
+			</span>
+<span name="zaixian_7320793484807"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">150</b> 元        </td>
+</tr>
+<tr logr="p_0_7320793484807_17672755973506_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17672755973506x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12224832898173100083.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17672755973506x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                宜家-白色-椅子</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            转让白色折叠椅子一把，自己配有白色写字桌。桌子1.2米长,70厘米宽。…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/jiulongcheng/ershoujiaju/">九龙城</a>
+                
+                &nbsp;/ 04-21
+			</span>
+<span name="zaixian_7320793484807"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">90</b> 元        </td>
+</tr>
+<tr logr="p_0_7320793484807_17672726164231_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17672726164231x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s02224829151658784025.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17672726164231x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                宜家-白色-写字桌</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            白色写字桌。1.2米长,70厘米宽。非常舒服的写字桌，自配还有靠背椅子…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/jiulongcheng/ershoujiaju/">九龙城</a>
+                
+                &nbsp;/ 04-21
+			</span>
+<span name="zaixian_7320793484807"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">150</b> 元        </td>
+</tr>
+<tr logr="p_0_22626472623111_17642838814851_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17642838814851x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12221011851070257113.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17642838814851x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                香港舒服床褥/TV 地櫃</a>
+<span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+            雙人床褥出售,9成新，橫48吋x長72吋x8吋厚---TV地櫃、橫39…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/xianggangshi/ershoujiaju/">其它</a>
+                
+                &nbsp;/ 04-18
+			</span>
+<span name="zaixian_22626472623111"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">350</b> 元        </td>
+</tr>
+<tr logr="p_0_22536862647302_17605885508362_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17605885508362x.shtml" target="_blank"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17605885508362x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                搬迁摔卖:床,柜子等</a>
+<i class="clear"></i>
+            请周四，4月17号联系,有柜子，床，桌子，等
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/jiulongcheng/ershoujiaju/">九龙城</a>
+                
+                &nbsp;/ 04-15
+			</span>
+<span name="zaixian_22536862647302"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+</tr>
+<tr logr="p_0_22290843736839_17474970806529_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17474970806529x.shtml" target="_blank"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17474970806529x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                單人床急轉,有意者可以埋來睇下。。。</a>
+<i class="clear"></i>
+            本人現有10張單人床急轉，規格1m*1.9m左右，有意者可以打電話，聯…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/wanzai/ershoujiaju/">湾仔</a>
+                
+                &nbsp;/ 04-03
+			</span>
+<span name="zaixian_22290843736839"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元        </td>
+</tr>
+<tr logr="p_0_19798361_17382663573383_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17382663573383x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12187697733158595043.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17382663573383x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                宜家实木双人床带床垫便宜转让了</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+            搬家后发现房间空间不够，所以转让宜家实木双人床及宜家床垫了，尺寸142…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/guantang/ershoujiaju/">观塘</a>
+                
+                &nbsp;/ 03-26
+			</span>
+<span name="zaixian_19798361"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">300</b> 元        </td>
+</tr>
+<tr logr="p_0_21895635026182_17367660328073_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17367660328073x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12185779092997270025.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17367660328073x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                木质边框镜子</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            图中镜子出售。这面镜子大小0.4米×1.6米。非常适合做穿衣镜，镜子的…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/ershoujiaju/">元朗</a>
+                
+                &nbsp;/ 03-25
+			</span>
+<span name="zaixian_21895635026182"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">40</b> 元        </td>
+</tr>
+<tr logr="p_0_21895635026182_17367611569162_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17367611569162x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s02185776231351404025.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17367611569162x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                装饰边框镜子</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            镜子带装饰边框，如图。适合做穿衣镜。镜子尺寸为：0.4米×1.6米。有…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/ershoujiaju/">元朗</a>
+                
+                &nbsp;/ 03-25
+			</span>
+<span name="zaixian_21895635026182"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">40</b> 元        </td>
+</tr>
+<tr logr="p_0_21895635026182_17356290267139_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17356290267139x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s02184327662831065055.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17356290267139x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                粉红边框的镜子</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            镜子带粉红边框，如图。镜子很大，适合做穿衣镜。尺寸为：1米×1.6米。…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/ershoujiaju/">元朗</a>
+                
+                &nbsp;/ 03-24
+			</span>
+<span name="zaixian_21895635026182"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">70</b> 元        </td>
+</tr>
+<tr logr="p_0_21895635026182_17356259817475_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17356259817475x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12184322460697478004.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17356259817475x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                有设计感的椅子</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            房间没有空间了，所以出售这把很棒的椅子。有点灰尘，因为不常使用。有兴趣…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/ershoujiaju/">元朗</a>
+                
+                &nbsp;/ 03-24
+			</span>
+<span name="zaixian_21895635026182"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">150</b> 元        </td>
+</tr>
+<tr logr="p_0_21895635026182_17355953460227_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17355953460227x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12184281443045277124.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17355953460227x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                深蓝色布沙发</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+            这款沙发造型优雅，因为颜色与屋子风格不搭配，所以一直用沙发套盖着的，只…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/ershoujiaju/">元朗</a>
+                
+                &nbsp;/ 03-24
+			</span>
+<span name="zaixian_21895635026182"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">150</b> 元        </td>
+</tr>
+<tr logr="p_0_21895635026182_17354872867074_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17354872867074x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12184138019179169096.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17354872867074x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                复古储物木头柜</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+            这个木柜质感很好，造型漂亮，是在我家多年的老家具了，因为搬家不便，只能…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/ershoujiaju/">元朗</a>
+                
+                &nbsp;/ 03-23
+			</span>
+<span name="zaixian_21895635026182"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元        </td>
+</tr>
+<tr logr="p_0_21895635026182_17354756663555_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17354756663555x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s02184130697986944004.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17354756663555x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                复古书桌写字台</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            因为买了新电脑和新电脑桌，所以出售这款复古书桌。抽屉可上锁，钥匙随书桌…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/ershoujiaju/">元朗</a>
+                
+                &nbsp;/ 03-23
+			</span>
+<span name="zaixian_21895635026182"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元        </td>
+</tr>
+<tr logr="p_0_21895635026182_17354699126403_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17354699126403x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12184120996432246083.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17354699126403x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                白色皮质沙发</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            保养的很好的白色皮质沙发，无瑕疵斑点！因搬家不便，所以出售。有兴趣的可…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/ershoujiaju/">元朗</a>
+                
+                &nbsp;/ 03-23
+			</span>
+<span name="zaixian_21895635026182"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">300</b> 元        </td>
+</tr>
+<tr logr="p_0_21696538919175_17177864162563_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17177864162563x.shtml" target="_blank"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17177864162563x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                大亏本转让香港宜家IKEA信用消费券</a>
+<i class="clear"></i>
+            之前在香港宜家买了张床，可后来尽然没货了，只退还了现金券，有效期大概半…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/xianggangshi/ershoujiaju/">其它</a>
+                
+                &nbsp;/ 03-07
+			</span>
+<span name="zaixian_21696538919175"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">6000</b> 元        </td>
+</tr>
+<tr logr="p_0_19272624_17144648539910_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17144648539910x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12157230933164136004.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17144648539910x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                超低价出售小床,太和火车站附近,自取</a>
+<span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+            有意者电联，若电话有时候上班没接，可whatsapp或者微信联系，喜欢…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/dapuqu/ershoujiaju/">大埔</a>
+                
+                &nbsp;/ 03-04
+			</span>
+<span name="zaixian_19272624"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元        </td>
+</tr>
+<tr logr="p_0_21535925202183_17098270844680_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17098270844680x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12151296565053345053.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17098270844680x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                日本制储物柜</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            日本制储物柜, 148*43cm. 柯士甸站自取.
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zhongxi/ershoujiaju/">中西</a>
+                
+                &nbsp;/ 02-28
+			</span>
+<span name="zaixian_21535925202183"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">500</b> 元        </td>
+</tr>
+<tr logr="p_0_21535925202183_17098142436482_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17098142436482x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12151281711305368155.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17098142436482x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                日本制床头柜</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            79*45CM, 三个抽屉, 可存放衣物.柯士甸站自取.
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zhongxi/ershoujiaju/">中西</a>
+                
+                &nbsp;/ 02-28
+			</span>
+<span name="zaixian_21535925202183"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元        </td>
+</tr>
+<tr logr="p_0_21535925202183_17097822988677_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17097822988677x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12151228677129086023.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17097822988677x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                日本制单人小床床架</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+            218*101cm,下部有一弹簧床,共可睡2人.
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zhongxi/ershoujiaju/">中西</a>
+                
+                &nbsp;/ 02-28
+			</span>
+<span name="zaixian_21535925202183"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">500</b> 元        </td>
+</tr>
+<tr logr="p_0_11698748162823_17040117734921_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17040117734921x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02143850140762150004.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17040117734921x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                急转。宜家 床 床垫 被子 枕头 衣柜 床头柜</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+            因工作调动，转让宜家家具，只用了两个月，单人床，两个厚床垫（极舒适），…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zhongxi/ershoujiaju/">中西</a>
+                
+                &nbsp;/ 02-23
+			</span>
+<span name="zaixian_11698748162823"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+</tr>
+<tr logr="p_0_3403675209478_17039042802689_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17039042802689x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12143716757867251096.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17039042802689x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                鸡翅木 非洲花梨 红酸枝家具</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+            鸡翅木 非洲花梨 红酸枝家具 QQ63407351 空间有照片 131…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/ershoujiaju/">香港</a>
+                
+                &nbsp;/ 02-23
+			</span>
+<span name="zaixian_3403675209478"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2500</b> 元        </td>
+</tr>
+<tr logr="p_0_21355804714502_17007875846657_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17007875846657x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s02139720895975690154.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17007875846657x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                高档化妆品专柜陈列摆设柜,一折出售</a>
+<span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+            带LED灯，大柜长126cm，宽45cm.细柜长42cm，宽45cm
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tunmen/ershoujiaju/">屯门</a>
+                
+                &nbsp;/ 02-20
+			</span>
+<span name="zaixian_21355804714502"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1500</b> 元        </td>
+</tr>
+<tr logr="p_0_21159076852487_16909192514954_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/16909192514954x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02127127942218000003.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/16909192514954x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                实木高低床(配两个床垫)</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            比宜家高低床要结实多了的实木高低床，上层床比宜家稍高一些，让下床有更多…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zhongxi/ershoujiaju/">中西</a>
+                
+                &nbsp;/ 02-11
+			</span>
+<span name="zaixian_21159076852487"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1500</b> 元        </td>
+</tr>
+<tr logr="p_0_19542542953735_16101276473863_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/16101276473863x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s02023680247434286113.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/16101276473863x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                铲草机9成新</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            铲草机9成新，操作正常，新净,无烂,天痕跡，永安百貨原价5300元，（…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/lidao/ershoujiaju/">离岛</a>
+                
+                &nbsp;/ 01-29
+			</span>
+<span name="zaixian_19542542953735"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2300</b> 元        </td>
+</tr>
+<tr logr="p_0_12960782890503_16710174528007_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/16710174528007x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12101617840934415115.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/16710174528007x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                2012年苹果IMAC 21.5一体机</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+            因移民无法携带此电脑，2012年购于IFC苹果旗舰店，4G内存，500…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/jiulongcheng/ershoujiaju/">九龙城</a>
+                
+                &nbsp;/ 01-24
+			</span>
+<span name="zaixian_12960782890503"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">6000</b> 元        </td>
+</tr>
+<tr logr="p_0_20070906445319_16654962081159_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/16654962081159x.shtml" target="_blank"><img src="http://2.pic.58control.cn/mobile/tiny/n_s12094557360410348146.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/16654962081159x.shtml" target="_blank" class="t" tips="tips">
+                                香港生产香港品牌高档席梦思</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+            今年上半年在香港购买，因与新床尺寸不符，故转让出售，九成新，无污无损。…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/ershoujiaju/">其它</a><span> - </span>
+<a class="c_666" href="/shenshuibu/ershoujiaju/">深水埗</a>
+                
+                &nbsp;/ 01-19
+			</span>
+<span name="zaixian_20070906445319"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">600</b> 元        </td>
+</tr>
+<tr logr="p_0_20579987711750_16619855724802_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/16619855724802x.shtml" target="_blank"><img src="http://2.pic.58control.cn/mobile/tiny/n_s02090057363000526104.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/16619855724802x.shtml" target="_blank" class="t" tips="tips">
+                                希望能在香港找到份工作。</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+            希望能在同城能得到帮助，感谢同城网！
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/wanzai/ershoujiaju/">湾仔</a>
+                
+                &nbsp;/ 01-16
+			</span>
+<span name="zaixian_20579987711750"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">8500</b> 元        </td>
+</tr>
+<tr logr="p_0_22846874870023_17753035103109_0_0_0">
+<td class="img"><a href="http://hk.58.com/ershoujiaju/17753035103109x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12235107849719796144.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/ershoujiaju/17753035103109x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                四尺三櫃桶床 8成新</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+            四尺三櫃桶床 8成新!!!!!由於新婚換床...舊床轉讓!!!櫃桶有花…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/shatian/ershoujiaju/">沙田</a>
+                
+                &nbsp;/ 04-28
+			</span>
+<span name="zaixian_22846874870023"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">800</b> 元        </td>
+</tr>
+</table>
+<!-- =E tbimg/tbtxt -->
+<!-- =S 底部精准推广显示 -->
+<!-- =E 底部精准推广显示 -->
+<!-- =S bottom_google_ad -->
+<div id="guanggao"> <div id="taobao"></div>
+<div id="bottom_google_ad"></div>
+</div>
+<!-- =E bottom_google_ad -->
+</div>
+<!-- =S pager -->
+<div class="pager">
+<strong><span>1</span></strong>
+</div>
+<!-- =E pager -->
+<!-- =S infocont -->
+<div id="infocont" class="infocont">
+           		共 <span style="color: red"><b>35</b></span> 条信息，
+           <a href="http://post.58.com/2050/508/s5" target="_blank" class="pubbtn" rel="nofollow">马上发布一条香港二手家具信息&raquo;</a>
+</div>
+<!-- =E infocont -->
+<!-- =S RelatedSearch 相关搜索 -->
+<!-- =E RelatedSearch 相关搜索 -->
+<!--商业产品 广告-->
+<div id="bottom_zhaoshangjiameng_ad"></div>
+</div>
+<!-- =E infolist 左侧列表主体 -->
+<!-- =S rightframe 右侧广告 -->
+<!-- =S rightframe 右侧广告   class="cright"  -->
+<div id="rightframe">
+<!--见面交易 E-->
+<div id="ad19"></div>
+</div>
+<!-- =E rightframe 右侧广告 --><!-- =E rightframe 右侧广告 -->
+</section>
+<!-- =E main -->
+<!-- =S 智能推广 -->
+<div id="direct_ad_bottom"></div>
+<!-- =E 智能推广 -->
+<!-- =S 底部广告 -->
+<div id="ad_b12"></div>
+<!-- =E 底部广告 -->
+<!-- =S #links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S relate 相关信息 -->
+<dl class="linksItem relate" id="relate">
+<dt class="b-left">
+<h2>香港二手家具相关信息</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="/ershoujiaju/jh_%E4%BA%8C%E6%89%8B%E5%8D%95%E4%BA%BA%E5%BA%8A/">二手单人床</a></li>
+<li><a href="/ershoujiaju/jh_%E4%BA%8C%E6%89%8B%E5%BA%8A/">二手床</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E relate 相关信息 -->
+<!-- =S relatelink -->
+<dl class="linksItem relatelink" id="relatelink">
+<dt class="b-left">
+<h2>香港二手家具品牌导航</h2></dt>
+<dd class="b-right">
+<dl id="relateSelect" class="relateSelect">
+<dt><span>卫浴用品</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手坐便器/" target="_blank">二手坐便器</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手马桶/" target="_blank">二手马桶</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手浴缸/" target="_blank">二手浴缸</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手地漏/" target="_blank">二手地漏</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手花洒/" target="_blank">二手花洒</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手座便器/" target="_blank">二手座便器</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手卫浴龙头/" target="_blank">二手卫浴龙头</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手洗脸盆/" target="_blank">二手洗脸盆</a>
+</dd>
+<dt><span>厨房用品</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手热水器/" target="_blank">二手热水器</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手水槽/" target="_blank">二手水槽</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手厨房橱柜/" target="_blank">二手厨房橱柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手厨房灶台/" target="_blank">二手厨房灶台</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手厨房设备/" target="_blank">二手厨房设备</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手炒锅/" target="_blank">二手炒锅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手压力锅/" target="_blank">二手压力锅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手奶锅/" target="_blank">二手奶锅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手汤锅/" target="_blank">二手汤锅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手蒸锅/" target="_blank">二手蒸锅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手煎锅/" target="_blank">二手煎锅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手水壶/" target="_blank">二手水壶</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手提锅/" target="_blank">二手提锅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手收纳盒/" target="_blank">二手收纳盒</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手菜板/" target="_blank">二手菜板</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手削皮器/" target="_blank">二手削皮器</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手榨汁机/" target="_blank">二手榨汁机</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手打蛋器/" target="_blank">二手打蛋器</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手保鲜盒/" target="_blank">二手保鲜盒</a>
+</dd>
+<dt><span>地板</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手实木地板/" target="_blank">二手实木地板</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手强化木地板/" target="_blank">二手强化木地板</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手强化复合地板/" target="_blank">二手强化复合地板</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手实木复合地板/" target="_blank">二手实木复合地板</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手竹地板/" target="_blank">二手竹地板</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手塑胶地板/" target="_blank">二手塑胶地板</a>
+</dd>
+<dt><span>家纺</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手四件套/" target="_blank">二手四件套</a>
+<a href="http://hk.58.com/jujia/pve_5765_408313/" target="_blank">二手被子</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手床单/" target="_blank">二手床单</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手休闲毯/" target="_blank">二手休闲毯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手枕头/" target="_blank">二手枕头</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手蚊帐/" target="_blank">二手蚊帐</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手凉席/" target="_blank">二手凉席</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手被套/" target="_blank">二手被套</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手毛巾/" target="_blank">二手毛巾</a>
+</dd>
+<dt><span>布艺</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手十字绣/" target="_blank">二手十字绣</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手刺绣/" target="_blank">二手刺绣</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手布艺窗帘/" target="_blank">二手布艺窗帘</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手纱窗绣/" target="_blank">二手纱窗绣</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手轨道/" target="_blank">二手轨道</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手罗马杆/" target="_blank">二手罗马杆</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手门帘/" target="_blank">二手门帘</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手地毯/" target="_blank">二手地毯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手地垫/" target="_blank">二手地垫</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手挂毯/" target="_blank">二手挂毯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手桌布/" target="_blank">二手桌布</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手靠垫/" target="_blank">二手靠垫</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手浴巾/" target="_blank">二手浴巾</a>
+</dd>
+<dt><span>床</span></dt>
+<dd>
+<a href="http://hk.58.com/shuanrenchuang/" target="_blank">二手双人床</a>
+<a href="http://hk.58.com/danrenchuang/" target="_blank">二手单人床</a>
+<a href="http://hk.58.com/chuangcengchuang/" target="_blank">二手双层床</a>
+<a href="http://hk.58.com/tongchuang/" target="_blank">二手童床</a>
+<a href="http://hk.58.com/zhediechuang/" target="_blank">二手折叠床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手保健按摩床/" target="_blank">二手保健按摩床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手皮艺床/" target="_blank">二手皮艺床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手实木床/" target="_blank">二手实木床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手布艺床/" target="_blank">二手布艺床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手板式床/" target="_blank">二手板式床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手沙发床/" target="_blank">二手沙发床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手铁艺床/" target="_blank">二手铁艺床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手钢木床/" target="_blank">二手钢木床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手子母床/" target="_blank">二手子母床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手高低床/" target="_blank">二手高低床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手婴儿床/" target="_blank">二手婴儿床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手罗汉床/" target="_blank">二手罗汉床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手平板床/" target="_blank">二手平板床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手软床/" target="_blank">二手软床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手架子床/" target="_blank">二手架子床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手保健床垫/" target="_blank">二手保健床垫</a>
+</dd>
+<dt><span>架子</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手衣帽架/" target="_blank">二手衣帽架</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手鞋架/" target="_blank">二手鞋架</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手书架/" target="_blank">二手书架</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手置物架/" target="_blank">二手置物架</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手晾衣架/" target="_blank">二手晾衣架</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手货架/" target="_blank">二手货架</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手陈列架/" target="_blank">二手陈列架</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手书报架/" target="_blank">二手书报架</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手毛巾架/" target="_blank">二手毛巾架</a>
+</dd>
+<dt><span>柜子</span></dt>
+<dd>
+<a href="http://hk.58.com/yigui/" target="_blank">二手衣柜</a>
+<a href="http://hk.58.com/dianshigui/" target="_blank">二手电视柜</a>
+<a href="http://hk.58.com/chuangbiangui/" target="_blank">二手床头柜</a>
+<a href="http://hk.58.com/shugui/" target="_blank">二手书柜</a>
+<a href="http://hk.58.com/guizi/pve_5765_408305/" target="_blank">二手鞋柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手餐边柜/" target="_blank">二手餐边柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手置物柜/" target="_blank">二手置物柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手玄关柜/" target="_blank">二手玄关柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手酒柜/" target="_blank">二手酒柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手橱柜/" target="_blank">二手橱柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手展柜/" target="_blank">二手展柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手储物柜/" target="_blank">二手储物柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手斗柜/" target="_blank">二手斗柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手展柜/" target="_blank">二手展柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手保险柜/" target="_blank">二手保险柜</a>
+</dd>
+<dt><span>桌子</span></dt>
+<dd>
+<a href="http://hk.58.com/canzhuo/" target="_blank">二手餐桌</a>
+<a href="http://hk.58.com/zhuolei/pve_5765_408309/" target="_blank">二手梳妆台</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手书桌/" target="_blank">二手书桌</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手电脑桌/" target="_blank">二手电脑桌</a>
+<a href="http://hk.58.com/xiezhizhuo/" target="_blank">二手写字桌</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手木桌/" target="_blank">二手木桌</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手塑料桌/" target="_blank">二手塑料桌</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手藤桌/" target="_blank">二手藤桌</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手办公桌/" target="_blank">二手办公桌</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手老板桌/" target="_blank">二手老板桌</a>
+</dd>
+<dt><span>椅子</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手电脑椅/" target="_blank">二手电脑椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手靠背椅/" target="_blank">二手靠背椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手电脑转椅/" target="_blank">二手电脑转椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手实木椅/" target="_blank">二手实木椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手皮椅/" target="_blank">二手皮椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手不锈钢椅子/" target="_blank">二手不锈钢椅子</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手摇椅/" target="_blank">二手摇椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手餐椅/" target="_blank">二手餐椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手换鞋椅子/" target="_blank">二手换鞋椅子</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手折叠椅/" target="_blank">二手折叠椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手扶椅/" target="_blank">二手扶椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手躺椅/" target="_blank">二手躺椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手办公椅/" target="_blank">二手办公椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手老板椅/" target="_blank">二手老板椅</a>
+</dd>
+<dt><span>沙发</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手布艺沙发/" target="_blank">二手布艺沙发</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手皮艺沙发/" target="_blank">二手皮艺沙发</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手沙发床/" target="_blank">二手沙发床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手实木沙发/" target="_blank">二手实木沙发</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手藤沙发/" target="_blank">二手藤沙发</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手贵妃椅/" target="_blank">二手贵妃椅</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手儿童沙发/" target="_blank">二手儿童沙发</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手铁艺沙发/" target="_blank">二手铁艺沙发</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手单人沙发/" target="_blank">二手单人沙发</a>
+</dd>
+<dt><span>灯饰</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手吊灯/" target="_blank">二手吊灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手吸顶灯/" target="_blank">二手吸顶灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手壁灯/" target="_blank">二手壁灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手落地灯/" target="_blank">二手落地灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手台灯/" target="_blank">二手台灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手室外灯饰/" target="_blank">二手室外灯饰</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手射灯/" target="_blank">二手射灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手台灯/" target="_blank">二手台灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手小夜灯/" target="_blank">二手小夜灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手筒灯/" target="_blank">二手筒灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手镜前灯/" target="_blank">二手镜前灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手橱柜灯/" target="_blank">二手橱柜灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手led灯/" target="_blank">二手led灯</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手荧光灯/" target="_blank">二手荧光灯</a>
+</dd>
+<dt><span>窗帘</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手布艺窗帘/" target="_blank">二手布艺窗帘</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手纱窗帘/" target="_blank">二手纱窗帘</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手卷帘/" target="_blank">二手卷帘</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手百叶帘/" target="_blank">二手百叶帘</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手电动窗帘/" target="_blank">二手电动窗帘</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手办公窗帘/" target="_blank">二手办公窗帘</a>
+</dd>
+<dt><span>简易家具</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手简易衣柜/" target="_blank">二手简易衣柜</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手简易衣橱/" target="_blank">二手简易衣橱</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手简易床/" target="_blank">二手简易床</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手简易桌/" target="_blank">二手简易桌</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手简易电脑桌/" target="_blank">二手简易电脑桌</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手简易折叠床/" target="_blank">二手简易折叠床</a>
+</dd>
+<dt><span>茶几</span></dt>
+<dd>
+<a href="http://hk.58.com/ershoujiaju/jh_二手实木茶几/" target="_blank">二手实木茶几</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手钢化玻璃茶几/" target="_blank">二手钢化玻璃茶几</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手玻璃茶几/" target="_blank">二手玻璃茶几</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手沙发茶几/" target="_blank">二手沙发茶几</a>
+<a href="http://hk.58.com/ershoujiaju/jh_二手欧式茶几/" target="_blank">二手欧式茶几</a>
+</dd>
+</dl>
+</dd>
+</dl>
+<script>
+            var alldt = $("#relateSelect&gt;dt");
+            function showNear(dt) {
+                alldt.each(function () {
+                    if (this == dt) {
+                        $(this).next("dd").show();
+                        $(this).addClass("select");
+                    }
+                    else {
+                        $(this).next("dd").hide();
+                        $(this).removeClass("select");
+                    }
+                });
+            }
+            alldt.each(function () {
+                $(this).click(function () {
+                    showNear(this);
+                }).hover(function () {
+                    showNear(this);
+                });
+            });
+            showNear(alldt[0]);
+        </script>
+<!-- =E relatelink -->
+<!-- =S friendtips -->
+<dl class="linksItem friendtips" id="friendtips">
+<dt class="b-left">
+<h2>香港二手家具频道介绍</h2></dt>
+<dd class="b-right"><p>香港二手家具频道为您提供香港二手家具转让/出售信息，在此有大量香港二手家具报价/图片/价格信息供您选择，您可以免费查看和发布香港二手家具信息。亦可用手机便捷访问<a href="http://m.58.com/hk/ershoujiaju/" target="_blank">香港二手家具</a>信息。</p></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>热门城市二手家具</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://sh.58.com/ershoujiaju/">上海二手家具</a></li>
+<li><a href="http://bj.58.com/ershoujiaju/">北京二手家具</a></li>
+<li><a href="http://sz.58.com/ershoujiaju/">深圳二手家具</a></li>
+<li><a href="http://gz.58.com/ershoujiaju/">广州二手家具</a></li>
+<li><a href="http://tj.58.com/ershoujiaju/">天津二手家具</a></li>
+<li><a href="http://nj.58.com/ershoujiaju/">南京二手家具</a></li>
+<li><a href="http://dl.58.com/ershoujiaju/">大连二手家具</a></li>
+<li><a href="http://hz.58.com/ershoujiaju/">杭州二手家具</a></li>
+<li><a href="http://sy.58.com/ershoujiaju/">沈阳二手家具</a></li>
+<li><a href="http://hrb.58.com/ershoujiaju/">哈尔滨二手家具</a></li>
+<li><a href="http://cd.58.com/ershoujiaju/">成都二手家具</a></li>
+<li><a href="http://dg.58.com/ershoujiaju/">东莞二手家具</a></li>
+<li><a href="http://jn.58.com/ershoujiaju/">济南二手家具</a></li>
+<li><a href="http://fs.58.com/ershoujiaju/">佛山二手家具</a></li>
+<li><a href="http://wx.58.com/ershoujiaju/">无锡二手家具</a></li>
+<li><a href="http://cs.58.com/ershoujiaju/">长沙二手家具</a></li>
+<li><a href="http://wh.58.com/ershoujiaju/">武汉二手家具</a></li>
+<li><a href="http://nb.58.com/ershoujiaju/">宁波二手家具</a></li>
+<li><a href="http://cc.58.com/ershoujiaju/">长春二手家具</a></li>
+<li><a href="http://su.58.com/ershoujiaju/">苏州二手家具</a></li>
+<li><a href="http://qd.58.com/ershoujiaju/">青岛二手家具</a></li>
+<li><a href="http://zh.58.com/ershoujiaju/">珠海二手家具</a></li>
+<li><a href="http://cq.58.com/ershoujiaju/">重庆二手家具</a></li>
+<li><a href="http://fz.58.com/ershoujiaju/">福州二手家具</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S 底部链接分类 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				香港二手家具相关分类			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a href="http://hk.58.com/shouji/">香港二手手机</a>
+</li>
+<li>
+<a href="http://hk.58.com/diannao/">香港二手电脑</a>
+</li>
+<li>
+<a href="http://hk.58.com/shuma/">香港二手数码产品</a>
+</li>
+<li>
+<a href="http://hk.58.com/jiadian/">香港二手家电</a>
+</li>
+<li>
+<a href="http://hk.58.com/ershoujiaju/">香港二手家具</a>
+</li>
+<li>
+<a href="http://hk.58.com/shoujihao/">
+香港手机号码转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/tongxunyw/">香港通讯业务</a>
+</li>
+<li>
+<a href="http://hk.58.com/yingyou/">香港母婴玩具转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/fushi/">香港服装箱包转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/meirong/">香港美容化妆品转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/tushu/">
+香港图书音像转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/bangong/">香港办公设备转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/ershoushebei/">香港二手设备</a>
+</li>
+<li>
+<a href="http://hk.58.com/yishu/">香港艺术收藏品转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/wenti/">香港户外体育用品转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/danche/">香港二手摩托车</a>
+</li>
+<li>
+<a href="http://hk.58.com/fzixingche/">香港二手自行车</a>
+</li>
+<li>
+<a href="http://hk.58.com/diandongche/">香港二手电动车</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 底部链接分类 -->
+<!-- =S 周边城市 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				香港二手家具周边城市
+			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a target="_blank" href="http://gz.58.com/ershoujiaju/">广州二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://zh.58.com/ershoujiaju/">珠海二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://dg.58.com/ershoujiaju/">东莞二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://st.58.com/ershoujiaju/">汕头二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://zs.58.com/ershoujiaju/">中山二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://huizhou.58.com/ershoujiaju/">惠州二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://jm.58.com/ershoujiaju/">江门二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://sg.58.com/ershoujiaju/">韶关二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://zhanjiang.58.com/ershoujiaju/">湛江二手家具</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 周边城市 -->
+<!-- =S friendlink -->
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!-- =S 筛选保存个数 -->
+<ul id="localInfo" class="lso-hide" style="left: 1198.5px; top: 578px;">
+<li class="item"><a class="item-left" href="http://bj.58.com/dongcheng/shouji/pve_5595_300242/?v=1">东城二手手机300万像素</a><a class="off-button" href="#localInfo"></a></li>
+</ul>
+<!-- =E 筛选保存个数 -->
+<script type="text/javascript">
+    boot.require('util.uri', function (Frame, uri) {
+        var mutexs_par = "d1d2d3d4d5d6d7".substring(0, 1);
+        var re = new RegExp(mutexs_par + '\\d+', 'ig')
+        mutexs = [
+            {searchitem: re, params: ["minprice"], searthname: '价格'}
+        ];
+        for (var i = 0, leni = mutexs.length; i &lt; leni; i++) {
+            var mutex = mutexs[i];
+            var pobj = {};
+            for (var j = 0, lenj = mutex.params.length; j &lt; lenj; j++) {
+                pobj[mutex.params[j]] = null;
+            }
+            for (var l = 0, lenl = mutex.params.length; l &lt; lenl; l++) {
+                var pitem = $("#selection&gt;.secitem dt:contains(" + mutex.searthname + ")").parent();
+                pitem.find("a").each(function () {
+                    var o = {};
+                    o[mutex.params] = null;
+                    this.href = (new uri(this.href)).setQuery(o);
+                });
+            }
+        }
+    });
+</script>
+<script>
+    //信息hover
+    boot.require('dom, anim.hover', function (Frame, dom, hover) {
+        var isPersonal = false;
+        var cc;
+        if (isPersonal) {
+            cc = dom.get('hoverinfo');
+        }
+        else {
+            cc = dom.get('infolist');
+        }
+        trs = cc.getElementsByTagName('tr');
+        Frame.each(trs, function (item) {
+            hover.bind(item, 'bg');
+        });
+    });
+
+    $(".selector").each(function () {
+        $(this).hover(function () {
+            $(this).addClass("hover")
+        }, function () {
+            $(this).removeClass("hover")
+        });
+    });
+    ////导航
+    var navs = [];
+    navs.push(['香港58同城', 'http://hk.58.com/sou/']);
+    navs.push(['香港二手市场', '/sale.shtml']);
+            navs.push(['香港二手家具信息', '/ershoujiaju/']);
+                    boot.require('business.navbar', function (Frame, navbar) {
+        navbar.init(navs);
+    });
+    ///////标红////
+    boot.require('business.highlight', function (Frame, highlight) {
+                        highlight.init($("#infolist a.t"), '');
+            });
+</script>
+<script type="text/javascript">document.write("&lt;sc"+"ript src='http://track.58.com/adsys/ggafs?r="+Math.random()+"'&gt;&lt;/scri"+"pt&gt;");</script>
+<div style="display:none">
+<!--基本统计代码begin(5,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {level1:'0', level2:'0', level3:'0',  level4:'0', level5:'0', sortid: '452039586'};
+var _gaq = _gaq || [], site_name = "58", post_count = "35", page_type = "list";
+ _trackURL = "{'cate':'5,508','area':'2050','pagetype':'list','pagesize':'50','pagenum':'1','jiage':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+boot.require('business.gaq, util.js', function (Frame, gaq, js) {
+	_gaq.push(['pageTracker._trackPageview', gaq("sale", "/hk/sale/ershoujiaju/list/")]);
+	_gaq.push(['pageTracker._trackPageLoadTime']);
+	Frame.init(function () {
+		js.append(('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+		js.append('http://tracklog.58.com/referrer4.js');
+	});
+});
+</script>
+<!--基本统计代码end-->
+</div>
+<!-- =S 地域推荐功能 -->
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" name="myTest" align="middle">
+<param name="allowScriptAccess" value="always">
+</param><param name="movie" value="http://list.house.58.com/kanfangdan.swf">
+</param><param name="quality" value="high">
+<embed src="http://list.house.58.com/kanfangdan.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true" allowscriptaccess="always"></embed>
+</param></object>
+<!-- =E 地域推荐功能 -->
+<!-- =S 家电家具地域推荐添加统计功能 -->
+<script>
+window.onload=function ()
+{
+	var obj = document.getElementById("tabsbar");
+	var aA = obj.getElementsByTagName("a");
+	var i = 0;
+	for(i = 1; i &lt; aA.length; i++)
+	{
+		aA[i].onclick=function ()
+		{
+			if(____json4fe.catentry[1].listname == "jiadian")
+			{
+    			_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiadian/tab/']);
+			}else if(____json4fe.catentry[1].listname == "ershoujiaju")
+			{
+				_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tab/']);
+			}
+		};
+	};
+};
+</script>
+<!-- =E 家电家具地域推荐添加统计功能  -->
+</body>
+</html>

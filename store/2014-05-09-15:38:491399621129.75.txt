@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【香港征婚网_香港婚恋网】-【图】- 58同城征婚</title>
+<meta name="keywords" content="香港征婚网,香港婚恋网" />
+<meta name="description" content="58同城香港征婚网, 汇集最新的香港婚恋信息,所有香港征婚信息都经过严格审核，免费、真实的交友环境。快速找对象，就上58同城香港征婚网站。" />
+<link rel="stylesheet" href="http://static.58.com/jiaoyou/css/master_v3_2.css?v=130402" type="text/css" media="all" />
+<link rel="stylesheet" href="http://static.58.com/jiaoyou/css/layout_v3_v1.css?v=121224" type="text/css" media="all" />
+<link rel="shortcut icon" href="http://pic2.58.com/images/favicon.ico" />
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript">
+var _olduser = '';
+_userid = '';
+var islogin = 'false'; 
+
+var mainTop=false;
+
+var _provinceid = '2050';
+var _memberprovinceid = '';
+var _citypinyin = 'hk';
+function tologin2(){
+             window.location.href = "/user/tologin/?path="+window.location.href;
+        return false;
+}
+</script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/common.js?v=120625" charset="UTF-8"></script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/cities.js?v=120625" charset="UTF-8"></script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/cookie.js?v=120625" charset="UTF-8"></script>
+<script type="text/javascript">
+	$(function(){
+				navHead.init();
+		//点击空白处帮帮最小化
+		$(document).click(function(event){
+			if((event.target.id!="bangbangchat")){
+				//im_instance.callIM(CMD_JS_PAGE_CLICK);
+		   	}
+		});	
+	})
+</script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/head_nav.js?v=120809" charset="UTF-8"></script>
+<!-- 请置于所有广告位代码之前 -->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+BAIDU_CLB_preloadSlots("850242","849684");
+</script>
+<style>
+body { background: #fff5f0; }
+body,html {}
+body { background: #fff5f0; }
+body,html {}
+.ad-sjjy{width:998px; height:260px; background:#fff; border:1px solid #e8e9eb; position:relative;}
+.ad-sjjy .hd{ font-size:18px; font-weight:normal; height:32px; color:#ff7601; font-family:Microsoft YaHei; margin-left:30px; line-height:normal;}
+.ad-sjjy li{ float:left; border:1px solid #d1d1d1; width:123px; text-align:center; background:#f7f7f7; padding:4px; margin-left:27px; line-height:normal; _display:inline;}
+.ad-sjjy li img{ height:123px; width:123px; margin:0; padding:0;}
+.ad-sjjy .user-name{ height:18px; line-height:18px; margin:8px 0;}
+.ad-sjjy .user-name span{ display:inline-block; height:16px; width:16px; margin-right:4px; background:url(http://pic2.58.com/jiaoyou/images/ico-rz.png) no-repeat; position:relative; top:3px; *top:0; _display:inline; zoom:1;}
+.ad-sjjy .user-name a{ color:#0066cc;}
+.ad-sjjy .user-name .ico-online{}
+.ad-sjjy .user-name .ico-tel{ width:10px; background-position:-18px 0;}
+.ad-sjjy .user-name .ico-email{ background-position:-48px 0;}
+.ad-sjjy .user-name .ico-vip{ background-position:-30px 0;}
+.ad-sjjy .user-name .ico-level{ width:18px; background-position:-66px 0;}
+.ad-sjjy .user-info{ height:20px;}
+.ad-sjjy .user-info b{ margin:0 6px;}
+.ad-sjjy h4{font-family:"微软雅黑"; font-size:16px; color:#585858; padding:17px 26px; height:16px; line-height:16px; overflow:hidden;}
+.ad-sjjy h4 b{float:left;}
+.ad-sjjy h4 a{float:right; font-size:14px; font-weight:normal;}
+.ad-sjjy h4 a.sp{float:left; padding:1px 0 0 20px; font-size:12px; font-weight:normal; color:#FF6589;}
+.ad-sjjy{overflow:hidden; width:998px;}
+</style>
+<script type="text/javascript">
+_olduser = '';
+_userid = '';
+var islogin = false ; 
+
+var mainTop=false;
+
+var _provinceid = '2050';
+var _memberprovinceid = '';
+var _citypinyin = 'hk';
+function tologin2(){
+             window.location.href = "/user/tologin/?path="+window.location.href;
+        return false;
+}
+&lt;script&gt;
+var _hmt = _hmt || [];
+(function() { var hm = document.createElement("script"); hm.src = "//hm.baidu.com/hm.js?8ab01ecc799088a215d40f579da8fc64"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+</script>
+</head>
+<body style="background:#fff;">
+<div class="head_nav">
+<link href="http://static.58.com/jiaoyou/css/head_v2.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/win_div.js"></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+BAIDU_CLB_preloadSlots("859953","850086","849670","892164","895194","901191","901188","901187");
+</script>
+<link rel="shortcut icon" href="http://pic2.58.com/images/favicon.ico" />
+<div class="head">
+<div class="top">
+<a class="logo" href="http://jiaoyou.58.com" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/logo']);"><img src="http://pic2.58.com/jiaoyou/index_img/jy_logo.jpg" /></a><!--logo_end-->
+<div class="nav_all">
+<ul>
+<li id="jyzh"><a href="http://jiaoyou.58.com" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/jyzh']);" class="nav_a" id="top_div">交友征婚</a>
+<div class="y_icon" style="display:none">
+<ol>
+<li><a href="http://jiaoyou.58.com/usercenter" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/jyzh']);"><em class="jiaoyou"></em>我的交友</a></li>
+<li><a href="http://jiaoyou.58.com/sjjy/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/zhenghun']);"><em class="zhenghun"></em>征婚</a></li>
+<li><a href="http://jiaoyou.58.com/encounter/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/encounter']);"><em class="xiehou"></em>邂逅缘分</a></li>
+<li><a href="#" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/nearby']);this.href='/'+_citypinyin + '/';"><em class="fjdr"></em>附近的人</a></li>
+<li><a href="http://jiaoyou.58.com/giftmall" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/gift']);"><em class="lwsc"></em>礼物商场</a></li>
+<li><a href="http://jiaoyou.58.com/skills/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/skills']);"><em class="jnjh"></em>技能交换</a></li>
+<li><a href="http://jiaoyou.58.com/photowall" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/photowall']);"><em class="zpq"></em>照片墙</a></li>
+</ol>
+<p class="d_x"></p>
+</div><!--y_icon_end-->
+</li>
+<li id="spxc"><a href="http://jiaoyou.58.com/6rooms/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/jyzh']);" class="nav_a" id="top_div">美女直播</a>
+<div class="y_icon" style="display:none">
+<ol>
+<li><a href="http://jiaoyou.58.com/6rooms" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/mnzb']);"><em class="mnzb"></em>美女主播</a></li>
+<li><a href="http://jiaoyou.58.com/mmvideo" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/spjy']);"><em class="spjy"></em>视频交友</a></li>
+<li><a href="http://jiaoyou.58.com/6rooms/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/lb']);"><em class="liaoba"></em>聊吧</a></li>
+<li><a href="http://jiaoyou.58.com/6rooms/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/zy']);"><em class="zongyi"></em>K歌</a></li>
+<li><a href="http://jiaoyou.58.com/6rooms/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/wq']);"><em class="wuqu"></em>舞区</a></li>
+<!--li&gt;&lt;a href="#" target="_blank" &gt;&lt;em class="gequ"&gt;&lt;/em&gt;歌区&lt;/a&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href="#" target="_blank" &gt;&lt;em class="leba"&gt;&lt;/em&gt;乐吧&lt;/a&gt;&lt;/li-->
+</ol>
+<p class="d_x"></p>
+</div>
+</li>
+<li id="yxdt"><a href="http://wan.58.com/?utm_source=top_jiaoyou_0" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/wan', 'top/wan']);" class="nav_a" id="top_div">游戏中心</a>
+<div class="y_icon" style="display:none">
+<ol>
+<li><a href="http://bbs.wan.58.com/ad/wan/jjsg/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top_jiaoyou', 'top/jjsg']);" target="_blank"><em class="n_jjsg"></em>街机三国</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/dxz/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/dxz']);" target="_blank"><em class="n_dxz"></em>大侠传</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/9lc/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/9lc']);" target="_blank"><em class="n_jlc"></em>九龙朝</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/rxhzw/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/rxhzw']);" target="_blank"><em class="n_rxhzw"></em>热血海贼王</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/mm/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/mm']);" target="_blank"><em class="n_nslm"></em>女神联盟</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/wz/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/wz']);" target="_blank"><em class="n_wz"></em>武尊</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/qszg/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/qszg']);" target="_blank"><em class="n_qszg"></em>骑士战歌</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/qh/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/qh']);" target="_blank"><em class="n_qh"></em>枪魂</a></li>
+</ol>
+<p class="d_x"></p>
+</div>
+</li>
+</ul>
+</div><!--nav_end-->
+<ul class="user_top">
+<li><a href="#" onclick="headlogin()">登录</a><i>|</i></li>
+<li><a href="/user/reg" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'click', 'top/reg']);">注册</a></li>
+<script language="javascript">
+                $("#head_nav_login").click(function(){
+                    var currLocation = window.location.href;
+                    var reg=new RegExp("^.*jiaoyou\.58\.com","gmi");
+                    var redirectLocation = currLocation.replace(reg,"");
+                    window.location.href = "/user/tologin?path=" + redirectLocation;
+                    return false;
+                });
+                		
+                function checkold(){
+                    if(_olduser=="true"){
+                        finishprofile();
+                        return false;
+                    }
+                	return true;
+                }
+            </script>
+<input type="hidden" value="f" id="autologining" name="autologining" />
+</ul><!--user_top_end-->
+</div>
+</div><!--head_end-->
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/cities.js?v=120625" charset="UTF-8"></script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/headjs.js?v=130815" charset="UTF-8"></script>
+<script>
+function headlogin() {
+	var path = window.location.href;
+	window.location.href = "https://passport.58.com/login/?path="+path;
+}
+</script> </div>
+<div class="ad-sjjy" style="width:990px;margin:0 auto;">
+<h4><b>优质会员推荐</b>
+<a><script type="text/javascript">BAIDU_CLB_fillSlot("850242");</script></a>
+</h4>
+<ul id="mmzb">
+</ul>
+<p class="dx_y"></p>
+</div>
+<!--header-->
+<div class="cxq_chanel_all clearfix" style="text-align:center;">
+<!--http://www.jiayuan.com/cooperation/58_com/ -->
+<iframe id="sjjyiframe" scrolling="no" name="sjjyiframe" src="" frameborder="0" width="100%" height="1864" style="background:#ffffff;border:none;"></iframe>
+<!--		&lt;iframe id="sjjyiframe" name="sjjyiframe" src="http://reg.jiayuan.com/st/?id=484479&amp;url=http://reg.jiayuan.com/landing_page_se.php?tpl=new" frameborder="0" width="100%" height="900" style="background:#ffffff;border:none;"&gt;&lt;/iframe&gt;-->
+<!-- iframe src="http://reg.jiayuan.com/st/?id=482087&amp;url=http://reg.jiayuan.com/landing_page_se.php?tpl=new" frameborder="0" width="100%" height="950" style="background:#ffffff;border:none;overflow: hidden;"&gt;&lt;/iframe-->
+</div>
+<!--内容中插入代码-->
+<div style="width:990px;margin:5px auto;">
+<script type="text/javascript">BAIDU_CLB_fillSlot("849684");</script>
+</div>
+<script>
+var num = Math.ceil(Math.random()*50);
+$("#sjjyiframe").attr("src","http://search.jiayuan.com/partner/58/search.php?m=1&amp;sex=f&amp;work_location=0&amp;p="+num);
+$('#sjjyiframe').css({
+    //height : $(window).height() - parseInt($('.head_nav').css('height')) - parseInt($('.cxq_chanel_all').css('margin-top'))
+})
+var _gaq = _gaq || []; var site_name = "58";
+	
+	//if defined _channel
+	if(typeof(_channel) != "undefined"){
+		var _trackURL = "{'channel':'" + _channel + "'}";
+	}
+	
+	_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+	_gaq.push(['pageTracker._setDomainName', '.58.com']);
+	_gaq.push(['pageTracker._setAllowLinker', true]); 
+	_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+	_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+	_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+	_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+	var googleana= googleana || "";
+	if(googleana != ""){
+		_gaq.push(['pageTracker._trackPageview',googleana]); 
+	}else
+	_gaq.push(['pageTracker._trackPageview']);
+	(function() {  
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	 document.write("&lt;script type=\"text/javascript\" src=\""+ ("https:" == document.location.protocol ? "https://" : "http://") + "track.58.com/referrer2.js\"&gt;&lt;\/script&gt;"); 
+	 })(); 
+	$.ajax({
+		type : "POST",
+		url  : "http://jiaoyou.58.com/ajaxnearbyforcd",
+		success: function(res){
+			$("#mmzb").html(res);
+		},
+		error: function (XMLHttpRequest, textStatus, errorThrown) {
+			alert("操作失败，稍微再试");
+		}
+	});
+</script>
+<div class="baidu_icon">
+<script>
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8ab01ecc799088a215d40f579da8fc64' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</body>
+</html>

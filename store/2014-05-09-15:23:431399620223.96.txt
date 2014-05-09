@@ -1,0 +1,853 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>东方之朔_新浪博客</title>
+<meta name="keywords" content="东方之朔_新浪博客,东方之朔,大盘走势,目标侧位,股票,储蓄,借贷,投机,qe结果之真相,财经,a股走势,波浪结构推演,股票,qe退出,对中国经济,a股的影响,股票,美元走势,技术图表分析,财经,欧元区经济,欧洲股市,趋势分析展望,股票,美联储减债,对美股影响,股票,ipo,创业板,风险,股票" />
+<meta name="description" content="东方之朔_新浪博客,东方之朔,A股大盘中继反弹双头形态之测位,美国金融系统彻底堕落&nbsp;&nbsp;&nbsp;联储已成鲍鱼之肆,A股大盘走势技术结构之推演,QE大潮将回流&nbsp;&nbsp;&nbsp;A股与房市能否“稳”的住？,美元走势之技术信号的暗示,QE退出&nbsp;&nbsp;欧股何去何从?!,QE已收缩&nbsp;&nbsp;&nbsp;美股为何依然坚挺,乌克兰：当下全球政治经济的缩影与引爆点,伯南克QE之结果——罗斯福的金融危机现代版,创业板之海市蜃楼" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+&lt;!–[if lte IE 6]&gt;
+&lt;script type="text/javascript"&gt;
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+&lt;/script&gt;
+&lt;![endif]–&gt;
+&lt;script type="text/javascript"&gt;
+window.staticTime=new Date().getTime();
+&lt;/script&gt;
+&lt;link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php"  /&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd"  /&gt;
+&lt;link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest"  /&gt;
+&lt;link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1739980167.xml" title="RSS"  /&gt;
+&lt;link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet"  /&gt;&lt;style id="tplstyle" type="text/css"&gt;@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/16/16_9/t.css");
+&lt;/style&gt;
+&lt;style id="positionstyle"  type="text/css"&gt;
+.sinabloghead .blogtoparea{ left:266px;top:35%;}
+.sinabloghead .blognav{ left:253px;top:61%;}
+&lt;/style&gt;
+&lt;style id="bgtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="headtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="navtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--$sinatopbar--&gt;
+&lt;div style="z-index:512;" class="nsinatopbar"&gt;
+  &lt;div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"&gt;&lt;/div&gt;
+  &lt;div class="ntopbar_main"&gt; 
+    &lt;a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"&gt;&lt;img class="ntopbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"&gt;&lt;/a&gt;
+    &lt;div class="ntopbar_floatL"&gt;
+      &lt;div class="ntopbar_search" id="traySearchBar"&gt;&lt;/div&gt;
+	  &lt;div class="ntopbar_ad" id="loginBarActivity" style="display:none;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="ntopbar_loading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"&gt;加载中…&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--$end sinatopbar--&gt;
+
+&lt;div class="sinabloga" id="sinabloga"&gt;
+	&lt;div id="sinablogb" class="sinablogb"&gt;
+
+	   
+ &lt;div id="sinablogHead" class="sinabloghead"&gt;
+     &lt;div style="display: none;" id="headflash" class="headflash"&gt;&lt;/div&gt;
+	   &lt;div id="headarea" class="headarea"&gt;
+      &lt;div id="blogTitle" class="blogtoparea"&gt;
+      &lt;h1 id="blogname" class="blogtitle"&gt;&lt;a href="http://blog.sina.com.cn/u/1739980167"&gt;&lt;span id="blognamespan"&gt;杨东辉的博客&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;
+	  		
+					&lt;div id="bloglink" class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/u/1739980167"&gt;http://blog.sina.com.cn/u/1739980167&lt;/a&gt;  &lt;a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss"&gt;[&lt;cite&gt;订阅&lt;/cite&gt;]&lt;/a&gt;&lt;a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1739980167'));"&gt;[&lt;cite&gt;手机订阅&lt;/cite&gt;]&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="blognav" id="blognav"&gt;
+      			  &lt;div id="blognavBg" class="blognavBg"&gt;&lt;/div&gt; &lt;div class="blognavInfo"&gt; 
+		&lt;span&gt;&lt;a  class="on" href="http://blog.sina.com.cn/u/1739980167"&gt;首页&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a  href="http://blog.sina.com.cn/s/articlelist_1739980167_0_1.html"&gt;博文目录&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a href="http://photo.blog.sina.com.cn/u/1739980167"&gt;图片&lt;/a&gt;&lt;/span&gt;
+      &lt;span class="last"&gt;&lt;a  href="http://blog.sina.com.cn/s/profile_1739980167.html"&gt;关于我&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;      		      		 	
+      
+             &lt;div class="autoskin" id="auto_skin"&gt;
+       &lt;/div&gt;
+
+&lt;div class="adsarea"&gt;
+     &lt;a href="#"&gt;&lt;div id="template_clone_pic" class="pic"&gt;&lt;/div&gt;&lt;/a&gt;
+     &lt;div id="template_clone_link" class="link wdc_HInf"&gt;&lt;/div&gt;
+     &lt;div id="template_clone_other" class="other"&gt;&lt;/div&gt;        
+&lt;/div&gt;
+    &lt;/div&gt;
+    	    	    &lt;/div&gt;
+    
+    &lt;!--主题内容开始 --&gt;
+    &lt;div class="sinablogbody" id="sinablogbody"&gt;
+		
+	&lt;!--第一列start--&gt;
+    &lt;div id="column_1" class="SG_colW21 SG_colFirst"&gt;&lt;div class="SG_conn " id="module_909"&gt;
+&lt;div class="SG_connHead"&gt;
+    &lt;span class="title" comp_title="博主被推荐的博文"&gt;博主被推荐的博文&lt;/span&gt;
+        &lt;span class="edit"&gt;&lt;/span&gt;
+&lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="pic_s1"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/lm/z/tuijian/index.html"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/widget/cmt_banner_s.jpg"  /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;ul class="onlylist" &gt;
+	&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101l0k9.html?tj=1"&gt;A股大盘中继反弹双头形态之…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://blog.sina.com.cn" target="_blank"&gt;新浪博客&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101kpem.html?tj=1"&gt;QE大潮将回流&nbsp;&nbsp;&amp;n…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://blog.sina.com.cn" target="_blank"&gt;新浪博客&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101km5y.html?tj=1"&gt;美元走势之技术信号的暗示…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://blog.sina.com.cn/" target="_blank"&gt;博客首页&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101k9ye.html?tj=1"&gt;QE已收缩&nbsp;&nbsp;&nbsp;…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://blog.sina.com.cn/" target="_blank"&gt;博客首页&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101k1n2.html?tj=1"&gt;乌克兰：当下全球政治经济的…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://blog.sina.com.cn/lm/finance/" target="_blank"&gt;财经博客&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;!--&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="w_list SG_txtc"&gt;&lt;/div&gt;&lt;/li&gt;--&gt;				
+&lt;/ul&gt;
+&lt;div class="more1"&gt;
+	&lt;span class="SG_more"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/s/article_recommended_1739980167_1.html"&gt;全部推荐博文&lt;/a&gt;&gt;&gt;&lt;/span&gt;&lt;br /&gt;
+	&lt;span class="SG_more"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/lm/z/tuijian/index.html"&gt;如何获得更多推荐?&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+
+&lt;/div&gt;    &lt;/div&gt;
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class="SG_conn" id="module_63"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="搜博主文章"&gt;搜博主文章&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="cloneWidget"&gt;&lt;div class="blog_search" style=" white-space:nowrap;"&gt;
+&lt;form id="authorSelfSearch" action="http://blog.sina.com.cn/search/search.php" target="_blank" onsubmit="if(document.getElementById('keyword').value.replace(/(^[\s　]*)|([\s　]*$)/g, '')==''){return false;}" method="get"&gt;
+&lt;input type="hidden" name="uid" value="1739980167" /&gt;
+&lt;input type="hidden" name="page" value="1" /&gt;
+			&lt;div&gt;
+			&lt;input class="miniwidth" type="text" id="keyword" name="keyword" value=""  /&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtnB" onclick="if(document.getElementById('keyword').value.replace(/(^[\s　]*)|([\s　]*$)/g, '')!=''){document.getElementById('authorSelfSearch').submit();return false;}"&gt;&lt;cite&gt;搜索&lt;/cite&gt;&lt;/a&gt;
+			&lt;/div&gt;
+			
+&lt;/form&gt;
+&lt;/div&gt; &lt;div class="cloneLink"&gt;&lt;a href="javascript:;" onclick="return false;" class="SG_comClone"&gt;&lt;img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif"  /&gt;添加到我的博客&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_901"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="个人资料"&gt;个人资料&lt;/span&gt;
+            &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="info"&gt;
+                            
+            &lt;div class="info_img" id="comp_901_head"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://p8.sinaimg.cn/1739980167/180/06521343173469" id="comp_901_head_image" width="180" height="180" alt="东方之朔" title="东方之朔"  /&gt;&lt;/div&gt;
+            
+            &lt;div class="info_txt"&gt;
+              &lt;div class="info_nm"&gt;
+                &lt;img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;
+                &lt;span class="SG_txtb"&gt;&lt;strong id="ownernick"&gt;东方之朔                                &lt;/strong&gt;&lt;/span&gt;
+                
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class="info_btn1"&gt;
+              &lt;!--user['qing_url'] --&gt;
+                &lt;a target="_blank" href="http://qing.blog.sina.com.cn/u/1739980167" onclick="v7sendLog &amp;&amp; v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;Qing&lt;/cite&gt;&lt;/a&gt;
+                &lt;a target="_blank" href="http://weibo.com/u/1739980167?source=blog" class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;微博&lt;/cite&gt;&lt;/a&gt;
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class="SG_j_linedot"&gt;&lt;/div&gt;        &lt;div class="info_locate" id = "info_locate_id"&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;div class="info_btn2"&gt;
+    &lt;p&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"&gt;&lt;cite &gt;加好友&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"&gt;&lt;cite &gt;发纸条&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;a href="http://blog.sina.com.cn/s/profile_1739980167.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"&gt;&lt;cite&gt;写留言&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"&gt;&lt;cite onclick="Module.SeeState.add()"&gt;加关注&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+                  &lt;div class="info_list"&gt;     
+                                   &lt;ul class="info_list1"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客等级：&lt;/span&gt;&lt;span id="comp_901_grade"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/2.gif"   /&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/0.gif"   /&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客积分：&lt;/span&gt;&lt;span id="comp_901_score"&gt;&lt;strong&gt;903&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;ul class="info_list2"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客访问：&lt;/span&gt;&lt;span id="comp_901_pv"&gt;&lt;strong&gt;1,670,050&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;关注人气：&lt;/span&gt;&lt;span id="comp_901_attention"&gt;&lt;strong&gt;3,827&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/div&gt;
+&lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_conn" id="module_12"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="访客"&gt;访客&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_17"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="好友"&gt;好友&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="评论"&gt;评论&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_2"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="留言"&gt;留言&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div id="module_3" class="SG_conn"&gt;
+  &lt;div class="SG_connHead"&gt;
+  &lt;span comp_title="分类" class="title"&gt;分类&lt;/span&gt;
+  &lt;span class="edit"&gt;
+	   &lt;/span&gt; 
+  &lt;/div&gt;
+  &lt;div class="SG_connBody"&gt;
+  		&lt;div class="classList"&gt;
+		&lt;ul&gt;
+		&lt;li class="SG_dot"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1739980167_0_1.html"&gt;全部博文&lt;/a&gt;&lt;em class="count SG_txtb"&gt;(195)&lt;/em&gt;&lt;/li&gt;
+				 &lt;/ul&gt;
+		&lt;/div&gt;
+     &lt;/div&gt;
+  &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第一列end--&gt;
+	
+	&lt;!--第二列start--&gt;
+	&lt;div id="column_2" class="SG_colW73"&gt;&lt;div id="module_10001" class="SG_conn"&gt;
+	&lt;div class="SG_connHead"&gt;
+		&lt;span comp_title="博文" class="title"&gt;博文&lt;/span&gt;
+		&lt;span class="edit"&gt;
+        		&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class="SG_connBody"&gt;
+															&lt;div class="bloglist"&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到新浪博客，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_67b5fd870101l0k9" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101l0k9.html" target="_blank"&gt;A股大盘中继反弹双头形态之测位&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-29 07:51)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101l0k9'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101l0k9');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B4%F3%C5%CC%D7%DF%CA%C6&amp;by=tag" target="_blank"&gt;大盘走势&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C4%BF%B1%EA%B2%E0%CE%BB&amp;by=tag" target="_blank"&gt;目标侧位&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%C9%C6%B1&amp;by=tag" target="_blank"&gt;股票&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;span style=
+'font-size: 12pt; font-family: 宋体;'&gt;我们在本月&lt;/span&gt;&lt;span style=
+'font-size: 12pt;'&gt;18&lt;/span&gt;&lt;span style=
+'font-size: 12pt; font-family: 宋体;'&gt;日的文章中，曾对大盘中长期未来走势做了推演，至昨日&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-size:12.0pt;font-family:宋体;mso-ascii-font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font: minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'&gt;
+上证指数已触及最后一道反弹趋势线，结合去年以来最强的板块创业板的头部基本成立之情况看，上证指数未来几周破位下跌几无异议（虽然短期不排除局部的中继反弹）。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-size:12.0pt;font-family:宋体;mso-ascii-font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font: minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'&gt;
+未来一旦有效跌破&lt;/span&gt;&lt;span style='font-size:12.0pt'&gt;1974&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101l0k9" href="http://blog.sina.com.cn/s/blog_67b5fd870101l0k9.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101l0k9.html#comment" id="c_10001_67b5fd870101l0k9"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101l0k9');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101l0k9" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101l0k9');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101l0k9" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101l0k9.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101l0k9"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_67b5fd870101kz2z" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101kz2z.html" target="_blank"&gt;美国金融系统彻底堕落&nbsp;&nbsp;&nbsp;联储已成鲍鱼之肆&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-26 11:37)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101kz2z'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101kz2z');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B4%A2%D0%EE&amp;by=tag" target="_blank"&gt;储蓄&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%E8%B4%FB&amp;by=tag" target="_blank"&gt;借贷&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CD%B6%BB%FA&amp;by=tag" target="_blank"&gt;投机&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=qe%BD%E1%B9%FB%D6%AE%D5%E6%CF%E0&amp;by=tag" target="_blank"&gt;qe结果之真相&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B2%C6%BE%AD&amp;by=tag" target="_blank"&gt;财经&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;div style=
+'mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.5pt; padding:0cm 0cm 1.0pt 0cm'&gt;
+&lt;p align='left' style='border: none; padding: 0cm;'&gt;&lt;span&gt;【
+&lt;b&gt;东方述评&lt;/b&gt;】：&lt;/span&gt;&lt;span style=
+'background-color: rgb(250, 250, 250); color: rgb(66, 48, 9);'&gt;这就是马克思所预言的帝国主义高级阶段———金融资本主义=寡头资本主义的典型特征，当然，他会在全世界盛行……最后，毁掉资本主义本身！———历史终结论者，绝不会想到——真正的终结是神马！——马克思是真正的社会与经济预言家，其建立在哲学基础上的预言极具逻辑性……&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p align='left'&gt;
+&lt;span&gt;______________________________________________________________________________&lt;/span&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;span style=
+'font-family: 楷体'&gt;导读：&lt;span&gt;MarketWatch&lt;/span&gt;专栏作家刘易斯&lt;span&gt;(Al
+Lewis)&lt;/span&gt;援引专家意见指出，联储金融危机以来的政策让美国人付出了太多的代价，让银行业得到了太多的好处，这种做法是否适宜必须打上一个大大的问号。&lt;/span&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;span&gt;&nbsp;&lt;wbr&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101kz2z" href="http://blog.sina.com.cn/s/blog_67b5fd870101kz2z.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101kz2z.html#comment" id="c_10001_67b5fd870101kz2z"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101kz2z');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101kz2z" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101kz2z');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101kz2z" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101kz2z.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101kz2z"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_67b5fd870101kugj" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101kugj.html" target="_blank"&gt;A股大盘走势技术结构之推演&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-18 07:18)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101kugj'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101kugj');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=a%B9%C9%D7%DF%CA%C6&amp;by=tag" target="_blank"&gt;a股走势&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B2%A8%C0%CB%BD%E1%B9%B9%CD%C6%D1%DD&amp;by=tag" target="_blank"&gt;波浪结构推演&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%C9%C6%B1&amp;by=tag" target="_blank"&gt;股票&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;span style='font-size: 12pt;'&gt;A&lt;/span&gt;&lt;span style=
+'font-size: 12pt; font-family: 宋体;'&gt;股上周的大幅反弹，再度触及半年线及年线，令许多“专家”、股民又开始兴奋雀跃：中国股市“真正牛市”又露出曙光！&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-size:12.0pt;font-family:宋体;mso-ascii-font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font: minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'&gt;
+但这是幻想，还是能够变成现实，只有时间才能仲裁！不过，市场研判是有理性的逻辑的，可以有许多方法。这里东方仅从技术图表与基本面的共振分析，给大家做以参考。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style='font-size:12.0pt'&gt;&nbsp;&lt;wbr&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style='line-height: 1.5;'&gt;&lt;span style=
+'font-size:12.0pt;font-family:宋体;mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font: minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'&gt;
+当下大盘走势技术结构的首选定位&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101kugj" href="http://blog.sina.com.cn/s/blog_67b5fd870101kugj.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101kugj.html#comment" id="c_10001_67b5fd870101kugj"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101kugj');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101kugj" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101kugj');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101kugj" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101kugj.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101kugj"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到新浪博客，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_67b5fd870101kpem" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101kpem.html" target="_blank"&gt;QE大潮将回流&nbsp;&nbsp;&nbsp;A股与房市能否“稳”的住？&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-10 15:19)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101kpem'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101kpem');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=qe%CD%CB%B3%F6&amp;by=tag" target="_blank"&gt;qe退出&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B6%D4%D6%D0%B9%FA%BE%AD%BC%C3&amp;by=tag" target="_blank"&gt;对中国经济&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=a%B9%C9%B5%C4%D3%B0%CF%EC&amp;by=tag" target="_blank"&gt;a股的影响&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%C9%C6%B1&amp;by=tag" target="_blank"&gt;股票&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;span style=
+'font-family:宋体;mso-ascii-font-family:'&gt;———《环球视野》系列报告之三&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&nbsp;&lt;wbr&gt;&lt;/span&gt;&lt;b style='line-height: 1.5;'&gt;&lt;span style=
+'font-family:宋体;mso-ascii-font-family:'&gt;提要：&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-family:楷体'&gt;美联储持续的&lt;span&gt;QE&lt;/span&gt;，成就了美股的“牛市”，实际上也造就了中国房市的辉煌！有人埋怨，全球股市都因&lt;span&gt;QE&lt;/span&gt;大涨，唯独&lt;span&gt;A&lt;/span&gt;股最熊；还有名嘴、砖家说中国刺激力度不够，跟进美联储不足！但事实真相是什么？&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-family:楷体'&gt;其实，中国资产市场不是没大涨，而是宽松的流动性都涌进、滞留在房地产市场。中国的房市与美股的走势是异曲同工。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-family:楷体'&gt;到&lt;span&gt;8&lt;/span&gt;月之后，&lt;span&gt;QE&lt;/span&gt;增量所剩无几，全球流动性大潮将发生根本性变化，全球金融市场都会因为进入升息趋势而大幅走低。中国政府能犯日本曾经的错误——在各种压力下，被迫接过继续“刺激”的接力棒而“逆势维稳”，&lt;span&gt;A&lt;/span&gt;股，特别是中国房市能“稳”的住吗？&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style='font-family:楷体'&gt;理性分析的结&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101kpem" href="http://blog.sina.com.cn/s/blog_67b5fd870101kpem.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101kpem.html#comment" id="c_10001_67b5fd870101kpem"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101kpem');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101kpem" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101kpem');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101kpem" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101kpem.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101kpem"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_67b5fd870101km5y" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101km5y.html" target="_blank"&gt;美元走势之技术信号的暗示&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-05 12:24)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101km5y'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101km5y');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C3%C0%D4%AA%D7%DF%CA%C6&amp;by=tag" target="_blank"&gt;美元走势&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BC%BC%CA%F5%CD%BC%B1%ED%B7%D6%CE%F6&amp;by=tag" target="_blank"&gt;技术图表分析&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B2%C6%BE%AD&amp;by=tag" target="_blank"&gt;财经&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p align='left'&gt;&lt;span style=
+'font-family: 宋体;'&gt;美元今年以来的走势与同期的美国及全球经济一样，扑朔迷离。这实际上是全球实体经济超级熊市大&lt;/span&gt;&lt;span&gt;C&lt;/span&gt;&lt;span style='font-family: 宋体;'&gt;浪的中后期必然现象。但在政策与经济现实的复杂博弈中，经济规律与趋势是势不可挡的，时间终究会让真相水落石出。&lt;/span&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;span style=
+'font-family: 宋体;mso-ascii-font-family:'&gt;笔者这里不做进一步的细致分析（本月中旬会在《全球视野》系列中做全面阐述），仅对市场已经发生的技术信号做一简短解读。&lt;/span&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;b&gt;&lt;span style=
+'font-family:宋体;mso-ascii-font-family:'&gt;局部双底构造形成之测市已出现&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;span style=
+'font-family: 宋体;'&gt;本周美元指数已经连续第&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span style=
+'font-family: 宋体;'&gt;周收阳，周收盘恰好突破扇形原理的第三趋势线，其对测市系统在形态方面，提前预警波段趋势翻转效率极高。&lt;/span&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;span style=
+'font-family: 宋体;mso-ascii-font-family:'&gt;同时，其也再度回到布林中轨之上的强势区域。&lt;/span&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101km5y" href="http://blog.sina.com.cn/s/blog_67b5fd870101km5y.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101km5y.html#comment" id="c_10001_67b5fd870101km5y"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101km5y');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101km5y" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101km5y');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101km5y" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101km5y.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101km5y"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_67b5fd870101kgm8" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101kgm8.html" target="_blank"&gt;QE退出&nbsp;&nbsp;欧股何去何从?!&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-03-29 08:38)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101kgm8'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101kgm8');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C5%B7%D4%AA%C7%F8%BE%AD%BC%C3&amp;by=tag" target="_blank"&gt;欧元区经济&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C5%B7%D6%DE%B9%C9%CA%D0&amp;by=tag" target="_blank"&gt;欧洲股市&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C7%F7%CA%C6%B7%D6%CE%F6%D5%B9%CD%FB&amp;by=tag" target="_blank"&gt;趋势分析展望&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%C9%C6%B1&amp;by=tag" target="_blank"&gt;股票&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p align='left'&gt;———《环球视野》系列报告之二&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&nbsp;&lt;wbr&gt;&lt;/span&gt;&lt;b style='line-height: 1.5;'&gt;&lt;span style=
+'font-family:宋体;mso-ascii-font-family:'&gt;提要：&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-family:楷体'&gt;欧元区已连续&lt;span&gt;3&lt;/span&gt;个季度&lt;span&gt;GDP&lt;/span&gt;数据为证，而此前曾连续&lt;span&gt;6&lt;/span&gt;个季度为负值（超长期衰退）。因此，很多专家表示欧元区经济“已经见底”。但实际上本年度经济增速仍被欧盟统计局预测为&lt;span&gt;-0.5&lt;/span&gt;，同时失业率高居不下……。在美联储&lt;span&gt;QE&lt;/span&gt;收缩，并最后退出的大背景下，欧洲经济何去何从？欧债危机会不会再度发酵？我们此时有必要进行理性的剖析。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-family: 宋体;'&gt;美国次级债危机爆发后，欧债危机被点燃。去年下半年以来，欧元区经济似乎在企稳。但在联储&lt;/span&gt;&lt;span&gt;QE&lt;/span&gt;&lt;span style='font-family: 宋体;'&gt;收缩，并最终退出的大环境下，&lt;/span&gt;&lt;span&gt;QE&lt;/span&gt;&lt;span style='font-family: 宋体;'&gt;的溢出效应将折返，美元回流美国不能避免。其实过去半年多来，市场已经小型“演习”、测试了其结果。&lt;/span&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101kgm8" href="http://blog.sina.com.cn/s/blog_67b5fd870101kgm8.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101kgm8.html#comment" id="c_10001_67b5fd870101kgm8"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101kgm8');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101kgm8" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101kgm8');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101kgm8" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101kgm8.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101kgm8"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_67b5fd870101k9ye" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101k9ye.html" target="_blank"&gt;QE已收缩&nbsp;&nbsp;&nbsp;美股为何依然坚挺&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-03-19 21:44)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101k9ye'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101k9ye');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C3%C0%C1%AA%B4%A2%BC%F5%D5%AE&amp;by=tag" target="_blank"&gt;美联储减债&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B6%D4%C3%C0%B9%C9%D3%B0%CF%EC&amp;by=tag" target="_blank"&gt;对美股影响&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%C9%C6%B1&amp;by=tag" target="_blank"&gt;股票&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;———《环球视野》系列报告之一&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;提要：&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;美联储的持续QE，特别是QE3在2013年增量放水1万多亿美元，其实是美国股市所谓“牛市”之背后的真正驱动力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;那么，有人会说，QE已按计划收缩，为啥美股还如此坚挺？QE与美股及全球经济到底有什么关系？美股牛熊转折点会与QE进程的哪个节点将发生共振?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;
+关于全球经济当下的状况，多数人表示已经“复苏”，但真相到底如何？美国股市“晴雨表”到底反映了一个怎样的经济真实？全球二次金融危机真的可以避免吗？&lt;/p&gt;
+&lt;p&gt;
+股神巴菲特日前接受CNBC采访时表示，如果全球股市在不远的将来暴跌50%，将令我“大吃一惊”。未来的“某一天”将再次发生金融危机，这将令金融市场遭到冲击，但他认为“这种情况短期内不会发生”。&lt;/p&gt;
+&lt;p&gt;东方这里轻轻地问一句巴老：您说的短期到底是指多长时间？未来2年内是不是“短期”？&lt;/p&gt;
+&lt;p&gt;
+要谈论这个问题，我们不得不从全球长周期（34周期）经济模型说起，不得不深入剖析2008年危机以来全球主权债务，尤其是美国主权债务的空前绝后的快速增长！特别是，不得不分析美联储超级QE刺激的来龙去脉，以及它此后不得不收&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101k9ye" href="http://blog.sina.com.cn/s/blog_67b5fd870101k9ye.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101k9ye.html#comment" id="c_10001_67b5fd870101k9ye"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101k9ye');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101k9ye" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101k9ye');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101k9ye" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101k9ye.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101k9ye"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/lm/finance/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到财经博客，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_67b5fd870101k1n2" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101k1n2.html" target="_blank"&gt;乌克兰：当下全球政治经济的缩影与引爆点&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-03-07 09:04)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101k1n2'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101k1n2');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p align='left'&gt;
+&lt;b&gt;美国的经济问题，不是其股市刻意美化“晴雨表”所掩盖、修饰的那样，在今年QE退出大背景下，特别是7月之后，QE增量所剩无几的时候，其本身及欧洲的金融风暴必将来临！为了驱赶美元回流，支撑其即将破裂的金融泡沫，其导演危机与恐慌，是必须选择的手段。&lt;/b&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;strong&gt;而俄罗斯，不会束手就擒……&lt;/strong&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+&lt;p align='left'&gt;
+&lt;b&gt;[&lt;/b&gt;&lt;b&gt;乌克兰情势]&lt;/b&gt;&lt;b&gt;奥巴马称美国制裁俄罗斯以惩罚其出兵乌克兰&lt;/b&gt;&lt;/p&gt;
+&lt;p align='left'&gt;
+纽约3月6日消息，美总统奥巴马称，克里米亚入俄公投违反国际法，美国制裁旨在惩罚俄罗斯出兵乌克兰。&lt;br  /&gt;
+　　奥巴马周四下令，制裁那些对俄罗斯侵入乌克兰南部克里米亚地区负有责任的个人，包括冻结他们在美国的资产和禁止他们进入美国。&lt;br  /&gt;
+　　美国一名官员表示，俄罗斯总统普京不在制裁名单上面。&lt;br  /&gt;
+　　美国国务卿克里表示，奥巴马签署的制裁行政命令提供了实施制裁的法律框架，但也保留就乌克兰问题进行对话的余地。&lt;br  /&gt;
+　　美国五角大楼宣布在波兰进行大规模空军演习。美国驻波兰大使表示，演习规模扩大，&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101k1n2" href="http://blog.sina.com.cn/s/blog_67b5fd870101k1n2.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101k1n2.html#comment" id="c_10001_67b5fd870101k1n2"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101k1n2');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101k1n2" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101k1n2');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101k1n2" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101k1n2.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101k1n2"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_67b5fd870101jdxd" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101jdxd.html" target="_blank"&gt;伯南克QE之结果——罗斯福的金融危机现代版&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-01-29 09:07)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101jdxd'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101jdxd');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;div style=
+'pADDinG-BoTToM: 4px; WiDoWs: 2; TexT-TrAnsForM: none; BACKGroUnD-CoLor: rgb(250,250,250); TexT-inDenT: 0px; pADDinG-LeFT: 0px; LeTTer-spACinG: normal; pADDinG-riGHT: 0px; FonT: 14px/23px Arial, Helvetica, sans-serif; WHiTe-spACe: normal; orpHAns: 2; CoLor: rgb(66,48,9); WorD-spACinG: 0px; pADDinG-Top: 4px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px'
+node-type='feed_list_content'&gt;
+伯南克的QE，不仅仅对美国带来深刻影响，对全世界的金融与经济也是一样！因为美元是全球储备货币。&lt;/div&gt;
+&lt;div style=
+'pADDinG-BoTToM: 4px; WiDoWs: 2; TexT-TrAnsForM: none; BACKGroUnD-CoLor: rgb(250,250,250); TexT-inDenT: 0px; pADDinG-LeFT: 0px; LeTTer-spACinG: normal; pADDinG-riGHT: 0px; FonT: 14px/23px Arial, Helvetica, sans-serif; WHiTe-spACe: normal; orpHAns: 2; CoLor: rgb(66,48,9); WorD-spACinG: 0px; pADDinG-Top: 4px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px'
+node-type='feed_list_content'&gt;
+伯南克以【研究大萧条】著称，但他的研究结论恰恰是颠倒是非，追求表象。&lt;/div&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101jdxd" href="http://blog.sina.com.cn/s/blog_67b5fd870101jdxd.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101jdxd.html#comment" id="c_10001_67b5fd870101jdxd"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101jdxd');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101jdxd" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101jdxd');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101jdxd" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101jdxd.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101jdxd"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://news.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到新闻中心，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_67b5fd870101jare" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101jare.html" target="_blank"&gt;创业板之海市蜃楼&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-01-22 08:49)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'67b5fd870101jare'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101jare');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=ipo&amp;by=tag" target="_blank"&gt;ipo&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B4%B4%D2%B5%B0%E5&amp;by=tag" target="_blank"&gt;创业板&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B7%E7%CF%D5&amp;by=tag" target="_blank"&gt;风险&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%C9%C6%B1&amp;by=tag" target="_blank"&gt;股票&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;span style=
+'FonT-FAMiLY: 宋体; FonT-siZe: 12pt; mso-bidi-font-family: 宋体; mso-ansi-language: en-Us; mso-fareast-language: ZH-Cn; mso-bidi-language: Ar-sA'&gt;
+为啥这样急于批量IPO，而且2月暂停后还会继续？你思考过吗？&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;郭树清暂停IPO的确为了“救市”，制造人造牛市，保护场内投资者，但保护了一方，就必然有“损失”的一方！&lt;/p&gt;
+&lt;p&gt;肖刚把暂停扩大到1年还多，也是良苦用心……！&lt;/p&gt;
+&lt;p&gt;
+但是，另一方，股权投资基金却吃不消，特别是有收益及兑付期限的信托基金（已经爆发相关风险），还有大量银行借给大型国企，并进入股权投资的巨量资金，由于暂停IPO，大量上市计划被搁置，所以，新年到来，必须……，否则……！&lt;/p&gt;
+&lt;p&gt;
+所以，顾头不顾腚的大量批发IPO登场，所以，有老股转让等“制度设计”，所以基金、券商等利益集团集体爆炒创业板，集体制造海市蜃楼……！&lt;/p&gt;
+&lt;p&gt;投资市场永远是负和游戏，最后总有埋单者！&lt;/p&gt;
+&lt;p&gt;
+无论这次市值配售也好，新上市涨停制度也好，特别是网下网上【竞价方法】继续采用荷兰式，而不采用美国式竞价法，等等，都是为了“圈钱、变现”最大化，忽悠小散接棒最大化！&lt;/p&gt;
+&lt;p&gt;或许，制度的设计，利益集团代理&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_67b5fd870101jare" href="http://blog.sina.com.cn/s/blog_67b5fd870101jare.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_67b5fd870101jare.html#comment" id="c_10001_67b5fd870101jare"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('67b5fd870101jare');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_67b5fd870101jare" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('67b5fd870101jare');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_67b5fd870101jare" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_67b5fd870101jare.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_67b5fd870101jare"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div favmd5='{"67b5fd870101l0k9":"640e3d2b8a62112e4b57110eb2356eb2","67b5fd870101kz2z":"6201a3516f8a8fc4a9ca146b0a8d9eab","67b5fd870101kugj":"61df17c0e139b3ee8995500f38fb643f","67b5fd870101kpem":"6417c5bdb5e86cb57aa86a2612acf596","67b5fd870101km5y":"bc1ae91a4a553966b12689bb64a5c272","67b5fd870101kgm8":"3b0822fef3e008fb07f8fa4a4ac94aac","67b5fd870101k9ye":"9550feba93ce60a94f6850568d506fed","67b5fd870101k1n2":"5e38b71f975a20b870d2674cf3693702","67b5fd870101jdxd":"89c5699284a99e9f2db6ec178a0ca06a","67b5fd870101jare":"91cd645ed6322055cd132f37db89964e"}' classid="0" pagesize="10" total="195" id="pagination_10001" class="SG_page"&gt;&lt;/div&gt;
+					&lt;/div&gt;
+							  
+				&lt;/div&gt;  
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第二列start--&gt;
+	
+	&lt;!--第三列start--&gt;
+	&lt;div id="column_3" class="SG_colWnone"&gt;&lt;div style="width:0px;height:0.1px;margin:0px;"&gt;&nbsp;&nbsp;&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第三列end--&gt;
+
+	
+    &lt;/div&gt;
+   &lt;!--主题内容结束 --&gt;
+  
+
+	&lt;div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"&gt;&lt;/div&gt;
+    &lt;div class="sinablogfooter" id="sinablogfooter"  style="position:relative;"&gt;
+      
+      &lt;p class="SG_linka"&gt;&lt;a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank"&gt;新浪BLOG意见反馈留言板&lt;/a&gt;　&lt;a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');"&gt;不良信息反馈&lt;/a&gt;　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正&lt;/p&gt;
+   
+      &lt;p class="SG_linka"&gt;&lt;a href="http://corp.sina.com.cn/chn/" target="_blank"&gt;新浪简介&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/eng/" target="_blank"&gt;About Sina&lt;/a&gt; | &lt;a href="http://emarketing.sina.com.cn/" target="_blank"&gt;广告服务&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/contactus.html" target="_blank"&gt;联系我们&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank"&gt;招聘信息&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank"&gt;网站律师&lt;/a&gt; | &lt;a href="http://english.sina.com" target="_blank"&gt;SINA English&lt;/a&gt; | &lt;a href="http://members.sina.com.cn/apply/" target="_blank"&gt;会员注册&lt;/a&gt; | &lt;a href="http://help.sina.com.cn/" target="_blank"&gt;产品答疑&lt;/a&gt; &lt;/p&gt;
+      &lt;p class="copyright SG_linka"&gt; Copyright &copy; 1996 - 2014 SINA Corporation,  All Rights Reserved&lt;/p&gt;
+      &lt;p class="SG_linka"&gt; 新浪公司 &lt;a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank"&gt;版权所有&lt;/a&gt;&lt;/p&gt;
+	  &lt;a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="swfbox"&gt;&lt;/div&gt;
+&lt;script id="PVCOUNTER_FORIE" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;script type="text/javascript"&gt;
+var scope = {
+    $newTray : 1,
+    $setDomain : true,
+    $uid : "1739980167",
+    $PRODUCT_NAME : "blog7",      //blog7photo,blog7icp
+    $pageid : "index",
+    $key :  "95836c8509f5416f2f74ab0c2632a517",
+    $uhost : "",
+    $ownerWTtype :"",
+    $private: {"pageset":0,"tj":1,"adver":0,"sms":0,"ad":0,"blogsize":0,"cms":0,"hidecms":0,"top":0,"invitationset":0,"p4p":0,"spamcms":0,"init7":1,"quote":0,"foot":0,"isprivate":0,"headpic":1,"t_sina":"1739980167","oauth_token":1,"oauth_token_secret":1,"uname":null,"p_push_t":1,"p_get_t":1,"medal7":1,"uid":"1739980167","articleclass":0},
+    $playids :"",
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,    component_lists:{"2":{"size":730,"list":[10001]},"1":{"size":210,"list":[909,63,901,12,17,1,2,3]}},
+    formatInfo:1,
+    UserPic:[{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"}],
+    UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
+    UserColor:1,
+    backgroundcolor:"rgb(0, 122, 177)",
+    tpl:"16_9",
+    reclist:0    };
+var $encrypt_code = "222dade2b2bf7a9fb41d5f842e6529c7";
+&lt;/script&gt;
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__load_js();&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__render_page();&lt;/script&gt;
+
+
+&lt;!-- ALL CODE START--&gt;&lt;!-- SUDA_CODE_START --&gt; 
+&lt;noScript&gt; 
+&lt;div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'&gt;&lt;img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt=''  /&gt;&lt;/div&gt; 
+
+&lt;/noScript&gt; 
+&lt;!-- SUDA_CODE_END --&gt; 
+
+
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/xblogtheme/js/blog680-min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+        var slotArr = ['atcTitLi_SLOT_41', 'atcTitLi_SLOT_42','loginBarActivity']; //广告位id
+        var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
+        SinaBlog680.staticBox(slotArr, sourceArr);
+&lt;/script&gt;
+&lt;/html&gt;
+</head></html>

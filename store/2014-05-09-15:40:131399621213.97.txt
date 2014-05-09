@@ -1,0 +1,840 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【北京游乐园门票|北京旅游景点门票价格】 - 北京58同城</title>
+<meta name="description" content="北京景点/游乐园门票频道为您提供北京旅游景点介绍，在这里有北京旅游景点大全,北京游乐园门票信息等。你还可以免费查询或发布北京旅游景点介绍、北京游乐园门票信息。" />
+<meta name="keywords" content="北京旅游景点门票,北京游乐园门票" />
+<meta http-equiv="mobile-agent" content="format=wml;url=http://wap.58.com/bj_youle/" /><meta http-equiv="mobile-agent" content="format=xhtml;url=http://wap.58.com/bj_youle/" />
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/bj/youle" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/bj/youle" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/bj/youle" />
+<link href="http://static.58.com/ds/v1/base-v1.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/ds/v1/common-v1.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/ds/v1/list/default-list-v1.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">try{var ____json4fe = {"catentry":[{"dispid":"833","name":"票务","listname":"piaowu"},{"dispid":"249","name":"景点/游乐园门票","listname":"youle"}],"locallist":[{"dispid":"1","name":"北京","listname":"bj"}],"start":(new Date()).getTime(),"modules":"list"};____json4fe.version = 'A';____json4fe.modules = 'listpage';____json4fe.smsc = 'ce882233f1f0d86ed1f6cba1d8a73cfb56b3d01584685c98b2aafb854c9b0c62e17780dc9185a4ad6205c0d171ddabf16bc8fb1d3f4219d64575396e00ce60c2828750687835c4447b6bd705bbddbd9f'; }catch(e){};</script>
+<script src="http://static.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','1','');win1.setSearchButton('searchbtn1');boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'bj');});</script>
+<script type="text/javascript" src="http://static.58.com/ui7/js/createElement-lte-IE8.js"></script>
+</head>
+<body>
+<div id="topbar"></div>
+<!-- =S header -->
+<header id="header">
+<span class="logo"><a href="/" target="_blank">58同城</a></span>
+<div class="nav" id="crumbs" style="display: none;">
+<span><a href="/">北京58同城</a></span>
+<span class="crb_i"><a href="/piaowu.shtml">北京票务</a></span>
+<span class="crb_i">
+<a href="/youle/" itemprop="url">北京景点/游乐园门票</a>
+</span>
+</div> <div class="header-search">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();" />
+<span onmouseout="this.className='sbtn'" onmouseover="this.className='sbtn hover'" class="sbtn">
+<input type="submit" value="搜本类" class="but-bl" name="" id="searchbtn1" /></span>
+<span onmouseout="this.className='sbtn'" onmouseover="this.className='sbtn hover'" class="sbtn">
+<input type="button" onclick="b_query_all();" value="搜全站" class="but-qz" name="" />
+</span>
+<div class="clear"></div>
+<span class="hotsearch">
+<em>热搜：</em>
+<a href="http://bj.58.com/youle/?key=%E6%99%AF%E7%82%B9%E9%97%A8%E7%A5%A8&amp;final=1&amp;searchtype=3&amp;sourcetype=21" onclick="_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/youle/']);">景点门票</a>
+<a href="http://bj.58.com/youle/?key=%E6%95%85%E5%AE%AB%E9%97%A8%E7%A5%A8&amp;final=1&amp;searchtype=3&amp;sourcetype=21" onclick="_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/youle/']);">故宫门票</a>
+<a href="http://bj.58.com/youle/?key=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%97%A8%E7%A5%A8&amp;final=1&amp;searchtype=3&amp;sourcetype=21" onclick="_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/youle/']);">迪士尼门票</a>
+</span>
+</form>
+</div>
+<a href="http://post.58.com/1/249/s5" target="_blank" class="postbtn"><i></i>免费发布信息</a>
+</header>
+<!-- =E header -->
+<div id="ad_mdlbdb" class="tuibox_top_ad"> </div>
+<script type="text/javascript">
+    function rand(min, max) {
+        return Math.round(min + (Math.random() * (max - min)))
+    }
+    var distance = 0, stepwidth, stepNum = 0;
+    var move = function (element, dir, speed, callback) {
+        if (typeof (element) == 'string') element = document.getElementById(element);
+        if (!element.effect) { element.effect = {}; element.effect.move = null; }
+        clearInterval(element.effect.move); //防止连续点击带来的麻烦	
+        var speed = speed || 20;
+        var start = (function (elem) {
+            var posi = { left: elem.offsetLeft };
+            while (elem = elem.offsetParent) { posi.left += elem.offsetLeft };
+            return posi;
+        })(element); //逐步计算左边距的位置
+        element.effect.move = setInterval(function () {
+            start['left'] += (distance - start['left']) * speed / 100;
+            element.style.left = start['left'] + 'px';
+            if (Math.round(start['left']) == distance) {
+                element.style.left = distance + 'px';
+                clearInterval(element.effect.move);
+            } else return
+        }, 20); //主体动画
+
+        var moveUl = element.getElementsByTagName("dl"), _topbar = document.getElementById("left_scroll"), _btmbar = document.getElementById("right_scroll");
+        switch (dir) { //判断移动方向，计算出移动量
+            case "left":
+                if (stepNum &lt; moveUl.length / 2 - 1) {
+                    stepwidth = moveUl[stepNum].clientWidth;
+                    for (var i = 0, liGloble = 0; i &lt; moveUl.length; i++) { liGloble += moveUl[i].clientWidth; } //计算出到倒数第二个li的总长度
+                    distance -= stepwidth * 2; distance = Math.max(-liGloble, distance); //控制范围
+                    ++stepNum;
+                    if (stepNum &gt; moveUl.length / 2 - 1) { _btmbar.style.display = "none"; }
+                    _topbar.style.display = "block";
+                } else { clearInterval(element.effect.move); };
+                break;
+            case "right":
+                if (stepNum &gt; 0) {
+                    --stepNum;
+                    stepwidth = moveUl[stepNum].clientWidth;
+                    distance += stepwidth * 2; distance = Math.min(0, distance); //控制范围
+                    if (stepNum == 0) { _topbar.style.display = "none"; }
+                    _btmbar.style.display = "block";
+                } else { clearInterval(element.effect.move); }
+                break;
+        }
+    };
+    boot.require('config, dom, extension.string, util.js', function (Frame, config, dom, string, js) {
+        Frame.init(function () {
+            js.jsonp('http://open.t.58.com/api/groupbuyv2?city=' + config.city.listname + '&amp;category=jjy', {}, function (data) {
+                var ls = data.gblist;
+                if (!ls || !ls.length) {
+                    return;
+                }
+                dom.show('piaosearch');
+                //id , productname, prodshortname, prodthumimg, prodprice, groupprice, discount, economize, typename, url
+                var tpl = '&lt;dl&gt;&lt;dt&gt;&lt;a href="{9}" target="_blank"&gt;&lt;img height="131" width="210" alt="{2}" src="{3}"&gt;&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;&lt;a href="{9}" title="{1}" target="_blank" class="subt"&gt;&lt;span class="discount"&gt;{6}折:&lt;/span&gt;{2}&lt;/a&gt;&lt;p class="tprice"&gt;&lt;span&gt;现价：&lt;i&gt;¥&lt;em&gt;{5}&lt;/em&gt;&lt;/i&gt;&lt;/span&gt;&lt;span&gt;原价：¥{4}&lt;/span&gt;&lt;span&gt;节省：¥{7}&lt;/span&gt;&lt;/p&gt;&lt;a href="{9}" class="tosee" target="_blank"&gt;去看看&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;';
+                var html = "";
+                for (var i = 0, leni = ls.length; i &lt; leni; i++) {
+                    html += string.format(tpl, ls[i].id, ls[i].productname, string.getShortText(ls[i].productname, 64), ls[i].prodthumimg, ls[i].prodprice, ls[i].groupprice, ls[i].discount, ls[i].economize, ls[i].typename, ls[i].url);
+                }
+                html += '&lt;div class="clear"&gt;&lt;/div&gt;';
+
+                dom.get('imglist').innerHTML = html;
+                //初始化图片左右滚动的箭头
+                function initscroll() {
+                    var imglist = document.getElementById("imglist");
+                    if (imglist != null) {
+                        var dlList = imglist.getElementsByTagName("dl");
+                        if (dlList.length &gt; 2)
+                            document.getElementById("right_scroll").style.display = "block";
+                    }
+                }
+                initscroll();
+            });
+        });
+    });
+
+
+</script>
+<div id="piaosearch" style="display:none;">
+<div class="imglist" id="imglist">
+<div class="clear"></div>
+</div>
+<a href="javascript://" rel="nofollow" class="ctrbar ctrbar_l" id="left_scroll" title="上一页" onclick="move('imglist','right')"></a><a href="javascript://" rel="nofollow" class="ctrbar ctrbar_r" id="right_scroll" title="下一页" onclick="move('imglist','left')"></a><strong class="title">游乐园/景点团购信息</strong>
+</div>
+<!-- =S allSiteSearch 全站搜索 -->
+<script type="text/javascript">    
+	$("#selectbar span[name=cateswitch]").each(function(){
+		$(this).toggle(function(){
+		$(this).removeClass('b1').addClass('b2').text('收起').prev('.s_ul').children().slice(5).show();
+		},function(){
+			$(this).removeClass('b2').addClass('b1').text('展开').prev('.s_ul').children().slice(5).hide();
+		});
+	});
+</script>
+<script type="text/javascript">
+$(".sousuo span[name=cateswitch]").each(function(){
+$(this).toggle(function(){
+$(this).removeClass('b1').addClass('b4').text('收起').prev('.s_ul').children().slice(5).show();
+},function(){
+$(this).removeClass('b4').addClass('b1').text('展开').prev('.s_ul').children().slice(5).hide();
+});
+});
+</script>
+<!-- =E allSiteSearch 全站搜索 -->
+<!-- =S SELECTION -->
+<section id="selection">
+<!-- =S CMCSPARAMETERS -->
+<dl class="secitem">
+<dt class="secitem_brand">类别：</dt>
+<dd>
+<a href="/youle/" class="select">全部</a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/huaxuepiao/">
+	              滑雪
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/dongwuyuan/">
+	              动物园
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/zutuanyou/">
+	              组团游
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/wenquan/">
+	              温泉
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qitayoule/">
+	              其他
+	        </a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>区域：</dt>
+<dd class="fanwei" id="selArea">
+<a href="/youle/" class="select">全北京</a>
+<a href="/chaoyang/youle/">朝阳</a>
+<a href="/haidian/youle/">海淀</a>
+<a href="/dongcheng/youle/">东城</a>
+<a href="/xicheng/youle/">西城</a>
+<a href="/chongwen/youle/">崇文</a>
+<a href="/xuanwu/youle/">宣武</a>
+<a href="/fengtai/youle/">丰台</a>
+<a href="/tongzhouqu/youle/">通州</a>
+<a href="/shijingshan/youle/">石景山</a>
+<a href="/fangshan/youle/">房山</a>
+<a href="/changping/youle/">昌平</a>
+<a href="/daxing/youle/">大兴</a>
+<a href="/shunyi/youle/">顺义</a>
+<a href="/miyun/youle/">密云</a>
+<a href="/huairou/youle/">怀柔</a>
+<a href="/yanqing/youle/">延庆</a>
+<a href="/pinggu/youle/">平谷</a>
+<a href="/mentougou/youle/">门头沟</a>
+<a href="/bjyanjiao/youle/">燕郊</a>
+<a href="/beijingzhoubian/youle/">北京周边</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>价格：</dt>
+<dd>
+<a href="http://bj.58.com/youle/pve_1470_0/" class="select">全部</a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/youle/pve_1470_0_pve_8511_0_50/">
+              50元以下
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/youle/pve_1470_0_pve_8511_50_100/">
+              50-100元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/youle/pve_1470_0_pve_8511_100_150/">
+              100-150元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/youle/pve_1470_0_pve_8511_150_200/">
+              150-200元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/youle/pve_1470_0_pve_8511_200_300/">
+              200-300元
+        </a>
+<span class="prifilter"><span class="text text2"><input type="text" para="minprice" muti="1" size="3" onkeyup="cknum(this)" min="0" name="b_q" /> -  <input type="text" muti="1" para="minprice" size="3" onkeyup="cknum(this)" min="0" name="b_q" />  元 </span><span class="btn btn2"><input type="button" value="价格筛选" onclick="b_query()" /></span></span>
+</dd>
+</dl>
+<dl class="secitem"><dt>供需：</dt>
+<dd class="fanwei">
+<a class="select" name="b_link" para="custom" cl="/youle/" href="http://bj.58.com/youle/pve_1470_0/">
+              转让
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/youle/pve_1470_1/">
+              求购
+        </a>
+</dd></dl>
+<!-- =E CMCSPARAMETERS -->
+<div id="selected" class="bar"></div>
+</section>
+<!-- =E SELECTION -->
+<!-- =S tabsbar -->
+<div class="tabsbar">
+<div class="list-tabs">
+<a class="sel" href="/youle/"><h1>北京景点/游乐园门票信息</h1></a>
+</div>
+</div> <!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix pr">
+<!-- =S filterbar -->
+<div class="filterbar h28">
+<div class="filterbar-l">
+<div class="filterup" id="filterup">
+<a class="m1 sel" rel="nofollow" href="javascript:void(0)" onclick="g2({sort:null,postdate:null,minprice:null});return false"><span>默认排序<em></em></span></a>
+<a class="m1" title="发布时间" href="javascript:void(0)" rel="nofollow" para="sort" cv="posttime" onclick="g2({sort:'posttime',postdate:null,minprice:null});return false">
+<span>发布时间<em class="ico-miarr-d"></em></span>
+</a>
+</div>
+<span class="checkbox-ico" id="isonline"><a href="javascript:void(0);">帮帮在线</a></span>
+<span class="checkbox-ico" id="indivOnly"><a href="javascript:void(0);">只看个人</a></span>
+</div>
+<div class="filterbar-md">
+<a class="mdtj" rel="nofollow" target="_blank" href="http://e.58.com/pas_zizhutuiguang">名店推荐隆重招商</a>
+</div>
+</div>
+<!-- =E filterbar -->
+<!-- =S infolist -->
+<div id="infolist" class="cleft">
+<table class="tblist" cellpadding="0" cellspacing="0">
+<col width="100" />
+<col width="840" />
+<col width="60" />
+<tr><td colspan="3" class="google"><div id="top_google_ad"></div></td></tr>
+<tr logr="z_1_22644232601862_17715005900678_1 ">
+<td class="tc">
+<b class="pri">90</b>元</td>
+<td class="t"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqOULR_uitQP10QPHTkPHbknjmLrZ980v6YUyk_na3YPHT1nHNzPH9zrjDknWE3PH03PjDznWbLP1mdnj0zsjDYnWcOPWc3sak&amp;loggin_user_id=0&amp;disp_cate=249&amp;disp_local=1&amp;client_user_id=&amp;entityid=17715005900678&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399621186784&amp;position=1&amp;param=1470:0&amp;platform=-1&amp;end=end" target="_blank" class="t">北京欢乐谷门票北京景点门票成人一票通玩全天不限制</a><span class="ico area">
+<a href="/youle/">北京</a>
+</span><span class="ico biz">商家</span>
+<a rel="nofollow" href="http://e.58.com/all/zhiding.html" target="_blank" class="ico ding" title="置顶信息"></a>
+<span name="zaixian_22644232601862"></span> </td>
+<td class="pd">今天</td>
+</tr>
+<tr logr="z_1_23043263083015_17862559688074_1 ">
+<td class="tc">
+<b class="pri">120</b>元</td>
+<td class="t"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqOULR_uitQP19vnWNdrHm3rjTLPZ980v6YUyk_na3YPHT1nHNzPH9zrjDknWE3PH03PjDznWbLP1mdnj0zsjDYnWTQPWTksak&amp;loggin_user_id=0&amp;disp_cate=249&amp;disp_local=1&amp;client_user_id=&amp;entityid=17862559688074&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399621186784&amp;position=2&amp;param=1470:0&amp;platform=-1&amp;end=end" target="_blank" class="t">欢乐谷白天成人票</a><span class="ico area">
+<a href="/youle/">北京</a>
+</span><span class="ico biz">商家</span>
+<a rel="nofollow" href="http://e.58.com/all/zhiding.html" target="_blank" class="ico ding" title="置顶信息"></a>
+<span name="zaixian_23043263083015"></span> </td>
+<td class="pd">今天</td>
+</tr>
+<tr logr="p_0_14342041306119_17871422280197_0">
+<td class="tc">
+<b class="pri">100</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17871422280197x.shtml" target="_blank" class="t">转让红栌温泉山庄温泉票100元/张 原价168元</a><span class="ico area">
+<a href="/youle/">北京</a>
+</span>
+<span name="zaixian_14342041306119"></span> </td>
+<td class="pd">11分钟</td>
+</tr>
+<tr logr="p_0_23038270936326_17848684451333_0">
+<td class="tc">
+<b class="pri">185</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17848684451333x.shtml" target="_blank" class="t">成人电子票急转让</a><span class="ico area">
+<a href="/wanshouluhd/youle/">万寿路</a>
+</span>
+<span name="zaixian_23038270936326"></span> </td>
+<td class="pd">31分钟</td>
+</tr>
+<tr logr="p_0_14200967734278_17871104537218_0">
+<td class="tc">
+<b class="pri">200</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17871104537218x.shtml" target="_blank" class="t">顺景温泉 门票+壹正餐+壹早餐</a><span class="ico area">
+<a href="/yayuncun/youle/">亚运村</a>
+</span>
+<span name="zaixian_14200967734278"></span> </td>
+<td class="pd">53分钟</td>
+</tr>
+<tr logr="p_0_5278804329991_17726038233098_0">
+<td class="tc">
+<b class="pri">20</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17726038233098x.shtml" target="_blank" class="t">石林峡,慕田峪长城,电子门票</a><span class="ico area">
+<a href="/qinghuadaxue/youle/">清华大学</a>
+</span>
+<span name="zaixian_5278804329991"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_15260285902342_17870919652105_0">
+<td class="tc">
+<b class="pri">100</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17870919652105x.shtml" target="_blank" class="t">北京海洋公园门票6张 100一张 全要90一张</a><span class="ico area">
+<a href="/youle/">北京</a>
+</span>
+<span name="zaixian_15260285902342"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_1_5007591329286_16591721473923_0">
+<td class="tc">
+<b class="pri">85</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/16591721473923x.shtml" target="_blank" class="t">九华山庄温泉票龙脉温泉花水湾温泉所以温泉票转让</a><span class="ico area">
+<a href="/youle/">北京</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_5007591329286"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_23082394163463_17870874792321_0">
+<td class="tc">
+<b class="pri">1500</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17870874792321x.shtml" target="_blank" class="t">港澳4天3夜免费双人游</a><span class="ico area">
+<a href="/bjsunhe/youle/">孙河</a>
+</span>
+<span name="zaixian_23082394163463"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_5296583580166_17863711773066_0">
+<td class="tc">
+<b class="pri">35</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17863711773066x.shtml" target="_blank" class="t">顺义鲜花港郁金香文化节门票 35一张 多购优惠</a><span class="ico area">
+<a href="/puhuangyu/youle/">蒲黄榆</a>
+</span>
+<span name="zaixian_5296583580166"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_1_7859988509959_17263063061121_0">
+<td class="tc">
+<b class="pri">999</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17263063061121x.shtml" target="_blank" class="t">收购。水立方参观,游泳嬉水,鸟巢马术大师赛事门票。</a><span class="ico area">
+<a href="/chaoyang/youle/">朝阳</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_7859988509959"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_12821498842374_17870371934855_0">
+<td class="tc">
+<b class="pri">150</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17870371934855x.shtml" target="_blank" class="t">温都水城两馆通票</a><span class="ico area">
+<a href="/yayuncun/youle/">亚运村</a>
+</span>
+<span name="zaixian_12821498842374"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_17884569739015_17784915033731_0">
+<td class="tc">
+<b class="pri">200</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17784915033731x.shtml" target="_blank" class="t">超值香港海洋公园套票一个大人一个小孩</a><span class="ico area">
+<a href="/jinsong/youle/">劲松</a>
+</span>
+<span name="zaixian_17884569739015"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_22934905065991_17797010283009_0">
+<td class="tc">
+<b class="pri">70</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17797010283009x.shtml" target="_blank" class="t">北京欢乐谷门票成人全天全场一票通玩70元一张送雨衣</a><span class="ico area">
+<a href="/guomao/youle/">国贸</a>
+</span>
+<span name="zaixian_22934905065991"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_22934876835078_17796994538497_0">
+<td class="tc">
+<b class="pri">70</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17796994538497x.shtml" target="_blank" class="t">北京欢乐谷门票成人全天全场一票通玩70元一张送雨衣</a><span class="ico area">
+<a href="/guomao/youle/">国贸</a>
+</span>
+<span name="zaixian_22934876835078"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_1_7425746706694_17240953910147_0">
+<td class="tc">
+<b class="pri">60</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17240953910147x.shtml" target="_blank" class="t">太平洋海底世界团购门票 景区接待 随到随进免费停车</a><span class="ico area">
+<a href="/youle/">北京</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_7425746706694"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_22835369313542_17870094033159_0">
+<td class="tc">
+<b class="pri">200</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17870094033159x.shtml" target="_blank" class="t">清河永辉超市附近绿仙踪</a><span class="ico area">
+<a href="/qinghe/youle/">清河</a>
+</span>
+<span name="zaixian_22835369313542"></span> </td>
+<td class="pd">3小时</td>
+</tr>
+<tr logr="p_1_22995108120070_17835378360962_0">
+<td class="tc">
+<b class="pri">100</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17835378360962x.shtml" target="_blank" class="t">北京欢乐谷门票通票 欢乐谷成人门票实体票电子票</a><span class="ico area">
+<a href="/haidian/youle/">海淀</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_22995108120070"></span> </td>
+<td class="pd">3小时</td>
+</tr>
+<tr logr="p_1_21956429767686_17786171538822_0">
+<td class="tc">
+<b class="pri">90</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17786171538822x.shtml" target="_blank" class="t">北京欢乐谷门票游乐园景点门票成人一票通玩全天不限制</a><span class="ico area">
+<a href="/qinghuadaxue/youle/">清华大学</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_21956429767686"></span> </td>
+<td class="pd">3小时</td>
+</tr>
+<tr logr="p_0_22927528040967_17793319742215_0">
+<td class="tc">
+<b class="pri">80</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17793319742215x.shtml" target="_blank" class="t">北京欢乐谷门票成人全天全场一票通玩80元一张送雨衣</a><span class="ico area">
+<a href="/guomao/youle/">国贸</a>
+</span>
+<span name="zaixian_22927528040967"></span> </td>
+<td class="pd">3小时</td>
+</tr>
+<tr logr="p_0_22927427065862_17793270008202_0">
+<td class="tc">
+<b class="pri">80</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17793270008202x.shtml" target="_blank" class="t">北京欢乐谷门票成人全天全场一票通玩80元一张送雨衣</a><span class="ico area">
+<a href="/guomao/youle/">国贸</a>
+</span>
+<span name="zaixian_22927427065862"></span> </td>
+<td class="pd">3小时</td>
+</tr>
+<tr logr="p_0_22927512320518_17793310741506_0">
+<td class="tc">
+<b class="pri">80</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17793310741506x.shtml" target="_blank" class="t">北京欢乐谷门票成人全天全场一票通玩80元一张送雨衣</a><span class="ico area">
+<a href="/cbd/youle/">CBD </a>
+</span>
+<span name="zaixian_22927512320518"></span> </td>
+<td class="pd">3小时</td>
+</tr>
+<tr logr="p_1_22480851438854_17569974614019_0">
+<td class="tc">
+<b class="pri">90</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17569974614019x.shtml" target="_blank" class="t">北京欢乐谷门票北京景点门票成人一票通玩全天不限制</a><span class="ico area">
+<a href="/chaoyang/youle/">朝阳</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_22480851438854"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_0_19148148048390_17592025849352_0">
+<td class="tc">
+<b class="pri">800</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17592025849352x.shtml" target="_blank" class="t">全市最低价租车 个人新款白色别克GL8、车辆全新</a><span class="ico area">
+<a href="/liuliqiao/youle/">六里桥</a>
+</span>
+<span name="zaixian_19148148048390"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_0_16631854618375_17836408169095_0">
+<td class="tc">
+<b class="pri">300</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17836408169095x.shtml" target="_blank" class="t">香港、澳门 4天三晚双人行套票</a><span class="ico area">
+<a href="/bjyanjiao/youle/">燕郊</a>
+</span>
+<span name="zaixian_16631854618375"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_1_22416209981446_17537653896195_0">
+<td class="tc">
+<b class="pri">90</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17537653896195x.shtml" target="_blank" class="t">北京欢乐谷门票北京景点门票成人一票通玩全天不限制</a><span class="ico area">
+<a href="/chaoyang/youle/">朝阳</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_22416209981446"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_0_39893513_17764249190146_0">
+<td class="tc">
+<b class="pri">5</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17764249190146x.shtml" target="_blank" class="t">清河五彩城史努比主题乐园门票</a><span class="ico area">
+<a href="/qinghe/youle/">清河</a>
+</span>
+<span name="zaixian_39893513"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_0_21863234068998_17541488445322_0">
+<td class="tc">
+<b class="pri">1500</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17541488445322x.shtml" target="_blank" class="t">网途港澳4天3晚套票双人转让</a><span class="ico area">
+<a href="/fuchengmen/youle/">阜成门</a>
+</span>
+<span name="zaixian_21863234068998"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_0_22758200491526_17717125617927_0">
+<td class="tc">
+<b class="pri">420</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17717125617927x.shtml" target="_blank" class="t">香港海洋公园门票2大1小</a><span class="ico area">
+<a href="/yangzhuang/youle/">杨庄 </a>
+</span>
+<span name="zaixian_22758200491526"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_0_23079962455815_17869530085249_0">
+<td class="tc">
+     		           	面议</td>
+<td class="t"><a href="http://bj.58.com/youle/17869530085249x.shtml" target="_blank" class="t">欢乐谷成人白天门票一张</a><span class="ico area">
+<a href="/huanlegu/youle/">欢乐谷</a>
+</span>
+<span name="zaixian_23079962455815"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_1_22416145271559_17537621622538_0">
+<td class="tc">
+<b class="pri">90</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17537621622538x.shtml" target="_blank" class="t">北京欢乐谷门票北京景点门票成人一票通玩全天不限制</a><span class="ico area">
+<a href="/chaoyang/youle/">朝阳</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_22416145271559"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_0_639660789255_17869075938056_0">
+<td class="tc">
+<b class="pri">168</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17869075938056x.shtml" target="_blank" class="t">【彩色跑The color run】下午的门票换票</a><span class="ico area">
+<a href="/cbd/youle/">CBD </a>
+</span>
+<span name="zaixian_639660789255"></span> </td>
+<td class="pd">5小时</td>
+</tr>
+<tr logr="p_0_12556360632326_14716622455553_0">
+<td class="tc">
+<b class="pri">350</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/14716622455553x.shtml" target="_blank" class="t">家盒子门票低价转让,三店通用</a><span class="ico area">
+<a href="/meiticun/youle/">媒体村</a>
+</span>
+<span name="zaixian_12556360632326"></span> </td>
+<td class="pd">5小时</td>
+</tr>
+<tr logr="p_0_10860073988614_17768330678403_0">
+<td class="tc">
+<b class="pri">90</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17768330678403x.shtml" target="_blank" class="t">个人转让京东石林峡2张送植物园电子门票</a><span class="ico area">
+<a href="/lizeqiao/youle/">丽泽桥</a>
+</span>
+<span name="zaixian_10860073988614"></span> </td>
+<td class="pd">5小时</td>
+</tr>
+<tr logr="p_0_2430729172743_17859559684616_0">
+<td class="tc">
+<b class="pri">500</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17859559684616x.shtml" target="_blank" class="t">泰国6天5晚卷</a><span class="ico area">
+<a href="/bjsihui/youle/">四惠</a>
+</span>
+<span name="zaixian_2430729172743"></span> </td>
+<td class="pd">5小时</td>
+</tr>
+<tr logr="p_0_407590816775_17868827747457_0">
+<td class="tc">
+<b class="pri">38</b>元</td>
+<td class="t"><a href="http://bj.58.com/youle/17868827747457x.shtml" target="_blank" class="t">现有 北京野生动物园门票、黄花水长城门票、京东石林</a><span class="ico area">
+<a href="/xihongmen/youle/">西红门</a>
+</span>
+<span name="zaixian_407590816775"></span> </td>
+<td class="pd">5小时</td>
+</tr>
+<tr logr="p_0_14739991365383_17868812278147_0">
+<td class="tc">
+     		           	面议</td>
+<td class="t"><a href="http://bj.58.com/youle/17868812278147x.shtml" target="_blank" class="t">春季旅游一日游</a><span class="ico area">
+<a href="/youle/">北京</a>
+</span>
+<span name="zaixian_14739991365383"></span> </td>
+<td class="pd">5小时</td>
+</tr>
+<tr><td colspan="3" class="google"><div id="taobao"></div></td></tr>
+<tr><td colspan="3" class="google"><div id="bottom_google_ad"></div></td></tr>
+</table><div class="pager">
+<strong><span>1</span></strong><a href="/youle/pn2/"><span>2</span></a><a href="/youle/pn3/"><span>3</span></a><a href="/youle/pn4/"><span>4</span></a><a href="/youle/pn5/"><span>5</span></a><a href="/youle/pn6/"><span>6</span></a><a href="/youle/pn7/"><span>7</span></a><a href="/youle/pn8/"><span>8</span></a><a href="/youle/pn9/"><span>9</span></a><a href="/youle/pn10/"><span>10</span></a><a href="/youle/pn11/"><span>11</span></a><a href="/youle/pn12/"><span>12</span></a><a class="next" href="/youle/pn2/"><span>下一页</span></a>
+</div>
+<div id="infocont"><a target="_blank" rel="nofollow" href="http://post.58.com/1/249/s5">马上发布一条景点/游乐园门票信息&raquo;</a></div>
+<div id="bottom_zhaoshangjiameng_ad"></div><div id="direct_ad_bottom"></div>
+</div>
+<!-- =E infolist -->
+<!-- =S rightframe -->
+<div id="rightframe">
+<div style="margin-bottom:10px">
+<a href="http://static.58.com/ui7/help/pf_xx.html" target="_blank">
+<img src="http://pic2.58.com/ds/other/bannerz_03.png" />
+</a>
+</div>
+<div id="ad19"></div></div>
+<!-- =E rightframe -->
+</section>
+<!-- =E mainlist -->
+<!-- =E infolist -->
+<!-- =S rightframe -->
+<div id="rightframe"><div id="ad19"></div></div>
+<!-- =E rightframe -->
+<!-- =S links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S friendtips -->
+<dl id="friendtips" class="linksItem friendtips">
+<dt class="b-left">北京景点/游乐园门票介绍</dt>
+<dd class="b-right">北京景点/游乐园门票频道为您提供北京旅游景点大全,北京游乐园门票信息供您选择，您可以免费查看和发布北京旅游景点介绍,北京游乐园门票信息。感谢您选择北京景点/游乐园门票信息平台。手机版请访问<a href="http://m.58.com/bj/youle">北京景点/游乐园门票</a></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S relate 相关信息 -->
+<dl class="linksItem relate" id="relate">
+<dt class="b-left">相关信息：</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="/youle/jh_%E5%8C%97%E4%BA%AC%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%97%A8%E7%A5%A8/">北京海洋馆门票</a></li>
+<li><a href="/youle/jh_%E5%8C%97%E4%BA%AC%E5%9B%AD%E5%8D%9A%E4%BC%9A%E9%97%A8%E7%A5%A8/">北京园博会门票</a></li>
+<li><a href="/youle/jh_%E6%9C%9D%E9%98%B3%E5%85%AC%E5%9B%AD%E6%B2%99%E6%BB%A9%E8%8A%82%E9%97%A8%E7%A5%A8/">朝阳公园沙滩节门票</a></li>
+<li><a href="/youle/jh_%E6%95%85%E5%AE%AB%E9%80%9A%E7%A5%A8/">故宫通票</a></li>
+<li><a href="/youle/jh_%E6%95%85%E5%AE%AB%E4%BC%98%E5%BE%85%E5%88%B8/">故宫优待券</a></li>
+<li><a href="/youle/jh_%E6%98%8C%E5%B9%B3%E8%8B%B9%E6%9E%9C%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E9%87%87%E6%91%98%E5%98%89%E5%B9%B4%E5%8D%8E%E9%97%A8%E7%A5%A8/">昌平苹果主题公园采摘嘉年华门票</a></li>
+<li><a href="/youle/jh_%E5%87%A4%E5%B1%B1%E6%B8%A9%E6%B3%89/">凤山温泉</a></li>
+<li><a href="/youle/jh_%E9%A1%BA%E6%99%AF%E6%B8%A9%E6%B3%89/">顺景温泉</a></li>
+<li><a href="/youle/jh_%E5%8D%97%E5%AE%AB%E6%B8%A9%E6%B3%89/">南宫温泉</a></li>
+<li><a href="/youle/jh_%E6%B8%A9%E9%83%BD%E6%B0%B4%E5%9F%8E/">温都水城</a></li>
+</ul></dd></dl>
+<!-- =E relate 相关信息 -->
+<!-- =S META A~Z -->
+<dl id="relatelink" class="linksItem relatelink">
+<dt class="b-left">热门景点/游乐园门票：</dt>
+<dd class="b-right">
+<dl class="relateSelect" id="relateSelect">
+<dt><span>热门欢乐谷门票</span></dt>
+<dd>
+<a href="http://bj.58.com/hlg/" target="_blank">北京欢乐谷 </a>
+<a href="http://sh.58.com/hlg/" target="_blank">上海欢乐谷 </a>
+<a href="http://gz.58.com/hlg/" target="_blank">广州欢乐谷 </a>
+<a href="http://sz.58.com/hlg/" target="_blank">深圳欢乐谷 </a>
+<a href="http://wh.58.com/hlg/" target="_blank">武汉欢乐谷 </a>
+<a href="http://tj.58.com/hlg/" target="_blank">天津欢乐谷 </a>
+<a href="http://xa.58.com/hlg/" target="_blank">西安欢乐谷 </a>
+<a href="http://cd.58.com/hlg/" target="_blank">成都欢乐谷 </a>
+<a href="http://sy.58.com/hlg/" target="_blank">沈阳欢乐谷 </a>
+<a href="http://zz.58.com/hlg/" target="_blank">郑州欢乐谷 </a>
+<a href="http://jn.58.com/hlg/" target="_blank">济南欢乐谷 </a>
+<a href="http://nj.58.com/hlg/" target="_blank">南京欢乐谷 </a>
+<a href="http://qd.58.com/hlg/" target="_blank">青岛欢乐谷 </a>
+<a href="http://sjz.58.com/hlg/" target="_blank">石家庄欢乐谷 </a>
+<a href="http://cq.58.com/hlg/" target="_blank">重庆欢乐谷 </a>
+<a href="http://cs.58.com/hlg/" target="_blank">长沙欢乐谷 </a>
+</dd>
+<dt><span>热门海洋馆门票</span></dt>
+<dd>
+<a href="http://bj.58.com/haiyangguan/" target="_blank">北京海洋馆 </a>
+<a href="http://sh.58.com/haiyangguan/" target="_blank">上海海洋馆 </a>
+<a href="http://gz.58.com/haiyangguan/" target="_blank">广州海洋馆 </a>
+<a href="http://sz.58.com/haiyangguan/" target="_blank">深圳海洋馆 </a>
+<a href="http://wh.58.com/haiyangguan/" target="_blank">武汉海洋馆 </a>
+<a href="http://tj.58.com/haiyangguan/" target="_blank">天津海洋馆 </a>
+<a href="http://xa.58.com/haiyangguan/" target="_blank">西安海洋馆 </a>
+<a href="http://cd.58.com/haiyangguan/" target="_blank">成都海洋馆 </a>
+<a href="http://sy.58.com/haiyangguan/" target="_blank">沈阳海洋馆 </a>
+<a href="http://zz.58.com/haiyangguan/" target="_blank">郑州海洋馆 </a>
+<a href="http://jn.58.com/haiyangguan/" target="_blank">济南海洋馆 </a>
+<a href="http://nj.58.com/haiyangguan/" target="_blank">南京海洋馆 </a>
+<a href="http://qd.58.com/haiyangguan/" target="_blank">青岛海洋馆 </a>
+<a href="http://sjz.58.com/haiyangguan/" target="_blank">石家庄海洋馆 </a>
+<a href="http://cq.58.com/haiyangguan/" target="_blank">重庆海洋馆 </a>
+<a href="http://cs.58.com/haiyangguan/" target="_blank">长沙海洋馆 </a>
+</dd>
+<dt><span>热门滑雪场</span></dt>
+<dd>
+<a href="http://bj.58.com/youle/jh_南宫冰雪嘉年华/" target="_blank">南宫冰雪嘉年华</a>
+<a href="http://bj.58.com/youle/jh_石京龙滑雪/" target="_blank">石京龙滑雪</a>
+<a href="http://bj.58.com/youle/jh_军都山滑雪/" target="_blank">军都山滑雪</a>
+<a href="http://bj.58.com/youle/jh_渔阳滑雪场/" target="_blank">渔阳滑雪场</a>
+<a href="http://bj.58.com/youle/jh_云佛山滑雪/" target="_blank">云佛山滑雪</a>
+<a href="http://bj.58.com/youle/jh_南山滑雪场/" target="_blank">南山滑雪场</a>
+<a href="http://tj.58.com/youle/jh_蓟县国际滑雪场/" target="_blank">蓟县国际滑雪场</a>
+<a href="http://hz.58.com/youle/jh_大明山滑雪场/" target="_blank">大明山滑雪场</a>
+<a href="http://jn.58.com/youle/jh_金象山滑雪场/" target="_blank">金象山滑雪场</a>
+<a href="http://bj.58.com/youle/jh_玉泉狩猎场滑雪场/" target="_blank">玉泉狩猎场滑雪场</a>
+<a href="http://hrb.58.com/youle/jh_乌吉密滑雪场/" target="_blank">乌吉密滑雪场</a>
+<a href="http://hrb.58.com/youle/jh_平山神鹿滑雪场/" target="_blank">平山神鹿滑雪场</a>
+<a href="http://hrb.58.com/youle/jh_亚布力滑雪场/" target="_blank">亚布力滑雪场</a>
+</dd>
+</dl>
+</dd>
+</dl>
+<script>
+	////附近商圈
+	var alldt1 = $("#relateSelect&gt;dt");
+	function showNear1(dt){
+	    alldt1.each(function(){
+	        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+	        else {$(this).next("dd").hide();$(this).removeClass("select");}
+	    });
+	}
+	alldt1.each(function(){
+	    $(this).click(function(){showNear1(this);}).hover(function(){showNear1(this);});
+	});
+			showNear1(alldt1[0]);
+		</script>
+<!-- =E META A~Z -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+	 	景点/游乐园门票相关分类
+		<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://bj.58.com/huochepiao/">北京火车票</a></li>
+<li><a href="http://bj.58.com/piao/">北京演出门票</a></li>
+<li><a href="http://bj.58.com/dianyingpiao/">北京电影票</a></li>
+<li><a href="http://bj.58.com/jianshenka/">北京健身卡</a></li>
+<li><a href="http://bj.58.com/kaquan/">北京优惠券</a></li>
+<li><a href="http://piao.58.com/youle/">景点大全</a></li>
+<li><a href="http://bj.58.com/youle/">北京游乐园</a></li>
+<li><a href="http://piao.58.com/bj/t/">北京演出团购大全</a></li>
+<li><a href="http://piao.58.com/sh/t/">上海演出团购大全</a></li>
+<li><a href="http://bj.58.com/youyongka/">北京游泳卡</a></li>
+<li><a href="http://bj.58.com/yanchanghui/">北京演唱会</a></li>
+<li><a href="http://bj.58.com/yinyuehui/">北京音乐会</a></li>
+<li><a href="http://bj.58.com/tiyusaishi/">北京体育赛事</a></li>
+<li><a href="http://piao.58.com/">全国演出信息</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S friendlink -->
+<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"><h2>友情链接：</h2></dt>
+<dd class="b-right"><strong>友情链接</strong>:<a href="http://www.58.com/weihuoshichang/" target="_blank">北京尾货市场</a>&nbsp;<a href="http://bj.58.com/zhoubianyou/" target="_blank">北京周边旅游</a>&nbsp;<a href="http://www.58.com/youlenews/" target="_blank">景点新闻</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!--  
+&lt;script type="text/javascript"&gt;
+boot.require('util.uri', function(Frame, uri){
+	var mutexs_par = "c1c2c3c4c5c6".substring(0,1);
+	var re = new RegExp(mutexs_par + '\\d+', 'ig')
+	mutexs = [{searchitem:re, params:["minprice"], searthname:'价格'}];
+	for(var i = 0, leni = mutexs.length; i &lt; leni; i ++) {
+		var mutex = mutexs[i];
+		var pobj = {};
+		for(var j = 0, lenj = mutex.params.length; j &lt; lenj; j ++) {
+			pobj[mutex.params[j]] = null;
+		}
+		for(var l = 0, lenl = mutex.params.length; l &lt; lenl; l ++) {
+			var pitem = $("#selection&gt;.secitem dt:contains("+mutex.searthname+")").parent();
+			pitem.find("a").each(function(){
+				var o = {};
+				o[mutex.params] = null;
+				this.href = (new uri(this.href)).setQuery(o);
+			});
+		}
+	}
+});
+&lt;/script&gt;
+-->
+<script type="text/javascript">document.write("&lt;sc"+"ript src='http://track.58.com/adsys/ggafs?r="+Math.random()+"'&gt;&lt;/scri"+"pt&gt;");</script>
+<script>
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+boot.require('business.navbar', function(Frame, navbar){
+	navbar.init(navs);
+});
+///////标红////	
+boot.require('business.highlight', function (Frame, highlight) {
+            highlight.init($("#infolist a.t"), '');
+    });
+</script>
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+<div style="display:none">
+<script type="text/javascript">	
+							____json4fe.supplycount = {level1:'0', level2:'0', level3:'0', sortid:'452944095'};
+	
+	
+	
+var _gaq = _gaq || [],site_name = "58",post_count = "1984",shop_count = "0",page_type = "list"; 
+var _trackURL = "{'cate':'833,249','area':'1','pagetype':'list','page':'','pagesize':'35','pagenum':'1','level1':'0','level2':'0','level3':'0','level4':'0','level5':'0','level6':'0'}"; 
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']); 
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']); 
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']); 
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']); 
+_gaq.push(['pageTracker._trackPageview', "/bj/piaowu/youle/list/"]);
+_gaq.push(['pageTracker._trackPageLoadTime']); 
+$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'); 
+$.getScript('http://tracklog.58.com/referrer4.js'); 
+</script>
+</div>
+<script src="http://static.58.com/js/5_1/comm_js/hylist.js"></script>
+</body>
+</html>

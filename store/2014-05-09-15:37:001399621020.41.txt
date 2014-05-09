@@ -1,0 +1,802 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【北京洗浴卡|北京洗浴卡转让信息】- 北京58同城</title>
+<meta name="description" content="58同城北京洗浴卡频道,为您提供大量北京洗浴卡求购、北京洗浴卡转让信息,在这里您可以查看并免费发布北京洗浴卡求购、北京洗浴卡转让信息,洗浴卡信息查询就来58同城北京洗浴卡频道." />
+<meta name="keywords" content="北京洗浴卡,北京洗浴卡转让" />
+<meta http-equiv="mobile-agent" content="format=wml;url=http://wap.58.com/bj_xiyuka/" /><meta http-equiv="mobile-agent" content="format=xhtml;url=http://wap.58.com/bj_xiyuka/" />
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/bj/xiyuka" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/bj/xiyuka" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/bj/xiyuka" />
+<link href="http://static.58.com/ds/v1/base-v1.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/ds/v1/common-v1.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/ds/v1/list/default-list-v1.css" rel="stylesheet" type="text/css" />
+<script src="http://static.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://static.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<script type="text/javascript">
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".tblist tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+</script>
+<script type="text/javascript">try{var ____json4fe = {"catentry":[{"dispid":"833","name":"票务","listname":"piaowu"},{"dispid":"254","name":"消费卡/优惠券","listname":"kaquan"},{"dispid":"37372","name":"洗浴卡","listname":"xiyuka"}],"locallist":[{"dispid":"1","name":"北京","listname":"bj"}],"start":(new Date()).getTime(),"modules":"list"};____json4fe.version = 'A';____json4fe.modules = 'listpage';____json4fe.smsc = 'ce882233f1f0d86eeb06e5869de64e680b54f918801b9310a4a79f9d4d73f4e60639dceb36a734fa7b79e75ee21fe385ff3ab11c017ca2f36de8c0e2d3af4e0c390bd464da699d9cd03b8922b0efe83bea70686d13f31bc7'; }catch(e){};</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','1','');win1.setSearchButton('searchbtn1');boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'bj');});</script>
+</head>
+<body>
+<div id="topbar"></div>
+<!-- =S header -->
+<header id="header">
+<span class="logo"><a href="/" target="_blank">58同城</a></span>
+<div class="nav" id="crumbs" style="display: none;">
+<span><a href="/">北京58同城</a></span>
+<span class="crb_i"><a href="/piaowu.shtml">北京票务</a></span>
+<span class="crb_i">
+<a href="/kaquan/" itemprop="url">北京消费卡/优惠券</a>
+</span>
+<span class="crb_i">
+<a href="/xiyuka/" itemprop="url">北京洗浴卡</a>
+</span>
+</div> <div class="header-search">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();" />
+<span onmouseout="this.className='sbtn'" onmouseover="this.className='sbtn hover'" class="sbtn">
+<input type="submit" value="搜本类" class="but-bl" name="" id="searchbtn1" /></span>
+<span onmouseout="this.className='sbtn'" onmouseover="this.className='sbtn hover'" class="sbtn">
+<input type="button" onclick="b_query_all();" value="搜全站" class="but-qz" name="" />
+</span>
+<div class="clear"></div>
+</form>
+</div>
+<a href="http://post.58.com/1/254/s5" target="_blank" class="postbtn"><i></i>免费发布信息</a>
+</header>
+<!-- =E header -->
+<div id="ad_mdlbdb" class="tuibox_top_ad"> </div>
+<!-- =S allSiteSearch 全站搜索 -->
+<script type="text/javascript">    
+	$("#selectbar span[name=cateswitch]").each(function(){
+		$(this).toggle(function(){
+		$(this).removeClass('b1').addClass('b2').text('收起').prev('.s_ul').children().slice(5).show();
+		},function(){
+			$(this).removeClass('b2').addClass('b1').text('展开').prev('.s_ul').children().slice(5).hide();
+		});
+	});
+</script>
+<script type="text/javascript">
+$(".sousuo span[name=cateswitch]").each(function(){
+$(this).toggle(function(){
+$(this).removeClass('b1').addClass('b4').text('收起').prev('.s_ul').children().slice(5).show();
+},function(){
+$(this).removeClass('b4').addClass('b1').text('展开').prev('.s_ul').children().slice(5).hide();
+});
+});
+</script>
+<!-- =E allSiteSearch 全站搜索 -->
+<!-- =S SELECTION -->
+<section id="selection">
+<!-- =S CMCSPARAMETERS -->
+<dl class="secitem">
+<dt class="secitem_brand">类别：</dt>
+<dd>
+<a href="/kaquan/">全部</a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/gouwuka/">
+	              购物卡/超市卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/chongzhika/">
+	              手机充值卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/wanggouka/">
+	              网购卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/jianshenka/">
+	              健身卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/gongjiaoka/">
+	              公交卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/dangaoka/">
+	              蛋糕卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xicheka/">
+	              洗车卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/youyongka/">
+	              游泳卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/jiayouka/">
+	              加油卡
+	        </a>
+<a class="select" name="b_link" para="custom" cl="/kaquan/" href="http://bj.58.com/xiyuka/">
+	              洗浴卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/zhaojiaoka/">
+	              亲子早教卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/tushuka/">
+	              图书卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiaofeika/">
+	              优惠券/代金券
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/kqqita/">
+	              其他
+	        </a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>区域：</dt>
+<dd class="fanwei" id="selArea">
+<a href="/xiyuka/" class="select">全北京</a>
+<a href="/chaoyang/xiyuka/">朝阳</a>
+<a href="/haidian/xiyuka/">海淀</a>
+<a href="/dongcheng/xiyuka/">东城</a>
+<a href="/xicheng/xiyuka/">西城</a>
+<a href="/chongwen/xiyuka/">崇文</a>
+<a href="/xuanwu/xiyuka/">宣武</a>
+<a href="/fengtai/xiyuka/">丰台</a>
+<a href="/tongzhouqu/xiyuka/">通州</a>
+<a href="/shijingshan/xiyuka/">石景山</a>
+<a href="/fangshan/xiyuka/">房山</a>
+<a href="/changping/xiyuka/">昌平</a>
+<a href="/daxing/xiyuka/">大兴</a>
+<a href="/shunyi/xiyuka/">顺义</a>
+<a href="/miyun/xiyuka/">密云</a>
+<a href="/huairou/xiyuka/">怀柔</a>
+<a href="/yanqing/xiyuka/">延庆</a>
+<a href="/pinggu/xiyuka/">平谷</a>
+<a href="/mentougou/xiyuka/">门头沟</a>
+<a href="/bjyanjiao/xiyuka/">燕郊</a>
+<a href="/beijingzhoubian/xiyuka/">北京周边</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>价格：</dt>
+<dd>
+<a href="http://bj.58.com/xiyuka/pve_1485_0/" class="select">全部</a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiyuka/pve_1485_0_pve_5912_0_100/">
+              100元以下
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiyuka/pve_1485_0_pve_5912_101_150/">
+              100-150元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiyuka/pve_1485_0_pve_5912_151_300/">
+              150-300元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiyuka/pve_1485_0_pve_5912_301_500/">
+              300-500元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiyuka/pve_1485_0_pve_5912_501_1000/">
+              500-1000元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiyuka/pve_1485_0_pve_5912_1001_2000/">
+              1000-2000元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiyuka/pve_1485_0_pve_5912_2001_999999/">
+              2000元以上
+        </a>
+<span class="prifilter"><span class="text text2"><input type="text" para="minprice" muti="1" size="3" onkeyup="cknum(this)" min="0" name="b_q" /> -  <input type="text" muti="1" para="minprice" size="3" onkeyup="cknum(this)" min="0" name="b_q" />  元 </span><span class="btn btn2"><input type="button" value="价格筛选" onclick="b_query()" /></span></span>
+</dd>
+</dl>
+<dl class="secitem"><dt>供需：</dt>
+<dd class="fanwei">
+<a class="select" name="b_link" para="custom" cl="http://bj.58.com/xiyuka/" href="http://bj.58.com/xiyuka/pve_1485_0/">
+	              转让
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiyuka/pve_1485_1/">
+	              求购
+	        </a>
+</dd></dl>
+<!-- =E CMCSPARAMETERS -->
+<div id="selected" class="bar"></div>
+</section>
+<!-- =E SELECTION -->
+<!-- =S tabsbar -->
+<div class="tabsbar">
+<div class="list-tabs">
+<a class="sel" href="/xiyuka/"><h1>北京洗浴卡信息</h1></a>
+</div>
+</div> <!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix pr">
+<!-- =S filterbar -->
+<div class="filterbar h28">
+<div class="filterbar-l">
+<div class="filterup" id="filterup">
+<a class="m1 sel" rel="nofollow" href="javascript:void(0)" onclick="g2({sort:null,postdate:null,minprice:null});return false"><span>默认排序<em></em></span></a>
+<a class="m1" title="发布时间" href="javascript:void(0)" rel="nofollow" para="sort" cv="posttime" onclick="g2({sort:'posttime',postdate:null,minprice:null});return false">
+<span>发布时间<em class="ico-miarr-d"></em></span>
+</a>
+</div>
+<span class="checkbox-ico" id="isonline"><a href="javascript:void(0);">帮帮在线</a></span>
+<span class="checkbox-ico" id="indivOnly"><a href="javascript:void(0);">只看个人</a></span>
+</div>
+<div class="filterbar-md">
+<a class="mdtj" rel="nofollow" target="_blank" href="http://e.58.com/pas_zizhutuiguang">名店推荐隆重招商</a>
+</div>
+</div>
+<!-- =E filterbar -->
+<!-- =S infolist -->
+<div id="infolist" class="cleft">
+<table class="tblist" cellpadding="0" cellspacing="0">
+<col width="100" />
+<col width="840" />
+<col width="60" />
+<tr><td colspan="3" class="google"><div id="top_google_ad"></div></td></tr>
+<tr logr="p_0_4967560764422_17871057052297_0">
+<td class="tc">
+<b class="pri">7600</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17871057052297x.shtml" target="_blank" class="t">权金城洗浴卡(翡翠卡)</a><span class="ico area">
+<a href="/dongdaqiao/xiyuka/">东大桥</a>
+</span>
+<span name="zaixian_4967560764422"></span> </td>
+<td class="pd">56分钟</td>
+</tr>
+<tr logr="p_0_23066181321734_17862639616393_0">
+<td class="tc">
+<b class="pri">10000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17862639616393x.shtml" target="_blank" class="t">佰利城KTV消费卡8折转让</a><span class="ico area">
+<a href="/haidian/xiyuka/">海淀</a>
+</span>
+<span name="zaixian_23066181321734"></span> </td>
+<td class="pd">19小时</td>
+</tr>
+<tr logr="p_0_57146405_17139254952963_0">
+<td class="tc">
+<b class="pri">900</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17139254952963x.shtml" target="_blank" class="t">小汤山龙脉温泉卡</a><span class="ico area">
+<a href="/dongzhimen/xiyuka/">东直门</a>
+</span>
+<span name="zaixian_57146405"></span> </td>
+<td class="pd">05-08</td>
+</tr>
+<tr logr="p_0_8927537553671_17783924411786_0">
+<td class="tc">
+<b class="pri">900</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17783924411786x.shtml" target="_blank" class="t">转让九华山庄温泉卡</a><span class="ico area">
+<a href="/wangjing/xiyuka/">望京</a>
+</span>
+<span name="zaixian_8927537553671"></span> </td>
+<td class="pd">05-08</td>
+</tr>
+<tr logr="p_0_23036979280390_17848082358914_0">
+<td class="tc">
+<b class="pri">600</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17848082358914x.shtml" target="_blank" class="t">钰龙泉门票4张包括四餐</a><span class="ico area">
+<a href="/yaojiayuan/xiyuka/">姚家园</a>
+</span>
+<span name="zaixian_23036979280390"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_0_23016339881990_17837718844929_0">
+<td class="tc">
+<b class="pri">1200</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17837718844929x.shtml" target="_blank" class="t">布瑞琳洗衣会员卡余额1800元</a><span class="ico area">
+<a href="/maizidian/xiyuka/">麦子店</a>
+</span>
+<span name="zaixian_23016339881990"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_0_21905318_17837642384778_0">
+<td class="tc">
+<b class="pri">200</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17837642384778x.shtml" target="_blank" class="t">代办清华大学洗澡卡</a><span class="ico area">
+<a href="/qinghuadaxue/xiyuka/">清华大学</a>
+</span>
+<span name="zaixian_21905318"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_0_16136478134023_17690895600903_0">
+<td class="tc">
+<b class="pri">100</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17690895600903x.shtml" target="_blank" class="t">通州运河源温泉门票</a><span class="ico area">
+<a href="/qiaozhuang/xiyuka/">乔庄</a>
+</span><span class="ico tu"></span>
+<span name="zaixian_16136478134023"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_0_22862975865095_17817493015682_0">
+<td class="tc">
+<b class="pri">5800</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17817493015682x.shtml" target="_blank" class="t">权金城洗浴现金卡</a><span class="ico area">
+<a href="/dingfuzhuang/xiyuka/">定福庄</a>
+</span>
+<span name="zaixian_22862975865095"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr logr="p_0_22613615260679_17816294380929_0">
+<td class="tc">
+<b class="pri">8000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17816294380929x.shtml" target="_blank" class="t">八号温泉卡198享四餐+温泉</a><span class="ico area">
+<a href="/xiyuka/">北京</a>
+</span><span class="ico tu"></span>
+<span name="zaixian_22613615260679"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr logr="p_0_34384567_16888898348033_0">
+<td class="tc">
+<b class="pri">4500</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/16888898348033x.shtml" target="_blank" class="t">转让北京行宫温泉酒店储值卡</a><span class="ico area">
+<a href="/panjiayuan/xiyuka/">潘家园</a>
+</span>
+<span name="zaixian_34384567"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr logr="p_0_22613615260679_17636608865539_0">
+<td class="tc">
+<b class="pri">8000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17636608865539x.shtml" target="_blank" class="t">北京8号温泉会馆11500元储值卡8折出售</a><span class="ico area">
+<a href="/chaoyang/xiyuka/">朝阳</a>
+</span><span class="ico tu"></span>
+<span name="zaixian_22613615260679"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr logr="p_1_22968279843078_17814040368001_0">
+<td class="tc">
+<b class="pri">20</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17814040368001x.shtml" target="_blank" class="t">广渠门幸福家园游泳加健身瑜伽每次20元</a><span class="ico area">
+<a href="/guangqumennei/xiyuka/">广渠门</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_22968279843078"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr logr="p_1_21737640573447_17807131922181_0">
+<td class="tc">
+<b class="pri">190</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17807131922181x.shtml" target="_blank" class="t">温都水城 门票+餐券 每套398元</a><span class="ico area">
+<a href="/zhaogongkou/xiyuka/">赵公口</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_21737640573447"></span> </td>
+<td class="pd">05-03</td>
+</tr>
+<tr logr="p_0_22927290659078_17803901343235_0">
+<td class="tc">
+<b class="pri">30</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17803901343235x.shtml" target="_blank" class="t">英东游泳票卡</a><span class="ico area">
+<a href="/xiyuka/">北京</a>
+</span>
+<span name="zaixian_22927290659078"></span> </td>
+<td class="pd">05-03</td>
+</tr>
+<tr logr="p_0_19014045_17792004680201_0">
+<td class="tc">
+<b class="pri">70</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17792004680201x.shtml" target="_blank" class="t">九华山庄美人鱼温泉宫票超低价70元出售</a><span class="ico area">
+<a href="/xiyuka/">北京</a>
+</span><span class="ico tu"></span>
+<span name="zaixian_19014045"></span> </td>
+<td class="pd">05-02</td>
+</tr>
+<tr logr="p_0_22913430626310_17786264161544_0">
+<td class="tc">
+<b class="pri">2000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17786264161544x.shtml" target="_blank" class="t">北京印象游泳，健身卡</a><span class="ico area">
+<a href="/bjwuluju/xiyuka/">五路居</a>
+</span>
+<span name="zaixian_22913430626310"></span> </td>
+<td class="pd">05-01</td>
+</tr>
+<tr logr="p_0_38033443_17581340964489_0">
+<td class="tc">
+<b class="pri">6000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17581340964489x.shtml" target="_blank" class="t">东方夏威夷商务会馆VIP金卡转让</a><span class="ico area">
+<a href="/yuquanying/xiyuka/">玉泉营</a>
+</span><span class="ico tu"></span>
+<span name="zaixian_38033443"></span> </td>
+<td class="pd">04-30</td>
+</tr>
+<tr logr="p_1_22867427696647_17763463920393_0">
+<td class="tc">
+<b class="pri">4000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17763463920393x.shtml" target="_blank" class="t">朱国凡良子健身VIP卡一张,内有金额5055元</a><span class="ico area">
+<a href="/junbo/xiyuka/">军博</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_22867427696647"></span> </td>
+<td class="pd">04-29</td>
+</tr>
+<tr logr="p_0_209054291719_17762549439367_0">
+<td class="tc">
+<b class="pri">4000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17762549439367x.shtml" target="_blank" class="t">权金城贵宾卡</a><span class="ico area">
+<a href="/tongzhouqu/xiyuka/">通州</a>
+</span>
+<span name="zaixian_209054291719"></span> </td>
+<td class="pd">04-29</td>
+</tr>
+<tr logr="p_0_20302718785798_17751928530186_0">
+<td class="tc">
+<b class="pri">200</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17751928530186x.shtml" target="_blank" class="t">转让汗蒸卡一张</a><span class="ico area">
+<a href="/liyuan/xiyuka/">梨园</a>
+</span>
+<span name="zaixian_20302718785798"></span> </td>
+<td class="pd">04-28</td>
+</tr>
+<tr logr="p_0_10349421777415_17728718457603_0">
+<td class="tc">
+<b class="pri">720</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17728718457603x.shtml" target="_blank" class="t">木森一千元档会员卡8折甩,剪发打6折</a><span class="ico area">
+<a href="/liujiayao/xiyuka/">刘家窑</a>
+</span><span class="ico tu"></span>
+<span name="zaixian_10349421777415"></span> </td>
+<td class="pd">04-26</td>
+</tr>
+<tr logr="p_0_22797170210823_17728133970945_0">
+<td class="tc">
+<b class="pri">20</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17728133970945x.shtml" target="_blank" class="t">阳坊大都游泳票</a><span class="ico area">
+<a href="/yangfang/xiyuka/">阳坊</a>
+</span>
+<span name="zaixian_22797170210823"></span> </td>
+<td class="pd">04-26</td>
+</tr>
+<tr logr="p_1_21187101201671_17727486371336_0">
+<td class="tc">
+<b class="pri">1</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17727486371336x.shtml" target="_blank" class="t">商场卡制作,制作商场卡,北京商场卡制作</a><span class="ico area">
+<a href="/shijiegongyuan/xiyuka/">世界公园</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_21187101201671"></span> </td>
+<td class="pd">04-26</td>
+</tr>
+<tr logr="p_1_21187101201671_17727374812545_0">
+<td class="tc">
+<b class="pri">1</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17727374812545x.shtml" target="_blank" class="t">金卡制作,制作金卡,北京金卡制作</a><span class="ico area">
+<a href="/ximen/xiyuka/">西门</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_21187101201671"></span> </td>
+<td class="pd">04-26</td>
+</tr>
+<tr logr="p_1_21187101201671_17727307756038_0">
+<td class="tc">
+<b class="pri">1</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17727307756038x.shtml" target="_blank" class="t">抽奖卡制作,制作抽奖卡,北京抽奖卡制作</a><span class="ico area">
+<a href="/houshayu/xiyuka/">后沙峪</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_21187101201671"></span> </td>
+<td class="pd">04-26</td>
+</tr>
+<tr logr="p_0_35662901_17705011069570_0">
+<td class="tc">
+<b class="pri">1300</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17705011069570x.shtml" target="_blank" class="t">管庄杨闸环岛京通苑博康健身卡</a><span class="ico area">
+<a href="/guanzhuang/xiyuka/">管庄</a>
+</span>
+<span name="zaixian_35662901"></span> </td>
+<td class="pd">04-24</td>
+</tr>
+<tr logr="p_0_7335486041095_17687379662849_0">
+<td class="tc">
+<b class="pri">190</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17687379662849x.shtml" target="_blank" class="t">海德北京酒店温泉浴资卷</a><span class="ico area">
+<a href="/shilibao/xiyuka/">十里堡</a>
+</span>
+<span name="zaixian_7335486041095"></span> </td>
+<td class="pd">04-23</td>
+</tr>
+<tr logr="p_0_10011072727047_15745938666122_0">
+<td class="tc">
+<b class="pri">110</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/15745938666122x.shtml" target="_blank" class="t">汉拿山汤泉 温泉洗浴卡 门票</a><span class="ico area">
+<a href="/yayuncun/xiyuka/">亚运村</a>
+</span>
+<span name="zaixian_10011072727047"></span> </td>
+<td class="pd">04-22</td>
+</tr>
+<tr logr="p_0_11629222429447_16625191066888_0">
+<td class="tc">
+<b class="pri">700</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/16625191066888x.shtml" target="_blank" class="t">汉拿山汤泉洗浴卡1000面值小营四季青通用7折卖</a><span class="ico area">
+<a href="/wangjing/xiyuka/">望京</a>
+</span><span class="ico tu"></span>
+<span name="zaixian_11629222429447"></span> </td>
+<td class="pd">04-21</td>
+</tr>
+<tr logr="p_0_22686882716678_17672990279689_0">
+<td class="tc">
+<b class="pri">12000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17672990279689x.shtml" target="_blank" class="t">大东海洗浴卡,余额18000,12000转让</a><span class="ico area">
+<a href="/yayuncun/xiyuka/">亚运村</a>
+</span>
+<span name="zaixian_22686882716678"></span> </td>
+<td class="pd">04-21</td>
+</tr>
+<tr logr="p_0_19108099696134_17210177337610_0">
+<td class="tc">
+<b class="pri">18000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17210177337610x.shtml" target="_blank" class="t">工体附近洗浴会所(镜湖)会员卡低价转让</a><span class="ico area">
+<a href="/dongcheng/xiyuka/">东城</a>
+</span>
+<span name="zaixian_19108099696134"></span> </td>
+<td class="pd">04-19</td>
+</tr>
+<tr logr="p_0_8236822517767_17647849563911_0">
+<td class="tc">
+<b class="pri">1300</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17647849563911x.shtml" target="_blank" class="t">蔵汇足浴八折卡全国通用,原价1600,现价1300</a><span class="ico area">
+<a href="/guangqumen/xiyuka/">广渠门</a>
+</span>
+<span name="zaixian_8236822517767"></span> </td>
+<td class="pd">04-19</td>
+</tr>
+<tr logr="p_0_24593492_17641773389573_0">
+<td class="tc">
+<b class="pri">2300</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17641773389573x.shtml" target="_blank" class="t">个人转让足记养生足疗按摩卡</a><span class="ico area">
+<a href="/bjbeiyuan/xiyuka/">北苑</a>
+</span><span class="ico tu"></span>
+<span name="zaixian_24593492"></span> </td>
+<td class="pd">04-18</td>
+</tr>
+<tr logr="p_0_2337824401158_17638338328457_0">
+<td class="tc">
+<b class="pri">10000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17638338328457x.shtml" target="_blank" class="t">转让八号公馆会员卡一张</a><span class="ico area">
+<a href="/chaoyang/xiyuka/">朝阳</a>
+</span>
+<span name="zaixian_2337824401158"></span> </td>
+<td class="pd">04-18</td>
+</tr>
+<tr><td colspan="3" class="google"><div id="taobao"></div></td></tr>
+<tr><td colspan="3" class="google"><div id="bottom_google_ad"></div></td></tr>
+</table><div class="pager">
+<strong><span>1</span></strong><a href="/xiyuka/pn2/"><span>2</span></a><a href="/xiyuka/pn3/"><span>3</span></a><a href="/xiyuka/pn4/"><span>4</span></a><a href="/xiyuka/pn5/"><span>5</span></a><a class="next" href="/xiyuka/pn2/"><span>下一页</span></a>
+</div>
+<div id="infocont"><a target="_blank" rel="nofollow" href="http://post.58.com/1/254/s5">马上发布一条洗浴卡信息&raquo;</a></div>
+<div id="bottom_zhaoshangjiameng_ad"></div>
+<div id="direct_ad_bottom"></div>
+</div>
+<!-- =E infolist -->
+<!-- =S rightframe -->
+<div id="rightframe">
+<div style="margin-bottom:10px">
+<a href="http://static.58.com/ui7/help/pf_xx.html" target="_blank">
+<img src="http://pic2.58.com/ds/other/bannerz_03.png" />
+</a>
+</div>
+<div id="ad19"></div></div>
+<!-- =E rightframe -->
+</section>
+<!-- =E mainlist -->
+<!-- =S links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S friendtips -->
+<dl id="friendtips" class="linksItem friendtips">
+<dt class="b-left">北京洗浴卡介绍</dt>
+<dd class="b-right">北京洗浴卡频道为您提供北京洗浴卡查询,北京洗浴卡转让信息供您选择，您可以免费查看和发布北京洗浴卡求购信息,北京洗浴卡转让信息。感谢您选择北京洗浴卡信息平台。手机版请访问<a href="http://m.58.com/bj/xiyuka">北京洗浴卡</a></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S relate 相关信息 -->
+<!-- =E relate 相关信息 -->
+<!-- =S META A~Z -->
+<dl id="relatelink" class="linksItem relatelink">
+<dt class="b-left">热门洗浴卡：</dt>
+<dd class="b-right">
+<dl class="relateSelect" id="relateSelect">
+<dt><span>健身卡</span></dt>
+<dd>
+<a href="http://bj.58.com/jianshenka/" target="_blank">北京健身卡</a>
+<a href="http://sh.58.com/jianshenka/" target="_blank">上海健身卡</a>
+<a href="http://gz.58.com/jianshenka/" target="_blank">广州健身卡</a>
+<a href="http://sz.58.com/jianshenka/" target="_blank">深圳健身卡</a>
+<a href="http://tj.58.com/jianshenka/" target="_blank">天津健身卡</a>
+<a href="http://cq.58.com/jianshenka/" target="_blank">重庆健身卡</a>
+<a href="http://cd.58.com/jianshenka/" target="_blank">成都健身卡</a>
+<a href="http://jn.58.com/jianshenka/" target="_blank">济南健身卡</a>
+<a href="http://qd.58.com/jianshenka/" target="_blank">青岛健身卡</a>
+<a href="http://sjz.58.com/jianshenka/" target="_blank">石家庄健身卡</a>
+<a href="http://nj.58.com/jianshenka/" target="_blank">南京健身卡</a>
+<a href="http://cs.58.com/jianshenka/" target="_blank">长沙健身卡</a>
+<a href="http://sy.58.com/jianshenka/" target="_blank">沈阳健身卡</a>
+<a href="http://zz.58.com/jianshenka/" target="_blank">郑州健身卡</a>
+<a href="http://xa.58.com/jianshenka/" target="_blank">西安健身卡</a>
+<a href="http://wh.58.com/jianshenka/" target="_blank">武汉健身卡</a>
+<a href="http://dg.58.com/jianshenka/" target="_blank">东莞健身卡</a>
+<a href="http://hz.58.com/jianshenka/" target="_blank">杭州健身卡</a>
+<a href="http://hf.58.com/jianshenka/" target="_blank">合肥健身卡</a>
+<a href="http://su.58.com/jianshenka/" target="_blank">苏州健身卡</a>
+</dd>
+<dt><span>各地月饼券</span></dt>
+<dd>
+<a href="http://bj.58.com/kaquan/jh_北京月饼券 /" target="_blank">北京月饼券 </a>
+<a href="http://sh.58.com/kaquan/jh_上海月饼券 /" target="_blank">上海月饼券 </a>
+<a href="http://gz.58.com/kaquan/jh_广州月饼券 /" target="_blank">广州月饼券 </a>
+<a href="http://sz.58.com/kaquan/jh_深圳月饼券 /" target="_blank">深圳月饼券 </a>
+<a href="http://wh.58.com/kaquan/jh_武汉月饼券 /" target="_blank">武汉月饼券 </a>
+<a href="http://tj.58.com/kaquan/jh_天津月饼券 /" target="_blank">天津月饼券 </a>
+<a href="http://xa.58.com/kaquan/jh_西安月饼券 /" target="_blank">西安月饼券 </a>
+<a href="http://cd.58.com/kaquan/jh_成都月饼券 /" target="_blank">成都月饼券 </a>
+<a href="http://sy.58.com/kaquan/jh_沈阳月饼券 /" target="_blank">沈阳月饼券 </a>
+<a href="http://zz.58.com/kaquan/jh_郑州月饼券 /" target="_blank">郑州月饼券 </a>
+<a href="http://jn.58.com/kaquan/jh_济南月饼券 /" target="_blank">济南月饼券 </a>
+<a href="http://nj.58.com/kaquan/jh_南京月饼券 /" target="_blank">南京月饼券 </a>
+<a href="http://qd.58.com/kaquan/jh_青岛月饼券 /" target="_blank">青岛月饼券 </a>
+<a href="http://sjz.58.com/kaquan/jh_石家庄月饼券 /" target="_blank">石家庄月饼券 </a>
+<a href="http://cq.58.com/kaquan/jh_重庆月饼券 /" target="_blank">重庆月饼券 </a>
+<a href="http://cs.58.com/kaquan/jh_长沙月饼券 /" target="_blank">长沙月饼券 </a>
+</dd>
+<dt><span>游泳卡</span></dt>
+<dd>
+<a href="http://bj.58.com/youyongka/" target="_blank">北京游泳卡</a>
+<a href="http://sh.58.com/youyongka/" target="_blank">上海游泳卡</a>
+<a href="http://gz.58.com/youyongka/" target="_blank">广州游泳卡</a>
+<a href="http://sz.58.com/youyongka/" target="_blank">深圳游泳卡</a>
+<a href="http://tj.58.com/youyongka/" target="_blank">天津游泳卡</a>
+<a href="http://cq.58.com/youyongka/" target="_blank">重庆游泳卡</a>
+<a href="http://cd.58.com/youyongka/" target="_blank">成都游泳卡</a>
+<a href="http://jn.58.com/youyongka/" target="_blank">济南游泳卡</a>
+<a href="http://qd.58.com/youyongka/" target="_blank">青岛游泳卡</a>
+<a href="http://sjz.58.com/youyongka/" target="_blank">石家庄游泳卡</a>
+<a href="http://nj.58.com/youyongka/" target="_blank">南京游泳卡</a>
+<a href="http://cs.58.com/youyongka/" target="_blank">长沙游泳卡</a>
+<a href="http://sy.58.com/youyongka/" target="_blank">沈阳游泳卡</a>
+<a href="http://zz.58.com/youyongka/" target="_blank">郑州游泳卡</a>
+<a href="http://xa.58.com/youyongka/" target="_blank">西安游泳卡</a>
+<a href="http://wh.58.com/youyongka/" target="_blank">武汉游泳卡</a>
+<a href="http://dg.58.com/youyongka/" target="_blank">东莞游泳卡</a>
+<a href="http://hz.58.com/youyongka/" target="_blank">杭州游泳卡</a>
+<a href="http://hf.58.com/youyongka/" target="_blank">合肥游泳卡</a>
+<a href="http://su.58.com/youyongka/" target="_blank">苏州游泳卡</a>
+</dd>
+<dt><span>热门演出场馆</span></dt>
+<dd>
+<a href="http://bj.58.com/piao/c-guojiadajuyuan/" target="_blank">国家大剧院</a>
+<a href="http://bj.58.com/piao/c-meilanfangdajuyuan/" target="_blank">梅兰芳大剧院</a>
+<a href="http://bj.58.com/piao/c-wanshidazhongxinyuanwukesongtiyuguan/" target="_blank">五棵松体育馆</a>
+<a href="http://sh.58.com/piao/c-lanxindaxiyuan/" target="_blank">上海兰心大戏院</a>
+<a href="http://gz.58.com/piao/c-xinghaiyinleting/" target="_blank">广州星海音乐厅</a>
+<a href="http://gz.58.com/piao/c-guangzhoutianhetiyuchang/" target="_blank">广州天河体育场</a>
+<a href="http://sz.58.com/piao/c-shenzhenbaolijuyuan/" target="_blank">深圳保利剧院</a>
+<a href="http://tj.58.com/piao/c-aotizhongxintiyuchang/" target="_blank">天津奥体中心</a>
+<a href="http://bj.58.com/piao/c-zhongshanyinletang/" target="_blank">中山音乐堂</a>
+<a href="http://bj.58.com/piao/c-beijingyinleting/" target="_blank">北京音乐厅</a>
+<a href="http://cs.58.com/piao/c-hunandajuyuan/" target="_blank">湖南大剧院</a>
+<a href="http://sh.58.com/piao/c-shanghaichengshijuyuan/" target="_blank">上海城市剧院</a>
+</dd>
+<dt><span>购物卡</span></dt>
+<dd>
+<a href="http://bj.58.com/gouwuka/" target="_blank">北京购物卡</a>
+<a href="http://sh.58.com/gouwuka/" target="_blank">上海购物卡</a>
+<a href="http://gz.58.com/gouwuka/" target="_blank">广州购物卡</a>
+<a href="http://sz.58.com/gouwuka/" target="_blank">深圳购物卡</a>
+<a href="http://tj.58.com/gouwuka/" target="_blank">天津购物卡</a>
+<a href="http://cq.58.com/gouwuka/" target="_blank">重庆购物卡</a>
+<a href="http://cd.58.com/gouwuka/" target="_blank">成都购物卡</a>
+<a href="http://jn.58.com/gouwuka/" target="_blank">济南购物卡</a>
+<a href="http://qd.58.com/gouwuka/" target="_blank">青岛购物卡</a>
+<a href="http://sjz.58.com/gouwuka/" target="_blank">石家庄购物卡</a>
+<a href="http://nj.58.com/gouwuka/" target="_blank">南京购物卡</a>
+<a href="http://cs.58.com/gouwuka/" target="_blank">长沙购物卡</a>
+<a href="http://sy.58.com/gouwuka/" target="_blank">沈阳购物卡</a>
+<a href="http://zz.58.com/gouwuka/" target="_blank">郑州购物卡</a>
+<a href="http://xa.58.com/gouwuka/" target="_blank">西安购物卡</a>
+<a href="http://wh.58.com/gouwuka/" target="_blank">武汉购物卡</a>
+<a href="http://dg.58.com/gouwuka/" target="_blank">东莞购物卡</a>
+<a href="http://hz.58.com/gouwuka/" target="_blank">杭州购物卡</a>
+<a href="http://hf.58.com/gouwuka/" target="_blank">合肥购物卡</a>
+<a href="http://su.58.com/gouwuka/" target="_blank">苏州购物卡</a>
+</dd>
+</dl>
+</dd>
+</dl>
+<script>
+	////附近商圈
+	var alldt1 = $("#relateSelect&gt;dt");
+	function showNear1(dt){
+	    alldt1.each(function(){
+	        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+	        else {$(this).next("dd").hide();$(this).removeClass("select");}
+	    });
+	}
+	alldt1.each(function(){
+	    $(this).click(function(){showNear1(this);}).hover(function(){showNear1(this);});
+	});
+			showNear1(alldt[0]);
+		</script>
+<!-- =E META A~Z -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">北京洗浴卡周边城市：</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://tj.58.com/xiyuka">天津洗浴卡</a></li>
+<li><a href="http://sjz.58.com/xiyuka">石家庄洗浴卡</a></li>
+<li><a href="http://zjk.58.com/xiyuka">张家口洗浴卡</a></li>
+<li><a href="http://bd.58.com/xiyuka">保定洗浴卡</a></li>
+<li><a href="http://lf.58.com/xiyuka">廊坊洗浴卡</a></li>
+<li><a href="http://ts.58.com/xiyuka">唐山洗浴卡</a></li>
+<li><a href="http://chengde.58.com/xiyuka">承德洗浴卡</a></li>
+<li><a href="http://qhd.58.com/xiyuka">秦皇岛洗浴卡</a></li>
+<li><a href="http://cangzhou.58.com/xiyuka">沧州洗浴卡</a></li>
+<li><a href="http://hs.58.com/xiyuka">衡水洗浴卡</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S friendlink -->
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!--  
+&lt;script type="text/javascript"&gt;
+boot.require('util.uri', function(Frame, uri){
+	var mutexs_par = "c1c2c3c4c5c6c7".substring(0,1);
+	var re = new RegExp(mutexs_par + '\\d+', 'ig')
+	mutexs = [{searchitem:re, params:["minprice"], searthname:'价格'}];
+	for(var i = 0, leni = mutexs.length; i &lt; leni; i ++) {
+		var mutex = mutexs[i];
+		var pobj = {};
+		for(var j = 0, lenj = mutex.params.length; j &lt; lenj; j ++) {
+			pobj[mutex.params[j]] = null;
+		}
+		for(var l = 0, lenl = mutex.params.length; l &lt; lenl; l ++) {
+			var pitem = $("#selection&gt;.secitem dt:contains("+mutex.searthname+")").parent();
+			pitem.find("a").each(function(){
+				var o = {};
+				o[mutex.params] = null;
+				this.href = (new uri(this.href)).setQuery(o);
+			});
+		}
+	}
+});
+&lt;/script&gt;
+-->
+<script type="text/javascript">document.write("&lt;sc"+"ript src='http://track.58.com/adsys/ggafs?r="+Math.random()+"'&gt;&lt;/scri"+"pt&gt;");</script>
+<script>
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+
+///////标红////	
+boot.require('business.highlight', function (Frame, highlight) {
+            highlight.init($("#infolist a.t"), '');
+    });
+</script>
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+<div style="display:none">
+<!--基本统计代码begin(254,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'-1'};
+var _gaq = _gaq || [],site_name = "58",post_count = "170",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'833,254,37372','area':'1','pagetype':'list','pagesize':'35','pagenum':'1','level1':'0','level2':'0','level3':'0','level4':'0','level5':'0','level6':'0'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/bj/piaowu/kaquan/xiyuka/list/']);
+$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://static.58.com/js/5_1/comm_js/hylist.js"></script>
+</body>
+</html>

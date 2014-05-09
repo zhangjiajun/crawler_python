@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>2014租房研究报告</title>
+<meta name="description" content="58同城 给漂泊的心 一个温暖的家" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/fang/list/list-fang.css?v=120130910" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/fang/list/fang-ctt.css" media="all" />
+<script type="text/javascript" src="http://pic2.58.com/js/require_jquery_load.js"></script>
+<script type="text/javascript">
+	requirejs.config({
+	baseUrl : 'http://pic2.58.com/js/v8/modules/'
+	});
+	</script>
+<style type="text/css">
+		.topbar{height:38px;line-height:38px;width:960px;}
+        .topbar img{margin-top:6px;}
+        .topbar a:link,.topbar a:visited,.topbar a:hover,.topbar a:active{color:#666666;}
+		.wrap{width:1000px;margin:0 auto;}
+		.wrap div{margin-bottom:55px;}
+		.fang_yxdatapr{position:relative;}
+		.fang_yxdatapa{position:absolute;bottom:0;left:50%;display:block;background:url("http://pic2.58.com/beipiao/images/yx_button.png") no-repeat;}
+		.fang_yxdatabtn1{height:89px;width:248px;margin:-25px 0 0 -124px;top:50%;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='crop',src='http://pic2.58.com/beipiao/images/yx_button.png'); _ background-image: none;}
+		.fang_yxdatabtn2{height:80px;width:352px;margin-left:-174px;background-position:0 -108px;}
+        .fang_yxdatamb80{margin-bottom:80px;}
+		.fang_yxdatamb35{margin-bottom:35px;}
+		.fang_yxbtndiv{height:100px;}
+		.wrap div.fang_yxbannerh{height:331px;margin-bottom:0px;}
+		.bdsharebuttonbox{position:fixed;top:50%;width:400px;left:0;width:44px;_position:absolute;z-index:1000;margin-top:-94px;}
+		div.bdsharebuttonbox a{margin-right:20px;}
+    </style>
+</head>
+<body>
+<!-- =S topbar -->
+<div class="topbar bc">
+<img src="http://pic2.58.com/beipiao/images/logo.png" class="fl" />
+<span class="f12 fr"><a href="http://bj.58.com/chuzu/0" target="_blank">查看全部100%个人房源</a></span>
+</div>
+<!-- =E topbar -->
+<div class="wrap">
+<div class="fang_yxdatapr fang_yxbannerh">
+<img src="http://pic2.58.com/beipiao/images/yx_banner.png" />
+<a class="fang_yxdatapa fang_yxdatabtn1" href="http://pic2.58.com/beipiao/2013全国租房行业研究报告【58研究院】.pdf" target="_blank" onclick="clickLog('from=fc_state_reportdownload');"></a>
+</div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_01.png" /></div>
+<div class="fang_yxdatamb35"><img src="http://pic2.58.com/beipiao/images/yx_0101.png" /></div>
+<div class="fang_yxdatamb80"><img src="http://pic2.58.com/beipiao/images/yx_0102.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0103.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0104.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0105.png" /></div>
+<div class="fang_yxdatamb80"><img src="http://pic2.58.com/beipiao/images/yx_0106.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0107.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0108.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0109.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_02.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0201.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0202.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0203.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0204.png" /></div>
+<div class="fang_yxdatamb35"><img src="http://pic2.58.com/beipiao/images/yx_0205.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0206.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_03.png" /></div>
+<div class="fang_yxdatamb35"><img src="http://pic2.58.com/beipiao/images/yx_0301.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0302.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0303.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0304.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0305.png" /></div>
+<div><img src="http://pic2.58.com/beipiao/images/yx_0306.png" /></div>
+<div class="fang_yxdatamb80"><img src="http://pic2.58.com/beipiao/images/yx_0307.png" /></div>
+<div class="fang_yxbtndiv fang_yxdatapr fang_yxdatamb80"><a onclick="clickLog('from=fc_state_reportdownload');" class="fang_yxdatapa fang_yxdatabtn2" href="http://pic2.58.com/beipiao/2013全国租房行业研究报告【58研究院】.pdf" target="_blank"></a></div>
+</div>
+<!--统计代码-->
+<script type="text/javascript"> 
+		var _gaq = _gaq || [],site_name = "58",page_type = "special"; 
+		var _trackURL = "{'cate':'','area':'','pagetype':'special','page':'zufangbaogao'}"; 
+		_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+		_gaq.push(['pageTracker._setDomainName', '.58.com']); 
+		_gaq.push(['pageTracker._setAllowLinker', true]); 
+		_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']); 
+		_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']); 
+		_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+		_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']); 
+		_gaq.push(['pageTracker._trackPageview', "/fangchan/ershoufang/special/zufangbaogao/"]); 
+		_gaq.push(['pageTracker._trackPageLoadTime']); 
+		$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'); 
+		$.getScript('http://tracklog.58.com/referrer4.js'); 
+	</script>
+<div class="bdsharebuttonbox" id="bdsharebuttonbox" data-tag="share_1">
+<a class="bds_tsina" data-cmd="tsina"></a>
+<a class="bds_douban" data-cmd="douban"></a>
+<a class="bds_tqq" data-cmd="tqq"></a>
+<a class="bds_renren" data-cmd="renren"></a>
+<a class="bds_qzone" data-cmd="qzone"></a>
+</div>
+<script>
+        window._bd_share_config = {
+            common : {
+                bdText : '看了才知道租房一族的悲惨生活，58同城研究院《全国租房研究报告》新解出炉 http://static.58.com/beipiaodata/fang_yxdata.html?utm_source=fc-share-report',
+                bdDesc : '看了才知道租房一族的悲惨生活，58同城研究院《全国租房研究报告》新解出炉 http://static.58.com/beipiaodata/fang_yxdata.html?utm_source=fc-share-report',
+                bdUrl : 'http://static.58.com/beipiaodata/fang_yxdata.html?utm_source=fc-share-report'
+            },
+            share : [{
+                "bdSize" : 32
+            }],
+            image : [{
+                viewType : 'list',
+                viewPos : 'top',
+                viewColor : 'black',
+                viewSize : '32',
+                viewList : ['tsina','douban','tqq','renren','qzone']
+            }]
+        }
+        with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+    </script>
+<style>
+		.sr-bdimgshare-black .bdimgshare-bg{background:none !important;}
+		.sr-bdimgshare .bdimgshare-content{display:none !important;}
+	</style>
+<script>
+	require(['house/scrollele'],function(scroll){
+		scroll.init([{'obj':'#bdsharebuttonbox','top':'50%','left':0}]);
+	})
+	</script>
+</body>
+</html>

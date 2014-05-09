@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://pic2.58.com/images/favicon.ico" />
+<link rel="stylesheet" href="http://static.58.com/jiaoyou/css/reset.css?v=0307" type="text/css" media="all" />
+<link rel="stylesheet" href="http://static.58.com/jiaoyou/css/head_v2.css" type="text/css" media="all" />
+<title>同城交友 | 同城交友信息 - 58同城交友</title>
+<meta name="keywords" content="同城交友" />
+<style type="text/css">
+a { color:#4c4c4c; text-decoration:none }
+a:hover { color:#FF0508; text-decoration:underline }
+.c6 { color:#585858 }
+#postgg { background-position:0 -54px; width:443px; height:105px; position:absolute; right:-50px; bottom:0; line-height:26px; padding:105px 40px 0 60px; text-align:left; z-index:666 }
+#qianm { background-position:-474px 0; width:70px; height:50px; position:absolute; left:220px; bottom:10px; display:inline-block; z-index:999 }
+#flashimg { position:absolute; width:300px; height:240px; overflow:hidden; left:292px; bottom:0; z-index:662 }
+#flashimg img { position:absolute; left:0px; bottom:0; background:#fff }
+.gray { color:#999 }
+.lr { color: #f7439a; text-decoration: underline }
+.ml { margin-left:50px }
+.c { clear: both }
+.co16 { clear:#0000cc; font-size:16px }
+#wraper{background:#fff;border:#ddd 1px solid; border-bottom:none;line-height:200%;}
+#wraper a{ margin:0 3px;}
+.index_bo { text-align:left; overflow:hidden }
+.topcity .index_bo { border-bottom:1px solid #ccc; background-color:#fff; padding:18px 20px; padding-right:0 }
+.topcity a { margin-right:8px; text-decoration:underline }
+#citysear { height:22px; line-height:22px; font-size:12px; padding-top:10px; white-space:nowrap; }
+#clist { padding:10px 0px 10px 20px; clear:both; overflow:hidden; zoom:1 ; }
+#clist dt { float: left; width: 30px; font-family: Arial, Helvetica, sans-serif; font-size: 16px; clear: both; font-weight: bold; margin: 0px; padding: 0px }
+#clist dd { float: left; width: 900px; margin-left: 0px; padding: 0px; margin-bottom: 10px }
+#clist dd a { font-size: 13px; margin-right:14px; white-space:nowrap }
+.footer { width:990px; margin:0 auto; text-align: center; border-top: 1px solid #ccc; padding: 15px 0px; font-size: 12px; line-height: 180%; overflow:hidden }
+.footer a { font-size: 12px; color: #666; text-decoration: underline }
+#changcityForm { display:inline }
+.cityinput { width:167px; height:20px; border:1px solid #7F9DB9; }
+.tooltip { border:1px solid #ccc; background:#fff; margin:-2px 0 0 1px; margin:-2px 0 0 0\0; _margin:-1px 0 0 0px }
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.tooltip {margin:0}
+.tooltip li { padding:0 5px; overflow:hidden; zoom:1 }
+.tooltip li a { color:#666; text-decoration:none }
+.tooltip li a b { color:#002cad }
+.tooltip li .tool_r { float:right; color:#090; font-size:11px }
+.tooltip li.selected a b, .tooltip li.selected a, .tooltip li.selected .tool_r { color:#fff }
+.tooltip li.selected, .tag_options li.open_hover { background:#FD7A0E; color:#FFF }
+#tooltipdiv2 { width:170px; font-size:12px; text-align:left }
+</style>
+<script type="text/javascript" src="http://pic2.58.com/jiaoyou/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/www58.js"></script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/cookie.js?v=1205"></script>
+<script type="text/javascript">
+   
+ function co(value){
+	var home58 = "58home";
+	if(value){
+	  bzt_setCookie(home58,value,bzt_getExpDate(365,0,0),'/','.58.com');
+	}
+}
+
+   
+</script>
+</head>
+<body style="background-color:#fcfcfc;">
+<div id="header" class="nav">
+<div class="w-log-bar clearfix">
+<a id="logo" href="/">58同城交友</a>
+</div>
+</div>
+<div id="wraper">
+<div class="topcity">
+<div class="index_bo"><a href="/bj" class="co16"><b>进入北京站&raquo;</b></a><span class="gray ml">热门城市：</span><a href="/bj" onclick="co('bj')"><b>北京</b></a><a href="/sh" onclick="co('sh')"><b>上海</b></a><a href="/gz" onclick="co('gz')"><b>广州</b></a><a href="/sz" onclick="co('sz')"><b>深圳</b></a><a href="/hz" onclick="co('hz')"><b>杭州</b></a><a href="/nj" onclick="co('nj')"><b>南京</b></a><a href="/tj" onclick="co('tj')"><b>天津</b></a><a href="/wh" onclick="co('wh')"><b>武汉</b></a>
+<div class="c"></div>
+<div id="citysear">按省份选择城市：
+			<select id="province" name="province">
+</select>
+<select id="city" name="city">
+</select>
+<input type="button" value="确定" onclick="btnOk();" />
+</div>
+</div>
+</div>
+<script type="text/javascript">
+
+    setup();
+   
+</script>
+<div class="index_bo">
+<dl id="clist">
+<dt>A.</dt>
+<dd><a href="/as/" onclick="co('as')">鞍山</a><a href="/ay/" onclick="co('ay')">安阳</a><a href="/anqing/" onclick="co('anqing')">安庆</a><a href="/ankang/" onclick="co('ankang')">安康</a><a href="/am/" onclick="co('am')">澳门</a><a href="/aks/" onclick="co('aks')">阿克苏</a><a href="/ale/" onclick="co('ale')">阿拉尔</a><a href="/al/" onclick="co('al')">阿里</a><a href="/ab/" onclick="co('ab')">阿坝</a><a href="/alsm/" onclick="co('alsm')">阿拉善盟</a><a href="/anshun/" onclick="co('anshun')">安顺</a></dd>
+<dt>B.</dt>
+<dd><a href="/bj/" class="lr" onclick="co('bj')">北京</a><a href="/bd/" onclick="co('bd')">保定</a><a href="/bt/" onclick="co('bt')">包头</a><a href="/bz/" onclick="co('bz')">滨州</a><a href="/baoji/" onclick="co('baoji')">宝鸡</a><a href="/bengbu/" onclick="co('bengbu')">蚌埠</a><a href="/benxi/" onclick="co('benxi')">本溪</a><a href="/bc/" onclick="co('bc')">白城</a><a href="/bozhou/" onclick="co('bozhou')">亳州</a><a href="/bs/" onclick="co('bs')">保山</a><a href="/bygl/" onclick="co('bygl')">巴音郭楞</a><a href="/betl/" onclick="co('betl')">博尔塔拉</a><a href="/bazhong/" onclick="co('bazhong')">巴中</a><a href="/bycem/" onclick="co('bycem')">巴彦淖尔盟</a><a href="/baishan/" onclick="co('baishan')">白山</a><a href="/by/" onclick="co('by')">白银</a><a href="/baise/" onclick="co('baise')">百色</a><a href="/bh/" onclick="co('bh')">北海</a><a href="/bijie/" onclick="co('bijie')">毕节</a></dd>
+<dt>C.</dt>
+<dd><a href="/cd/" class="lr" onclick="co('cd')">成都</a><a href="/cs/" onclick="co('cs')" class="lr">长沙</a><a href="/cq/" onclick="co('cq')">重庆</a><a href="/cc/" onclick="co('cc')">长春</a><a href="/cz/" onclick="co('cz')">常州</a><a href="/cangzhou/" onclick="co('cangzhou')">沧州</a><a href="/changde/" onclick="co('changde')">常德</a><a href="/chenzhou/" onclick="co('chenzhou')">郴州</a><a href="/chifeng/" onclick="co('chifeng')">赤峰</a><a href="/chengde/" onclick="co('chengde')">承德</a><a href="/changzhi/" onclick="co('changzhi')">长治</a><a href="/cx/" onclick="co('cx')">楚雄</a><a href="/changji/" onclick="co('changji')">昌吉</a><a href="/changge/" onclick="co('changge')">长葛</a><a href="/changdu/" onclick="co('changdu')">昌都</a><a href="/cy/" onclick="co('cy')">朝阳</a><a href="/ch/" onclick="co('ch')">巢湖</a><a href="/chizhou/" onclick="co('chizhou')">池州</a><a href="/chuzhou/" onclick="co('chuzhou')">滁州</a><a href="/chaozhou/" onclick="co('chaozhou')">潮州</a><a href="/chongzuo/" onclick="co('chongzuo')">崇左</a></dd>
+<dt>D.</dt>
+<dd><a href="/dg/" onclick="co('dg')">东莞</a><a href="/dl/" onclick="co('dl')">大连</a><a href="/dz/" onclick="co('dz')">德州</a><a href="/dy/" onclick="co('dy')">东营</a><a href="/dq/" onclick="co('dq')">大庆</a><a href="/dandong/" onclick="co('dandong')">丹东</a><a href="/dt/" onclick="co('dt')">大同</a><a href="/dali/" onclick="co('dali')">大理</a><a href="/dingzhou/" onclick="co('dingzhou')">定州</a><a href="/deyang/" onclick="co('deyang')">德阳</a><a href="/diqing/" onclick="co('diqing')">迪庆</a><a href="/dh/" onclick="co('dh')">德宏</a><a href="/dazhou/" onclick="co('dazhou')">达州</a><a href="/dx/" onclick="co('dx')">定西</a><a href="/dxal/" onclick="co('dxal')">大兴安岭</a><a href="/dafeng/" onclick="co('dafeng')">大丰</a></dd>
+<dt>E.</dt>
+<dd><a href="/erds/" onclick="co('erds')">鄂尔多斯</a><a href="/es/" onclick="co('es')">恩施</a><a href="/ez/" onclick="co('ez')">鄂州</a></dd>
+<dt>F.</dt>
+<dd><a href="/fz/" onclick="co('fz')">福州</a><a href="/fs/" onclick="co('fs')">佛山</a><a href="/fushun/" onclick="co('fushun')">抚顺</a><a href="/fy/" onclick="co('fy')">阜阳</a><a href="/fx/" onclick="co('fx')">阜新</a><a href="/fuzhou/" onclick="co('fuzhou')">抚州</a><a href="/fcg/" onclick="co('fcg')">防城港</a></dd>
+<dt>G.</dt>
+<dd><a href="/gz/" class="lr" onclick="co('gz')">广州</a><a href="/gy/" onclick="co('gy')">贵阳</a><a href="/gl/" onclick="co('gl')">桂林</a><a href="/gg/" onclick="co('gg')">贵港</a><a href="/guyuan/" onclick="co('guyuan')">固原</a><a href="/ganzhou/" onclick="co('ganzhou')">赣州</a><a href="/gt/" onclick="co('gt')">馆陶</a><a href="/ga/" onclick="co('ga')">广安</a><a href="/guangyuan/" onclick="co('guangyuan')">广元</a><a href="/ganzi/" onclick="co('ganzi')">甘孜</a><a href="/guoluo/" onclick="co('guoluo')">果洛</a><a href="/gn/" onclick="co('gn')">甘南</a></dd>
+<dt>H.</dt>
+<dd><a href="/hz/" class="lr" onclick="co('hz')">杭州</a><a href="/hrb/" onclick="co('hrb')">哈尔滨</a><a href="/haikou/" onclick="co('haikou')">海口</a><a href="/hf/" onclick="co('hf')">合肥</a><a href="/hu/" onclick="co('hu')">呼和浩特</a><a href="/huizhou/" onclick="co('huizhou')">惠州</a><a href="/hy/" onclick="co('hy')">衡阳</a><a href="/hd/" onclick="co('hd')">邯郸</a><a href="/huzhou/" onclick="co('huzhou')">湖州</a><a href="/hs/" onclick="co('hs')">衡水</a><a href="/hanzhong" onclick="co('hanzhong')">汉中</a><a href="/ha" onclick="co('ha')">淮安</a><a href="/hshi" onclick="co('hshi')">黄石</a><a href="/hlr" onclick="co('hlr')">海拉尔</a><a href="/heze" onclick="co('heze')">菏泽</a><a href="/hh" onclick="co('hh')">怀化</a><a href="/hg" onclick="co('hg')">黄冈</a><a href="/hc" onclick="co('hc')">河池</a><a href="/hami" onclick="co('hami')">哈密</a><a href="/honghe" onclick="co('honghe')">红河</a><br />
+<a href="/hegang/" onclick="co('hegang')">鹤岗</a><a href="/hb/" onclick="co('hb')">鹤壁</a><a href="/hn/" onclick="co('hn')">淮南</a><a href="/huaibei/" onclick="co('huaibei')">淮北</a><a href="/huangshan/" onclick="co('huangshan')">黄山</a><a href="/ht/" onclick="co('ht')">和田</a><a href="/huangnan/" onclick="co('huangnan')">黄南</a><a href="/hx/" onclick="co('hx')">海西</a><a href="/hainan/" onclick="co('hainan')">海南</a><a href="/haidong/" onclick="co('haidong')">海东</a><a href="/haibei/" onclick="co('haibei')">海北</a><a href="/hlbe/" onclick="co('hlbe')">呼伦贝尔</a><a href="/hld/" onclick="co('hld')">葫芦岛</a><a href="/heyuan/" onclick="co('heyuan')">河源</a><a href="/hezhou/" onclick="co('hezhou')">贺州</a><a href="/heihe/" onclick="co('heihe')">黑河</a><a href="/hexian/" onclick="co('hexian')">和县</a><a href="/hq/" onclick="co('hq')">霍邱</a></dd>
+<dt>J.</dt>
+<dd><a href="/jn/" class="lr" onclick="co('jn')">济南</a><a href="/jining/" onclick="co('jining')">济宁</a><a href="/jx/" onclick="co('jx')">嘉兴</a><a href="/jm/" onclick="co('jm')">江门</a><a href="/jh/" onclick="co('jh')">金华</a><a href="/jl/" onclick="co('jl')">吉林</a><a href="/jy/" onclick="co('jy')">揭阳</a><a href="/jj/" onclick="co('jj')">九江</a><a href="/jiaozuo/" onclick="co('jiaozuo')">焦作</a><a href="/jincheng/" onclick="co('jincheng')">晋城</a><a href="/jingzhou/" onclick="co('jingzhou')">荆州</a><a href="/jms/" onclick="co('jms')">佳木斯</a><a href="/jixi/" onclick="co('jixi')">鸡西</a><a href="/ja/" onclick="co('ja')">吉安</a><a href="/jinchang/" onclick="co('jinchang')">金昌</a><a href="/jz/" onclick="co('jz')">晋中</a><a href="/jinzhou/" onclick="co('jinzhong')">锦州</a><a href="/jdz/" onclick="co('jdz')">景德镇</a><a href="/jingmen/" onclick="co('jingmen')">荆门</a><a href="/jyg/" onclick="co('jyg')">嘉峪关</a><br />
+<a href="/jq/" onclick="co('jq')">酒泉</a><a href="/jiyuan/" onclick="co('jiyuan')">济源</a></dd>
+<dt>K.</dt>
+<dd><a href="/km/" onclick="co('km')">昆明</a><a href="/klmy/" onclick="co('klmy')">克拉玛依</a><a href="/kel/" onclick="co('kel')">库尔勒</a><a href="/kaifeng/" onclick="co('kaifeng')">开封</a><a href="/ks/" onclick="co('ks')">喀什</a><a href="/kzls/" onclick="co('kzls')">克孜勒苏</a><a href="/kl/" onclick="co('kl')">垦利</a></dd>
+<dt>L.</dt>
+<dd><a href="/lz/" onclick="co('lz')">兰州</a><a href="/luoyang/" onclick="co('luoyang')">洛阳</a><a href="/lf/" onclick="co('lf')">廊坊</a><a href="/linyi/" onclick="co('linyi')">临沂</a><a href="/lc/" onclick="co('lc')">聊城</a><a href="/lyg/" onclick="co('lyg')">连云港</a><a href="/lvliang/" onclick="co('lvliang')">吕梁</a><a href="/ls/" onclick="co('ls')">乐山</a><a href="/liaoyang/" onclick="co('liaoyang')">辽阳</a><a href="/liaoyuan/" onclick="co('liaoyuan')">辽源</a><a href="/lasa/" onclick="co('lasa')">拉萨</a><a href="/linfen/" onclick="co('linfen')">临汾</a><a href="/ly/" onclick="co('ly')">龙岩</a><a href="/linxia/" onclick="co('linxia')">临夏</a><a href="/liuzhou/" onclick="co('liuzhou')">柳州</a><a href="/luohe/" onclick="co('luohe')">漯河</a><a href="/luzhou/" onclick="co('luzhou')">泸州</a><a href="/lishui/" onclick="co('lishui')">丽水</a><a href="/lj/" onclick="co('lj')">丽江</a><a href="/la/" onclick="co('la')">六安</a><a href="/lw/" onclick="co('lw')">莱芜</a><br />
+<a href="/linyixian/" onclick="co('linyixian')">临猗</a><a href="/lincang/" onclick="co('lincang')">临沧</a><a href="/linzhi/" onclick="co('linzhi')">林芝</a><a href="/liangshan/" onclick="co('liangshan')">凉山</a><a href="/ld/" onclick="co('ld')">娄底</a><a href="/ln/" onclick="co('ln')">陇南</a><a href="/lb/" onclick="co('lb')">来宾</a><a href="/lps/" onclick="co('lps')">六盘水</a></dd>
+<dt>M.</dt>
+<dd><a href="/mianyang/" onclick="co('mianyang')">绵阳</a><a href="/mm/" onclick="co('mm')">茂名</a><a href="/mas/" onclick="co('mas')">马鞍山</a><a href="/mdj/" onclick="co('mdj')">牡丹江</a><a href="/mg/" onclick="co('mg')">明港</a><a href="/mz/" onclick="co('mz')">梅州</a><a href="/ms/" onclick="co('ms')">眉山</a></dd>
+<dt>N.</dt>
+<dd><a href="/nj/" onclick="co('nj')">南京</a><a href="/nc/" onclick="co('nc')">南昌</a><a href="/nb/" onclick="co('nb')">宁波</a><a href="/nn/" onclick="co('nn')">南宁</a><a href="/ny/" onclick="co('ny')">南阳</a><a href="/nt/" onclick="co('nt')">南通</a><a href="/scnj/" onclick="co('scnj')">内江</a><a href="/nd/" onclick="co('nd')">宁德</a><a href="/nanchong/" onclick="co('nanchong')">南充</a><a href="/nujiang/" onclick="co('nujiang')">怒江</a><a href="/nq/" onclick="co('nq')">那曲</a><a href="/np/" onclick="co('np')">南平</a></dd>
+<dt>P.</dt>
+<dd><a href="/pds/" onclick="co('pds')">平顶山</a><a href="/pj/" onclick="co('pj')">盘锦</a><a href="/px/" onclick="co('px')">萍乡</a><a href="/pl/" onclick="co('pl')">平凉</a><a href="/puyang/" onclick="co('puyang')">濮阳</a><a href="/panzhihua/" onclick="co('panzhihua')">攀枝花</a><a href="/pt/" onclick="co('pt')">莆田</a><a href="/pe/" onclick="co('pe')">普洱</a></dd>
+<dt>Q.</dt>
+<dd><a href="/qd/" onclick="co('qd')">青岛</a><a href="/qz/" onclick="co('qz')">泉州</a><a href="/qhd/" onclick="co('qhd')">秦皇岛</a><a href="/qqhr/" onclick="co('qqhr')">齐齐哈尔</a><a href="/quzhou/" onclick="co('quzhou')">衢州</a><a href="/qingyuan/" onclick="co('qingyuan')">清远</a><a href="/qinzhou/" onclick="co('qinzhou')">钦州</a><a href="/qj/" onclick="co('qj')">曲靖</a><a href="/qdn/" onclick="co('qdn')">黔东南</a><a href="/qingyang/" onclick="co('qingyang')">庆阳</a><a href="/qn/" onclick="co('qn')">黔南</a><a href="/qxn/" onclick="co('qxn')">黔西南</a><a href="/qth/" onclick="co('qth')">七台河</a><a href="/qianjiang/" onclick="co('qianjiang')">潜江</a><a href="/qingxu/" onclick="co('qingxu')">清徐</a></dd>
+<dt>R.</dt>
+<dd><a href="/rizhao/" onclick="co('rizhao')">日照</a><a href="/rkz/" onclick="co('rkz')">日喀则</a></dd>
+<dt>S.</dt>
+<dd><a href="/sh/" class="lr" onclick="co('sh')">上海</a><a href="/sz/" class="lr" onclick="co('sz')">深圳</a><a href="/su/" onclick="co('su')" class="lr">苏州</a><a href="/sy/" onclick="co('sy')">沈阳</a><a href="/sjz/" onclick="co('sjz')">石家庄</a><a href="/st/" onclick="co('st')">汕头</a><a href="/suzhou/" onclick="co('suzhou')">宿州</a><a href="/sx/" onclick="co('sx')">绍兴</a><a href="/shiyan/" onclick="co('shiyan')">十堰</a><a href="/sm/" onclick="co('sm')">三明</a><a href="/sg/" onclick="co('sg')">韶关</a><a href="/sq/" onclick="co('sq')">商丘</a><a href="/shuyang/" onclick="co('shuyang')">沭阳</a><a href="/suqian/" onclick="co('suqian')">宿迁</a><a href="/suihua/" onclick="co('suihua')">绥化</a><a href="/shaoyang/" onclick="co('shaoyang')">邵阳</a><a href="/sanya/" onclick="co('sanya')">三亚</a><a href="/sd/" onclick="co('sd')">顺德</a><a href="/songyuan/" onclick="co('songyuan')">松原</a><a href="/smx/" onclick="co('smx')">三门峡</a><a href="/sw/" onclick="co('sw')">汕尾</a><br />
+<a href="/suizhou/" onclick="co('suizhou')">随州</a><a href="/shz/" onclick="co('shz')">石河子</a><a href="/sn/" onclick="co('sn')">山南</a><a href="/suining/" onclick="co('suining')">遂宁</a><a href="/sl/" onclick="co('sl')">商洛</a><a href="/shuozhou/" onclick="co('shuozhou')">朔州</a><a href="/szs/" onclick="co('szs')">石嘴山</a><a href="/sr/" onclick="co('sr')">上饶</a><a href="/sp/" onclick="co('sp')">四平</a><a href="/sys/" onclick="co('sys')">双鸭山</a><a href="/snj/" onclick="co('snj')">神农架</a></dd>
+<dt>T.</dt>
+<dd><a href="/tj/" class="lr" onclick="co('tj')">天津</a><a href="/ty/" onclick="co('ty')">太原</a><a href="/ts/" onclick="co('ts')">唐山</a><a href="/ta/" onclick="co('ta')">泰安</a><a href="/tz/" onclick="co('tz')">台州</a><a href="/taizhou/" onclick="co('taizhou')">泰州</a><a href="/tw/" onclick="co('tw')">台湾</a><a href="/tl/" onclick="co('tl')">铁岭</a><a href="/tianshui/" onclick="co('tianshui')">天水</a><a href="/tlf/" onclick="co('tlf')">吐鲁番</a><a href="/tmsk/" onclick="co('tmsk')">图木舒克</a><a href="/tc/" onclick="co('tc')">铜川</a><a href="/tongliao/" onclick="co('tongliao')">通辽</a><a href="/th/" onclick="co('th')">通化</a><a href="/tongling/" onclick="co('tongling')">铜陵</a><a href="/tr/" onclick="co('tr')">铜仁</a><a href="/tm/" onclick="co('tm')">天门</a><a href="/taishan/" onclick="co('taishan')">台山</a><a href="/tongcheng/" onclick="co('tongcheng')">桐城</a></dd>
+<dt>W.</dt>
+<dd><a href="/wh/" class="lr" onclick="co('wh')">武汉</a><a href="/wx/" onclick="co('wx')">无锡</a><a href="/wf/" onclick="co('wf')">潍坊</a><a href="/xj/" onclick="co('xj')">乌鲁木齐</a><a href="/wz/" onclick="co('wz')">温州</a><a href="/weihai/" onclick="co('weihai')">威海</a><a href="/wuhu/" onclick="co('wuhu')">芜湖</a><a href="/wuzhou/" onclick="co('wuzhou')">梧州</a><a href="/wfd/" onclick="co('wfd')">瓦房店</a><a href="/wn/" onclick="co('wn')">渭南</a><a href="/ws/" onclick="co('ws')">文山</a><a href="/wuhai/" onclick="co('wuhai')">乌海</a><a href="/wjq/" onclick="co('wjq')">五家渠</a><a href="/wuzhong/" onclick="co('wuzhong')">吴忠</a><a href="/wlcb/" onclick="co('wlcb')">乌兰察布</a><a href="/wuwei/" onclick="co('wuwei')">武威</a><a href="/wzs/" onclick="co('wzs')">五指山</a><a href="/wuyishan/" onclick="co('wuyishan')">武夷山</a></dd>
+<dt>X.</dt>
+<dd><a href="/xa/" onclick="co('xa')">西安</a><a href="/xm/" onclick="co('xm')">厦门</a><a href="/xz/" onclick="co('xz')">徐州</a><a href="/xiangtan/" onclick="co('xiangtan')">湘潭</a><a href="/xf/" onclick="co('xf')">襄阳</a><a href="/xx/" onclick="co('xx')">新乡</a><a href="/xt/" onclick="co('xt')">邢台</a><a href="/xiaogan/" onclick="co('xiaogan')">孝感</a><a href="/xn/" onclick="co('xn')">西宁</a><a href="/xc/" onclick="co('xc')">许昌</a><a href="/hk/" onclick="co('hk')">香港</a><a href="/xinzhou/" onclick="co('xinzhou')">忻州</a><a href="/xuancheng/" onclick="co('xuancheng')">宣城</a><a href="/bn/" onclick="co('bn')">西双版纳</a><a href="/xl/" onclick="co('xl')">锡林郭勒盟</a><a href="/xianyang/" onclick="co('xianyang')">咸阳</a><a href="/xy/" onclick="co('xy')">信阳</a><a href="/xam/" onclick="co('xam')">兴安盟</a><a href="/xinyu/" onclick="co('xinyu')">新余</a><br />
+<a href="/xiangxi/" onclick="co('xiangxi')">湘西</a><a href="/xiantao/" onclick="co('xiantao')">仙桃</a><a href="/xianning/" onclick="co('xianning')">咸宁</a></dd>
+<dt>Y.</dt>
+<dd><a href="/yt/" onclick="co('yt')">烟台</a><a href="/yanan/" onclick="co('yanan')">延安</a><a href="/yz/" onclick="co('yz')">扬州</a><a href="/yc/" onclick="co('yc')">宜昌</a><a href="/yancheng/" onclick="co('yancheng')">盐城</a><a href="/yy/" onclick="co('yy')">岳阳</a><a href="/yinchuan/" onclick="co('yinchuan')">银川</a><a href="/yanbian/" onclick="co('yanbian')">延边</a><a href="/yingtan/" onclick="co('yingtan')">鹰潭</a><a href="/yx/" onclick="co('yx')">玉溪</a><a href="/yuncheng/" onclick="co('yuncheng')">运城</a><a href="/yichun/" onclick="co('yichun')">宜春</a><a href="/yk/" onclick="co('yk')">营口</a><a href="/yl/" onclick="co('yl')">榆林</a><a href="/yb/" onclick="co('yb')">宜宾</a><a href="/yongzhou/" onclick="co('yongzhou')">永州</a><a href="/yj/" onclick="co('yj')">阳江</a><a href="/yangchun/" onclick="co('yangchun')">阳春</a><a href="/yq/" onclick="co('yq')">阳泉</a><a href="/yuzhou/" onclick="co('yuzhou')">禹州</a><a href="/yanling/" onclick="co('yanling')">鄢陵</a><br />
+<a href="/yulin/" onclick="co('yulin')">玉林</a><a href="/yili/" onclick="co('yili')">伊犁</a><a href="/ya/" onclick="co('ya')">雅安</a><a href="/ys/" onclick="co('ys')">玉树</a><a href="/yiyang/" onclick="co('yiyang')">益阳</a><a href="/yf/" onclick="co('yf')">云浮</a><a href="/yich/" onclick="co('yich')">伊春</a><a href="/yxx/" onclick="co('yxx')">永新</a><a href="/yiwu/" onclick="co('yiwu')">义乌</a></dd>
+<dt>Z.</dt>
+<dd><a href="/zz/" onclick="co('zz')">郑州</a><a href="/zh/" onclick="co('zh')">珠海</a><a href="/zjk/" onclick="co('zjk')">张家口</a><a href="/zs/" onclick="co('zs')">中山</a><a href="/zb/" onclick="co('zb')">淄博</a><a href="/zhuzhou/" onclick="co('zhuzhou')">株洲</a><a href="/zhangzhou/" onclick="co('zhangzhou')">漳州</a><a href="/zhanjiang/" onclick="co('zhanjiang')">湛江</a><a href="/zq/" onclick="co('zq')">肇庆</a><a href="/zaozhuang/" onclick="co('zaozhuang')">枣庄</a><a href="/zj/" onclick="co('zj')">镇江</a><a href="/zk/" onclick="co('zk')">周口</a><a href="/zd/" onclick="co('zd')">正定</a><a href="/zmd/" onclick="co('zmd')">驻马店</a><a href="/zg/" onclick="co('zg')">自贡</a><a href="/zjj/" onclick="co('zjj')">张家界</a><a href="/zy/" onclick="co('zy')">资阳</a><a href="/zunyi/" onclick="co('zunyi')">遵义</a><a href="/zhoushan/" onclick="co('zhoushan')">舟山</a><a href="/zhangqiu/" onclick="co('zhangqiu')">章丘</a><br />
+<a href="/zx/" onclick="co('zx')">赵县</a><a href="/zc/" onclick="co('zc')">诸城</a><a href="/zt/" onclick="co('zt')">昭通</a><a href="/zw/" onclick="co('zw')">中卫</a><a href="/zhangye/" onclick="co('zhangye')">张掖</a><a href="/zhangbei/" onclick="co('zhangbei')">张北</a><a href="/pld/" onclick="co('pld')">庄河</a></dd>
+</dl>
+</div>
+</div>
+<div class="jy_bottom">
+<div class="bottom_mian">
+<p>香港同城交友网为您提供真实的香港征婚，同城交友、找女朋友、找男朋友、同城邂逅等香港交友信息，欢迎您使用58同城香港交友网。</p>
+<p class="jy_link">
+<a href="http://jiaoyou.58.com/bj/">北京交友网</a>
+<a href="http://jiaoyou.58.com/sh/">上海交友网</a>
+<a href="http://jiaoyou.58.com/tj/">天津交友网</a>
+<a href="http://jiaoyou.58.com/gz/">广州交友网</a>
+<a href="http://jiaoyou.58.com/zz/">郑州交友网</a>
+<a href="http://jiaoyou.58.com/xa/">西安交友网</a>
+<a href="http://jiaoyou.58.com/sz/">深圳交友网</a>
+<a href="http://jiaoyou.58.com/su/">苏州交友网</a>
+<a href="http://jiaoyou.58.com/cq/">重庆交友网</a>
+<a href="http://jiaoyou.58.com/wh/">武汉交友网</a>
+<a href="http://jiaoyou.58.com/nj/">南京交友网</a>
+<a href="http://jiaoyou.58.com/hz/">杭州交友网</a>
+<a href="http://jiaoyou.58.com/cd/">成都交友网</a>
+<a href="http://jiaoyou.58.com/hrb/">哈尔滨交友网</a>
+<a href="http://jiaoyou.58.com/cc/">长春交友网</a>
+<a href="http://jiaoyou.58.com/sjz/">石家庄交友网</a>
+<a href="http://jiaoyou.58.com/jn/">济南交友网</a>
+<a href="http://jiaoyou.58.com/ty/">太原交友网</a>
+<a href="http://jiaoyou.58.com/fz/">福州交友网</a>
+<a href="http://jiaoyou.58.com/nc/">南昌交友网</a>
+<a href="http://jiaoyou.58.com/city/">更多交友网</a>
+</p>
+<p>
+<br />
+<a target="_blank" href="http://about.58.com/home/" rel="nofollow">关于我们</a><i>|</i>
+<a target="_blank" href="/jieri/" rel="nofollow">节日交友</a><i>|</i>
+<a target="_blank" href="/about/jiaoyoufangpian.html" rel="nofollow">安全交友</a><i>|</i>
+<a target="_blank" href="/link/" rel="nofollow">友情链接</a><i>|</i>
+<a target="_blank" href="/about/shiyongtiaokuan.html" rel="nofollow">使用条款</a><i>|</i>
+<a target="_blank" href="/about/yinsishuoming.html" rel="nofollow">隐私声明</a><i>|</i>
+<a target="_blank" href="/about/manual.html" rel="nofollow">帮助中心</a><i>|</i>
+<a target="_blank" href="http://about.58.com/home/contact.html" rel="nofollow">联系我们</a><br />
+    		京公网安备110105000809号 京ICP证060405 津网文[2013]0121-02
+    	</p>
+</div>
+</div><!--jy_bottom_end-->
+<div class="box_gd" id="back-to-top" style="display:none;">
+<a class="g_top" href="javascript:void(0);"></a>
+<a class="g_wxsys" href="javascript:void(0);">微信扫一扫 </a>
+<div class="g_wxsys_hover" style="display: none;">
+</div>
+<a class="g_tsjy" href="javascript:void(0);">投诉建议</a>
+</div>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/win_div.js"></script>
+<script type="text/javascript" src="http://static.58.com/bangbang/webim2/interface.js"></script>
+<script type="text/javascript"> 
+var cookieID = '';
+$(document).ready(function(){
+	$("#back-to-top").hide();
+	
+	$(".g_wxsys").hover(
+	        function(){
+	            
+	            $('#back-to-top&gt;.g_wxsys_hover').show();
+	        },
+	        function(){
+	            $('#back-to-top&gt;.g_wxsys_hover').hide();
+	            
+	 });
+
+
+	
+	$(function () {
+        $(window).scroll(function(){
+            if ($(window).scrollTop()&gt;100){
+            	$("#back-to-top").fadeIn(1500);
+            }else{
+            	$("#back-to-top").fadeOut(1500);
+            }
+        });
+        if('' != 'true'){
+            var bb='';
+      		var cc='';
+      		var www58com=bzt_getCookie("www58com");
+      		var aa=www58com.split('&amp;');
+      		for(var i=0;i&lt;aa.length;i++){
+      			if(aa[i].indexOf('SiteKey')!=-1){
+      				bb=aa[i].split('=');
+      			}
+      			
+      			if(aa[i].indexOf('UserID')!=-1){
+      				cc=aa[i].split('=');
+      				cookieID = cc[1];
+      			}
+      		}
+		
+            if(''!=''){
+        		var bb_content = bb != '' ? bb[1] : "";
+        			IM_Init('' + ";" + bb_content, "jiaoyou,hk");
+        	}else if(cookieID != ''){
+        		var bb_content = bb != '' ? bb[1] : "";
+        		IM_Init(cookieID + ";" + bb_content, "jiaoyou,hk");
+        	}
+			
+			if('' != ''){
+        	  	IM_QueryUserState([],function (json){
+        			if(json[0].status==0){
+        				if($(".otherinfo_rconbox .online").size()==0){
+        					$(".c_090").html("当前在线  ");
+        					$(".c_090").before("&lt;span class='online'&gt;&nbsp;&lt;/span&gt;");
+        				}
+        				$('#bangbangchat').addClass("online_im");
+        			}
+        		});
+        	}
+		}
+	});
+	
+	
+});
+	$(".g_top").click(function(){
+		$('html,body').animate({ scrollTop:0},0);
+	})
+	$(".g_tsjy").click(function(){
+		dialog("lei03","投诉建议","iframe:/about/feedback.html","400","340","iframe","","true")
+	})
+
+	var _gaq = _gaq || []; var site_name = "58";
+	
+	//if defined _channel
+	if(typeof(_channel) != "undefined"){
+		var _trackURL = "{'channel':'" + _channel + "'}";
+	}
+	
+	_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+	_gaq.push(['pageTracker._setDomainName', '.58.com']);
+	_gaq.push(['pageTracker._setAllowLinker', true]); 
+	_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+	_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+	_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+	_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+	var googleana= googleana || "";
+	if(googleana != ""){
+		_gaq.push(['pageTracker._trackPageview',googleana]); 
+	}else
+		_gaq.push(['pageTracker._trackPageview']);
+	(function() {  
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+	  var s = document.getElementsByTagName('script')[0]; 
+	  s.parentNode.insertBefore(ga, s);
+	 document.write("&lt;script type=""&gt;&lt;\/script&gt;"); 
+	 })(); 
+</script>
+<script type="text/javascript">BAIDU_CLB_fillSlot("859953");</script>
+<div class="baidu_icon">
+<script>
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8ab01ecc799088a215d40f579da8fc64' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div></body>
+</html>

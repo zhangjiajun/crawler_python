@@ -1,0 +1,416 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>新浪通行证登录</title>
+<link href="/css/signup/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/signup/common.js"></script>
+<script type="text/javascript" src="/js/signup/vconf.js"></script>
+<script type="text/javascript" src="/js/signup/validator_login.js"></script>
+<link href="/css/cardtips.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" defer="defer">
+	//避免ie中后退时沿用前页的utf8编码，如果是则刷新，刷新后就是gb2312了,为了兼容某些浏览器，如ie6，这段话放在第一个script标签里
+	try{
+		if(document.charset == 'utf-8'){
+				window.location.href = window.location.href; //only for refreshing when charset is utf-8
+		}
+	}catch(e){}
+</script>
+<script language="javascript" type="text/javascript" src="/js/cardtips.js"></script>
+<script language="javascript" type="text/javascript" defer="defer">
+	//只要复制过去改下下面参数就可以了 :)
+	passcardOBJ.overfcolor = '#999999';//鼠标经过字体颜色
+	passcardOBJ.overbgcolor = '#E8F4FC';//鼠标经过背景颜色
+	passcardOBJ.outfcolor = '#000000';//鼠标离开字体颜色
+	passcardOBJ.outbgcolor = '';//鼠标离开背景颜色
+</script>
+<style type="text/css">
+#newDiv {filter:alpha(opacity=100); /* IE */-moz-opacity:100; /* Moz + FF */opacity:100; /* 支持CSS3的浏览器（FF 1.5也支持）*/}
+.popdiv {position:absolute;zindex:9999;height:70px;background:#fff;border:1px solid #ccc;color:#999;padding:5px;}
+.popdiv input {vertical-align:middle;height:20px;}
+label {cursor: pointer !important;vertical-align: middle;}
+</style>
+</head>
+<body>
+<div id="wrap">
+<div class="head">
+<div class="logo"></div>
+<div class="logotxt">- 登录</div>
+<div class="headlink"><a href="http://www.sina.com.cn">新浪首页</a> | <a href="/help.html">帮助</a></div>
+<div class="clearit"></div>
+</div>
+<div class="main">
+<form method="post" id="vForm" name="vForm">
+<input type="hidden" id="r" name="reference" value="http://travel.sina.com.cn/dianping-i/?retcode=1920726705" />
+<input type="hidden" id="e" name="entry" value="supports_auto" />
+<input type="hidden" name="reg_entry" value="supports_auto" />
+<div class="logoicon"></div>
+<div class="main_top">
+<div class="title_note1 red link" id="login_err"></div>
+</div>
+<div class="main_cen">
+<br /><br />
+<p class="title1"></p>
+<ul class="mainlogin">
+<li>
+<div class="ml_l f14">登录名：</div>
+<div class="ml_r">
+<div class="inputbox"><span class="input"><cite>
+<input type="hidden" id="ag" name="ag" value="" />
+<input autocomplete="off" id="username" name="username" tabindex="0" type="text" value="" maxlength="64" alt="登录名:无内容/长度{1-64}/errArea{usernameErr}" placeholder="微博帐号/邮箱/博客" />
+</cite></span></div>
+<span class="inputacc link inputacc_signin"><a href="http://login.sina.com.cn/signup/signupmail.php?entry=supports_auto">注册新浪通行证</a></span>
+<span class="red_ero link inputacc_signin" id="usernameErr"></span>
+</div>
+</li>
+<script language="javascript" type="text/javascript">
+	&lt;!--//
+	//检查是否记住登录名
+	function GetCookie(_Name)
+	{
+		var Res = eval('/'+_Name+'=([^;]+)/').exec(document.cookie);
+		return Res == null ? false : Res[1];
+	}
+	
+	//设置占位文案
+	function setPlaceHolder(node){
+		var that = {};
+	
+		that.init = function(){
+			var prop = 'placeholder';
+			that.content = node.getAttribute(prop);
+			var enable = "placeholder" in document.createElement('input');
+			if(!enable){
+				that.build();
+				setTimeout(that.show);
+				$addEvent2(node, that.hide, 'focus');
+				$addEvent2(node, that.hide, 'propertychange');
+				$addEvent2(node, that.show, 'blur');
+				$addEvent2(that.label, function(){
+					that.hide();
+					setTimeout(function(){
+						node.focus();
+					});
+				}, 'mousedown');
+			}
+		};
+		
+		that.build = function(){
+			if(that.label){return;}
+			var label = that.label = $C('div');
+			label.innerHTML = that.content;
+			
+			label.style.color = '#999';
+			label.style.fontSize = node.style.fontSize;
+			label.style.lineHeight = node.style.lineHeight;
+			label.style.position = 'absolute';
+			
+			node.parentNode.insertBefore(label, node);
+		};
+		
+		that.setPos = function(x, y){
+			x = x || 0;
+			y = y || 0;
+			label.style.marginLeft = x + 'px';
+			label.style.marginTop = y + 'px';
+		};
+		
+		that.show = function(){
+			if(node.value == ''){
+				that.label.style.display  = 'block';
+			}
+		};
+		
+		that.hide = function(){
+			if(that.label.style.display != 'none'){
+				that.label.style.display  = 'none';
+			}
+		};
+		
+		that.init();
+		return that;
+	}
+	
+	function initUserName(){
+		var loginname = GetCookie('cREMloginname');
+		if(loginname != false){
+			if ($('username').value == '') {
+				$('username').value = decodeURIComponent(loginname);
+			}
+			try {  // 该元素可能没有
+				$('username2').innerHTML = decodeURIComponent(loginname);
+			} catch (e) {}
+			$('remLoginName').checked = "checked";
+		}
+		setPlaceHolder($('username'));
+		passcardOBJ.init(
+			// FlashSoft 注意,最好这个input的autocomplete设定为off
+			// 需要有下拉框的input对象
+			document.getElementById("username"),
+			{
+			// 鼠标经过字体颜色
+			overfcolor: "#999",
+			// 鼠标经过背景颜色
+			overbgcolor: "#e8f4fc",
+			// 鼠标离开字体颜色
+			outfcolor: "#000000",
+			// 鼠标离开背景颜色
+			outbgcolor: ""
+			},
+			// 输入完成后,自动需要跳到的input对象[备选]
+			document.getElementById("password")
+		);
+	}
+	window.onload = initUserName;
+	//--&gt;
+</script>
+<li>
+<div class="ml_l f14">密码：</div>
+<div class="ml_r">
+<div class="inputbox"><span class="input"><cite>
+<input id="password" name="password" type="password" tabindex="1" maxlength="32" alt="密码:无内容/errArea{passwordErr}" value="" />
+</cite></span></div>
+<span class="inputacc link inputacc_signin"><a href="https://login.sina.com.cn/getpass.html">找回密码</a></span>
+<span class="red_ero link inputacc_signin" id="passwordErr"></span>
+</div>
+</li>
+<!-- 动态码 -->
+<li style="display:none" id="vsn_content">
+<div class="ml_l f14">微盾动态码：</div>
+<div class="ml_r">
+<div class="inputbox"><span class="input "><cite>
+<input type="text" value="" alt="微盾动态码:无内容/errArea{vsncodeErr}" autocomplete="off" disabled="disabled" maxlength="6" tabindex="1" name="vsncode" id="vsncode" />
+</cite></span></div>
+<span class="inputacc link inputacc_signin"><a href="http://account.weibo.com/forgot/vdun" target="_blank">挂失微盾</a></span>
+<span id="vsncodeErr" class="red_ero link inputacc_signin"></span>
+</div>
+</li>
+<!-- /动态码 -->
+<!-- 验证码 -->
+<li id="door_content" style="display:none">
+<div class="ml_l f14"><span class="red">*</span>验证码：</div>
+<div class="ml_r">
+<div class="inputbox"><span class="input"><cite>
+<input autocomplete="off" id="door" disabled="disabled" name="door" type="text" autocomplete="off" maxlength="10" alt="验证码:无内容/有空格/errArea{doortip}" value="" />
+</cite></span></div>
+<span id="doortip" class="red_ero link inputacc_signin"></span>
+<div class="ml_r">
+<span id="door_img" style="float:left">
+<span><img id="check_img" src="" /></span>
+<span class="link"><a href="javascript:con_code();">看不清</a>？</span>
+</span>
+</div>
+</div>
+</li>
+<!-- /验证码 -->
+<li>
+<div class="ml_l"></div>
+<div class="ml_r">
+<div class="inputacc"><input id="remLoginName" checked="checked" tabindex="3" name="remLoginName" type="checkbox" /><label for="remLoginName">下次自动登录</label><input id="safe_login" tabindex="4" name="safe_login" value="1" type="checkbox" checked="checked" style="margin-left:12px;" /><label for="safe_login">安全登录</label></div>
+</div>
+</li>
+<li>
+<div class="ml_l"></div>
+<div class="ml_r">
+<input type="submit" tabindex="5" class="btn_submit_m" value="登 录" />
+</div>
+<div class="clearit"></div>
+</li>
+</ul>
+</div>
+<div class="main_bottom"></div>
+</form>
+</div>
+<div class="Footer">
+<p>客户服务电话 <a target="_blank" href="http://help.sina.com.cn/contact/contact.html">400-690-0000</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎批评指正</p>
+<p><a target="_blank" href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a target="_blank" href="http://corp.sina.com.cn/eng/">About Sina</a> | <a target="_blank" href="http://ads.sina.com.cn/">广告服务</a> | <a target="_blank" href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a target="_blank" href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a target="_blank" href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a target="_blank" href="http://english.sina.com/">SINA English</a> | <a target="_blank" href="http://members.sina.com.cn/apply/">通行证注册</a> | <a target="_blank" href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a></p>
+<p>Copyright &copy; 1996 - 2014 SINA Corporation, All Rights Reserved 新浪公司 <a target="_blank" href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a></p>
+<!-- SUDA_CODE_START -->
+<script src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+	_S_PID_="179";
+	_S_pSt(_S_PID_); 
+</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden">
+<img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" />
+</div>
+</noscript>
+<!-- SUDA_CODE_END -->
+</div>
+</div>
+<script src="/js/signup/signinconfig.js"></script>
+<script charset="utf-8" type="text/javascript" src="/js/sso/ssologin.js"></script>
+<script type="text/javascript">
+
+function login() {
+var f = $('vForm'),
+door_content = $('door_content'),
+door = $('door');
+var vsncode = document.getElementById('vsncode'); 
+if( door_content.style.display === 'none' ) {
+door.value = '1234';
+}
+if (location.protocol == "https:") { 
+sinaSSOController.crossDomain = false; 
+}
+if( !!door &amp;&amp; !!door.value &amp;&amp; door.value != '1234' ) {
+sinaSSOController.loginExtraQuery.door = door.value;
+} 
+sinaSSOController.loginExtraQuery.vsnf = 1;
+if( !!vsncode &amp;&amp; !!vsncode.value  ) {                                                                                     
+sinaSSOController.loginExtraQuery.vsnval = vsncode.value;                                                                                       
+}  
+var queryString = function(val){
+	var uri = window.location.search;
+	var re = new RegExp("" +val+ "=([^&amp;?]*)", "ig");
+	return ((uri.match(re))?(uri.match(re)[0].substr(val.length+1)):null);
+};
+
+var username = document.getElementById('username').value; 
+var password = document.getElementById('password').value;
+if( document.getElementById("remLoginName").checked ){
+	sinaSSOController.login(username, password, 30 );
+}else{
+	sinaSSOController.login(username, password );
+}
+$('usernameErr').className = 'red_ero'; 
+return false; 
+}
+
+
+//add for check mail user
+(function(){
+	var submitFlag = false;
+	function bind(node,type,handler){
+		if(node.attachEvent){
+			node.attachEvent("on"+type,handler);
+		} else {
+			node.addEventListener(type,handler,false);
+		};
+	}
+ 
+	 function ajaxCheck(url,data, callBack) {
+		var XHR;
+		var date = new Date();
+		try {
+			try{
+				XHR=new ActiveXObject("Microsoft.XMLHTTP");
+			}catch(e){
+				try{
+					XHR=new XMLHttpRequest();
+				} catch (e){ }
+			}
+			XHR.open("POST",url+"?_r="+date.getTime());
+			XHR.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+			XHR.onreadystatechange = function(){
+				if(XHR.readyState==4) {
+					if(XHR.status==200) {
+						if(callBack) callBack(XHR.responseText);
+					}
+				}
+			}
+			XHR.send(data);
+		}catch (e) {
+			alert(e.message);
+		}
+	 }
+ 
+	var nameInput = document.getElementById("username");
+	var nameTip = document.getElementById("usernameErr");
+	bind(nameInput,"blur",function(){
+		nameTip.className = 'red_ero';
+		if(/^\s*$/.test(nameInput.value)) {
+			return;
+		}
+		if(/^\s*\d{1,9}\s*$/.test(nameInput.value)) {
+			return
+		} else {
+			request();
+		}
+	});
+	
+	function request(){
+		var	ag = $('ag').value;
+		var url = "http://login.sina.com.cn/bindmail/checkmailuser.php";
+		ajaxCheck(location.protocol == "https:" ? url.replace(/^http:/, "https:") : url,"name="+encodeURIComponent(nameInput.value)+"&amp;type=json&amp;ag="+ag,function(res){
+			var data = eval('('+res+')');
+			if(data.ret == "y") {
+				nameTip.className = 'red_ero red_ero_fix';
+				nameTip.innerHTML = '&lt;span class="yes"&gt;&lt;/span&gt;为了您的帐号安全，请&lt;a href="/bindmail/signin.php?username=' +nameInput.value+ '"&gt;绑定邮箱&lt;/a&gt;';
+			} else if(data.ret == "n" &amp;&amp; data.mail) {
+				nameTip.className = 'red_ero red_ero_fix';
+				if (data.errcode == 'not_verify') {
+					nameTip.innerHTML = '&lt;span class="yes"&gt;&lt;/span&gt;您的邮箱: '+data.mail+' 未验证，点此&lt;a href="/bindmail/bindmail1.php?entry=sso&amp;user='+data.mail+'"&gt;重发验证邮件&lt;/a&gt;';
+				} else {
+					nameTip.innerHTML = '&lt;span class="yes"&gt;&lt;/span&gt;用您的邮箱'+data.mail+'也可以登录';
+				}
+			}
+		});
+	}
+<!--弹出层 开始-->
+<!--//
+var show=false;	//弹出层是否已经显示:true显示/false没显示
+
+	function close(_id){
+		show=false;
+		var newdiv = $(_id);
+		if (newdiv) document.body.removeChild(newdiv); 
+	}
+	
+	bind(window,'resize',function(){
+		var elUserName = $("username"),
+			elNewDiv = $('newDiv'),
+			elNote = $('sinaNote'),
+			nameState = false,
+			newdivState = false;
+		nameState = elNote ? elNote.style.display!='none' : false;
+		newdivState = elNewDiv ? elNewDiv.style.display!='none' : false;
+
+		if(nameState){
+			var index = 0, lis = elNote.getElementsByTagName('li'), len = lis.length, color = '';
+			for(;index&lt;len;index++){
+				color = lis[index].style.color;
+				if(color=='rgb(0, 0, 0)' || color=='#000000'){ break; }
+			}
+			index = index - 1;
+			passcardOBJ.hideList();
+			passcardOBJ.showList(elUserName);
+			for(;index&gt;0;index--){
+				passcardOBJ.arrowKey(40);
+			}
+		}
+		
+	});
+	
+})();
+
+
+//-->
+var login_err_is_init = true;
+onReady(function(){
+	var username = $("username");
+	if (username.value != '' &amp;&amp; !/^\s+$/.test(username.value)) {username.focus();username.blur();};
+	var conf = (typeof $vconf == 'undefined') ? {} : $vconf;
+	var v = new Validator(conf);
+	v.init('vForm');
+	$("vForm").onsubmit = function(){return login();};
+	$("username").onfocus = function(){
+		if(login_err_is_init){
+			login_err_is_init = false;
+			return;
+		}
+		$("login_err").innerHTML = "";
+	};
+});
+function con_code() {
+var random = Math.floor( Math.random()*100000000 ) ;
+document.getElementById("check_img").src = window.location.protocol + "//login.sina.com.cn/cgi/pin.php?r=" + random + "&s;=0";
+}
+	var userinfo = sinaSSOController.getLoginInfo();
+	if( userinfo &amp;&amp; userinfo['ln'] ) {
+		document.getElementById("username").value = userinfo['ln'];
+	}
+</script>
+</body>
+</html>

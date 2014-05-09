@@ -1,0 +1,726 @@
+<!Doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>育儿论坛_新浪网</title>
+<meta name="keywords" content="" />
+<meta name="description" content=" 育儿论坛  - sina" />
+<meta name="generator" content="sina " />
+<meta name="author" content="sina UI Team" />
+<meta name="copyright" content="2001-2007 sina Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<link rel="archives" title="育儿论坛" href="http://club.baby.sina.com.cn/archiver/" />
+<link rel="stylesheet" type="text/css" href="http://club.baby.sina.com.cn/css/babyclub_1.css?v=1" />
+<!-- temp debug start by yhb-->
+<link rel="stylesheet" type="text/css" href="http://club.baby.sina.com.cn/css/allbbs_append.css" />
+<link rel="stylesheet" type="text/css" href="/script/css/jquery.autocomplete.css" />
+<link rel="stylesheet" type="text/css" href="/script/css/thickbox.css" />
+<script src="http://news.sina.com.cn/js/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="http://i3.sinaimg.cn/home/sinaflash.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://club.baby.sina.com.cn/javascript/common.js?v=15"></script>
+<script type="text/javascript" src="http://club.baby.sina.com.cn/javascript/menu.js"></script>
+<script type="text/javascript" src="http://club.baby.sina.com.cn/javascript/ajax.js"></script>
+<script type="text/javascript">
+var MARK_JS = 'babyclub';
+</script>
+</head>
+<body onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="wrap">
+<!-- 标准二级导航 by liusong2@2010-02-23 begin -->
+<style type="text/css">
+.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+.sHLogo span,.sHLogo span a,.sHLogo span a:link,.sHLogo span a:visited,.sHLogo span a:hover{display:block;*float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+.sHLogo span,.sHLogo span a img,.sHLogo span a:link img,.sHLogo span a:visited img,.sHLogo span a:hover img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;} 
+</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://bbs.sina.com.cn/" target="_top"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" alt="新浪网" /></a><a href="http://bbs.sina.com.cn/"><img src="http://i1.sinaimg.cn/book/main/bbssitemap/xlltbbs_logo.gif" alt="新浪论坛" /></a></span></div>
+<div class="sHLinks"><a href="http://baby.sina.com.cn/" target="_top">新浪亲子中心</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/" target="_top">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/" target="_top">新浪导航</a></div>
+</div>
+</div>
+<!-- 标准二级导航 by liusong2@2010-02-23 end --> <!-- 论坛顶部通栏 by liusong2@2010-02-23 begin -->
+<style type="text/css">
+			.nav-t{background:url(http://www.sinaimg.cn/book/deco/2010/qb_bg_01.png) repeat-x;  height:40px;border:1px solid #c7d4de;border-width: 0 1px; }
+			.nav-t ul{float:left; }
+			.nav-t ul li{float:left;line-height:36px;margin:4px 0 0 1px;text-align:center; display:inline;   padding:0 8px; *padding:0 5px}
+			.nav-t ul li.selected{width:47px;height:36px;background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/baby.png) no-repeat;line-height:36px;padding:0; }
+			.nav-t ul li.selected a,.nav-t ul li.selected,.nav-t ul li.selected a:visited{color:#fff;}
+			.nav-t a.nav-map{float:right;width:63px;height:21px;text-indent:-10000px;  outline:none;background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/baby.png) -150px -150px;margin:9px 5px 0 0 ;display:inline;  }
+			.nav-t2{background:url(http://www.sinaimg.cn/book/club/baby_banner_bg.png) 0 0 repeat-x;height:103px;}
+			.nav-t2-in{background:url(http://www.sinaimg.cn/book/club/baby.png) 0 0 no-repeat;height:103px;  }
+			.nav-t2-in h1 {float:left;width:235px; height:103px;   }
+			.nav-t2-in h1 a{display:block;height:103px;text-indent:-10000px;outline:none; }
+			.nav-banner{float:right;margin:0px 7px 0 0 ;display:inline; }
+			.nav-banner img{display:block; }
+			.nav-t3{background:url(http://www.sinaimg.cn/book/deco/2010/qb_bg_01.png) 0 -50px;height:34px;border:1px solid #cad9ea;border-width:0 1px;padding:0 2px 0 5px;  }
+			.nav-t3l{float:left;line-height:34px; color:#5d98c2; }
+			.nav-t3l a{padding:0 5px;}
+			.nav-t3r{float:right;padding:5px 0 0 0; }
+			.nav-t3r select{color:#999;}
+			.ipt-01{background:#fff;border:1px solid #ccc;padding:1px;line-height:16px;width:200px;  height:16px; color:#999; }
+			.ipt-sub{cursor:pointer;background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/baby.png) 0 -150px;width:78px;height:21px;text-indent:-1000px;border:none;padding:0;   }
+			#menu{zoom:1;_overflow:hidden;}
+			.ipt-login{background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/baby.png) -300px -150px;width:39px;height:21px;text-indent:-1000px;border:none;padding:0;   }
+			#menu{zoom:1;_overflow:hidden;}
+			.frameswitch{color:#999;}
+			.ipt-11{padding:2px;}
+		</style>
+<div class="nav-t">
+<ul>
+<li><a href="http://bbs.sina.com.cn">首页</a></li>
+<li><a href="http://club.ent.sina.com.cn">娱乐</a></li>
+<li><a href="http://forum.sports.sina.com.cn">体育</a></li>
+<li><a href="http://club.mil.news.sina.com.cn">军事</a></li>
+<li><a href="http://club.history.sina.com.cn">历史</a></li>
+<li><a href="http://eladies.sina.com.cn/bbs/">女性</a></li>
+<li><a href="http://club.life.sina.com.cn">生活</a></li>
+<li><a href="http://club.finance.sina.com.cn">财经</a></li>
+<li><a href="http://bbs.auto.sina.com.cn">汽车</a></li>
+<li><a href="http://bbs0.house.sina.com.cn">房产</a></li>
+<li><a href="http://bbs.jiaju.sina.com.cn">家居</a></li>
+<li><a href="http://club.news.sina.com.cn">百味</a></li>
+<li><a href="http://club.edu.sina.com.cn">教育</a></li>
+<li class="selected"><a href="http://club.baby.sina.com.cn">亲子</a></li>
+<li><a href="http://club.astro.sina.com.cn">星座</a></li>
+<li><a href="http://club.tech.sina.com.cn/index.php">数码</a></li>
+<li><a href="http://club.tour.sina.com.cn">旅游</a></li>
+<li><a href="http://bbs.games.sina.com.cn/">游戏</a></li>
+<li><a href="http://club.gongyi.sina.com.cn">绿丝带</a></li>
+<li><a href="http://club.show.sina.com.cn">新浪show</a></li>
+</ul>
+<a href="http://bbs.sina.com.cn/guide/index.shtml" target="_blank" class="nav-map">论坛地图</a>
+</div>
+<div class="nav-t2">
+<div class="nav-t2-in">
+<h1><a href="http://club.baby.sina.com.cn/">育儿论坛</a></h1>
+<!-- &lt;div  class="nav-banner" style="height:98%"&gt;&lt;table height="100%"&gt;&lt;tr &gt;&lt;td id="ad_up" style="vertical-align:middle;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt; -->
+<!--给每一个频道帖子正文页增加不同的广告js-->
+<div class="nav-banner" style="height:98%">
+<table height="100%">
+<tr>
+<td id="ad_up" style="vertical-align:middle;">
+<script async="async" charset="utf-8" src="http://d4.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js"></script>
+<ins class="sinaads" data-ad-pdps="PDPS000000051261"></ins>
+<script>(sinaads = window.sinaads || []).push({});</script>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="nav-t3">
+<div class="nav-t3l">
+<a href="http://baby.sina.com.cn/health/" target="_blank">健康</a> | 
+				<a href="http://baby.sina.com.cn/nutrition/" target="_blank">营养</a> | 
+				<a href="http://baby.sina.com.cn/edu/" target="_blank">教育</a> | 
+				<a href="http://kid.sina.com.cn/index.shtml" target="_blank">少儿</a> | 
+				<a href="http://blog.baby.sina.com.cn/lm/baby/" target="_blank">博客</a> | 
+				<a href="http://video.baby.sina.com.cn/baby/" target="_blank">视频</a> | 
+				<a href="http://baby.sina.com.cn/zt/" target="_blank">专题</a>
+</div>
+<div class="nav-t3r">
+<form method="post" action="http://club.baby.sina.com.cn/search.php">
+<input type="text" name="srchtxt" value="输入关键字" id="headersearch" class="ipt-01" onfocus="chksearchvalue()" onblur="if(this.value == '') {this.value='输入关键字';}" /> <select name="srchtype"><option value="title" selected="selected">标题</option>
+<option value="fulltext">全文</option>
+<option value="srchuname">作者</option>
+</select>
+<input type="hidden" value="true" name="searchsubmit" />
+<input type="hidden" value="1" name="dpc" />
+<input type="submit" class="ipt-sub" onclick="return chksearch();" />
+</form>
+</div>
+</div>
+<script type="text/javascript">
+						function chksearchvalue(){
+							var searchvalue = $$('headersearch');
+							var valuetmp = searchvalue.value.replace('输入关键字','');
+							if(valuetmp){
+							}else{
+								searchvalue.value=searchvalue.value.replace('输入关键字','');
+							}
+						}
+						function chksearch(){
+							
+								var searchvalue = $$('headersearch').value;
+								searchvalue = searchvalue.replace('输入关键字', '');
+								if(searchvalue){
+									return true;
+								}else{
+									alert('请输入搜索的关键词');
+									return false
+								}
+							
+						}
+
+					
+						</script>
+<!-- 论坛顶部通栏 by liusong2@2010-02-23 end --> <div id="menu">
+<span class="frameswitch">
+<a href="http://club.baby.sina.com.cn/">育儿论坛</a> &raquo;  			</span>
+<ul>
+<li style="position: relative;">
+<p>
+<script type="text/javascript">
+				function chk_username(){
+					var username_id = $$('username');
+					var username_tmp = username_id.value.replace('会员名/邮箱/UC号','');
+					if(username_tmp){
+					}else{
+						username_id.value = username_id.value.replace('会员名/邮箱/UC号','');
+					}
+					
+				}
+			</script>
+<form id="loginform" method="post" name="login" action="https://login.sina.com.cn/sso/login.php">
+<input type="hidden" name="url" id="back_url" value="http://club.baby.sina.com.cn//logging.php?action=login&amp;loginsubmit=1&amp;referer=http%3A%2F%2Fclub.baby.sina.com.cn%2Fdefault.php%3Fs%3Duser%26a%3Dprofile%26uid%3D1647432254" />
+<input type="hidden" name="service" value="bbsclub" />
+<input type="hidden" name="entry" value="bbsclub" />
+<input type="hidden" name="useticket" value="0" />
+<input type="hidden" name="gateway" value="1" />
+				用户名：<input type="text" id="username" name="username" value="会员名/邮箱/UC号" onclick="chk_username();" onblur="checkUserMail();if(this.value == '') {this.value='会员名/邮箱/UC号';}" autocomplete="off" class="ipt-01 ipt-11" style="width:90px;" />
+				&nbsp;密码：<input type="password" id="password" name="password" class="ipt-01 ipt-11" style="width:90px;" />
+<button name="userlogin" type="submit" value="true" class="ipt-login"></button>
+</form>
+<div style="opacity: 1; display: none;" id="username_tip" class="tipbox">
+<div class="box_top"></div>
+<div class="box_center" id="box_center">
+<span class="" id="username_tip_text"></span>
+<a onclick="document.getElementById('username_tip').style.display='none';" href="#" title="关闭"><em>关闭</em></a>
+</div>
+<div class="box_bottom"></div>
+</div>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/checkmail.js?v=CDN_VERSION"></script>
+</p></li>
+<li><a href="http://club.baby.sina.com.cn/api/forward.php?action=register&amp;forward=http://club.baby.sina.com.cn/" class="notabs">注册</a></li>
+<li><a href="http://club.baby.sina.com.cn/search.php">搜索</a></li>
+<li><a href="http://club.baby.sina.com.cn/faq.php">帮助</a></li>
+</ul>
+</div>
+<!-- header -->
+<script type="text/javascript">
+	//&lt;![CDATA[
+	var sina={$:function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}},isIE:navigator.appVersion.indexOf("MSIE")!=-1?true:false,addEvent:function(l,i,I){if(l.attachEvent){l.attachEvent("on"+i,I)}else{l.addEventListener(i,I,false)}},delEvent:function(l,i,I){if(l.detachEvent){l.detachEvent("on"+i,I)}else{l.removeEventListener(i,I,false)}},readCookie:function(O){var o="",l=O+"=";if(document.cookie.length&gt;0){var i=document.cookie.indexOf(l);if(i!=-1){i+=l.length;var I=document.cookie.indexOf(";",i);if(I==-1)I=document.cookie.length;o=unescape(document.cookie.substring(i,I))}};return o},writeCookie:function(i,l,o,c){var O="",I="";if(o!=null){O=new Date((new Date).getTime()+o*3600000);O="; expires="+O.toGMTString()};if(c!=null){I=";domain="+c};document.cookie=i+"="+escape(l)+O+I},readStyle:function(I,l){if(I.style[l]){return I.style[l]}else if(I.currentStyle){return I.currentStyle[l]}else if(document.defaultView&amp;&amp;document.defaultView.getComputedStyle){var i=document.defaultView.getComputedStyle(I,null);return i.getPropertyValue(l)}else{return null}}};
+
+		function ChangeTab(event_type,css_cur){
+			this.event_type = event_type || "mouseover" ;
+			this.css_cur = css_cur || "cur" ;
+		};
+		ChangeTab.prototype = {
+			constructor : ChangeTab , 
+			curid : 0 ,
+			data : [] ,
+			addItem : function (bid,did){
+				var that = this ;
+				var _t = {}; 
+				_t.btn = sina.$(bid);
+				_t.cont = sina.$(did);
+				this.data.push(_t);
+				_t.cont.style.display = "none";
+				(function(){
+					var num = that.data.length ;
+					sina.addEvent(_t.btn,that.event_type , function(){	
+						that.select(num-1);
+					});
+				})();
+				if (this.data.length == 1 ){//第一条记录
+				}this.select(0);
+			},
+			select : function (id){
+				var reg =  new RegExp(this.css_cur,["g"]) 
+				this.data[this.curid].btn.className = this.data[this.curid].btn.className.replace(reg, "");
+				this.data[this.curid].cont.style.display = "none";
+				this.data[id].btn.className += " " + this.css_cur ;
+				this.data[id].cont.style.display = "";
+				this.curid = id ;
+			}
+		};
+	//]]&gt;
+	</script>
+<style type="text/css">
+	.part-a a{color:#005b96;}
+	.part-a{overflow:hidden;zoom:1;width:950px;margin:10px auto 0;background:#F4F9FC;  }
+	.a-l{width:185px;float:left;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/sidebar.png) no-repeat; min-height:726px;_height:726px; }
+	.a-r{width:765px;float:right;}
+	.user-info{width:135px; margin:10px 0 0 15px;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/facebg.png);min-height:150px; }
+	.user-info .face{height:140px;overflow:hidden;  }
+	.user-info .face img{display:block; margin:8px 0 0  8px;}
+	.user-info .user-username{text-align:center; line-height:20px; }
+	.user-ctrl {padding:2px 0 2px ;padding-left:20px;}
+	.user-ctrl a {background:url(http://club.baby.sina.com.cn/app/bbs/images/default/i8.png) no-repeat 1px center;padding-left:22px; line-height:22px; }
+	.user-ctrl a.addfriend {padding-left:20px;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/i9.png) no-repeat 0 0;padding-top:2px; }
+	.user-ctrl a.delfriend {padding-left:20px;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/i10.png) no-repeat 0 0;padding-top:2px; }
+	.user-ctrl a.sendgift {padding-left:20px;background:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/sendgift_icon.jpg) no-repeat 0 0;padding-top:2px; }
+
+	.user-bot{background:url(http://club.baby.sina.com.cn/app/bbs/images/default/facebg2.png);height:5px;overflow:hidden;   }
+	.list-sidebar{overflow:hidden; zoom:1;margin:15px 0 0 0;float:left; }
+	.list-sidebar li{width:160px; height:40px;overflow:hidden;padding-left:25px;line-height:40px; background:url(http://club.baby.sina.com.cn/app/bbs/images/default/zl_cl_004.png) no-repeat 0 100%;margin-top:-5px;   }
+	.list-sidebar li.selected{background:url(http://club.baby.sina.com.cn/app/bbs/images/default/zl_cl_002.png) -1px 0 no-repeat;font-size:14px; line-height:40px;margin:0;height:44px;  }
+	.list-sidebar li.selected a{color:#fff;background:none; }
+	.list-sidebar li a{background:url(http://club.baby.sina.com.cn/app/bbs/images/default/i1.png) no-repeat 0 center;padding-left:24px;display:block; width:142px;  }
+	.list-sidebar li.li-01 a{background-image:url(http://club.baby.sina.com.cn/app/bbs/images/default/i2.png); }
+	.list-sidebar li.li-02 a{background-image:url(http://club.baby.sina.com.cn/app/bbs/images/default/i3.png); }
+	.list-sidebar li.li-03 a{background-image:url(http://club.baby.sina.com.cn/app/bbs/images/default/i4.png); }
+	.list-sidebar li.li-04 a{background-image:url(http://club.baby.sina.com.cn/app/bbs/images/default/i5.png); }
+	.list-sidebar li.li-05 a{background-image:url(http://club.baby.sina.com.cn/app/bbs/images/default/i6.png); }
+	.list-sidebar li.li-06 a{background-image:url(http://club.baby.sina.com.cn/app/bbs/images/default/i7.png); }
+	.list-sidebar li.li-07 a{background-image:url(http://club.baby.sina.com.cn/app/bbs/images/default/i1.png); }
+	
+
+	.box-right{width:725px;margin:15px auto; }
+	.title-s1{padding:0 5px;height:31px;line-height:31px;overflow:hidden;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/zl_cl_001.png) no-repeat; }
+	.title-s1 h2{float:left;font-size:14px;padding-left:13px;font-family:宋体;}
+	.title-s1 span.more{float:right;}
+	.title-s1 ul{float:left;height:31px; }
+	.title-s1 ul li{float:left;height:31px; width:90px;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/zl_cl_005.png) 0 100% no-repeat;text-align:center; line-height:30px; color:#005b96;cursor:pointer;   }
+	.title-s1 ul li.selected{background-position:0 0; }
+	.title-s2{padding:0 5px;height:31px;line-height:31px;overflow:hidden;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/zl_cl_001.png) no-repeat; }
+	.title-s2 h2{float:left;font-size:14px;padding-left:13px;font-family:宋体;}
+	.title-s2 span.more{float:right;}
+	.title-s2 ul li{float:left;height:31px; width:60px;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/zl_cl_005.png) 0 100% no-repeat;text-align:center; line-height:30px; color:#005b96;cursor:pointer;   }
+	.title-s2 ul li.selected{background-position:0 0; }
+	.box-s1{padding:5px;background:#fff; }
+	.tbl-msginfo{margin:10px auto;display:block; }
+	.fblueb{color:#6d9fc4;}
+	.part-a ul{list-style:none;}
+	.fgray2{color:#999;}
+	.tac{text-align:center; }
+	.tbl-teilist{ margin:0 0 0 10px;}
+	.tbl-teilist th{background:#F4F9FC; line-height:26px; }
+	.tbl-teilist td{padding-left:5px;border-bottom:1px solid #F4F9FC;line-height:26px;}
+	.list-face{overflow:hidden; zoom:1;padding:5px 0;}
+	.list-face li{width:140px;float:left;margin:10px 5px 0 25px;display:inline;text-align:center;  }
+	.list-face li img.faceimg{border:1px solid #ccc;}
+	.list-face li p{padding:3px 0 0 0 ;}
+
+	
+	.base_inf{float:left;width:500px}
+	.base_inf .fblueb{padding-left:10px;line-height:1.8}
+	.last_visitor{float:right;width:210px}
+	.last_visitor_ul{
+		letter-spacing: -0.31em; /* webkit: collapse white-space between units */
+		*letter-spacing: normal; /* reset IE &lt; 8 */
+		word-spacing: -0.43em; /* IE &lt; 8 &amp;&amp; gecko: collapse white-space between units */
+		padding-left:8px;
+	}
+	.last_visitor_ul li{display:inline-block;*display:inline;zoom:1;width:33%;line-height:normal;
+		letter-spacing: normal;
+		word-spacing: normal;
+		padding-bottom:3px
+	}
+	.last_visitor_ul li a:hover img{text-decoration:none}
+	.last_visitor_ul li a:hover .user_name{text-decoration:underline}
+	.last_visitor_ul img{border:solid 1px #e5e5e5}
+	.last_visitor_ul .user_name{display:block;font-family:"宋体";line-height:1.5;zoom:1;overflow:hidden;white-space:nowrap;width:60px;}
+	.last_visitor .visit_time{color:#89A7A7}
+
+	table.maingift{padding:30px}
+	.gift_mainboxs{background:#fefefe;width:100%;border:#bbd 1px solid}
+	.gift_box{height:160px;width:142px;float:left;line-height:22px;text-align:center}
+	.gift_box .gift_box_imgdiv{height:102px}
+	.gift_box .gift_box_title{color:green;font-weight:bold}
+
+	.gift_mybox{width:150px;height:180px;float:left;ine-height:26px;;text-align:center}
+	.gift_mybox .gift_box_imgdiv{height:102px}
+
+
+	.mygift_user,.mygift_time{line-height:22px}
+	a.giftuserlink{color:#358;text-decoration:underline;}
+	.mygift_user{color:#000}
+	.mygift_time{color:#999}
+
+	.gift_send_con{clear:both;}
+	.gift_send_con .gift_send_title{font-size:14px;font-weight:bold;color:#000;line-height:30px;height:32px;clear:both}
+	.gift_send_con .gift_msg {float:left}
+	.gift_send_con .gift_msg textarea{width:398px}
+	.gift_send_con .placeholder{clear:both;display:none;height:130px}
+	.gift_send_con .placeholder .gift_holder{float:left;}
+	.gift_send_con .placeholder .gift_description{float:left;width:220px;padding:10px;line-height:1.5}
+	.gift_send_con label{clear:both;display:block;font-size:12px;font-weight:bold;width:250px;height:22px}
+	.gift_send_con label span{margin-left:20px;font-weight:normal}
+
+	#sentto_name{border:1px solid #999;height:20px;line-height:20px;width:150px;color:#77bb00;font-weight:bold;font-size:12px;padding-left:5px;display:inline-block;_display:inline;zoom:1}
+	.ac_results{text-align:left}
+	</style> <script type="text/javascript">
+var profileuid = 1647432254;
+var profile = 1;
+
+function show_last_visit(data) {
+	var listr = '';
+	if(typeof(data) == 'object') {
+		for(var item in data) {
+			listr = listr+'&lt;li&gt;&lt;a href="/default.php?s=user&amp;a=profile&amp;uid='+data[item].vuid+'" title="'+data[item].vusername+'"&gt;&lt;img src="'+data[item].vavatar+'" width="50" height="50" alt="头像"  /&gt; &lt;span class="user_name"&gt;'+data[item].vusername+'&lt;/span&gt;&lt;/a&gt;';
+
+			listr = listr+'&lt;span class="visit_time"&gt;'+data[item].dateline+'&lt;/span&gt;&lt;/li&gt;';
+									
+		}
+	} 
+	if(listr == ''){
+		listr = '&lt;li style="line-height: 208px; height: 208px; padding-left: 60px; width: 60%;"&gt;没有访客&lt;/li&gt;';
+	}
+	if(listr) {
+		jQuery(".last_visitor_ul").html(listr);
+	}
+}
+
+jQuery(document).ready(function(){
+	var url = 'http://club.baby.sina.com.cn/default.php?s=user&a;=mygift&uid;=1647432254&gifttype;=received&pagesize;=4';
+	relaodlist(url);
+});
+
+function relaodlist(url) {
+	
+	jQuery("#gift_list").html('&lt;div style="text-align:center;padding-top:20px;"&gt;&lt;div&gt;&lt;img src="http://news.sina.com.cn/deco/2010/0309/20070311141345452.gif"&gt;&lt;/div&gt;&lt;div&gt;数据载入中...&lt;/div&gt;&lt;/div&gt;');
+	jQuery('#gift_list').load(url+' #gift_list', function(data){
+			bindGiftEvent();												  
+	});	
+}
+
+function bindGiftEvent(){
+	jQuery('.giftopt').click(function(e){
+		var url = jQuery(this).attr('url')	;
+		relaodlist(url);
+		return false;
+	});
+}
+</script>
+<!-- part begin-->
+<div class="part-a clearfix">
+<script type="text/javascript">
+function opfriend(buddyid, op) {
+	var action = !op ? "add" : "del";
+	jQuery.post('default.php', {'s' : 'user', 'a' : action+'friend', 'uid' : buddyid}, function(data){
+		if(data == 1) {
+			var html = op ? '&lt;a href="javascript:void(0);" id="'+buddyid+'" class="addfriend"&gt;加为好友&lt;/a&gt;' : '&lt;a href="javascript:void(0);" id="'+buddyid+'" class="delfriend"&gt;解除好友&lt;/a&gt;';
+			jQuery('#'+buddyid).parent().html(html);
+			jQuery('#'+buddyid).click(function(){opfriend(buddyid, !op);});
+		} else {
+			switch(data) {
+//				case '-2' : alert('不能添加自己为好友！'); break;
+				case '-3' : alert('您尚未登录，不能进行加好友操作！'); break;
+				case '-4' : alert('该用户'+(op ? '不' : '已经')+'在您的好友列表中！'); break;
+			}
+		}
+	});
+}
+jQuery(document).ready(function(){
+	jQuery('.addfriend').click(function(){opfriend(this.id, 0);});
+	jQuery('.delfriend').click(function(){opfriend(this.id, 1);});
+});
+</script>
+<!-- left start-->
+<div class="a-l">
+<div class="user-info">
+<div class="face">
+<img src="http://club.sina.com.cn.sinastorage.com/avatar/babyclub/164/74/32/54_avatar_middle.jpg" width="120" height="120" border="0" alt="最爱鹿宝贝" />
+</div>
+<div class="user-username">最爱鹿宝贝</div>
+<div class="user-ctrl">
+<p><a href="http://club.baby.sina.com.cn/pm.php?action=send&amp;uid=1647432254" target="_blank" class="sendmsg">发送短信</a></p>
+<p><a href="javascript:void(0);" id="1647432254" class="addfriend">加为好友</a></p>
+<p style="color:#F00"><a href="?s=user&amp;a=gift&amp;touid=1647432254&amp;uid=1647432254#sendgift" class="sendgift">送TA礼物</a></p>
+</div>
+<div class="user-bot"></div>
+</div>
+<ul class="list-sidebar">
+<li class="selected"><a href="?s=user&amp;a=profile&amp;uid=1647432254">TA的资料</a></li>
+<li class="li-05"><a href="?s=user&amp;a=threads&amp;uid=1647432254">TA的帖子</a></li>
+<li class="li-02"><a href="http://blog.sina.com.cn/u/1647432254" target="_blank">TA的博客</a></li>
+<li class="li-03"><a href="http://t.sina.com.cn/1647432254" target="_blank">TA的微博</a></li>
+<li class="li-07"><a href="?s=user&amp;a=mygift&amp;uid=1647432254&amp;type=received">TA的礼物</a></li>
+</ul>
+</div>
+<!-- left end--> <div class="a-r">
+<div class="box-right">
+<div class="base_inf">
+<div class="title-s1">
+<h2>基本信息 </h2>
+</div>
+<div class="box-s1">
+<table cellspacing="0" class="tbl-msginfo" width="500">
+<tr>
+<td width="100" class="fblueb">用户级别：</td>
+<td width="220">超级亲子序列版主 <img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level2.gif" alt="Rank: 3" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level1.gif" alt="Rank: 3" /></td>
+<td width="100" class="fblueb">注册日期：</td>
+<td>2009-09-15 14:53:35</td>
+</tr>
+<tr>
+<td width="100" class="fblueb">帖子总数：</td>
+<td width="220">6481</td>
+<td width="100" class="fblueb">上次访问：</td>
+<td>2014-05-09 15:21:36</td>
+</tr>
+<tr>
+<td width="100" class="fblueb">总访问量：</td>
+<td>35842</td>
+<td width="100" class="fblueb">最后发表：</td>
+<td>
+																					2014-05-09 15:02:45
+																				</td>
+</tr>
+<tr>
+<td width="100" class="fblueb">日发帖数：</td>
+<td width="220">3.82</td>
+<td width="100" class="fblueb">精华帖数：</td>
+<td>64</td>
+</tr>
+<tr>
+<td width="100" class="fblueb">总计在线：</td>
+<td width="220">3347.83小时 <img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level3.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level2.gif" alt="Rank: 67" /><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/star_level1.gif" alt="Rank: 67" /></td>
+<td width="100" class="fblueb">本月在线：</td>
+<td width="220">31.17小时</td>
+</tr>
+<tr>
+<td width="100" class="fblueb">阅读权限：</td>
+<td width="220">1</td>
+<td width="100" class="fblueb">论坛积分：</td>
+<td>1653725</td>
+</tr>
+<tr>
+<td width="100" class="fblueb">论坛威望：</td>
+<td>0</td>
+<td width="100" class="fblueb">论坛金钱：</td>
+<td>2226405</td>
+</tr>
+<tr><td width="100" class="fblueb">&nbsp;</td><td width="100" class="fblueb">&nbsp;</td></tr>
+</table>
+</div>
+</div>
+<div class="last_visitor">
+<div class="title-s1">
+<h2>最近访客</h2>
+</div>
+<div class="box-s1">
+<ul class="last_visitor_ul">
+<li style="line-height:208px;height:208px; padding-left:10px;"><img src="http://news.sina.com.cn/deco/2010/0309/20070311141345452.gif" /></li>
+</ul>
+</div>
+</div>
+<div style="clear:both;line-height:0;font-size:0;"></div>
+<div class="title-s1" style="margin-top:10px;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/zl_cl_003.png) 0 0 no-repeat;">
+<h2 style="line-height:34px;margin-right:15px;">TA最近发表的帖子</h2>
+<ul>
+<li id="tab01" class="selected"><a href="?s=user&amp;a=profile&amp;uid=1647432254&amp;type=all">最近帖子</a></li>
+<li id="tab02"><a href="?s=user&amp;a=profile&amp;uid=1647432254&amp;type=threads">最近主贴</a></li>
+<li id="tab03"><a href="?s=user&amp;a=profile&amp;uid=1647432254&amp;type=replies">最近回复</a></li>
+</ul>
+<span class="more" style="line-height:34px;"><a href="?s=user&amp;a=threads&amp;uid=1647432254">更多&gt;&gt;</a></span>
+</div>
+<div class="box-s1" id="tabc01">
+<table cellspacing="0" class="tbl-teilist">
+<tr>
+<th scope="col" width="420" style="text-align:left;padding-left:10px;">标题</th>
+<th scope="col" width="150" style="text-align:center;padding-left:10px;">版块</th>
+<th scope="col" width="150" style="text-align:center;padding-left:10px;">发表时间</th>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28753425&amp;ptid=3780030" target="_blank">RE:超级亲子桃花潭版务值班--2014.05.09最爱鹿宝贝</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-09 09:42:59</td>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28753035&amp;ptid=3898663" target="_blank">RE:谁认识这是什么植物?</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-09 06:15:30</td>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28753034&amp;ptid=3898496" target="_blank">RE:爱上十谷粥</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-09 06:10:06</td>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28753032&amp;ptid=3898774" target="_blank">回复 8楼 豪仔的胖妈 的帖子</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-09 06:06:48</td>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28753031&amp;ptid=3898510" target="_blank">RE:眼窝浅。。。</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-09 06:05:23</td>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28753030&amp;ptid=3898767" target="_blank">RE:【咸话家常】颁奖帖—超级亲子桃花潭之健康家常菜</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-09 06:04:06</td>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28749860&amp;ptid=3307853" target="_blank">RE:超级亲子桃花潭版务值班--05.08. yanzizima</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-08 13:39:28</td>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28743720&amp;ptid=3759894" target="_blank">RE:超级亲子桃花潭版务值班--2014.05.06大懒猫容</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-06 20:21:49</td>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28740151&amp;ptid=3897259" target="_blank">RE:晒晒更健康</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-05 19:47:30</td>
+</tr>
+<tr>
+<td><a href="redirect.php?goto=findpost&amp;pid=28740148&amp;ptid=3897043" target="_blank">RE:又要见家长。。。</a></td>
+<td class="tac"><a href="forumdisplay.php?fid=46" target="_blank">超级亲子桃花潭</a></td>
+<td class="fgray2 tac">2014-05-05 19:46:35</td>
+</tr>
+</table>
+</div> <div class="title-s1" style="margin-top:10px;background:url(http://club.baby.sina.com.cn/app/bbs/images/default/zl_cl_003.png) 0 0 no-repeat;">
+<h2 style="line-height:31px;margin-right:15px;">TA的礼物</h2>
+<a name="mygift"></a>
+<ul>
+<li class="selected"><a href="?s=user&amp;a=profile&amp;uid=1647432254#mygift">TA收到的礼物</a></li>
+<li><a href="?s=user&amp;a=profile&amp;uid=1647432254&amp;gifttype=given#mygift">TA送出的礼物</a></li>
+</ul>
+<span class="more" style="line-height:34px;"><a href="?s=user&amp;a=mygift&amp;uid=1647432254">更多&gt;&gt;</a></span> </div>
+<div class="box-s1" id="gift_list"></div>
+</div>
+</div>
+<!-- right end-->
+<div class="a-bot"></div>
+</div>
+<!-- part end-->
+<!--管理操作 start-->
+<!--管理操作 end-->
+</div>
+<!-- footer -->
+<ul class="popupmenu_popup headermenu_popup" id="memcp_menu" style="display: none">
+<li><a href="http://club.baby.sina.com.cn/memcp.php">控制面板首页</a></li>
+<li><a href="http://club.baby.sina.com.cn/memcp.php?action=profile">编辑个人资料</a></li>
+<li><a href="http://club.baby.sina.com.cn/memcp.php?action=creditslog">积分记录</a></li>
+<li><a href="http://club.baby.sina.com.cn/memcp.php?action=usergroups">公众用户组</a></li>
+</ul>
+<ul class="popupmenu_popup headermenu_popup" id="stats_menu" style="display: none">
+<li><a href="http://club.baby.sina.com.cn/stats.php">基本概况</a></li>
+<li><a href="http://club.baby.sina.com.cn/stats.php?type=forumsrank">版块排行</a></li><li><a href="http://club.baby.sina.com.cn/stats.php?type=threadsrank">主题排行</a></li><li><a href="http://club.baby.sina.com.cn/stats.php?type=postsrank">发帖排行</a></li><li><a href="http://club.baby.sina.com.cn/stats.php?type=creditsrank">积分排行</a></li>
+<li><a href="http://club.baby.sina.com.cn/stats.php?type=onlinetime">在线时间</a></li> <li><a href="http://club.baby.sina.com.cn/stats.php?type=team">管理团队</a></li>
+<li><a href="http://club.baby.sina.com.cn/stats.php?type=modworks">管理统计</a></li> </ul>
+<div class="ad_footerbanner" id="ad_down"></div>
+<div id="footer">
+<div class="wrap">
+<div style="clear:both"></div>
+<br />
+<center>
+<!--标准尾-->
+<a href="http://baby.sina.com.cn/guest.html" target="_blank">亲子中心意见反馈留言板</a>
+				电话：010-82628888　　欢迎批评指正		<br />
+<a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://ads.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="http://members.sina.com.cn/apply/">会员注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a> <br />
+		Copyright &copy; 1996-2013 SINA Corporation, All Rights Reserved
+		<br />新浪公司　<a href="http://home.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a>
+<!--标准尾-->
+</center>
+</div>
+</div>
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+<script type="text/javascript">
+_S_pSt(_S_PID_);
+</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden"><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></div>
+</noscript>
+<!-- SUDA_CODE_END -->
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://sina.wrating.com/a1.js"></script>
+<script type="text/javascript">
+try{
+var vjAcc="860010-0320010000";
+var wrUrl="http://sina.wrating.com/";
+vjTrack("");
+}catch(e){};
+</script>
+<noscript><img src="http://sina.wrating.com/a.gif?a=&amp;c=860010-0320010000" width="1" height="1" style="display: none;" /></noscript>
+<!-- END WRating v1.0 -->
+<script>
+function ybbsup(data){
+	try{
+		if (/\.swf$/i.test(data.show) == false){
+			jQuery("#ad_up").html('&lt;a href="'+data.href+'" target="_blank"&gt;&lt;img src="'+data.show+'" &gt;&lt;/a&gt;');
+		}
+		else{
+			var objFlash = new sinaFlash(data.show, "", "585", "90", "7", "", false,"high");
+			objFlash.addParam("wmode", "opaque");
+			objFlash.write("ad_up");
+		}
+	}catch (e){
+	}
+}
+function ybbsmid(data){
+	try{
+		if (/\.swf$/i.test(data.show) == false){
+			jQuery("#ad_mid").html('&lt;a href="'+data.href+'" target="_blank"&gt;&lt;img src="'+data.show+'" width="300" height="31"&gt;&lt;/a&gt;');
+		}
+		else{
+			var objFlash = new sinaFlash(data.show, "", "300", "31", "7", "", false,"high");
+			objFlash.addParam("wmode", "opaque");
+			objFlash.write("ad_mid");
+		}
+	}catch (e){
+	}
+}
+function ybbsdown(data){
+	try{
+		if (/\.swf$/i.test(data.show) == false){
+			jQuery("#ad_down").html('&lt;a href="'+data.href+'" target="_blank"&gt;&lt;img src="'+data.show+'" width="950" height="90"&gt;&lt;/a&gt;');
+		}
+		else{
+			var objFlash = new sinaFlash(data.show, "", "950", "90", "7", "", false,"high");
+			objFlash.addParam("wmode", "opaque");
+			objFlash.write("ad_down");
+		}
+	}catch (e){
+	}
+}
+
+function ybbsfirstfloor(data) {//{"show":"文子内容","href":"广告链接"}
+	try{	
+		jQuery("#ad_thread1_0").html('&lt;a href="'+data.href+'" target="_blank"&gt;'+data.show+'&lt;/a&gt;');
+	}catch (e){
+	}
+}
+
+function ybbssecondfloor(data) {
+	try{
+		jQuery("#ad_thread1_1").html('&lt;a href="'+data.href+'" target="_blank"&gt;'+data.show+'&lt;/a&gt;');
+	}catch (e){
+	}
+}
+
+function ybbsthirdfloor(data) {
+	try{
+		jQuery("#ad_thread1_2").html('&lt;a href="'+data.href+'" target="_blank"&gt;'+data.show+'&lt;/a&gt;');
+	}catch (e){
+	}
+}
+
+
+function mygetscript(url) {
+		var s, c,  d = document, src = (url.indexOf("?") == "-1" ? url + "?" : url);
+		(s = d.createElement("script")).setAttribute("type", "text/javascript");
+		s.setAttribute("charset", "UTF-8");
+		d.getElementsByTagName("head")[0].appendChild(s).src = src;
+		
+		s.onload = s.onreadystatechange = function(){ s.readyState ? s.readyState.toLowerCase() == 'loaded'  : '' };
+	
+}
+
+
+jQuery(document).ready(function(){
+
+		
+	mygetscript("");
+	mygetscript("");
+	mygetscript("");
+	mygetscript("");
+	mygetscript("");
+	mygetscript("");
+});
+</script>
+</body>
+</html>

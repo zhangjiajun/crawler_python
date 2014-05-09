@@ -1,0 +1,2769 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【北京二手家具市场|北京二手家具转让】 - 北京58同城</title>
+<meta name="description" content="北京二手家具市场,为您提供大量北京二手家具信息，在这里您可以免费查看和发布北京二手家具、北京二手家居用品转让、求购、价格、图片等信息，买卖北京二手二手家具请到58同城北京二手二手家具市场。" />
+<meta name="keywords" content="北京二手家具" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css?v=20130910" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/ershou/list-eui7.css?version=20130530" media="all" />
+<!-- =S 脚本这个由 脚本组负责 这个路径为暂时的 -->
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<!-- createElement-lte-IE8.js 该脚本只针对IE8及以下版本浏览器 -->
+<!-- =E -->
+<script type="text/javascript">try {
+        var ____json4fe = {"catentry":[{"dispid":"5","name":"二手市场","listname":"sale"},{"dispid":"508","name":"二手家具","listname":"ershoujiaju"}],"locallist":[{"dispid":"1","name":"北京","listname":"bj"}],"start":(new Date()).getTime(),"modules":"list"};
+        ____json4fe.version = 'A';
+        ____json4fe.modules = 'listpage';
+        ____json4fe.smsc = 'ce882233f1f0d86e6563a54b234209ece60111a069178013bb7876a024961a3069e7a234cc056a7214d376e0c9560cbaad1513cd47b6cfd4de78ad3391e39bcc337a89df70f87ead6dbc40b1357cf206b5a385c8b73e8e7daca5ad121ebfb6d0cb9d4dd0b7a86144';
+    } catch (e) {
+    }
+    ;</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';
+    var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2', '1', '');
+    win1.setSearchButton('searchbtn1');
+    boot.require('util.cookie', function (Frame, cookie) {
+        cookie.set('city', 'bj');
+    });</script>
+<style>
+	    /*2014-1-16 相关搜索 by hezc*/
+		.RelatedSearch{ border:1px solid #E1E1E1; font-size:14px; padding:10px 5px;line-height:25px;  margin-bottom:15px;}
+		.RelatedSearch dt{ float:left; width:88px; text-align:right;font-weight:700;line-height:25px;}
+		.RelatedSearch dd{ float:right; width:720px;}.RelatedSearch dd a{ display:inline-block;width:140px;line-height:25px;}
+		#list_left_zhuti{border:1px solid #E1E1E1; margin-bottom:10px; padding:15px;}
+		#list_left_zhuti div{ margin-left:-55px; height:110px;}
+    </style>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/bj/ershoujiaju" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/bj/ershoujiaju" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/bj/ershoujiaju" />
+</head>
+<body>
+<script type="text/javascript">
+    var hasXiaobao = "true"
+</script>
+<!-- =S topbar -->
+<div id="topbar"></div>
+<script type="text/javascript">boot.require('business.topbar', function (Frame, topbar) {
+    topbar.init();
+});</script>
+<!-- =E topbar -->
+<!-- =S header -->
+<header id="header">
+<span class="logo">
+<a href="/" target="_blank"><img src="http://pic2.58.com/images/logonew.gif" title="到58同城首页" alt="58同城" /></a>
+</span>
+<!-- =S 面包屑导航 -->
+<div class="nav">
+<a href="/">北京58同城</a>
+<cite></cite><a href="/sale.shtml">北京二手市场</a>
+<cite></cite><a href="/ershoujiaju/">北京二手家具</a>
+</div>
+<!-- =E 面包屑导航 -->
+<span class="fr mt10">
+<a href="http://post.58.com/1/508/s5" class="postBtn" target="_blank" rel="nofollow"></a>
+</span>
+</header>
+<!-- =E header -->
+<!-- S 推广广告 -->
+<div id="ad_d12" class="cripic"></div>
+<!-- E 推广广告 -->
+<!-- =S selection -->
+<section id="selection">
+<!-- =S 搜索结果 -->
+<script type="text/javascript">
+    $("#searchtree .selectbar1 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+
+    $("#searchtree .selectbar2 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+</script>
+<!-- =E 搜索结果 -->
+<div>
+<dl class="secitem">
+<dt>类别 ：</dt>
+<dd name="leibie" zwname="类别" zwnameid="2629">
+<a class="select" href="/ershoujiaju/" data-finalurl="/ershoujiaju/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/chuang/" href="http://bj.58.com/chuang/">床</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/chuangdian/" href="http://bj.58.com/chuangdian/">床垫</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/guizi/" href="http://bj.58.com/guizi/">柜子</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/jiazi/" href="http://bj.58.com/jiazi/">架子</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/zhuolei/" href="http://bj.58.com/zhuolei/">桌子</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/zuoju/" href="http://bj.58.com/zuoju/">椅子/凳</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/jiajushafa/" href="http://bj.58.com/jiajushafa/">沙发</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/chaji/" href="http://bj.58.com/chaji/">茶几</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/jiajuqita/" href="http://bj.58.com/jiajuqita/">其他家具</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>价格 ：</dt>
+<dd zwname="价格" zwnameid="5760">
+<a class="select" href="/ershoujiaju/" data-finalurl="/ershoujiaju/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_5760_0_100/" href="http://bj.58.com/ershoujiaju/pve_5760_0_100/">100元以下</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_5760_101_150/" href="http://bj.58.com/ershoujiaju/pve_5760_101_150/">100-150元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_5760_151_300/" href="http://bj.58.com/ershoujiaju/pve_5760_151_300/">150-300元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_5760_301_500/" href="http://bj.58.com/ershoujiaju/pve_5760_301_500/">300-500元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_5760_501_1000/" href="http://bj.58.com/ershoujiaju/pve_5760_501_1000/">500-1000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_5760_1001_2000/" href="http://bj.58.com/ershoujiaju/pve_5760_1001_2000/">1000-2000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_5760_2000_999999/" href="http://bj.58.com/ershoujiaju/pve_5760_2000_999999/">2000元以上</a>
+<span class="prifilter">
+<span class="text text2"><input type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /></span>
+<span class="dev"> - </span>
+<span class="dev text text2"><input class="mr5" type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /> 元   </span>
+<span class="btn btn2" style="display:none"><input type="button" value="价格筛选" onclick="b_query_minprice()" /></span>
+</span>
+<script type="text/javascript">
+                    $(document).ready(function () {
+                        //text控件事件
+                        $(".prifilter input:text").click(function () {
+                            $(".prifilter input:button").parent().show();
+                            return false;
+                        });
+
+                        //button控件事件
+                        $(".prifilter input:button").click(function () {
+                            return false;
+                        });
+
+                        //body控件事件
+                        $(document.body).click(function () {
+                            $(".prifilter input:button").parent().hide();
+                        });
+                    });
+                </script>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>新旧 ：</dt>
+<dd zwname="新旧" zwnameid="2630">
+<a class="select" href="/ershoujiaju/" data-finalurl="/ershoujiaju/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_2630_7/" href="http://bj.58.com/ershoujiaju/pve_2630_7/">全新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_2630_2/" href="http://bj.58.com/ershoujiaju/pve_2630_2/">95成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_2630_3/" href="http://bj.58.com/ershoujiaju/pve_2630_3/">9成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_2630_4/" href="http://bj.58.com/ershoujiaju/pve_2630_4/">8成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ershoujiaju/pve_2630_5/" href="http://bj.58.com/ershoujiaju/pve_2630_5/">7成新及以下</a>
+</dd>
+</dl>
+<!--S 显示区域 -->
+<dl class="secitem secitem_area clearfix">
+<dt>区域 ：</dt>
+<dd zwnameid="quyu" zwname="区域">
+<a href="/ershoujiaju/" data-finalurl="/ershoujiaju/" class="select">全北京</a>
+<a href="/chaoyang/ershoujiaju/" data-finalurl="/chaoyang/ershoujiaju/">朝阳</a>
+<a href="/haidian/ershoujiaju/" data-finalurl="/haidian/ershoujiaju/">海淀</a>
+<a href="/dongcheng/ershoujiaju/" data-finalurl="/dongcheng/ershoujiaju/">东城</a>
+<a href="/xicheng/ershoujiaju/" data-finalurl="/xicheng/ershoujiaju/">西城</a>
+<a href="/chongwen/ershoujiaju/" data-finalurl="/chongwen/ershoujiaju/">崇文</a>
+<a href="/xuanwu/ershoujiaju/" data-finalurl="/xuanwu/ershoujiaju/">宣武</a>
+<a href="/fengtai/ershoujiaju/" data-finalurl="/fengtai/ershoujiaju/">丰台</a>
+<a href="/tongzhouqu/ershoujiaju/" data-finalurl="/tongzhouqu/ershoujiaju/">通州</a>
+<a href="/shijingshan/ershoujiaju/" data-finalurl="/shijingshan/ershoujiaju/">石景山</a>
+<a href="/fangshan/ershoujiaju/" data-finalurl="/fangshan/ershoujiaju/">房山</a>
+<a href="/changping/ershoujiaju/" data-finalurl="/changping/ershoujiaju/">昌平</a>
+<a href="/daxing/ershoujiaju/" data-finalurl="/daxing/ershoujiaju/">大兴</a>
+<a href="/shunyi/ershoujiaju/" data-finalurl="/shunyi/ershoujiaju/">顺义</a>
+<a href="/miyun/ershoujiaju/" data-finalurl="/miyun/ershoujiaju/">密云</a>
+<a href="/huairou/ershoujiaju/" data-finalurl="/huairou/ershoujiaju/">怀柔</a>
+<a href="/yanqing/ershoujiaju/" data-finalurl="/yanqing/ershoujiaju/">延庆</a>
+<a href="/pinggu/ershoujiaju/" data-finalurl="/pinggu/ershoujiaju/">平谷</a>
+<a href="/mentougou/ershoujiaju/" data-finalurl="/mentougou/ershoujiaju/">门头沟</a>
+<a href="/bjyanjiao/ershoujiaju/" data-finalurl="/bjyanjiao/ershoujiaju/">燕郊</a>
+<a href="/beijingzhoubian/ershoujiaju/" data-finalurl="/beijingzhoubian/ershoujiaju/">北京周边</a>
+<div class="fl clearfix recent_div" id="shangquan" style=" display: none;">
+</div>
+</dd>
+</dl>
+<!--E 显示区域 -->
+<!-- =S header-search -->
+<div class="sale_search clearfix_z" id="SearchForm">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<span class="search_input"><input class="but-wd" value="输入类别或关键字" maxlength="40" onkeyup="win1.GetContentData();" onclick="if(this.value=='输入类别或关键字')this.value=''" onblur="if(this.value=='')this.value='输入类别或关键字'" fdv="" id="keyword1" name="b_q" para="key" autocomplete="off" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="submit" id="searchbtn1" class="search_on" value="搜本类" onclick="return searchword_filter();" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="button" value="搜全站" onclick="if(searchword_filter())b_query_all();" /></span>
+</form>
+</div>
+<script type="text/javascript">
+        $(document).ready(function () {
+            $("#keyword1").keydown(function () {
+                $("#keyword1").attr("style", "color: rgb(0, 0, 0);"); //黑色
+            });
+        });
+
+        function searchword_filter() {
+            if ($("#keyword1").attr("value") == "输入类别或关键字") {
+                $("#keyword1").attr("style", "color: rgb(153, 153, 153);"); //灰色
+                //$("#keyword1").focus(); $("#keyword1").select();
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+<!-- =E header-search -->
+</div>
+<!-- =S 特色 -->
+<dl class="secitem">
+<dt>热门 ：<i></i></dt>
+<dd class="tese">
+<a href="http://bj.58.com/shuanrenchuang/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/src/']);">双人床</a>
+<a href="http://bj.58.com/danrenchuang/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/drc/']);">单人床</a>
+<a href="http://bj.58.com/chuangcengchuang/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/scc/']);">双层床</a>
+<a href="http://bj.58.com/shafashafachuang/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/sfc/']);">沙发床</a>
+<a href="http://bj.58.com/yigui/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/yg/']);">衣柜</a>
+<a href="http://bj.58.com/canzhuo/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/cz/']);">餐桌</a>
+<a href="http://bj.58.com/zhuozidiannao/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/dnz/']);">电脑桌</a>
+<a href="http://bj.58.com/yizidiannao/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/dny/']);">电脑椅</a>
+<a href="http://bj.58.com/shugui/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/sg/']);">书柜</a>
+<a href="http://bj.58.com/zhediechuang/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/hot/zdc/']);">折叠床</a>
+</dd>
+</dl>
+<dl class="secitem xinpin">
+<dt>特色 ：<i></i></dt>
+<dd class="tese tese2">
+<a href="http://bj.58.com/ershoujiaju/?minprice=40_140" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tese/byjj/']);">百元家具</a>
+<a href="http://bj.58.com/ershoujiaju/key_环保/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tese/hbjj/']);">环保家具</a>
+<a href="http://bj.58.com/ershoujiaju/key_实木/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tese/smjj/']);">实木家具</a>
+<a href="http://bj.58.com/ershoujiaju/key_儿童/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tese/etjj/']);">儿童家具</a>
+<a href="http://bj.58.com/ershoujiaju/key_欧式/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tese/osjj/']);">欧式家具</a>
+<a href="http://bj.58.com/ershoujiaju/key_送货/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tese/zcsh/']);">支持送货</a>
+<a href="http://bj.58.com/ershoujiaju/key_全套/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tese/qtzr/']);">全套转让</a>
+<a href="http://bj.58.com/ershoujiaju/key_搬家/" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tese/bjsm/']);">搬家甩卖</a>
+</dd>
+</dl>
+<!-- =E 特色 -->
+<!-- =S 底部搜索结果 -->
+<!--  &lt;dl class="secitem"&gt;&lt;div id ="highlightline" class="line highlight"&gt;&lt;div id="selected" class="bar"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/dl&gt; -->
+<div class="selectResult clearfix" id="selected" style="display: none;"></div>
+</section>
+<!-- =E selection -->
+<!--S 百强县 -->
+<!--E 百强县 -->
+<!-- =S tabsbar -->
+<div class="pr tabsbar_pop_wrap" style="display:none">
+<div class="select-area"><a href="javascript:void(0)"></a></div>
+</div>
+<div class="tabsbar" id="tabsbar">
+<a class="sel" href="http://bj.58.com/ershoujiaju/"><h1>北京二手家具</h1></a>
+<a rel="nofollow" class="pubtopright" target="_blank" href="http://dingyue.58.com/ershou/shenqing">二手市场推广，加入会员即送1000元！</a>
+</div>
+<!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix">
+<!-- =S infolist 左侧列表主体 -->
+<div id="infolist" class="cleft">
+<!-- =S filterbar -->
+<div class="filterbar">
+<table cellspacing="0" cellpadding="0" class="tbfilter">
+<colgroup>
+<col />
+<col class="w100" /> <col class="w100" />
+</colgroup>
+<tr class="bg">
+<td>
+<div class="caty">
+<a class="geren active" name="b_link" para="custom" cl="/ershoujiaju/?rb=1" data-finalurl="/ershoujiaju/" href="/ershoujiaju/">
+                            全部
+                        </a>
+<a class="geren" data-finalurl="/ershoujiaju/0/" href="/ershoujiaju/0/">
+                        个人
+                    </a>
+<a class="shangjia" data-finalurl="/ershoujiaju/1/" href="/ershoujiaju/1/">
+                        商家
+                    </a>
+</div>
+<span id="span_xiaobao" class="checkbox"><input type="checkbox" name="zaixianzhifu" value="1" id="xiaobao_baozhang" /><label for="zaixianzhifu" class="isxiaobao">支持保障交易</label></span>
+<span class="checkbox"><input name="" type="checkbox" value="" id="ispic" onclick="click_Ispic(this)" /><label for="ispic">只看有图</label></span>
+<span class="checkbox"><input type="checkbox" id="isonline" /><label for="isonline" class="isonline">帮帮在线</label></span>
+</td>
+<!-- =S 排序功能 -->
+<td class="sort" colspan="2">
+<div class="sort_wrap">
+<span class="default  active"><a href="http://bj.58.com/ershoujiaju/" rel="nofollow">默认排序</a></span>
+<span class="time "><a href="http://bj.58.com/ershoujiaju/?sort=sortid_desc" rel="nofollow">按时间</a></span>
+<span class="sort_price">
+<a href="http://bj.58.com/ershoujiaju/?sort=minprice_asc" rel="nofollow">按价格</a>
+</span>
+</div>
+</td>
+<!-- =E 排序功能 -->
+</tr>
+</table>
+</div>
+<!-- =E filterbar -->
+<!-- =S 查询搜索无结果补充信息  -->
+<!-- =E 查询搜索无结果补充信息  -->
+<!-- =S top_google_ad -->
+<div id="top_google_ad"></div>
+<!-- =E top_google_ad  -->
+<!-- =S 头部精准推广显示 -->
+<div class="pr">
+<table class="tbimg tbimg_jz" cellspacing="0" cellpadding="0" id="jingzhun">
+<col class="" />
+<col />
+<col class="w100" /> <col class="w100" />
+<tr logr="b_2_22975926465543_17847571569286_11_2_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HczrH0drHcvPjmdPHE1FhP_pv-b5yPWnycOrHb3sHE3rAEVPAcOPzdBrHnksymznvFBnj6bnym1PzukpyEqPau-UMwGujYQP19YP1NLnHNvrHc3PBu-UMwY0jYkFMKzpyP-5HcQnauzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLrjELPH0QPHmOnW9vXaO1pZwVUaubpgPkULnqniu1IyFGujYvnWn3nWEOFhPzuy7YuyEqPWc1PjcdniukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHEzFh7BIjd6" target="_blank" data-addtype="level5"><img src="http://img7.58.com/bidding/tiny/n_s02247212744805062084.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HczrH0drHcvPjmdPHE1FhP_pv-b5yPWnycOrHb3sHE3rAEVPAcOPzdBrHnksymznvFBnj6bnym1PzukpyEqPau-UMwGujYQP19YP1NLnHNvrHc3PBu-UMwY0jYkFMKzpyP-5HcQnauzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLrjELPH0QPHmOnW9vXaO1pZwVUaubpgPkULnqniu1IyFGujYvnWn3nWEOFhPzuy7YuyEqPWc1PjcdniukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHEzFh7BIjd6" target="_blank" class="t" data-addtype="level5">
+                        学院桥库房搬迁;成本价急甩双人床、衣柜、沙发等</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span> <span class="ico ntu" title="">[18图]</span> <a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                      我厂注重声明;明码标价是真实的,因库房搬迁,成本价处理居家家
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="ico area">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+                                                                                                                         &nbsp;/ 今天
+    		              </span>
+<span name="zaixian_22975926465543"></span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="b_2_20515249143047_289348167303282688_11_2_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HckPHDdnWEOnHE1njELFhP_pv-b5ymLP1KhPWw-syndnhEVPjFbnad6mWm1sHwWnvcOnHcdmyc1naukpyEqPau-UMwGujYzrjb1Pj9QPW01njnzrjcvrj9huyOYIZTqnzuk0h-WuHYQPWEh0hRbpgcqpZwY0jCfsvGJmvQJpB3draOWUvY8mv3huA-10Aq15Hch0LRBpyEqPjbvPjT1rauW0hR6IARb5HEOPWTkPj9h0A7zmydGujYhuA-1mvDqPHT3FMP-UAuWmHYdnj9huA-1UAtqniu1uyQhUAtqniuQ5HDdnBu6mMEqmE" target="_blank" data-addtype="level5"><img src="http://img1.58.com/bidding/tiny/n_s12088795202359281153.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HckPHDdnWEOnHE1njELFhP_pv-b5ymLP1KhPWw-syndnhEVPjFbnad6mWm1sHwWnvcOnHcdmyc1naukpyEqPau-UMwGujYzrjb1Pj9QPW01njnzrjcvrj9huyOYIZTqnzuk0h-WuHYQPWEh0hRbpgcqpZwY0jCfsvGJmvQJpB3draOWUvY8mv3huA-10Aq15Hch0LRBpyEqPjbvPjT1rauW0hR6IARb5HEOPWTkPj9h0A7zmydGujYhuA-1mvDqPHT3FMP-UAuWmHYdnj9huA-1UAtqniu1uyQhUAtqniuQ5HDdnBu6mMEqmE" target="_blank" class="t" data-addtype="level5">
+                        紧急转让：高端实木家具、沙发、床、衣柜、餐桌</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span> <a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                      榆木家具、橡木家具、海棠木家具、沙发、餐桌、茶几、床、衣柜
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="ico area">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+                                                                                                                         &nbsp;/ 今天
+    		              </span>
+<span class="youxuan">
+<a href="http://about.58.com/youxuan/youxuan.html" target="_blank">
+<img src="http://pic2.58.com/ui7/ershou/youxuan.png" />
+</a>
+</span>
+<span name="zaixian_20515249143047"></span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="b_2_16261812_17293236899336_11_2_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HDvnWmQrjDzFhP_pv-b5HN1P19YnA7bsHF-PH9VPAnOPadBmHw-sHRhuW-hn1-WPHmOniukpyEqPau-UMwGujYQP1cOn1c1PW9OrHn1PBu-UMwY0jYkFMKzpyP-5HDYniuzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLnWb1nWnvrjbOn1nvXaO1pZwVUaubpgPkULnqnzu1IyFGujYdPHbYnWnkFhPzuy7YuyEqPHNOnjc1nzukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHELFh7BIjd6" target="_blank" data-addtype="level5"><img src="http://img6.58.com/bidding/tiny/n_s12230540452630288145.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HDvnWmQrjDzFhP_pv-b5HN1P19YnA7bsHF-PH9VPAnOPadBmHw-sHRhuW-hn1-WPHmOniukpyEqPau-UMwGujYQP1cOn1c1PW9OrHn1PBu-UMwY0jYkFMKzpyP-5HDYniuzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLnWb1nWnvrjbOn1nvXaO1pZwVUaubpgPkULnqnzu1IyFGujYdPHbYnWnkFhPzuy7YuyEqPHNOnjc1nzukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHELFh7BIjd6" target="_blank" class="t" data-addtype="level5">
+                        优惠价促销各类民用板式家具</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span> <span class="ico ntu" title="">[24图]</span> <a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                      各类板式家具厂家直销
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="ico area">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+                                                                                                                         &nbsp;/ 今天
+    		              </span>
+<span name="zaixian_16261812"></span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="b_2_21826239936262_17295786949379_11_2_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HcQrjcvnWnOrHnvnWmzFhP_pv-b5ynQuWbzmvcksycYPHDVPj0YmzYOPhD3sH7-ujE3mvF-rymzmzukpyEqPau-UMwGujYQP1cOPH03PWbYrHnLriu-UMwY0jYkFMKzpyP-5HD1nauzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLnWbdP19vrHEOn10OXaO1pZwVUaubpgPkULnqPau1IyFGujYdPHbOnH9YFhPzuy7YuyEqPHNOPHD3PzukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHN1Fh7BIjd6" target="_blank" data-addtype="level5"><img src="http://img1.58.com/bidding/tiny/n_s12176584973649824075.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HcQrjcvnWnOrHnvnWmzFhP_pv-b5ynQuWbzmvcksycYPHDVPj0YmzYOPhD3sH7-ujE3mvF-rymzmzukpyEqPau-UMwGujYQP1cOPH03PWbYrHnLriu-UMwY0jYkFMKzpyP-5HD1nauzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLnWbdP19vrHEOn10OXaO1pZwVUaubpgPkULnqPau1IyFGujYdPHbOnH9YFhPzuy7YuyEqPHNOPHD3PzukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHN1Fh7BIjd6" target="_blank" class="t" data-addtype="level5">
+                        厂家库房直销双人床、床垫、环保衣柜、沙发床、上</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span> <span class="ico ntu" title="">[24图]</span> <a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                      租房家具库房特价促销：免费送货，有实体店看货:欢迎来电咨询
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="ico area">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+                                                                                                                         &nbsp;/ 今天
+    		              </span>
+<span name="zaixian_21826239936262"></span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元                </td>
+<td class="tc">
+</td>
+</tr>
+</table>
+</div>
+<!-- =E 头部精准推广显示 -->
+<div id="hoverinfo">
+<!-- =S 显示搜索无结果补充信息  -->
+<!-- =E 显示搜索无结果补充信息  -->
+<table class="tbimg" cellpadding="0" cellspacing="0">
+<col class="" />
+<col />
+<col class="w100" /><col class="w100" />
+<tr logr="z_2_20120437562887_17229631530760_1_2_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1czrHm1nHN1nj0vnZ980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTLP1TQsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17229631530760&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=1&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12168200329102441045.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1czrHm1nHN1nj0vnZ980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTLP1TQsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17229631530760&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=1&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            超低价租房全套家具特价双人床、员工上下床、实木</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[24图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        大库房专人接待可实体看货，加QQ 2041063321看图。免费送货安…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/daxing/ershoujiaju/">大兴</a>
+</span>
+<span name="zaixian_20120437562887"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元                    </td>
+<td class="tc">
+<p class="tb_pra"><a title="支付宝担保支付/收款,货款由支付宝保管" class="c_666" href="http://static.58.com/ui7/help/payment.html" target="_blank" rel="nofollow" style="cursor: hand"><i class="xb_icon_mi6"></i> 担保支付</a></p>
+</td>
+</tr>
+<tr logr="z_1_23040655713542_17850066637831_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP19dnjTvPWm1P191ng980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHmkPjmksak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17850066637831&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=2&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12247509201191894016.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP19dnjTvPWm1P191ng980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHmkPjmksak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17850066637831&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=2&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [9成新]                            因搬家转让个人家使用过一年的家具家电,包括床沙</a>
+<span class="ico ntu" title="">[11图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        我们准备把带不走的家具都卖掉，非常环保，还有全套家电，东西都很好，为了…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/xueyuanlu/ershoujiaju/">学院路</a>
+</span>
+<span name="zaixian_23040655713542"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">600</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_23057360169223_17858231477512_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP19drjc1nHELP1NQnM980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHbkrjbQsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17858231477512&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=3&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s02248555195763229083.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP19drjc1nHELP1NQnM980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHbkrjbQsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17858231477512&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=3&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            3居家具与电器等全部物品 个人转先到先挑</a>
+<span class="ico ntu" title="">[16图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        个人家两套房子里的家具与电器等全部物品 个人转让先到您先挑着买,推拉门…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/wangjing/ershoujiaju/">望京</a>
+</span>
+<span name="zaixian_23057360169223"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">600</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_22447788318983_17790549321993_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP10OnjNYrHnznHbOnL980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWDYnWcYsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17790549321993&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=4&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12239910269386894006.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP10OnjNYrHnznHbOnL980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWDYnWcYsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17790549321993&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=4&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            个人转让自用三室两厅的家具家电,九成新便宜转</a>
+<span class="ico ntu" title="">[12图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        我是个人转让自用三室两厅的家具和家电，都是自己拍的实物图片便宜转，九成…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/mudanyuan/ershoujiaju/">牡丹园</a>
+</span>
+<span name="zaixian_22447788318983"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">850</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_2_13419359588103_17819172385160_1_2_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP19QrHDLnWn3PHDvnZ980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnjEvPWbdsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17819172385160&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=5&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12245819401194564113.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP19QrHDLnWn3PHDvnZ980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnjEvPWbdsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17819172385160&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=5&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            特价租房全套家具双人床 单人床 大衣柜 上下床</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>2</i></span><span class="ico ntu" title="">[24图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        
+图片不能一一展示看更多图片请加qq1576600101也可拨打电话…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/daxing/ershoujiaju/">大兴</a><span> - </span>
+<a class="c_666" href="/yizhuang/ershoujiaju/">亦庄</a>
+</span>
+<span name="zaixian_13419359588103"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">350</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_12559806508807_17603988847880_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1mkn1b3rj9YP193nZ980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjD1PjE3nHNksak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17603988847880&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=6&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12216023398515561024.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1mkn1b3rj9YP193nZ980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjD1PjE3nHNksak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17603988847880&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=6&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            学院桥库房搬迁;成本价急甩双人床、衣柜、沙发等</a>
+<span class="ico ntu" title="">[13图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        我厂注重声明;明码标价是真实的,因库房搬迁,成本价处理居家家具、家用电…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/guomao/ershoujiaju/">国贸</a>
+</span>
+<span name="zaixian_12559806508807"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">550</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_2_15007133004038_17669914746625_1_2_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1mvrHbQPj0YPWmzPg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjD1rH9vP1NOsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17669914746625&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=7&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12238971062718464143.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1mvrHbQPj0YPWmzPg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjD1rH9vP1NOsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17669914746625&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=7&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            库房样品,清仓处理,可送货</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[24图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        家具厂样品特价处理先到先得，电话010--61530893更多图片复制…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tongzhouqu/ershoujiaju/">通州</a><span> - </span>
+<a class="c_666" href="/tongzhouzhoubian/ershoujiaju/">通州周边</a>
+</span>
+<span name="zaixian_15007133004038"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_20324976474886_16492166925192_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQPWEOnWDvPWbzPHDOnM980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTYPHN1sak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=16492166925192&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=8&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12073708172021621125.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQPWEOnWDvPWbzPHDOnM980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTYPHN1sak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=16492166925192&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=8&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            紧急转让:实木家具、板式家具、沙发、餐桌、床、</a>
+<span class="ico ntu" title="">[24图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        紧急转让：全部高档实木家具、板式家具、沙发、餐桌等！家具贸易公司经营不…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/ershoujiaju/">丰台</a><span> - </span>
+<a class="c_666" href="/huaxiang/ershoujiaju/">花乡</a>
+</span>
+<span name="zaixian_20324976474886"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">1500</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_2_43523459_17830496356103_1_2_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP191njEOPWndPWDknL980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTQrjN3sak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17830496356103&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=9&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02245022450058845056.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP191njEOPWndPWDknL980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTQrjN3sak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17830496356103&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=9&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            免费送货 促销 全新民用家具,双人床,衣柜,沙</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[24图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        因库房搬迁成本价处理全新民用家具，有3000平米展厅，民用家具，办公家…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a>
+</span>
+<span name="zaixian_43523459"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">260</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_23002016382983_17830676983169_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP191njmLPWb3n1Dvrg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTOP1mOsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17830676983169&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=10&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12245040018836546094.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP191njmLPWb3n1Dvrg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTOP1mOsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17830676983169&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=10&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            个人转让 自家使用的家具 家电</a>
+<span class="ico ntu" title="">[17图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        个人转让 自家使用的 实木家具及家电 干净环保 图为实物
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/qinghe/ershoujiaju/">清河</a>
+</span>
+<span name="zaixian_23002016382983"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">800</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_0_23021839583751_17840468854919_1_0_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP19YnjEvrj9dPjbQrg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHm1n1b3sak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17840468854919&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=11&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12247424814942584096.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP19YnjEvrj9dPjbQrg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHm1n1b3sak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17840468854919&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=11&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            个人家里的家具电器转让</a>
+<span class="ico ntu" title="">[11图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        转让个人家里的家具电器
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/qinghe/ershoujiaju/">清河</a>
+</span>
+<span name="zaixian_23021839583751"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">800</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_2_10669969490439_17838712500995_1_2_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP191rj0QnWNknjbOPg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHbvPHmvsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17838712500995&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=12&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s02246077748332469065.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP191rj0QnWNknjbOPg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHbvPHmvsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17838712500995&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=12&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            家具特价销售:双人床、单人床、电视柜 餐桌椅橱</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[24图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        家具特价销售:双人床、单人床、电视柜 餐桌椅橱柜上下床、床垫、衣柜、电…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/xueyuanlu/ershoujiaju/">学院路</a>
+</span>
+<span name="zaixian_10669969490439"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_22791782582023_17725563886985_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP10zPHNvn193PWb3Pg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHTOPWmdsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17725563886985&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=13&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02231592578598283035.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP10zPHNvn193PWb3Pg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHTOPWmdsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17725563886985&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=13&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            家中使用的家具、电器等等全都转让</a>
+<span class="ico ntu" title="">[6图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        个人使用中的冰箱 洗衣机 电视 饮水机 双人床 衣柜 电视柜 拐角沙发…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/changping/ershoujiaju/">昌平</a><span> - </span>
+<a class="c_666" href="/huilongguan/ershoujiaju/">回龙观</a>
+</span>
+<span name="zaixian_22791782582023"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">600</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_1632710360327_17382459124106_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1n3nWEdrHDzPjDkPM980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWnQPHnLsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17382459124106&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=14&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12187679615190332056.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1n3nWEdrHDzPjDkPM980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWnQPHnLsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17382459124106&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=14&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            工厂直销:床、床垫、衣柜、沙发、电视柜、茶几、</a>
+<span class="ico ntu" title="">[24图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        
+临时租房朋友们现在居无定所没家具咋办呢？来“爱家租房家具店”吧厂家…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/changying/ershoujiaju/">常营</a>
+</span>
+<span name="zaixian_1632710360327"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元                    </td>
+<td class="tc">
+<p class="tb_pra"><a title="支付宝担保支付/收款,货款由支付宝保管" class="c_666" href="http://static.58.com/ui7/help/payment.html" target="_blank" rel="nofollow" style="cursor: hand"><i class="xb_icon_mi6"></i> 担保支付</a></p>
+</td>
+</tr>
+<tr logr="z_1_22639072098566_17649085224965_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1mYrHT3PHczPjbvPg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTvPWmvsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17649085224965&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=15&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12230131485183126115.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1mYrHT3PHczPjbvPg980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWTvPWmvsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17649085224965&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=15&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            个人转让家具,电器.九成新三居室的全部便宜转让</a>
+<span class="ico ntu" title="">[12图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        我家的家具使用了一年，换房不想搬走了便宜转了，有图有真相。具体面议。方…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/beishatan/ershoujiaju/">北沙滩</a>
+</span>
+<span name="zaixian_22639072098566"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">800</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_6188525312262_17416585829891_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1EQPWN3PH9zrH9Ong980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHb3n10Qsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17416585829891&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=16&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s02249233693510683126.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQP1EQPWN3PH9zrH9Ong980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnHb3n10Qsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=17416585829891&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=16&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            本公司双桥库房因库房积压物品成本价急甩双人床、</a>
+<span class="ico ntu" title="">[24图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        
+飞翔家具公司承诺如送达物品与照片不符可退还；因为库房挤压物品太多，…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/bjshuangqiao/ershoujiaju/">双桥</a>
+</span>
+<span name="zaixian_6188525312262"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">280</b> 元                    </td>
+<td class="tc">
+<p class="tb_pra"><a title="支付宝担保支付/收款,货款由支付宝保管" class="c_666" href="http://static.58.com/ui7/help/payment.html" target="_blank" rel="nofollow" style="cursor: hand"><i class="xb_icon_mi6"></i> 担保支付</a></p>
+</td>
+</tr>
+<tr logr="z_1_18511708286471_16547057099011_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQPWNYP1TdP1TOrHTQng980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWnknHNzsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=16547057099011&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=17&amp;param=&amp;platform=-1&amp;end=end" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s02197617510351745026.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiq-0MPCULRJpy7JIitQPWNYP1TdP1TOrHTQng980v6YUyk_na33PjmLrHTOPHTYPWT1PjcOnjnvPjmOnWc3nHNLP1cvPH0YsjDYnWnknHNzsak&amp;loggin_user_id=0&amp;disp_cate=508&amp;disp_local=1&amp;client_user_id=&amp;entityid=16547057099011&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620920623&amp;position=17&amp;param=&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            工厂店直销可定制实木家具板式家具大衣柜双人床子</a>
+<span class="ico ntu" title="">[24图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                        北京家具店专业销售定制批发各种实木家具和板式家具 品质高 价格低 款式…
+                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/ershoujiaju/">丰台</a><span> - </span>
+<a class="c_666" href="/bjkdq/ershoujiaju/">看丹桥</a>
+</span>
+<span name="zaixian_18511708286471"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">130</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_2_14082940967430_17871470062337_0_2_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871470062337x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250271071782177035.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871470062337x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                北京出售子母床 双人床 床垫 餐桌 衣柜 沙发</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[18图]</span>
+<i class="clear"></i>
+            子母床 双人床 床垫 餐桌 衣柜 沙发茶几 电脑桌椅 双人床
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+                
+                &nbsp;/ 1分钟
+			</span>
+<span name="zaixian_14082940967430"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_4932056291847_17871467616647_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871467616647x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s02250268724661363095.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871467616647x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                特价餐桌 大排档塑料桌椅 折叠桌 遮阳棚 太阳</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+            北京直销大排档桌椅 餐桌椅 对折大圆桌 折叠方圆桌 实木餐桌椅 钢化玻…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/ershoujiaju/">丰台</a><span> - </span>
+<a class="c_666" href="/liujiayao/ershoujiaju/">刘家窑</a>
+                
+                &nbsp;/ 1分钟
+			</span>
+<span name="zaixian_4932056291847"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">210</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_30530807_17871463304193_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871463304193x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250268591637221013.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871463304193x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                环保衣柜 两门三门衣柜环保材质 便宜出售</a>
+<span class="ico ntu" title="">[15图]</span>
+<i class="clear"></i>
+            北京环保衣柜 两门三门衣柜环保材质 便宜出售 两门衣柜规格有60*40…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/ershoujiaju/">丰台</a><span> - </span>
+<a class="c_666" href="/huaxiang/ershoujiaju/">花乡</a>
+                
+                &nbsp;/ 1分钟
+			</span>
+<span name="zaixian_30530807"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">260</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_2_14082940967430_17871459566470_0_2_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871459566470x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250269741811348045.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871459566470x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                铁艺上下床实木上下床子母床双层床单层床免费送货</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[13图]</span>
+<i class="clear"></i>
+            仓库销售铁艺上下床，实木上下床，子母床，双层床，单层床，衣柜，沙发，茶…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+                
+                &nbsp;/ 2分钟
+			</span>
+<span name="zaixian_14082940967430"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22944595878407_17863604618498_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17863604618498x.shtml" target="_blank"><img src="http://3.pic.58control.cn/mobile/tiny/n_s12249264347252800054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17863604618498x.shtml" target="_blank" class="t" tips="tips">
+                                婴儿床,实木婴儿床全新婴儿床</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            婴儿床全新婴儿床实木婴儿床
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tongzhouqu/ershoujiaju/">通州</a>
+                
+                &nbsp;/ 2分钟
+			</span>
+<span name="zaixian_22944595878407"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1800</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_11384239497991_17860210827267_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17860210827267x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12248827918124677065.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17860210827267x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                全新幼儿园课桌椅各种课桌椅学生桌 培训桌折叠桌</a>
+<span class="ico ntu" title="">[13图]</span>
+<i class="clear"></i>
+            全新幼儿园课桌椅各种课桌椅学生桌 培训桌折叠桌长条桌 双人全新幼儿园课…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/mentougou/ershoujiaju/">门头沟</a><span> - </span>
+<a class="c_666" href="/longquan/ershoujiaju/">龙泉</a>
+                
+                &nbsp;/ 3分钟
+			</span>
+<span name="zaixian_11384239497991"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">95</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22944595878407_17863504737546_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17863504737546x.shtml" target="_blank"><img src="http://2.pic.58control.cn/mobile/tiny/n_s12249268081283296156.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17863504737546x.shtml" target="_blank" class="t" tips="tips">
+                                餐椅实木椅子,榆木餐椅</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            北京制造结构牢固老榆木餐椅
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tongzhouqu/ershoujiaju/">通州</a>
+                
+                &nbsp;/ 3分钟
+			</span>
+<span name="zaixian_22944595878407"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">350</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_2804358786567_17871452945155_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871452945155x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250254844447562105.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871452945155x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                全新组合沙发皮革沙发 大茶几 餐桌椅电脑桌椅</a>
+<span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+            颜色鲜艳 做工精细 经久耐用 美观大方 此沙发床在以前的做工上又有更新…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xicheng/ershoujiaju/">西城</a><span> - </span>
+<a class="c_666" href="/fuchengmen/ershoujiaju/">阜成门</a>
+                
+                &nbsp;/ 3分钟
+			</span>
+<span name="zaixian_2804358786567"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">300</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22824791434247_17871448471297_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871448471297x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250265807817151084.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871448471297x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                我这又便宜家居甩卖,床。衣柜。梳妆台。电视柜。</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+            我这又便宜家居甩卖，床。衣柜。梳妆台。电视柜。餐桌。书柜。等一些好家居…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/changping/ershoujiaju/">昌平</a><span> - </span>
+<a class="c_666" href="/lishuiqiao/ershoujiaju/">立水桥</a>
+                
+                &nbsp;/ 3分钟
+			</span>
+<span name="zaixian_22824791434247"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">350</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_5139129911814_17871446647557_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871446647557x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250266484442811043.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871446647557x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                餐桌,带四把椅子</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            餐桌,带四把椅子。请自取。​
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xicheng/ershoujiaju/">西城</a><span> - </span>
+<a class="c_666" href="/fuchengmen/ershoujiaju/">阜成门</a>
+                
+                &nbsp;/ 4分钟
+			</span>
+<span name="zaixian_5139129911814"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">150</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_11384239497991_17850206778634_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17850206778634x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250267918058397035.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17850206778634x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                北京餐桌椅批发 大排档桌椅批发 餐厅桌椅 酒店</a>
+<span class="ico ntu" title="">[9图]</span>
+<i class="clear"></i>
+            北京餐桌椅批发 大排档桌椅批发 餐厅桌椅 酒店桌椅批发零售四环内免费送…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xicheng/ershoujiaju/">西城</a><span> - </span>
+<a class="c_666" href="/xizhimen/ershoujiaju/">西直门</a>
+                
+                &nbsp;/ 4分钟
+			</span>
+<span name="zaixian_11384239497991"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">380</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_34982422_16011725678851_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/16011725678851x.shtml" target="_blank"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/16011725678851x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                北京地毯批发零售地毯工厂</a>
+<i class="clear"></i>
+            北京顺利亿达展览展示有限公司是专业地毯批发零售工厂
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/guomao/ershoujiaju/">国贸</a>
+                
+                &nbsp;/ 1分钟
+			</span>
+<span name="zaixian_34982422"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">1</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_26058662_17871437897734_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871437897734x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250265511185937135.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871437897734x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                双人床、衣柜、沙发床 上下床衣柜特价床垫梳妆台</a>
+<span class="ico ntu" title="">[13图]</span>
+<i class="clear"></i>
+            双人床、单人床、子母床衣柜、沙发床 上下床衣柜特价双人床、单人床、子母…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/dongcheng/ershoujiaju/">东城</a><span> - </span>
+<a class="c_666" href="/dongzhimen/ershoujiaju/">东直门</a>
+                
+                &nbsp;/ 5分钟
+			</span>
+<span name="zaixian_26058662"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">260</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_7198788126982_17871437223681_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871437223681x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250266075792068025.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871437223681x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                厂家直销各种按摩床 美容床 足疗沙发 电动沙发</a>
+<span class="ico ntu" title="">[19图]</span>
+<i class="clear"></i>
+            厂家直销各种按摩床 美容床 足疗沙发 电动沙发 实木按摩床 针灸床 推…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/dongcheng/ershoujiaju/">东城</a><span> - </span>
+<a class="c_666" href="/beijingzhan/ershoujiaju/">北京站</a>
+                
+                &nbsp;/ 5分钟
+			</span>
+<span name="zaixian_7198788126982"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">1</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_4767300240390_17871433084678_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871433084678x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250265723635631056.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871433084678x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                特价租房全套家具双人床 单人床 大衣柜 上下床</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            衣柜 板材衣柜 实木衣柜 ，茶几，钢花玻璃餐桌带4把椅子，电视柜，鞋柜…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tongzhouqu/ershoujiaju/">通州</a><span> - </span>
+<a class="c_666" href="/linheli/ershoujiaju/">临河里</a>
+                
+                &nbsp;/ 5分钟
+			</span>
+<span name="zaixian_4767300240390"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_5538961164038_17871431443594_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871431443594x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250265062279152065.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871431443594x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                一木缘实木大衣柜</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            搬家转，一木缘实木大衣柜，宽2米，高2米。双开推拉门，下面有4个大抽屉
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/zhongguancun/ershoujiaju/">中关村</a>
+                
+                &nbsp;/ 6分钟
+			</span>
+<span name="zaixian_5538961164038"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">3500</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22364093_17870964668293_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17870964668293x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250203505904856113.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17870964668293x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                宜家电脑桌转让,因搬家带不走原价999现在30</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+            第一张图借宜家官网的图，两张大的160*80（300元），小的120*…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/shijingshan/ershoujiaju/">石景山</a>
+                
+                &nbsp;/ 6分钟
+			</span>
+<span name="zaixian_22364093"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">300</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_19517374235655_17702907296897_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17702907296897x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02228687867251005095.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17702907296897x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                个人急出售实木儿童床多张 多款 几乎全新 库存</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+            本人急欲出售儿童床多张 因库房有变动 所以全部赔钱处理 只需360元 …
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/changping/ershoujiaju/">昌平</a><span> - </span>
+<a class="c_666" href="/tiantongyuan/ershoujiaju/">天通苑</a>
+                
+                &nbsp;/ 6分钟
+			</span>
+<span name="zaixian_19517374235655"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">360</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_5139129911814_17871425293319_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871425293319x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250261034173929034.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871425293319x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                大床 箱床便宜卖了双人床350</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+            大床 箱床便宜卖了双人床 380​。请自取。西城万通附近。
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xicheng/ershoujiaju/">西城</a><span> - </span>
+<a class="c_666" href="/baiyunlu/ershoujiaju/">南礼士路</a>
+                
+                &nbsp;/ 6分钟
+			</span>
+<span name="zaixian_5139129911814"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">380</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_4767300240390_17871420855681_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871420855681x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250262962062548014.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871420855681x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                厂家出售家具、衣柜 双人床、上下床、衣柜、折叠</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            北京厂家出售各种家具，双人床，单人床，，五斗柜，床头柜，办公桌，电脑桌…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/changping/ershoujiaju/">昌平</a><span> - </span>
+<a class="c_666" href="/lishuiqiao/ershoujiaju/">立水桥</a>
+                
+                &nbsp;/ 7分钟
+			</span>
+<span name="zaixian_4767300240390"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">180</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_26991157_17871420522885_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871420522885x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250263695296738054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871420522885x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                特价甩卖家具,零售各种家具:双人床、上下床、床</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            特价甩卖家具，零售各种家具，价格便宜。结实，耐用，外观好看漂亮。一月保…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/gaobeidianbj/ershoujiaju/">高碑店</a>
+                
+                &nbsp;/ 7分钟
+			</span>
+<span name="zaixian_26991157"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">260</b> 元        </td>
+<td class="tc">
+<p class="tb_pra"><a title="支付宝担保支付/收款,货款由支付宝保管" class="c_666" href="http://static.58.com/ui7/help/payment.html" target="_blank" rel="nofollow" style="cursor: hand"><i class="xb_icon_mi6"></i> 担保支付</a></p>
+</td>
+</tr>
+<tr logr="p_1_23083699396103_17871415574274_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871415574274x.shtml" target="_blank"><img src="http://2.pic.58control.cn/mobile/tiny/n_s02250262892136613074.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871415574274x.shtml" target="_blank" class="t" tips="tips">
+                                单双人床,床垫,电脑桌椅有售</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            单双人床,床垫,电脑桌椅有售
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/annz/ershoujiaju/">安宁庄</a>
+                
+                &nbsp;/ 8分钟
+			</span>
+<span name="zaixian_23083699396103"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">550</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_11384239497991_17849774304643_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17849774304643x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250263542697577136.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17849774304643x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                连体餐桌椅简易餐桌椅实木餐桌椅钢化餐桌玻璃钢餐</a>
+<span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+            连体餐桌椅简易餐桌椅实木餐桌椅钢化餐桌连体餐桌椅简易餐桌椅实木餐桌椅钢…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chongwen/ershoujiaju/">崇文</a><span> - </span>
+<a class="c_666" href="/chongwenmen/ershoujiaju/">崇文门</a>
+                
+                &nbsp;/ 8分钟
+			</span>
+<span name="zaixian_11384239497991"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">350</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_8571019973894_17816681044232_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17816681044232x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12243253423802555065.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17816681044232x.shtml" target="_blank" class="t" tips="tips">
+                [7成新及以下]                9成新高端腾椅套懂行的来 另出售55寸LG电视</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+            电视机4000 电视柜500 
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/sijiqinghd/ershoujiaju/">四季青</a>
+                
+                &nbsp;/ 8分钟
+			</span>
+<span name="zaixian_8571019973894"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1500</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_26058662_17871407443586_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871407443586x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250261472120988156.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871407443586x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                双人床、床垫、上下床、折叠床、衣柜、电视柜电脑</a>
+<span class="ico ntu" title="">[9图]</span>
+<i class="clear"></i>
+            双人床、床垫、上下床、折叠床、衣柜、电视柜电脑桌沙发床 餐桌椅欢迎来电…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tongzhouqu/ershoujiaju/">通州</a><span> - </span>
+<a class="c_666" href="/wuyihuayuan/ershoujiaju/">武夷花园</a>
+                
+                &nbsp;/ 9分钟
+			</span>
+<span name="zaixian_26058662"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">260</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_7198788126982_17871403711105_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871403711105x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250262207776309056.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871403711105x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                北京环保床业 上下床生产 上下铺批发 学生床公</a>
+<span class="ico ntu" title="">[17图]</span>
+<i class="clear"></i>
+            北京批发销售全新上下床员工双层床高低床实木子母床特价免费送货厂家直销、…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/dongcheng/ershoujiaju/">东城</a><span> - </span>
+<a class="c_666" href="/dongzhimenwai/ershoujiaju/">东直门外</a>
+                
+                &nbsp;/ 9分钟
+			</span>
+<span name="zaixian_7198788126982"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">1</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_2_22975926465543_17848596287109_0_2_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17848596287109x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12247207902217271034.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17848596287109x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                学院桥库房搬迁;成本价急甩双人床、衣柜、沙发等</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[18图]</span>
+<i class="clear"></i>
+            我厂注重声明;明码标价是真实的,因库房搬迁,成本价处理居家家具、家用电…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+                
+                &nbsp;/ 11分钟
+			</span>
+<span name="zaixian_22975926465543"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_26058662_17871386909825_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871386909825x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250259914474974045.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871386909825x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                双人床 ,单人床,床垫,沙发, 上下床,衣柜等</a>
+<span class="ico ntu" title="">[9图]</span>
+<i class="clear"></i>
+            双人床 ，单人床，床垫， 硬板床， 沙发， 上下床，衣柜各种租房家具和…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/daxing/ershoujiaju/">大兴</a><span> - </span>
+<a class="c_666" href="/yizhuang/ershoujiaju/">亦庄</a>
+                
+                &nbsp;/ 11分钟
+			</span>
+<span name="zaixian_26058662"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">350</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_11384239497991_17849912392586_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17849912392586x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s02250259284168265134.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17849912392586x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                厂家直销餐桌餐椅,玻璃钢餐桌餐椅,餐厅餐桌椅,</a>
+<span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+            厂家直销餐桌餐椅,大排档餐桌餐椅,餐厅餐桌椅,四连厂家直销餐桌餐椅,大…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/shuangyushu/ershoujiaju/">双榆树</a>
+                
+                &nbsp;/ 12分钟
+			</span>
+<span name="zaixian_11384239497991"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">280</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_2_5415276196102_17395434384257_0_2_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17395434384257x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12221725603285622096.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17395434384257x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                包邮秒杀租房全套家具 双人床 沙发 大衣柜 电</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            图片不能一一展示看更多图片请加QQ;626216289 也可拨打电话订…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/jinsong/ershoujiaju/">劲松</a>
+                
+                &nbsp;/ 12分钟
+			</span>
+<span name="zaixian_5415276196102"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">350</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_22692253412103_17680050448520_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17680050448520x.shtml" target="_blank"><img src="http://2.pic.58control.cn/mobile/tiny/n_s12225763625340932135.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17680050448520x.shtml" target="_blank" class="t" tips="tips">
+                                挥泪低价转让纯实木穿鞋凳鞋架</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+            因新家门口没有地方放，现挥泪低价转了，12年在特力屋买的，九成新，表面…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/ershoujiaju/">丰台</a><span> - </span>
+<a class="c_666" href="/liujiayao/ershoujiaju/">刘家窑</a>
+                
+                &nbsp;/ 13分钟
+			</span>
+<span name="zaixian_22692253412103"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">210</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_4767300240390_17871372452097_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871372452097x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s02250257689952959025.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871372452097x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                北京家具出售各种双人床,单人床,上下床,衣柜,</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+             厂家直销时尚实木上下床 实木子母床 实木家具 高档实木双人床质量保证…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/changping/ershoujiaju/">昌平</a><span> - </span>
+<a class="c_666" href="/dongxiaokou/ershoujiaju/">东小口</a>
+                
+                &nbsp;/ 13分钟
+			</span>
+<span name="zaixian_4767300240390"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">180</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_26991157_17871369597189_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871369597189x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250257408952180055.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871369597189x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                双人床 ,单人床,床垫,沙发, 上下床,衣柜等</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            双人床，大衣柜，餐桌椅，书柜，免费送货1。；我厂做的家具，用的都是好板…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/ershoujiaju/">丰台</a><span> - </span>
+<a class="c_666" href="/xinfadi/ershoujiaju/">新发地</a>
+                
+                &nbsp;/ 14分钟
+			</span>
+<span name="zaixian_26991157"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">260</b> 元        </td>
+<td class="tc">
+<p class="tb_pra"><a title="支付宝担保支付/收款,货款由支付宝保管" class="c_666" href="http://static.58.com/ui7/help/payment.html" target="_blank" rel="nofollow" style="cursor: hand"><i class="xb_icon_mi6"></i> 担保支付</a></p>
+</td>
+</tr>
+<tr logr="p_1_11384239497991_17871365276163_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871365276163x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250256590492312156.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871365276163x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                销售铁艺上下床实木上下床子母床双层床单层床免费</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+            仓库销售铁艺上下床，实木上下床，子母床，双层床，单层床，衣柜，沙发，茶…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/shifoying/ershoujiaju/">石佛营</a>
+                
+                &nbsp;/ 14分钟
+			</span>
+<span name="zaixian_11384239497991"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">280</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_26058662_17871361903497_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871361903497x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250256714485720123.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871361903497x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                促销床垫、双人床、实木床、沙发、衣柜、桌椅家具</a>
+<span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+            实木床、沙发、衣柜、桌椅家具租房首选单双人床、床垫、上下床、折叠床、衣…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/daxing/ershoujiaju/">大兴</a><span> - </span>
+<a class="c_666" href="/yizhuang/ershoujiaju/">亦庄</a>
+                
+                &nbsp;/ 15分钟
+			</span>
+<span name="zaixian_26058662"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">260</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_16016074_17871355228929_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871355228929x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s02250254395066768095.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871355228929x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                出售上下床 双层床 员工床子母床 上下铺 高低</a>
+<span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+            上下床专业生产加工基地，本厂常年直销各种学生床，员工床，上下铺，采用优…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/jianwaidajie/ershoujiaju/">建外大街</a>
+                
+                &nbsp;/ 15分钟
+			</span>
+<span name="zaixian_16016074"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">300</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22869107962118_17871352791298_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871352791298x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250253885342003006.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871352791298x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                又便宜双人床、三开门两开门衣柜、折叠沙发、惨桌</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+            有便 宜三开门两开门衣柜、折叠沙发、餐桌椅、双人床等家具，搬 迁、着 …
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/tuanjiehu/ershoujiaju/">团结湖</a>
+                
+                &nbsp;/ 16分钟
+			</span>
+<span name="zaixian_22869107962118"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">260</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_21665787163142_17871348625161_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871348625161x.shtml" target="_blank"><img src="http://4.pic.58control.cn/mobile/tiny/n_s12250253286720043005.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871348625161x.shtml" target="_blank" class="t" tips="tips">
+                                低价出售1.8/2米双人床</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            低价出售双人床，布艺床头可拆洗，带床箱，需要的朋友电话联系吧！附近可送…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/dongba/ershoujiaju/">东坝</a>
+                
+                &nbsp;/ 16分钟
+			</span>
+<span name="zaixian_21665787163142"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">850</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_6313307994375_17871347735050_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871347735050x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250252239504159006.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871347735050x.shtml" target="_blank" class="t" tips="tips">
+                [7成新及以下]                9成新穿衣镜 试衣镜转让</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+            镜子可以拆卸，自取，见面取货
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/daxing/ershoujiaju/">大兴</a><span> - </span>
+<a class="c_666" href="/jiugong/ershoujiaju/">旧宫 </a>
+                
+                &nbsp;/ 16分钟
+			</span>
+<span name="zaixian_6313307994375"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">50</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_7198788126982_17871342042245_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871342042245x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250254330724929016.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871342042245x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                批发实木子母床上下床 高低床 高低铺 双层床</a>
+<span class="ico ntu" title="">[15图]</span>
+<i class="clear"></i>
+            厂出售床类；双人床 板床 席梦思床 折叠床 铁艺床 高箱床 单人床 上…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chongwen/ershoujiaju/">崇文</a><span> - </span>
+<a class="c_666" href="/chongwenmen/ershoujiaju/">崇文门</a>
+                
+                &nbsp;/ 17分钟
+			</span>
+<span name="zaixian_7198788126982"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">1</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_36954430_17871331080840_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871331080840x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250251337711963005.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871331080840x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                厂家直销 上下床 双人床 实木上下床 沙发 衣</a>
+<span class="ico ntu" title="">[18图]</span>
+<i class="clear"></i>
+            厂家直销 上下床 双人床 实木上下床 沙发 衣柜，家具出售各种双人床，…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/anzhenqiao/ershoujiaju/">安贞</a>
+                
+                &nbsp;/ 19分钟
+			</span>
+<span name="zaixian_36954430"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">180</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_4767300240390_17871323533699_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871323533699x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250251749394148054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871323533699x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                子母床 双人床 床垫 餐桌 衣柜 沙发茶几 电</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            出售实木上下床,母子床，双人床，单人床，衣柜，书柜等实木家具。床 衣柜…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tongzhouqu/ershoujiaju/">通州</a><span> - </span>
+<a class="c_666" href="/guoyuan/ershoujiaju/">果园</a>
+                
+                &nbsp;/ 20分钟
+			</span>
+<span name="zaixian_4767300240390"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">180</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_2_14082940967430_17871317009416_0_2_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871317009416x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250251470915386074.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871317009416x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                销售铁艺上下床实木上下床子母床双层床单层床免费</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[16图]</span>
+<i class="clear"></i>
+            仓库销售铁艺上下床，实木上下床，子母床，双层床，单层床，衣柜，沙发，茶…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+                
+                &nbsp;/ 20分钟
+			</span>
+<span name="zaixian_14082940967430"></span>
+<span class="fl ml5 biz">
+												  						  	[网邻通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_2804358786567_17871313717889_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871313717889x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250249606466017084.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871313717889x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                足疗床 美容床 按摩床 美甲沙发可定做颜色</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            库房促销 足疗床 美容床 按摩床 美甲沙发可定做颜色款式齐全价格最低质…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/guangqumen/ershoujiaju/">广渠门</a>
+                
+                &nbsp;/ 21分钟
+			</span>
+<span name="zaixian_2804358786567"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">480</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_2337667578631_17871304109065_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871304109065x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250248563738018054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871304109065x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                直销各种家具:双人床、上下床、衣柜、电脑桌、餐</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            直销各种家具:双人床、上下床、衣柜、电脑桌、餐桌等,免费送货 
+直销…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/sijiqinghd/ershoujiaju/">四季青</a>
+                
+                &nbsp;/ 22分钟
+			</span>
+<span name="zaixian_2337667578631"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_11411671229703_17871301267849_0_0_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871301267849x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s02250248483817350064.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871301267849x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                餐桌低价转让</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+            新家装修转让餐桌和6把餐椅
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/shaoyaoju/ershoujiaju/">芍药居</a>
+                
+                &nbsp;/ 23分钟
+			</span>
+<span name="zaixian_11411671229703"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">5000</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_4767300240390_17871285819141_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871285819141x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250246241372414066.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871285819141x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                特价沙发 床垫 双人床、实木床、沙发、衣柜、桌</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            床垫北京出双人、床垫、上下床、折叠床、衣柜、沙发 席梦思床垫首选单双人…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tongzhouqu/ershoujiaju/">通州</a><span> - </span>
+<a class="c_666" href="/linheli/ershoujiaju/">临河里</a>
+                
+                &nbsp;/ 25分钟
+			</span>
+<span name="zaixian_4767300240390"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">220</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_19058199_17871285155205_0_1_1">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871285155205x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12051783813957049054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871285155205x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                实木家具厂家定制,老榆木,楠木白蜡,红木等纯实</a>
+<span class="ico ntu" title="">[18图]</span>
+<i class="clear"></i>
+            北京博林实木家具定制厂专业承接老榆木，楠木，橡木，白蜡，水曲柳，红木，…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/ershoujiaju/">朝阳</a><span> - </span>
+<a class="c_666" href="/bjshuangqiao/ershoujiaju/">双桥</a>
+                
+                &nbsp;/ 25分钟
+			</span>
+<span name="zaixian_19058199"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">15000</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_2337667578631_17871284860545_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871284860545x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s02250245664309737016.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871284860545x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                出售双人床、板床、大衣柜、折叠床、铁床、高箱床</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            出售双人床、板床、大衣柜、折叠床、铁床、高箱床
+出售双人床、板床、大…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/ershoujiaju/">海淀</a><span> - </span>
+<a class="c_666" href="/zizhuqiao/ershoujiaju/">紫竹桥</a>
+                
+                &nbsp;/ 25分钟
+			</span>
+<span name="zaixian_2337667578631"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">200</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_4767300240390_17871270517126_0_1_0">
+<td class="img"><a href="http://bj.58.com/ershoujiaju/17871270517126x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250245085497723096.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/ershoujiaju/17871270517126x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                特价销售…北京便宜双人床、衣柜、沙发床上下床铁</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+            厂家直销民用家具双人床 席梦思床 实木床 实木子母床 衣柜 橱柜 折叠…
+            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/changping/ershoujiaju/">昌平</a><span> - </span>
+<a class="c_666" href="/huilongguan/ershoujiaju/">回龙观</a>
+                
+                &nbsp;/ 27分钟
+			</span>
+<span name="zaixian_4767300240390"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						            </span>
+</td>
+<td class="tc">
+<b class="pri">220</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+</table>
+<!-- =E tbimg/tbtxt -->
+<!-- =S 底部精准推广显示 -->
+<div class="pr">
+<table id="jingzhunzhineng" jingzhun="0" zhineng="0" class="tbimg tbimg_jz" cellspacing="0" cellpadding="0">
+<col class="" />
+<col />
+<col class="w100" /> <col class="w100" />
+<tr logr="b_2_16261812_17293236899336_11_2_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HDvnWmQrjDzFhP_pv-b5HN1P19YnA7bsHF-PH9VPAnOPadBmHw-sHRhuW-hn1-WPHmOniukpyEqPau-UMwGujYQP1cOn1c1PW9OrHn1PBu-UMwY0jYkFMKzpyP-5HDYniuzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLnWb1nWnvrjbOn1nvXaO1pZwVUaubpgPkULnqnzu1IyFGujYdPHbYnWnkFhPzuy7YuyEqPHNOnjc1nzukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHELFh7BIjd6&amp;pageLocation=1" target="_blank" data-addtype="level4"><img src="http://img6.58.com/bidding/tiny/n_s12230540452630288145.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HDvnWmQrjDzFhP_pv-b5HN1P19YnA7bsHF-PH9VPAnOPadBmHw-sHRhuW-hn1-WPHmOniukpyEqPau-UMwGujYQP1cOn1c1PW9OrHn1PBu-UMwY0jYkFMKzpyP-5HDYniuzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLnWb1nWnvrjbOn1nvXaO1pZwVUaubpgPkULnqnzu1IyFGujYdPHbYnWnkFhPzuy7YuyEqPHNOnjc1nzukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHELFh7BIjd6&amp;pageLocation=1" target="_blank" class="t" data-addtype="level4">
+                        优惠价促销各类民用板式家具</a><span class="ico area">
+</span><span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[24图]</span>
+<a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                      各类板式家具厂家直销
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="fl">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+		                    		                		
+		                &nbsp;/ 今天
+            		</span>
+<span name="zaixian_16261812"></span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="b_2_20515249143047_289348167303282688_11_2_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HckPHDdnWEOnHE1njELFhP_pv-b5ymLP1KhPWw-syndnhEVPjFbnad6mWm1sHwWnvcOnHcdmyc1naukpyEqPau-UMwGujYzrjb1Pj9QPW01njnzrjcvrj9huyOYIZTqnzuk0h-WuHYQPWEh0hRbpgcqpZwY0jCfsvGJmvQJpB3draOWUvY8mv3huA-10Aq15Hch0LRBpyEqPjbvPjT1rauW0hR6IARb5HEOPWTkPj9h0A7zmydGujYhuA-1mvDqPHT3FMP-UAuWmHYdnj9huA-1UAtqniu1uyQhUAtqniuQ5HDdnBu6mMEqmE&amp;pageLocation=1" target="_blank" data-addtype="level4"><img src="http://img1.58.com/bidding/tiny/n_s12088795202359281153.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HckPHDdnWEOnHE1njELFhP_pv-b5ymLP1KhPWw-syndnhEVPjFbnad6mWm1sHwWnvcOnHcdmyc1naukpyEqPau-UMwGujYzrjb1Pj9QPW01njnzrjcvrj9huyOYIZTqnzuk0h-WuHYQPWEh0hRbpgcqpZwY0jCfsvGJmvQJpB3draOWUvY8mv3huA-10Aq15Hch0LRBpyEqPjbvPjT1rauW0hR6IARb5HEOPWTkPj9h0A7zmydGujYhuA-1mvDqPHT3FMP-UAuWmHYdnj9huA-1UAtqniu1uyQhUAtqniuQ5HDdnBu6mMEqmE&amp;pageLocation=1" target="_blank" class="t" data-addtype="level4">
+                        紧急转让：高端实木家具、沙发、床、衣柜、餐桌</a><span class="ico area">
+</span><span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[1图]</span>
+<a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                      榆木家具、橡木家具、海棠木家具、沙发、餐桌、茶几、床、衣柜
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="fl">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+		                    		                		
+		                &nbsp;/ 今天
+            		</span>
+<span class="youxuan">
+<a href="http://about.58.com/youxuan/youxuan.html" target="_blank">
+<img src="http://pic2.58.com/ui7/ershou/youxuan.png" />
+</a>
+</span>
+<span name="zaixian_20515249143047"></span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="b_2_22975926465543_17847571569286_11_2_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HczrH0drHcvPjmdPHE1FhP_pv-b5yPWnycOrHb3sHE3rAEVPAcOPzdBrHnksymznvFBnj6bnym1PzukpyEqPau-UMwGujYQP19YP1NLnHNvrHc3PBu-UMwY0jYkFMKzpyP-5HcQnauzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLrjELPH0QPHmOnW9vXaO1pZwVUaubpgPkULnqniu1IyFGujYvnWn3nWEOFhPzuy7YuyEqPWc1PjcdniukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHEzFh7BIjd6&amp;pageLocation=1" target="_blank" data-addtype="level4"><img src="http://img7.58.com/bidding/tiny/n_s02247212744805062084.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZu5RbO1mY7bRbGiP1KnUgRuEy0huA-1pyEqnHTvnAcYPAcVnjP-riYYn176syDOnvmVPhNkmW0dmhDQmW-WFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjbQrH9znBuzuymqpZwY0jCfsvFJsWN3shPfUitksvRz0v6fIyGGmyGdFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYQnWE8nHDdsWDvra31rau-UMwY0jYkFMK60h7V5iuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HczrH0drHcvPjmdPHE1FhP_pv-b5yPWnycOrHb3sHE3rAEVPAcOPzdBrHnksymznvFBnj6bnym1PzukpyEqPau-UMwGujYQP19YP1NLnHNvrHc3PBu-UMwY0jYkFMKzpyP-5HcQnauzuywG0WdCIZwkrBtfmhC8PH98mvqVsvRz0v6fIyGGmyGds1DLrjELPH0QPHmOnW9vXaO1pZwVUaubpgPkULnqniu1IyFGujYvnWn3nWEOFhPzuy7YuyEqPWc1PjcdniukmgF6Uy-b5iubpgPWmHYdnj9h0vR_uhP65HNkraubpgP_U1YQFMP-UAu_U1YQFMDqnHEzFh7BIjd6&amp;pageLocation=1" target="_blank" class="t" data-addtype="level4">
+                        学院桥库房搬迁;成本价急甩双人床、衣柜、沙发等</a><span class="ico area">
+</span><span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[18图]</span>
+<a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                      我厂注重声明;明码标价是真实的,因库房搬迁,成本价处理居家家
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="fl">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+		                    		                		
+		                &nbsp;/ 今天
+            		</span>
+<span name="zaixian_22975926465543"></span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="b_2_16261812_17293236899336_11_2_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=Iy-b5HDvnWmQrjDzFhP6UgKGujYQnH01n10OFMPdmh-b5HNdrHEQnHDhuyOYpyEqnH0zrHnzn1m3rHb1n1mh0vR_uhQf5HDh0vR_uhP65HNdraubpgPGujYdPHPBPhuWnadhrHTvsHEQPvmVmWcLmiY3uHD1PhEznjnYnWDhuA-1IAYqnHnOrHmznjbznHDznaubpgP_U1YQFhwG0vP65HNkrau-UMwY0jYkFMKzpyP-5HNkFMuG0LRGujYhIh-1Iy-k5iuWUAVGujdhPj0zPjPWuaY3rjmYsHwBuHmVmWwbraYvnhRBPhmdryFbP1Nhmvqfpv--5iuzuywG0WdCIZwkFHPKFHFAFHFAmhC8PH98mvqVFHFAugF1pAqdph-6pMN-nbmQP1cOn1c1PW9OrHn1PM980v6YUykh0hRh5y6YIZT-nWN1EiNzPHFAFHcdnbuBpB3draOWUvY-nWNzwWT-nWNzwhRz0v6fIyGGmyGdFMP_ULEqUA-1IAGGUhIlpZR8ug6YFhwG0LKf01YYFh7BIjd6FMK_uWYVniudIAdx0vqd0hP-5iu10AYq" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/bidding/small/n_s12197554108727407006.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=Iy-b5HDvnWmQrjDzFhP6UgKGujYQnH01n10OFMPdmh-b5HNdrHEQnHDhuyOYpyEqnH0zrHnzn1m3rHb1n1mh0vR_uhQf5HDh0vR_uhP65HNdraubpgPGujYdPHPBPhuWnadhrHTvsHEQPvmVmWcLmiY3uHD1PhEznjnYnWDhuA-1IAYqnHnOrHmznjbznHDznaubpgP_U1YQFhwG0vP65HNkrau-UMwY0jYkFMKzpyP-5HNkFMuG0LRGujYhIh-1Iy-k5iuWUAVGujdhPj0zPjPWuaY3rjmYsHwBuHmVmWwbraYvnhRBPhmdryFbP1Nhmvqfpv--5iuzuywG0WdCIZwkFHPKFHFAFHFAmhC8PH98mvqVFHFAugF1pAqdph-6pMN-nbmQP1cOn1c1PW9OrHn1PM980v6YUykh0hRh5y6YIZT-nWN1EiNzPHFAFHcdnbuBpB3draOWUvY-nWNzwWT-nWNzwhRz0v6fIyGGmyGdFMP_ULEqUA-1IAGGUhIlpZR8ug6YFhwG0LKf01YYFh7BIjd6FMK_uWYVniudIAdx0vqd0hP-5iu10AYq" target="_blank" class="t" data-addtype="level4">
+                        优惠价促销各类民用板式家具</a><span class="ico area">
+</span><span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[24图]</span>
+<a class="ico zhineng" rel="nofollow" target="_blank" href="http://e.58.com/pas_zizhutuiguang"></a> <i class="clear"></i>
+                      本店可信用卡付款床系列：1米床：  低箱：240元
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="fl">
+<a class="c_666" href="/ershoujiaju/">北京</a>
+		                    		                		
+		                &nbsp;/ 今天
+            		</span>
+<span name="zaixian_16261812"></span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">面议</b> </td>
+<td class="tc">
+</td>
+</tr>
+</table>
+</div>
+<!-- =E 底部精准推广显示 -->
+<!-- =S bottom_google_ad -->
+<div id="guanggao"> <div id="taobao"></div>
+<div id="bottom_google_ad"></div>
+</div>
+<!-- =E bottom_google_ad -->
+</div>
+<!-- =S pager -->
+<div class="pager">
+<strong><span>1</span></strong><a href="/ershoujiaju/pn2/"><span>2</span></a><a href="/ershoujiaju/pn3/"><span>3</span></a><a href="/ershoujiaju/pn4/"><span>4</span></a><a href="/ershoujiaju/pn5/"><span>5</span></a><a href="/ershoujiaju/pn6/"><span>6</span></a><a href="/ershoujiaju/pn7/"><span>7</span></a><a href="/ershoujiaju/pn8/"><span>8</span></a><a href="/ershoujiaju/pn9/"><span>9</span></a><a href="/ershoujiaju/pn10/"><span>10</span></a><a href="/ershoujiaju/pn11/"><span>11</span></a><a href="/ershoujiaju/pn12/"><span>12</span></a><a class="next" href="/ershoujiaju/pn2/"><span>下一页</span></a>
+</div>
+<!-- =E pager -->
+<!-- =S infocont -->
+<div id="infocont" class="infocont">
+           		共 <span style="color: red"><b>138906</b></span> 条信息，
+           <a href="http://post.58.com/1/508/s5" target="_blank" class="pubbtn" rel="nofollow">马上发布一条北京二手家具信息&raquo;</a>
+</div>
+<!-- =E infocont -->
+<!-- =S RelatedSearch 相关搜索 -->
+<!-- =E RelatedSearch 相关搜索 -->
+<!--商业产品 广告-->
+<div id="bottom_zhaoshangjiameng_ad"></div>
+</div>
+<!-- =E infolist 左侧列表主体 -->
+<!-- =S rightframe 右侧广告 -->
+<!-- =S rightframe 右侧广告   class="cright"  -->
+<div id="rightframe">
+<div class="tiaocha">
+<a target="_blank" href="http://58tongcheng.sojump.com/jq/3171926.aspx">
+<img src="http://pic2.58.com/ui7/ershou/list/tiaocha.png" />
+</a>
+</div>
+<div class="act02_center">
+<p><img src="http://pic2.58.com/ui7/ershou/act/act2_center.png" /></p>
+<div class="zfb_list">
+<p><a rel="nofollow" target="_blank" href="http://static.58.com/ui7/help/payment.html?from=list-right-xiaobao"><img src="http://pic2.58.com/ui7/ershou/act/zfb_01.png" /></a></p>
+<ol>
+<li><a rel="nofollow" target="_blank" href="http://static.58.com/ui7/help/es_index.html?from=list-right-xiaobao"><i class="zfb_01"></i>保障服务</a></li>
+<li class="zfb_li"><a rel="nofollow" target="_blank" href="http://about.58.com/ershou/buyer.html?from=list-right-xiaobao#findwp-1"><i class="zfb_02"></i>交易流程</a></li>
+<li><a rel="nofollow" target="_blank" href="http://about.58.com/ershou/buyer.html?from=list-right-xiaobao#tiaoxuan"><i class="zfb_03"></i>常见问题</a></li>
+<li class="zfb_li"><a rel="nofollow" target="_blank" href="http://about.58.com/ershou/buyer.html?from=list-right-xiaobao#tuikuan"><i class="zfb_04"></i>售后权益</a></li>
+</ol>
+</div>
+<p><a href="http://static.58.com/ui7/help/safesj.shtml?from=list-right-safesj" target="_blank" rel="nofollow" onclick="clickLog('from=list-right-safesj');"><img src="http://pic2.58.com/ui7/ershou/act/qizha2.png" /></a></p>
+</div>
+<!--见面交易 E-->
+<div id="ad19"></div>
+</div>
+<!-- =E rightframe 右侧广告 --><!-- =E rightframe 右侧广告 -->
+</section>
+<!-- =E main -->
+<!-- =S 智能推广 -->
+<div id="direct_ad_bottom"></div>
+<!-- =E 智能推广 -->
+<!-- =S 底部广告 -->
+<div id="ad_b12"></div>
+<!-- =E 底部广告 -->
+<!-- =S #links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S relate 相关信息 -->
+<dl class="linksItem relate" id="relate">
+<dt class="b-left">
+<h2>北京二手家具相关信息</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%9C%A8%E5%BA%8A%E5%AE%B6%E5%85%B7/">北京二手木床家具</a></li>
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E5%AE%B6%E5%85%B7%E5%B0%BE%E8%B4%A7%E5%B8%82%E5%9C%BA/">北京家具尾货市场</a></li>
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E5%A4%84%E7%90%86%E6%A0%B7%E5%93%81%E5%AE%B6%E5%85%B7/">北京处理样品家具</a></li>
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E5%85%A8%E6%96%B0%E4%BA%8C%E6%89%8B%E5%AE%B6%E5%85%B7/">北京全新二手家具</a></li>
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E5%A4%96%E8%B4%B8%E5%AE%B6%E5%85%B7/">北京外贸家具</a></li>
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E5%AE%B6%E5%85%B7%E6%B8%85%E4%BB%93/">北京家具清仓</a></li>
+<li><a href="/ershoujiaju/jh_%E4%BA%8C%E6%89%8B%E5%AE%B6%E5%85%B7%E5%AE%B6%E5%B1%85%E4%B9%A6%E6%9F%9C/">二手家具家居书柜</a></li>
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E4%BE%BF%E5%AE%9C%E5%AE%B6%E5%85%B7/">北京便宜家具</a></li>
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E5%AE%B6%E5%85%B7%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8/">北京二手家具送货上门</a></li>
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E7%89%B9%E4%BB%B7%E5%AE%B6%E5%85%B7/">北京特价家具</a></li>
+<li><a href="/ershoujiaju/jh_%E5%8C%97%E4%BA%AC%E5%AE%B6%E5%85%B7%E6%97%A7%E8%B4%A7%E5%B8%82%E5%9C%BA/">北京家具旧货市场</a></li>
+<li><a href="/ershoujiaju/daohang_北京二手家具/" target="_blank">更多&gt;&gt;</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E relate 相关信息 -->
+<!-- =S relatelink -->
+<dl class="linksItem relatelink" id="relatelink">
+<dt class="b-left">
+<h2>北京二手家具品牌导航</h2></dt>
+<dd class="b-right">
+<dl id="relateSelect" class="relateSelect">
+<dt><span>卫浴用品</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手坐便器/" target="_blank">二手坐便器</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手马桶/" target="_blank">二手马桶</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手浴缸/" target="_blank">二手浴缸</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手地漏/" target="_blank">二手地漏</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手花洒/" target="_blank">二手花洒</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手座便器/" target="_blank">二手座便器</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手卫浴龙头/" target="_blank">二手卫浴龙头</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手洗脸盆/" target="_blank">二手洗脸盆</a>
+</dd>
+<dt><span>厨房用品</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手热水器/" target="_blank">二手热水器</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手水槽/" target="_blank">二手水槽</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手厨房橱柜/" target="_blank">二手厨房橱柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手厨房灶台/" target="_blank">二手厨房灶台</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手厨房设备/" target="_blank">二手厨房设备</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手炒锅/" target="_blank">二手炒锅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手压力锅/" target="_blank">二手压力锅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手奶锅/" target="_blank">二手奶锅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手汤锅/" target="_blank">二手汤锅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手蒸锅/" target="_blank">二手蒸锅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手煎锅/" target="_blank">二手煎锅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手水壶/" target="_blank">二手水壶</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手提锅/" target="_blank">二手提锅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手收纳盒/" target="_blank">二手收纳盒</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手菜板/" target="_blank">二手菜板</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手削皮器/" target="_blank">二手削皮器</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手榨汁机/" target="_blank">二手榨汁机</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手打蛋器/" target="_blank">二手打蛋器</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手保鲜盒/" target="_blank">二手保鲜盒</a>
+</dd>
+<dt><span>地板</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手实木地板/" target="_blank">二手实木地板</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手强化木地板/" target="_blank">二手强化木地板</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手强化复合地板/" target="_blank">二手强化复合地板</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手实木复合地板/" target="_blank">二手实木复合地板</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手竹地板/" target="_blank">二手竹地板</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手塑胶地板/" target="_blank">二手塑胶地板</a>
+</dd>
+<dt><span>家纺</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手四件套/" target="_blank">二手四件套</a>
+<a href="http://bj.58.com/jujia/pve_5765_408313/" target="_blank">二手被子</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手床单/" target="_blank">二手床单</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手休闲毯/" target="_blank">二手休闲毯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手枕头/" target="_blank">二手枕头</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手蚊帐/" target="_blank">二手蚊帐</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手凉席/" target="_blank">二手凉席</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手被套/" target="_blank">二手被套</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手毛巾/" target="_blank">二手毛巾</a>
+</dd>
+<dt><span>布艺</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手十字绣/" target="_blank">二手十字绣</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手刺绣/" target="_blank">二手刺绣</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手布艺窗帘/" target="_blank">二手布艺窗帘</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手纱窗绣/" target="_blank">二手纱窗绣</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手轨道/" target="_blank">二手轨道</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手罗马杆/" target="_blank">二手罗马杆</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手门帘/" target="_blank">二手门帘</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手地毯/" target="_blank">二手地毯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手地垫/" target="_blank">二手地垫</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手挂毯/" target="_blank">二手挂毯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手桌布/" target="_blank">二手桌布</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手靠垫/" target="_blank">二手靠垫</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手浴巾/" target="_blank">二手浴巾</a>
+</dd>
+<dt><span>床</span></dt>
+<dd>
+<a href="http://bj.58.com/shuanrenchuang/" target="_blank">二手双人床</a>
+<a href="http://bj.58.com/danrenchuang/" target="_blank">二手单人床</a>
+<a href="http://bj.58.com/chuangcengchuang/" target="_blank">二手双层床</a>
+<a href="http://bj.58.com/tongchuang/" target="_blank">二手童床</a>
+<a href="http://bj.58.com/zhediechuang/" target="_blank">二手折叠床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手保健按摩床/" target="_blank">二手保健按摩床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手皮艺床/" target="_blank">二手皮艺床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手实木床/" target="_blank">二手实木床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手布艺床/" target="_blank">二手布艺床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手板式床/" target="_blank">二手板式床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手沙发床/" target="_blank">二手沙发床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手铁艺床/" target="_blank">二手铁艺床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手钢木床/" target="_blank">二手钢木床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手子母床/" target="_blank">二手子母床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手高低床/" target="_blank">二手高低床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手婴儿床/" target="_blank">二手婴儿床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手罗汉床/" target="_blank">二手罗汉床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手平板床/" target="_blank">二手平板床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手软床/" target="_blank">二手软床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手架子床/" target="_blank">二手架子床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手保健床垫/" target="_blank">二手保健床垫</a>
+</dd>
+<dt><span>架子</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手衣帽架/" target="_blank">二手衣帽架</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手鞋架/" target="_blank">二手鞋架</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手书架/" target="_blank">二手书架</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手置物架/" target="_blank">二手置物架</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手晾衣架/" target="_blank">二手晾衣架</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手货架/" target="_blank">二手货架</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手陈列架/" target="_blank">二手陈列架</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手书报架/" target="_blank">二手书报架</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手毛巾架/" target="_blank">二手毛巾架</a>
+</dd>
+<dt><span>柜子</span></dt>
+<dd>
+<a href="http://bj.58.com/yigui/" target="_blank">二手衣柜</a>
+<a href="http://bj.58.com/dianshigui/" target="_blank">二手电视柜</a>
+<a href="http://bj.58.com/chuangbiangui/" target="_blank">二手床头柜</a>
+<a href="http://bj.58.com/shugui/" target="_blank">二手书柜</a>
+<a href="http://bj.58.com/guizi/pve_5765_408305/" target="_blank">二手鞋柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手餐边柜/" target="_blank">二手餐边柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手置物柜/" target="_blank">二手置物柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手玄关柜/" target="_blank">二手玄关柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手酒柜/" target="_blank">二手酒柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手橱柜/" target="_blank">二手橱柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手展柜/" target="_blank">二手展柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手储物柜/" target="_blank">二手储物柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手斗柜/" target="_blank">二手斗柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手展柜/" target="_blank">二手展柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手保险柜/" target="_blank">二手保险柜</a>
+</dd>
+<dt><span>桌子</span></dt>
+<dd>
+<a href="http://bj.58.com/canzhuo/" target="_blank">二手餐桌</a>
+<a href="http://bj.58.com/zhuolei/pve_5765_408309/" target="_blank">二手梳妆台</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手书桌/" target="_blank">二手书桌</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手电脑桌/" target="_blank">二手电脑桌</a>
+<a href="http://bj.58.com/xiezhizhuo/" target="_blank">二手写字桌</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手木桌/" target="_blank">二手木桌</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手塑料桌/" target="_blank">二手塑料桌</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手藤桌/" target="_blank">二手藤桌</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手办公桌/" target="_blank">二手办公桌</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手老板桌/" target="_blank">二手老板桌</a>
+</dd>
+<dt><span>椅子</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手电脑椅/" target="_blank">二手电脑椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手靠背椅/" target="_blank">二手靠背椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手电脑转椅/" target="_blank">二手电脑转椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手实木椅/" target="_blank">二手实木椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手皮椅/" target="_blank">二手皮椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手不锈钢椅子/" target="_blank">二手不锈钢椅子</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手摇椅/" target="_blank">二手摇椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手餐椅/" target="_blank">二手餐椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手换鞋椅子/" target="_blank">二手换鞋椅子</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手折叠椅/" target="_blank">二手折叠椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手扶椅/" target="_blank">二手扶椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手躺椅/" target="_blank">二手躺椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手办公椅/" target="_blank">二手办公椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手老板椅/" target="_blank">二手老板椅</a>
+</dd>
+<dt><span>沙发</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手布艺沙发/" target="_blank">二手布艺沙发</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手皮艺沙发/" target="_blank">二手皮艺沙发</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手沙发床/" target="_blank">二手沙发床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手实木沙发/" target="_blank">二手实木沙发</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手藤沙发/" target="_blank">二手藤沙发</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手贵妃椅/" target="_blank">二手贵妃椅</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手儿童沙发/" target="_blank">二手儿童沙发</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手铁艺沙发/" target="_blank">二手铁艺沙发</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手单人沙发/" target="_blank">二手单人沙发</a>
+</dd>
+<dt><span>灯饰</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手吊灯/" target="_blank">二手吊灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手吸顶灯/" target="_blank">二手吸顶灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手壁灯/" target="_blank">二手壁灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手落地灯/" target="_blank">二手落地灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手台灯/" target="_blank">二手台灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手室外灯饰/" target="_blank">二手室外灯饰</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手射灯/" target="_blank">二手射灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手台灯/" target="_blank">二手台灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手小夜灯/" target="_blank">二手小夜灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手筒灯/" target="_blank">二手筒灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手镜前灯/" target="_blank">二手镜前灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手橱柜灯/" target="_blank">二手橱柜灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手led灯/" target="_blank">二手led灯</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手荧光灯/" target="_blank">二手荧光灯</a>
+</dd>
+<dt><span>窗帘</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手布艺窗帘/" target="_blank">二手布艺窗帘</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手纱窗帘/" target="_blank">二手纱窗帘</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手卷帘/" target="_blank">二手卷帘</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手百叶帘/" target="_blank">二手百叶帘</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手电动窗帘/" target="_blank">二手电动窗帘</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手办公窗帘/" target="_blank">二手办公窗帘</a>
+</dd>
+<dt><span>简易家具</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手简易衣柜/" target="_blank">二手简易衣柜</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手简易衣橱/" target="_blank">二手简易衣橱</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手简易床/" target="_blank">二手简易床</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手简易桌/" target="_blank">二手简易桌</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手简易电脑桌/" target="_blank">二手简易电脑桌</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手简易折叠床/" target="_blank">二手简易折叠床</a>
+</dd>
+<dt><span>茶几</span></dt>
+<dd>
+<a href="http://bj.58.com/ershoujiaju/jh_二手实木茶几/" target="_blank">二手实木茶几</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手钢化玻璃茶几/" target="_blank">二手钢化玻璃茶几</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手玻璃茶几/" target="_blank">二手玻璃茶几</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手沙发茶几/" target="_blank">二手沙发茶几</a>
+<a href="http://bj.58.com/ershoujiaju/jh_二手欧式茶几/" target="_blank">二手欧式茶几</a>
+</dd>
+</dl>
+</dd>
+</dl>
+<script>
+            var alldt = $("#relateSelect&gt;dt");
+            function showNear(dt) {
+                alldt.each(function () {
+                    if (this == dt) {
+                        $(this).next("dd").show();
+                        $(this).addClass("select");
+                    }
+                    else {
+                        $(this).next("dd").hide();
+                        $(this).removeClass("select");
+                    }
+                });
+            }
+            alldt.each(function () {
+                $(this).click(function () {
+                    showNear(this);
+                }).hover(function () {
+                    showNear(this);
+                });
+            });
+            showNear(alldt[0]);
+        </script>
+<!-- =E relatelink -->
+<!-- =S friendtips -->
+<dl class="linksItem friendtips" id="friendtips">
+<dt class="b-left">
+<h2>北京二手家具频道介绍</h2></dt>
+<dd class="b-right"><p>北京二手家具频道为您提供北京二手家具转让/出售信息，在此有大量北京二手家具报价/图片/价格信息供您选择，您可以免费查看和发布北京二手家具信息。亦可用手机便捷访问<a href="http://m.58.com/bj/ershoujiaju/" target="_blank">北京二手家具</a>信息。</p></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>热门城市二手家具</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://sh.58.com/ershoujiaju/">上海二手家具</a></li>
+<li><a href="http://bj.58.com/ershoujiaju/">北京二手家具</a></li>
+<li><a href="http://sz.58.com/ershoujiaju/">深圳二手家具</a></li>
+<li><a href="http://gz.58.com/ershoujiaju/">广州二手家具</a></li>
+<li><a href="http://tj.58.com/ershoujiaju/">天津二手家具</a></li>
+<li><a href="http://nj.58.com/ershoujiaju/">南京二手家具</a></li>
+<li><a href="http://dl.58.com/ershoujiaju/">大连二手家具</a></li>
+<li><a href="http://hz.58.com/ershoujiaju/">杭州二手家具</a></li>
+<li><a href="http://sy.58.com/ershoujiaju/">沈阳二手家具</a></li>
+<li><a href="http://hrb.58.com/ershoujiaju/">哈尔滨二手家具</a></li>
+<li><a href="http://cd.58.com/ershoujiaju/">成都二手家具</a></li>
+<li><a href="http://dg.58.com/ershoujiaju/">东莞二手家具</a></li>
+<li><a href="http://jn.58.com/ershoujiaju/">济南二手家具</a></li>
+<li><a href="http://fs.58.com/ershoujiaju/">佛山二手家具</a></li>
+<li><a href="http://wx.58.com/ershoujiaju/">无锡二手家具</a></li>
+<li><a href="http://cs.58.com/ershoujiaju/">长沙二手家具</a></li>
+<li><a href="http://wh.58.com/ershoujiaju/">武汉二手家具</a></li>
+<li><a href="http://nb.58.com/ershoujiaju/">宁波二手家具</a></li>
+<li><a href="http://cc.58.com/ershoujiaju/">长春二手家具</a></li>
+<li><a href="http://su.58.com/ershoujiaju/">苏州二手家具</a></li>
+<li><a href="http://qd.58.com/ershoujiaju/">青岛二手家具</a></li>
+<li><a href="http://zh.58.com/ershoujiaju/">珠海二手家具</a></li>
+<li><a href="http://cq.58.com/ershoujiaju/">重庆二手家具</a></li>
+<li><a href="http://fz.58.com/ershoujiaju/">福州二手家具</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S 底部链接分类 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				北京二手家具相关分类			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a href="http://bj.58.com/shouji/">北京二手手机</a>
+</li>
+<li>
+<a href="http://bj.58.com/diannao/">北京二手电脑</a>
+</li>
+<li>
+<a href="http://bj.58.com/shuma/">北京二手数码产品</a>
+</li>
+<li>
+<a href="http://bj.58.com/jiadian/">北京二手家电</a>
+</li>
+<li>
+<a href="http://bj.58.com/ershoujiaju/">北京二手家具</a>
+</li>
+<li>
+<a href="http://bj.58.com/shoujihao/">
+北京手机号码转让</a>
+</li>
+<li>
+<a href="http://bj.58.com/tongxunyw/">北京通讯业务</a>
+</li>
+<li>
+<a href="http://bj.58.com/yingyou/">北京母婴玩具转让</a>
+</li>
+<li>
+<a href="http://bj.58.com/fushi/">北京服装箱包转让</a>
+</li>
+<li>
+<a href="http://bj.58.com/meirong/">北京美容化妆品转让</a>
+</li>
+<li>
+<a href="http://bj.58.com/tushu/">
+北京图书音像转让</a>
+</li>
+<li>
+<a href="http://bj.58.com/bangong/">北京办公设备转让</a>
+</li>
+<li>
+<a href="http://bj.58.com/ershoushebei/">北京二手设备</a>
+</li>
+<li>
+<a href="http://bj.58.com/yishu/">北京艺术收藏品转让</a>
+</li>
+<li>
+<a href="http://bj.58.com/wenti/">北京户外体育用品转让</a>
+</li>
+<li>
+<a href="http://bj.58.com/danche/">北京二手摩托车</a>
+</li>
+<li>
+<a href="http://bj.58.com/fzixingche/">北京二手自行车</a>
+</li>
+<li>
+<a href="http://bj.58.com/diandongche/">北京二手电动车</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 底部链接分类 -->
+<!-- =S 周边城市 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				北京二手家具周边城市
+			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a target="_blank" href="http://tj.58.com/ershoujiaju/">天津二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://sjz.58.com/ershoujiaju/">石家庄二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://zjk.58.com/ershoujiaju/">张家口二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://bd.58.com/ershoujiaju/">保定二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://lf.58.com/ershoujiaju/">廊坊二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://ts.58.com/ershoujiaju/">唐山二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://chengde.58.com/ershoujiaju/">承德二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://qhd.58.com/ershoujiaju/">秦皇岛二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://cangzhou.58.com/ershoujiaju/">沧州二手家具</a>
+</li>
+<li>
+<a target="_blank" href="http://hs.58.com/ershoujiaju/">衡水二手家具</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 周边城市 -->
+<!-- =S friendlink -->
+<dl class="linksItem friendlink" id="friendlink">
+<dt class="b-left">
+<h2>友情链接</h2></dt>
+<dd class="b-right"><a href="http://www.chinaida.com/" target="_blank">中国室内设计与装饰网</a>&nbsp;<a href="http://www.globaljj.cn/" target="_blank">环球家具在线</a>&nbsp;<a href="http://www.globaljj.com/" target="_blank">环球家居网</a>&nbsp;<a href="http://www.jx96.com" target="_blank">嘉兴装修网</a>&nbsp;<a href="http://www.bjcurio.com" target="_blank">吕家营古典家具</a>&nbsp;<a href="http://gaole.com" target="_blank">高乐家具网</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!-- =S 筛选保存个数 -->
+<ul id="localInfo" class="lso-hide" style="left: 1198.5px; top: 578px;">
+<li class="item"><a class="item-left" href="http://bj.58.com/dongcheng/shouji/pve_5595_300242/?v=1">东城二手手机300万像素</a><a class="off-button" href="#localInfo"></a></li>
+</ul>
+<!-- =E 筛选保存个数 -->
+<script type="text/javascript">
+    boot.require('util.uri', function (Frame, uri) {
+        var mutexs_par = "d1d2d3d4d5d6d7".substring(0, 1);
+        var re = new RegExp(mutexs_par + '\\d+', 'ig')
+        mutexs = [
+            {searchitem: re, params: ["minprice"], searthname: '价格'}
+        ];
+        for (var i = 0, leni = mutexs.length; i &lt; leni; i++) {
+            var mutex = mutexs[i];
+            var pobj = {};
+            for (var j = 0, lenj = mutex.params.length; j &lt; lenj; j++) {
+                pobj[mutex.params[j]] = null;
+            }
+            for (var l = 0, lenl = mutex.params.length; l &lt; lenl; l++) {
+                var pitem = $("#selection&gt;.secitem dt:contains(" + mutex.searthname + ")").parent();
+                pitem.find("a").each(function () {
+                    var o = {};
+                    o[mutex.params] = null;
+                    this.href = (new uri(this.href)).setQuery(o);
+                });
+            }
+        }
+    });
+</script>
+<script>
+    //信息hover
+    boot.require('dom, anim.hover', function (Frame, dom, hover) {
+        var isPersonal = false;
+        var cc;
+        if (isPersonal) {
+            cc = dom.get('hoverinfo');
+        }
+        else {
+            cc = dom.get('infolist');
+        }
+        trs = cc.getElementsByTagName('tr');
+        Frame.each(trs, function (item) {
+            hover.bind(item, 'bg');
+        });
+    });
+
+    $(".selector").each(function () {
+        $(this).hover(function () {
+            $(this).addClass("hover")
+        }, function () {
+            $(this).removeClass("hover")
+        });
+    });
+    ////导航
+    var navs = [];
+    navs.push(['北京58同城', 'http://bj.58.com/sou/']);
+    navs.push(['北京二手市场', '/sale.shtml']);
+            navs.push(['北京二手家具信息', '/ershoujiaju/']);
+                    boot.require('business.navbar', function (Frame, navbar) {
+        navbar.init(navs);
+    });
+    ///////标红////
+    boot.require('business.highlight', function (Frame, highlight) {
+                        highlight.init($("#infolist a.t"), '');
+            });
+</script>
+<script type="text/javascript">document.write("&lt;sc"+"ript src='http://track.58.com/adsys/ggafs?r="+Math.random()+"'&gt;&lt;/scri"+"pt&gt;");</script>
+<div style="display:none">
+<!--基本统计代码begin(5,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {level1:'0', level2:'0', level3:'0',  level4:'0', level5:'0', sortid: '448467335'};
+var _gaq = _gaq || [], site_name = "58", post_count = "79", page_type = "list";
+ _trackURL = "{'cate':'5,508','area':'1','pagetype':'list','pagesize':'50','pagenum':'1','jiage':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+boot.require('business.gaq, util.js', function (Frame, gaq, js) {
+	_gaq.push(['pageTracker._trackPageview', gaq("sale", "/bj/sale/ershoujiaju/list/")]);
+	_gaq.push(['pageTracker._trackPageLoadTime']);
+	Frame.init(function () {
+		js.append(('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+		js.append('http://tracklog.58.com/referrer4.js');
+	});
+});
+</script>
+<!--基本统计代码end-->
+</div>
+<!-- =S 地域推荐功能 -->
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" name="myTest" align="middle">
+<param name="allowScriptAccess" value="always">
+</param><param name="movie" value="http://list.house.58.com/kanfangdan.swf">
+</param><param name="quality" value="high">
+<embed src="http://list.house.58.com/kanfangdan.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true" allowscriptaccess="always"></embed>
+</param></object>
+<!-- =E 地域推荐功能 -->
+<!-- =S 家电家具地域推荐添加统计功能 -->
+<script>
+window.onload=function ()
+{
+	var obj = document.getElementById("tabsbar");
+	var aA = obj.getElementsByTagName("a");
+	var i = 0;
+	for(i = 1; i &lt; aA.length; i++)
+	{
+		aA[i].onclick=function ()
+		{
+			if(____json4fe.catentry[1].listname == "jiadian")
+			{
+    			_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiadian/tab/']);
+			}else if(____json4fe.catentry[1].listname == "ershoujiaju")
+			{
+				_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/jiaju/tab/']);
+			}
+		};
+	};
+};
+</script>
+<!-- =E 家电家具地域推荐添加统计功能  -->
+</body>
+</html>

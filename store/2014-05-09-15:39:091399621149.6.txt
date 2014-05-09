@@ -1,0 +1,2002 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="http://pic2.58.com/back/favicon.ico" />
+<title>发布香港二手车信息-香港58同城</title>
+<script type="text/javascript"> 
+var userid = '0'; 
+try { var ____json4fe = { catentry: [{ oid:'4', dispid: '4', name: '车辆买卖与服务', listname: 'car' }, { oid:'29', dispid: '29', name: '二手车', listname: 'ershouche' }, { dispid: '', name: '', listname: 'post5'}], locallist: { dispid: '2050', name: '香港', listname: 'hk' }, modules: 'postpage', ext: { uploadurl:'/flashupload/',locallist: { 'current':{ dispid: '2050', name: '香港', listname: 'hk' } , 'area':{dispid: '0', name: '', listname: ''}}} }} catch (e) { }; 
+</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/1.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/jquery1.3.2.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_postpage_version.js"> </script>
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css?version=20120821" media="all" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/prompt.css?version=20120821" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/post/postpublic.css?version=20120821" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/post/post-ui71.css?version=20140115" media="all" />
+<script type="text/javascript" src="http://static.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<script src="http://static.58.com/js/5_1/91/19h.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/91/35.js?v=0917"></script>
+<script type="text/javascript"> document.domain = "58.com";  var postpic_version = 'java';</script>
+<script type="text/javascript"> var myInfo = { infoID:'0', userid:0, loginstate:'', cityid:2050, dispCityid:2050, curDiscateid:29, rootCateName:'car', currentCateName:'ershouche', TopRoleMaxCount:0, CurrentPostCount:0, viewdata:{ baohushouji:''} };</script>
+<script type="text/javascript"> 
+var iqas_mcvalue = '1399621124355';var iqas_mcformula = 'function a(){var b="11096989445341399995927829";var c="";for(var d=b.length-1;d&gt;=0;d--){c+=b.charAt(d);}return "0"+c};try{a();}catch(e){}';$(function(){$("&lt;input name='iqas_mcresult' value='"+eval(iqas_mcformula.replace('checkValue', iqas_mcvalue))+"' / style='display:none'&gt;").appendTo($('#aspnetForm'));});
+</script></head>
+<body>
+<input type="hidden" id="templateTypes" value="commontemplate" />
+<script type="text/javascript">boot.require('business.topbar', function(Frame, topbar){topbar.init();});</script>
+<header id="header" style="height:58px">
+<h1 id="logo">
+<a href="http://www.58.com/" target="_blank"><img src="http://pic2.58.com/ui7/img/logo.gif" title="58同城" alt="58同城" />
+</a>
+</h1>
+<h2 class="sub_title"><b>香港</b>
+<a href="http://post.58.com/postindex.htm" class="changecity">切换城市</a>
+</h2>
+<div id="login"><a href="https://passport.58.com/login/?path=http%3A//post.58.com/" target="_self">登录</a>
+<span class="gap">|</span><a href="http://passport.58.com/reg/?city=post" target="_self">注册</a></div>
+</header>
+<section id="stepbar" class="step_n_2"><div class="step"> <ol class="cols3"><li class="step_1"><span class="num">1</span><span class="maintxt">二手车</span><span class="subtxt">（<a href="/2050">重选类别</a>）</span><span class="l"></span><span class="r"></span></li><li class="step_2"><span class="num">2</span><span class="maintxt">填写详情</span><span class="subtxt"></span><span class="l"></span><span class="r"></span></li><li class="step_3"><span class="num">3</span><span class="maintxt">发布成功</span><span class="l"></span><span class="r"></span></li></ol> </div></section>
+<div class="content">
+<div id="toperro" class="hc"></div>
+</div>
+<script type="text/javascript">
+document.domain="58.com";
+var paras={};
+</script>
+<form name="aspnetForm" method="post" target="formSubmit" id="aspnetForm" enctype="multipart/form-data">
+<div id="contentPost" class="mb15">
+<section class="expand">
+<table cellpadding="0" cellspacing="0" class="formTable" id="formTb">
+<colgroup>
+<col class="formTh" />
+<col />
+</colgroup>
+<tr style="height:40px;">
+<th class="pt18"><em class="red">*</em>品牌</th>
+<td><input type="text" id="pinPai" class="txt w140 wrong_color" value="" autocomplete="off" disableautocomplete="disableautocomplete" /></td>
+</tr>
+<tr class="formerpinpai">
+<th class="pt18"><em class="red">*</em>品牌</th>
+<td><a id="linkSelectCar" class="a_select" href="javascript:void(0);">请选择品牌<i></i></a></td>
+</tr>
+<tr para="zimu"></tr>
+<tr id="trWriting">
+<td class="pt18"></td>
+<td><div class="mt10">没有我需要的车系或车型，请在这里填写：
+		        <input type="text" except="" maxlength="20" name="erscpinpai" id="erscpinpai" value="" class="txt w106" f="{0}" /><span id="erscpinpai_Tip"></span>
+</div>
+</td>
+</tr>
+<tr para="rundistanceqj"></tr>
+<tr para="chelingqj"></tr>
+<!-- 上牌时间 -->
+<tr para="buytime"></tr>
+<!-- 上牌月份 -->
+<tr para="shangpaiyuefen"></tr>
+<!-- 购买来源 -->
+<tr para="buyfrom"></tr>
+<!-- 是否定期4S店保养 -->
+<tr para="baoyang"></tr>
+<!-- 是否运营车辆 -->
+<tr para="yunying"></tr>
+<!-- 有无重大事故(严重撞击、泡水、火烧等等) -->
+<tr para="shiguqk"></tr>
+<!-- 车辆外观成色 -->
+<tr para="chengse"></tr>
+<!-- 内饰状况 -->
+<tr para="neishi"></tr>
+<!-- 内饰故障 -->
+<tr para="neishiquexian"></tr>
+<!-- 商业险 -->
+<tr para="syxian"></tr>
+<!-- 证件齐全，可立即过户 -->
+<tr para="shouxu"></tr>
+<!-- 车身颜色 -->
+<tr para="cheshenyanse"></tr>
+<tr id="carIframeTR">
+<td colspan="2">
+<div class="post_frame01">
+<!-- &lt;iframe frameborder="0"  scrolling="no"  src="http://static.58.com/html/rsms/ershouche1.html" class="post_frame_inner01" name="carFrame_name" id="carframe_id" style="position:relative;"&gt;&lt;/iframe&gt; -->
+<script type="text/javascript"> 
+					var randomnumber=Math.floor(Math.random()*100000) 
+					document.write('&lt;iframe frameborder="0"  scrolling="no" allowTransparency="true"  src="http://static.58.com/html/rsms/ershouche1.html?randomnumber='+randomnumber+'" class="post_frame_inner01" name="carFrame_name" id="carframe_id"&gt;&lt;/iframe&gt;');
+                </script>
+</div>
+</td>
+</tr>
+<tr>
+<th>上传图片</th>
+<td>
+<div id="showCon" class="photoguider" style="display:none">
+<span id="codeCon"></span><a href="javascript:void(0)" class="phone_guide_close">关闭</a>
+<span class="wuly_58down"><em>*</em>云相机功能需要58客户端V3.0以上版本，<a href="http://wap.58.com/wap.html" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'post', 'click', '/download/APclient/']);">点此获取</a></span>
+</div>
+<div id="uploadImgcontainer" class="clearfix pre-z"></div>
+<div class="clearfix">
+<span><a class=" fl mr10 w_local" href="javascript:void(0)">
+<span id="flashContent"></span>
+<span style="z-index:10"><em></em>按住"Ctrl"可多选</span>
+</a></span>
+<!-- &lt;a class=" fl mr10 w_phone" href="javascript:void(0)" onClick="MOBILEUP.init({showCode:$('#showCon'),codeCon:$('#codeCon'),rootcate:'2050', smallcate:'29', vcode:'', infoid:'0'}); _gaq.push(['pageTracker._trackEvent', 'post', 'click', '/upload/cloud/']); "&gt;云相机拍照&lt;/a&gt; -->
+<span class="fl f12 c_ccc mr10"><span id="hazupinfo">已上传图片<b class="green mlr2 upnum">0</b>/<b class="c_666 mlr2 maxnum">0</b>，</span>第一张默认为封面,每张最大<span class="action_po_top" id="size_limit">10</span>MB,支持<span id="photo_type">jpg/gif/png</span>格式</span>
+<span id="upload_Tip"></span>
+</div>
+<div style="display:none;" id="imglist">
+<input type="hidden" id="pic" name="pic" value="" />
+<input type="hidden" id="pictag" name="pictag" value="" />
+<textarea id="picdesc1" name="picdesc1"></textarea>
+<textarea id="picdesc2" name="picdesc2"></textarea>
+<textarea id="picdesc3" name="picdesc3"></textarea>
+<textarea id="picdesc4" name="picdesc4"></textarea>
+<textarea id="picdesc5" name="picdesc5"></textarea>
+<textarea id="picdesc6" name="picdesc6"></textarea>
+<textarea id="picdesc7" name="picdesc7"></textarea>
+<textarea id="picdesc8" name="picdesc8"></textarea>
+</div><div class="images_upload_ex clearfix" style="display:none" id="uploadEx"><img src="http://pic2.58.com/ui7/che/post/img/image_upload_qiche.png" width="578" height="141" /></div>
+<!-- 原厂质保上传图片 -->
+<div class="clearfix upload_xsz_tit">
+<span>
+<input style="display: none" type="file" name="imageLoad" id="carloadimage" onchange="return ajaxFileUpload();" />
+<a id="carloadimageTrigger" class=" fl mr10 w_local2" href="javascript:void(0)">
+<img src="http://pic2.58.com/ui7/post/img/upload_driving_btn.png" alt="" />
+</a>
+</span>
+<span class="fl f12 c_ccc mr10">行驶证经58验证后，将得到验证标识；符合原厂质保的，将同时得到原厂质保标识</span>
+</div>
+<div class="images_upload_ex2 clearfix" id="chengUploadView">
+<img id="carPicUploadImgContain" src="http://pic2.58.com/ui7/che/post/img/piccard2.png" />
+</div>
+<div id="Picprompt" class="images_upload_meg"></div>
+</td>
+</tr>
+<tr>
+<th><em class="red">*</em>行驶里程</th>
+<td><div class="mb10">
+<input type="text" name="rundistance" value="" class="txt w106" f="{0}万元" id="rundistance" maxlength="6" except="" />
+                万公里 <span id="rundistance_Tip"></span> </div></td>
+</tr>
+<tr>
+<th><em class="red">*</em>转让价格</th>
+<td>
+<div class="mb10">
+<input type="text" except="" maxlength="6" id="MinPrice" f="{0}万元" class="txt w106" value="" name="MinPrice" /> 万元 <span class="ghfy_span"><input name="guohufeiyong" type="checkbox" id="guohufeiyong" value="553664" /><label for="guohufeiyong">&nbsp;包含过户费用</label></span>
+<span id="MinPrice_Tip"></span>
+</div>
+</td>
+</tr>
+<tr id="_hangqingtrID" style="display:none;"></tr>
+<tr para="MinPriceqj"></tr>
+<tr>
+<th class="pt18">标题</th>
+<td>
+<input type="text" value="" id="_preTitle" class="txt w400 w_bti" />
+</td>
+<input type="hidden" value="" id="Title" name="Title" />
+</tr>
+<tr>
+<th class="pt18">一句话广告</th>
+<td>
+<input type="text" value="" maxlength="15" id="titleEnd" class="txt w400" />
+<span id="titleEnd_Tip"></span>
+</td></tr>
+<tr>
+<th><em class="red">*</em>补充说明</th>
+<td>
+<div id="div_htmleditor"></div>
+<textarea id="Content" name="Content" class="txtarea w513"></textarea>
+<span id="Content_Tip"></span>
+<div id="divContentValue" style="display:none;"></div>
+</td>
+</tr>
+<tr>
+<th class="pt18"><em class="red">*</em>联系人</th>
+<td>
+<input type="text" name="goblianxiren" id="goblianxiren" value="" class="txt w106" except="" maxlength="6" /> &nbsp; <span style="display:none;">
+<input class="base" type="checkbox" value="1" name="IsBiz" />我是商家 </span><span id="goblianxiren_Tip"></span>
+				&nbsp;<label class="mr15" for=""><input type="radio" value="0" name="faburen" />个人</label>
+<label for=""><input type="radio" value="1" name="faburen" />商家</label>
+</td>
+</tr>
+<tr>
+<th class="pt18">
+<em class="red">*</em> 联系电话
+            </th>
+<td>
+<input class="txt w160" type="text" id="Phone" name="Phone" value="" except="" />
+<span id="Phone_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+</td>
+<td>
+<input type="hidden" name="type" value="0" />
+<input type="hidden" name="cspailiang" id="cspailiang" />
+<input type="hidden" name="biansuqi" id="biansuqi" />
+<!-- 事故描述 -->
+<input type="hidden" id="shigumiaoshu" name="shigumiaoshu" value="" />
+<!-- 车检时间 -->
+<input type="hidden" id="cjshijian" name="cjshijian" value="" />
+<!-- 强险时间 -->
+<input type="hidden" id="qxshijian" name="qxshijian" value="" />
+<!-- 商业险时间 -->
+<input type="hidden" id="syshijian" name="syshijian" value="" />
+<!-- 信息编号 -->
+<input type="hidden" id="xinxibianhao" name="xinxibianhao" value="" />
+<!-- 上传行驶证图片地址 -->
+<input type="hidden" id="yczbpic" name="yczbpic" value="" />
+<!-- 原厂质保 -->
+<input type="hidden" id="yczhibao" name="yczhibao" value="525381" />
+<!-- 消保属性 -->
+<input type="hidden" id="xbsx" name="xbsx" value="" />
+<!-- 上牌年月 -->
+<input type="hidden" id="shangpainianyue" name="shangpainianyue" value="" />
+<!-- 拼接当前表现类别、表现地域到5461供应用服务部使用 -->
+<input type="hidden" name="cateapplyed" id="cateapplyed" value="29" text="29" />
+<input type="hidden" name="localapplyed" id="localapplyed" value="2050" text="2050" />
+<!-- 是否付费发布 -->
+<input type="hidden" name="shifoufufeifabu" id="shifoufufeifabu" value="0" />
+<!-- 是否已售 -->
+<input type="hidden" name="shifouyishou" id="shifouyishou" value="0" />
+<!-- 排放标准 -->
+<input type="hidden" name="paifangbiaozhun" id="paifangbiaozhun" value="" />
+<input type="submit" id="fabu" class="post_car_submit" value="马上发布" ct="submit" />
+</td>
+</tr>
+</table>
+</section>
+</div>
+<div id="pinPaiWin" class="pinpai_win"> <a id="ppwinClose" class="ppwin_close" href="javascript:void(0)"></a>
+<div class="tit_sm">您可以直接选择品牌，也可以直接输入搜索！</div>
+<ul id="zmFenlei" class="zm_fenlei">
+<li class="curr"><a zm="remei" href="javascript:void(0)">热门</a></li>
+<li><a zm="a" href="javascript:void(0)">A</a></li>
+<li><a zm="b" href="javascript:void(0)">B</a></li>
+<li><a zm="c" href="javascript:void(0)">C</a></li>
+<li><a zm="d" href="javascript:void(0)">D</a></li>
+<li><a zm="f" href="javascript:void(0)">F</a></li>
+<li><a zm="g" href="javascript:void(0)">G</a></li>
+<li><a zm="h" href="javascript:void(0)">H</a></li>
+<li><a zm="j" href="javascript:void(0)">J</a></li>
+<li><a zm="k" href="javascript:void(0)">K</a></li>
+<li><a zm="l" href="javascript:void(0)">L</a></li>
+<li><a zm="m" href="javascript:void(0)">M</a></li>
+<li><a zm="n" href="javascript:void(0)">N</a></li>
+<li><a zm="o" href="javascript:void(0)">O</a></li>
+<li><a zm="p" href="javascript:void(0)">P</a></li>
+<li><a zm="q" href="javascript:void(0)">Q</a></li>
+<li><a zm="r" href="javascript:void(0)">R</a></li>
+<li><a zm="s" href="javascript:void(0)">S</a></li>
+<li><a zm="t" href="javascript:void(0)">T</a></li>
+<li><a zm="w" href="javascript:void(0)">W</a></li>
+<li><a zm="x" href="javascript:void(0)">X</a></li>
+<li><a zm="y" href="javascript:void(0)">Y</a></li>
+<li><a zm="z" href="javascript:void(0)">Z</a></li>
+<li><a zm="keche" href="javascript:void(0)">客车</a></li>
+<li><a zm="huoche" href="javascript:void(0)">货车</a></li>
+<li><a zm="mianbao" href="javascript:void(0)">面包车</a></li>
+<li><a zm="gongchengche" href="javascript:void(0)">工程车</a></li>
+<li><a zm="pica" href="javascript:void(0)">皮卡</a></li>
+</ul>
+<div id="fenLeiCon" class="fenleicon">
+<dl id="reMei" class="fenleilist clearfix" zm="remei" style="display:block;">
+<dd zm="d"><a href="javascript:void(0)">大众</a></dd>
+<dd zm="b"><a href="javascript:void(0)">本田</a></dd>
+<dd zm="f"><a href="javascript:void(0)">丰田</a></dd>
+<dd zm="b"><a href="javascript:void(0)">宝马</a></dd>
+<dd zm="r"><a href="javascript:void(0)">日产</a></dd>
+<dd zm="a"><a href="javascript:void(0)">奥迪</a></dd>
+<dd zm="b"><a href="javascript:void(0)">奔驰</a></dd>
+<dd zm="b"><a href="javascript:void(0)">别克</a></dd>
+<dd zm="x"><a href="javascript:void(0)">夏利</a></dd>
+<dd zm="q"><a href="javascript:void(0)">奇瑞</a></dd>
+<dd zm="m"><a href="javascript:void(0)">马自达</a></dd>
+<dd zm="x"><a href="javascript:void(0)">现代</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福特</a></dd>
+<dd zm="x"><a href="javascript:void(0)">雪佛兰</a></dd>
+<dd zm="x"><a href="javascript:void(0)">雪铁龙</a></dd>
+<dd zm="b"><a href="javascript:void(0)">标致</a></dd>
+<dd zm="s"><a href="javascript:void(0)">三菱</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长城</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江淮</a></dd>
+<dd zm="l"><a href="javascript:void(0)">铃木</a></dd>
+<dd zm="q"><a href="javascript:void(0)">起亚</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福田</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长安</a></dd>
+<dd zm="b"><a href="javascript:void(0)">比亚迪</a></dd>
+<dd zm="j"><a href="javascript:void(0)">吉利</a></dd>
+<dd zm="y"><a href="javascript:void(0)">一汽</a></dd>
+<dd zm="j"><a href="javascript:void(0)">金杯</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东南</a></dd>
+<dd zm="h"><a href="javascript:void(0)">海马</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="a">
+<dd zm="a"><a href="javascript:void(0)">奥迪</a></dd>
+<dd zm="a"><a href="javascript:void(0)">奥克斯</a></dd>
+<dd zm="a"><a href="javascript:void(0)">阿尔法·罗密欧</a></dd>
+<dd zm="a"><a href="javascript:void(0)">阿斯顿·马丁</a></dd>
+<dd zm="a"><a href="javascript:void(0)">安驰</a></dd>
+<dd zm="a"><a href="javascript:void(0)">安凯</a></dd>
+<dd zm="a"><a href="javascript:void(0)">安源</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="b">
+<dd zm="b"><a href="javascript:void(0)">本田</a></dd>
+<dd zm="b"><a href="javascript:void(0)">别克</a></dd>
+<dd zm="b"><a href="javascript:void(0)">宝马</a></dd>
+<dd zm="b"><a href="javascript:void(0)">比亚迪</a></dd>
+<dd zm="b"><a href="javascript:void(0)">奔驰</a></dd>
+<dd zm="b"><a href="javascript:void(0)">标致</a></dd>
+<dd zm="b"><a href="javascript:void(0)">保时捷</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北汽</a></dd>
+<dd zm="b"><a href="javascript:void(0)">奔腾</a></dd>
+<dd zm="b"><a href="javascript:void(0)">宝龙</a></dd>
+<dd zm="b"><a href="javascript:void(0)">宾利</a></dd>
+<dd zm="b"><a href="javascript:void(0)">宝骏</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北京汽车</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北京牌</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北奔重汽</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北方</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北方奔驰</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北汽皮卡</a></dd>
+<dd zm="b"><a href="javascript:void(0)">巴博斯</a></dd>
+<dd zm="b"><a href="javascript:void(0)">布嘉迪</a></dd>
+<dd zm="b"><a href="javascript:void(0)">百路佳</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="c">
+<dd zm="c"><a href="javascript:void(0)">长安</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长城</a></dd>
+<dd zm="c"><a href="javascript:void(0)">昌河</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长丰</a></dd>
+<dd zm="c"><a href="javascript:void(0)">川汽野马</a></dd>
+<dd zm="c"><a href="javascript:void(0)">叉车</a></dd>
+<dd zm="c"><a href="javascript:void(0)">川牧</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长安客车</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长安跨越</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长安重汽</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长征</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="d">
+<dd zm="d"><a href="javascript:void(0)">大众</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东南</a></dd>
+<dd zm="d"><a href="javascript:void(0)">DS</a></dd>
+<dd zm="d"><a href="javascript:void(0)">大宇</a></dd>
+<dd zm="d"><a href="javascript:void(0)">大通</a></dd>
+<dd zm="d"><a href="javascript:void(0)">帝豪</a></dd>
+<dd zm="d"><a href="javascript:void(0)">道奇</a></dd>
+<dd zm="d"><a href="javascript:void(0)">大迪</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风风神</a></dd>
+<dd zm="d"><a href="javascript:void(0)">大发</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风商用车</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风日产柴</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风柳汽</a></dd>
+<dd zm="d"><a href="javascript:void(0)">大宇客车</a></dd>
+<dd zm="d"><a href="javascript:void(0)">大运汽车</a></dd>
+<dd zm="d"><a href="javascript:void(0)">达夫</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="f">
+<dd zm="f"><a href="javascript:void(0)">丰田</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福田</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福特</a></dd>
+<dd zm="f"><a href="javascript:void(0)">菲亚特</a></dd>
+<dd zm="f"><a href="javascript:void(0)">风行</a></dd>
+<dd zm="f"><a href="javascript:void(0)">法拉利</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福迪</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福汽启腾</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福田客车</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="g">
+<dd zm="g"><a href="javascript:void(0)">光冈</a></dd>
+<dd zm="g"><a href="javascript:void(0)">广州云豹</a></dd>
+<dd zm="g"><a href="javascript:void(0)">广汽</a></dd>
+<dd zm="g"><a href="javascript:void(0)">贵州云雀</a></dd>
+<dd zm="g"><a href="javascript:void(0)">GMC</a></dd>
+<dd zm="g"><a href="javascript:void(0)">广汽客车</a></dd>
+<dd zm="g"><a href="javascript:void(0)">广汽日野</a></dd>
+<dd zm="g"><a href="javascript:void(0)">广通</a></dd>
+<dd zm="g"><a href="javascript:void(0)">观致</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="h">
+<dd zm="h"><a href="javascript:void(0)">哈飞</a></dd>
+<dd zm="h"><a href="javascript:void(0)">海马</a></dd>
+<dd zm="h"><a href="javascript:void(0)">华普</a></dd>
+<dd zm="h"><a href="javascript:void(0)">红旗</a></dd>
+<dd zm="h"><a href="javascript:void(0)">华泰</a></dd>
+<dd zm="h"><a href="javascript:void(0)">悍马</a></dd>
+<dd zm="h"><a href="javascript:void(0)">黄海</a></dd>
+<dd zm="h"><a href="javascript:void(0)">华翔富奇</a></dd>
+<dd zm="h"><a href="javascript:void(0)">华菱</a></dd>
+<dd zm="h"><a href="javascript:void(0)">合客现代</a></dd>
+<dd zm="h"><a href="javascript:void(0)">恒天</a></dd>
+<dd zm="h"><a href="javascript:void(0)">恒通</a></dd>
+<dd zm="h"><a href="javascript:void(0)">海格</a></dd>
+<dd zm="h"><a href="javascript:void(0)">红岩</a></dd>
+<dd zm="h"><a href="javascript:void(0)">衡山</a></dd>
+<dd zm="h"><a href="javascript:void(0)">黄海卡车</a></dd>
+<dd zm="h"><a href="javascript:void(0)">黄海客车</a></dd>
+<dd zm="h"><a href="javascript:void(0)">黑豹</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="j">
+<dd zm="j"><a href="javascript:void(0)">吉利</a></dd>
+<dd zm="j"><a href="javascript:void(0)">金杯</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江淮</a></dd>
+<dd zm="j"><a href="javascript:void(0)">吉普</a></dd>
+<dd zm="j"><a href="javascript:void(0)">金龙</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江铃</a></dd>
+<dd zm="j"><a href="javascript:void(0)">捷豹</a></dd>
+<dd zm="j"><a href="javascript:void(0)">吉奥</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江南</a></dd>
+<dd zm="j"><a href="javascript:void(0)">金程车工</a></dd>
+<dd zm="j"><a href="javascript:void(0)">精灵smart</a></dd>
+<dd zm="j"><a href="javascript:void(0)">九龙</a></dd>
+<dd zm="j"><a href="javascript:void(0)">吉林通田</a></dd>
+<dd zm="j"><a href="javascript:void(0)">嘉川汽车</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江淮客车</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江铃货车</a></dd>
+<dd zm="j"><a href="javascript:void(0)">精功汽车</a></dd>
+<dd zm="j"><a href="javascript:void(0)">金杯货车</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="k">
+<dd zm="k"><a href="javascript:void(0)">凯迪拉克</a></dd>
+<dd zm="k"><a href="javascript:void(0)">克莱斯勒</a></dd>
+<dd zm="k"><a href="javascript:void(0)">开瑞</a></dd>
+<dd zm="k"><a href="javascript:void(0)">KTM</a></dd>
+<dd zm="k"><a href="javascript:void(0)">凯马</a></dd>
+<dd zm="k"><a href="javascript:void(0)">卡威</a></dd>
+<dd zm="k"><a href="javascript:void(0)">卡尔森</a></dd>
+<dd zm="k"><a href="javascript:void(0)">卡特彼勒</a></dd>
+<dd zm="k"><a href="javascript:void(0)">开瑞绿卡</a></dd>
+<dd zm="k"><a href="javascript:void(0)">柯尼赛格</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="l">
+<dd zm="l"><a href="javascript:void(0)">铃木</a></dd>
+<dd zm="l"><a href="javascript:void(0)">雷克萨斯</a></dd>
+<dd zm="l"><a href="javascript:void(0)">路虎</a></dd>
+<dd zm="l"><a href="javascript:void(0)">力帆</a></dd>
+<dd zm="l"><a href="javascript:void(0)">蓝旗亚</a></dd>
+<dd zm="l"><a href="javascript:void(0)">林肯</a></dd>
+<dd zm="l"><a href="javascript:void(0)">劳斯莱斯</a></dd>
+<dd zm="l"><a href="javascript:void(0)">陆风</a></dd>
+<dd zm="l"><a href="javascript:void(0)">兰博基尼</a></dd>
+<dd zm="l"><a href="javascript:void(0)">雷诺</a></dd>
+<dd zm="l"><a href="javascript:void(0)">莲花</a></dd>
+<dd zm="l"><a href="javascript:void(0)">理念</a></dd>
+<dd zm="l"><a href="javascript:void(0)">罗孚</a></dd>
+<dd zm="l"><a href="javascript:void(0)">力帆时骏</a></dd>
+<dd zm="l"><a href="javascript:void(0)">力帆骏马</a></dd>
+<dd zm="l"><a href="javascript:void(0)">劳伦士</a></dd>
+<dd zm="l"><a href="javascript:void(0)">联合卡车</a></dd>
+<dd zm="l"><a href="javascript:void(0)">路特斯</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="m">
+<dd zm="m"><a href="javascript:void(0)">马自达</a></dd>
+<dd zm="m"><a href="javascript:void(0)">MINI</a></dd>
+<dd zm="m"><a href="javascript:void(0)">MG</a></dd>
+<dd zm="m"><a href="javascript:void(0)">美亚</a></dd>
+<dd zm="m"><a href="javascript:void(0)">玛莎拉蒂</a></dd>
+<dd zm="m"><a href="javascript:void(0)">迈巴赫</a></dd>
+<dd zm="m"><a href="javascript:void(0)">摩根</a></dd>
+<dd zm="m"><a href="javascript:void(0)">曼</a></dd>
+<dd zm="m"><a href="javascript:void(0)">牡丹</a></dd>
+<dd zm="m"><a href="javascript:void(0)">迈凯伦</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="n">
+<dd zm="n"><a href="javascript:void(0)">南亚</a></dd>
+<dd zm="n"><a href="javascript:void(0)">纳智捷</a></dd>
+<dd zm="n"><a href="javascript:void(0)">南京依维柯</a></dd>
+<dd zm="n"><a href="javascript:void(0)">南骏</a></dd>
+<dd zm="n"><a href="javascript:void(0)">女神</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="o">
+<dd zm="o"><a href="javascript:void(0)">欧宝</a></dd>
+<dd zm="o"><a href="javascript:void(0)">欧朗</a></dd>
+<dd zm="o"><a href="javascript:void(0)">讴歌</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="p">
+<dd zm="p"><a href="javascript:void(0)">庞蒂亚克</a></dd>
+<dd zm="p"><a href="javascript:void(0)">帕加尼</a></dd>
+<dd zm="p"><a href="javascript:void(0)">平地机</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="q">
+<dd zm="q"><a href="javascript:void(0)">奇瑞</a></dd>
+<dd zm="q"><a href="javascript:void(0)">起亚</a></dd>
+<dd zm="q"><a href="javascript:void(0)">庆铃</a></dd>
+<dd zm="q"><a href="javascript:void(0)">全球鹰</a></dd>
+<dd zm="q"><a href="javascript:void(0)">启辰</a></dd>
+<dd zm="q"><a href="javascript:void(0)">其他车辆</a></dd>
+<dd zm="q"><a href="javascript:void(0)">庆铃汽车</a></dd>
+<dd zm="q"><a href="javascript:void(0)">起重机</a></dd>
+<dd zm="q"><a href="javascript:void(0)">青岛解放</a></dd>
+<dd zm="q"><a href="javascript:void(0)">青年</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="r">
+<dd zm="r"><a href="javascript:void(0)">日产</a></dd>
+<dd zm="r"><a href="javascript:void(0)">荣威</a></dd>
+<dd zm="r"><a href="javascript:void(0)">瑞麒</a></dd>
+<dd zm="r"><a href="javascript:void(0)">如虎</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="s">
+<dd zm="s"><a href="javascript:void(0)">三菱</a></dd>
+<dd zm="s"><a href="javascript:void(0)">斯柯达</a></dd>
+<dd zm="s"><a href="javascript:void(0)">双环</a></dd>
+<dd zm="s"><a href="javascript:void(0)">思铭</a></dd>
+<dd zm="s"><a href="javascript:void(0)">申龙</a></dd>
+<dd zm="s"><a href="javascript:void(0)">斯巴鲁</a></dd>
+<dd zm="s"><a href="javascript:void(0)">上海汇众</a></dd>
+<dd zm="s"><a href="javascript:void(0)">萨博</a></dd>
+<dd zm="s"><a href="javascript:void(0)">陕汽德龙</a></dd>
+<dd zm="s"><a href="javascript:void(0)">上汽仪征</a></dd>
+<dd zm="s"><a href="javascript:void(0)">双龙</a></dd>
+<dd zm="s"><a href="javascript:void(0)">SPIRRA</a></dd>
+<dd zm="s"><a href="javascript:void(0)">上饶</a></dd>
+<dd zm="s"><a href="javascript:void(0)">世爵</a></dd>
+<dd zm="s"><a href="javascript:void(0)">少林</a></dd>
+<dd zm="s"><a href="javascript:void(0)">斯堪尼亚</a></dd>
+<dd zm="s"><a href="javascript:void(0)">时代</a></dd>
+<dd zm="s"><a href="javascript:void(0)">时风</a></dd>
+<dd zm="s"><a href="javascript:void(0)">水泥罐车</a></dd>
+<dd zm="s"><a href="javascript:void(0)">申沃客车</a></dd>
+<dd zm="s"><a href="javascript:void(0)">舒驰</a></dd>
+<dd zm="s"><a href="javascript:void(0)">蜀都</a></dd>
+<dd zm="s"><a href="javascript:void(0)">陕汽华山</a></dd>
+<dd zm="s"><a href="javascript:void(0)">陕汽通家</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="t">
+<dd zm="t"><a href="javascript:void(0)">天马</a></dd>
+<dd zm="t"><a href="javascript:void(0)">唐骏汽车</a></dd>
+<dd zm="t"><a href="javascript:void(0)">推土机</a></dd>
+<dd zm="t"><a href="javascript:void(0)">泰卡特</a></dd>
+<dd zm="t"><a href="javascript:void(0)">特斯拉</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="w">
+<dd zm="w"><a href="javascript:void(0)">沃尔沃</a></dd>
+<dd zm="w"><a href="javascript:void(0)">万丰</a></dd>
+<dd zm="w"><a href="javascript:void(0)">五菱</a></dd>
+<dd zm="w"><a href="javascript:void(0)">威麟</a></dd>
+<dd zm="w"><a href="javascript:void(0)">威兹曼</a></dd>
+<dd zm="w"><a href="javascript:void(0)">五十铃货车</a></dd>
+<dd zm="w"><a href="javascript:void(0)">五征</a></dd>
+<dd zm="w"><a href="javascript:void(0)">五洲龙</a></dd>
+<dd zm="w"><a href="javascript:void(0)">挖掘机</a></dd>
+<dd zm="w"><a href="javascript:void(0)">王牌</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="x">
+<dd zm="x"><a href="javascript:void(0)">夏利</a></dd>
+<dd zm="x"><a href="javascript:void(0)">现代</a></dd>
+<dd zm="x"><a href="javascript:void(0)">雪铁龙</a></dd>
+<dd zm="x"><a href="javascript:void(0)">雪佛兰</a></dd>
+<dd zm="x"><a href="javascript:void(0)">西亚特</a></dd>
+<dd zm="x"><a href="javascript:void(0)">新凯</a></dd>
+<dd zm="x"><a href="javascript:void(0)">西安奥拓</a></dd>
+<dd zm="x"><a href="javascript:void(0)">南汽新雅途</a></dd>
+<dd zm="x"><a href="javascript:void(0)">新大地</a></dd>
+<dd zm="x"><a href="javascript:void(0)">徐工汽车</a></dd>
+<dd zm="x"><a href="javascript:void(0)">西沃客车</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="y">
+<dd zm="y"><a href="javascript:void(0)">一汽</a></dd>
+<dd zm="y"><a href="javascript:void(0)">跃进</a></dd>
+<dd zm="y"><a href="javascript:void(0)">英菲尼迪</a></dd>
+<dd zm="y"><a href="javascript:void(0)">英伦</a></dd>
+<dd zm="y"><a href="javascript:void(0)">永源</a></dd>
+<dd zm="y"><a href="javascript:void(0)">一汽客车</a></dd>
+<dd zm="y"><a href="javascript:void(0)">一汽解放</a></dd>
+<dd zm="y"><a href="javascript:void(0)">一汽通用</a></dd>
+<dd zm="y"><a href="javascript:void(0)">亚星</a></dd>
+<dd zm="y"><a href="javascript:void(0)">依维柯</a></dd>
+<dd zm="y"><a href="javascript:void(0)">压路机</a></dd>
+<dd zm="y"><a href="javascript:void(0)">友谊</a></dd>
+<dd zm="y"><a href="javascript:void(0)">宇通</a></dd>
+<dd zm="y"><a href="javascript:void(0)">扬子江</a></dd>
+<dd zm="y"><a href="javascript:void(0)">油罐车</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="z">
+<dd zm="z"><a href="javascript:void(0)">中华</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中兴</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中通</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中顺</a></dd>
+<dd zm="z"><a href="javascript:void(0)">众泰</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中客华北</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中国重汽</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中大</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中欧</a></dd>
+<dd zm="z"><a href="javascript:void(0)">装载机</a></dd>
+<dd zm="z"><a href="javascript:void(0)">郑州日产</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="keche">
+<dd zm="a"><a href="javascript:void(0)">安源</a></dd>
+<dd zm="a"><a href="javascript:void(0)">安凯</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北方</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北方奔驰</a></dd>
+<dd zm="b"><a href="javascript:void(0)">百路佳</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长安客车</a></dd>
+<dd zm="d"><a href="javascript:void(0)">大宇客车</a></dd>
+<dd zm="f"><a href="javascript:void(0)">丰田</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福田客车</a></dd>
+<dd zm="g"><a href="javascript:void(0)">广汽客车</a></dd>
+<dd zm="g"><a href="javascript:void(0)">广通</a></dd>
+<dd zm="h"><a href="javascript:void(0)">合客现代</a></dd>
+<dd zm="h"><a href="javascript:void(0)">恒通</a></dd>
+<dd zm="h"><a href="javascript:void(0)">衡山</a></dd>
+<dd zm="h"><a href="javascript:void(0)">海格</a></dd>
+<dd zm="h"><a href="javascript:void(0)">黄海客车</a></dd>
+<dd zm="j"><a href="javascript:void(0)">金龙</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江淮客车</a></dd>
+<dd zm="n"><a href="javascript:void(0)">女神</a></dd>
+<dd zm="q"><a href="javascript:void(0)">青年</a></dd>
+<dd zm="s"><a href="javascript:void(0)">上饶</a></dd>
+<dd zm="s"><a href="javascript:void(0)">少林</a></dd>
+<dd zm="s"><a href="javascript:void(0)">申沃客车</a></dd>
+<dd zm="s"><a href="javascript:void(0)">舒驰</a></dd>
+<dd zm="s"><a href="javascript:void(0)">申龙</a></dd>
+<dd zm="s"><a href="javascript:void(0)">蜀都</a></dd>
+<dd zm="w"><a href="javascript:void(0)">五洲龙</a></dd>
+<dd zm="x"><a href="javascript:void(0)">西沃客车</a></dd>
+<dd zm="y"><a href="javascript:void(0)">一汽客车</a></dd>
+<dd zm="y"><a href="javascript:void(0)">亚星</a></dd>
+<dd zm="y"><a href="javascript:void(0)">友谊</a></dd>
+<dd zm="y"><a href="javascript:void(0)">扬子江</a></dd>
+<dd zm="y"><a href="javascript:void(0)">依维柯</a></dd>
+<dd zm="y"><a href="javascript:void(0)">宇通</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中通</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中大</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中欧</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="huoche">
+<dd zm="b"><a href="javascript:void(0)">北京牌</a></dd>
+<dd zm="b"><a href="javascript:void(0)">北奔重汽</a></dd>
+<dd zm="b"><a href="javascript:void(0)">奔驰</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长安跨越</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长安重汽</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风商用车</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风柳汽</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风日产柴</a></dd>
+<dd zm="d"><a href="javascript:void(0)">大运汽车</a></dd>
+<dd zm="d"><a href="javascript:void(0)">达夫</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福田</a></dd>
+<dd zm="g"><a href="javascript:void(0)">广汽吉奥</a></dd>
+<dd zm="g"><a href="javascript:void(0)">广汽日野</a></dd>
+<dd zm="h"><a href="javascript:void(0)">红岩</a></dd>
+<dd zm="h"><a href="javascript:void(0)">华菱</a></dd>
+<dd zm="h"><a href="javascript:void(0)">黄海卡车</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江淮</a></dd>
+<dd zm="j"><a href="javascript:void(0)">嘉川汽车</a></dd>
+<dd zm="j"><a href="javascript:void(0)">金杯货车</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江铃货车</a></dd>
+<dd zm="j"><a href="javascript:void(0)">精功汽车</a></dd>
+<dd zm="k"><a href="javascript:void(0)">开瑞绿卡</a></dd>
+<dd zm="k"><a href="javascript:void(0)">卡特彼勒</a></dd>
+<dd zm="k"><a href="javascript:void(0)">凯马</a></dd>
+<dd zm="l"><a href="javascript:void(0)">力帆时骏</a></dd>
+<dd zm="l"><a href="javascript:void(0)">力帆骏马</a></dd>
+<dd zm="l"><a href="javascript:void(0)">联合卡车</a></dd>
+<dd zm="l"><a href="javascript:void(0)">雷诺</a></dd>
+<dd zm="m"><a href="javascript:void(0)">曼</a></dd>
+<dd zm="n"><a href="javascript:void(0)">南京依维柯</a></dd>
+<dd zm="q"><a href="javascript:void(0)">庆铃汽车</a></dd>
+<dd zm="q"><a href="javascript:void(0)">青岛解放</a></dd>
+<dd zm="s"><a href="javascript:void(0)">陕汽德龙</a></dd>
+<dd zm="s"><a href="javascript:void(0)">斯堪尼亚</a></dd>
+<dd zm="s"><a href="javascript:void(0)">时代</a></dd>
+<dd zm="t"><a href="javascript:void(0)">唐骏汽车</a></dd>
+<dd zm="w"><a href="javascript:void(0)">王牌</a></dd>
+<dd zm="w"><a href="javascript:void(0)">五十铃货车</a></dd>
+<dd zm="w"><a href="javascript:void(0)">五征</a></dd>
+<dd zm="w"><a href="javascript:void(0)">沃尔沃</a></dd>
+<dd zm="x"><a href="javascript:void(0)">徐工汽车</a></dd>
+<dd zm="y"><a href="javascript:void(0)">跃进</a></dd>
+<dd zm="y"><a href="javascript:void(0)">一汽解放</a></dd>
+<dd zm="y"><a href="javascript:void(0)">一汽通用</a></dd>
+<dd zm="y"><a href="javascript:void(0)">依维柯</a></dd>
+<dd zm="z"><a href="javascript:void(0)">郑州日产</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中国重汽</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="mianbao">
+<!-- &lt;dd&gt;&lt;a href="javascript:void(0)"&gt;面包车&lt;/a&gt;&lt;/dd&gt; -->
+<dd zm="c"><a href="javascript:void(0)">长安</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东风</a></dd>
+<dd zm="y"><a href="javascript:void(0)">一汽</a></dd>
+<dd zm="l"><a href="javascript:void(0)">铃木</a></dd>
+<dd zm="j"><a href="javascript:void(0)">金杯</a></dd>
+<dd zm="h"><a href="javascript:void(0)">哈飞</a></dd>
+<dd zm="d"><a href="javascript:void(0)">东南</a></dd>
+<dd zm="k"><a href="javascript:void(0)">开瑞</a></dd>
+<dd zm="w"><a href="javascript:void(0)">五菱</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="gongchengche">
+<dd zm="w"><a href="javascript:void(0)">挖掘机</a></dd>
+<dd zm="q"><a href="javascript:void(0)">起重机</a></dd>
+<dd zm="c"><a href="javascript:void(0)">叉车</a></dd>
+<dd zm="z"><a href="javascript:void(0)">装载机</a></dd>
+<dd zm="t"><a href="javascript:void(0)">推土机</a></dd>
+<dd zm="y"><a href="javascript:void(0)">压路机</a></dd>
+<dd zm="p"><a href="javascript:void(0)">平地机</a></dd>
+<dd zm="s"><a href="javascript:void(0)">水泥罐车</a></dd>
+<dd zm="y"><a href="javascript:void(0)">油罐车</a></dd>
+<dd zm="q"><a href="javascript:void(0)">其他车辆</a></dd>
+</dl>
+<dl class="fenleilist clearfix" zm="pica">
+<dd zm="j"><a href="javascript:void(0)">江铃</a></dd>
+<dd zm="q"><a href="javascript:void(0)">庆铃</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长城</a></dd>
+<dd zm="j"><a href="javascript:void(0)">金杯</a></dd>
+<dd zm="f"><a href="javascript:void(0)">丰田</a></dd>
+<dd zm="r"><a href="javascript:void(0)">日产</a></dd>
+<dd zm="z"><a href="javascript:void(0)">中兴</a></dd>
+<dd zm="h"><a href="javascript:void(0)">黄海</a></dd>
+<dd zm="j"><a href="javascript:void(0)">江淮</a></dd>
+<dd zm="f"><a href="javascript:void(0)">福迪</a></dd>
+<dd zm="j"><a href="javascript:void(0)">吉奥</a></dd>
+<dd zm="c"><a href="javascript:void(0)">长丰</a></dd>
+</dl>
+</div>
+<div class="txtright">如果没有您要到车辆品牌请&nbsp;<a href="http://about.58.com/online-kefu.html" target="_blank">联系我们</a></div>
+<iframe frameborder="0" style="position:absolute; visibility:inherit; top:0px; left:0px; width:740px; height:200px; z-index:-1; filter='progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';"></iframe>
+</div>
+<div id="cheXiWin" class="fider w_fider1">
+<a id="closefider1" class="ppwin_close" href="javascript:void(0)"></a>
+<dl id="chexiFidercon" class="clearfix">
+</dl>
+</div>
+<div id="cheXingWin" class="fider w_fider2">
+<a id="closefider2" class="ppwin_close" href="javascript:void(0)"></a>
+<dl id="chexingFidercon" class="clearfix">
+</dl>
+<div class="fide_sm">如无相符车型，请您<a id="fideSm2" href="javascript:void(0)">直接输入</a></div>
+</div>
+</form>
+<script type="text/javascript">
+var _hEditor = { he:null, empty_msg:'请填写补充说明', tipid:'Content_Tip', focus_msg:'10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除', reg:"^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", err_msg: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" };
+$(document).ready(
+    function(){
+        if(true || $.c.common.isIeVersion(9)){
+            $('#Content').removeAttr('style').attr('maxlength', '2000');
+            $('#Content').val($.c.common.stripHtml($('#Content').val()));
+        } else{
+            $.editor.initHtmlEditor();
+        }
+    }
+);
+</script>
+<script type="text/javascript">
+// cmcs 初始化
+$.cmcs.manualPara = [ 'chexi', 'carchexing' ];
+$.cmcs.childrenCreatedEvent = {
+    'brand' : brand_created,
+    'chexi' : chexi_created,
+	'carchexing': carchexing_created,
+	'jibense': jibense_created,
+	'chexibieming': chexibieming_create,
+	'kucheid':kucheid_create
+};
+$.cmcs.rootPara = [{"type":3, "name":"带牌照", "nameid":2547, "pname":"chepai", "rnum":1, "len":1, "dv":"", "na":0, "value":[{"i":"216617","v":"1","t":"带牌销售","a":"","c":"0", "p":"0" }], "regs":[]},{"type":3, "name":"车辆基本配置", "nameid":2549, "pname":"peizhi", "rnum":15, "len":2, "dv":"", "na":0, "value":[{"i":"216624","v":"1","t":"真皮座椅","a":"","c":"0", "p":"0" },{"i":"216625","v":"2","t":"加热器","a":"","c":"0", "p":"0" },{"i":"216712","v":"3","t":"ABS","a":"","c":"0", "p":"0" },{"i":"216713","v":"4","t":"电动窗","a":"","c":"0", "p":"0" },{"i":"216714","v":"5","t":"天窗","a":"","c":"0", "p":"0" },{"i":"216715","v":"6","t":"防盗锁","a":"","c":"0", "p":"0" },{"i":"216716","v":"7","t":"电动后视镜","a":"","c":"0", "p":"0" },{"i":"216717","v":"8","t":"铝毂","a":"","c":"0", "p":"0" },{"i":"216718","v":"9","t":"CD","a":"","c":"0", "p":"0" },{"i":"216719","v":"10","t":"车载电视","a":"","c":"0", "p":"0" },{"i":"216720","v":"11","t":"GPS","a":"","c":"0", "p":"0" },{"i":"216721","v":"12","t":"倒车雷达","a":"","c":"0", "p":"0" },{"i":"216722","v":"13","t":"安全气囊","a":"","c":"0", "p":"0" },{"i":"216723","v":"14","t":"巡航定速","a":"","c":"0", "p":"0" },{"i":"216724","v":"15","t":"助力转向","a":"","c":"0", "p":"0" }], "regs":[]},{"type":3, "name":"求购品牌", "nameid":2570, "pname":"pinpai", "rnum":40, "len":4, "dv":"", "na":1, "value":[{"i":"216796","v":"1","t":"本田","a":"","c":"0", "p":"0" },{"i":"216797","v":"2","t":"丰田","a":"","c":"0", "p":"0" },{"i":"216798","v":"3","t":"日产","a":"","c":"0", "p":"0" },{"i":"216799","v":"4","t":"三菱","a":"","c":"0", "p":"0" },{"i":"216800","v":"5","t":"铃木","a":"","c":"0", "p":"0" },{"i":"216801","v":"6","t":"天籁","a":"","c":"0", "p":"0" },{"i":"216802","v":"7","t":"马自达","a":"","c":"0", "p":"0" },{"i":"216803","v":"8","t":"五十铃","a":"","c":"0", "p":"0" },{"i":"216804","v":"9","t":"现代","a":"","c":"0", "p":"0" },{"i":"216805","v":"10","t":"起亚","a":"","c":"0", "p":"0" },{"i":"216806","v":"11","t":"别克","a":"","c":"0", "p":"0" },{"i":"216807","v":"12","t":"福特","a":"","c":"0", "p":"0" },{"i":"216808","v":"13","t":"悍马","a":"","c":"0", "p":"0" },{"i":"216809","v":"14","t":"吉普","a":"","c":"0", "p":"0" },{"i":"216810","v":"15","t":"林肯","a":"","c":"0", "p":"0" },{"i":"216811","v":"16","t":"雪佛兰","a":"","c":"0", "p":"0" },{"i":"216812","v":"17","t":"奥迪","a":"","c":"0", "p":"0" },{"i":"216813","v":"18","t":"宝马","a":"","c":"0", "p":"0" },{"i":"216814","v":"19","t":"奔驰","a":"","c":"0", "p":"0" },{"i":"216815","v":"20","t":"路虎","a":"","c":"0", "p":"0" },{"i":"216816","v":"21","t":"欧宝","a":"","c":"0", "p":"0" },{"i":"216817","v":"22","t":"保时捷","a":"","c":"0", "p":"0" },{"i":"216818","v":"23","t":"法拉利","a":"","c":"0", "p":"0" },{"i":"216819","v":"24","t":"沃尔沃","a":"","c":"0", "p":"0" },{"i":"216820","v":"25","t":"标致","a":"","c":"0", "p":"0" },{"i":"216821","v":"26","t":"大众","a":"","c":"0", "p":"0" },{"i":"216822","v":"27","t":"东风","a":"","c":"0", "p":"0" },{"i":"216823","v":"28","t":"红旗","a":"","c":"0", "p":"0" },{"i":"216824","v":"29","t":"中华","a":"","c":"0", "p":"0" },{"i":"216825","v":"30","t":"雪铁龙","a":"","c":"0", "p":"0" },{"i":"216826","v":"31","t":"比亚迪","a":"","c":"0", "p":"0" },{"i":"216827","v":"32","t":"依维柯","a":"","c":"0", "p":"0" },{"i":"216828","v":"33","t":"吉利","a":"","c":"0", "p":"0" },{"i":"216829","v":"34","t":"奇瑞","a":"","c":"0", "p":"0" },{"i":"216830","v":"35","t":"夏利","a":"","c":"0", "p":"0" },{"i":"216831","v":"36","t":"海马","a":"","c":"0", "p":"0" },{"i":"216832","v":"37","t":"福田","a":"","c":"0", "p":"0" },{"i":"216833","v":"38","t":"哈飞","a":"","c":"0", "p":"0" },{"i":"216834","v":"39","t":"长安","a":"","c":"0", "p":"0" },{"i":"216835","v":"40","t":"五菱","a":"","c":"0", "p":"0" }], "regs":[]},{"type":4, "name":"变速器形式", "nameid":2546, "pname":"biansuqi", "rnum":4, "len":8, "dv":"", "na":0, "value":[{"i":"216781","v":"1","t":"手动","a":"","c":"0", "p":"0" },{"i":"216782","v":"2","t":"全自动","a":"","c":"0", "p":"0" },{"i":"216783","v":"3","t":"手自一体","a":"","c":"0", "p":"0" },{"i":"216784","v":"4","t":"CVT","a":"","c":"0", "p":"0" }], "regs":[{"r":"^\S+$",e:"请填写变速器"}]},{"type":2, "name":"类型", "nameid":1193, "pname":"type", "rnum":2, "len":1, "dv":"0", "na":0, "value":[{"i":"274","v":"0","t":"出售","a":"","c":"0", "p":"0" },{"i":"275","v":"1","t":"求购","a":"","c":"0", "p":"0" }], "regs":[]},{"type":4, "name":"价格", "nameid":1194, "pname":"MinPrice", "rnum":10, "len":6, "dv":"", "na":0, "value":[{"i":"228312","v":"0_100","t":"1万元以内","a":"","c":"0", "p":"0" },{"i":"228313","v":"100_200","t":"1-2万","a":"","c":"0", "p":"0" },{"i":"228314","v":"200_300","t":"2-3万","a":"","c":"0", "p":"0" },{"i":"214669","v":"300_500","t":"3-5万","a":"","c":"0", "p":"0" },{"i":"214670","v":"500_800","t":"5-8万","a":"","c":"0", "p":"0" },{"i":"214671","v":"800_1200","t":"8-12万","a":"","c":"0", "p":"0" },{"i":"214672","v":"1200_1800","t":"12-18万","a":"","c":"0", "p":"0" },{"i":"214673","v":"1800_2500","t":"18-25万","a":"","c":"0", "p":"0" },{"i":"214674","v":"2500_4000","t":"25-40万","a":"","c":"0", "p":"0" },{"i":"228315","v":"4000_9999999","t":"40万以上","a":"","c":"0", "p":"0" }], "regs":[{"r":"^\S+$",e:"请填写价格"},{"r":"^(([1-9]{1}(\d{0,2}\.\d{1,2}|\d{0,2}))|([1-9]{1})|0\.0[1-9]|0\.[1-9]\d?)$",e:"价格不能为0，最多3位整数和2位小数"}]},{"type":1, "name":"购车时间", "nameid":1196, "pname":"buytime", "rnum":21, "len":1, "dv":"", "na":0, "value":[{"i":"1063765","v":"2014","t":"2014年","a":"","c":"0", "p":"0" },{"i":"933006","v":"2013","t":"2013年","a":"","c":"0", "p":"0" },{"i":"725742","v":"2012","t":"2012年","a":"","c":"0", "p":"0" },{"i":"243135","v":"2011","t":"2011年","a":"","c":"0", "p":"0" },{"i":"228365","v":"2010","t":"2010年","a":"","c":"0", "p":"0" },{"i":"216463","v":"2009","t":"2009年","a":"","c":"0", "p":"0" },{"i":"291","v":"2008","t":"2008年","a":"","c":"0", "p":"0" },{"i":"290","v":"2007","t":"2007年","a":"","c":"0", "p":"0" },{"i":"289","v":"2006","t":"2006年","a":"","c":"0", "p":"0" },{"i":"288","v":"2005","t":"2005年","a":"","c":"0", "p":"0" },{"i":"287","v":"2004","t":"2004年","a":"","c":"0", "p":"0" },{"i":"286","v":"2003","t":"2003年","a":"","c":"0", "p":"0" },{"i":"285","v":"2002","t":"2002年","a":"","c":"0", "p":"0" },{"i":"284","v":"2001","t":"2001年","a":"","c":"0", "p":"0" },{"i":"283","v":"2000","t":"2000年","a":"","c":"0", "p":"0" },{"i":"282","v":"1999","t":"1999年","a":"","c":"0", "p":"0" },{"i":"281","v":"1998","t":"1998年","a":"","c":"0", "p":"0" },{"i":"280","v":"1997","t":"1997年","a":"","c":"0", "p":"0" },{"i":"279","v":"1996","t":"1996年","a":"","c":"0", "p":"0" },{"i":"278","v":"1995","t":"1995年","a":"","c":"0", "p":"0" },{"i":"277","v":"1994","t":"1995年以前","a":"","c":"0", "p":"0" }], "regs":[]},{"type":2, "name":"品牌（列表页）", "nameid":1197, "pname":"pinpailistzr", "rnum":21, "len":5, "dv":"", "na":0, "value":[{"i":"227563","v":"1","t":"本田","a":"","c":"0", "p":"0" },{"i":"227564","v":"2","t":"丰田","a":"","c":"0", "p":"0" },{"i":"227565","v":"3","t":"大众","a":"","c":"0", "p":"0" },{"i":"227566","v":"4","t":"现代","a":"","c":"0", "p":"0" },{"i":"227567","v":"5","t":"奥迪","a":"","c":"0", "p":"0" },{"i":"227568","v":"6","t":"奔驰","a":"","c":"0", "p":"0" },{"i":"227569","v":"7","t":"宝马","a":"","c":"0", "p":"0" },{"i":"227570","v":"8","t":"马自达","a":"","c":"0", "p":"0" },{"i":"227571","v":"9","t":"雪佛兰","a":"","c":"0", "p":"0" },{"i":"227572","v":"10","t":"别克","a":"","c":"0", "p":"0" },{"i":"227573","v":"11","t":"尼桑","a":"","c":"0", "p":"0" },{"i":"227574","v":"12","t":"红旗","a":"","c":"0", "p":"0" },{"i":"227575","v":"13","t":"东风","a":"","c":"0", "p":"0" },{"i":"227576","v":"14","t":"长安","a":"","c":"0", "p":"0" },{"i":"227577","v":"15","t":"铃木","a":"","c":"0", "p":"0" },{"i":"227578","v":"16","t":"金杯","a":"","c":"0", "p":"0" },{"i":"227579","v":"17","t":"哈飞","a":"","c":"0", "p":"0" },{"i":"227580","v":"18","t":"奇瑞","a":"","c":"0", "p":"0" },{"i":"227581","v":"19","t":"夏利","a":"","c":"0", "p":"0" },{"i":"227582","v":"20","t":"吉利","a":"","c":"0", "p":"0" },{"i":"227583","v":"21","t":"奥拓","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"排量", "nameid":2541, "pname":"pailiang", "rnum":5, "len":1, "dv":"2", "na":0, "value":[{"i":"216476","v":"1","t":"1.0以下","a":"","c":"0", "p":"0" },{"i":"216477","v":"2","t":"1.0-1.6","a":"","c":"0", "p":"0" },{"i":"216478","v":"3","t":"1.6-2.5","a":"","c":"0", "p":"0" },{"i":"216479","v":"4","t":"2.5-4.0","a":"","c":"0", "p":"0" },{"i":"216480","v":"5","t":"4.0以上","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"颜色列表", "nameid":4917, "pname":"cheshenyanse", "rnum":17, "len":2, "dv":"", "na":0, "value":[{"i":"227528","v":"1","t":"黑色","a":"","c":"0", "p":"0" },{"i":"227529","v":"2","t":"白色","a":"","c":"0", "p":"0" },{"i":"227530","v":"3","t":"银色","a":"","c":"0", "p":"0" },{"i":"227531","v":"4","t":"灰色","a":"","c":"0", "p":"0" },{"i":"227532","v":"5","t":"栗色","a":"","c":"0", "p":"0" },{"i":"227533","v":"6","t":"红色","a":"","c":"0", "p":"0" },{"i":"227534","v":"7","t":"蓝色","a":"","c":"0", "p":"0" },{"i":"227535","v":"8","t":"绿色","a":"","c":"0", "p":"0" },{"i":"227536","v":"9","t":"黄色","a":"","c":"0", "p":"0" },{"i":"227537","v":"10","t":"橙色","a":"","c":"0", "p":"0" },{"i":"227538","v":"11","t":"棕色","a":"","c":"0", "p":"0" },{"i":"227539","v":"12","t":"紫色","a":"","c":"0", "p":"0" },{"i":"227540","v":"13","t":"金色","a":"","c":"0", "p":"0" },{"i":"841449","v":"521823","t":"青色","a":"","c":"0", "p":"0" },{"i":"841450","v":"521824","t":"米色","a":"","c":"0", "p":"0" },{"i":"841451","v":"521825","t":"褐色","a":"","c":"0", "p":"0" },{"i":"227541","v":"14","t":"其它","a":"","c":"0", "p":"0" }], "regs":[]},{"type":2, "name":"原车用途", "nameid":4920, "pname":"yuancheyongtu", "rnum":4, "len":5, "dv":"", "na":0, "value":[{"i":"227515","v":"1","t":"营运","a":"","c":"0", "p":"0" },{"i":"227516","v":"2","t":"商务","a":"","c":"0", "p":"0" },{"i":"227517","v":"3","t":"家用","a":"","c":"0", "p":"0" },{"i":"227518","v":"4","t":"其他","a":"","c":"0", "p":"0" }], "regs":[]},{"type":2, "name":"机械状况", "nameid":4921, "pname":"jixiezk", "rnum":4, "len":5, "dv":"", "na":0, "value":[{"i":"227519","v":"1","t":"类似新车","a":"","c":"0", "p":"0" },{"i":"227520","v":"2","t":"良好","a":"","c":"0", "p":"0" },{"i":"227521","v":"3","t":"一般","a":"","c":"0", "p":"0" },{"i":"227522","v":"4","t":"较差","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"事故情况", "nameid":4922, "pname":"shiguqk", "rnum":2, "len":1, "dv":"", "na":0, "value":[{"i":"734247","v":"515712","t":"有","a":"","c":"0", "p":"0" },{"i":"734248","v":"515713","t":"无","a":"","c":"4922", "p":"0" }], "regs":[]},{"type":1, "name":"字母", "nameid":5863, "pname":"zimu", "rnum":22, "len":1, "dv":"", "na":0, "value":[{"i":"298698","v":"408783","t":"A","a":"","c":"0", "p":"1" },{"i":"298699","v":"408784","t":"B","a":"","c":"0", "p":"1" },{"i":"298700","v":"408785","t":"C","a":"","c":"0", "p":"1" },{"i":"298701","v":"408786","t":"D","a":"","c":"0", "p":"1" },{"i":"298703","v":"408788","t":"F","a":"","c":"0", "p":"1" },{"i":"298704","v":"408789","t":"G","a":"","c":"0", "p":"1" },{"i":"298705","v":"408790","t":"H","a":"","c":"0", "p":"1" },{"i":"298707","v":"408792","t":"J","a":"","c":"0", "p":"1" },{"i":"298708","v":"408793","t":"K","a":"","c":"0", "p":"1" },{"i":"298709","v":"408794","t":"L","a":"","c":"0", "p":"1" },{"i":"298710","v":"408795","t":"M","a":"","c":"0", "p":"1" },{"i":"298711","v":"408796","t":"N","a":"","c":"0", "p":"1" },{"i":"298712","v":"408797","t":"O","a":"","c":"0", "p":"1" },{"i":"298713","v":"408798","t":"P","a":"","c":"0", "p":"1" },{"i":"298714","v":"408799","t":"Q","a":"","c":"0", "p":"1" },{"i":"298715","v":"408800","t":"R","a":"","c":"0", "p":"1" },{"i":"298716","v":"408801","t":"S","a":"","c":"0", "p":"1" },{"i":"298717","v":"408802","t":"T","a":"","c":"0", "p":"1" },{"i":"298720","v":"408805","t":"W","a":"","c":"0", "p":"1" },{"i":"298721","v":"408806","t":"X","a":"","c":"0", "p":"1" },{"i":"298722","v":"408807","t":"Y","a":"","c":"0", "p":"1" },{"i":"298723","v":"408808","t":"Z","a":"","c":"0", "p":"1" }], "regs":[]},{"type":1, "name":"价格", "nameid":5864, "pname":"MinPriceqj", "rnum":10, "len":1, "dv":"", "na":0, "value":[{"i":"298671","v":"0_1","t":"1万元以内","a":"","c":"1194", "p":"0" },{"i":"298672","v":"1_2","t":"1-2万","a":"","c":"1194", "p":"0" },{"i":"298673","v":"2_3","t":"2-3万","a":"","c":"1194", "p":"0" },{"i":"298674","v":"3_5","t":"3-5万","a":"","c":"1194", "p":"0" },{"i":"298675","v":"5_8","t":"5-8万","a":"","c":"1194", "p":"0" },{"i":"298676","v":"8_12","t":"8-12万","a":"","c":"1194", "p":"0" },{"i":"349569","v":"12_18","t":"12-18万","a":"","c":"1194", "p":"0" },{"i":"298677","v":"18_24","t":"18-24万","a":"","c":"1194", "p":"0" },{"i":"298678","v":"24_40","t":"24-40万","a":"","c":"1194", "p":"0" },{"i":"298679","v":"40_999999","t":"40万以上","a":"","c":"1194", "p":"0" }], "regs":[]},{"type":1, "name":"里程", "nameid":5865, "pname":"rundistanceqj", "rnum":7, "len":1, "dv":"", "na":0, "value":[{"i":"298680","v":"0_1","t":"1万公里内","a":"","c":"0", "p":"0" },{"i":"298681","v":"1_3","t":"1-3万公里","a":"","c":"0", "p":"0" },{"i":"298682","v":"3_5","t":"3-5万公里","a":"","c":"0", "p":"0" },{"i":"298683","v":"5_8","t":"5-8万公里","a":"","c":"0", "p":"0" },{"i":"298684","v":"8_12","t":"8-12万公里","a":"","c":"0", "p":"0" },{"i":"298685","v":"12_18","t":"12-18万公里","a":"","c":"0", "p":"0" },{"i":"298686","v":"18_999999","t":"18万公里以上","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"排放", "nameid":8815, "pname":"paifangbiaozhun", "rnum":4, "len":1, "dv":"", "na":0, "value":[{"i":"1052548","v":"201_9999","t":"国二及以上","a":"","c":"8815", "p":"0" },{"i":"1002814","v":"301_9999","t":"国三及以上","a":"","c":"8815", "p":"0" },{"i":"1002815","v":"401_9999","t":"国四及以上","a":"","c":"8815", "p":"0" },{"i":"1002816","v":"501_9999","t":"国五","a":"","c":"8815", "p":"0" }], "regs":[]},{"type":1, "name":"车龄", "nameid":5883, "pname":"chelingqj", "rnum":6, "len":1, "dv":"", "na":0, "value":[{"i":"349563","v":"2013_9999","t":"1年以内","a":"","c":"1196", "p":"0" },{"i":"349564","v":"2010_2012","t":"1-3年","a":"","c":"1196", "p":"0" },{"i":"349565","v":"2008_2010","t":"3-5年","a":"","c":"1196", "p":"0" },{"i":"349566","v":"2005_2008","t":"5-8年","a":"","c":"1196", "p":"0" },{"i":"349567","v":"2003_2005","t":"8-10年","a":"","c":"1196", "p":"0" },{"i":"349568","v":"1900_2003","t":"10年以上","a":"","c":"1196", "p":"0" }], "regs":[]},{"type":1, "name":"购买来源", "nameid":6852, "pname":"buyfrom", "rnum":2, "len":20, "dv":"", "na":0, "value":[{"i":"734189","v":"515671","t":"新车","a":"","c":"0", "p":"0" },{"i":"734190","v":"515672","t":"二手车","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"是否运营", "nameid":6853, "pname":"yunying", "rnum":2, "len":20, "dv":"", "na":0, "value":[{"i":"734194","v":"515675","t":"是","a":"","c":"0", "p":"0" },{"i":"734195","v":"515676","t":"否","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"4s店保养", "nameid":6855, "pname":"baoyang", "rnum":2, "len":20, "dv":"", "na":0, "value":[{"i":"734191","v":"515673","t":"是","a":"","c":"0", "p":"0" },{"i":"734193","v":"515674","t":"否","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"外观成色", "nameid":6856, "pname":"chengse", "rnum":4, "len":20, "dv":"", "na":0, "value":[{"i":"734196","v":"515677","t":"极新","a":"","c":"0", "p":"0" },{"i":"734197","v":"515678","t":"较新","a":"","c":"0", "p":"0" },{"i":"734198","v":"515679","t":"一般","a":"","c":"0", "p":"0" },{"i":"734199","v":"515680","t":"较差","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"内饰状况", "nameid":6857, "pname":"neishi", "rnum":2, "len":20, "dv":"", "na":0, "value":[{"i":"734213","v":"515694","t":"完好","a":"","c":"0", "p":"0" },{"i":"734218","v":"515699","t":"有破损","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"证件手续", "nameid":6859, "pname":"shouxu", "rnum":2, "len":20, "dv":"", "na":0, "value":[{"i":"734212","v":"515693","t":"是","a":"","c":"0", "p":"0" },{"i":"764499","v":"517417","t":"否","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"上牌月份", "nameid":6860, "pname":"shangpaiyuefen", "rnum":12, "len":1, "dv":"", "na":0, "value":[{"i":"734200","v":"515681","t":"1月","a":"","c":"0", "p":"0" },{"i":"734201","v":"515682","t":"2月","a":"","c":"0", "p":"0" },{"i":"734202","v":"515683","t":"3月","a":"","c":"0", "p":"0" },{"i":"734203","v":"515684","t":"4月","a":"","c":"0", "p":"0" },{"i":"734204","v":"515685","t":"5月","a":"","c":"0", "p":"0" },{"i":"734205","v":"515686","t":"6月","a":"","c":"0", "p":"0" },{"i":"734206","v":"515687","t":"7月","a":"","c":"0", "p":"0" },{"i":"734207","v":"515688","t":"8月","a":"","c":"0", "p":"0" },{"i":"734208","v":"515689","t":"9月","a":"","c":"0", "p":"0" },{"i":"734209","v":"515690","t":"10月","a":"","c":"0", "p":"0" },{"i":"734210","v":"515691","t":"11月","a":"","c":"0", "p":"0" },{"i":"734211","v":"515692","t":"12月","a":"","c":"0", "p":"0" }], "regs":[]},{"type":3, "name":"内饰缺陷情况", "nameid":6866, "pname":"neishiquexian", "rnum":3, "len":20, "dv":"", "na":0, "value":[{"i":"764492","v":"517410","t":"有破损","a":"","c":"0", "p":"0" },{"i":"764493","v":"517411","t":"有裂纹","a":"","c":"0", "p":"0" },{"i":"764494","v":"517412","t":"有塌陷","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"商业险", "nameid":6869, "pname":"syxian", "rnum":2, "len":1, "dv":"", "na":0, "value":[{"i":"764495","v":"517413","t":"有","a":"","c":"0", "p":"0" },{"i":"764496","v":"517414","t":"无","a":"","c":"6869", "p":"0" }], "regs":[]},{"type":1, "name":"车源类别", "nameid":7063, "pname":"cylb", "rnum":2, "len":20, "dv":"", "na":1, "value":[{"i":"875526","v":"525375","t":"认证车源","a":"","c":"0", "p":"0" },{"i":"875527","v":"525376","t":"诚信车源","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"排放标准", "nameid":8891, "pname":"paifangpeizhi", "rnum":15, "len":1, "dv":"", "na":0, "value":[{"i":"1002811","v":"101","t":"欧Ⅰ","a":"","c":"0", "p":"0" },{"i":"1002812","v":"201","t":"欧Ⅱ","a":"","c":"0", "p":"0" },{"i":"1002813","v":"301","t":"欧Ⅲ","a":"","c":"0", "p":"0" },{"i":"1002930","v":"302","t":"欧Ⅲ+OBD","a":"","c":"0", "p":"0" },{"i":"1002932","v":"202","t":"国Ⅱ","a":"","c":"0", "p":"0" },{"i":"1002933","v":"303","t":"国Ⅲ","a":"","c":"0", "p":"0" },{"i":"1002934","v":"304","t":"国Ⅲ+OBD","a":"","c":"0", "p":"0" },{"i":"1002938","v":"401","t":"国Ⅳ","a":"","c":"0", "p":"0" },{"i":"1002940","v":"403","t":"国Ⅳ+OBD","a":"","c":"0", "p":"0" },{"i":"1002945","v":"408","t":"欧Ⅳ","a":"","c":"0", "p":"0" },{"i":"1002949","v":"412","t":"欧Ⅳ+OBD","a":"","c":"0", "p":"0" },{"i":"1002951","v":"501","t":"欧Ⅴ","a":"","c":"0", "p":"0" },{"i":"1002952","v":"502","t":"国Ⅴ","a":"","c":"0", "p":"0" },{"i":"1002954","v":"504","t":"欧Ⅴ+OBD","a":"","c":"0", "p":"0" },{"i":"1003492","v":"505","t":"国Ⅴ+OBD","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"厂商来源", "nameid":9755, "pname":"changshanglaiyuan", "rnum":3, "len":1, "dv":"", "na":1, "value":[{"i":"1065577","v":"668495","t":"品荐二手车","a":"","c":"0", "p":"0" },{"i":"1065578","v":"668496","t":"诚新二手车","a":"","c":"0", "p":"0" },{"i":"1065579","v":"668497","t":"龙信二手车","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"手机实拍", "nameid":9275, "pname":"shoujishipai", "rnum":2, "len":100, "dv":"", "na":0, "value":[{"i":"1055850","v":"617383","t":"非实拍","a":"","c":"9275", "p":"0" },{"i":"1055851","v":"617382","t":"实拍","a":"","c":"0", "p":"0" }], "regs":[]},{"type":3, "name":"是否批发", "nameid":9399, "pname":"shifoupifa", "rnum":2, "len":1, "dv":"", "na":1, "value":[{"i":"1057053","v":"661125","t":"是","a":"","c":"0", "p":"0" },{"i":"1057054","v":"661126","t":"否","a":"","c":"0", "p":"0" }], "regs":[]},{"type":3, "name":"过户费用", "nameid":7500, "pname":"guohufeiyong", "rnum":2, "len":20, "dv":"", "na":1, "value":[{"i":"926826","v":"553664","t":"不包括过户费用","a":"","c":"7500", "p":"0" },{"i":"926825","v":"553663","t":"包括过户费用","a":"","c":"0", "p":"0" }], "regs":[]}];
+$.cmcs.infoPara = [];
+$(document).ready($.cmcs.initAutoTR);
+$(document).ready(function(){
+    $('#zimu').parent().parent().hide(); // 隐藏字母
+    //修改状态下，控制个人、商家以及隐藏的我是商家的选择
+    if(myInfo.infoID != 0){
+		if($("input:checkbox[name=IsBiz]").attr("checked") == true){
+			$('input:radio[name="faburen"]:eq(0)').attr("disabled",true);
+			$('input:radio[name="faburen"]:eq(1)').attr("checked",true);
+		}else{
+			$('input:radio[name="faburen"]:eq(0)').attr("checked",true);
+		}
+		//修改状态拆分还原标题
+		var title = '';
+		var titles = title.split("-");
+		var size = titles.length;
+		$("#_preTitle").val(titles[0]);
+		$("#titleEnd").val(titles[size-1]);
+		$('#_preTitle').attr("readonly", "readonly");
+		//信息修改时还原包含过户费用
+		var pv = "$guohufeiyong_up";
+		if(pv == "553663"){
+			$("#guohufeiyong").attr("checked","checked")
+			$("#guohufeiyong").val(pv);
+		}
+    }
+
+    //隐藏上牌年份(购车时间)
+    $("#buytime").parent().parent().hide();
+    $("#shangpaiyuefen").parent().parent().hide();
+    $("#buyfrom").parent().parent().hide();
+    $("#baoyang").parent().parent().hide();
+    $("#yunying").parent().parent().hide();
+    $("#shiguqk").parent().parent().hide();
+    $("#chengse").parent().parent().hide();
+    $("#neishi").parent().parent().hide();
+    $("input:checkbox[name='neishiquexian']").parent().parent().parent().hide();
+    $("#syxian").parent().parent().hide();
+    $("#baoxianandbianhao").parent().parent().hide();
+    $("#shouxu").parent().parent().hide();
+    $("#cheshenyanse").parent().parent().hide();
+    //页面加载的时候直接加载iframe
+    $("#carIframeTR").show();
+	try{
+		window.frames["carFrame_name"].initParas("{}");
+	}catch(e){
+		$('#carframe_id').load(function (){
+			window.frames["carFrame_name"].initParas("{}");
+		});
+	}
+	//绑定包含过户费用选项事件
+	$("#guohufeiyong").bind("click",function(){
+		if($("#guohufeiyong").attr("checked") == true){
+			$("#guohufeiyong").val("553663");
+		}else{
+			$("#guohufeiyong").val("553664");
+		}
+	});
+	if(myInfo.infoID != 0){
+		$("#yczhibao").val();
+	}
+});
+// 首次加载
+var isFirstLoad = true;
+
+// 品牌创建后的事件
+function brand_created(){
+    $('#brand').parent().parent().hide(); // 隐藏品牌
+    
+     $('#brand').change(function(){
+        reloadTitle();
+    }); 
+    pinPaiBrandCallback();
+    default_pinpai_selected();
+}
+
+//车系创建后的事件
+function chexi_created(){
+    reloadCustomInput();
+    //$('#trWriting').show();
+    
+    $('#chexi').change(function(){
+//        setTimeout(function(){
+            reloadTitle();
+            showCustomeInput();
+            reloadCustomInput();
+//        }, 700);
+    });
+    //没有车型的车系数据处理颜色加载问题
+    var carchexingObj = document.getElementById("carchexing");
+	if(carchexingObj == null){
+		try{
+			window.frames["carFrame_name"].initParas("{}");
+		}catch(e){
+			$('#carframe_id').load(function (){
+				window.frames["carFrame_name"].initParas("{}");
+				
+			});
+		};
+	}
+    //信息修改时数据处理
+    if(myInfo.infoID != 0){
+			//修改状态下兼容就数据，将车系和车系别名(车型名称)组合
+	    	$("#_preTitle").val("");
+	        var titleStr = getTitleStr();
+	        if(titleStr){
+	        	//超过25个字，第24个字以后以...代替
+	        	if(titleStr.length &gt; 50){
+	        		titleStr = titleStr.substr(0, 49);
+	        		titleStr = titleStr + '...';
+	        	}
+	        }
+	    	$("#_preTitle").val(titleStr);
+	    	$('#_preTitle').attr("readonly", "readonly");
+	    	//信息修改状态下车系下没有车型数据时iframe值还原问题
+			function setInfo(){
+	        	var frameInfo ={info:{}}
+	    		//车型颜色
+	    		if($.cmcs.getValueByParaID(6810)){
+	    			frameInfo.info.yanse = $.cmcs.getValueByParaID(6810);
+	    		}else{
+	    			frameInfo.info.yanse = $.cmcs.getValueByParaID(4917);
+	    		}
+	    		//上牌年份
+	    		if($.cmcs.getValueByParaID(1196)){
+	    			frameInfo.info.y_shangpai = $.cmcs.getValueByParaID(1196);
+	    		}
+	    		//上牌月份
+	    		if($.cmcs.getValueByParaID(6860)){
+	    			frameInfo.info.m_shangpai = $.cmcs.getValueByParaID(6860);
+	    		}
+	    		//购买来源
+	    		if($.cmcs.getValueByParaID(6852)){
+	    			frameInfo.info.buyfrom = $.cmcs.getValueByParaID(6852);
+	    		}
+	    		//是否定期4s保养
+	    		if($.cmcs.getValueByParaID(6855)){
+	    			frameInfo.info.baoyang = $.cmcs.getValueByParaID(6855);
+	    		}
+	    		//是否运营车辆
+	    		if($.cmcs.getValueByParaID(6853)){
+	    			frameInfo.info.yunying = $.cmcs.getValueByParaID(6853);
+	    		}
+	    		//事故状况
+	    		if($.cmcs.getValueByParaID(4922)){
+	    			frameInfo.info.shiguqk = $.cmcs.getValueByParaID(4922);
+	    		}
+	    		//事故描述
+	    		if($.cmcs.getValueByParaID(6861)){
+	    			frameInfo.info.shigumiaoshu=$.cmcs.getValueByParaID(6861);
+	    		}
+	    		//外观成色
+	    		if($.cmcs.getValueByParaID(6856)){
+	    			frameInfo.info.chengse=$.cmcs.getValueByParaID(6856);
+	    		}
+	    		//内饰状况
+	    		if($.cmcs.getValueByParaID(6857)){
+	    			frameInfo.info.neishi=$.cmcs.getValueByParaID(6857);
+	    		}
+	    		//内饰缺陷
+	    		if($.cmcs.getValueByParaID(6866)){
+	    			frameInfo.info.neishimiaoshu= "|" + $.cmcs.getValueByParaID(6866) + "|";
+	    		}
+	    		//是否有商业险
+	    		if($.cmcs.getValueByParaID(6869)){
+	    			frameInfo.info.shangyexian= $.cmcs.getValueByParaID(6869);
+	    		}
+	    		//手续是否齐全   
+	    		if($.cmcs.getValueByParaID(6859)){
+	    			frameInfo.info.shouxu= $.cmcs.getValueByParaID(6859);
+	    		}
+	    		//年检时间
+	    		if($.cmcs.getValueByParaID(4923)){
+	    			var cjshijianStr = $.cmcs.getValueByParaID(4923)
+	     			var cjshijians = cjshijianStr.split("|");
+	     			frameInfo.info.y_nianjian = cjshijians[0]
+	     			frameInfo.info.m_nianjian = cjshijians[1];
+	    		}
+	    		//强险时间
+	    		if($.cmcs.getValueByParaID(6867)){
+	    			var qxshijianStr = $.cmcs.getValueByParaID(6867)
+	     			var qxshijians = qxshijianStr.split("|");
+	     			frameInfo.info.y_jiaoqiangxian = qxshijians[0]
+	     			frameInfo.info.m_jiaoqiangxian = qxshijians[1];
+	    		}
+	    		//商业险时间
+	    		if($.cmcs.getValueByParaID(6870)){
+	    			var syshijianStr = $.cmcs.getValueByParaID(6870)
+	     			var syshijians = syshijianStr.split("|");
+	     			frameInfo.info.y_shangyexian = syshijians[0];
+	     			frameInfo.info.m_shangyexian = syshijians[1];
+	    		}
+	    		//设置颜色
+	    		frameInfo.carColor = "";
+	    		//设置上牌时间
+	    		frameInfo.buytime = "";
+	    		//设置停售时间
+	    		frameInfo.tingshoushijian = "";
+	    		window.frames["carFrame_name"].initParas(frameInfo);
+	        }
+	        $('#carframe_id').load(setInfo);
+	    	try{setInfo();}catch(e){}
+		
+    }
+    cheSeriesCallback();
+    joinCreateCheXi&amp;&amp;carTriggerW("chexi", "cheXi");
+}
+// 车型创建后的事件
+function carchexing_created(){
+    if(myInfo.infoID != '0'){ showCustomeInput(); }
+    $('#carchexing').bind('change', function(){
+        reloadTitle();
+        // 车型选择后隐藏自定义输入框
+        showCustomeInput();
+        reloadCustomInput();
+    	var carchexingObj = document.getElementById("carchexing");
+    	var chexingName = carchexingObj.options[carchexingObj.selectedIndex &gt; -1 ? carchexingObj.selectedIndex : 0].text; 
+    	var chexingVid = carchexingObj.options[carchexingObj.selectedIndex &gt; -1 ? carchexingObj.selectedIndex : 0].getAttribute("vid");
+    	var url = "/ajax/?action=getcarparams&amp;cateid=" + 29 +"&amp;cityid="+ 2050 + "&amp;key=" + encodeURIComponent(chexingName) + "&amp;vid=" + chexingVid + "&amp;parameterid=5868&amp;mpn=0&amp;mvn=0";
+    	$.ajax({
+    		type:'post',
+    		url:url,
+    		dataType:'json',
+    		success: function(data){
+    			try{
+	    			window.frames["carFrame_name"].initParas(data.para)
+    			}catch(e){
+					$('#carframe_id').load(function (){
+						window.frames["carFrame_name"].initParas(data.para);
+					});
+    			}
+    			
+    		}
+    	});
+    	$("#carIframeTR").show();
+        
+    });
+    isFirstLoad = false;
+    
+    if(myInfo.infoID != 0){
+    	//修改状态下兼容就数据，将车系和车系别名(车型名称)组合
+    	$("#_preTitle").val("");
+        var titleStr = getTitleStr();
+        if(titleStr){
+        	//超过25个字，第24个字以后以...代替
+        	if(titleStr.length &gt; 50){
+        		titleStr = titleStr.substr(0, 49);
+        		titleStr = titleStr + '...';
+        	}
+        }
+    	$("#_preTitle").val(titleStr);
+    	//信息修改状态下ajax请求获取相关参数
+		var carchexingObj = document.getElementById("carchexing");
+		var chexingName = carchexingObj.options[carchexingObj.selectedIndex &gt; -1 ? carchexingObj.selectedIndex : 0].text; 
+		var chexingVid = carchexingObj.options[carchexingObj.selectedIndex &gt; -1 ? carchexingObj.selectedIndex : 0].getAttribute("vid");
+		var url = "/ajax/?action=getcarparams&amp;cateid=" + 29 +"&amp;cityid="+ 2050 + "&amp;key=" + encodeURIComponent(chexingName) + "&amp;vid=" + chexingVid + "&amp;parameterid=5868&amp;mpn=0&amp;mvn=0";
+		$.ajax({
+			type:'post',
+			url:url,
+			dataType:'json',
+			success: function(data){
+	    			function setInfo(){
+	    	        	var frameInfo ={info:{}}
+	    	    		//车型颜色
+	    	    		if($.cmcs.getValueByParaID(6810)){
+	    	    			frameInfo.info.yanse = $.cmcs.getValueByParaID(6810);
+	    	    		}else{
+	    	    			frameInfo.info.yanse = $.cmcs.getValueByParaID(4917);
+	    	    		}
+	    	    		//上牌年份
+	    	    		if($.cmcs.getValueByParaID(1196)){
+	    	    			frameInfo.info.y_shangpai = $.cmcs.getValueByParaID(1196);
+	    	    		}
+	    	    		//上牌月份
+	    	    		if($.cmcs.getValueByParaID(6860)){
+	    	    			frameInfo.info.m_shangpai = $.cmcs.getValueByParaID(6860);
+	    	    		}
+	    	    		//购买来源
+	    	    		if($.cmcs.getValueByParaID(6852)){
+	    	    			frameInfo.info.buyfrom = $.cmcs.getValueByParaID(6852);
+	    	    		}
+	    	    		//是否定期4s保养
+	    	    		if($.cmcs.getValueByParaID(6855)){
+	    	    			frameInfo.info.baoyang = $.cmcs.getValueByParaID(6855);
+	    	    		}
+	    	    		//是否运营车辆
+	    	    		if($.cmcs.getValueByParaID(6853)){
+	    	    			frameInfo.info.yunying = $.cmcs.getValueByParaID(6853);
+	    	    		}
+	    	    		//事故状况
+	    	    		if($.cmcs.getValueByParaID(4922)){
+	    	    			frameInfo.info.shiguqk = $.cmcs.getValueByParaID(4922);
+	    	    		}
+	    	    		//事故描述
+	    	    		if($.cmcs.getValueByParaID(6861)){
+	    	    			frameInfo.info.shigumiaoshu=$.cmcs.getValueByParaID(6861);
+	    	    		}
+	    	    		//外观成色
+	    	    		if($.cmcs.getValueByParaID(6856)){
+	    	    			frameInfo.info.chengse=$.cmcs.getValueByParaID(6856);
+	    	    		}
+	    	    		//内饰状况
+	    	    		if($.cmcs.getValueByParaID(6857)){
+	    	    			frameInfo.info.neishi=$.cmcs.getValueByParaID(6857);
+	    	    		}
+	    	    		//内饰缺陷
+	    	    		if($.cmcs.getValueByParaID(6866)){
+	    	    			frameInfo.info.neishimiaoshu= "|" + $.cmcs.getValueByParaID(6866) + "|";
+	    	    		}
+	    	    		//是否有商业险
+	    	    		if($.cmcs.getValueByParaID(6869)){
+	    	    			frameInfo.info.shangyexian= $.cmcs.getValueByParaID(6869);
+	    	    		}
+	    	    		//手续是否齐全   
+	    	    		if($.cmcs.getValueByParaID(6859)){
+	    	    			frameInfo.info.shouxu= $.cmcs.getValueByParaID(6859);
+	    	    		}
+	    	    		//年检时间
+	    	    		if($.cmcs.getValueByParaID(4923)){
+	    	    			var cjshijianStr = $.cmcs.getValueByParaID(4923)
+	    	     			var cjshijians = cjshijianStr.split("|");
+	    	     			frameInfo.info.y_nianjian = cjshijians[0]
+	    	     			frameInfo.info.m_nianjian = cjshijians[1];
+	    	    		}
+	    	    		//强险时间
+	    	    		if($.cmcs.getValueByParaID(6867)){
+	    	    			var qxshijianStr = $.cmcs.getValueByParaID(6867)
+	    	     			var qxshijians = qxshijianStr.split("|");
+	    	     			frameInfo.info.y_jiaoqiangxian = qxshijians[0]
+	    	     			frameInfo.info.m_jiaoqiangxian = qxshijians[1];
+	    	    		}
+	    	    		//商业险时间
+	    	    		if($.cmcs.getValueByParaID(6870)){
+	    	    			var syshijianStr = $.cmcs.getValueByParaID(6870)
+	    	     			var syshijians = syshijianStr.split("|");
+	    	     			frameInfo.info.y_shangyexian = syshijians[0];
+	    	     			frameInfo.info.m_shangyexian = syshijians[1];
+	    	    		}
+	    	    		//设置颜色
+	    	    		frameInfo.carColor = data.para.carColor;
+	    	    		//设置上牌时间
+	    	    		frameInfo.buytime = data.para.buytime;
+	    	    		//设置停售时间
+	    	    		frameInfo.tingshoushijian = data.para.tingshoushijian;
+	    	    		window.frames["carFrame_name"].initParas(frameInfo);
+	    	        }
+	    	        $('#carframe_id').load(setInfo);
+	    	    	try{setInfo();}catch(e){}
+			}
+		});
+	    
+	}
+    cheMoldCallback();
+    joinCreateCheXing&amp;&amp;carTriggerW("carchexing", "cheXing");
+}
+//酷车id创建之后的事件
+function kucheid_create(){
+	var kucheObj = document.getElementById("kucheid");
+	if(kucheObj){
+		var kucheid = kucheObj.options[kucheObj.selectedIndex &gt; -1 ? kucheObj.selectedIndex : 0].text;
+		if(kucheid &gt; 0){
+			var url = "/ajax/?action=getcarpaifang&amp;kucheid=" + kucheid + "&amp;cateid=" + 29 + "&amp;nameid=8891";
+			$.ajax({
+				type:'post',
+				url:url,
+				dataType:'text',
+				success:function(data){
+					$("#paifangbiaozhun").val(data);
+				}
+			
+			});
+		}
+	}
+}
+//车系别名联动事件
+function chexibieming_create(){
+    $('#chexibieming').change(function(){
+        reloadTitle();
+    }); 
+}
+//获取匹配车系、车型等下拉框的标题字符串
+function getTitleStr(){
+	var v1 = '', v2 = '', v3 = '',str = '',value3='';
+    var c1 = $('#brand');
+    var c2 = $('#chexi');
+    var c3 = $('#carchexing');
+    
+    // 品牌
+    if(c1.length &gt; 0){
+        if(c1.get(0).selectedIndex &gt; 0){
+            v1 = c1.get(0).options[c1.get(0).selectedIndex].text;
+        }
+    }
+    
+    // 车系
+    if(c2.length &gt; 0){
+        if(c2.get(0).selectedIndex &gt; 0){
+            v2 = ' ' + c2.get(0).options[c2.get(0).selectedIndex].text;
+        }
+    }
+    
+    // 车型
+    if(c3.length &gt; 0){
+        if(c3.get(0).selectedIndex &gt; 0){
+            v3 = ' ' + c3.get(0).options[c3.get(0).selectedIndex].text;
+            value3 = c3.get(0).options[c3.get(0).selectedIndex].value;
+        }
+    }
+    var Vchexibieming = '';
+    //车系别名
+	var chexibiemingObj = document.getElementById("chexibieming");
+    if(chexibiemingObj != null){
+    	Vchexibieming = chexibiemingObj.options[chexibiemingObj.selectedIndex &gt; -1 ? chexibiemingObj.selectedIndex : 0].text;
+    	var cxbiemingValue = chexibiemingObj.options[chexibiemingObj.selectedIndex &gt; -1 ? chexibiemingObj.selectedIndex : 0].value;
+    	if(cxbiemingValue != ""){
+        	if(value3 != ""){
+        		str = Vchexibieming + v3;
+        	}else{
+        		str = Vchexibieming;
+        	}
+    	}
+    }else if(value3 != ""){
+    	str = v2 + v3;
+    }else{
+    	str = v2;
+    }
+    //调用标题优化新需求
+    var strObj=setTitleZdy(v1,v2,v3,value3);
+    if(strObj.b){str=strObj.str}
+    return str;
+}
+//标题新优化需求处理方法
+function setTitleZdy(v1,v2,v3,value3){
+    var bieming="";
+    var vstr="";
+    var b=false;
+    //处理车系别名
+    if(document.getElementById("chexibieming")){
+        bieming= $("#chexibieming")[0].options[$("#chexibieming")[0].selectedIndex &gt; -1 ? $("#chexibieming")[0].selectedIndex : 0].text;
+    }else{
+        bieming=v1+v2;
+    }
+    if(value3 == ""&amp;&amp;$('#carchexing').length&gt;0){//自定义车型
+        vstr=bieming+" "+$("#cheXing").val()+" "+diaoyongSpnf();
+       b=true;
+    }
+    if($("#chexi").length&gt;0&amp;&amp;$('#carchexing').length&lt;=0){//有车系没有车型的时候
+        vstr=bieming+" "+diaoyongSpnf();
+        b=true;
+    }
+    return{
+        b:b,
+        str:vstr
+    }
+}
+function diaoyongSpnf(){
+    var str="";
+    try{
+        str=window.frames["carFrame_name"].shangpaiNianFen();
+    }catch(e){
+        $('#carframe_id').load(function (){
+            str=window.frames["carFrame_name"].shangpaiNianFen();
+
+        });
+    };
+    return str;
+}
+
+// 刷新标题
+function reloadTitle(){
+    if(isFirstLoad &amp;&amp; isAdd()==false) return;
+    var v1 = '', v2 = '', v3 = '',str = '',value3='';
+    var c1 = $('#brand');
+    var c2 = $('#chexi');
+    var c3 = $('#carchexing');
+    
+    // 品牌
+    if(c1.length &gt; 0){
+        if(c1.get(0).selectedIndex &gt; 0){
+            v1 = c1.get(0).options[c1.get(0).selectedIndex].text;
+        }
+    }
+    
+    // 车系
+    if(c2.length &gt; 0){
+        if(c2.get(0).selectedIndex &gt; 0){
+            v2 = ' ' + c2.get(0).options[c2.get(0).selectedIndex].text;
+        }
+    }
+    
+    // 车型
+    if(c3.length &gt; 0){
+        if(c3.get(0).selectedIndex &gt; 0){
+            v3 = ' ' + c3.get(0).options[c3.get(0).selectedIndex].text;
+            value3 = c3.get(0).options[c3.get(0).selectedIndex].value;
+        }
+    }
+    var Vchexibieming = '';
+    //车系别名
+	var chexibiemingObj = document.getElementById("chexibieming");
+    if(chexibiemingObj != null){
+    	Vchexibieming = chexibiemingObj.options[chexibiemingObj.selectedIndex &gt; -1 ? chexibiemingObj.selectedIndex : 0].text;
+    	var cxbiemingValue = chexibiemingObj.options[chexibiemingObj.selectedIndex &gt; -1 ? chexibiemingObj.selectedIndex : 0].value;
+    	if(cxbiemingValue != ""){
+        	if(value3 != ""){
+        		str = Vchexibieming + v3;
+        	}else{
+        		str = Vchexibieming;
+        	}
+    	}
+    }else if(value3 != ""){
+    	str = v2 + v3;
+    }else{
+    	str = v2;
+    }
+    //调用标题优化新需求
+    var strObj=setTitleZdy(v1,v2,v3,value3);
+    if(strObj.b){str=strObj.str}
+    if(str){
+    	//超过25个字，第24个字以后以...代替
+    	if(str.length &gt; 50){
+    		str = str.substr(0, 49);
+    		str = str + '...';
+    	}
+    }
+    $('#_preTitle').val(str);
+    $('#_preTitle').attr("readonly", "readonly");
+}
+
+// 车型选择后隐藏自定义输入框
+function showCustomeInput(){
+    $('#trWriting').hide(); // 默认是隐藏的
+    
+    var c1 = $('#chexi');
+    var c2 = $('#carchexing');
+    if(c1.length &gt; 0 &amp;&amp; c2.length == 0){
+        // 有车系、无车型
+        if(true || c1.get(0).selectedIndex == 0){
+           // $('#trWriting').show();
+        }
+        return;
+    }
+    
+    if(c1.length &gt; 0 &amp;&amp; c2.length &gt; 0){
+        // 有车系、有车型
+        if(c1.get(0).selectedIndex == 0 || c2.get(0).selectedIndex == 0){
+//            $('#trWriting').show();
+        }
+    } 
+}
+
+// 刷新车型自定义输入框
+function reloadCustomInput(){
+    if(isFirstLoad &amp;&amp; isAdd()==false) return;
+    var v1 = '', v2 = '';
+    v1 = $('#brand').get(0).options[$('#brand').get(0).selectedIndex].text;
+    if($('#chexi').length &gt; 0){
+        if($('#chexi').get(0).selectedIndex &gt; 0){
+            v2 = $('#chexi').get(0).options[$('#chexi').get(0).selectedIndex].text;
+        }    
+    }
+    $('#erscpinpai').val(v1 + v2);
+}
+
+//基本色创建后的事件(隐藏车型颜色、基本色元素)
+function jibense_created(){
+	$("#chexingyanse").parent().parent().hide();
+	$("#jibense").parent().parent().hide();
+}
+</script>
+<script type="text/javascript" desc="字母品牌弹出层的控制脚本">
+
+    $(document).ready(function() {
+//        initPopLinks(); // 初始化弹窗链接
+
+        // 初始化点击事件
+        $('#linkSelectCar').click(function(event) {
+            event.stopPropagation(); // 禁止冒泡
+            $('#divSelectCarPinPai').show();
+        });
+
+        // 修改界面加载后显示品牌名称
+        if (myInfo.infoID != '0') {
+            setTimeout(function() {
+                if ($('#brand').length &gt; 0) {
+                    reloadPinpaiLink();
+                } else {
+                    setTimeout(reloadPinpaiLink, 1000);
+                }
+            }, 1000);
+        }
+    });
+
+    // 修改界面加载后显示品牌名称
+    function reloadPinpaiLink() {
+        if ($('#brand').length &gt; 0) {
+            var v1 = $('#brand').get(0).options[$('#brand').get(0).selectedIndex].text;
+            changeLinkSelectCar(v1);
+        }
+    }
+
+    // 初始化弹窗链接
+    function initPopLinks() {
+        $('dd[zm]').each(function(i, e) {
+            var zm = $(this).attr('zm');
+            var pp = $(this).html();
+            var htm = '&lt;a href="javascript:void(0);" onclick="get_zimu_pinpai(\'' + zm + '\', \'' + pp + '\');"&gt;' + pp + '&lt;/a&gt;';
+            $(this).html(htm);
+        });
+    }
+
+    // 获取字母品牌下面的数据
+    var default_pinpai = null; // 默认的品牌
+    function get_zimu_pinpai(zimu, pinpai) {
+        pinpai = $.trim(pinpai);
+        default_pinpai = pinpai;
+        var index = getZimuIndex(zimu);
+        $('#zimu').get(0).selectedIndex = index + 1;
+        $('#zimu').trigger('change');
+//        $('#divSelectCarPinPai').hide();
+    }
+
+    // 品牌加载后默认选中一个品牌
+    function default_pinpai_selected() {
+        if (default_pinpai) {
+            $.c.common.setSelectedOption('brand', null, default_pinpai);
+            $('#brand').trigger('change');
+            changeLinkSelectCar(default_pinpai);
+            default_pinpai = null;
+        }
+    }
+    function getZimuIndex(val) {
+        var index = -1;
+        var arr = $.cmcs.getParaItem('zimu').value;
+        $(arr).each(function(i, e) {
+            if (e.t.toLowerCase() == val.toLowerCase()) {
+                index = i;
+                return false;
+            }
+        });
+        return index;
+    }
+
+    // 品牌链接修改文本
+    function changeLinkSelectCar(str) {
+        $('#linkSelectCar').html(str + '&lt;i&gt;&lt;/i&gt;');
+    }
+    
+  //判断，如果用户登录是商家，设置发布人：个人为不可操作
+     if($("input:checkbox[name=IsBiz]").attr("checked") == true){
+    	$('input:radio[name="faburen"]:eq(0)').attr("disabled",true);
+    	$('input:radio[name="faburen"]:eq(1)').attr("checked",true);
+    	
+    }else{
+    	$('input:radio[name="faburen"]:eq(0)').attr("checked",true);
+    } 
+    //设置用户选择个人、商家来控制隐藏的"我是商家"
+    $('input:radio[name="faburen"]:eq(0)').click(function(){
+    	$("input:checkbox[name=IsBiz]").attr("checked",false);
+    });
+    $('input:radio[name="faburen"]:eq(1)').click(function(){
+    	$("input:checkbox[name=IsBiz]").attr("checked",true);
+    });
+</script>
+<script type="text/javascript" desc="车龄自动选择">
+    function get_chelingqj_index(buytime) {
+        var index = 0; // 索引
+//        var buytime = $('#buytime').val();
+        if (buytime) {
+            var _buytime = parseInt(buytime);
+            var cl = $('#chelingqj');
+            if (cl.length &gt; 0) {
+                var d = $.cmcs.getParaItem('chelingqj');
+                $(d.value).each(function(i, e) {
+                    var arr = e.v.split('_');
+                    if (arr.length == 2) {
+                        var a = parseInt(arr[0]);
+                        var b = parseInt(arr[1]);
+                        if (_buytime &gt;= a &amp;&amp; _buytime &lt;= b) {
+                            index = i + 1;
+                            return false;
+                        }
+                    }
+                });
+            }
+        }
+        return index;
+    }
+
+    $(document).ready(function() {
+        $('#chelingqj').parent().parent().hide();
+/*         $('#buytime').change(function() {
+            if ($('#chelingqj').length &gt; 0) {
+                $('#chelingqj').get(0).selectedIndex = get_chelingqj_index();
+            }
+        }); */
+    });
+</script>
+<script type="text/javascript">
+    // 里程区间自动选择
+    function rundistanceqj_selecting(val) {
+        var num = -1;
+        var val = $('#rundistance').val();
+        if (val) {
+            if(!isNaN(val)) {
+                num = parseInt(val);
+            }
+        }
+
+        var ddl = $('#rundistanceqj');
+        if (ddl.length &gt; 0) {
+            if (num &lt; 0) {
+                ddl.get(0).selectedIndex = 0;
+            } else {
+                var _data = $.cmcs.getParaItem('rundistanceqj');
+                $(_data.value).each(function(i, e) {
+                    var arr = e.v.split('_');
+                    if (arr.length == 2) {
+                        if (!isNaN(arr[0]) &amp;&amp; !isNaN(arr[1])) {
+                            var d1 = parseInt(arr[0], 10);
+                            var d2 = parseInt(arr[1], 10);
+                            if (num &gt;= d1 &amp;&amp; num &lt; d2) {
+                                ddl.val(e.v);
+                                return false;
+                            }
+                        }
+                    }
+                });
+            }
+        }
+    }
+    $(document).ready(function() {
+        $('#rundistance').blur(rundistanceqj_selecting);
+        $('#rundistanceqj').parent().parent().hide();
+        
+		//buytime元素创建之后添加转让价格的事件，获取行情数据等
+		if($("#buytime").length &gt; 0){
+        	
+        	$("#MinPrice").focus(function(){
+            	var carParam = window.frames["carFrame_name"].getInfo();
+            	if(carParam.error != undefined){ //判断如果iframe里面有未选中的情况，给予提示
+        			return false; 	
+            	}else{
+            		$("#buytime").val(carParam.info.y_shangpai);   //给上牌年份赋值
+            	}
+            	if(document.getElementById("kucheid")){
+	            	//获取行情数据
+	        		var buytimeObj = document.getElementById("buytime");
+	        		var year = buytimeObj.options[buytimeObj.selectedIndex &gt; -1 ? buytimeObj.selectedIndex : 0].text; 
+	         		var kecheObj = document.getElementById("kucheid");
+	         		var localid = 2050;
+	        		var modelid = kecheObj.options[kecheObj.selectedIndex &gt; -1 ? kecheObj.selectedIndex : 0].text; //处理ie9和ff下的selectedIndex默认值不一样的兼容性问题
+	        		var url = "/ajax/?action=hangqing&amp;modelid=" + modelid + "&amp;year=" + encodeURIComponent(year) + "&amp;localid=" + localid;
+	        		if(modelid &gt; 0){
+	        			$.ajax({
+	        				type:'post',
+	        				url:url,
+	        				dataType:'json',
+	        				success: function(data){
+	        					var hangqingHtml = '&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;div class="tips p5 w240 f12 c_999"&gt;';
+	        					if(data &amp;&amp; data.minprice != 0){
+	        						if(data.minprice != 0 &amp;&amp; data.maxprice != 0){
+	        							hangqingHtml += '&lt;p class="lh150"&gt;最新行情：&lt;span class="red"&gt;' + data.minprice  + '-' + data.maxprice +'&lt;/span&gt;万元&lt;/p&gt;';
+	        						}
+	        						if(data.guideprice != 0){
+	        							hangqingHtml += '&lt;p class="lh150"&gt;新车指导价：&lt;span class="red"&gt;' + data.guideprice + '&lt;/span&gt;万元&lt;/p&gt;';
+	        						}	
+	        					}
+	        					hangqingHtml += '&lt;/div&gt;&lt;/td&gt;';
+	        					if(data.minprice != "null" &amp;&amp; data.maxprice != "null" &amp;&amp; data.guideprice != "null" &amp;&amp; data.minprice != 0 &amp;&amp; data.maxprice != 0 &amp;&amp; data.guideprice != 0){
+	        						$("#_hangqingtrID").html(hangqingHtml);
+	        						$("#_hangqingtrID").show();
+	        					}
+	        				}
+	        			
+	        			});
+	        		}
+            	}
+        	});
+        	
+        	$("#MinPrice").blur(function(){
+        		$("#_hangqingtrID").empty();
+        		$("#_hangqingtrID").hide();
+        	});
+        }
+
+    });
+    
+</script>
+<script type="text/javascript">
+function ie6Style(){
+    if($.c.common.isIE6()){
+        $('#divSelectCarPinPai').css('top', '50px');
+    }
+}
+
+    // 品牌必选项检测
+    function checkbrand() {
+        var obj = $('#brand');
+        if (obj.length &gt; 0) {
+            if (obj.val() != '')
+                return true;
+        }
+        return false;
+    }
+    
+    //车系必选
+    function checkbrandchexi(){
+    	var obj = $('#chexi');
+        if (obj.length &gt; 0) {
+            if (obj.val() != '')
+                return true;
+        }
+        return false;
+    }
+    
+  // 兼容数据：排量、变速器
+    function setOldVersion(){
+        // 排量
+        var c1 = $('#displacement');
+        if(c1.length &gt; 0 &amp;&amp; c1.get(0).options.length &gt; 0){
+             if(c1.get(0).selectedIndex &gt; -1){
+                   var v1 = c1.get(0).options[c1.get(0).selectedIndex].text;
+                  $('#cspailiang').val(v1);
+                  //console.info(v1);
+              }
+        }
+        
+        // 变速器
+        var c2 = $('#gearbox');
+        if(c2.length &gt; 0 &amp;&amp; c2.get(0).options.length &gt; 0){
+             if(c2.get(0).selectedIndex &gt; -1){
+                    var v2 = c2.get(0).options[c2.get(0).selectedIndex].text;
+                   $('#biansuqi').val(v2);
+                   //console.info(v2);
+             }
+        }
+    }
+    $().ready(function() {
+    	$("#fabu").click(function(){
+    		if(window.document.getElementById('carframe_id').contentWindow.documentreadyState=="complete"){
+				window.frames["carFrame_name"].getInfo();
+				var fx = window.frames["carFrame_name"].$("#errorTip:first").offset().left;
+	            var fy = window.frames["carFrame_name"].$("#errorTip:first").offset().top;
+	            window.scrollTo(fx,fy);
+			}else{
+				setTimeout(GetIframeStatus,0);
+			}
+    	});
+$('#Content').attr('focus_height', 150).focus($.c.common.set_focus_height).blur($.c.common.set_blur_height);
+        ie6Style();
+        $('#trWriting').hide();
+		$.formValidator.initConfig({ formid: "aspnetForm", errorfocus: true, btnid: 'fabu', fun:function(){
+			if($("span[id$=_Tip]:first").length &gt; 0) {
+                var x = $("span[id$=_Tip]:first").offset().left;
+                var y = $("span[id$=_Tip]:first").offset().top;
+                window.scrollTo(x,y);
+            }
+			//发布之前存储相关参数
+        	var carParam = window.frames["carFrame_name"].getInfo();
+        	if(carParam.error != undefined){ //判断如果iframe里面有未选中的情况，给予提示
+        		var fx = window.frames["carFrame_name"].$("#errorTip:first").offset().left;
+                var fy = window.frames["carFrame_name"].$("#errorTip:first").offset().top;
+                window.scrollTo(fx,fy);
+    			return false; 	
+        	}else{
+        		//车型颜色
+        		if($("#chexingyanse").length &gt; 0){
+        			$("#chexingyanse").val(carParam.info.yanse);
+        		}else{
+        			$("#cheshenyanse").val(carParam.info.yanse);
+        		}
+        		//上牌年份
+        		$("#buytime").val(carParam.info.y_shangpai);
+        		
+        		//上牌年月
+        		if(carParam.info.y_shangpai == 1994){
+        			$("#shangpainianyue").val(180001);
+        			//上牌月份
+        			$("#shangpaiyuefen").val(515681);
+        		}else{
+        			var shangpai_ym = carParam.info.y_shangpai;
+            		var patrn=/^\d$/;
+            		if (patrn.exec(carParam.info.cardmonth)){
+            		//if(carParam.info.cardmonth &lt; 10){
+            			shangpai_ym = shangpai_ym + "0" + carParam.info.cardmonth;
+            		}else{
+            			shangpai_ym = shangpai_ym + carParam.info.cardmonth;
+            		}
+            		$("#shangpainianyue").val(shangpai_ym);
+            		//上牌月份
+            		$("#shangpaiyuefen").val(carParam.info.m_shangpai);
+        		}
+        		//购买来源
+        		$("#buyfrom").val(carParam.info.buyfrom);
+        		//是否定期4s保养
+        		$("#baoyang").val(carParam.info.baoyang);
+        		//是否运营车辆
+        		$("#yunying").val(carParam.info.yunying);
+        		//事故状况
+        		$("#shiguqk").val(carParam.info.shiguqk);
+        		//事故描述
+        		$("#shigumiaoshu").val(carParam.info.shigumiaoshu);
+        		//外观成色
+        		$("#chengse").val(carParam.info.chengse);
+        		//内饰状况
+        		$("#neishi").val(carParam.info.neishi);
+        		//内饰描述 存值
+        		if(typeof carParam.info.neishimiaoshu != "undefined"){
+        			var neishimiaoshu = carParam.info.neishimiaoshu;
+            		$("input:checkbox[name=quanxinmiaoshu]").attr("checked",false);
+             		var neishimiaoshuStr = neishimiaoshu.split("|");
+            		for(var i = 0; i &lt; neishimiaoshuStr.length; i++){
+    					if(neishimiaoshuStr[i] != ""){
+    						$("input:checkbox[value='" + neishimiaoshuStr[i] + "']").attr("checked",true);
+    					}
+            		} 
+        		}
+/*         		$(neishimiaoshu.split('|')).each(function(i, n){
+        		    $(':checkbox[name="neishiquexian"][value='+n+']').attr('checked', true);
+        		}); */
+        		
+        		//是否有商业险
+        		$("#syxian").val(carParam.info.shangyexian);
+     			//手续是否齐全  不需要进行处理 		
+        		$("#shouxu").val(carParam.info.shouxu);
+        		//年检时间
+     			if(carParam.info.m_nianjian == ""){
+     				var cjshijian = carParam.info.y_nianjian;
+     			}else{
+     				var cjshijian = carParam.info.y_nianjian + "|" + carParam.info.m_nianjian;
+     			}
+     			if(carParam.info.y_nianjian == "" &amp;&amp; carParam.info.m_nianjian == ""){
+     				$("#cjshijian").val("");
+     			}else{
+     				$("#cjshijian").val(cjshijian);
+     			}
+     			//强险时间
+     			if(carParam.info.m_jiaoqiangxian == ""){
+     				var qxshijian = carParam.info.y_jiaoqiangxian;
+     			}else{
+     				var qxshijian = carParam.info.y_jiaoqiangxian + "|" + carParam.info.m_jiaoqiangxian;
+     			}
+     			if(carParam.info.y_jiaoqiangxian == "" &amp;&amp; carParam.info.m_jiaoqiangxian == ""){
+     				$("#qxshijian").val("");
+     			}else{
+     				$("#qxshijian").val(qxshijian);
+     			}
+     			//商业险时间
+     			if(carParam.info.m_shangyexian == ""){
+     				var syshijian = carParam.info.y_shangyexian;
+     			}else{
+     				var syshijian = carParam.info.y_shangyexian + "|" + carParam.info.m_shangyexian;
+     			}
+     			if(carParam.info.y_shangyexian == "" &amp;&amp; carParam.info.m_shangyexian == ""){
+     				$("#syshijian").val("");
+     			}else{
+     				$("#syshijian").val(syshijian);
+     			}
+     			//处理车龄区间问题
+   	            if ($('#chelingqj').length &gt; 0) {
+   	                $('#chelingqj').get(0).selectedIndex = get_chelingqj_index(carParam.info.y_shangpai);
+   	            }
+        	}
+    	    //车型编号存储时判断是否有值，如果没有就新建编号(即发布)否则就沿用原有值(修改状态)
+    		//车型编号(当年月、日、时、分、秒的34进制)
+    	    if($("#xinxibianhao").val()){
+    	    	
+    	    }else{
+    	    	$("#xinxibianhao").val('B708H2');
+    	    }
+			//发布的时候将俩部分标题组合一起存放到Title参数
+			var matchTitle = getTitleStr();
+			var title = matchTitle + '-' + $("#titleEnd").val().replace(/-/g, "");
+			$("#Title").val(title);
+			
+		    if(!checkbrand()){
+		        alert('请选择品牌');
+		        return false;
+		    }
+		    if(!checkbrandchexi()){
+		        alert('请选择车系');
+		        return false;
+		    }
+		    setOldVersion();
+
+		    $.cmcs.fabu_click();
+            return true;
+        } });
+		
+        $('#erscpinpai').formValidator({ tipid:'erscpinpai_Tip', onfocus:'请先确定下拉选择中没有您的车型再手动填写' }).inputValidator({ onerror: "请输入车型" });
+			
+            $("#Content").formValidator({ tipid: "Content_Tip",onfocus: "10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除", 'defaultvalue':'' }).inputValidator({ onerror: "请填写补充说明" }).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", onerror: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" }).functionValidator({
+                fun: function(val, elem) {
+                    return $.formValidator.checkContent(val);
+                },
+                onerror: "内容太过简单"
+            });
+ 
+ //       $('#cheshenyanse').formValidator({ tipid:'buytime_Tip', onfocus:'' })
+//            .functionValidator({fun:function(val,elem){return val != '';}, onerror:'请选择车辆颜色'}).groupValidator({ groupName: "v2", nextgroupid: "buytime" });
+        $('#buytime').formValidator({ tipid:'buytime_Tip', onfocus:'', q2b:true }).functionValidator({ fun:function(val,elem){ return val != ''; }, onerror: "请选择上牌时间" }).groupValidator({ groupName: "v2", nextgroupid: "rundistance" });
+//        $('#rundistance').formValidator({ tipid:'rundistance_Tip', onfocus:'里程请填写数字', q2b:true , 'empty':true}).regexValidator({ regexp: "^\\S+$#^(([1-9]{1}(\\d{0,1}\\.[1-9]))|([1-9][0-9])|([1-9])|0\\.[1-9]|0\\.[1-9]?)$", onerror: "请填写里程#里程数最多2位整数和1位小数" }).functionValidator({fun:function(val,elem){return val != '0';}, onerror:'里程不能为0'});
+        $('#rundistance').formValidator({ tipid:'rundistance_Tip', onfocus:'里程请填写数字', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "^\\S+$#^(([0-9]{1}(\\d{0,1}\\.[0-9][0-9]?))|([0-9][0-9])|([0-9])|0\\.[0-9][0-9]?|0\\.[0-9]?)$", onerror: "请填写里程#里程数最多2位整数和2位小数" }).functionValidator({fun:function(val,elem){return parseFloat(val) != 0;}, onerror:'里程不能为0'});
+        $('#MinPrice').formValidator({ tipid:'MinPrice_Tip', onfocus:'价格请填写数字', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "^\\S+$#^(([1-9]{1}(\\d{0,2}\\.\\d{1,2}|\\d{0,2}))|([1-9]{1})|0\\.0[1-9]|0\\.[1-9]\\d?)$", onerror: "请填写价格#价格不能为0，最多3位整数和2位小数" });
+        $("#Title").formValidator({ tipid: "Title_Tip",onfocus: "标题将被展示在详情页和列表页最醒目的位置", q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "^[\\s\\S]*#^(.){0,100}$", onerror: "标题#标题不能超过100字" });
+        $("#titleEnd").formValidator({tipid:'titleEnd_Tip', onfocus:'一句话广告，15字以下，如：自家用车 成色很不错 没任何事故！顶配车辆  超高性价比之选等等', q2b:true, empty:'true'}).regexValidator({ regexp: "^([^\\s]\\s{0,3}(?!([0-9０１２３４５６７８９零一二三四五六七八九壹贰叁肆伍陆柒捌玖]{6})))+$", onerror: "一句话广告不允许填写联系方式" }).functionValidator({ fun:function(){ checkTitle();}});
+//        $('#Content').formValidator({ tipid:'Content_Tip', onfocus:'请输入车辆描述' , 'defaultvalue':''}).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", onerror: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" });
+		$("#Content").formValidator({ tipid: "Content_Tip",onfocus: "请输入车辆描述", 'defaultvalue':'' }).inputValidator({ onerror: "请输入补充说明" }).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", onerror: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" }).functionValidator({
+            fun: function(val, elem) {
+                var _r = $.formValidator.checkContent(val);
+                if(typeof _r == "string") return _r;
+                if(_r){
+                    if(val == '')
+                        return '补充说明是必填项';
+                    return true;
+                }
+            }
+        });
+		$('#Phone').formValidator({ tipid:'Phone_Tip', onfocus:'请正确填写电话号码，分机可以用"-"分开。', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "^[0-9][-|0-9]{4,18}[0-9]$", onerror: "电话填写错误。格式为6-20位数字或“-”" });
+        $('#goblianxiren').formValidator({ tipid:'goblianxiren_Tip', onfocus:'2~6个字，不能填写电话和联系方式', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "\\S+#^(.){2,6}$#^[\\w\\d\\s\\u4e00-\\u9fa5]*$", onerror: "请输入联系人#联系人不足2个字#联系人不能填写特殊符号" });
+		$('#IM').formValidator({ tipid:'IM_Tip', onfocus:'只能填写一个qq或msn。&lt;br&gt;格式如：123456 或 myname@58.com', q2b:true , 'empty':true}).regexValidator({ regexp: "(^[1-9]\\d{4,9}$)|(^\\w+((-\\w+)|(\\.\\w+))*\\@[A-Za-z0-9]+((\\.|-)[A-Za-z0-9]+)*\\.[A-Za-z0-9]+$)", onerror: "QQ或MSN输入错误" });
+    });
+	$(document).ready($.mobileReg.init);
+	//验证标题
+	  function checkTitle(){
+		  var titleCompose = $("#_preTitle").val() + $("#titleEnd").val();
+		  var regx = "^[\\s\\S]*#^(.){0,100}$";
+	      var err = "标题#标题不能超过100字";
+	      var arrReg = regx.split('#');
+	      var arrErr = err.split('#');
+		  for(var i = 0; i &lt; arrReg.length; i++){
+			  var regT = new RegExp(arrReg[i]);
+			  if(!regT.test(titleCompose)){
+				  return arrErr[i];
+			  }
+		  }
+	      return true;
+	  }
+		function GetIframeStatus(){
+			window.frames["carFrame_name"].getInfo();
+			if(window.frames["carFrame_name"].$("#errorTip:first").offset()){
+				var fx = window.frames["carFrame_name"].$("#errorTip:first").offset().left;
+		           var fy = window.frames["carFrame_name"].$("#errorTip:first").offset().top;
+		           window.scrollTo(fx,fy);
+			}
+		}
+</script>
+<script type="text/javascript">
+    // 车辆颜色下拉框事件
+/*     function cheshenyanse_onchange() {
+        var ddl = $('#cheshenyanse').get(0);
+        var text = ddl.options[ddl.selectedIndex].text;
+        if (text == '其它') {
+            $('#tbxyanse').val('').fadeIn();
+        } else {
+            $('#tbxyanse').fadeOut().val(text);
+        }
+    }
+    $('#cheshenyanse').change(cheshenyanse_onchange); */
+
+    // 修改状态下的加载
+    function isAdd() {
+        return '0' == '0';
+    }
+/*     function cheshenyanse_editInit() {
+        if (!isAdd()) {
+            var ddl = $('#cheshenyanse').get(0);
+            var text = ddl.options[ddl.selectedIndex].text;
+            if (text == '其它') $('#tbxyanse').show();
+        }
+    }
+    cheshenyanse_editInit(); */
+
+</script>
+<script type="text/javascript">
+    // 刷新价格区间
+    $(document).ready(function() {
+        $('#MinPrice').blur(refrashPriceQj);
+        $('#MinPriceqj').hide();
+        $('#MinPriceqj').parent().parent().hide();
+    });
+    function refrashPriceQj() {
+        var price = $('#MinPrice').val();
+        price = price * 100;
+        var qj = $('#MinPriceqj');
+        if (qj.length == 0) return;
+        if (price == '' || isNaN(price)) {
+            qj.get(0).selectedIndex = 0;
+        } else {
+            $('#MinPriceqj option').each(function(i, n) {
+                var str = n.value;
+                if (!!str) {
+                    var arr = str.split('_');
+                    if (arr.length == 2) {
+                        var p1 = parseInt(arr[0]);
+                        var p2 = parseInt(arr[1]);
+                        var p = parseInt(price);
+                        if (p &gt;= p1 &amp;&amp; p &lt;= p2) {
+                            $(qj).val(str);
+                            return false;
+                        }
+                    }
+                }
+            });
+        }
+    }
+</script>
+<script type="text/javascript">
+function getSelectValue(selectID){
+	//获取下拉框的值
+	var selectObjOptions = $("#" + selectID)[0].options;
+	var returnObj = {};
+	for(var i = 1; i &lt; selectObjOptions.length; i++){
+		returnObj[selectObjOptions[i].value] = selectObjOptions[i].text;
+	}
+	return returnObj;
+}
+</script>
+<script type="text/javascript" desc="新版图片上传接入">
+$(document).ready(function(){
+    UpImageShowBar.initBar({
+       labels:["选择类型", "左前","右后", "侧面", "仪表台", "内饰", "发动机舱", "后备箱", "轮胎"],
+       hazDetail:true,
+       container:"uploadImgcontainer",
+       imgMax:8,
+       images:getPicValueForUpdate()
+    });
+
+});
+
+// 接收图片控件的值
+function getPicValueForPost() {
+    var pic = [];
+    var tag = [];
+    var desc = [];
+    var data = UpImageShowBar.getImgs();
+    if(data != null &amp;&amp; data.length &gt; 0) {
+        $(data).each(function(i, n){
+            // 标签
+            var _tag = n.label;
+            if(_tag == null) _tag = '';
+            tag.push(_tag);
+
+            // 图片路径
+            var _url = n.url;
+            _url = _url.replace('http://pic.58.com', '').replace('/tiny/', '/big/');
+            pic.push(_url);
+            desc.push(n.detail);
+            // 描述
+        });
+    }
+    return { "pic" : pic, "tag" : tag, "desc" : desc };
+}
+
+// 图片元素赋值
+function setPicValueForPost() {
+	// init
+	$('#pic').val('');
+	$('#pictag').val('');
+	$('textarea[name^=picdesc]').val('');
+	// set value
+    var data = getPicValueForPost();
+    $.bll.xiaobao.create('pic', data.pic.join('|'));
+    $.bll.xiaobao.create('pictag', data.tag.join('|'));
+    $(data.desc).each(function(i,n){
+        var id = 'picdesc' + (++i);
+        $.bll.xiaobao.create(id, n);
+    });
+}
+
+// 获取图片数据用于修改时还原
+function getPicValueForUpdate() {
+    var data = [];
+    if($('#pic').val().length &gt; 10) {
+        var pic = $('#pic').val().split('|');
+        var tag = $('#pictag').val().split('|');
+        var desc = [];
+        $(pic).each(function(i, n){
+            var _tag = '';
+            if(i &lt;= tag.length - 1) _tag = tag[i];
+            data.push({'url': 'http://pic.58.com' + n, 'label':_tag, detail: $('#picdesc' + (i+1)).val()});
+        });
+    }
+    return data;
+}
+
+$().ready(function(){
+    $("#fabu").click(setPicValueForPost);
+});
+//非法操作异常页面跳转
+function illegalRedirect(cityid, userid){
+	location.href = "/404.html?fromeCity=" + cityid + "&amp;userid=" + userid;
+}
+</script>
+<script type="text/javascript" src="http://pic2.58.com/js/v6/source/9a9f15c9e922e93d974917ae9493c99c.js?t=20131127"></script>
+<iframe style="display: none;" src="about:blank" id="formSubmit" name="formSubmit"></iframe>
+<script type="text/javascript">
+	var usertype = "person";
+	if(false){
+		usertype = "vip";
+	}else{
+		if(false){
+			usertype = "biz";
+		}
+	}
+	
+    var _gaq = _gaq || []; var site_name = "58"; var page_type = "post";
+    var _trackURL = "{'cate':'4,29','area':'2050','pagetype':'post','poststep':'fillout','postmode':'add','usertype':'person'}";
+    _gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+    _gaq.push(['pageTracker._setDomainName', '.58.com']);
+    _gaq.push(['pageTracker._setAllowLinker', true]);
+    _gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+    _gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+    _gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+    _gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+    _gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+    _gaq.push(['pageTracker._trackPageview','/hk/car/ershouche/' + usertype + '/fillout/add/']);
+    $.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+    $.getScript('http://track.58.com/referrer2.js');
+</script>
+<footer id="footer" class="footer">
+<p class="copyright">&copy; 58.com <a target="top" href="http://about.58.com/v5/">帮助中心</a></p>
+</footer>
+<script type="text/javascript">
+
+	$('#formSubmit').attr('src', '/submit.htm'); </script> <div id="fkdiv"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" align="middle"> <param name="movie" value="http://pic2.58.com/js/5_1/91/fc.0709.swf"> </param><param name="quality" value="high"> </param><param name="allowScriptAccess" value="always"><embed allowscriptaccess="always" src="http://pic2.58.com/js/5_1/91/fc.0709.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true"></embed> </param></object></div><script type="text/javascript">$.c.fk.i('8af3d505-9dc9-43f8-97ba-4bcb0fce6b49');</script></body></html>

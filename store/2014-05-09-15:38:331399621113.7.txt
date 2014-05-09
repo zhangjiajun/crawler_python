@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<base target="_blank" />
+<title>关于58同城</title>
+<link href="about.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="header"><div id="headerinside"><a href="http://www.58.com" id="logo" title="到58同城首页" target="_self"><img src="http://pic2.58.com/images/logonew.gif" alt="中文最大生活信息门户" /></a><div id="citytit"></div><div id="banb"></div></div></div>
+<div id="nav"><div id="navlist">
+<ul>
+<li><a href="http://about.58.com/home/">首页</a></li>
+<li class="sexlk"><a href="javascript:void(0)" id="ahov01">58简介<i></i><span>
+<table><tr><td>
+<dl class="subnav">
+<dt></dt></dl></td></tr></table></span></a><a href="introduction.html">58简介</a>
+<dt><a href="honor.html">58大事记</a></dt>
+<dt><a href="environment.html">58环境</a></dt>
+<dt><a href="team.html">58团队掠影</a></dt>
+
+</li>
+<li class="sexlk"><a href="javascript:void(0)" id="ahov02">产品中心<i></i><span>
+<table><tr><td>
+<dl class="subnav">
+<dt></dt></dl></td></tr></table></span></a><a href="product.html">产品大全</a>
+<dt><a href="http://about.58.com/">帮助中心</a></dt>
+<dt><a href="http://about.58.com/online-kefu.html" target="_blank">举报与打假</a></dt>
+
+</li>
+<li class="sexlk"><a href="javascript:void(0)" id="ahov03">商业合作<i></i><span>
+<table><tr><td>
+<dl class="subnav">
+<dt></dt></dl></td></tr></table></span></a><a href="http://about.58.com/contract/a1/" target="_blank">推广服务</a>
+<dt><a href="http://biz.58.com/" target="_blank">渠道招商</a></dt>
+
+</li>
+<li><a href="http://about.58.com/hr/" target="_blank">招聘英才</a></li>
+<li><a href="/home/announcement.html">使用协议及公告</a></li>
+<li><a href="/home/companyannouncement.html">公司声明</a></li>
+<li class="sexlk"><a href="javascript:void(0)" id="ahov04">合作联系<i></i><span>
+<table><tr><td>
+<dl class="subnav">
+<dt></dt></dl></td></tr></table></span></a><a href="/home/cooperation.html" target="_blank">合作洽谈</a>
+<dt><a href="/home/contact.html" target="_blank">联系我们</a></dt>
+
+</li>
+<li id="navsear"><a href="" class="fwcp">访问58同城产品<span>
+<table><tr><td> <dl class="subnav" id="searsub">
+<dt></dt></dl></td></tr></table></span></a><a href="http://www.58.com/" target="_blank">58同城分类信息</a>
+<dt><a href="http://t.58.com/" target="_blank">58团购</a></dt>
+<dt><a href="http://www.kuche.com/" target="_blank">酷车网</a></dt>
+<dt><a href="http://bj.58.com.cn/" target="_blank">网邻通</a></dt>
+<dt><a href="http://wap.58.com/wap.html" target="_blank">58同城手机客户端</a></dt>
+</li>
+</ul></div></div><div class="clear"></div>
+<div id="boinside" class="ablour">
+<div class="cb">
+<h1 class="aboutit"><img src="images/lxwmtit.gif" /><span></span></h1>
+<div class="contact">
+<div class="service-tel">
+<h3>日常联系</h3>
+<table class="contact-table">
+<tbody>
+<tr>
+<th width="72">办公地址</th>
+<td> 北京市朝阳区北苑路乙108号北美国际商务中心E座</td>
+</tr>
+<tr>
+<th>邮政编码</th>
+<td> 100029 </td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- 联系我们结束 -->
+<p><b class="black ">乘车路线：</b><br />
+			开 车：北四环惠新东桥往北(小营路)直行到河边后右转100米即到。<br />
+			地 铁：5号线大屯东站，B1/2出口向北200米，至永顺发汽车服务中心（在北苑路东）右转向东800米。<br />
+			公 交：658、694 嘉铭园下车即到，或运通117、215、751、849、949、836、653、913、479、417、426、464、415、558、430、538、602、629 北苑路大屯北站下车，行至永顺发汽车服务中心（在北苑路东）右转，前行800米。<br /><br />
+<img src="images/bjmap.gif" class="dtml" /><br /><br /></p>
+</div>
+</div>
+</div><div class="clear"></div>
+<div id="footer"><div class="bg"><a href="http://www.58.com" id="foot_logo" target="_self"><img src="http://pic2.58.com/images/logonew.gif" alt="中文最大生活信息门户" /></a>
+<span class="contact">
+<a href="http://e.58.com/about/" class="mlno" target="_blank">渠道招商</a>|<a href="http://about.58.com/contract/a1/" target="_blank">推广服务</a>|<a href="/home/contact.html" class="red">联系我们</a>|<a href="http://about.58.com/">帮助中心</a></span><br />北京五八信息技术有限公司 © @ 58.com</div></div>
+<div style="display:none">
+<script type="text/javascript">
+var _gaq = _gaq || []; var site_name = "58";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._trackPageview']);
+(function() {  
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })(); </script><script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+</div></body></html>

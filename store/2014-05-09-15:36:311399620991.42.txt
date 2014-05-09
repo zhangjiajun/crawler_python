@@ -1,0 +1,1449 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【奥迪品荐二手斯柯达|奥迪品荐斯柯达汽车价格】-58同城</title>
+<meta name="keywords" content="奥迪品荐二手斯柯达，奥迪品荐斯柯达汽车价格" />
+<meta name="description" content="58同城奥迪品荐二手斯柯达频道为您提供大量奥迪品荐汽车价格信息，是经过厂商严格审核的奥迪品荐二手斯柯达信息，是您网上选购二手斯柯达的最佳选择。" />
+<link rel="stylesheet" href="http://static.58.com/ui7/car/aodi/aodi.css" type="text/css" />
+</head>
+<body>
+<div class="headercon">
+<div id="topbar">
+<div class="topcon">
+<ul>
+<li><a href="javascript:brandZoneNamespace.addBookmark();">收藏本专区</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com">58首页</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com/ershouche/">58二手车</a></li>
+</ul>
+</div>
+</div>
+<div class="header">
+<a href="/" class="logo"><img src="http://pic2.58.com/ui7/car/aodi/logo.png" alt="一汽-大众" width="79" height="16" /></a>
+<ul class="navlist"><!--导航条-->
+<li><a href="/">首页</a></li>
+<li><a href="/jieshao/">关于奥迪品荐</a></li>
+<li><a href="/fuwu/">奥迪品荐服务</a></li>
+<li><a href="/news/">奥迪品荐动态</a></li>
+<li><a href="/ershouche/" class="hover">二手车搜索</a></li>
+<li><a href="/shangjia/">经销商查询</a></li>
+</ul>
+<div class="audi"><a href="/"><img src="http://pic2.58.com/ui7/car/aodi/audi.png" width="143" height="20" alt="突破科技，启迪未来" /></a></div>
+</div>
+</div> <div class="dealerwrap">
+<div class="wrap">
+<div class="selection">
+<dl class="secitem01">
+<dt class="secitem_brand">所在地：</dt>
+<dd>
+<div class="obj-wrapper mr8">
+<div id="dealer-province" class="obj-cate-div">
+<span id="curr-province">选择省份</span>
+</div>
+</div>
+<div class="obj-wrapper">
+<div id="dealer-city" class="obj-cate-div">
+<span id="curr-city">选择城市</span>
+</div>
+</div>
+<input id="carListJinPin" type="hidden" />
+<input id="dealer-search" class="submitbtn" type="button" value="确定" />
+<span id="dealer-meg" class="dealermeg"></span>
+</dd>
+</dl>
+<div class="audidiv">
+<!-- 奥迪 begin  -->
+<dl class="secitem audisection">
+<dt class="secitem_brand">奥迪：&nbsp;&nbsp;&nbsp;&nbsp;</dt>
+<dd id="audi_chexi">
+<a href="http://audi.58.com/aliul/">A6L</a>
+<a href="http://audi.58.com/aodialiu/">A6</a>
+<a href="http://audi.58.com/asil/">A4L</a>
+<a href="http://audi.58.com/aodiqqi/">Q7</a>
+<a href="http://audi.58.com/aodiasi/">A4</a>
+<a href="http://audi.58.com/adabl/">A8L</a>
+<a href="http://audi.58.com/adqw/">Q5</a>
+<a href="http://audi.58.com/aoditt/">TT</a>
+<a href="http://audi.58.com/aodiyibai/">奥迪100</a>
+<a href="http://audi.58.com/aodiawu/">A5</a>
+<a href="http://audi.58.com/aodilb/">奥迪200</a>
+<a href="http://audi.58.com/aodirba/">R8</a>
+<a href="http://audi.58.com/adaljk/">A6(进口)</a>
+<a href="http://audi.58.com/aodiasan/">A3</a>
+<a href="http://audi.58.com/adqwjk/">Q5(进口)</a>
+<a href="http://audi.58.com/aqiqc/">A7</a>
+<a href="http://audi.58.com/aodiswu/">S5</a>
+<a href="http://audi.58.com/qsanqc/">Q3(进口)</a>
+<a href="http://audi.58.com/ayiqc/">A1</a>
+<a href="http://audi.58.com/aodiqsan/">Q3</a>
+<a href="http://audi.58.com/adasjk/">A4(进口)</a>
+</dd>
+</dl>
+<!-- 奥迪end -->
+<dl class="secitem">
+<dt class="secitem_brand">类型：</dt>
+<dd>
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a href="http://audi.58.com/jingjijiaoche/">轿车</a>
+<a href="http://audi.58.com/yeuyeche/">越野车/SUV</a>
+<a href="http://audi.58.com/mpv/">MPV</a>
+<a href="http://audi.58.com/paoche/">跑车</a>
+<a href="http://audi.58.com/keche/">客车</a>
+<a href="http://audi.58.com/mianbaoche/">面包车</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">品牌：</dt>
+<dd class="clearfix">
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a class="select" href="http://audi.58.com/sikeda/">斯柯达</a>
+<a href="http://audi.58.com/aodi/">奥迪</a>
+<a href="http://audi.58.com/dazhong/">大众</a>
+<a href="http://audi.58.com/bentian/">本田</a>
+<a href="http://audi.58.com/bieke/">别克</a>
+<a href="http://audi.58.com/fengtian/">丰田</a>
+<a href="http://audi.58.com/xiali/">夏利</a>
+<a href="http://audi.58.com/richan/">日产</a>
+<a href="http://audi.58.com/qirui/">奇瑞</a>
+<a href="http://audi.58.com/baoma/">宝马</a>
+<a href="http://audi.58.com/xiandai/">现代</a>
+<a href="http://audi.58.com/mazida/">马自达</a>
+<a href="http://audi.58.com/futianche/">福田</a>
+<a href="http://audi.58.com/biyadi/">比亚迪</a>
+<a href="http://audi.58.com/lingmu/">铃木</a>
+<a href="http://audi.58.com/xuetielong/">雪铁龙</a>
+<a href="http://audi.58.com/jili/">吉利</a>
+<a href="http://audi.58.com/benchi/">奔驰</a>
+<a href="http://audi.58.com/changanche/">长安</a>
+<a href="http://audi.58.com/fute/">福特</a>
+<a id="moreBrand" name="b_link" para="custom" cl="" href="javascript:void(0)">更多<i class="bak_i_down"></i>
+<!-- &lt;i class="bak_i"&gt;&lt;/i&gt; --></a>
+<div id="moreBrandContainer" class="morepinpai">
+<br /> <a href="http://audi.58.com/xuefulan/">雪佛兰</a>
+<a href="http://audi.58.com/jinbei/">金杯</a>
+<a href="http://audi.58.com/qiya/">起亚</a>
+<a href="http://audi.58.com/jianghuai/">江淮</a>
+<a href="http://audi.58.com/biaozhi/">标致</a>
+<a href="http://audi.58.com/jeep/">吉普</a>
+<a href="http://audi.58.com/yiqi/">一汽</a>
+<a href="http://audi.58.com/zhonghua/">中华</a>
+<a href="http://audi.58.com/jinlong/">金龙</a>
+<a href="http://audi.58.com/hafei/">哈飞</a>
+<a href="http://audi.58.com/feiyate/">菲亚特</a>
+<a href="http://audi.58.com/haima/">海马</a>
+<a href="http://audi.58.com/dadi/">长城</a>
+<a href="http://audi.58.com/leikesasi/">雷克萨斯</a>
+<a href="http://audi.58.com/rongwei/">荣威</a>
+<a href="http://audi.58.com/sanling/">三菱</a>
+<a href="http://audi.58.com/luhu/">路虎</a>
+<a href="http://audi.58.com/woerwo/">沃尔沃</a>
+<a href="http://audi.58.com/baoshijie/">保时捷</a>
+<a href="http://audi.58.com/baicmotor/">北汽</a>
+<a href="http://audi.58.com/kaidilake/">凯迪拉克</a>
+<a href="http://audi.58.com/minicar/">MINI</a>
+<a href="http://audi.58.com/hongqiche/">红旗</a>
+<a href="http://audi.58.com/benteng/">奔腾</a>
+<a href="http://audi.58.com/lifanc/">力帆</a>
+<a href="http://audi.58.com/oubao/">欧宝</a>
+<a href="http://audi.58.com/cfqc/">长丰</a>
+<a href="http://audi.58.com/dihaoc/">帝豪</a>
+<a href="http://audi.58.com/daoqi/">道奇</a>
+<a href="http://audi.58.com/fengxing/">风行</a>
+<a href="http://audi.58.com/oulangcar/">欧朗</a>
+<a href="http://audi.58.com/qqy/">全球鹰</a>
+<a href="http://audi.58.com/ruiqi/">瑞麒</a>
+<a href="http://audi.58.com/subaru/">斯巴鲁</a>
+<a href="http://audi.58.com/mgc/">MG</a>
+<a href="http://audi.58.com/huatai/">华泰</a>
+<a href="http://audi.58.com/yfnd/">英菲尼迪</a>
+<a href="http://audi.58.com/jiebao/">捷豹</a>
+<a href="http://audi.58.com/dffs/">东风风神</a>
+<a href="http://audi.58.com/xinkai/">新凯</a>
+<a href="http://audi.58.com/yinglun/">英伦</a>
+<a href="http://audi.58.com/zhongtai/">众泰</a>
+<a href="http://audi.58.com/sabo/">萨博</a>
+<a href="http://audi.58.com/lnc/">雷诺</a>
+<a href="http://audi.58.com/nqxyt/">南汽新雅途</a>
+<a href="http://audi.58.com/yyfd/">永源</a>
+<a href="http://audi.58.com/shuanglong/">双龙</a>
+<a href="http://audi.58.com/smartc/">精灵smart</a>
+<a href="http://audi.58.com/ouge/">讴歌</a>
+<a href="http://audi.58.com/linian/">理念</a>
+</div>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">车系：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/sikeda/">不限</a>
+<a href="http://audi.58.com/mingrui/">明锐</a>
+<a href="http://audi.58.com/jingrui/">晶锐</a>
+<a href="http://audi.58.com/haorui/">昊锐</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">价格：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/ershouche/">不限</a> <a target="_self" href="http://audi.58.com/sikeda/pve_5864_0_5/">5万以内</a>
+<a target="_self" href="http://audi.58.com/sikeda/pve_5864_5_6/">5-6万</a>
+<a target="_self" href="http://audi.58.com/sikeda/pve_5864_6_7/">6-7万</a>
+<a target="_self" href="http://audi.58.com/sikeda/pve_5864_7_8/">7-8万</a>
+<a target="_self" href="http://audi.58.com/sikeda/pve_5864_8_9/">8-9万</a>
+<a target="_self" href="http://audi.58.com/sikeda/pve_5864_9_999999/">9万以上</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="listcon">
+<div class="list-tit">
+<h3>
+<!--共找到&lt;b&gt;38&lt;/b&gt; 辆车源 -->
+<span class="rz"><label for="checkbox"><input type="checkbox" id="checkbox" class="checkbox" />奥迪认证车</label></span>
+</h3>
+<div class="list-r">
+<span class="pagenow"><b>1</b>/1</span>
+<span class="qiehuan"> <a href=" javascript:void(0)" class="pre gray"></a> <a href=" javascript:void(0)" class="next gray"></a>
+</span> </div>
+</div>
+<div class="area-con01">
+<ul class="arealist">
+<li>
+<div class="g_img"><span>
+<a href="http://zhuzhou.58.com/ershouche/17870546568195x.shtml" target="_blank">
+<img title="斯柯达明锐 2007款 1.6 自动逸致版-车况很好,无任何大事故" src="http://4.pic.58control.cn/p1/small/n_s12250146779483240114.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zhuzhou.58.com/ershouche/17870546568195x.shtml" title="斯柯达明锐 2007款 1.6 自动逸致版-车况很好,无任何大事故" target="_blank">斯柯达明锐 2007款 1.6 自动逸致版-车况很好,无任何大事故</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										11.2万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.8<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="株洲湘奥汽车销售服务有限公司" href="http://shop.58.com/26253713813309972/">株洲湘奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">株洲</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17868650513794x.shtml" target="_blank">
+<img title="斯柯达明锐 2012款 1.6L 手自一体逸杰版 2011年上牌-12款明锐 准新车 4S店置换下来的一手私家车" src="http://1.pic.58control.cn/p1/small/n_s12249910223360717164.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17868650513794x.shtml" title="斯柯达明锐 2012款 1.6L 手自一体逸杰版 2011年上牌-12款明锐 准新车 4S店置换下来的一手私家车" target="_blank">斯柯达明锐 2012款 1.6L 手自一体逸杰版 2011年上牌-12款明锐 准新车 4S店置换下来的一手私家车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.88<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西庞大乐业汽车销售服务有限公司" href="http://shop.58.com/24059277640288532/">陕西庞大乐业汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zs.58.com/ershouche/17870879943557x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 1.8T 自动逸仕版-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12250195667702674163.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zs.58.com/ershouche/17870879943557x.shtml" title="斯柯达明锐2007款 1.8T 自动逸仕版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 1.8T 自动逸仕版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										12.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="中山市广物君奥汽车销售服务有限公司" href="http://shop.58.com/24063344932073748/">中山市广物君奥汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">中山</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://qz.58.com/ershouche/17869032132610x.shtml" target="_blank">
+<img title="斯柯达晶锐2012款 1.4L 手动晶致版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12249959155941833014.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://qz.58.com/ershouche/17869032132610x.shtml" title="斯柯达晶锐2012款 1.4L 手动晶致版-诚信之品，专业之荐" target="_blank">斯柯达晶锐2012款 1.4L 手动晶致版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										6.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="福建盈众汽车有限公司" href="http://shop.58.com/24054784905886740/">福建盈众汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">泉州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17837680135560x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 1.8T 自动逸仕版-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02245946101401960076.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17837680135560x.shtml" title="斯柯达明锐2007款 1.8T 自动逸仕版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 1.8T 自动逸仕版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										11.48万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.18<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海永达汽车浦东销售服务有限公司" href="http://shop.58.com/24059840224410687/">上海永达汽车浦东销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17837730459400x.shtml" target="_blank">
+<img title="斯柯达昊锐2009款 1.8 TSI 自动智雅版-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02245952517032943103.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17837730459400x.shtml" title="斯柯达昊锐2009款 1.8 TSI 自动智雅版-诚信之品，专业之荐" target="_blank">斯柯达昊锐2009款 1.8 TSI 自动智雅版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										5.57万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 14.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海永达汽车浦东销售服务有限公司" href="http://shop.58.com/24059840224410687/">上海永达汽车浦东销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17848230245761x.shtml" target="_blank">
+<img title="斯柯达明锐2010款1.6手动逸致版三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247296490751146013.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17848230245761x.shtml" title="斯柯达明锐2010款1.6手动逸致版三厢-诚信之品，专业之荐" target="_blank">斯柯达明锐2010款1.6手动逸致版三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										3.97万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.38<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海永达汽车浦东销售服务有限公司" href="http://shop.58.com/24059840224410687/">上海永达汽车浦东销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17860629402883x.shtml" target="_blank">
+<img title="斯柯达明锐2009款 1.6 自动逸仕版-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12248883567628111124.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17860629402883x.shtml" title="斯柯达明锐2009款 1.6 自动逸仕版-诚信之品，专业之荐" target="_blank">斯柯达明锐2009款 1.6 自动逸仕版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										12.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京德奥达汽车销售有限公司" href="http://shop.58.com/24514429038758463/">北京德奥达汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17849143531400x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 1.6 手动逸致版-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247413420770293006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17849143531400x.shtml" title="斯柯达明锐2007款 1.6 手动逸致版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 1.6 手动逸致版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										6.30万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京寰宇恒通汽车有限公司" href="http://shop.58.com/24061546267234068/">北京寰宇恒通汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nb.58.com/ershouche/17848649401603x.shtml" target="_blank">
+<img title="斯柯达昊锐2009款 1.8 TSI 自动贵雅版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s02247350159118412145.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nb.58.com/ershouche/17848649401603x.shtml" title="斯柯达昊锐2009款 1.8 TSI 自动贵雅版-诚信之品，专业之荐" target="_blank">斯柯达昊锐2009款 1.8 TSI 自动贵雅版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										7.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 14.28<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宁波润达汽车销售服务有限公司" href="http://shop.58.com/24062600299539007/">宁波润达汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">宁波</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://su.58.com/ershouche/17839120437770x.shtml" target="_blank">
+<img title="斯柯达明锐2009款 2.0 手动逸仕版-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02246130398416714135.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://su.58.com/ershouche/17839120437770x.shtml" title="斯柯达明锐2009款 2.0 手动逸仕版-诚信之品，专业之荐" target="_blank">斯柯达明锐2009款 2.0 手动逸仕版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										17.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.18<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="昆山国亚达汽车服务有限公司" href="http://shop.58.com/24055588195878164/">昆山国亚达汽车服务有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">苏州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nn.58.com/ershouche/17839061154435x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 1.8T 自动逸尊版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12246122872376373104.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nn.58.com/ershouche/17839061154435x.shtml" title="斯柯达明锐2007款 1.8T 自动逸尊版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 1.8T 自动逸尊版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										11.66万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.68<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广西南奥汽车销售服务有限公司" href="http://shop.58.com/24058837946200127/">广西南奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南宁</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://dl.58.com/ershouche/17838761568009x.shtml" target="_blank">
+<img title="斯柯达昊锐2009款 1.8 TSI 自动贵雅版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12246084537208550115.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://dl.58.com/ershouche/17838761568009x.shtml" title="斯柯达昊锐2009款 1.8 TSI 自动贵雅版-诚信之品，专业之荐" target="_blank">斯柯达昊锐2009款 1.8 TSI 自动贵雅版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										8.80万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 15.98<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="大连深蓝汽车销售服务有限公司" href="http://shop.58.com/24058734570785599/">大连深蓝汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">大连</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://mianyang.58.com/ershouche/17838550352002x.shtml" target="_blank">
+<img title="斯柯达明锐2010款1.6手动逸致版三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12246057434204381083.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://mianyang.58.com/ershouche/17838550352002x.shtml" title="斯柯达明锐2010款1.6手动逸致版三厢-诚信之品，专业之荐" target="_blank">斯柯达明锐2010款1.6手动逸致版三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										7.70万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="绵阳市新川西物汽车销售服务有限公司" href="http://shop.58.com/24058328972723732/">绵阳市新川西物汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">绵阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17838499182082x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 2.0 自动逸仕版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12246050931903362085.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17838499182082x.shtml" title="斯柯达明锐2007款 2.0 自动逸仕版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 2.0 自动逸仕版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										13.63万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海东昌金桥豪迪汽车服务有限公司" href="http://shop.58.com/24059367129200404/">上海东昌金桥豪迪汽车服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://deyang.58.com/ershouche/17836830625799x.shtml" target="_blank">
+<img title="斯柯达明锐2009款 1.6 手动逸致版-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02245837323012261056.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://deyang.58.com/ershouche/17836830625799x.shtml" title="斯柯达明锐2009款 1.6 手动逸致版-诚信之品，专业之荐" target="_blank">斯柯达明锐2009款 1.6 手动逸致版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2014年上牌 </span><span class="gap">|</span>
+										8.57万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="德阳华星万路汽车销售服务有限公司" href="http://shop.58.com/24055640397549588/">德阳华星万路汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">德阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17828846321162x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 1.6 手动逸仕版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s02244815356235702125.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17828846321162x.shtml" title="斯柯达明锐2007款 1.6 手动逸仕版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 1.6 手动逸仕版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										17.53万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海骐润茂汽车销售有限公司" href="http://shop.58.com/24059592747304511/">上海骐润茂汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://mas.58.com/ershouche/17828563162506x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 2.0 自动逸仕版-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02244779080222813066.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://mas.58.com/ershouche/17828563162506x.shtml" title="斯柯达明锐2007款 2.0 自动逸仕版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 2.0 自动逸仕版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										8.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.40<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="马鞍山市康奥汽车销售服务有限公司" href="http://shop.58.com/24060522702926100/">马鞍山市康奥汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">马鞍山</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xm.58.com/ershouche/17828389775239x.shtml" target="_blank">
+<img title="斯柯达明锐2010款1.6手自一体逸致版三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02244756929122949155.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xm.58.com/ershouche/17828389775239x.shtml" title="斯柯达明锐2010款1.6手自一体逸致版三厢-诚信之品，专业之荐" target="_blank">斯柯达明锐2010款1.6手自一体逸致版三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4.32万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="厦门盛元嘉诚汽车销售服务有限公司" href="http://shop.58.com/24059011761475092/">厦门盛元嘉诚汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">厦门</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://ta.58.com/ershouche/17828188356611x.shtml" target="_blank">
+<img title="斯柯达明锐2009款 1.6 手动逸仕版-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12244731064631579013.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://ta.58.com/ershouche/17828188356611x.shtml" title="斯柯达明锐2009款 1.6 手动逸仕版-诚信之品，专业之荐" target="_blank">斯柯达明锐2009款 1.6 手动逸仕版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										8.22万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="泰安广通汽车销售服务有限公司" href="http://shop.58.com/24060223140785684/">泰安广通汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">泰安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://su.58.com/ershouche/17828176379009x.shtml" target="_blank">
+<img title="斯柯达明锐2010款2.0手自一体逸俊版三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02244729620448564036.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://su.58.com/ershouche/17828176379009x.shtml" title="斯柯达明锐2010款2.0手自一体逸俊版三厢-诚信之品，专业之荐" target="_blank">斯柯达明锐2010款2.0手自一体逸俊版三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										2.98万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.98<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="张家港德和汽车有限公司" href="http://shop.58.com/24059317993683988/">张家港德和汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">苏州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://suqian.58.com/ershouche/17828109011074x.shtml" target="_blank">
+<img title="斯柯达昊锐2009款 1.8 TSI 自动优雅版-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02244720966222534023.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://suqian.58.com/ershouche/17828109011074x.shtml" title="斯柯达昊锐2009款 1.8 TSI 自动优雅版-诚信之品，专业之荐" target="_blank">斯柯达昊锐2009款 1.8 TSI 自动优雅版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										14.70万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 11.60<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宿迁市良宇深蓝汽车贸易有限公司" href="http://shop.58.com/24062993876510484/">宿迁市良宇深蓝汽车贸易有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">宿迁</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17828445517574x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 2.0 自动逸仕版-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12244764098431814085.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17828445517574x.shtml" title="斯柯达明锐2007款 2.0 自动逸仕版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 2.0 自动逸仕版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										6.11万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.30<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广东中奥汽车销售服务有限公司" href="http://shop.58.com/24232943566628372/">广东中奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://tj.58.com/ershouche/17827890745730x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 1.6 手动逸致版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s02244693015069602033.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://tj.58.com/ershouche/17827890745730x.shtml" title="斯柯达明锐2007款 1.6 手动逸致版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 1.6 手动逸致版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										8.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="天津港保税区捷丰国际贸易有限公司" href="http://shop.58.com/24061470913824788/">天津港保税区捷丰国际贸易…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">天津</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hu.58.com/ershouche/17827730041091x.shtml" target="_blank">
+<img title="斯柯达晶锐2012款 1.6L 自动酷黑版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244672478496432035.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hu.58.com/ershouche/17827730041091x.shtml" title="斯柯达晶锐2012款 1.6L 自动酷黑版-诚信之品，专业之荐" target="_blank">斯柯达晶锐2012款 1.6L 自动酷黑版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										1.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.70<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="内蒙古奥捷汽车销售有限公司" href="http://shop.58.com/24058555447616276/">内蒙古奥捷汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">呼和浩特</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://linfen.58.com/ershouche/17827505280262x.shtml" target="_blank">
+<img title="斯柯达昊锐2012款2.0TSI手自一体典雅版三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12244643652830036003.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://linfen.58.com/ershouche/17827505280262x.shtml" title="斯柯达昊锐2012款2.0TSI手自一体典雅版三厢-诚信之品，专业之荐" target="_blank">斯柯达昊锐2012款2.0TSI手自一体典雅版三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2013年上牌 </span><span class="gap">|</span>
+										0.63万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 20.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="临汾市奥源汽车贸易有限公司" href="http://shop.58.com/24058482292744511/">临汾市奥源汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">临汾</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xm.58.com/ershouche/17818114403719x.shtml" target="_blank">
+<img title="斯柯达明锐2010款1.6手自一体逸致版三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02243441666100699104.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xm.58.com/ershouche/17818114403719x.shtml" title="斯柯达明锐2010款1.6手自一体逸致版三厢-诚信之品，专业之荐" target="_blank">斯柯达明锐2010款1.6手自一体逸致版三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										0.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 10.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="厦门大邦通商汽车贸易有限公司" href="http://shop.58.com/24059990880858687/">厦门大邦通商汽车贸易有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">厦门</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17815874515466x.shtml" target="_blank">
+<img title="斯柯达明锐2007款 1.8T 自动逸尊版-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02243154952425739153.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17815874515466x.shtml" title="斯柯达明锐2007款 1.8T 自动逸尊版-诚信之品，专业之荐" target="_blank">斯柯达明锐2007款 1.8T 自动逸尊版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										13.30万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广东君奥汽车贸易有限公司" href="http://shop.58.com/24054867200868628/">广东君奥汽车贸易有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nn.58.com/ershouche/17773158093826x.shtml" target="_blank">
+<img title="斯柯达明锐 2007款 1.8T 手自一体逸尊版 2008年上牌-一手靓车,绝无事故,价格实惠" src="http://2.pic.58control.cn/p1/small/n_s12237687130243468004.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nn.58.com/ershouche/17773158093826x.shtml" title="斯柯达明锐 2007款 1.8T 手自一体逸尊版 2008年上牌-一手靓车,绝无事故,价格实惠" target="_blank">斯柯达明锐 2007款 1.8T 手自一体逸尊版 2008年上牌-一手靓车,绝无事故,价格实惠</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										11万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.68<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广西南奥汽车销售服务有限公司" href="http://shop.58.com/24058837946200127/">广西南奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南宁</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17750700991363x.shtml" target="_blank">
+<img title="斯柯达明锐 2010款 1.6 手动逸致版-自家用车,车况较好" src="http://4.pic.58control.cn/p1/small/n_s12234811352039555006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17750700991363x.shtml" title="斯柯达明锐 2010款 1.6 手动逸致版-自家用车,车况较好" target="_blank">斯柯达明锐 2010款 1.6 手动逸致版-自家用车,车况较好</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										4.4万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海东联沪港汽车销售有限公司" href="http://shop.58.com/24062918312754495/">上海东联沪港汽车销售有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zz.58.com/ershouche/17747895417225x.shtml" target="_blank">
+<img title="斯柯达昊锐 2010款 1.4TSI DSG 优雅版 2010年上牌-斯柯达 昊锐 2010年 1.4TSI DSG 优雅版" src="http://2.pic.58control.cn/p1/small/n_s02234453372259111096.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zz.58.com/ershouche/17747895417225x.shtml" title="斯柯达昊锐 2010款 1.4TSI DSG 优雅版 2010年上牌-斯柯达 昊锐 2010年 1.4TSI DSG 优雅版" target="_blank">斯柯达昊锐 2010款 1.4TSI DSG 优雅版 2010年上牌-斯柯达 昊锐 2010年 1.4TSI DSG 优雅版</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										8万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 14.98<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河南豫海汽车销售有限公司" href="http://shop.58.com/24232113075233811/">河南豫海汽车销售有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">郑州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://su.58.com/ershouche/17747283536009x.shtml" target="_blank">
+<img title="斯柯达明锐 2012款 2.0L 手自一体逸杰版-2万公里,准新车。" src="http://2.pic.58control.cn/p1/small/n_s12234374219106335065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://su.58.com/ershouche/17747283536009x.shtml" title="斯柯达明锐 2012款 2.0L 手自一体逸杰版-2万公里,准新车。" target="_blank">斯柯达明锐 2012款 2.0L 手自一体逸杰版-2万公里,准新车。</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										2.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.8<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="张家港德和汽车有限公司" href="http://shop.58.com/24059317993683988/">张家港德和汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">苏州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17717319463297x.shtml" target="_blank">
+<img title="斯柯达明锐 2007款 2.0 自动逸仕版-发烧车车况超好" src="http://2.pic.58control.cn/p1/small/n_s12230536357103485074.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17717319463297x.shtml" title="斯柯达明锐 2007款 2.0 自动逸仕版-发烧车车况超好" target="_blank">斯柯达明锐 2007款 2.0 自动逸仕版-发烧车车况超好</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										6.1万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广东中奥汽车销售服务有限公司" href="http://shop.58.com/24232943566628372/">广东中奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hu.58.com/ershouche/17714215892358x.shtml" target="_blank">
+<img title="斯柯达昊锐 2012款 1.8TSI MT优雅版-95成新车" src="http://4.pic.58control.cn/p1/small/n_s12230129735618910164.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hu.58.com/ershouche/17714215892358x.shtml" title="斯柯达昊锐 2012款 1.8TSI MT优雅版-95成新车" target="_blank">斯柯达昊锐 2012款 1.8TSI MT优雅版-95成新车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										3.2万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="内蒙古奥捷汽车销售有限公司" href="http://shop.58.com/24058555447616276/">内蒙古奥捷汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">呼和浩特</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bt.58.com/ershouche/17694893163913x.shtml" target="_blank">
+<img title="斯柯达昊锐 2009款 1.8 TSI 自动尊雅版-包头庞大品荐二手车你放心的选择" src="http://2.pic.58control.cn/p1/small/n_s02217557416427805005.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bt.58.com/ershouche/17694893163913x.shtml" title="斯柯达昊锐 2009款 1.8 TSI 自动尊雅版-包头庞大品荐二手车你放心的选择" target="_blank">斯柯达昊锐 2009款 1.8 TSI 自动尊雅版-包头庞大品荐二手车你放心的选择</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.8万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="包头市庞大乐业汽车销售服务有限公司" href="http://shop.58.com/24058402243706900/">包头市庞大乐业汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">包头</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://cs.58.com/ershouche/17662441648771x.shtml" target="_blank">
+<img title="斯柯达明锐 2012款 2.0L 手自一体逸杰版-" src="http://1.pic.58control.cn/p1/small/n_s12223507925108425053.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://cs.58.com/ershouche/17662441648771x.shtml" title="斯柯达明锐 2012款 2.0L 手自一体逸杰版" target="_blank">斯柯达明锐 2012款 2.0L 手自一体逸杰版</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										6万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.88<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="湖南华运通星城汽车销售服务有限公司" href="http://shop.58.com/24061696328463892/">湖南华运通星城汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">长沙</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jx.58.com/ershouche/17627486595592x.shtml" target="_blank">
+<img title="斯柯达明锐 2010款 1.6 手动逸俊版-自家车,车况精品" src="http://3.pic.58control.cn/p1/small/n_s12219038561931089145.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jx.58.com/ershouche/17627486595592x.shtml" title="斯柯达明锐 2010款 1.6 手动逸俊版-自家车,车况精品" target="_blank">斯柯达明锐 2010款 1.6 手动逸俊版-自家车,车况精品</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4.5万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico24" target="_blank" title="原厂质保" href="http://static.58.com/ui7/help/yczb.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="嘉兴市永奥汽车销售服务有限公司" href="http://shop.58.com/24057142234966292/">嘉兴市永奥汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">嘉兴</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nb.58.com/ershouche/17625072026625x.shtml" target="_blank">
+<img title="斯柯达明锐 2008款 2.0 手动逸仕版-自家用车,车况好,超高性价比" src="http://4.pic.58control.cn/p1/small/n_s12218723904407447075.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nb.58.com/ershouche/17625072026625x.shtml" title="斯柯达明锐 2008款 2.0 手动逸仕版-自家用车,车况好,超高性价比" target="_blank">斯柯达明锐 2008款 2.0 手动逸仕版-自家用车,车况好,超高性价比</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										8.5万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.68<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+<a class="ico24" target="_blank" title="原厂质保" href="http://static.58.com/ui7/help/yczb.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宁波润达汽车销售服务有限公司" href="http://shop.58.com/24062600299539007/">宁波润达汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">宁波</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="pagerout">
+<div class="pager">
+<strong><span>1</span></strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+		24小时客户关怀热线：400-8171-888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0431-85990888<br />
+		©58.com
+	</div>
+<div class="floatbar">
+<div class="liulan">
+<i class="bar01"></i>
+<div id="myfeetBox" class="hc">
+<ul id="feet_listLs">
+<h4 class="category">最近浏览的信息</h4>
+</ul>
+</div>
+</div>
+<a href="http://my.58.com/shoucangjianli/" id="collection" target="_blank"><i class="bar02"></i></a> <a href="#top"><i class="bar03"></i></a>
+</div>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/getcookie.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi_brandzone.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi.js"></script>
+<script type="text/javascript">
+		$(function() {
+			$('.liulan').hover(
+					function() {
+						$(this).addClass('hover');
+						$('#myfeetBox').show();
+						var container = document.getElementById("feet_listLs");
+						brandZoneNamespace.docookieFunction("final_history",
+								container);
+					}, function() {
+						$(this).removeClass('hover');
+						$('#myfeetBox').hide();
+					})
+		})
+		brandZoneNamespace.brandListEvent().fastSelectLevel().listMorebrand()
+				.dealerSearch().renZhengCar();
+	</script>
+<script type="text/javascript">
+		var achexi = $("#audi_chexi").find("a");
+		var url = window.location.href;
+		for(var i = 0 ; i &lt; achexi.length ; i++){
+			var $item =$(achexi[i]);
+			if($item.attr("href") == url){
+				$item.addClass("select");
+			}
+		}
+							
+	</script>
+<script type="text/javascript">
+		var _gaq = _gaq || [];
+		var site_name = "58";
+		var _trackURL = "{'cate':'29','area':'','pagetype':'list','class':'ershouche'}";
+		_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+		_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+		_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+		_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+		_gaq.push([ 'pageTracker._trackPageview',
+				'/car/ershouche/audi/ershouche/' ]);
+		$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+				: 'http://www')
+				+ '.google-analytics.com/ga.js');
+		$.getScript('http://tracklog.58.com/referrer4.js');
+	</script>
+</body>
+</html>

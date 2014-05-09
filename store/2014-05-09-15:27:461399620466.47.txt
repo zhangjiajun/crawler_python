@@ -1,0 +1,371 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="室助。佳惠" />
+<meta name="description" content="[室助。佳惠]空间提供[室助。佳惠]翻唱,相片,视频,了解[室助。佳惠]最新动态就来新浪show[室助。佳惠]空间" />
+<title>[室助。佳惠]音乐,视频,相片_[室助。佳惠]直播室 – 新浪SHOW空间</title>
+<link href="http://show.sina.com.cn/images/SinaShow.ico" rel="shortcut icon" />
+<link rel="stylesheet" rev="stylesheet" href="/css/import/public.css" />
+<link rel="stylesheet" rev="stylesheet" href="/css/import/profile.css" />
+</head>
+<!--返回顶部-->
+<body>
+<script type="text/javascript" src="../script/jquery.mini.js"></script>
+<script type="text/javascript">
+var CONFIGINFO = {
+blogId:"55062599",
+blogName:"室助。佳惠",
+currentUserId:"",
+userAuthority:"3"//1表示当前页面是当前登录用户自己的。2表示当前登录用户进入别人的空间仅能操作自己发表的。3表示用户未登录currentUserID为空
+} 
+</script>
+<div class="toTop_box">
+<a href="http://v.show.sina.com.cn" title="直播大厅" target="_blank" class="W_gotop0"></a>
+<a onclick="return false" href="#" class="W_gotop1">返回顶部</a>
+</div>
+<!--首页头部样式开始-->
+<div class="profile_nav">
+<div class="profile_nav_box">
+<a href="/"><img src="../images/profile_logo.gif" /></a>
+<ul class="profile_ul">
+<li class="profile_add_link"><a href="http://space.show.sina.com.cn">首页</a><span></span></li>
+<li><a href="/showlist.php">榜单</a><span></span></li>
+<li><a href="/singer.php">歌手</a></li>
+</ul>
+<div class="profile_nav_search">
+<form method="post" action="search.php" id="keyword">
+<input type="text" name="keyword" value="请输入昵称或者uc号" onfocus="if(this.value=='请输入昵称或者uc号')this.value='';" onblur="if(this.value=='')this.value='请输入昵称或者uc号';" style=" color:#ffffff" />
+<a name="搜索" href="#" onclick="$('#keyword').submit();"></a>
+</form>
+</div>
+<div class="profile_login">
+<div class="profile_no">
+<a id="head-login" href="javascript:;" onclick="myLogin.showbox(myLogin);">登录</a>
+<a target="_blank" href="http://passport.show.sina.com.cn/reg.php">注册</a>
+</div>
+<a name="新浪SHOW主页" node-type="btn_gohome" class="profile_link" href="http://show.sina.com.cn"></a>
+<div class="profile_tit" node-type="info_gohome" style="display:none;"><span class="profile_cur"></span>新浪SHOW官网</div>
+</div>
+</div>
+</div>
+<div class="profile_user_tit">
+<a href="55062599">室助。佳惠
+            <span>http://space.show.sina.com.cn/55062599</span>
+</a>
+</div>
+<ul class="profile_s_nav">
+<li class="profile_nav_add"><a href="/55062599">个人主页</a></li>
+<li>
+<a href="bloglist.php?space_uid=55062599">日志(2)</a>
+</li>
+<li>
+<a href="albumlist.php?space_uid=55062599">相片(51)</a>
+</li>
+<li>
+<a href="space_music.php?space_uid=55062599">音乐(3)</a>
+</li>
+<li>
+<a href="video.php?space_uid=55062599">视频(<span id="v_num">1</span>)</a>
+</li>
+<li>
+<a href="follower_list.php?space_uid=55062599&amp;typeid=1">关注/粉丝</a>
+</li>
+<li>
+<a href="profile.php?space_uid=55062599">个人资料</a>
+</li>
+</ul>
+<!--音乐播放器页不加载用户信息-->
+<div class="profile_header">
+<div class="fl">
+<a href="55062599" class="profile_photo"><img src="http://img.space.show.sina.com.cn/avatar/55062599_120x90.jpg?r=1399127244" alt="" title="" width="120" height="90" /><span></span></a>
+<div class="profile_txt">
+<p><a href="#">室助。佳惠</a><img src="../images/icon1.gif" /></p><p>用户ID：55062599</p>
+<p>房间ID：500222&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;所在地：香港&nbsp; &nbsp;中西区&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;职业生涯：0年</p>
+<p class="profile_p">真心离伤心最近</p>
+</div>
+<div class="profile_tools">
+<a name="添加关注" class="profile_add" href="#" title="添加关注"></a>
+<a name="取消关注" class="profile_ok" href="#" title="取消关注" style="display:none"></a>
+<a name="留言" action-type="btn_message" class="profile_word" href="javascript:void(0)" onclick="return false" title="留言"></a>
+</div>
+</div>
+<div class="profile_acitive">
+<ul>
+<li><a href="follower_list.php?space_uid=55062599&amp;typeid=1"><b>1</b><br />关注</a></li>
+<li><a href="follower_list.php?space_uid=55062599&amp;typeid=2"><b>19</b><br />粉丝</a></li>
+<li><a href="55062599?type=1"><b>9</b><br />动态</a></li>
+<li class="profile_act_val"><b>41</b><br /><a href="#">喜欢</a></li>
+</ul>
+</div></div><!--空间头部样式结束--> <div class="content">
+<!--动态区域-->
+<div class="profile_action_box">
+<ul class="pernav" id="tabMessageIdx">
+<li class="on" id="dynamic_list_btn">最新动态</li>
+<li id="message_list_btn" class="leaveMessages"> 最新留言</li>
+</ul>
+<div id="articleMusicPlayer">
+</div>
+<div id="tabMessageCnt">
+<!--最新动态-->
+<div style="display: block;" class="newly" data-cntidx="0">
+<div id="dynamic_list">
+</div>
+<div id="loadMoreArticle">
+                     加载更多..
+                     </div>
+</div>
+<!--最新动态-->
+<!-- end-->
+<!-- 留言 -->
+<div style="display:none ;" class="newly" data-cntidx="1">
+<div id="message_list">
+</div>
+<div id="loadMessagePage" class="pageturn"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<!--动态区域结束-->
+<!--来看我感兴趣开始-->
+<div class="profile_r_box">
+<!--他们来看你了-->
+<div class="profile_foot">
+<p class="tit">
+                    他们来看你啦
+                </p>
+<ul class="fbox">
+<li>
+<a href="55067252" title="迷湖">
+<img src="http://img.space.show.sina.com.cn/avatar/55067252_60x45.jpg?r=1394462105" />
+</a>
+<p>
+<a href="55067252" title="迷湖">迷湖</a>
+</p>
+</li>
+<li>
+<a href="283612933" title="我的秀空间">
+<img src="http://img.space.show.sina.com.cn/avatar/noavatar_50x50.jpg" />
+</a>
+<p>
+<a href="283612933" title="我的秀空间">我的秀空间</a>
+</p>
+</li>
+<li>
+<a href="210279427" title="飞仙G糊涂">
+<img src="http://img.space.show.sina.com.cn/avatar/noavatar_50x50.jpg" />
+</a>
+<p>
+<a href="210279427" title="飞仙G糊涂">飞仙G糊涂</a>
+</p>
+</li>
+<li class="profile_mar0">
+<a href="283980035" title="差不多先生">
+<img src="http://www.sinaimg.cn/uc/client/3.0/face/80/0.png" />
+</a>
+<p>
+<a href="283980035" title="差不多先生">差不多先生</a>
+</p>
+</li>
+<li>
+<a href="219802805" title="%E8%87%AA%E7%94%B1%E8%80%85">
+<img src="http://img.space.show.sina.com.cn/avatar/noavatar_50x50.jpg" />
+</a>
+<p>
+<a href="219802805" title="%E8%87%AA%E7%94%B1%E8%80%85">%E8%87%AA%E7%94%B1%E8%80%85</a>
+</p>
+</li>
+<li>
+<a href="293639467" title="℡红●卫★兵℡,ツ">
+<img src="http://img.space.show.sina.com.cn/avatar/noavatar_50x50.jpg" />
+</a>
+<p>
+<a href="293639467" title="℡红●卫★兵℡,ツ">℡红●卫★兵℡,ツ</a>
+</p>
+</li>
+<li>
+<a href="389983" title="ヾ★安愚ヾ℡">
+<img src="http://img.space.show.sina.com.cn/avatar/noavatar_50x50.jpg" />
+</a>
+<p>
+<a href="389983" title="ヾ★安愚ヾ℡">ヾ★安愚ヾ℡</a>
+</p>
+</li>
+<li class="profile_mar0">
+<a href="55062647" title="流行。紫栤">
+<img src="http://img.space.show.sina.com.cn/avatar/55062647_60x45.jpg?r=1393681519" />
+</a>
+<p>
+<a href="55062647" title="流行。紫栤">流行。紫栤</a>
+</p>
+</li>
+<li>
+<a href="55062593" title="╬纯舞。冰水">
+<img src="http://img.space.show.sina.com.cn/avatar/55062593_60x45.jpg?r=1393933047" />
+</a>
+<p>
+<a href="55062593" title="╬纯舞。冰水">╬纯舞。冰水</a>
+</p>
+</li>
+<li>
+<a href="283583155" title="冰清玉洁">
+<img src="http://img.space.show.sina.com.cn/avatar/noavatar_50x50.jpg" />
+</a>
+<p>
+<a href="283583155" title="冰清玉洁">冰清玉洁</a>
+</p>
+</li>
+<li>
+<a href="55075717" title="梦幻  情锁">
+<img src="http://img.space.show.sina.com.cn/avatar/55075717_60x45.jpg?r=1393743452" />
+</a>
+<p>
+<a href="55075717" title="梦幻  情锁">梦幻  情锁</a>
+</p>
+</li>
+<li class="profile_mar0">
+<a href="246933954" title="天边">
+<img src="http://img.space.show.sina.com.cn/avatar/noavatar_50x50.jpg" />
+</a>
+<p>
+<a href="246933954" title="天边">天边</a>
+</p>
+</li>
+</ul>
+<!-- 一行四个LI，第四个LI上无样式mr10 -->
+</div> <!--他们来看你了-->
+<div class="profile_line"></div>
+<!--foot-->
+<!--foot-->
+<div class="profile_foot">
+<p class="tit">
+        你可能感兴趣的空间
+    </p>
+<ul class="fbox">
+</ul>
+<!-- 一行四个LI，第四个LI上无样式mr10 -->
+</div>
+<!--foot end--> <!--foot end-->
+</div>
+<!--来看我感兴趣结束-->
+<div class="clear"></div>
+</div>
+
+<div id="emotion" class="qbg" style="display:none; top:0;left:0;">
+<div class="icon">
+</div>
+<div id="emotionCloseIcon" class="iclose">
+</div>
+<div class="qface">
+<div class="qhead">
+<ul class="qnav">
+<li class="qonbg">
+                                            常用表情
+                                        </li>
+</ul>
+</div>
+<div id="emotionList">
+</div>
+<ul id="emotionPageNum" class="qpage">
+<!--选中状态样式是on-->
+</ul>
+</div>
+</div>
+<!--footer-->
+<div class="footer">
+<ul>
+<li><a target="_blank" href="http://corp.sina.com.cn/chn/sina_index.html">新浪简介</a></li>
+<li><a target="_blank" href="http://corp.sina.com.cn/eng/sina_index_eng.htm">About Sina</a></li>
+<li><a target="_blank" href="http://emarketing.sina.com.cn/">广告服务</a></li>
+<li><a target="_blank" href="http://www.sina.com.cn/contactus.html">联系我们</a></li>
+<li><a target="_blank" href="http://career.sina.com.cn/">招聘信息</a></li>
+<li><a target="_blank" href="http://corp.sina.com.cn/lawfirm/sina.htm">网站律师</a></li>
+<li><a target="_blank" href="http://english.sina.com/">SINA English</a></li>
+<li><a target="_blank" href="http://passport.show.sina.com.cn/reg.php">会员注册</a></li>
+<li><a target="_blank" href="http://help.sina.com.cn/index.php">产品答疑</a></li>
+</ul>
+<!--      Copyright &copy; 1996-2012 SINA Corporation, All Rights Reserved-->
+Copyright © 1996-2014 SINA Corporation, All Rights Reserved 
+    </div>
+<!--底部快速登录start-->
+<div class="end_login" style="display:none">
+<div class="end_login_box">
+<span>欢迎回到秀空间<br />秀出你的不同</span>
+<div class="fl">
+<a class="end_login_link" href="javascript:;" onclick="myLogin.showbox(myLogin);">登录</a>
+<a class="end_register" target="_blank" href="http://passport.show.sina.com.cn/reg.php">注册</a>
+</div>
+<a class="end_link_mar" href="http://rm.show.sina.com.cn/event/job.html" target="_blank">如何成为职业人</a>
+<div class="clear"></div>
+</div>
+<a class="end_close" href="#">关闭</a>
+</div>
+<!----------------------构造弹框需要的文件-star--------------------------->
+<link type="text/css" rel="stylesheet" href="http://passport.show.sina.com.cn/css/js_weibo_login.css" />
+<script type="text/javascript" src="http://passport.show.sina.com.cn/script/login_weibo_html.js" charset="gb2312"></script>
+<script type="text/javascript" src="../script/lib/base.js"></script>
+<script type="text/javascript" src="../script/lib/ui.js"></script>
+<script type="text/javascript">
+var myLogin=new login();
+myLogin.init({
+	login_type:2,
+	closecallback:function(){window.location.reload();}
+});
+</script>
+<!-----------------------构造弹框需要的文件-end-------------------------------------->
+<script type="text/javascript">
+sinaSSOConfig = new function() {
+	//本产品的标识
+	this.entry = 'sinashow';
+	this.domain='show.sina.com.cn';
+	this.version='';
+	//登出回调
+	this.customLogoutCallBack = function (status) {
+	// 登出回调代码，如果不使用该js登出，则不需要实现该函数
+	if(status.result==true){
+	window.location.reload();
+	}
+	};
+	//检查是否在其它网站登陆回调
+	this.customLogtestCallBack = function (status) {
+    if(status.result==true){
+	window.location.reload();	
+	}else{
+	}
+	};
+	this.customLoginCallBack=function(t){
+	if(t.code==1){				
+	window.location.reload();
+	}else{
+	}
+	}
+};
+</script>
+<script src="http://passport.show.sina.com.cn/script/showssologin_weibo_html.js" type="text/javascript" charset="gb2312"></script>
+<!--------------------------构造登陆需要的文件-end-------------------------------------->
+<div style="display:none">
+<script src="http://s23.cnzz.com/stat.php?id=4681094&amp;web_id=4681094" language="JavaScript"></script>
+</div>
+<script type="text/javascript" src="../script/uploadfile.js"></script>
+<script type="text/javascript" src="../script/plugs.js"></script>
+<script type="text/javascript" src="../script/space.js"></script>
+<script type="text/javascript">
+						function clearnum(uid)
+						{
+							$.ajax({
+								type : 'POST',
+								cache : false,
+								url  : "/ajax/message_clear.php",
+								data : "space_uid="+uid,
+								success:function(succ){
+									if(succ)
+									{
+										$("#messagenum").hide();
+									}
+								}
+							});
+							return true;
+						  }
+					</script>
+</body>
+</html>

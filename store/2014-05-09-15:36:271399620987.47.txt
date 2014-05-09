@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>关于58同城</title>
+<link href="http://about.58.com/home/about.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="header"><div id="headerinside"><a href="http://www.58.com" id="logo" title="到58同城首页" target="_self"><img src="http://pic2.58.com/images/logonew.gif" alt="中文最大生活信息门户" /></a><div id="citytit"></div><div id="banb"></div></div></div>
+<div id="nav"><div id="navlist">
+<ul>
+<li><a href="http://about.58.com/home/">首页</a></li>
+<li class="sexlk select"><a href="javascript:void(0)" id="ahov01">58简介<i></i><span>
+<table><tr><td>
+<dl class="subnav">
+<dt></dt></dl></td></tr></table></span></a><a href="introduction.html">58简介</a>
+<dt><a href="honor.html">58大事记</a></dt>
+<dt><a href="environment.html">58环境</a></dt>
+<dt><a href="team.html">58团队掠影</a></dt>
+
+</li>
+<li class="sexlk"><a href="javascript:void(0)" id="ahov02">产品中心<i></i><span>
+<table><tr><td>
+<dl class="subnav">
+<dt></dt></dl></td></tr></table></span></a><a href="product.html">产品大全</a>
+<dt><a href="http://about.58.com/">帮助中心</a></dt>
+<dt><a href="http://about.58.com/online-kefu.html" target="_blank">举报与打假</a></dt>
+
+</li>
+<li class="sexlk"><a href="javascript:void(0)" id="ahov03">商业合作<i></i><span>
+<table><tr><td>
+<dl class="subnav">
+<dt></dt></dl></td></tr></table></span></a><a href="http://about.58.com/contract/a1/" target="_blank">市场推广</a>
+<dt><a href="http://biz.58.com/" target="_blank">渠道招商</a></dt>
+
+</li> <li><a href="http://about.58.com/hr/" target="_blank">招聘英才</a></li>
+<li><a href="/home/announcement.html">使用协议及公告</a></li>
+<li><a href="/home/companyannouncement.html">公司声明</a></li>
+<li class="sexlk"><a href="javascript:void(0)" id="ahov04">合作联系<i></i><span>
+<table><tr><td>
+<dl class="subnav">
+<dt></dt></dl></td></tr></table></span></a><a href="/home/cooperation.html" target="_blank">合作洽谈</a>
+<dt><a href="/home/contact.html" target="_blank">联系我们</a></dt>
+
+</li>
+<li id="navsear"><a href="" class="fwcp">访问58同城产品<span>
+<table><tr><td> <dl class="subnav" id="searsub">
+<dt></dt></dl></td></tr></table></span></a><a href="http://www.58.com/" target="_blank">58同城分类信息</a>
+<dt><a href="http://t.58.com/" target="_blank">58团购</a></dt>
+<dt><a href="http://www.kuche.com/" target="_blank">酷车网</a></dt>
+<dt><a href="http://bj.58.com.cn/" target="_blank">网邻通</a></dt>
+<dt><a href="http://wap.58.com/wap.html" target="_blank">58同城手机客户端</a></dt>
+</li>
+</ul></div></div><div class="clear"></div>
+<div id="boinside">
+<div class="cb">
+<h1 class="aboutit"><img src="images/jjtit.gif" /><span></span></h1>
+<div class="txtin">
+<span class="logobig"></span><br />
+<h2>企业简介</h2>
+<p>58同城，2005年12月创立于北京。</p>
+<p>于北京时间2013年10月31日，正式于纽交所挂牌上市。这标志着58同城成功登陆美国资本市场成为一家生活服务领域的上市企业</p>
+<p>八年来，秉承着“人人信赖的生活服务平台”的愿景和“用户第一”的核心价值观，58同城一直孜孜不倦地追求技术的创新以及服务品类的拓广、拓深，依托于人们飞速发展的日常生活需求，持续为用户提供“本地、免费、真实、高效”的生活服务。</p>
+<p>截至目前，58同城的网站内容已经覆盖全国380个城市左右，每一天58同城都响应着来自全国各地海量的信息服务请求。每一位用户都可以通过58同城庞大而细致入微的服务体系，在最短时间内找到需要的本地生活服务。</p>
+<p>在产品研发上，58同城一直致力于倾听用户的声音，深入挖掘用户的潜在需求，在“通过互联网让人们生活更简单”的企业使命指引下，提供房屋租售、招聘求职、二手物品、二手车、二手房、商家黄页、宠物票务、旅游交友、餐饮娱乐等多种生活服务。将用户形形色色的生活服务需求聚集在58同城这个高效的平台上，58同城不仅仅是一个信息交互的平台，更是一站式的生活服务平台。</p>
+<p>除了满足用户便捷生活的需求外，58同城也为各类商家提供了一个高性价比、高效率的整合营销推广平台。在网邻通VIP服务基础上提供精准推广、智能推广、置顶等多款推广产品。</p>
+<p>2012年，58同城率先在行业推出“消费者保障计划”，是58同城所构建的“从消费者看到信息到完成交易的全过程中，信息安全、资金安全、可信赖的一套标准化系统流程”。58同城未来将在各产品版块逐步实现消费者保障的机制，使58同城这个生活服务平台对消费者的保护达到一个业内前所未有的高度，用户在进行交易时将更放心、更省心。</p>
+<p>成立至今58同城不断创新和优化平台价值，推出消费者保障计划、引入支付宝担保交易、实施先行赔付、改进移动端功能等等；令58同城成为一家真正立足消费者根本利益的生活服务平台，将带领着整个生活服务业从信息的“量时代”走入安全和信任的“质时代”。</p>
+<p>未来，通过坚持不懈的努力，不断完善的信用管理机制、消费者保障体系及更多深入的服务，58同城必将会使人们的生活变得更简单、更美好。</p>
+<h2>58同城企业文化</h2>
+<p><strong>使命：</strong>通过互联网让人们生活更简单</p>
+<p><strong>愿景：</strong>人人信赖的生活服务平台</p>
+<p><strong>品牌定位：</strong>58，让生活更简单</p>
+<p><strong>58核心价值观：</strong>用户第一　主动协作　简单可信　创业精神　学习成长</p>
+<img src="images/qyts_1.gif" />
+<p>
+<b class="red f12">价值观注解：</b>
+</p>
+<ul class="p28">
+<li class="f12 gray"><b>用户第一：</b><br />
+                1分：尊重他人，不做损害用户利益的事情，不允许用户或客户一方损害另一方的利益和平台的利益；<br />
+                2分：坦诚面对投诉和受到的委屈，能及时有效回应，积极主动地在工作中为用户解决问题；<br />
+                3分：与用户交流过程中，即使不是自己的责任，也不推诿；关注长远和本质指标，在用户利益面前不唯“kpi”；<br />
+                4分：站在用户的立场思考问题，最终达到用户和公司都满意；<br />
+                5分：具有超前服务意识，防患于未然。<br />
+</li>
+<li class="f12 gray"><b>简单可信：</b><br />
+                1分：诚实正直，不做损害公司利益的行为；<br />
+                2分：坦诚沟通，对事不对人，不拉帮结派，不搞政治斗争，能接受批评；反对形式主义，实事求是，不“唯上”，专业领域没有上下级，可以对领导说不，负面信息及时向上反馈；<br />
+                3分：决策前充分讨论，决议后坚决执行；积极主动解决问题；<br />
+                4分：相信伙伴，以善意假设和信任的前提去看待其他团队，不怕吃“亏”；<br />
+                5分：顾全大局，不计较团队及个人得失，可上可下；向团队和他人传递正能量<br />
+</li>
+<li class="f12 gray"><b>主动协作：</b><br />
+                1分：对于他人提出的需求，及时给出明确清晰的反馈；<br />
+                2分：积极参与相关部门事务的讨论，并给出有建设性的意见；<br />
+                3分：当别人有需要的情况下，即使不是自己的问题，仍积极主动地协助其它部门解决问题；<br />
+                4分：当资源或目标跟其他部门发生冲突的时候，能主动换位思考，必要时还拿出自己的资源，实现整体利益最大化；<br />
+                5分：以公司目标为最高目标，能主动承担更多的任务，并做出卓越贡献。<br />
+</li>
+<li class="f12 gray"><b>创业精神：</b><br />
+                1分：时刻保持激情，积极乐观面对问题和挫折；<br />
+                2分：迅速推进工作任务，以结果为导向；<br />
+                3分：对于业务问题敢于决策，勇于承担相应责任；<br />
+                4分：时刻保持危机感， 洞察用户需求，对公司各项管理/产品创新有建设性意见；<br />
+                5分：具备强烈的主人翁意识，不计较个人得失。<br />
+</li>
+<li class="f12 gray"><b>学习成长：</b><br />
+                1分：积极参加公司组织的各种分享、培训和交流活动；<br />
+                2分：有较强的成长意愿和开放的心态，工作中的错误在别人指出后，能迅速改进，同样的错误不反复出现；<br />
+                3分：善于总结工作中的经验，不断实践，并进行必要的分享；<br />
+                4分：拥抱变化，不断设定更高的目标，主动要求承担更多工作职责；甚至在不同岗位轮岗；<br />
+                5分：提炼出方法论；为公司未来培养出更多高绩效、高能力的优秀人才。<br />
+</li>
+</ul>
+<!--		&lt;h2&gt;企业法人营业执照&lt;/h2&gt;
+		&lt;div class="qyzz"&gt;&lt;img src="images/qiyezhizhao.jpg" width="943" height="686" alt="企业法人营业执照"  /&gt;&lt;/div&gt;
+--> </div>
+</div>
+</div><div class="clear"></div>
+<div id="footer"><div class="bg"><a href="http://www.58.com" id="foot_logo" target="_self"><img src="http://pic2.58.com/images/logonew.gif" alt="中文最大生活信息门户" /></a>
+<span class="contact">
+<a href="http://biz.58.com/" class="mlno" target="_blank">渠道招商</a>|<a href="http://about.58.com/contract/a1/" target="_blank">推广服务</a>|<a href="/home/contact.html">联系我们</a>|<a href="http://about.58.com/" class="red">帮助中心</a></span><br />北京五八信息技术有限公司 © @ 58.com</div></div>
+<div style="display:none">
+<script type="text/javascript">
+var _gaq = _gaq || []; var site_name = "58";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._trackPageview']);
+(function() {  
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })(); </script><script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+</div></body></html>

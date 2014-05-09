@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>帮助中心---用户最新提问</title>
+<script src="js/helputils.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="js/feedadvice.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery-1.4.1.js"></script>
+<link href="http://pic2.58.com/ui6/about/css/about6.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div id="container" class="win1000">
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/72/43.js"></script>
+<div id="header" class="win1000">
+<script src="/js/head.js" type="text/javascript"></script>
+</div>
+<div id="bar">
+<div id="divnavname">
+<div>
+<a href="/">帮助中心首页</a>验证与取消验证
+				</div>
+</div>
+<i class="shadow"></i>
+</div>
+<div class="bo_width win1000">
+<div id="right" class="rwpdiv">
+<div id="divcontent"><h1>用户验证常见问题</h1>
+<div class="smallmenu">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td>1、<a href="#a">什么是资料认证？我可以认证什么资料？</a></td>
+<td>2、<a href="#b">我在哪里提交资料进行认证？</a></td></tr>
+<tr>
+<td>3、<a href="#c">一项资料可以在多少个账户里进行认证？</a></td>
+<td>4、<a href="#d">如何取消认证？</a></td></tr>
+<tr>
+<td>5、<a href="#e">我提交验证申请的时候提示我已被xx账户认证过？</a></td>
+<td>6、<a href="#f">收不到认证邮件？ </a></td></tr>
+<tr>
+<td>7、<a href="#g">如何更换邮箱、手机的认证？</a></td>
+<td>8、<a href="#h">收不到验证码？ </a></td></tr>
+<tr>
+<td>9、<a href="#i">商家认证营业执照的证件要求</a>
+</td><td>10、<a href="#j">中国雅虎邮箱停止服务通知</a>
+</td><td>
+</td></tr><tr></tr></tbody></table></div>
+<h2><a name="a"></a>什么是资料认证？我可以验证什么资料？</h2>
+<p>1、 资料验证属于一个自愿行为，验证信息是和账户绑定的。<br />2、 为了保证信息的真实性，资料验证是58同城提供的一系列身份识别服务，资料验证可核实邮箱、手机号码、身份证、营业执照信息。而验证这些信息后可提升信用值。<br />3、 邮箱、手机号码、身份证这些个人信息58同城绝不会主动的对外公开。 </p>
+<h2><a name="b"></a>我在哪里提交资料进行认证？</h2>
+<p>1、 首先您需要在58同城注册一个账户。<a href="http://passport.58.com/reg/" target="_blank">立即注册</a><br />2、 登陆后进入个人中心---账户管理的“认证中心”即可进行资料验证。<a href="http://my.58.com/authmail/" target="_blank">进入认证中心</a></p>
+<p><img src="http://pic.58.com/images/helppic/n_11295071199492.jpg " temp_src="http://pic.58.com/images/helppic/n_11295071199492.jpg " /><br />3、 每成功认证一项资料后，您的账户将会获得一枚认证图标。认证图标将会显示在您的个人主页、发布的信息页等地方。<br /></p>
+<blockquote class="mt0">通过邮箱验证后获得 <span class="maileyz"></span><br />通过手机验证后获得 <span class="sjyz"></span><br />通过实名（身份证）验证后获得 <span class="nameyz"></span><br />通过营业执照验证后获得 <span class="zzyz"></span></blockquote>
+<h2><a name="c"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" border="0" /></a></span>一项资料可以在多少个账户里进行认证？</h2>
+<p>1、 一个邮箱、手机、身份验证只能在一个账户里验证。<br />2、 一个营业执照可以在多个账户里验证。 </p>
+<h2><a name="d"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" border="0" /></a></span>如何取消认证？</h2>
+<p>1、 邮箱、手机验证通过后不可以取消，但可以更改。 登陆后进入个人中心---账户管理的“<strong>认证中心</strong>”即可进行邮箱、手机验证修改。<a href="http://my.58.com/authmail/" target="_blank">进入认证中心</a><br />2、 实名（身份证）、执照验证后不可以取消。 </p>
+<h2><a name="e"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" border="0" /></a></span>为什么我提交验证申请的时候，系统提示我已被xx账户验证过了？</h2>
+<p>遇到这个提示说明您提供的资料已经在xx账户里验证了。您可以登陆58同城帐号：xx查看，同时建议您能使用之前的账户进行<br />登陆，如果忘记密码请<a href="http://passport.58.com/forgetpassword" target="_blank">点击这里</a>取回。 </p>
+<h2><a name="f"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" border="0" /></a></span>收不到认证邮件？</h2>
+<p>建议您在垃圾邮件中查找一下，如果还是查询不到邮箱确认邮件，请提供您账号的相关信息<a href="http://about.58.com/customerservice.html">与58对话</a>，以便我们帮您查询并测试验证。 </p>
+<h2><a name="g"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" border="0" /></a></span>如何更换邮箱、手机的认证？</h2>
+<p>登陆后进入个人中心---账户管理的<strong>“认证中心</strong>”即可进行邮箱、手机验证修改。<a href="http://my.58.com/authmail/" target="_blank">进入认证中心</a> </p>
+<h2><a name="h"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" border="0" /></a></span>收不到验证码？</h2>
+<p>1、建议您不要重复点击发送验证码，您可以等待一会儿，看是否有验证码短信延迟发送到您的手机上。
+   因为当申请验证的用户较多时，可能导致系统发送验证码时间延迟，重复点击发送验证码可能会导致之后接到多个验证码，输入时而因与提交的时间不匹配导致提示验证码错误。</p>
+<p>2、建议您使用短信验证时填写的手机或座机号拨打58专用400电话：<span class="red">4007585858</span>。接通后，按号码键：<span class="red">5</span>&nbsp;&nbsp;进入语音验证码获取通道。</p>
+<p>3、若经过以上两种方法您仍然无法获取验证码，建议您将您的需要验证的信息（手机号码/身份证图片/营业执照图片）、账号的用户名和密码提供给我们与<a href="http://about.58.com/customerservice.html">58对话</a>，以便于我们帮您测试验证。</p>
+<h2><a name="i"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" border="0" /></a></span>商家认证营业执照的证件要求</h2>
+<h3>一、商家认证营业执照的要求</h3>
+<p>1、可以提交的证件（执照原件/复印件，正本或副本）均可。 <br />2、证件需在有效期以内。</p>
+<h3>二、营业执照不符合审核规定的原因有以下6种</h3>
+<p>1、证件无效、虚假 (<font color="#ff0000">发现将冻结账户</font>)<br />2、证件不完整或不清晰 <br />3、非国家认可的机构 <br />4、有效期不足三个月 <br />5、无工商局的章 
+</p>
+<h2><a name="j"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" border="0" /></a></span>中国雅虎邮箱停止服务通知</h2>
+<p>中国雅虎邮箱将于2013年8月19日停止服务。<br />如果您58账户中注册邮箱与认证邮箱为中国雅虎邮箱，即邮箱后缀为 @yahoo.com.cn和 @yahoo.cn，为了不影响58账户的后续使用，务必在2013年8月19日前将您注册邮箱与认证邮箱更换为可用邮箱。<a href="http://my.58.com/authmail">立即去更换邮箱</a><br />更多关于中国雅虎邮箱的详情，<a href="http://help.cn.yahoo.com/answerpage_3983.html" target="_blank">点击查看详情</a></p>
+<p class="zxtwut"><label class="butt"><input class="btns" onclick="SubMitNoAtBrowse(24)" value="联系客服" type="button" /></label></p></div>
+</div>
+</div>
+<div class="c"></div>
+<div id="footer" class="footer-border">
+<script src="/js/bottom.js" type="text/javascript"></script>
+</div>
+<input type="hidden" id="cateId" name="cateId" value="35" />
+</div>
+</body>
+<script type="text/javascript">
+	var cateId = $("#cateId").val();
+	var _gaq = _gaq || [], site_name = "58", page_type = "about";
+	var _trackURL = "{'cate':'','area':'','pagetype':'about','page':'"+cateId+"'}";
+	_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+	_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+	_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+	_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+	_gaq.push([ 'pageTracker._trackPageview', "/about/"+cateId+"/" ]);
+	_gaq.push([ 'pageTracker._trackPageLoadTime' ]);
+	$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+			: 'http://www')
+			+ '.google-analytics.com/ga.js');
+	$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+</html>

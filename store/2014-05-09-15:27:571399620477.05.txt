@@ -1,0 +1,603 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>按字母K索引的热门家居信息推荐_第一页_新浪家居</title>
+<meta name="keywords" content="K,热门家居信息,新浪家居" />
+<meta name="description" content="新浪家居字母K热门家居信息频道,提供了最新最全的家居信息,覆盖了整个家居产品,为您的查找提供准确的产品信息!" />
+<meta name="baidu-site-verification" content="51MfN1lxba" />
+<link href="http://supports.jiaju.sina.com.cn/zq/style/main.css" type="text/css" rel="stylesheet" />
+<link href="http://jiaju.sina.com.cn/389/2012/1025/23.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://static.jiaju.com/jiaju/com/css/mt_seo/common.css" />
+<link rel="stylesheet" type="text/css" href="http://static.jiaju.com/jiaju/com/css/mt_seo/letter.css" />
+<script src="http://static.jiaju.com/jiaju/com/js/dojquery-s-min.js" charset="UTF-8"></script>
+</head>
+<body>
+<div id="topnav"><!-- 顶部导航 -->
+<div class="m950">
+<div class="topnav-l">
+<a title="装修资讯" href="http://jiaju.sina.com.cn/">装修资讯</a>
+<a class="topnav-l-shop" title="装修商城" href="http://www.jiaju.com/">装修商城</a>
+<a class="topnav-l-bbs" title="装修社区" href="http://16.jiaju.com/?utm_source=snjj&amp;utm_medium=nrw&amp;utm_campaign=l_0008">装修社区</a>
+<span id="topnav-l-mobile">手机家居</span>
+<div id="topnav-l-mimg"><img class="topnav-l-mimg" src="http://src.house.sina.com.cn/imp/imp/deal/0f/99/a/a0fea83b4813aa728a18c3b101a_p1_mk1.png" /></div>
+</div>
+<div class="topnav-r">
+<a title="新浪首页" href="http://www.sina.com.cn/">新浪首页</a>|
+			<a title="新浪房产" href="http://house.sina.com.cn/">房产</a><a title="新浪地产" href="http://dichan.sina.com.cn/">地产</a><a title="新浪二手房" href="http://esf.sina.com.cn/">二手房</a><a title="家居就商城" href="http://www.jiaju.com/">家居就</a>|
+                        <a title="新浪家居" href="http://jiaju.sina.com.cn/">新浪家居</a>
+<span id="topLoginSpan">
+<span id="loginBefore">
+<a class="topnav-reg" title="登录" href="http://i.house.sina.com.cn/index.php?ctrl=login">登录</a>
+<a title="注册" href="http://i.house.sina.com.cn/index.php?ctrl=register">注册</a>
+</span>
+<span id="loginAfter" style="display:none;">
+<span id="userName"></span>
+<a target="_self" title="安全退出" href="javascript:leju_logout()">[退出]</a>
+</span>
+</span>
+</div>
+</div>
+</div>
+<!--[if lt IE 9]&gt;
+&lt;script type="text/javascript" src="http://src.house.sina.com.cn/imp/imp/deal/f3/84/7/26edd83bf967a6717ceb4c779d2_p1_mk1.js"&gt;&lt;/script&gt;
+&lt;![endif]-->
+<div id="t01"></div>
+<div id="logo" class="m950 clear">
+<!-- 顶部logo-搜索 -->
+<div id="nav" class="m950">
+<div class="nav clear"><div class="nav-first row-4-div row-4-1">
+<b><a title="新闻中心" href="http://jiaju.sina.com.cn/news/">新闻中心</a></b>
+<a title="热点" href="http://jiaju.sina.com.cn/news/zt/cyjzthz/">热点</a>
+<a title="专栏" href="http://jiaju.sina.com.cn/zt/jiajudakaxiu/">访谈</a>
+<a title="专栏" href="http://news.jiaju.sina.com.cn/teyue/">特约专栏</a>
+<br />
+<a title="原创" href="http://news.jiaju.sina.com.cn/list-jiaju-z11">原创</a>
+<a title="观察" href="http://jiaju.sina.com.cn/news/zt/jjhz/">观察</a>
+<a title="专栏" href="http://gfif.jiaju.sina.com.cn/">广东家居</a>
+</div>
+<div class="row-4-div row-4-2">
+<b><a title="看图装修" href="http://zx.jiaju.sina.com.cn/">看图装修</a></b>
+<a title="灵感美图" href="http://zx.jiaju.sina.com.cn/tupian/">灵感美图</a>
+<a title="样板间" href="http://jiaju.sina.com.cn/yangbanjian/">样板间</a>
+<a title="家居秀" href="http://xiu.jiaju.sina.com.cn/">家居秀</a>
+<a title="视频" href="http://video.jiaju.sina.com.cn/">视频</a>
+<br />
+<a title="装修公司" href="http://zx.jiaju.sina.com.cn/zhuanjia/c1101-t4/">装修公司</a>
+<a title="淘工长" href="http://gongzhang.jiaju.sina.com.cn/">淘工长</a>
+<a title="设计师" href="http://jiaju.sina.com.cn/designer/">设计师</a>
+<a title="图库" href="http://jiaju.sina.com.cn/tuku/">图库</a>
+</div>
+<div class="row-4-div row-4-3">
+<b><a title="装修攻略" href="http://jiaju.sina.com.cn/decoration/">装修攻略</a></b>
+<a title="设计" href="http://jiaju.sina.com.cn/design/">设计</a>
+<a title="博客" href="http://jiaju.sina.com.cn/blog/">博客</a>
+<a title="装修鉴赏" href="http://huabao.jiaju.sina.com.cn/">装修鉴赏</a>
+<a title="老房装修" href="http://jiaju.sina.com.cn/anli/laofang/">老房装修</a>
+<br />
+<a title="案例" href="http://anli.jiaju.sina.com.cn/">案例</a>
+<a title="风水" href="http://jiaju.sina.com.cn/design/fengshui/">风水</a>
+<a title="装修选材" href="http://sh.jiaju.sina.com.cn/xuancai/">装修选材</a>
+<a title="装修管家" href="http://jiaju.sina.com.cn/haoguanjia/all/">装修管家</a>
+</div>
+<div class="bd-n row-4-div row-4-4">
+<b><a title="家居商城" href="http://www.jiaju.com/">家居商城</a></b>
+<a title="家装城" href="http://mall.jd.com/index-34691.html">家装城</a>
+<a title="工长装修" href="http://www.sinagz.com.cn/">工长装修</a>
+<a title="地产" href="http://dichan.sina.com.cn/">地产</a>
+<br />
+<a title="巨便宜" href="http://tuan.jiaju.com/">巨便宜</a>
+<a title="限时抢购" href="http://tuan.jiaju.com/miaosha">限时抢购</a>
+<a title="论坛" href="http://bbs.jiaju.com/forum-2332-1.html">论坛</a>
+</div>
+</div>
+<dl class="trade">
+<dt>家具建材</dt>
+<dd>
+<a title="家具" href="http://jiaju.sina.com.cn/products/jiaju/">家具</a>
+<a title="红木" href="http://hongmu.jiaju.sina.com.cn/">红木</a>
+<a title="衣柜" href="http://jiaju.sina.com.cn/products/yigui/">衣柜</a>
+<a title="地板" href="http://jiaju.sina.com.cn/products/diban/">地板</a>
+<a title="瓷砖" href="http://jiaju.sina.com.cn/products/cizhuan/">瓷砖</a>
+<a title="卫浴" href="http://jiaju.sina.com.cn/products/taociweiyu/">卫浴</a>
+<a title="橱柜" href="http://jiaju.sina.com.cn/products/chugui/">橱柜</a>
+<a title="门窗" href="http://jiaju.sina.com.cn/products/menchuang/">门窗</a>
+<a title="涂料" href="http://jiaju.sina.com.cn/products/tuliao/">涂料</a>
+<a title="壁纸" href="http://jiaju.sina.com.cn/products/bizhi/">壁纸</a>
+<a title="照明" href="http://jiaju.sina.com.cn/products/zhaoming/">照明</a>
+<a title="开关" href="http://jiaju.sina.com.cn/products/kaiguan/">开关</a>
+<a title="厨卫电器" href="http://jiaju.sina.com.cn/products/chuweidianqi/">厨卫电器</a>
+<a title="厨房" href="http://jiaju.sina.com.cn/products/chufang/">厨房</a>
+<a title="散热器" href="http://jiaju.sina.com.cn/products/sanreqi/">散热器</a>
+<a title="热水器" href="http://sh.jiaju.sina.com.cn/products/reshuiqi/">热水器</a>
+<a title="家纺" href="http://jiaju.sina.com.cn/products/jiafang/">家纺</a>
+<a title="刷新家" href="http://jiaju.sina.com.cn/shuaxin/">刷新家</a> |
+<a title="卖场" href="http://jiaju.sina.com.cn/products/maichang/">卖场</a>
+<a title="评测" href="http://jiaju.sina.com.cn/pingce/">评测</a>
+<a title="品牌库" href="http://jiancai.jiaju.sina.com.cn/pinpai/">品牌库</a>
+<a title="诚信库" href="http://jiancai.jiaju.sina.com.cn/pinpai/cxweiyu/">诚信库</a>
+</dd>
+</dl></div>
+<!--searchSTART-->
+<div id="t02"></div>
+<div class="logo">
+<a title="" href="http://jiaju.sina.com.cn"><img src="http://src.house.sina.com.cn/imp/imp/deal/03/93/5/051d77fcc8cf466e760f4c60_p1_mk1.png" alt="" /></a>
+</div>
+<div class="mLine"></div>
+<div class="subLogo"><span id="b01"></span></div>
+<div class="seek" id="NewSubNav">
+<div class="sou">
+<div class="mSelect">
+<ul>
+<li class="selected"><a href="javascript:;" target="_self" id="selectedText">商品</a></li>
+</ul>
+<ul id="selectUl">
+<li name="01"><a href="javascript:;" target="_self">商品</a></li>
+<li name="02"><a href="javascript:;" target="_self">新闻</a></li>
+<li name="03"><a href="javascript:;" target="_self">装修案例</a></li>
+<li name="04"><a href="javascript:;" target="_self">卖场</a></li>
+<li name="05"><a href="javascript:;" target="_self">装修公司</a></li>
+<li name="06"><a href="http://jd.yiqisoo.com/index.php?action=search&amp;type=life&amp;classid=50&amp;utm_campaign=ad_lejup_p7z_link_50" target="_blank">家电</a></li>
+<li name="07"><a target="_self" href="javascript:;">品牌</a></li>
+</ul>
+</div>
+<form style="display:block;" id="hideform_01" class="hideform" onsubmit="return jiaju_index_search('product',this)">
+<input name="keyword" class="seek-txt" type="text" autocomplete="off" onclick="if(this.value=='请输入关键字') this.value=''" onblur="if(this.value=='') this.value='请输入关键字'" value="请输入关键字" />
+<!--[if IE 6]&gt;&lt;div&gt;&lt;![endif]--><input class="seek-btn" type="submit" value="" /><!--[if IE 6]&gt;&lt;/div&gt;&lt;![endif]-->
+</form>
+<form id="hideform_02" class="hideform" onsubmit="return jiaju_index_search('news',this)">
+<input type="hidden" name="city" value="jiaju" />
+<input name="keyword" class="seek-txt" type="text" autocomplete="off" onclick="if(this.value=='请输入关键字') this.value=''" onblur="if(this.value=='') this.value='请输入关键字'" value="请输入关键字" />
+<!--[if IE 6]&gt;&lt;div&gt;&lt;![endif]--><input class="seek-btn" type="submit" value="" /><!--[if IE 6]&gt;&lt;/div&gt;&lt;![endif]-->
+</form>
+<form id="hideform_03" class="hideform" method="get" action="http://supports.jiaju.sina.com.cn/tuku/list_anli.php">
+<input type="hidden" value="pub" name="from" />
+<input name="title" class="seek-txt" type="text" autocomplete="off" onclick="if(this.value=='请输入关键字') this.value=''" onblur="if(this.value=='') this.value='请输入关键字'" value="请输入关键字" />
+<!--[if IE 6]&gt;&lt;div&gt;&lt;![endif]--><input class="seek-btn" type="submit" value="" /><!--[if IE 6]&gt;&lt;/div&gt;&lt;![endif]-->
+</form>
+<form id="hideform_04" class="hideform" onsubmit="return jiaju_index_search('market',this)">
+<input type="hidden" value="mcsearchdianmian" name="action" />
+<input name="keyword" class="seek-txt" type="text" autocomplete="off" onclick="if(this.value=='请输入关键字') this.value=''" onblur="if(this.value=='') this.value='请输入关键字'" value="请输入关键字" />
+<!--[if IE 6]&gt;&lt;div&gt;&lt;![endif]--><input class="seek-btn" type="submit" value="" /><!--[if IE 6]&gt;&lt;/div&gt;&lt;![endif]-->
+</form>
+<form id="hideform_05" class="hideform" target="_blank" method="get" action="http://supports.jiaju.sina.com.cn/product2/index.php">
+<input type="hidden" value="searchanli" name="action" />
+<input name="p_keyword" class="seek-txt" type="text" autocomplete="off" onclick="if(this.value=='请输入关键字') this.value=''" onblur="if(this.value=='') this.value='请输入关键字'" value="请输入关键字" />
+<!--[if IE 6]&gt;&lt;div&gt;&lt;![endif]--><input class="seek-btn" type="submit" value="" /><!--[if IE 6]&gt;&lt;/div&gt;&lt;![endif]-->
+</form>
+<form onsubmit="return jiaju_index_search('brand',this)" class="hideform" id="hideform_07">
+<input type="text" value="请输入关键字" onblur="if(this.value=='') this.value='请输入关键字'" onclick="if(this.value=='请输入关键字') this.value=''" autocomplete="off" class="seek-txt" name="keyword" id="search_key_pinpai" />
+<!--[if IE 6]&gt;&lt;div&gt;&lt;![endif]--><input type="submit" value="" class="seek-btn" /><!--[if IE 6]&gt;&lt;/div&gt;&lt;![endif]-->
+</form>
+</div>
+</div>
+<script>
+//搜索框切换
+//新闻，建材家具，家居秀，日记，记账本搜索
+
+
+function jiaju_index_search(type, f) {
+    if (type == 'news') {
+        window.location.href = 'http://supports.jiaju.sina.com.cn/news/' + f.city.value + '-' + f.keyword.value + '---1.html';
+    } else if (type == 'product') {
+        window.location.href = 'http://jiancai.jiaju.sina.com.cn/goodslist-0-0-0-' + f.keyword.value + '-0-0-0-0/';
+    } else if (type == 'show') {
+        window.location.href = 'http://supports.jiaju.sina.com.cn/zhuangxiu/xiuku------' + f.keyword.value + '-.html';
+    } else if (type == 'market') {
+        window.location.href = 'http://jiancai.jiaju.sina.com.cn/soufendian-' + f.keyword.value + '-0-0-1-1.html';
+    } else if (type == 'account') {
+        window.location.href = 'http://supports.jiaju.sina.com.cn/zhuangxiu/jizhangbenku----' + f.keyword.value + '-.html';
+    } else if (type == 'brand') {
+		// 品牌搜索
+		window.location.href = 'http://jiancai.jiaju.sina.com.cn/pinpai/brand/r-0-1/?search=' + f.keyword.value;	
+    } else //diary
+    {
+        window.location.href = 'http://supports.jiaju.sina.com.cn/zhuangxiu/rijiku----' + f.keyword.value + '-.html';
+    }
+    return false;
+}
+$(function() {
+    var bindState = false;
+    var showItem = $('#selectedText');
+    var selectItem = $('#selectUl');
+    var bindEvent = function() {
+        $(document.body).click(function() {
+            selectItem.hide();
+        });
+        selectItem.find('li').click(function() {
+            if ($(this).attr('name') == '06') {
+                return;
+            }
+            showItem.text($(this).text());
+            $('.hideform').hide();
+            $('#hideform_' + $(this).attr('name')).show();
+        });
+    };
+    showItem.click(function(e) {
+        e.stopPropagation();
+        selectItem.show();
+        if (!bindState) {
+            bindEvent();
+            bindState = true;
+        }
+    });
+});
+</script>
+<!--searchEND-->
+</div><!-- START OF SmartSource Data Collector TAG -->
+<script src="http://traffic.house.sina.com.cn/jiaju_9n3x_tag.js" type="text/javascript"></script>
+<!-- END OF SmartSource Data Collector TAG -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36015251-1']);
+  _gaq.push(['_setDomainName', 'sina.com.cn']);
+  _gaq.push(['_addOrganic', 'baidu', 'wd']);
+  _gaq.push(['_addOrganic', 'sogou', 'query']);
+  _gaq.push(['_addOrganic', 'soso', 'w']);
+  _gaq.push(['_addOrganic', 'youdao', 'q']);
+  _gaq.push(['_addOrganic', 'so.360.cn', 'q']);
+  _gaq.push(['_addOrganic', 'hao.360.cn', 'q']);
+  _gaq.push(['_addOrganic', 'so.com', 'q']);
+  _gaq.push(['_addOrganic', 'jike.com', 'q']);
+  _gaq.push(['_trackPageLoadTime']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- 导航开始 -->
+<!--block_navigation_start-->
+<div class="center seo_nav_parent clearfix">
+<ul class="seo_nav clearfix">
+<li class="cate_home"><a class="icons_pic home" href="javascript:;"></a></li>
+<li class="category first"><a class="on" href="http://jiaju.sina.com.cn/zq/#space_category">空间类</a></li>
+<li class="category"><a href="http://jiaju.sina.com.cn/zq/#housestyle_category">户型类</a></li>
+<li class="category"><a href="http://jiaju.sina.com.cn/zq/#style_category">风格类</a></li>
+<li class="category"><a href="http://jiaju.sina.com.cn/zq/#furniture_category">家具类</a></li>
+<li class="category"><a href="http://jiaju.sina.com.cn/zq/#electric_category">家电类</a></li>
+<li class="category"><a href="http://jiaju.sina.com.cn/zq/#decorate_category">装修装饰</a></li>
+<li class="category"><a href="http://jiaju.sina.com.cn/zq/#bedding_category">家饰家纺</a></li>
+<li class="category"><a href="http://jiaju.sina.com.cn/zq/#exhibition_category">展会卖场</a></li>
+<li class="category"><a href="http://jiaju.sina.com.cn/zq/#brand_category">品牌公司</a></li><li class="category last"><a href="http://jiaju.sina.com.cn/zq/#star_category">家居明星</a></li>
+</ul>
+</div>
+<!--block_navigation_end-->
+<!-- 导航结束 -->
+<div class="clearfix"></div>
+<div class="crumbs center clearfix">
+<a class="f99" href="http://jiaju.sina.com.cn/">新浪家居</a>
+<em class="f99">&gt;</em>
+<a class="f99" href="http://zq.jiaju.sina.com.cn/">家居推荐专区</a>
+<em class="f99">&gt;</em>
+<em class="f66">【K】开头常用关键词</em>
+</div>
+<div class="main_box  center mt20 clearfix">
+<div class="nav_box clearfix">
+<a href="http://zq.jiaju.sina.com.cn/A1/" class="search_letter ">A</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/B1/" class="search_letter ">B</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/C1/" class="search_letter ">C</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/D1/" class="search_letter ">D</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/E1/" class="search_letter ">E</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/F1/" class="search_letter ">F</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/G1/" class="search_letter ">G</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/H1/" class="search_letter ">H</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/I1/" class="search_letter ">I</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/J1/" class="search_letter ">J</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/K1/" class="search_letter on">K</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/L1/" class="search_letter ">L</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/M1/" class="search_letter ">M</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/N1/" class="search_letter ">N</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/O1/" class="search_letter ">O</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/P1/" class="search_letter ">P</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/Q1/" class="search_letter ">Q</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/R1/" class="search_letter ">R</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/S1/" class="search_letter ">S</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/T1/" class="search_letter ">T</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/U1/" class="search_letter ">U</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/V1/" class="search_letter ">V</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/W1/" class="search_letter ">W</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/X1/" class="search_letter ">X</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/Y1/" class="search_letter ">Y</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/Z1/" class="search_letter ">Z</a>
+<em class="f99 sep_line">/</em>
+<a href="http://zq.jiaju.sina.com.cn/091/" class="search_letter wd30 ">0-9</a>
+</div>
+<div class="word_box clearfix">
+<ul>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/137081/" target="_blank">开关插座什么牌子好</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/137076/" target="_blank">空气净化器有用吗</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/137069/" target="_blank">tcl开关插座</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/137031/" target="_blank">tcl开关</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/137030/" target="_blank">abb开关</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/137024/" target="_blank">快速卷帘门</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136959/" target="_blank">科勒卫浴</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136917/" target="_blank">快热式电热水器</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136914/" target="_blank">控制与保护开关</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136902/" target="_blank">烤漆橱柜门板</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136783/" target="_blank">开关</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136782/" target="_blank">客厅</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136730/" target="_blank">可耐福</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136664/" target="_blank">柯拉尼</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136663/" target="_blank">科勒</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136633/" target="_blank">康耐登</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136499/" target="_blank">柯尚木门</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136498/" target="_blank">康洁橱柜</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136429/" target="_blank">康宝橱柜</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136393/" target="_blank">开来橱柜</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136366/" target="_blank">康辉地板</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136311/" target="_blank">烤漆门板</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136296/" target="_blank">控制开关</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136267/" target="_blank">烤漆橱柜</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136195/" target="_blank">扣板吊顶</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136194/" target="_blank">空气治理</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136128/" target="_blank">宽带安装</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/136109/" target="_blank">凯莱地板</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135882/" target="_blank">开关面板</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135857/" target="_blank">开开木门</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135724/" target="_blank">科技新闻</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135723/" target="_blank">凯盛家纺</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135599/" target="_blank">开业花篮</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135595/" target="_blank">空气检测</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135576/" target="_blank">楷模家具</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135532/" target="_blank">空间模块</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135445/" target="_blank">开关插座</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135431/" target="_blank">开心餐厅</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135408/" target="_blank">空气开关</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135405/" target="_blank">开关女孩</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135363/" target="_blank">开关电源</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135359/" target="_blank">空中花园</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135111/" target="_blank">客家居</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135023/" target="_blank">空花篮</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135022/" target="_blank">烤花瓶</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/135021/" target="_blank">看壁画</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134925/" target="_blank">扣板拆</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134672/" target="_blank">空走廊</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134631/" target="_blank">凯楼梯</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134564/" target="_blank">口杯子</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134460/" target="_blank">块地毯</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134459/" target="_blank">靠枕套</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134403/" target="_blank">扩阳台</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134374/" target="_blank">考电工</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134363/" target="_blank">看阴宅</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134316/" target="_blank">看窗帘</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/134031/" target="_blank">开餐厅</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/133817/" target="_blank">看风水</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/133811/" target="_blank">控制柜</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/133787/" target="_blank">开关柜</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/133785/" target="_blank">烤漆门</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/P/133485/" target="_blank">客厅效果</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/P/133434/" target="_blank">看装修</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/P/133422/" target="_blank">开关解</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/P/133369/" target="_blank">扣板贴</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/101472/" target="_blank">kd定制</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/101468/" target="_blank">konson柯尚木...</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92342/" target="_blank">咖啡店加盟费</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92341/" target="_blank">咖啡色橱柜</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92333/" target="_blank">卡布丽缇</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92327/" target="_blank">卡尔.凯旋</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92326/" target="_blank">卡尔·凯旋</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92325/" target="_blank">卡尔凯旋木门</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92323/" target="_blank">卡尔玛</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92322/" target="_blank">卡尔玛地板</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92321/" target="_blank">卡尔木门</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92319/" target="_blank">卡芬达家具</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92318/" target="_blank">卡芬达欧式家具</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92317/" target="_blank">卡芬达沙发</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92315/" target="_blank">卡拉迪霍尔佩酒店</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92313/" target="_blank">卡乐弗家居</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92306/" target="_blank">卡米曼</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92305/" target="_blank">卡木其家具</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92297/" target="_blank">卡西米生态壁材</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92294/" target="_blank">卡扎菲儿子</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92293/" target="_blank">卡扎菲死亡照片</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92290/" target="_blank">卡座装修</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92288/" target="_blank">开灯饰店</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92285/" target="_blank">开放式厨房</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92283/" target="_blank">开放式厨房吊顶</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92282/" target="_blank">开放式厨房风水</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92280/" target="_blank">开放式厨房门</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92279/" target="_blank">开放式厨房油烟</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92278/" target="_blank">开放式书房</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92272/" target="_blank">开放式玄关</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92271/" target="_blank">开放式衣柜</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92270/" target="_blank">开放式浴室</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92269/" target="_blank">开放浴室</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92268/" target="_blank">开封家居网</a></li>
+<li><a class="key_letter" href="http://zq.jiaju.sina.com.cn/N/92265/" target="_blank">开工大吉</a></li>
+<!--
+				&lt;li&gt;&lt;a class="key_letter" href="#"&gt;A335P12合金管&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a class="key_letter" href="#"&gt;A-10筒&lt;/a&gt;&lt;/li&gt;
+			-->
+</ul>
+</div>
+<div class="clearfix"></div>
+<div class="pages" align="center">
+<b class="active">1</b>&nbsp;<a href="http://zq.jiaju.sina.com.cn/K2">2</a>&nbsp;<a href="http://zq.jiaju.sina.com.cn/K3">3</a>&nbsp;<a href="http://zq.jiaju.sina.com.cn/K4">4</a>&nbsp;<a href="http://zq.jiaju.sina.com.cn/K5">5</a>&nbsp;<a href="http://zq.jiaju.sina.com.cn/K6">6</a>&nbsp;<a href="http://zq.jiaju.sina.com.cn/K2">下一页</a>&nbsp;<a href="http://zq.jiaju.sina.com.cn/K52">末页</a>&nbsp;共 5135 个 52 页
+        </div>
+<!--分页符 开始-->
+<!-- 
+		&lt;div id="pager" class="tar mt10"&gt;
+		&lt;div class="zpage"&gt;
+					&lt;span&gt;&laquo;上一页&lt;/span&gt;
+						&lt;span class="c"&gt;1&lt;/span&gt;
+							&lt;a href="/brand/all/y2/"&gt;2&lt;/a&gt;
+							&lt;a href="/brand/all/y3/"&gt;3&lt;/a&gt;
+							&lt;a href="/brand/all/y4/"&gt;4&lt;/a&gt;
+							&lt;a href="/brand/all/y5/"&gt;5&lt;/a&gt;
+							&lt;a href="/brand/all/y6/"&gt;6&lt;/a&gt;
+							&lt;a href="/brand/all/y2/"&gt;下一页&raquo;&lt;/a&gt;
+							&lt;a href="/brand/all/y1273/"&gt;尾页&raquo;&lt;/a&gt;
+						&lt;span style="padding-left:10px;border:0"&gt;
+			共30页，到第&lt;input type="text" value="" size="4" id="to" name="to" onkeyup="this.value=this.value.replace(/\D/g,'')" maxlength="5"  /&gt;页
+			&lt;input type="button" class="btn" value=" "   id="goto" name="goto"  onclick="_pagerRedirect()" /&gt;
+			&lt;/span&gt;
+		&lt;/div&gt;
+		&lt;script&gt;
+			function _pagerRedirect() {			
+				var _maxpage = 1273;
+				var _cpage = 1;
+				var _p = parseInt($('#to').val());
+				var _url = '/brand/all/y{%d}/';
+				var _regexp = 'y{%d}';
+				var _replace = 'y';
+				
+				if(!/^[1-9]\d*$/.test(_p))
+				{
+	                alert("页数填写有误");
+	                return false;
+	            }
+				_p = isNaN(_p) ? 1 : _p;
+				if(_p &gt; _maxpage)
+				{
+					_p = _maxpage;
+				}	
+				if(_p == 1)
+				{
+					location.href = '/goodslist/';
+				}
+				else
+				{
+					location.href = _url.replace(_regexp, _replace+_p);
+				}
+				return false;;
+			}
+			$('#to').keydown(function(event){
+			  if(event.keyCode==13){
+				 $('#goto').trigger('click');
+			  }
+			}); 
+		&lt;/script&gt;
+		&lt;/div&gt;
+		 -->
+<!--分页符 结束-->
+</div>
+<div class="copy">
+<div>
+<a rel="nofollow" href="http://bj.house.sina.com.cn/sina-leju/lj_about.html">乐居简介</a>┊ 
+<a rel="nofollow" href="http://bj.house.sina.com.cn/sina-leju/lj_english.html">About Leju</a>┊ 
+<a rel="nofollow" href="http://bj.house.sina.com.cn/sina-leju/lj_media.html">广告服务</a>┊ 
+<a rel="nofollow" href="http://bj.house.sina.com.cn/sina-leju/lj_contact.html">联系我们</a>┊ 
+<a rel="nofollow" href="http://bj.house.sina.com.cn/sina-leju/lj_job.html" style="color:#A00000;">诚聘英才</a>┊ 
+<a rel="nofollow" href="http://bj.house.sina.com.cn/sina-leju/lj_lawyer.html">网站律师</a>┊
+<a rel="nofollow" href="http://i.house.sina.com.cn/register.html">会员注册</a>┊ 
+<a rel="nofollow" href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a>┊ 
+<a rel="nofollow" href="http://bj.house.sina.com.cn/guest.html">客户投诉</a>┊
+<span class="bottom-pop">
+<span id="jjAll">全国家居站</span>
+<div style="display:none;" id="bottom-pop-box">
+<ul class="clearfix" id="JJ_FootMap">
+</ul>
+<div class="bottom-pop-horn"></div>
+</div>
+<img class="bottom-mimg" src="http://src.house.sina.com.cn/imp/imp/deal/62/f5/7/c75a16f5481e5080f591d592b8e_p1_mk1.png" />
+</span>
+</div>
+<p class="hot-search-links"><a href="http://zq.jiaju.sina.com.cn/" target="_blank">热门家居推荐</a>：<a href="http://zq.jiaju.sina.com.cn/A1/">A</a><a href="http://zq.jiaju.sina.com.cn/B1/">B</a><a href="http://zq.jiaju.sina.com.cn/C1/">C</a><a href="http://zq.jiaju.sina.com.cn/D1/">D</a><a href="http://zq.jiaju.sina.com.cn/E1/">E</a><a href="http://zq.jiaju.sina.com.cn/F1/">F</a><a href="http://zq.jiaju.sina.com.cn/G1/">G</a><a href="http://zq.jiaju.sina.com.cn/H1/">H</a><a href="http://zq.jiaju.sina.com.cn/I1/">I</a><a href="http://zq.jiaju.sina.com.cn/J1/">J</a><a href="http://zq.jiaju.sina.com.cn/K1/">K</a><a href="http://zq.jiaju.sina.com.cn/L1/">L</a><a href="http://zq.jiaju.sina.com.cn/M1/">M</a><a href="http://zq.jiaju.sina.com.cn/N1/">N</a><a href="http://zq.jiaju.sina.com.cn/O1/">O</a><a href="http://zq.jiaju.sina.com.cn/P1/">P</a><a href="http://zq.jiaju.sina.com.cn/Q1/">Q</a><a href="http://zq.jiaju.sina.com.cn/R1/">R</a><a href="http://zq.jiaju.sina.com.cn/S1/">S</a><a href="http://zq.jiaju.sina.com.cn/T1/">T</a><a href="http://zq.jiaju.sina.com.cn/U1/">U</a><a href="http://zq.jiaju.sina.com.cn/V1/">V</a><a href="http://zq.jiaju.sina.com.cn/W1/">W</a><a href="http://zq.jiaju.sina.com.cn/X1/">X</a><a href="http://zq.jiaju.sina.com.cn/Y1/">Y</a><a href="http://zq.jiaju.sina.com.cn/Z1/">Z</a><a href="http://zq.jiaju.sina.com.cn/091/">0-9</a><a rel="nofollow" href="http://www.jiaju.com/duibi/">商品对比</a><a href="http://jiaju.sina.com.cn/sitemap/">网站地图</a> 友链交换QQ：986137955
+
+</p>
+<p>
+<a href="http://jiaju.sina.com.cn/products/jiaju/">家具</a>
+<a href="http://hongmu.jiaju.sina.com.cn/">红木</a>
+<a href="http://jiaju.sina.com.cn/products/yigui/">衣柜</a>
+<a href="http://jiaju.sina.com.cn/products/diban/">地板</a>
+<a href="http://jiaju.sina.com.cn/products/cizhuan/">瓷砖</a>
+<a href="http://jiaju.sina.com.cn/products/taociweiyu/">卫浴</a>
+<a href="http://jiaju.sina.com.cn/products/chugui/">橱柜</a>
+<a href="http://jiaju.sina.com.cn/products/menchuang/">门窗</a>
+<a href="http://jiaju.sina.com.cn/products/tuliao/">涂料</a>
+<a href="http://jiaju.sina.com.cn/products/bizhi/">壁纸</a>
+<a href="http://jiaju.sina.com.cn/products/zhaoming/">照明</a>
+<a href="http://jiaju.sina.com.cn/products/kaiguan/">开关</a>
+<a href="http://jiaju.sina.com.cn/products/chufang/">厨房</a>
+<a href="http://sh.jiaju.sina.com.cn/products/reshuiqi/">热水器</a>
+<a href="http://jiaju.sina.com.cn/products/jiafang/">家纺</a>
+<a href="http://www.jiaju.com/">家具网上商城</a></p>
+<a href="http://zx.jiaju.sina.com.cn/">装修效果图</a>
+<p>Copyright @ 1996 - 2013 LEJU Corporation, All Rights Reserved</p>
+<p>乐居房产\家居产品用户服务、产品咨询购买、技术服务热线：400-606-6969 &nbsp;&nbsp;广告业务洽谈：010-58951741、010-58951044</p>
+</div>
+<script src="http://jiaju.sina.com.cn/686/js/JJ_FootMap201209.js" charset="utf-8"></script>
+<!--//登录相关-->
+<script type="text/javascript">
+$(function(){
+	var loginBefore = document.getElementById('loginBefore');
+	var loadJsFile = function (path, callback) {
+	    var script = document.createElement('script');
+	    script.setAttribute('type', 'text/javascript');
+	    script.setAttribute('src', path);
+
+		var done = false;
+		script.onload = script.onreadystatechange = function(){
+			if ( !done &amp;&amp; (!this.readyState ||
+					this.readyState == "loaded" || this.readyState == "complete") ) {
+				done = true;
+				callback &amp;&amp; callback();
+			}
+		};	    
+	    document.getElementsByTagName("head")[0].appendChild(script); 
+    };  	
+	if(loginBefore){
+		loadJsFile('http://jiaju.sina.com.cn/389/2012/1128/51.js', function(){
+			lejulogin();
+		});
+	}
+});
+</script>
+<!--//登录相关结束--><!-- START OF SmartSource Data Collector TAG -->
+<script src="http://traffic.house.sina.com.cn/jiaju_9n3x_tag.js" type="text/javascript"></script>
+<!-- END OF SmartSource Data Collector TAG -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36015251-1']);
+  _gaq.push(['_setDomainName', 'sina.com.cn']);
+  _gaq.push(['_addOrganic', 'baidu', 'wd']);
+  _gaq.push(['_addOrganic', 'sogou', 'query']);
+  _gaq.push(['_addOrganic', 'soso', 'w']);
+  _gaq.push(['_addOrganic', 'youdao', 'q']);
+  _gaq.push(['_addOrganic', 'so.360.cn', 'q']);
+  _gaq.push(['_addOrganic', 'hao.360.cn', 'q']);
+  _gaq.push(['_addOrganic', 'so.com', 'q']);
+  _gaq.push(['_addOrganic', 'jike.com', 'q']);
+  _gaq.push(['_trackPageLoadTime']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

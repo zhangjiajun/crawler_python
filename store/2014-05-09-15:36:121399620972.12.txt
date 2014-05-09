@@ -1,0 +1,86 @@
+.secitem dd{overflow:hidden;}
+td.t h1 span.ico {margin-right: 3px;white-space: nowrap;display: inline-block;float: left;}
+#SearchForm{margin-top:9px;}
+#main td.t h1 span.ico.bbonline {background-position:0 0;height: 17px;margin-top: 6px;width:16px;background-image: url("http://pic2.58.com/ui7/fang/list/img/sprites02.png?v=20120314") !important;background-repeat: no-repeat;height: 18px;line-height: 14px;}
+.qj-rensx{background:#f3f3f3;}
+.list-tabs span.qjlist-sre{float:right;color:#585858;font-size:12px;padding-right:15px;}
+.list-tabs span.qjlist-sre font{color:#b10000;padding:0 5px;}
+.more_filter_cn{margin-bottom:5px;}
+#infolist.cleft{width:813px;}
+#infolist.qj-left{_width:800px;}
+a.t{color:#2255dd;font-weight:normal;}
+.img_list{padding:15px;}
+.img_list .img_picCount{top:15px;}
+td.img img{margin:0;}
+.tbimg{table-layout:auto;}
+.qj-listleft{float:left;width:470px;}
+.qj-jp{display:block;width:93px;height:19px;background:url('http://pic2.58.com/ui7/fang/list/img/pz.png') no-repeat;margin-top:5px;position:relative;}
+.qj-jphover{position:absolute;display:none;width:218px;height:48px;background:url('http://pic2.58.com/ui7/fang/shop/img/tishikuang.png') no-repeat; top:22px;left:-60px;padding:10px 6px 0 6px;z-index:10;}
+.qj-jphover li{line-height:18px;color:#888;}
+.qj-listright{float:right;width:170px;}
+.mianshuiTip{top:13px;}
+.qj-listjjr{display:inline-block;height:24px;line-height:24px;padding-right:10px;margin-top:3px;}
+.qj-listjjr label,.qj-listjjr a,.qj-listjjr a:link,.qj-listjjr a:visited{color:#666;}
+.qj-listjjr a.qj-lijjrname{padding-right:12px;}
+.qj-rightjjr{padding-bottom:10px;}
+.qj-rightjjr h1{height:23px;line-height:24px;background:#dbdbdb;padding-left:13px;}
+.qj-rightjjr li{border:1px solid #dde0e3;padding:10px 19px 18px 19px;border-top:0;}
+.qj-lijjrimg{display:block;width:118px;height:118px;border:1px solid #e9e9e9;}
+.qj-lijjrimg img{width:118px;height:118px;}
+.qj-jjrnameli{background: url("http://pic2.58.com/ds/icon/wlt_ico.png") no-repeat 66px 0;color: #2255DD;display:block;font-size: 14px;height: 14px;line-height: 14px;margin: 14px 0;padding-left: 17px;}
+.ico{float:none;}
+.qj-renintro{width:480px;float:left;}
+.qj-reninmoney{width:100px;float:left;}
+.wrentm{width:132px;}
+.qj-reninimg{width:70px;float:left;padding:5px 0 0 20px;}
+.qj-renaddr{margin:5px 0;}
+.qj-renaddr,.qj-rendp,.qj-rendp span,.qj-renaddr a{line-height:26px;color:#555557;}
+.qj-renaddr span{padding:0 5px;}
+.qj-renaddr span.qj-rentrz{color:#282828;}
+.qj-jphover2{width:160px;height:51px;background:url('http://pic2.58.com/ui7/fang/shop/img/qj-jphsbg.png') no-repeat;left:-25px;}
+.qj-jphover2 .getbiaozhi{padding-left:19px;color:#25d;background:url('http://pic2.58.com/ui7/fang/list/img/biaozhi.png') no-repeat 0 1px;cursor:pointer;}
+.qj-renttitgr{color:#ee4433;float:left;font-weight:normal;margin-right:3px;}
+.qj-rentbg{background:url('http://pic2.58.com/ui7/fang/shop/img/list-rentlbg.png') no-repeat 0px 0px;}
+.qj-rentsh{width:93px;height:19px;margin-top:5px;position:relative;display:block;z-index:999;}
+.qj-rengr{background-position:0px 0px;}
+.qj-renjjr{background-position:0px -39px;}
+.qj-rendp .qj-dps{width:19px;height:14px;margin-top:2px;display:inline-block;}
+.qj-dph{background-position:-19px -68px;}
+.qj-dpm{background-position:0px -68px;}
+.qj-reninmoney p{color:#555557;line-height:26px;}
+.qj-reninmoney p b{color:#ff0000;font-size:16px;font-weight:bold;}
+.qj-rentd h1{height:28px;line-height:28px;position:relative;z-index:1000;}
+.qj-rentdmo{color:#585858;float:right;padding-right:145px;width:50px;text-align:right;}
+#rightframe.cright-c{margin-top:37px;}
+.list-ppintro{border:1px solid #e3e3e3;width:966px;height:95px;position:relative;margin-bottom:12px;margin-top:5px;}
+.list-logoc{display:block;width:125px;height:75px;padding:10px 27px;float:left;}
+.list-logoc a{display:block;width:125px;height:75px;}
+.list-logoc a img{width:125px;height:75px;}
+.list-comcon{float:left;background:#fafafa;width:513px;height:75px;padding:20px 0 0 29px;border-right:1px solid #f2f2f2;display:block;overflow:hidden;}
+.list-comcon h1{color:#6a6a6a;font-size:14px;height:20px;line-height:20px;font-weight:normal;padding-bottom:10px;}
+.list-goinc{float:right;padding-top:20px;width:206px;background:#fafafa;height:75px;padding-left:38px;}
+.list-goinc a{display:block;width:129px;height:30px;border:1px solid #ccced1;line-height:30px;color:#484848;padding-left:32px;background:#fefefe url('http://pic2.58.com/ui7/fang/list/img/ctt-abg.png') no-repeat 126px center;}
+#selection .list-goinc a:visited,#selection .list-goinc a:link{color:#1d1f28;}
+.list-comgocomc{height:20px;line-height:20px;}
+.list-comgocomc span{background:url(http://pic2.58.com/ui7/fang/list/img/list-cxc.png)  0px 0px no-repeat;padding:0 20px 0 25px;color:#585858;font-weight:bold;height:24px;display:inline-block;line-height:24px;}
+.list-comgocomc span.list-comlic1{background-position:0px 0px;}
+.list-comgocomc span.list-comlic2{background-position:0px -28px;}
+.list-comgocomc span.list-comlic3{background-position:0px -56px;padding-left:27px;}
+.list-comgocomc span.list-comlic4{background-position:0px -85px;padding-left:23px;}
+.list-comsec{color:#9d9d9d;text-align:center;width:161px;}
+.list-comsec font{color:#ff5400;}
+.relative dl.list-zfsx{width:968px;}
+.tabsbar{z-index:2000;}
+
+/*后改二手房页面*/
+.qj-listleft .g_tagSon1{background: #e28d90;border-bottom: 1px solid #e28d90;}
+.qj-listleft .g_tagSon2{background: #a2c15f;border-bottom: 1px solid #a2c15f;}
+.qj-listleft .g_tagSon3{background: #89a9d3;border-bottom: 1px solid #89a9d3;}
+.qj-listleft .g_tagSon4{background: #c597c0;border-bottom: 1px solid #c597c0;}
+.qj-listleft .label_fang{color:#fff!important;}
+.ppjjr,.geren{float:left;margin-right:5px;_margin-right:2px;width:16px;height:24px;background:url('http://pic2.58.com/ui7/fang/shop/img/ppjjr.png') no-repeat left center;}
+.geren{background:url('http://pic2.58.com/ui7/fang/shop/img/geren.png') no-repeat left center;}
+.jingpin{float:left;}
+.cx_div_c{float:left;position:relative;z-index:2000;} 
+.cxfy-tc{position:absolute;top:34px;left:30px;display:none;z-index:2000;}
+.list-tabs .cxfy-tc p a{background:none;border:0;padding:0;margin:0;color:#2255DD;}

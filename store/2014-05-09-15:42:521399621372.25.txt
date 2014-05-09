@@ -1,0 +1,1071 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【北京其他票务|北京其他票务网|北京其他票务转让信息】 - 北京58同城</title>
+<meta name="description" content="北京其他票务频道为您提供大量精选的北京其他票务信息，是专业的北京其他票务信息发布平台，经过严格审核保证北京其他票务转让信息的真实性，是您求购北京其他票务最佳的选择。-58.com" />
+<meta name="keywords" content="其他票务,北京其他票务" />
+<meta http-equiv="mobile-agent" content="format=wml;url=http://wap.58.com/bj_qtpiaowu/" /><meta http-equiv="mobile-agent" content="format=xhtml;url=http://wap.58.com/bj_qtpiaowu/" />
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/bj/qtpiaowu" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/bj/qtpiaowu" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/bj/qtpiaowu" />
+<link href="http://static.58.com/ds/v1/base-v1.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/ds/v1/common-v1.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/ds/v1/list/default-list-v1.css" rel="stylesheet" type="text/css" />
+<script src="http://static.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://static.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<script type="text/javascript">
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".tblist tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+</script>
+<script type="text/javascript">try{var ____json4fe = {"catentry":[{"dispid":"833","name":"票务","listname":"piaowu"},{"dispid":"9198","name":"其他票务","listname":"qtpiaowu"}],"locallist":[{"dispid":"1","name":"北京","listname":"bj"}],"start":(new Date()).getTime(),"modules":"list"};____json4fe.version = 'A';____json4fe.modules = 'listpage';____json4fe.smsc = 'ce882233f1f0d86eacab9b7b7cbf2eaed1e9efcbc4d32a017d2c3cdc0d586da86e3795e22002d9c65700271bbf701a964bac116f07aebe0120ccaa1c143b985141cbd6b120cb48aee573f1bba5144105a5c6bd85d14e875f'; }catch(e){};</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','1','');win1.setSearchButton('searchbtn1');boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'bj');});</script>
+</head>
+<body>
+<div id="topbar"></div>
+<!-- =S header -->
+<header id="header">
+<span class="logo"><a href="/" target="_blank">58同城</a></span>
+<div class="nav" id="crumbs" style="display: none;">
+<span><a href="/">北京58同城</a></span>
+<span class="crb_i"><a href="/piaowu.shtml">北京票务</a></span>
+<span class="crb_i">
+<a href="/qtpiaowu/" itemprop="url">北京其他票务</a>
+</span>
+</div> <div class="header-search">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();" />
+<span onmouseout="this.className='sbtn'" onmouseover="this.className='sbtn hover'" class="sbtn">
+<input type="submit" value="搜本类" class="but-bl" name="" id="searchbtn1" /></span>
+<span onmouseout="this.className='sbtn'" onmouseover="this.className='sbtn hover'" class="sbtn">
+<input type="button" onclick="b_query_all();" value="搜全站" class="but-qz" name="" />
+</span>
+<div class="clear"></div>
+<span class="hotsearch">
+<em>热搜：</em>
+<a href="http://bj.58.com/qtpiaowu/?key=%E8%BD%A6%E5%B1%95%E9%97%A8%E7%A5%A8&amp;final=1&amp;searchtype=3&amp;sourcetype=21" onclick="_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/qtpiaowu/']);">车展门票</a>
+<a href="http://bj.58.com/qtpiaowu/?key=mix&amp;final=1&amp;searchtype=3&amp;sourcetype=21" onclick="_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/qtpiaowu/']);">mix</a>
+<a href="http://bj.58.com/qtpiaowu/?key=%E8%BD%A6%E5%B1%95&amp;final=1&amp;searchtype=3&amp;sourcetype=21" onclick="_gaq.push(['pageTracker._trackEvent', 'list', 'tag_click', '/huangye/hotkeywords/zz/qtpiaowu/']);">车展</a>
+</span>
+</form>
+</div>
+<a href="http://post.58.com/1/9198/s5" target="_blank" class="postbtn"><i></i>免费发布信息</a>
+</header>
+<!-- =E header -->
+<div id="ad_mdlbdb" class="tuibox_top_ad"> </div>
+<!-- =S allSiteSearch 全站搜索 -->
+<script type="text/javascript">    
+	$("#selectbar span[name=cateswitch]").each(function(){
+		$(this).toggle(function(){
+		$(this).removeClass('b1').addClass('b2').text('收起').prev('.s_ul').children().slice(5).show();
+		},function(){
+			$(this).removeClass('b2').addClass('b1').text('展开').prev('.s_ul').children().slice(5).hide();
+		});
+	});
+</script>
+<script type="text/javascript">
+$(".sousuo span[name=cateswitch]").each(function(){
+$(this).toggle(function(){
+$(this).removeClass('b1').addClass('b4').text('收起').prev('.s_ul').children().slice(5).show();
+},function(){
+$(this).removeClass('b4').addClass('b1').text('展开').prev('.s_ul').children().slice(5).hide();
+});
+});
+</script>
+<!-- =E allSiteSearch 全站搜索 -->
+<!-- =S SELECTION -->
+<section id="selection">
+<!-- =S CMCSPARAMETERS -->
+<dl class="secitem">
+<dt>区域：</dt>
+<dd class="fanwei" id="selArea">
+<a href="/qtpiaowu/" class="select">全北京</a>
+<a href="/chaoyang/qtpiaowu/">朝阳</a>
+<a href="/haidian/qtpiaowu/">海淀</a>
+<a href="/dongcheng/qtpiaowu/">东城</a>
+<a href="/xicheng/qtpiaowu/">西城</a>
+<a href="/chongwen/qtpiaowu/">崇文</a>
+<a href="/xuanwu/qtpiaowu/">宣武</a>
+<a href="/fengtai/qtpiaowu/">丰台</a>
+<a href="/tongzhouqu/qtpiaowu/">通州</a>
+<a href="/shijingshan/qtpiaowu/">石景山</a>
+<a href="/fangshan/qtpiaowu/">房山</a>
+<a href="/changping/qtpiaowu/">昌平</a>
+<a href="/daxing/qtpiaowu/">大兴</a>
+<a href="/shunyi/qtpiaowu/">顺义</a>
+<a href="/miyun/qtpiaowu/">密云</a>
+<a href="/huairou/qtpiaowu/">怀柔</a>
+<a href="/yanqing/qtpiaowu/">延庆</a>
+<a href="/pinggu/qtpiaowu/">平谷</a>
+<a href="/mentougou/qtpiaowu/">门头沟</a>
+<a href="/bjyanjiao/qtpiaowu/">燕郊</a>
+<a href="/beijingzhoubian/qtpiaowu/">北京周边</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>价格：</dt>
+<dd>
+<a href="http://bj.58.com/qtpiaowu/pve_5327_0/" class="select">全部</a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qtpiaowu/pve_5327_0_pve_8596_0_100/">
+              100元以下
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qtpiaowu/pve_5327_0_pve_8596_100_200/">
+              100-200元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qtpiaowu/pve_5327_0_pve_8596_200_500/">
+              200-500元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qtpiaowu/pve_5327_0_pve_8596_500_1000/">
+              500-1000元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qtpiaowu/pve_5327_0_pve_8596_1000_2000/">
+              1000-2000元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qtpiaowu/pve_5327_0_pve_8596_2000_3500/">
+              2000-3500元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qtpiaowu/pve_5327_0_pve_8596_3500_999999/">
+              3500元以上
+        </a>
+<span class="prifilter"><span class="text text2"><input type="text" para="minprice" muti="1" size="3" onkeyup="cknum(this)" min="0" name="b_q" /> -  <input type="text" muti="1" para="minprice" size="3" onkeyup="cknum(this)" min="0" name="b_q" />  元 </span><span class="btn btn2"><input type="button" value="价格筛选" onclick="b_query()" /></span></span>
+</dd>
+</dl>
+<dl class="secitem"><dt>供需：</dt>
+<dd class="fanwei">
+<a class="select" name="b_link" para="custom" cl="/qtpiaowu/" href="http://bj.58.com/qtpiaowu/pve_5327_0/">
+	              转让
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qtpiaowu/pve_5327_1/">
+	              求购
+	        </a>
+</dd></dl>
+<!-- =E CMCSPARAMETERS -->
+<div id="selected" class="bar"></div>
+</section>
+<!-- =E SELECTION -->
+<!-- =S tabsbar -->
+<div class="tabsbar">
+<div class="list-tabs">
+<a class="sel" href="/qtpiaowu/"><h1>北京其他票务信息</h1></a>
+</div>
+</div> <!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix pr">
+<!-- =S filterbar -->
+<div class="filterbar h28">
+<div class="filterbar-l">
+<div class="filterup" id="filterup">
+<a class="m1 sel" rel="nofollow" href="javascript:void(0)" onclick="g2({sort:null,postdate:null,minprice:null});return false"><span>默认排序<em></em></span></a>
+<a class="m1" title="发布时间" href="javascript:void(0)" rel="nofollow" para="sort" cv="posttime" onclick="g2({sort:'posttime',postdate:null,minprice:null});return false">
+<span>发布时间<em class="ico-miarr-d"></em></span>
+</a>
+</div>
+<span class="checkbox-ico" id="isonline"><a href="javascript:void(0);">帮帮在线</a></span>
+<span class="checkbox-ico" id="indivOnly"><a href="javascript:void(0);">只看个人</a></span>
+</div>
+<div class="filterbar-md">
+<a class="mdtj" rel="nofollow" target="_blank" href="http://e.58.com/pas_zizhutuiguang">名店推荐隆重招商</a>
+</div>
+</div>
+<!-- =E filterbar -->
+<!-- =S infolist -->
+<div id="infolist" class="cleft">
+<table class="tblist" cellpadding="0" cellspacing="0">
+<col width="100" />
+<col width="840" />
+<col width="60" />
+<tr><td colspan="3" class="google"><div id="top_google_ad"></div></td></tr>
+<tr logr="p_0_23083794704391_17871500672777_0">
+<td class="tc">
+<b class="pri">300</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17871500672777x.shtml" target="_blank" class="t">买邓紫棋演唱会门票</a><span class="ico area">
+<a href="/bjbeiyuan/qtpiaowu/">北苑</a>
+</span>
+<span name="zaixian_23083794704391"></span> </td>
+<td class="pd">3分钟</td>
+</tr>
+<tr logr="p_0_14342041306119_17839075408775_0">
+<td class="tc">
+<b class="pri">30</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17839075408775x.shtml" target="_blank" class="t">转让慕田峪长城门票30元/张 电子票,支持淘宝交易</a><span class="ico area">
+<a href="/qtpiaowu/">北京</a>
+</span>
+<span name="zaixian_14342041306119"></span> </td>
+<td class="pd">15分钟</td>
+</tr>
+<tr logr="p_0_23083326238214_17871254935299_0">
+<td class="tc">
+     		           	面议</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17871254935299x.shtml" target="_blank" class="t">健身卡转让</a><span class="ico area">
+<a href="/zhongguancun/qtpiaowu/">中关村</a>
+</span>
+<span name="zaixian_23083326238214"></span> </td>
+<td class="pd">35分钟</td>
+</tr>
+<tr logr="p_0_12862423433991_17254134000134_0">
+<td class="tc">
+<b class="pri">900</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17254134000134x.shtml" target="_blank" class="t">台湾街邓丽君音乐主题餐厅1000元VIP卡</a><span class="ico area">
+<a href="/lugu/qtpiaowu/">鲁谷</a>
+</span>
+<span name="zaixian_12862423433991"></span> </td>
+<td class="pd">39分钟</td>
+</tr>
+<tr logr="p_0_40217084_17687104499849_0">
+<td class="tc">
+<b class="pri">800</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17687104499849x.shtml" target="_blank" class="t">转让大望路万达广场快乐健身游泳课</a><span class="ico area">
+<a href="/guanzhuang/qtpiaowu/">管庄</a>
+</span>
+<span name="zaixian_40217084"></span> </td>
+<td class="pd">49分钟</td>
+</tr>
+<tr logr="p_1_11011554374918_17871108781954_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17871108781954x.shtml" target="_blank" class="t">北京新开温泉度假村是公司年会的首选场地</a><span class="ico area">
+<a href="/yizhuang/qtpiaowu/">亦庄</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">54分钟</td>
+</tr>
+<tr logr="p_1_11011554374918_17871090244874_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17871090244874x.shtml" target="_blank" class="t">北京千人会议酒店</a><span class="ico area">
+<a href="/zhongguancun/qtpiaowu/">中关村</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">57分钟</td>
+</tr>
+<tr logr="p_1_11011554374918_17871073887625_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17871073887625x.shtml" target="_blank" class="t">北京郊区会议酒店</a><span class="ico area">
+<a href="/yizhuang/qtpiaowu/">亦庄</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">59分钟</td>
+</tr>
+<tr logr="p_1_11011554374918_17871064919815_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17871064919815x.shtml" target="_blank" class="t">北京周边培训会议酒店</a><span class="ico area">
+<a href="/yizhuang/qtpiaowu/">亦庄</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_1_11011554374918_17871033997825_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17871033997825x.shtml" target="_blank" class="t">朝阳周边温泉会议酒店</a><span class="ico area">
+<a href="/guomao/qtpiaowu/">国贸</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_1_11011554374918_17870981941255_0">
+<td class="tc">
+     		           	面议</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870981941255x.shtml" target="_blank" class="t">北京培训会议酒店首选星湖园</a><span class="ico area">
+<a href="/guomao/qtpiaowu/">国贸</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_1_11011554374918_17870958358657_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870958358657x.shtml" target="_blank" class="t">公司年会首选星湖园</a><span class="ico area">
+<a href="/guomao/qtpiaowu/">国贸</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_1_11011554374918_17870946124426_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870946124426x.shtml" target="_blank" class="t">北京年会场地首选星湖园温泉度假村</a><span class="ico area">
+<a href="/cbd/qtpiaowu/">CBD </a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_32484962_17870943217415_0">
+<td class="tc">
+<b class="pri">300</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870943217415x.shtml" target="_blank" class="t">华彬费尔蒙酒店金尊会议室3小时礼券</a><span class="ico area">
+<a href="/qtpiaowu/">北京</a>
+</span>
+<span name="zaixian_32484962"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_1_11011554374918_17870935938185_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870935938185x.shtml" target="_blank" class="t">北京周边新开温泉会议酒店</a><span class="ico area">
+<a href="/guomao/qtpiaowu/">国贸</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_23082507096326_17870911388677_0">
+<td class="tc">
+<b class="pri">399</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870911388677x.shtml" target="_blank" class="t">小米发布会门票</a><span class="ico area">
+<a href="/fuchengmen/qtpiaowu/">阜成门</a>
+</span>
+<span name="zaixian_23082507096326"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_32484962_17870865177217_0">
+<td class="tc">
+<b class="pri">200</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870865177217x.shtml" target="_blank" class="t">华彬费尔蒙酒店宴会或婚宴9折优惠券</a><span class="ico area">
+<a href="/qtpiaowu/">北京</a>
+</span>
+<span name="zaixian_32484962"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_1_21795561815558_17362299930371_0">
+<td class="tc">
+<b class="pri">20000</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17362299930371x.shtml" target="_blank" class="t">转让学大教育课时卡买多了7.5折转让</a><span class="ico area">
+<a href="/qtpiaowu/">北京</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_21795561815558"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_23082394163463_17870745991818_0">
+<td class="tc">
+<b class="pri">1500</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870745991818x.shtml" target="_blank" class="t">转让港澳4天3夜双人游</a><span class="ico area">
+<a href="/bjsunhe/qtpiaowu/">孙河</a>
+</span>
+<span name="zaixian_23082394163463"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_32484962_17870840401288_0">
+<td class="tc">
+<b class="pri">100</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870840401288x.shtml" target="_blank" class="t">华彬费尔蒙酒店SPA买一送一券</a><span class="ico area">
+<a href="/qtpiaowu/">北京</a>
+</span>
+<span name="zaixian_32484962"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_32484962_17870768288770_0">
+<td class="tc">
+<b class="pri">300</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870768288770x.shtml" target="_blank" class="t">北京华彬费尔蒙酒店住宿礼券</a><span class="ico area">
+<a href="/qtpiaowu/">北京</a>
+</span>
+<span name="zaixian_32484962"></span> </td>
+<td class="pd">1小时</td>
+</tr>
+<tr logr="p_0_8538609506310_17760278379265_0">
+<td class="tc">
+<b class="pri">600</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17760278379265x.shtml" target="_blank" class="t">低价转让博奥健身卡(通州店)</a><span class="ico area">
+<a href="/tuqiao/qtpiaowu/">土桥</a>
+</span>
+<span name="zaixian_8538609506310"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_5477490517255_17090154835975_0">
+<td class="tc">
+<b class="pri">3200</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17090154835975x.shtml" target="_blank" class="t">菲律宾马尼拉麦卡蒂香格里拉酒店住宿券</a><span class="ico area">
+<a href="/guomao/qtpiaowu/">国贸</a>
+</span>
+<span name="zaixian_5477490517255"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_1_11011554374918_17870505434119_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870505434119x.shtml" target="_blank" class="t">大兴区培训会议酒店</a><span class="ico area">
+<a href="/daxingzhoubian/qtpiaowu/">大兴周边</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_53778813_17870453247496_0">
+<td class="tc">
+<b class="pri">699</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870453247496x.shtml" target="_blank" class="t">就一张！小米5.15发布会门票 先到先得</a><span class="ico area">
+<a href="/tongxingyuan/qtpiaowu/">同兴园</a>
+</span>
+<span name="zaixian_53778813"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_23081728472070_17870444914566_0">
+<td class="tc">
+<b class="pri">150</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870444914566x.shtml" target="_blank" class="t">运河苑温泉度假村平日票转让</a><span class="ico area">
+<a href="/xibeiwang/qtpiaowu/">西北旺</a>
+</span>
+<span name="zaixian_23081728472070"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_11011554374918_17870442840193_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870442840193x.shtml" target="_blank" class="t">北京大兴周边的会议酒店</a><span class="ico area">
+<a href="/daxingzhoubian/qtpiaowu/">大兴周边</a>
+</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_11011554374918_17870429556486_0">
+<td class="tc">
+<b class="pri">400</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870429556486x.shtml" target="_blank" class="t">北京通州区会议酒店</a><span class="ico area">
+<a href="/tongzhouzhoubian/qtpiaowu/">通州周边</a>
+</span>
+<span name="zaixian_11011554374918"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_24074115_17870335974151_0">
+<td class="tc">
+<b class="pri">3600</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870335974151x.shtml" target="_blank" class="t">双井富力城健身卡2张,刚开卡两礼拜</a><span class="ico area">
+<a href="/shuangjing/qtpiaowu/">双井</a>
+</span>
+<span name="zaixian_24074115"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_16387730957574_17870286003720_0">
+<td class="tc">
+<b class="pri">1000</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870286003720x.shtml" target="_blank" class="t">5折转让韩国意大利风情歌诗达豪华邮轮6日游票</a><span class="ico area">
+<a href="/wudaokou/qtpiaowu/">五道口</a>
+</span>
+<span name="zaixian_16387730957574"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_14576389443591_16618788752135_0">
+<td class="tc">
+<b class="pri">80</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/16618788752135x.shtml" target="_blank" class="t">木北造型1折卡80出售</a><span class="ico area">
+<a href="/xinjie/qtpiaowu/">新街口</a>
+</span>
+<span name="zaixian_14576389443591"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_19677994377990_17870230590858_0">
+<td class="tc">
+<b class="pri">6000</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870230590858x.shtml" target="_blank" class="t">韦博英语三个级别6000</a><span class="ico area">
+<a href="/guomao/qtpiaowu/">国贸</a>
+</span>
+<span name="zaixian_19677994377990"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_18288917455879_17870176445826_0">
+<td class="tc">
+<b class="pri">800</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17870176445826x.shtml" target="_blank" class="t">4折转让骆驼户外休闲服装鞋包现金券</a><span class="ico area">
+<a href="/tiyuguanlu/qtpiaowu/">体育馆路</a>
+</span>
+<span name="zaixian_18288917455879"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_20582143873286_16662588783751_0">
+<td class="tc">
+<b class="pri">1100</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/16662588783751x.shtml" target="_blank" class="t">普蓝德洗衣卡2000元</a><span class="ico area">
+<a href="/wangfujing/qtpiaowu/">王府井</a>
+</span>
+<span name="zaixian_20582143873286"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_0_13079906_17859926616583_0">
+<td class="tc">
+<b class="pri">200</b>元</td>
+<td class="t"><a href="http://bj.58.com/qtpiaowu/17859926616583x.shtml" target="_blank" class="t">锤子手机发布会门票换小米5.15发布会门票</a><span class="ico area">
+<a href="/guanzhuang/qtpiaowu/">管庄</a>
+</span>
+<span name="zaixian_13079906"></span> </td>
+<td class="pd">3小时</td>
+</tr>
+<tr><td colspan="3" class="google"><div id="taobao"></div></td></tr>
+<tr><td colspan="3" class="google"><div id="bottom_google_ad"></div></td></tr>
+</table><div class="pager">
+<strong><span>1</span></strong><a href="/qtpiaowu/pn2/"><span>2</span></a><a href="/qtpiaowu/pn3/"><span>3</span></a><a href="/qtpiaowu/pn4/"><span>4</span></a><a href="/qtpiaowu/pn5/"><span>5</span></a><a href="/qtpiaowu/pn6/"><span>6</span></a><a href="/qtpiaowu/pn7/"><span>7</span></a><a href="/qtpiaowu/pn8/"><span>8</span></a><a href="/qtpiaowu/pn9/"><span>9</span></a><a href="/qtpiaowu/pn10/"><span>10</span></a><a href="/qtpiaowu/pn11/"><span>11</span></a><a href="/qtpiaowu/pn12/"><span>12</span></a><a class="next" href="/qtpiaowu/pn2/"><span>下一页</span></a>
+</div>
+<div id="infocont"><a target="_blank" rel="nofollow" href="http://post.58.com/1/9198/s5">马上发布一条其他票务信息&raquo;</a></div>
+<div id="bottom_zhaoshangjiameng_ad"></div>
+<div id="direct_ad_bottom"></div>
+</div>
+<!-- =E infolist -->
+<!-- =S rightframe -->
+<div id="rightframe">
+<div id="ad19"></div></div>
+<!-- =E rightframe -->
+</section>
+<!-- =E mainlist -->
+<!-- =S links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S friendtips -->
+<dl id="friendtips" class="linksItem friendtips">
+<dt class="b-left">北京其他票务介绍</dt>
+<dd class="b-right">北京其他票务频道为您提供北京其他票务查询,北京其他票务转让信息供您选择，您可以免费查看和发布北京其他票务信息,北京其他票务转让信息。感谢您选择北京其他票务信息平台。手机版请访问<a href="http://m.58.com/bj/qtpiaowu">北京其他票务</a></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S relate 相关信息 -->
+<dl class="linksItem relate" id="relate">
+<dt class="b-left">相关信息：</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="/qtpiaowu/jh_%E5%BF%AB%E9%80%9A%E5%8D%A1/">快通卡</a></li>
+<li><a href="/qtpiaowu/jh_%E4%BA%AC%E6%B4%A5%E5%9F%8E%E9%99%85%E5%BF%AB%E9%80%9A%E5%8D%A1/">京津城际快通卡</a></li>
+<li><a href="/qtpiaowu/jh_%E6%B8%A9%E6%B3%89%E7%A5%A8/">温泉票</a></li>
+<li><a href="/qtpiaowu/jh_%E5%8A%A0%E6%B2%B9%E5%8D%A1/">加油卡</a></li>
+<li><a href="/qtpiaowu/jh_%E6%B8%A9%E6%B3%89%E9%97%A8%E7%A5%A8/">温泉门票</a></li>
+<li><a href="/qtpiaowu/jh_%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97/">北京酒店</a></li>
+<li><a href="/qtpiaowu/jh_%E6%96%B0%E4%B8%9C%E6%96%B9/">新东方</a></li>
+<li><a href="/qtpiaowu/jh_%E6%B4%97%E8%BD%A6%E5%8D%A1/">洗车卡</a></li>
+<li><a href="/qtpiaowu/jh_%E5%9F%8E%E9%99%85%E5%BF%AB%E9%80%9A%E5%8D%A1/">城际快通卡</a></li>
+<li><a href="/qtpiaowu/jh_mix/">mix</a></li>
+</ul></dd></dl>
+<!-- =E relate 相关信息 -->
+<!-- =S META A~Z -->
+<dl id="relatelink" class="linksItem relatelink">
+<dt class="b-left">北京其他票务全部商圈：</dt>
+<dd class="b-right">
+<dl class="relateSelect" id="relateSelect">
+<dt><span>A</span></dt>
+<dd>
+<a href="/anzhenqiao/qtpiaowu/" target="_blank">安贞其他票务</a>
+<a href="/anhuili/qtpiaowu/" target="_blank">安慧桥其他票务</a>
+<a href="/aoyuncun/qtpiaowu/" target="_blank">奥运村其他票务</a>
+<a href="/annz/qtpiaowu/" target="_blank">安宁庄其他票务</a>
+<a href="/andingmen/qtpiaowu/" target="_blank">安定门其他票务</a>
+</dd>
+<dt><span>B</span></dt>
+<dd>
+<a href="/beishatan/qtpiaowu/" target="_blank">北沙滩其他票务</a>
+<a href="/bjbeiyuan/qtpiaowu/" target="_blank">北苑其他票务</a>
+<a href="/baiziwan/qtpiaowu/" target="_blank">百子湾其他票务</a>
+<a href="/dblz/qtpiaowu/" target="_blank">八里庄其他票务</a>
+<a href="/beijingdaxue/qtpiaowu/" target="_blank">北京大学其他票务</a>
+<a href="/beihangbj/qtpiaowu/" target="_blank">北航其他票务</a>
+<a href="/beitaipingzhuang/qtpiaowu/" target="_blank">北太平庄其他票务</a>
+<a href="/baishiqiao/qtpiaowu/" target="_blank">白石桥其他票务</a>
+<a href="/beiwalu/qtpiaowu/" target="_blank">北洼路其他票务</a>
+<a href="/beixinqiao/qtpiaowu/" target="_blank">北新桥其他票务</a>
+<a href="/beijingzhan/qtpiaowu/" target="_blank">北京站其他票务</a>
+<a href="/baiwanzhuang/qtpiaowu/" target="_blank">百万庄其他票务</a>
+<a href="/baizhifang/qtpiaowu/" target="_blank">白纸坊其他票务</a>
+<a href="/baiguanglu/qtpiaowu/" target="_blank">白广路其他票务</a>
+<a href="/beidadi/qtpiaowu/" target="_blank">北大地其他票务</a>
+<a href="/bgbeiguan/qtpiaowu/" target="_blank">北关其他票务</a>
+<a href="/beiguanhuandao/qtpiaowu/" target="_blank">北关环岛其他票务</a>
+<a href="/baliqiao/qtpiaowu/" target="_blank">八里桥其他票务</a>
+<a href="/batongqinggui/qtpiaowu/" target="_blank">八通轻轨沿线其他票务</a>
+<a href="/babaoshan/qtpiaowu/" target="_blank">八宝山其他票务</a>
+<a href="/bajiao/qtpiaowu/" target="_blank">八角其他票务</a>
+</dd>
+<dt><span>C</span></dt>
+<dd>
+<a href="/cbd/qtpiaowu/" target="_blank">CBD 其他票务</a>
+<a href="/chaowaidajie/qtpiaowu/" target="_blank">朝外大街其他票务</a>
+<a href="/chaoyanggongyuan/qtpiaowu/" target="_blank">朝阳公园其他票务</a>
+<a href="/chaoqingbankuai/qtpiaowu/" target="_blank">朝青板块其他票务</a>
+<a href="/ciyunsi/qtpiaowu/" target="_blank">慈云寺其他票务</a>
+<a href="/changying/qtpiaowu/" target="_blank">常营其他票务</a>
+<a href="/chaoyangzhoubian/qtpiaowu/" target="_blank">朝阳周边其他票务</a>
+<a href="/changwa/qtpiaowu/" target="_blank">厂洼其他票务</a>
+<a href="/chedg/qtpiaowu/" target="_blank">车道沟其他票务</a>
+<a href="/chaoyangmen/qtpiaowu/" target="_blank">朝阳门其他票务</a>
+<a href="/chegongzhuang/qtpiaowu/" target="_blank">车公庄其他票务</a>
+<a href="/chongwenmen/qtpiaowu/" target="_blank">崇文门其他票务</a>
+<a href="/ciqikou/qtpiaowu/" target="_blank">磁器口其他票务</a>
+<a href="/chongwenzhoubian/qtpiaowu/" target="_blank">崇文周边其他票务</a>
+<a href="/chunshujiedao/qtpiaowu/" target="_blank">椿树街道其他票务</a>
+<a href="/caishikou/qtpiaowu/" target="_blank">菜市口其他票务</a>
+<a href="/caihuying/qtpiaowu/" target="_blank">菜户营其他票务</a>
+<a href="/caoqiao/qtpiaowu/" target="_blank">草桥其他票务</a>
+<a href="/chengshousi/qtpiaowu/" target="_blank">成寿寺其他票务</a>
+<a href="/ciqu/qtpiaowu/" target="_blank">次渠其他票务</a>
+<a href="/cpchengbei/qtpiaowu/" target="_blank">城北其他票务</a>
+</dd>
+<dt><span>D</span></dt>
+<dd>
+<a href="/dawanglu/qtpiaowu/" target="_blank">大望路其他票务</a>
+<a href="/dongdaqiao/qtpiaowu/" target="_blank">东大桥其他票务</a>
+<a href="/datun/qtpiaowu/" target="_blank">大屯其他票务</a>
+<a href="/dashanzi/qtpiaowu/" target="_blank">大山子其他票务</a>
+<a href="/dongba/qtpiaowu/" target="_blank">东坝其他票务</a>
+<a href="/dingfuzhuang/qtpiaowu/" target="_blank">定福庄其他票务</a>
+<a href="/dougezhuang/qtpiaowu/" target="_blank">豆各庄其他票务</a>
+<a href="/dazhongsi/qtpiaowu/" target="_blank">大钟寺其他票务</a>
+<a href="/dinghuisi/qtpiaowu/" target="_blank">定慧寺其他票务</a>
+<a href="/dongzhimen/qtpiaowu/" target="_blank">东直门其他票务</a>
+<a href="/dongzhimenwai/qtpiaowu/" target="_blank">东直门外其他票务</a>
+<a href="/dongsishitiao/qtpiaowu/" target="_blank">东四十条其他票务</a>
+<a href="/dengshikou/qtpiaowu/" target="_blank">灯市口其他票务</a>
+<a href="/dongsan/qtpiaowu/" target="_blank">东单其他票务</a>
+<a href="/dongsi/qtpiaowu/" target="_blank">东四其他票务</a>
+<a href="/dongchengzhoubian/qtpiaowu/" target="_blank">东城周边其他票务</a>
+<a href="/deshengmen/qtpiaowu/" target="_blank">德胜门其他票务</a>
+<a href="/dianmen/qtpiaowu/" target="_blank">地安门其他票务</a>
+<a href="/donghuashi/qtpiaowu/" target="_blank">东花市其他票务</a>
+<a href="/daguanyuan/qtpiaowu/" target="_blank">大观园其他票务</a>
+<a href="/dazhalan/qtpiaowu/" target="_blank">大栅栏其他票务</a>
+</dd>
+<dt><span>E</span></dt>
+<dd>
+<a href="/erlizhuang/qtpiaowu/" target="_blank">二里庄其他票务</a>
+<a href="/bjenjili/qtpiaowu/" target="_blank">恩济里其他票务</a>
+</dd>
+<dt><span>F</span></dt>
+<dd>
+<a href="/fatou/qtpiaowu/" target="_blank">垡头其他票务</a>
+<a href="/fuchengmen/qtpiaowu/" target="_blank">阜成门其他票务</a>
+<a href="/fuxingmen/qtpiaowu/" target="_blank">复兴门其他票务</a>
+<a href="/fahuasi/qtpiaowu/" target="_blank">法华寺其他票务</a>
+<a href="/fengtailu/qtpiaowu/" target="_blank">丰台路其他票务</a>
+<a href="/fengtaitiyuguan/qtpiaowu/" target="_blank">丰台体育馆其他票务</a>
+<a href="/fangzhuang/qtpiaowu/" target="_blank">方庄其他票务</a>
+<a href="/fengyiqiao/qtpiaowu/" target="_blank">丰益桥其他票务</a>
+<a href="/fengtaizhoubian/qtpiaowu/" target="_blank">丰台周边其他票务</a>
+<a href="/fangshancg/qtpiaowu/" target="_blank">房山城关其他票务</a>
+<a href="/fangshanzhoubian/qtpiaowu/" target="_blank">房山周边其他票务</a>
+</dd>
+<dt><span>G</span></dt>
+<dd>
+<a href="/guomao/qtpiaowu/" target="_blank">国贸其他票务</a>
+<a href="/guangqumen/qtpiaowu/" target="_blank">广渠门其他票务</a>
+<a href="/gongti/qtpiaowu/" target="_blank">工体其他票务</a>
+<a href="/guozhan/qtpiaowu/" target="_blank">国展其他票务</a>
+<a href="/ganluyuan/qtpiaowu/" target="_blank">甘露园其他票务</a>
+<a href="/gaobeidianbj/qtpiaowu/" target="_blank">高碑店其他票务</a>
+<a href="/guanzhuang/qtpiaowu/" target="_blank">管庄其他票务</a>
+<a href="/ganjiakou/qtpiaowu/" target="_blank">甘家口其他票务</a>
+<a href="/gongzhufen/qtpiaowu/" target="_blank">公主坟其他票务</a>
+<a href="/guanyuan/qtpiaowu/" target="_blank">官园其他票务</a>
+<a href="/shishahai/qtpiaowu/" target="_blank">鼓楼其他票务</a>
+<a href="/guangqumennei/qtpiaowu/" target="_blank">广渠门其他票务</a>
+<a href="/guangminglou/qtpiaowu/" target="_blank">光明楼其他票务</a>
+<a href="/guanganmenwai/qtpiaowu/" target="_blank">广安门外其他票务</a>
+<a href="/guanganmennei/qtpiaowu/" target="_blank">广安门内其他票务</a>
+<a href="/guoyuan/qtpiaowu/" target="_blank">果园其他票务</a>
+<a href="/guchenglu/qtpiaowu/" target="_blank">古城其他票务</a>
+<a href="/guangn/qtpiaowu/" target="_blank">广宁其他票务</a>
+<a href="/jingkaigaosu/qtpiaowu/" target="_blank">观音寺其他票务</a>
+<a href="/bjgmd/qtpiaowu/" target="_blank">高米店其他票务</a>
+<a href="/guangming/qtpiaowu/" target="_blank">光明 其他票务</a>
+</dd>
+<dt><span>H</span></dt>
+<dd>
+<a href="/hujialou/qtpiaowu/" target="_blank">呼家楼其他票务</a>
+<a href="/hepingjie/qtpiaowu/" target="_blank">和平街其他票务</a>
+<a href="/huajiadi/qtpiaowu/" target="_blank">花家地其他票务</a>
+<a href="/hongmiao/qtpiaowu/" target="_blank">红庙其他票务</a>
+<a href="/hxxj/qtpiaowu/" target="_blank">惠新西街其他票务</a>
+<a href="/huanlegu/qtpiaowu/" target="_blank">欢乐谷其他票务</a>
+<a href="/huixl/qtpiaowu/" target="_blank">惠新里其他票务</a>
+<a href="/bjhuaweiqiao/qtpiaowu/" target="_blank">华威桥其他票务</a>
+<a href="/huayuanqiao/qtpiaowu/" target="_blank">花园桥其他票务</a>
+<a href="/hangtianqiao/qtpiaowu/" target="_blank">航天桥其他票务</a>
+<a href="/haidianzhoubian/qtpiaowu/" target="_blank">海淀周边其他票务</a>
+<a href="/hepingli/qtpiaowu/" target="_blank">和平里其他票务</a>
+<a href="/haiyuncang/qtpiaowu/" target="_blank">海运仓其他票务</a>
+<a href="/honglian/qtpiaowu/" target="_blank">红莲其他票务</a>
+<a href="/hufangqiao/qtpiaowu/" target="_blank">虎坊桥其他票务</a>
+<a href="/hepingmen/qtpiaowu/" target="_blank">和平门其他票务</a>
+<a href="/huaxiang/qtpiaowu/" target="_blank">花乡其他票务</a>
+<a href="/ftheyi/qtpiaowu/" target="_blank">和义其他票务</a>
+<a href="/hanhecun/qtpiaowu/" target="_blank">韩村河其他票务</a>
+<a href="/huoying/qtpiaowu/" target="_blank">霍营其他票务</a>
+<a href="/huilongguan/qtpiaowu/" target="_blank">回龙观其他票务</a>
+</dd>
+<dt><span>I</span></dt>
+<dd>
+</dd>
+<dt><span>J</span></dt>
+<dd>
+<a href="/jinsong/qtpiaowu/" target="_blank">劲松其他票务</a>
+<a href="/jianwaidajie/qtpiaowu/" target="_blank">建外大街其他票务</a>
+<a href="/jingguangqiao/qtpiaowu/" target="_blank">京广桥其他票务</a>
+<a href="/jiuxianqiao/qtpiaowu/" target="_blank">酒仙桥其他票务</a>
+<a href="/jiangtailu/qtpiaowu/" target="_blank">将台路其他票务</a>
+<a href="/bjjianxq/qtpiaowu/" target="_blank">健翔桥其他票务</a>
+<a href="/jimenqiao/qtpiaowu/" target="_blank">蓟门桥其他票务</a>
+<a href="/bjjiaoda/qtpiaowu/" target="_blank">交通大学其他票务</a>
+<a href="/junbo/qtpiaowu/" target="_blank">军博其他票务</a>
+<a href="/bjjinhegou/qtpiaowu/" target="_blank">金沟河其他票务</a>
+<a href="/jiaodaokou/qtpiaowu/" target="_blank">交道口其他票务</a>
+<a href="/jianguomen/qtpiaowu/" target="_blank">建国门其他票务</a>
+<a href="/jingshan/qtpiaowu/" target="_blank">景山其他票务</a>
+<a href="/jierongjie/qtpiaowu/" target="_blank">金融街其他票务</a>
+<a href="/jishuitan/qtpiaowu/" target="_blank">积水潭其他票务</a>
+<a href="/jiayuan/qtpiaowu/" target="_blank">嘉园其他票务</a>
+<a href="/jiaomen/qtpiaowu/" target="_blank">角门其他票务</a>
+<a href="/jiukeshu/qtpiaowu/" target="_blank">九棵树其他票务</a>
+<a href="/jindingjie/qtpiaowu/" target="_blank">金顶街其他票务</a>
+<a href="/jiugong/qtpiaowu/" target="_blank">旧宫 其他票务</a>
+<a href="/jichangbj/qtpiaowu/" target="_blank">机场其他票务</a>
+</dd>
+<dt><span>K</span></dt>
+<dd>
+<a href="/kejiyuanqu/qtpiaowu/" target="_blank">科技园区其他票务</a>
+<a href="/bjkdq/qtpiaowu/" target="_blank">看丹桥其他票务</a>
+<a href="/huoxian/qtpiaowu/" target="_blank">漷县其他票务</a>
+<a href="/bjkz/qtpiaowu/" target="_blank">康庄其他票务</a>
+</dd>
+<dt><span>L</span></dt>
+<dd>
+<a href="/liufang/qtpiaowu/" target="_blank">柳芳其他票务</a>
+<a href="/laiguangying/qtpiaowu/" target="_blank">来广营其他票务</a>
+<a href="/bjlxqiao/qtpiaowu/" target="_blank">联想桥其他票务</a>
+<a href="/liupukang/qtpiaowu/" target="_blank">六铺炕其他票务</a>
+<a href="/longtanhu/qtpiaowu/" target="_blank">龙潭湖其他票务</a>
+<a href="/liuliqiao/qtpiaowu/" target="_blank">六里桥其他票务</a>
+<a href="/lugouqiao/qtpiaowu/" target="_blank">卢沟桥其他票务</a>
+<a href="/lizeqiao/qtpiaowu/" target="_blank">丽泽桥其他票务</a>
+<a href="/liujiayao/qtpiaowu/" target="_blank">刘家窑其他票务</a>
+<a href="/lianhuachi/qtpiaowu/" target="_blank">莲花池其他票务</a>
+<a href="/liyuan/qtpiaowu/" target="_blank">梨园其他票务</a>
+<a href="/linheli/qtpiaowu/" target="_blank">临河里其他票务</a>
+<a href="/luc/qtpiaowu/" target="_blank">潞城其他票务</a>
+<a href="/lugu/qtpiaowu/" target="_blank">鲁谷其他票务</a>
+<a href="/laoshanbj/qtpiaowu/" target="_blank">老山其他票务</a>
+<a href="/liangxiang/qtpiaowu/" target="_blank">良乡其他票务</a>
+<a href="/liulihe/qtpiaowu/" target="_blank">琉璃河其他票务</a>
+<a href="/lishuiqiao/qtpiaowu/" target="_blank">立水桥其他票务</a>
+<a href="/longze/qtpiaowu/" target="_blank">龙泽其他票务</a>
+<a href="/linxiaolu/qtpiaowu/" target="_blank">林校路其他票务</a>
+<a href="/liqiao/qtpiaowu/" target="_blank">李桥其他票务</a>
+</dd>
+<dt><span>M</span></dt>
+<dd>
+<a href="/maizidian/qtpiaowu/" target="_blank">麦子店其他票务</a>
+<a href="/meiticun/qtpiaowu/" target="_blank">媒体村其他票务</a>
+<a href="/mudanyuan/qtpiaowu/" target="_blank">牡丹园其他票务</a>
+<a href="/malianwa/qtpiaowu/" target="_blank">马连洼其他票务</a>
+<a href="/minggq/qtpiaowu/" target="_blank">明光桥其他票务</a>
+<a href="/madian/qtpiaowu/" target="_blank">马甸其他票务</a>
+<a href="/muxidi/qtpiaowu/" target="_blank">木樨地其他票务</a>
+<a href="/maliandao/qtpiaowu/" target="_blank">马连道其他票务</a>
+<a href="/muxiyuan/qtpiaowu/" target="_blank">木樨园其他票务</a>
+<a href="/majiabao/qtpiaowu/" target="_blank">马家堡其他票务</a>
+<a href="/majuqiao/qtpiaowu/" target="_blank">马驹桥其他票务</a>
+<a href="/mushikou/qtpiaowu/" target="_blank">模式口其他票务</a>
+<a href="/mapo/qtpiaowu/" target="_blank">马坡其他票务</a>
+<a href="/miyunchengqu/qtpiaowu/" target="_blank">密云城区其他票务</a>
+<a href="/miyunzhoubian/qtpiaowu/" target="_blank">密云周边其他票务</a>
+<a href="/miaoc/qtpiaowu/" target="_blank">庙城其他票务</a>
+<a href="/mentougouzhoubian/qtpiaowu/" target="_blank">门头沟周边其他票务</a>
+</dd>
+<dt><span>N</span></dt>
+<dd>
+<a href="/nanmofang/qtpiaowu/" target="_blank">南磨房其他票务</a>
+<a href="/bjnst/qtpiaowu/" target="_blank">南沙滩其他票务</a>
+<a href="/baiyunlu/qtpiaowu/" target="_blank">南礼士路其他票务</a>
+<a href="/nancaiyuan/qtpiaowu/" target="_blank">南菜园其他票务</a>
+<a href="/niujie/qtpiaowu/" target="_blank">牛街其他票务</a>
+<a href="/nanyuan/qtpiaowu/" target="_blank">南苑其他票务</a>
+<a href="/nankou/qtpiaowu/" target="_blank">南口其他票务</a>
+<a href="/bjnsz/qtpiaowu/" target="_blank">南邵镇其他票务</a>
+<a href="/nancai/qtpiaowu/" target="_blank">南彩其他票务</a>
+</dd>
+<dt><span>O</span></dt>
+<dd>
+</dd>
+<dt><span>P</span></dt>
+<dd>
+<a href="/panjiayuan/qtpiaowu/" target="_blank">潘家园其他票务</a>
+<a href="/puhuangyu/qtpiaowu/" target="_blank">蒲黄榆其他票务</a>
+<a href="/pingguoyuan/qtpiaowu/" target="_blank">苹果园其他票务</a>
+<a href="/panggz/qtpiaowu/" target="_blank">庞各庄其他票务</a>
+<a href="/pingguchengqu/qtpiaowu/" target="_blank">平谷城区其他票务</a>
+<a href="/pingguzhoubian/qtpiaowu/" target="_blank">平谷周边其他票务</a>
+</dd>
+<dt><span>Q</span></dt>
+<dd>
+<a href="/qinghuadaxue/qtpiaowu/" target="_blank">清华大学其他票务</a>
+<a href="/qinghe/qtpiaowu/" target="_blank">清河其他票务</a>
+<a href="/qianmen/qtpiaowu/" target="_blank">前门其他票务</a>
+<a href="/qingta/qtpiaowu/" target="_blank">青塔其他票务</a>
+<a href="/qilizhuang/qtpiaowu/" target="_blank">七里庄其他票务</a>
+<a href="/qiaozhuang/qtpiaowu/" target="_blank">乔庄其他票务</a>
+<a href="/qingy/qtpiaowu/" target="_blank">清源其他票务</a>
+<a href="/qiaozi/qtpiaowu/" target="_blank">桥梓其他票务</a>
+</dd>
+<dt><span>R</span></dt>
+<dd>
+<a href="/renmindaxue/qtpiaowu/" target="_blank">人民大学其他票务</a>
+</dd>
+<dt><span>S</span></dt>
+<dd>
+<a href="/bjsihui/qtpiaowu/" target="_blank">四惠其他票务</a>
+<a href="/shuangjing/qtpiaowu/" target="_blank">双井其他票务</a>
+<a href="/sanlitun/qtpiaowu/" target="_blank">三里屯其他票务</a>
+<a href="/sanyuanqiao/qtpiaowu/" target="_blank">三元桥其他票务</a>
+<a href="/shaoyaoju/qtpiaowu/" target="_blank">芍药居其他票务</a>
+<a href="/shoudujichang/qtpiaowu/" target="_blank">首都机场其他票务</a>
+<a href="/shuiduizi/qtpiaowu/" target="_blank">水碓子其他票务</a>
+<a href="/shifoying/qtpiaowu/" target="_blank">石佛营其他票务</a>
+<a href="/shilibao/qtpiaowu/" target="_blank">十里堡其他票务</a>
+<a href="/bjshuangqiao/qtpiaowu/" target="_blank">双桥其他票务</a>
+<a href="/shibalidian/qtpiaowu/" target="_blank">十八里店其他票务</a>
+<a href="/shilihe/qtpiaowu/" target="_blank">十里河其他票务</a>
+<a href="/bjsg/qtpiaowu/" target="_blank">胜古其他票务</a>
+<a href="/bjsyuli/qtpiaowu/" target="_blank">松榆里其他票务</a>
+<a href="/bjsunhe/qtpiaowu/" target="_blank">孙河其他票务</a>
+<a href="/shangdi/qtpiaowu/" target="_blank">上地其他票务</a>
+<a href="/shuangyushu/qtpiaowu/" target="_blank">双榆树其他票务</a>
+<a href="/sijiqinghd/qtpiaowu/" target="_blank">四季青其他票务</a>
+<a href="/shijicheng/qtpiaowu/" target="_blank">世纪城其他票务</a>
+<a href="/suzhouqiao/qtpiaowu/" target="_blank">苏州桥其他票务</a>
+<a href="/suzhoujie/qtpiaowu/" target="_blank">苏州街其他票务</a>
+</dd>
+<dt><span>T</span></dt>
+<dd>
+<a href="/tuanjiehu/qtpiaowu/" target="_blank">团结湖其他票务</a>
+<a href="/taiyanggong/qtpiaowu/" target="_blank">太阳宫其他票务</a>
+<a href="/tianshuiyuan/qtpiaowu/" target="_blank">甜水园其他票务</a>
+<a href="/tiancunlu/qtpiaowu/" target="_blank">田村其他票务</a>
+<a href="/tiyuguanlu/qtpiaowu/" target="_blank">体育馆路其他票务</a>
+<a href="/tiantan/qtpiaowu/" target="_blank">天坛其他票务</a>
+<a href="/tianningsi/qtpiaowu/" target="_blank">天宁寺其他票务</a>
+<a href="/taoranting/qtpiaowu/" target="_blank">陶然亭其他票务</a>
+<a href="/bjtianqiao/qtpiaowu/" target="_blank">天桥其他票务</a>
+<a href="/taipingqiao/qtpiaowu/" target="_blank">太平桥其他票务</a>
+<a href="/beiyuan/qtpiaowu/" target="_blank">通州北苑其他票务</a>
+<a href="/tuqiao/qtpiaowu/" target="_blank">土桥其他票务</a>
+<a href="/tongzhouzhoubian/qtpiaowu/" target="_blank">通州周边其他票务</a>
+<a href="/tiantongyuan/qtpiaowu/" target="_blank">天通苑其他票务</a>
+<a href="/tongxingyuan/qtpiaowu/" target="_blank">同兴园其他票务</a>
+<a href="/tianzhu/qtpiaowu/" target="_blank">天竺其他票务</a>
+<a href="/tanzhesi/qtpiaowu/" target="_blank">潭柘寺其他票务</a>
+</dd>
+<dt><span>U</span></dt>
+<dd>
+</dd>
+<dt><span>V</span></dt>
+<dd>
+</dd>
+<dt><span>W</span></dt>
+<dd>
+<a href="/wangjing/qtpiaowu/" target="_blank">望京其他票务</a>
+<a href="/wudaokou/qtpiaowu/" target="_blank">五道口其他票务</a>
+<a href="/baiyilu/qtpiaowu/" target="_blank">魏公村其他票务</a>
+<a href="/wanshouluhd/qtpiaowu/" target="_blank">万寿路其他票务</a>
+<a href="/wukesong/qtpiaowu/" target="_blank">五棵松其他票务</a>
+<a href="/wanliu/qtpiaowu/" target="_blank">万泉河其他票务</a>
+<a href="/wanliubj/qtpiaowu/" target="_blank">万柳其他票务</a>
+<a href="/wanss/qtpiaowu/" target="_blank">万寿寺其他票务</a>
+<a href="/bjwq/qtpiaowu/" target="_blank">温泉其他票务</a>
+<a href="/bjwcc/qtpiaowu/" target="_blank">五彩城其他票务</a>
+<a href="/bjwuluju/qtpiaowu/" target="_blank">五路居其他票务</a>
+<a href="/wangfujing/qtpiaowu/" target="_blank">王府井其他票务</a>
+<a href="/wulidianbj/qtpiaowu/" target="_blank">五里店其他票务</a>
+<a href="/wuyihuayuan/qtpiaowu/" target="_blank">武夷花园其他票务</a>
+<a href="/wulituo/qtpiaowu/" target="_blank">五里坨其他票务</a>
+<a href="/wangxz/qtpiaowu/" target="_blank">王辛庄其他票务</a>
+</dd>
+<dt><span>X</span></dt>
+<dd>
+<a href="/xibahe/qtpiaowu/" target="_blank">西坝河其他票务</a>
+<a href="/xiaoguan/qtpiaowu/" target="_blank">小关其他票务</a>
+<a href="/xiaohongmen/qtpiaowu/" target="_blank">小红门其他票务</a>
+<a href="/xisanqi/qtpiaowu/" target="_blank">西三旗其他票务</a>
+<a href="/xierqi/qtpiaowu/" target="_blank">西二旗其他票务</a>
+<a href="/xueyuanlu/qtpiaowu/" target="_blank">学院路其他票务</a>
+<a href="/balizhuang/qtpiaowu/" target="_blank">西八里庄其他票务</a>
+<a href="/xiangshanhd/qtpiaowu/" target="_blank">香山其他票务</a>
+<a href="/xiyuanbj/qtpiaowu/" target="_blank">西苑其他票务</a>
+<a href="/xibeiwang/qtpiaowu/" target="_blank">西北旺其他票务</a>
+<a href="/xs/qtpiaowu/" target="_blank">西山其他票务</a>
+<a href="/bjxylb/qtpiaowu/" target="_blank">学院路北其他票务</a>
+<a href="/bjxjh/qtpiaowu/" target="_blank">肖家河其他票务</a>
+<a href="/xizhimen/qtpiaowu/" target="_blank">西直门其他票务</a>
+<a href="/xisi/qtpiaowu/" target="_blank">西四其他票务</a>
+<a href="/xidan/qtpiaowu/" target="_blank">西单其他票务</a>
+<a href="/xiaoxitian/qtpiaowu/" target="_blank">小西天其他票务</a>
+<a href="/xinjie/qtpiaowu/" target="_blank">新街口其他票务</a>
+<a href="/xibianmen/qtpiaowu/" target="_blank">西便门其他票务</a>
+<a href="/xichengzhoubian/qtpiaowu/" target="_blank">西城周边其他票务</a>
+<a href="/xinshijie/qtpiaowu/" target="_blank">新世界其他票务</a>
+</dd>
+<dt><span>Y</span></dt>
+<dd>
+<a href="/yansha/qtpiaowu/" target="_blank">燕莎其他票务</a>
+<a href="/yayuncun/qtpiaowu/" target="_blank">亚运村其他票务</a>
+<a href="/xiaoying/qtpiaowu/" target="_blank">亚运村小营其他票务</a>
+<a href="/yaojiayuan/qtpiaowu/" target="_blank">姚家园其他票务</a>
+<a href="/bjyql/qtpiaowu/" target="_blank">玉泉路其他票务</a>
+<a href="/yongdinglu/qtpiaowu/" target="_blank">永定路其他票务</a>
+<a href="/yonghegong/qtpiaowu/" target="_blank">雍和宫其他票务</a>
+<a href="/yuetan/qtpiaowu/" target="_blank">月坛其他票务</a>
+<a href="/yongdingmen/qtpiaowu/" target="_blank">永定门其他票务</a>
+<a href="/yuegezhuang/qtpiaowu/" target="_blank">岳各庄其他票务</a>
+<a href="/yungang/qtpiaowu/" target="_blank">云岗其他票务</a>
+<a href="/yuquanying/qtpiaowu/" target="_blank">玉泉营其他票务</a>
+<a href="/youanmen/qtpiaowu/" target="_blank">右安门其他票务</a>
+<a href="/yangqiao/qtpiaowu/" target="_blank">洋桥其他票务</a>
+<a href="/yongshun/qtpiaowu/" target="_blank">永顺其他票务</a>
+<a href="/yunhedajie/qtpiaowu/" target="_blank">运河大街其他票务</a>
+<a href="/yuqiao/qtpiaowu/" target="_blank">玉桥其他票务</a>
+<a href="/bjyld/qtpiaowu/" target="_blank">永乐店其他票务</a>
+<a href="/yuquanlu/qtpiaowu/" target="_blank">玉泉路其他票务</a>
+<a href="/yongle/qtpiaowu/" target="_blank">永乐其他票务</a>
+<a href="/yamenkou/qtpiaowu/" target="_blank">衙门口其他票务</a>
+</dd>
+<dt><span>Z</span></dt>
+<dd>
+<a href="/zuojiazhuang/qtpiaowu/" target="_blank">左家庄其他票务</a>
+<a href="/zhongguancun/qtpiaowu/" target="_blank">中关村其他票务</a>
+<a href="/zhichunlu/qtpiaowu/" target="_blank">知春路其他票务</a>
+<a href="/zhaojunmiao/qtpiaowu/" target="_blank">皂君庙其他票务</a>
+<a href="/zizhuqiao/qtpiaowu/" target="_blank">紫竹桥其他票务</a>
+<a href="/zengguanglu/qtpiaowu/" target="_blank">增光路其他票务</a>
+<a href="/zhanlanlu/qtpiaowu/" target="_blank">展览路其他票务</a>
+<a href="/zhenwumiao/qtpiaowu/" target="_blank">真武庙其他票务</a>
+<a href="/changchunjie/qtpiaowu/" target="_blank">长椿街其他票务</a>
+<a href="/zhushikou/qtpiaowu/" target="_blank">珠市口其他票务</a>
+<a href="/changxindian/qtpiaowu/" target="_blank">长辛店其他票务</a>
+<a href="/zhaogongkou/qtpiaowu/" target="_blank">赵公口其他票务</a>
+<a href="/zuoanmen/qtpiaowu/" target="_blank">左安门其他票务</a>
+<a href="/bjzbjd/qtpiaowu/" target="_blank">总部基地其他票务</a>
+<a href="/zhongcang/qtpiaowu/" target="_blank">中仓其他票务</a>
+<a href="/zhangjiawan/qtpiaowu/" target="_blank">张家湾其他票务</a>
+<a href="/changyangbj/qtpiaowu/" target="_blank">长阳其他票务</a>
+<a href="/zhoukd/qtpiaowu/" target="_blank">周口店其他票务</a>
+<a href="/bjzy/qtpiaowu/" target="_blank">枣园其他票务</a>
+<a href="/zhongyangbsq/qtpiaowu/" target="_blank">中央别墅区其他票务</a>
+<a href="/bjzz/qtpiaowu/" target="_blank">涿州其他票务</a>
+</dd>
+</dl>
+</dd>
+</dl>
+<script>
+		////附近商圈
+		var alldt2 = $("#relateSelect&gt;dt");
+		function showNear2(dt){
+		    alldt2.each(function(){
+		        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+		        else {$(this).next("dd").hide();$(this).removeClass("select");}
+		    });
+		}
+		alldt2.each(function(){
+		    $(this).click(function(){showNear2(this);}).hover(function(){showNear2(this);});
+		});
+						showNear2(alldt[0]);
+				</script>
+<!-- =E META A~Z -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">北京其他票务周边城市：</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://tj.58.com/qtpiaowu">天津其他票务</a></li>
+<li><a href="http://sjz.58.com/qtpiaowu">石家庄其他票务</a></li>
+<li><a href="http://zjk.58.com/qtpiaowu">张家口其他票务</a></li>
+<li><a href="http://bd.58.com/qtpiaowu">保定其他票务</a></li>
+<li><a href="http://lf.58.com/qtpiaowu">廊坊其他票务</a></li>
+<li><a href="http://ts.58.com/qtpiaowu">唐山其他票务</a></li>
+<li><a href="http://chengde.58.com/qtpiaowu">承德其他票务</a></li>
+<li><a href="http://qhd.58.com/qtpiaowu">秦皇岛其他票务</a></li>
+<li><a href="http://cangzhou.58.com/qtpiaowu">沧州其他票务</a></li>
+<li><a href="http://hs.58.com/qtpiaowu">衡水其他票务</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S friendlink -->
+<dl id="friendlink" class="linksItem friendlink">
+<dt class="b-left"><h2>友情链接：</h2></dt>
+<dd class="b-right"><strong>友情链接</strong>:<a href="http://q.58.com/ZhaoBenShan/" target="_blank">赵本山</a>&nbsp;<a href="http://lieche.58.com/" target="_blank">临客时刻表</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!--  
+&lt;script type="text/javascript"&gt;
+boot.require('util.uri', function(Frame, uri){
+	var mutexs_par = "b1b2b3b4b5b6b7".substring(0,1);
+	var re = new RegExp(mutexs_par + '\\d+', 'ig')
+	mutexs = [{searchitem:re, params:["minprice"], searthname:'价格'}];
+	for(var i = 0, leni = mutexs.length; i &lt; leni; i ++) {
+		var mutex = mutexs[i];
+		var pobj = {};
+		for(var j = 0, lenj = mutex.params.length; j &lt; lenj; j ++) {
+			pobj[mutex.params[j]] = null;
+		}
+		for(var l = 0, lenl = mutex.params.length; l &lt; lenl; l ++) {
+			var pitem = $("#selection&gt;.secitem dt:contains("+mutex.searthname+")").parent();
+			pitem.find("a").each(function(){
+				var o = {};
+				o[mutex.params] = null;
+				this.href = (new uri(this.href)).setQuery(o);
+			});
+		}
+	}
+});
+&lt;/script&gt;
+-->
+<script type="text/javascript">document.write("&lt;sc"+"ript src='http://track.58.com/adsys/ggafs?r="+Math.random()+"'&gt;&lt;/scri"+"pt&gt;");</script>
+<script>
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+
+///////标红////	
+boot.require('business.highlight', function (Frame, highlight) {
+            highlight.init($("#infolist a.t"), '');
+    });
+</script>
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+<div style="display:none">
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'-1'};
+var _gaq = _gaq || [],site_name = "58",post_count = "5323",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'833,9198','area':'1','pagetype':'list','pagesize':'35','pagenum':'1','level1':'0','level2':'0','level3':'0','level4':'0','level5':'0','level6':'0'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/bj/piaowu/qtpiaowu/list/']);
+$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+</div>
+<script src="http://static.58.com/js/5_1/comm_js/hylist.js"></script>
+</body>
+</html>

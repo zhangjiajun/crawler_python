@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- title -->
+<title>就业动态_就业视点_职场就业  -58同城</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="email=no" />
+<meta name="format-detection" content="address=no;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<meta name="description" content="58同城招聘网求职指南频道为求职者提供职业规划、个人简历模板、自我评价、面试技巧、升职加薪、跳槽策略、防欺诈技巧、劳动法规等30多个内容频道相关服务，为求职者在求职过程中的彷徨提供方向指南。" />
+<meta name="keywords" content="就业动态_就业视点_职场就业" />
+<!-- css -->
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="stylesheet" href="http://static.58.com/m58/m3/css/m.zixun.css" />
+<script src="http://static.58.com/m58/m3/js/jq.mobi.min.js"></script>
+<script src="http://static.58.com/m58/m3/js/m.zixun.js"></script></head>
+<body>
+<!--- banner --->
+<!--- banner end --->
+<!--- header --->
+<div class="header">
+<a class="logo_a" href="http://m.58.com/" onclick="clickLog('from=58logo')">
+<img src="http://pic2.58.com/m58/m3/img/logo.png" alt="中文最大生活信息门户" width="100%" />
+</a>
+<a href="http://m.58.com/" onclick="clickLog('from=58logo')"></a>
+<div class="city_a"><span class="city">就业动态</span></div>
+<a class="publish" path="http://p.m.58.com/?from=click_post_index" href="http://p.m.58.com/202/?path=http://m.58.com/&amp;from=click_post_index" onclick="clickLog('from=post')" rel="nofollow"><i class="ico"></i>发布</a>
+</div>
+<!--- header end --->
+<!-- tag  -->
+<div class="dl_nav">
+<a href="/w/zp/">求职指南</a>
+			    			&gt;
+    		    										<a href="/w/zhichangzixun/">职场资讯</a>
+			    			&gt;
+    		    										<h1>
+<a href="/w/jiuyedongtai/">就业动态</a>
+</h1>
+</div>
+<!-- tag end -->
+<!-- search -->
+<!-- search end -->
+<!--- nav --->
+<div class="zpnav">
+<div class="navtxt" id="navtxt">
+<ul>
+<li><a href="/w/zp/" class="catspan" name="zxindex">首页</a></li>
+<li><a href="/w/zhichangzixun/" class="catspan" name="zhichangzixun">职场资讯</a></li>
+<li><a href="/w/jianligonglue/" class="catspan" name="jianligonglue">简历攻略</a></li>
+<li><a href="/w/mianshizhinan/" class="catspan" name="mianshizhinan">面试指南</a></li>
+<li><a href="/w/xinchoufuli/" class="catspan" name="xinchoufuli">薪酬福利</a></li>
+<li><a href="/w/shenzaizc/" class="catspan" name="shenzaizc">身在职场</a></li>
+<li><a href="/w/laodongfayuan/" class="catspan" name="laodongfayuan">劳动法苑</a></li>
+<li><a href="/w/jianli/" class="catspan" name="jianli">个人简历</a></li>
+<li><a href="/w/zpzt/" class="catspan" name="zpzt">求职资讯专题</a></li>
+</ul>
+</div>
+<div class="navlist" id="zhichangzixun">
+<p>
+<a href="/w/jiuyedongtai/" name="jiuyedongtai">就业动态</a>
+<a href="/w/zhengcefagui/" name="zhengcefagui">政策法规</a>
+<a href="/w/hangyezixun/" name="hangyezixun">行业资讯</a>
+</p>
+</div>
+<div class="navlist" id="jianligonglue">
+<p>
+<a href="/w/jiaoshiqiuzhixin/" name="jiaoshiqiuzhixin">教师求职信</a>
+<a href="/w/jianlijiqiao/" name="jianlijiqiao">简历技巧</a>
+<a href="/w/jianlimoban/" name="jianlimoban">简历模板</a>
+<a href="/w/jianlifanwen/" name="jianlifanwen">简历范文</a>
+<a href="/w/qiuzhixin/" name="qiuzhixin">求职信</a>
+<a href="/w/ziwopingjia/" name="ziwopingjia">自我评价</a>
+<a href="/w/zhizuojiqiao/" name="zhizuojiqiao">制作技巧</a>
+<a href="/w/jianlifengmian/" name="jianlifengmian">简历封面</a>
+<a href="/w/jianlibiaoge/" name="jianlibiaoge">简历表格</a>
+<a href="/w/zijianxin/" name="zijianxin">自荐信</a>
+<a href="/w/ziwojianding/" name="ziwojianding">自我鉴定</a>
+</p>
+</div>
+<div class="navlist" id="mianshizhinan">
+<p>
+<a href="/w/mianshijiqiao/" name="mianshijiqiao">面试技巧</a>
+<a href="/w/mianshitiku/" name="mianshitiku">面试题库</a>
+<a href="/w/ziwojieshao/" name="ziwojieshao">自我介绍</a>
+</p>
+</div>
+<div class="navlist" id="xinchoufuli">
+<p>
+<a href="/w/shengzhijiaxin/" name="shengzhijiaxin">升职加薪</a>
+<a href="/w/fulidiantai/" name="fulidiantai">福利电台</a>
+<a href="/w/xinqingpandian/" name="xinqingpandian">薪情盘点</a>
+</p>
+</div>
+<div class="navlist" id="shenzaizc">
+<p>
+<a href="/w/zcchongdian/" name="zcchongdian">职场充电</a>
+<a href="/w/tiaocaocelue/" name="tiaocaocelue">跳槽策略</a>
+<a href="/w/lehuozc/" name="lehuozc">乐活职场</a>
+<a href="/w/shuzhibaogao/" name="shuzhibaogao">述职报告</a>
+</p>
+</div>
+<div class="navlist" id="laodongfayuan">
+<p>
+<a href="/w/guibixianjing/" name="guibixianjing">规避陷阱</a>
+<a href="/w/falvfagui/" name="falvfagui">法律法规</a>
+<a href="/w/jiuyeweiquan/" name="jiuyeweiquan">就业维权</a>
+</p>
+</div>
+</div>
+<!--- nav end --->
+<!---list info--->
+<ul class="infolst">
+<li>
+<a href="/w/jiuyedongtai/20140425630707.html">
+<strong>年轻求职者总做不到正式期</strong>
+<span class="fr red">阅读数:119</span><br />
+										    	      					&nbsp;最近这几年企业都在抱怨招工难，而求职者可吐槽找工作难，为什么会出现这样的情况呢?供需矛盾呈现何种态势?近日，最近，相关部门调查做了一定的统计。
+&ldquo;都想着读报喝茶就把工作干了，
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140425630704.html">
+<strong>频繁跳槽不利于职业发展</strong>
+<span class="fr red">阅读数:93</span><br />
+										    	      					&nbsp;有人认为，当对目前的工作产生倦怠感时，换个工作也许能改变目前不如意的状态。然而，荷兰心理学家的一项研究就表明：投身到岗位中去，对工作保持积极和认同的态度，不仅能提高效率，而且会让你越来越有
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140425630703.html">
+<strong>用自信得到更高的薪酬</strong>
+<span class="fr red">阅读数:105</span><br />
+										    	      					&nbsp;一份调查随机受访了150名高薪女性，&ldquo;你是为了钱而做这份工作的吗?&rdquo;大多数的回答都是不容置疑的否定。驱赶她们的是热情、认同、挑战和独立。同时，她们也要有丰厚的回报，
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140425630702.html">
+<strong>什么事大学生就业“直通车”</strong>
+<span class="fr red">阅读数:90</span><br />
+										    	      					&nbsp;目前中国对大学生所采取的保障沿袭了西方的模式。如果继续采用这一模式，大学生的生活与就业问题很难从根本上解决(西方社会的大学生就业问题直到今天也没有彻底解决)。如果突破西方社会保障制度的樊篱
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140423630687.html">
+<strong>今年大学毕业生月均薪资</strong>
+<span class="fr red">阅读数:108</span><br />
+										    	      					近日，劳动局发布2014年应届毕业生就业调研报告。江苏应届本科毕业生的起薪普遍在3000元左右。而对于被毕业生&ldquo;嫌弃&rdquo;的三大岗位，专家建议，不妨先就业后择业。
+该调查通过问卷
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-23</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140423630667.html">
+<strong>读大学，究竟读什么？</strong>
+<span class="fr red">阅读数:70</span><br />
+										    	      					大学生和非大学生的区别究竟是什么?
+一个机电专业的大学毕业生能够操作、维护一台机器，但是一个只有初中学历的熟练技工也照样可以操作，甚至比大学生操作得更好;一个外语系毕业的大学生能够说一口流利的外语，
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-23</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140421630630.html">
+<strong>国考招生人数 三年来首降低</strong>
+<span class="fr red">阅读数:200</span><br />
+										    	      					2014年国考，申论考试的时长首次由150分钟增加至180分钟。10月14号，国家公务员局发布2014年国考公告及考试大纲，计划招录1.9万余人，较之去年的2万余人略有降低，更是三年来的首次减少。报名
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-21</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140418630592.html">
+<strong>APTECH解毕业季就业招聘两难</strong>
+<span class="fr red">阅读数:79</span><br />
+										    	      					过了黄金三月，&ldquo;银四&rdquo;的到来，让高校毕业生&ldquo;求职就业&rdquo;季进入冲刺阶段。即将迈出象牙塔的他们，面临的却是依旧严峻的就业形势与不甚匹配的职位技能要求。日前，
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-18</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140417630565.html">
+<strong>对创业大胆说爱你</strong>
+<span class="fr red">阅读数:160</span><br />
+										    	      					又是一年就业季。今年，全国高校毕业人数增至717万人,就业形势继续压力山大。然而，就在同学们都奔走在各场招聘会之间时，北京大学法律专业研究生张天一已经开起了自己的牛肉粉店。并且他的三位合伙人，都是本科
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-17</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140417630540.html">
+<strong>毕业生就业难度增加</strong>
+<span class="fr red">阅读数:107</span><br />
+										    	      					&nbsp;2014年华中地区应届大学毕业生就业力如何?
+经某网站公布的调查结果显示，在问卷调查的七千余名毕业生毕业生中，求职人均投递简历26.5份，人均获得面试机会5.1个。
+此调查显示，201
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-17</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140417630539.html">
+<strong>2014年首季度技术类岗位仍缺工</strong>
+<span class="fr red">阅读数:60</span><br />
+										    	      					&nbsp;三月份，陕西省人力资源市场提供岗位55091个，求职人数46809人。和去年同期相比，入场招聘企业数、提供岗位数和求职人数均略有下降。市场提供的岗位仍以专业技术类岗位、商业和服务类岗位、技
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-17</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140417630535.html">
+<strong>盲目考证反映就业心酸</strong>
+<span class="fr red">阅读数:93</span><br />
+										    	      					&nbsp;
+
+盲目考证的背后是就业难的辛酸
+毕业大学生奔赴&ldquo;疯狂证途&rdquo;的背后，既有就业压力下的本领焦虑，也折射出大学教育同就业指导之间的功能断层，使得重考证、轻能力，重
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-17</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140417630533.html">
+<strong>山东6城市帮毕业生就业</strong>
+<span class="fr red">阅读数:161</span><br />
+										    	      					&nbsp;近日,由济南、泰安、淄博、莱芜、德州、聊城、滨州7市人社部门联合举办的&ldquo;2014年济南都市圈高校毕业生就业供需双选会&rdquo;在济南大学举行。
+此次招聘会上,7市人社部门
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-17</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140416630529.html">
+<strong>当村官不是职业生涯的跳板</strong>
+<span class="fr red">阅读数:135</span><br />
+										    	      					我很庆幸自己当初选择当大学生村官，现在看来，走大学生村官之路，在某种意义上意味着选择了吃亏吃苦，意味着选择了责任重任。我们立足最低处创造奇迹，哪怕在最平凡的位置上，也要如歌德所说&ldquo;像石灰一
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-16</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140415630496.html">
+<strong>高校就业服务工作研讨会</strong>
+<span class="fr red">阅读数:195</span><br />
+										    	      					&nbsp;4月11日，京东高校就业服务工作研讨会在北京财贸职业学院召开，来自通州地区的六所院校参加会议。通州区人力资源社会保障局副局长曹奇权、主任裴莹、副主任齐放等领导出席并讲话。
+曹奇权局长指出
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-15</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140414630426.html">
+<strong>公务员在国外并不最受欢迎</strong>
+<span class="fr red">阅读数:115</span><br />
+										    	      					&nbsp;中国公务员考试盛况空气，且每年都会不断突破纪录。年轻人为什么挤破脑袋想做公务员，用一句简单的话概括，公务员稳定且待遇好，既有地垃的面子又有票子的里子。如果混得好，还可以升官。如果当了大官，
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-14</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140414630399.html">
+<strong>农村大学生就业难的问题</strong>
+<span class="fr red">阅读数:117</span><br />
+										    	      					农村背景大学生就业难并不仅仅是毕业生的个人问题，而且它也带来一系列社会问题，影响整个社会的和谐发展。
+首先，农村出身大学生就业困难降低了农村人上大学的意愿，并导致城乡教育不平等持续扩大。&ldquo;
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-14</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140414630396.html">
+<strong>二三线城市金融行业最缺人</strong>
+<span class="fr red">阅读数:103</span><br />
+										    	      					2014年第一季开了个好头，全国人才需求旺盛，同比2013年第一季增长18%。
+其中，金融业最为活跃。2014年开年，它领跑其他行业，职位需求数同比增长48%。这一活跃度，一扫去年金融的萎靡。
+其
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-14</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140410630366.html">
+<strong>就业前需要先反思自己</strong>
+<span class="fr red">阅读数:157</span><br />
+										    	      					近日，中国青年报社会调查中心通过民意中国网和搜狐网进行的一项调查显示，38.0%受访者坦言所学专业的就业情况与当初判断不一致，40.5%受访者表示当初对所报考的专业内容及就业情况了解不充分。46.9%
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-10</span>
+</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140409630331.html">
+<strong>人才新机遇 票据培训需关注</strong>
+<span class="fr red">阅读数:56</span><br />
+										    	      					2013年9月29日，上海自贸区正式挂牌成立，作为中国新一轮市场经济改革的实验田和先行者，上海自贸区被赋予的历史使命不亚于80年代初深圳经济特区的成立，并有望开启中国市场经济改革的第二季。票据资产作为
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-09</span>
+</a>
+</li>
+</ul>
+<!---list info end--->
+<!---page--->
+<div class="paging">
+<a id="prev" href="/w/jiuyedongtai/list_13_0.html" class="prev"><i class="ico"></i>上一页</a>
+<span class="page_sel">
+<div class="selVal">
+<span class="sle_show sel_default">1</span> <span class="sle_ri"><span class="sel_xia"></span></span>
+</div>
+<select id="sel_page" class="select_item">
+<option value="1">第1页</option>
+<option value="2">第2页</option>
+<option value="3">第3页</option>
+<option value="4">第4页</option>
+<option value="5">第5页</option>
+<option value="6">第6页</option>
+<option value="7">第7页</option>
+<option value="8">第8页</option>
+<option value="9">第9页</option>
+<option value="10">第10页</option>
+<option value="11">第11页</option>
+<option value="12">第12页</option>
+<option value="13">第13页</option>
+<option value="14">第14页</option>
+<option value="15">第15页</option>
+<option value="16">第16页</option>
+<option value="17">第17页</option>
+<option value="18">第18页</option>
+<option value="19">第19页</option>
+<option value="20">第20页</option>
+<option value="21">第21页</option>
+<option value="22">第22页</option>
+<option value="23">第23页</option>
+<option value="24">第24页</option>
+<option value="25">第25页</option>
+<option value="26">第26页</option>
+<option value="27">第27页</option>
+<option value="28">第28页</option>
+<option value="29">第29页</option>
+<option value="30">第30页</option>
+<option value="31">第31页</option>
+<option value="32">第32页</option>
+<option value="33">第33页</option>
+<option value="34">第34页</option>
+<option value="35">第35页</option>
+<option value="36">第36页</option>
+<option value="37">第37页</option>
+<option value="38">第38页</option>
+<option value="39">第39页</option>
+<option value="40">第40页</option>
+<option value="41">第41页</option>
+<option value="42">第42页</option>
+<option value="43">第43页</option>
+<option value="44">第44页</option>
+<option value="45">第45页</option>
+<option value="46">第46页</option>
+<option value="47">第47页</option>
+<option value="48">第48页</option>
+<option value="49">第49页</option>
+<option value="50">第50页</option>
+<option value="51">第51页</option>
+<option value="52">第52页</option>
+<option value="53">第53页</option>
+<option value="54">第54页</option>
+<option value="55">第55页</option>
+<option value="56">第56页</option>
+<option value="57">第57页</option>
+<option value="58">第58页</option>
+<option value="59">第59页</option>
+<option value="60">第60页</option>
+<option value="61">第61页</option>
+<option value="62">第62页</option>
+<option value="63">第63页</option>
+<option value="64">第64页</option>
+<option value="65">第65页</option>
+<option value="66">第66页</option>
+<option value="67">第67页</option>
+<option value="68">第68页</option>
+<option value="69">第69页</option>
+<option value="70">第70页</option>
+<option value="71">第71页</option>
+<option value="72">第72页</option>
+<option value="73">第73页</option>
+<option value="74">第74页</option>
+<option value="75">第75页</option>
+<option value="76">第76页</option>
+<option value="77">第77页</option>
+<option value="78">第78页</option>
+<option value="79">第79页</option>
+<option value="80">第80页</option>
+<option value="81">第81页</option>
+<option value="82">第82页</option>
+<option value="83">第83页</option>
+<option value="84">第84页</option>
+<option value="85">第85页</option>
+<option value="86">第86页</option>
+<option value="87">第87页</option>
+<option value="88">第88页</option>
+</select>
+</span>
+<a id="next" href="/w/jiuyedongtai/list_13_2.html" class="next">下一页<i class="ico"></i></a>
+<script>
+        $(function () {
+            $("#sel_page").bind("change", function () {
+                $(".sel_default").html($(this).val());
+                var selectedPage = $(this).val();
+                var url = "/w/jiuyedongtai/list_13_pn.html" 
+                var reg = /_pn/;
+                url = url.replace(reg, "_" + selectedPage);
+                document.location.href = url ;
+            });
+        });
+    </script>
+</div>
+<!---page end--->
+<!---焦点资讯-->
+<div class="zixininfo">
+<div class="zixuntit"><strong>热门排行</strong></div>
+<ul class="zixunlist">
+<li>
+<a href="/w/jiuyedongtai/20140312629482.html">找工作哪个网站好</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/2012052611171.html">北京企退人员养老金人均月增230元 110万人受益</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20130411128616.html">找工作的网站有哪些</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/2012052619534.html">网上求职更有针对性　不断刷新简历好就业</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/2012052632441.html">2010届本科高职10专业就业难亮“红牌”</a>
+</li>
+</ul>
+<div class="zixuntit bortop"><strong>推荐阅读</strong></div>
+<ul class="zixunlist">
+<li>
+<a href="/w/jiuyedongtai/20140425630707.html">年轻求职者总做不到正式期</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140425630704.html">频繁跳槽不利于职业发展</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140425630703.html">用自信得到更高的薪酬</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140425630702.html">什么事大学生就业“直通车”</a>
+</li>
+<li>
+<a href="/w/jiuyedongtai/20140423630687.html">今年大学毕业生月均薪资</a>
+</li>
+</ul>
+</div>
+<div class="footer">
+<p class="footer_01">
+<a class="footer_hover" rel="nofollow">触屏版</a>
+<a id="gotodownload" href="http://m.58.com/bj/down.shtml" rel="nofollow">客户端</a>
+</p>
+<p class="footer_02">手机58网：58.com&nbsp;&nbsp;&nbsp;&nbsp;京ICP证060405号</p>
+</div>
+<img class="googleanalyze" src="" style="display: none;" />
+<script type="text/javascript">
+	var prefix = "http://m.58.com/ga/?utmac=MO-35618414-1&amp;utmn=";
+	var suffix = new Date().getTime()+"&amp;utmr=http://m.58.com/w/jianlimoban/&amp;utmp=%2Flocal%2Fzixun%2F&amp;guid=ON";
+	var url = prefix+suffix;
+	$("img[class='googleanalyze']").attr("src",url);
+</script>
+<script type="text/javascript"> 
+var _gaq = _gaq || [],site_name = "M58",shop_count= "0",page_type = "list";
+var _trackURL = "{'cate':'6,7,13','area':'','pagetype':'list','actiontype':'zixun','pagesize':'25'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/m/jiuyedongtai/zixun/list/']);
+</script>
+<script src="http://www.google-analytics.com/ga.js" async="async"></script>
+<script src="http://tracklog.58.com/referrer_m.js" async="async"></script>
+</body>
+</html>
+<script type="text/javascript">
+
+	$(function() {
+		$("#navtxt li a[name='zhichangzixun']").removeClass().addClass("catspan select");
+		$("#zhichangzixun").attr('style','display: block;');
+		$("#zhichangzixun a[name='jiuyedongtai']").removeClass().addClass("select");
+	});
+	$(function() {
+		if(1 == 1 ){
+			$("#prev").attr("href","javascript:void();");
+			$("#prev").removeClass().addClass("prev disabled");
+		}
+		if(1 == 88){
+			$("#next").removeClass().addClass("next disabled").attr("href","javascript:void();");
+		}
+	});
+</script>

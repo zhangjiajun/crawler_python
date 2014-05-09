@@ -1,0 +1,742 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>万众恒基 新浪北京认证房网上展—新浪二手房</title>
+<meta name="keywords" content="万众恒基 新浪北京认证房网上展—新浪二手房" />
+<meta name="description" content="万众恒基 新浪北京认证房网上展—新浪二手房" />
+<link href="http://ss2.esf.leju.com/bj/css/act/qijian_reset.css" rel="stylesheet" type="text/css" />
+<link href="http://ss2.esf.leju.com/bj/css/act/qijian.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://ss2.esf.leju.com/bj/js/jquery.js"></script>
+<script type="text/javascript" src="http://ss2.esf.leju.com/bj/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://ss2.esf.leju.com/bj/js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="http://ss2.esf.leju.com/bj/js/act/house.js"></script>
+<script type="text/javascript" src="http://ss2.esf.leju.com/bj/js/housesearch.js"></script>
+<script type="text/javascript" src="http://static2.esf.leju.com/www21/js/UME.js"></script>
+<!--[if IE 6]&gt;
+&lt;script type="text/javascript" src="http://ss2.esf.leju.com/bj/js/DD_belatedPNG_0.0.8a-min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt; 
+DD_belatedPNG.fix('.png');
+&lt;/script&gt; 
+&lt;![endif]-->
+</head>
+<body>
+<div style="display:none;">
+<pre style="text-align:left;" style="display:none;">
+Array
+(
+    [where] =&gt; Array
+        (
+            [tradetype] =&gt; 出售
+            [topic_status] =&gt; 2
+            [companyid] =&gt; 200005
+        )
+
+    [query] =&gt; {"tradetype":"\u51fa\u552e","topic_status":"2","companyid":"200005"}
+    [currpage] =&gt; 1
+    [pagesize] =&gt; 20
+    [orderby] =&gt; updatetime desc
+    [sql] =&gt; select * from bj_houseinfo_heap_active where  tradetype=1 and topic_status='2' and companyid='200005' order by updatetime desc limit 0,20
+)
+</pre>
+</div>
+<div class="topmenu">
+<div class="navidate">
+<div class="passport">
+<span id="_site_head">您好，欢迎来到新浪二手房！
+			<a href="http://broker2.esf.leju.com/login?client_citycode=bj">[登录]</a>
+<a href="http://broker2.esf.leju.com/register/public?client_citycode=bj">[免费注册]</a>
+</span>
+</div>
+<script language="javascript" type="text/javascript">_site_nav();</script>
+<div class="favorite"><a href="http://bj.esf.sina.com.cn" target="_blank" class="shouye">新浪二手房</a> | <a href="http://bj.zufang.sina.com.cn/house" target="_blank">新浪租房</a> | <a href="http://house.sina.com.cn" target="_blank">新浪房产</a> | <a href="http://www.sina.com.cn">新浪首页</a></div>
+</div>
+</div>
+<div class="head">
+<div class="Banner">
+<div class="Tnav png">
+<b><a href="/">新浪二手房</a></b>
+<span>|<a href="http://bj.esf.sina.com.cn/news/hd/index/" target="_blank">特色房源专题</a>|<a href="http://bj.esf.sina.com.cn/news/news_list.php?class_id=18" target="_blank">业内访谈</a></span>
+<i class="png"></i>
+</div>
+</div>
+</div>
+<div class="Navs">
+<form name="form_esf" method="post" action="" onsubmit="salesearch();return false;">
+<div class="navs_line1">
+<div class="navs_renzheng"><img src="http://ss2.esf.leju.com/bj/images/act/renzheng_font.png" class="png" /></div>
+<div class="navs_select_2">
+<div class="navs_search_2">
+<div><input type="text" class="inputBox_2" value="输入关键字(小区或楼盘名称)" title="输入关键字(小区或楼盘名称)" onfocus="if(this.value==this.title){this.value='';}" onblur="if(this.value==''){this.value=this.title;}" name="salekeyword" id="salekeyword" /></div>
+<div class="build_new" id="salekeyword_dis" style="display:none;"></div>
+</div>
+</div>
+<div class="navs_select_btn"><input type="submit" class="nav_btn" value="" onclick="checkkeyword('salekeyword');" /></div>
+<div class="Navs_line2_top_main">
+<div class="Navs_line2_top_img"><img src="http://ss2.esf.leju.com/bj/images/act/Navs_line2_top_left.jpg" /></div>
+<div class="Navs_line2_top_middle">
+<div class="navs_select_search_hot">热门搜索：</div>
+<div class="navs_select_search_more">
+<ul>
+<li><a href="/act/house/a2-b45/">望京</a></li>
+<li><a href="/act/house/a2-b48/">亚奥</a></li>
+<li><a href="/act/house/a2-b13/">朝阳公园</a></li>
+<li><a href="/act/house/a10-b3/">回龙观</a></li>
+<li><a href="/act/house/a2-b8/">百子湾</a></li>
+<li><a href="/act/house/a2-b50/">亚运村</a></li>
+</ul>
+</div>
+</div>
+<div class="Navs_line2_top_img"><img src="http://ss2.esf.leju.com/bj/images/act/Navs_line2_top_right.jpg" /></div>
+</div>
+<div class="clear"></div>
+<i class="png"></i>
+</div>
+</form>
+<script language="javascript" type="text/javascript">
+	//关键字小区搜索拼音索引
+	$('#salekeyword').keyup(function(){
+		key_keyup('salekeyword');
+	});
+	$('#salekeyword').blur(function(){
+		setTimeout("dis_none('salekeyword')",600);
+	});
+	function key_keyup(keyname)
+	{
+		document.getElementById(keyname+'_dis').style.display='block';
+		var keyword = encodeURIComponent($('#'+keyname).val());
+		keyword = keyword.replace('/','');
+		$.getJSON('/commpy.php?action=communitypy&amp;key='+keyword,function(data){
+			var wg = '&lt;ul&gt;';
+			for(var i in data)
+			{
+				wg += '&lt;li class="onmouseoute_new" onmouseover="this.className=\'onmouseover_new\'" onmouseout="this.className=\'onmouseoute_new\'" onclick="comm_click(\''+data[i].name+'\',\''+keyname+'\');"&gt;'+data[i].name+'&lt;/li&gt;';
+			}
+			wg += '&lt;/ul&gt;';
+			document.getElementById(keyname+'_dis').innerHTML = wg;
+		});
+	}
+	function dis_none(keyname)
+	{
+		document.getElementById(keyname+'_dis').style.display='none';
+	}
+	function comm_click(name,keyname)
+	{
+		$('#'+keyname).val(name);
+		setTimeout("checkkeyword('"+keyname+"');",500);
+	}
+
+	function openW(act,tar){
+		$("#hideForm").attr('action',act);
+		$("#hideForm").attr('target',tar);
+		$("#hideForm").submit();
+	}
+	function salesearch(){
+		var saledistrict=$('#saledistrict').val();
+		var saleroom=$('#saleroom').val();
+		//var salepptype=$('#salepptype').val();
+		var saleprice=$('#saleprice').val();
+		var salekeyword=$('#salekeyword').val();
+		var loc='/act/house/';
+		if(''!=saledistrict){
+			loc+=saledistrict;
+		}
+		if(''!=saleroom){
+			loc+=saleroom;
+		}
+		/*if(''!=salepptype){
+			loc+=salepptype;
+		}*/
+		if(''!=saleprice){
+			loc+=saleprice;
+		}
+		if(''!=salekeyword &amp;&amp; salekeyword!=$('#salekeyword').attr('title')){
+			loc+='-o'+salekeyword;
+		}
+		loc+='/';
+		loc = loc.replace('/-','/');
+		loc = loc.replace('//','/');
+		//openW(loc,'_blank');
+		openW(loc,'_self');
+		return false;
+	}
+	$(function(){
+		$(".company_title").each(function(){
+			var max = 14;
+			var value = $(this).attr("title");
+			if(getByteLen(value) &lt;= max ){
+				$(this).html(value);
+			}else{
+				var valstr = getByteVal(value,max);
+				$(this).html(valstr+"...");
+			}
+		});
+	});
+
+	</script>
+</div>
+<div class="search_area">
+<div class="search_toplist">
+<div class="search_nav_line">
+<div class="search_nav_line_left">区县：</div>
+<div class="search_nav_line_right">
+<ul>
+<li class="select_nav"><span><a href="/act/house/s200005/">不限</a></span></li><li><a href="/act/house/s200005-a1/">海淀</a></li><li><a href="/act/house/s200005-a2/">朝阳</a></li><li><a href="/act/house/s200005-a3/">东城</a></li><li><a href="/act/house/s200005-a4/">西城</a></li><li><a href="/act/house/s200005-a5/">石景山</a></li><li><a href="/act/house/s200005-a6/">崇文</a></li><li><a href="/act/house/s200005-a7/">丰台</a></li><li><a href="/act/house/s200005-a8/">宣武</a></li><li><a href="/act/house/s200005-a9/">通州</a></li><li><a href="/act/house/s200005-a10/">昌平</a></li><li><a href="/act/house/s200005-a11/">大兴</a></li><li><a href="/act/house/s200005-a12/">房山</a></li><li><a href="/act/house/s200005-a14/">密云</a></li><li><a href="/act/house/s200005-a15/">门头沟</a></li><li><a href="/act/house/s200005-a16/">顺义</a></li><li><a href="/act/house/s200005-a17/">怀柔</a></li><li><a href="/act/house/s200005-a19/">燕郊</a></li><li><a href="/act/house/s200005-a20/">北京周边</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="search_nav_line">
+<div class="search_nav_line_left">总价：</div>
+<div class="search_nav_line_right">
+<ul>
+<li class="select_nav"><a href="/act/house/s200005/">不限</a></li><li><a href="/act/house/s200005-c0/">80万以下</a></li><li><a href="/act/house/s200005-c1/">80-100万</a></li><li><a href="/act/house/s200005-c2/">100-120万</a></li><li><a href="/act/house/s200005-c3/">120-150万</a></li><li><a href="/act/house/s200005-c4/">150-200万</a></li><li><a href="/act/house/s200005-c5/">200-250万</a></li><li><a href="/act/house/s200005-c6/">250-300万</a></li><li><a href="/act/house/s200005-c7/">300-500万</a></li><li><a href="/act/house/s200005-c8/">500-1000万</a></li><li><a href="/act/house/s200005-c9/">1000万以上</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="search_nav_line">
+<div class="search_nav_line_left">户型：</div>
+<div class="search_nav_line_right">
+<ul>
+<li class="select_nav"><a href="/act/house/s200005/">不限</a></li><li><a href="/act/house/s200005-e1/">一居</a></li><li><a href="/act/house/s200005-e2/">二居</a></li><li><a href="/act/house/s200005-e3/">三居</a></li><li><a href="/act/house/s200005-e4/">四居</a></li><li><a href="/act/house/s200005-e5/">五居</a></li><li><a href="/act/house/s200005-e6/">五居以上</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="search_area_bottom"><img src="http://ss2.esf.leju.com/bj/images/act/search_toplist_bg.jpg" /></div>
+</div>
+<div class="list_search_tiaojian">
+<div class="list_search_tiaojian_tit">找房条件：<a id="_cond"></a></div>
+<div class="search_tiaojian_font_line">
+<div class="search_tiaojian_font" onclick="document.location.href='/act/house/';"><p>万众恒基</p></div>
+<div class="search_nav_item_2"><a href="/act/house/">清空条件</a></div>
+</div>
+<div class="list_searchi_tianjian_more"><a href="/house/" target="_blank">更多新浪二手房&gt;&gt;</a></div>
+<div class="clear"></div>
+</div>
+<div id="list_main">
+<div id="list_left">
+<div id="list_search">
+<div class="list_search_content">
+<div class="navs_select_list">
+<div class="navs_search" style="z-index:500;">
+<div><input type="text" name="house_search_key" id="house_search_key" title="请您输入要查找的小区或楼盘" class="inputBox" value="请您输入要查找的小区或楼盘" onfocus="if(this.value==this.title){this.value='';}" onblur="if(this.value==''){this.value=this.title}" onkeyup="communitypy('house_search_key');" /></div>
+<div class="build" id="house_search_key_dis" style="display:none;"></div>
+</div>
+</div>
+<div class="navs_select_list_2"><input type="button" value="" class="btn_search_2" title="搜索" onclick="checkkeyword('house_search_key');" /></div>
+<div class="navs_select_list_3"><a style="cursor:pointer;" onclick="document.location.href=remove('o,n');">清空</a></div>
+<div class="list_page_1">
+<div class="res-page">
+<div class="p">
+<span><font style="color:#bb0042;">1</font> / <font>2</font></span> <a href="/act/house/s200005-n2/" class="nextpage">下一页</a> </div>
+</div>
+<div class="navs_select_list_5">共找到<span>23</span>条房源</div>
+<div class="clear"></div>
+</div>
+</div> <!--list_search_content -->
+</div>
+<div class="search_item_line2">
+<div class="search_item_line2_1">每页显示数:</div>
+<div class="search_item_line2_2">
+<ul>
+<li class="current"><a href="/act/house/s200005-m1/">20</a></li><li><a href="/act/house/s200005-m2/">30</a></li><li><a href="/act/house/s200005-m3/">50</a></li>
+</ul>
+</div>
+<div class="search_item_line2_3">
+<div class="search_item_item_1">排序：</div>
+<div class="search_item_item_2">
+<div class="dropDown" id="dropDown_6">
+<div class="dropDown_tit" id="dropDown_tit_6">
+<div class="dropDown_text" id="dropDown_text_6">默认排序</div>
+<div class="dropBtn" id="dropBtn_6"><img src="http://ss2.esf.leju.com/bj/images/act/selectbutton_2.jpg" /></div>
+</div>
+<div class="dropDown_list" id="dropDown_list_6">
+<ul class="dropList" id="dropList_6">
+<li onclick="document.location.href='/act/house/s200005/';">默认排序</li><li onclick="document.location.href='/act/house/s200005-k1/';">总价从低到高</li><li onclick="document.location.href='/act/house/s200005-k2/';">总价从高到低</li><li onclick="document.location.href='/act/house/s200005-k3/';">面积从大到小</li><li onclick="document.location.href='/act/house/s200005-k4/';">面积从小到大</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="search_item_item_btn"><input type="button" class="search_btn_price" onclick="document.location.href='/act/house/s200005-k1/';" /><div class="search_icon"><img src="http://ss2.esf.leju.com/bj/images/index/normal.png" class="png" /></div></div>
+<div class="search_item_item_btn"><input type="button" class="search_btn_mianji" onclick="document.location.href='/act/house/s200005-k3/';" /><div class="search_icon"><img src="http://ss2.esf.leju.com/bj/images/index/normal.png" class="png" /></div></div>
+</div>
+</div>
+<div class="hall">
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88558164/" target="_blank" title="【万众恒基独家房源】83㎡ 只需170万  满五年唯一无税">【万众恒基独家房源】83㎡ 只需170万  满五年唯一无税</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88558164/" target="_blank">温泉花园</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>170</span>万</div>
+<div class="hall_list_main_r">二居 83㎡ 4/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88558164/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数8次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88558164/" target="_blank" title="【万众恒基独家房源】83㎡ 只需170万  满五年唯一无税"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/05/e7/d4/medium_b0cea13e64693954e3636436e4ed74c3.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="【万众恒基独家房源】83㎡ 只需170万  满五年唯一无税" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88558164/" target="_blank">共10张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/81377320/" target="_blank" title="生活设施齐全;低价出售;联排别墅188平米376万">生活设施齐全;低价出售;联排别墅188平米376万</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/81377320/" target="_blank">海德堡别墅</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>376</span>万</div>
+<div class="hall_list_main_r">四居 188㎡ 1/3层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/81377320/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数14次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/81377320/" target="_blank" title="生活设施齐全;低价出售;联排别墅188平米376万"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/03/12/e7/d4/medium_49cccabb18e6737925bcf37bdec8d804.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="生活设施齐全;低价出售;联排别墅188平米376万" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/81377320/" target="_blank">共7张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88062627/" target="_blank" title="万众恒基 单价最低观景三居 超低价出售 错过再也没有">万众恒基 单价最低观景三居 超低价出售 错过再也没有</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88062627/" target="_blank">天通苑东一区</a><span>[昌平区 天通苑]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>265</span>万</div>
+<div class="hall_list_main_r">三居 178㎡ 22/32层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88062627/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数27次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88062627/" target="_blank" title="万众恒基 单价最低观景三居 超低价出售 错过再也没有"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/03/e7/d4/medium_5e886291de2c639556a7c5d97224a5b4.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="万众恒基 单价最低观景三居 超低价出售 错过再也没有" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88062627/" target="_blank">共8张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88527968/" target="_blank" title="万众恒基精品房源  精装修一次未住一手房，性价比超高">万众恒基精品房源  精装修一次未住一手房，性价比超高</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88527968/" target="_blank">宏福苑</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>160</span>万</div>
+<div class="hall_list_main_r">二居 109㎡ 9/22层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88527968/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数7次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88527968/" target="_blank" title="万众恒基精品房源  精装修一次未住一手房，性价比超高"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/09/e7/d4/medium_786115cf4523bffd0715b5a3103489fb.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="万众恒基精品房源  精装修一次未住一手房，性价比超高" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88527968/" target="_blank">共7张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/86370913/" target="_blank" title="【万众恒基强力推荐】温泉花园81平仅售180万无税地铁房源">【万众恒基强力推荐】温泉花园81平仅售180万无税地铁房源</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/86370913/" target="_blank">温泉花园</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>180</span>万</div>
+<div class="hall_list_main_r">二居 81㎡ 2/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/86370913/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数37次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/86370913/" target="_blank" title="【万众恒基强力推荐】温泉花园81平仅售180万无税地铁房源"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/04/23/e7/d4/medium_b5050a8b7cbbc71590097240b5bcb667.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="【万众恒基强力推荐】温泉花园81平仅售180万无税地铁房源" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/86370913/" target="_blank">共7张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/86747627/" target="_blank" title="万众恒基特价房不限购，科技城中心柏林在线，83平米精装两居室，">万众恒基特价房不限购，科技城中心柏林在线，83平米精装两居室，</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/86747627/" target="_blank">柏林在线</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>110</span>万</div>
+<div class="hall_list_main_r">二居 83㎡ 5/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/86747627/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数55次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/86747627/" target="_blank" title="万众恒基特价房不限购，科技城中心柏林在线，83平米精装两居室，"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/04/26/e7/d4/medium_ce0b0e541d227fd22008a975987c5f2c.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="万众恒基特价房不限购，科技城中心柏林在线，83平米精装两居室，" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/86747627/" target="_blank">共6张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88398626/" target="_blank" title="万众恒基优质房源，低首付187平米235万满五年唯一！">万众恒基优质房源，低首付187平米235万满五年唯一！</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88398626/" target="_blank">温泉花园</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>235</span>万</div>
+<div class="hall_list_main_r">四居 187㎡ 5/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88398626/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数22次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88398626/" target="_blank" title="万众恒基优质房源，低首付187平米235万满五年唯一！"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/06/e7/d4/medium_7dd36673fa7a3e3c2613aeab1a49ab3f.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="万众恒基优质房源，低首付187平米235万满五年唯一！" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88398626/" target="_blank">共6张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88468631/" target="_blank" title="【万众恒基特价房】冬暖夏凉南北房！精装唯一怎么样？">【万众恒基特价房】冬暖夏凉南北房！精装唯一怎么样？</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88468631/" target="_blank">天通苑本四区</a><span>[昌平区 天通苑]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>193</span>万</div>
+<div class="hall_list_main_r">二居 76㎡ 5/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88468631/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数2次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88468631/" target="_blank" title="【万众恒基特价房】冬暖夏凉南北房！精装唯一怎么样？"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/08/e7/d4/medium_821f9b5ec183f5a0ef5549c6b3763cfc.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="【万众恒基特价房】冬暖夏凉南北房！精装唯一怎么样？" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88468631/" target="_blank">共8张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88099295/" target="_blank" title="万众恒基 精品房源  南北通透低价出售 大复式 业主急售 包过户">万众恒基 精品房源  南北通透低价出售 大复式 业主急售 包过户</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88099295/" target="_blank">西湖新村</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>285</span>万</div>
+<div class="hall_list_main_r">四居 247㎡ 5/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88099295/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数28次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88099295/" target="_blank" title="万众恒基 精品房源  南北通透低价出售 大复式 业主急售 包过户"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/06/e7/d4/medium_969acc34a137fc55586f52a19cbc047d.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="万众恒基 精品房源  南北通透低价出售 大复式 业主急售 包过户" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88099295/" target="_blank">共10张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88157619/" target="_blank" title="【万众恒基、特价房、有钥匙】地铁边儿大3居、0个税、金牌户型！">【万众恒基、特价房、有钥匙】地铁边儿大3居、0个税、金牌户型！</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88157619/" target="_blank">天通苑东三区</a><span>[昌平区 天通苑]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>260</span>万</div>
+<div class="hall_list_main_r">三居 135㎡ 4/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88157619/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数30次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88157619/" target="_blank" title="【万众恒基、特价房、有钥匙】地铁边儿大3居、0个税、金牌户型！"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/06/e7/d4/medium_111856b05d4b99ccd005b13ac80cb6b4.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="【万众恒基、特价房、有钥匙】地铁边儿大3居、0个税、金牌户型！" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88157619/" target="_blank">共5张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/87728855/" target="_blank" title="名佳花园一区，不临街，无税，精装急售随时看房">名佳花园一区，不临街，无税，精装急售随时看房</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/87728855/" target="_blank">名佳花园一区</a><span>[昌平区 亚北]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>172</span>万</div>
+<div class="hall_list_main_r">二居 72㎡ 5/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/87728855/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数19次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/87728855/" target="_blank" title="名佳花园一区，不临街，无税，精装急售随时看房"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/03/e7/d4/medium_6c10c2651adc5b6bb309cd1c988ca01e.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="名佳花园一区，不临街，无税，精装急售随时看房" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/87728855/" target="_blank">共7张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88440039/" target="_blank" title="(万众恒基特推房源)天通苑中苑性价比高，总价最低，诚意出售！">(万众恒基特推房源)天通苑中苑性价比高，总价最低，诚意出售！</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88440039/" target="_blank">天通苑中苑</a><span>[昌平区 天通苑]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>300</span>万</div>
+<div class="hall_list_main_r">三居 123㎡ 3/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88440039/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数10次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88440039/" target="_blank" title="(万众恒基特推房源)天通苑中苑性价比高，总价最低，诚意出售！"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/08/e7/d4/medium_d1dec0291ac6191550fa3a2be4801519.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="(万众恒基特推房源)天通苑中苑性价比高，总价最低，诚意出售！" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88440039/" target="_blank">共17张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/86649036/" target="_blank" title="【实话实说：就是价格便宜】天通苑四区，目前天通苑最便宜的">【实话实说：就是价格便宜】天通苑四区，目前天通苑最便宜的</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/86649036/" target="_blank">天通苑本四区</a><span>[昌平区 天通苑]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>235</span>万</div>
+<div class="hall_list_main_r">三居 136㎡ 6/6层 朝西北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/86649036/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数90次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/86649036/" target="_blank" title="【实话实说：就是价格便宜】天通苑四区，目前天通苑最便宜的"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/04/25/e7/d4/medium_9f4270efd6d6080c06324323d32aaf96.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="【实话实说：就是价格便宜】天通苑四区，目前天通苑最便宜的" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/86649036/" target="_blank">共12张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/87188172/" target="_blank" title="店长推荐！温泉花园215万元好小区！性价比高的房子！">店长推荐！温泉花园215万元好小区！性价比高的房子！</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/87188172/" target="_blank">温泉花园</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>215</span>万</div>
+<div class="hall_list_main_r">二居 113㎡ 4/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/87188172/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数46次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/87188172/" target="_blank" title="店长推荐！温泉花园215万元好小区！性价比高的房子！"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/04/28/e7/d4/medium_06a0d500f62dd0efcdb5d1f5a7b4c772.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="店长推荐！温泉花园215万元好小区！性价比高的房子！" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/87188172/" target="_blank">共7张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/87267909/" target="_blank" title="北京洋房 带电梯花园洋房 198平米 超低价 看房有钥匙！">北京洋房 带电梯花园洋房 198平米 超低价 看房有钥匙！</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/87267909/" target="_blank">北京洋房</a><span>[昌平区 天通苑]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>390</span>万</div>
+<div class="hall_list_main_r">四居 198㎡ 5/7层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/87267909/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数41次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/87267909/" target="_blank" title="北京洋房 带电梯花园洋房 198平米 超低价 看房有钥匙！"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/03/e7/d4/medium_d8c552c88aed14b9b2b62f6a63596195.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="北京洋房 带电梯花园洋房 198平米 超低价 看房有钥匙！" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/87267909/" target="_blank">共6张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88407141/" target="_blank" title="万众恒基 新上房源满五唯一南北通透 186平米平层4居室看房随时">万众恒基 新上房源满五唯一南北通透 186平米平层4居室看房随时</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88407141/" target="_blank">温泉花园</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>240</span>万</div>
+<div class="hall_list_main_r">四居 186㎡ 5/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88407141/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数18次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88407141/" target="_blank" title="万众恒基 新上房源满五唯一南北通透 186平米平层4居室看房随时"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/06/e7/d4/medium_40f869cb6787d3aaf4e6e0f403636690.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="万众恒基 新上房源满五唯一南北通透 186平米平层4居室看房随时" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88407141/" target="_blank">共9张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/87495408/" target="_blank" title="急售温泉花园二居满5年住房此房真实有效">急售温泉花园二居满5年住房此房真实有效</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/87495408/" target="_blank">温泉花园</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>155</span>万</div>
+<div class="hall_list_main_r">二居 90㎡ 6/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/87495408/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数94次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/87495408/" target="_blank" title="急售温泉花园二居满5年住房此房真实有效"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/04/27/e7/d4/medium_59879ed76ddba8796d96883f38b32679.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="急售温泉花园二居满5年住房此房真实有效" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/87495408/" target="_blank">共6张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/87359110/" target="_blank" title="真房真价 出售天通苑西三区2室 价格特别的合适">真房真价 出售天通苑西三区2室 价格特别的合适</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/87359110/" target="_blank">天通苑西三区</a><span>[昌平区 天通苑]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>250</span>万</div>
+<div class="hall_list_main_r">二居 124㎡ 6/12层 朝东</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/87359110/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数32次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/87359110/" target="_blank" title="真房真价 出售天通苑西三区2室 价格特别的合适"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/01/e7/d4/medium_764f16c9a65ff0a6c41c1bb1637875f0.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="真房真价 出售天通苑西三区2室 价格特别的合适" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/87359110/" target="_blank">共8张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/85617764/" target="_blank" title="商品房满五年唯一 天通苑西三区二居室">商品房满五年唯一 天通苑西三区二居室</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/85617764/" target="_blank">天通苑西三区</a><span>[昌平区 天通苑]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>310</span>万</div>
+<div class="hall_list_main_r">二居 132㎡ 13/13层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/85617764/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数56次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/85617764/" target="_blank" title="商品房满五年唯一 天通苑西三区二居室"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/04/12/e7/d4/medium_af115e7e06d175fdeb5203c319221108.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="商品房满五年唯一 天通苑西三区二居室" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/85617764/" target="_blank">共8张房源图片</a></div>
+</div>
+<div class="hall_list">
+<div class="hall_list_tit"><a href="/detail/88145933/" target="_blank" title="【急推房源】温泉花园豪华两居室 业主换房 无税急售">【急推房源】温泉花园豪华两居室 业主换房 无税急售</a></div>
+<div class="hall_list_font_1">
+<div class="hall_list_font_1_l"><a href="/detail/88145933/" target="_blank">温泉花园</a><span>[昌平区 北七家]</span></div>
+<div class="hall_list_font_1_m">小区热度：</div>
+<div class="hall_list_font_l_r">
+<div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div><div class="hall_star"><img src="http://ss2.esf.leju.com/bj/images/act/star.jpg" width="13" height="12" /></div>
+</div>
+</div>
+<div class="hall_list_main">
+<div class="hall_list_main_l">￥<span>180</span>万</div>
+<div class="hall_list_main_r">二居 82㎡ 3/6层 朝南北</div>
+</div>
+<div class="hall_list_main_btn"><a href="/detail/88145933/" target="_blank" title="查看"><img src="http://ss2.esf.leju.com/bj/images/act/hall_list_main_btn.jpg" width="60" height="31" /></a></div>
+<div class="hall_list_bottom">
+<div class="hall_list_bottom_l">万众恒基认证</div>
+<div class="hall_list_bottom_r">关注数44次</div>
+</div>
+<div class="hall_list_img"><a href="/detail/88145933/" target="_blank" title="【急推房源】温泉花园豪华两居室 业主换房 无税急售"><img class="_loadlazyimg" src="http://ss2.esf.leju.com/bj/images/f/nohouse.jpg" srcimg="http://pic2.esf.leju.com/img_bj/2014/05/06/e7/d4/medium_eabda5cd67658c976b3a72ef8f1a98c9.jpg" onerror="this.src='http://ss2.esf.leju.com/bj/images/f/nohouse.jpg';" alt="【急推房源】温泉花园豪华两居室 业主换房 无税急售" width="180" height="135" /></a></div>
+<div class="hall_list_num"><a href="/detail/88145933/" target="_blank">共6张房源图片</a></div>
+</div>
+</div>
+<div id="list_search_bottom">
+<div class="list_search_content">
+<div class="list_page_1">
+<div class="res-page">
+<div class="p">
+<span><font style="color:#bb0042;">1</font> / <font>2</font></span> <a href="/act/house/s200005-n2/" class="nextpage">下一页</a>
+</div>
+</div>
+<div class="navs_select_list_5">共找到<span>23</span>条房源</div>
+<div class="clear"></div>
+</div>
+</div> <!--list_search_content -->
+</div>
+</div> <!--list_left -->
+<div id="list_right">
+<div class="list_right_item" id="list_current">
+<div class="list_right_item_img" id="list_right_item_img_all"><a href="/act/house/"><img src="http://ss2.esf.leju.com/bj/images/act/logo_all.png" width="238" height="55" /></a></div>
+<div class="list_right_item_content">
+<div class="list_right_thing_l"><img src="http://ss2.esf.leju.com/bj/images/act/thing.png" width="6" height="26" class="png" /></div>
+<div class="list_right_thing_r"><img src="http://ss2.esf.leju.com/bj/images/act/thing.png" width="6" height="26" class="png" /></div>
+<div class="list_right_allimg"><img src="http://ss2.esf.leju.com/bj/images/act/allimg.jpg" width="254" height="186" /></div>
+<div class="list_right_b_img"><img src="http://ss2.esf.leju.com/bj/images/act/list_right_b_img.jpg" width="256" height="8" /></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div> <!--list_main -->
+<div class="list_search_tiaojian_bottom">
+<div class="list_search_tiaojian_tit">找房条件：</div>
+<div class="search_tiaojian_font_line">
+<div class="search_tiaojian_font" onclick="document.location.href='/act/house/';"><p>万众恒基</p></div>
+<div class="search_nav_item_2"><a href="/act/house/">清空条件</a></div>
+</div>
+<div class="list_searchi_tianjian_more"><a href="/house/" target="_blank">更多新浪二手房&gt;&gt;</a></div>
+<div class="clear"></div>
+</div>
+<div class="footer_line"><img src="http://ss2.esf.leju.com/bj/images/act/footer_line.jpg" width="950" height="3" /></div>
+<div id="footer" style="clear:both;text-align:left; position:relative;">
+	新浪网（NASDAQ上市代码：SINA）<br />
+	中国房产信息集团（美国NASDAQ上市代码：CRIC）及易居中国（美国NYSE上市代码：EJ）<br />
+	联手打造中国最大的二手房网络媒体及信息服务平台
+	 <div class="Pockets_wx"><a href="http://m.leju.com/web/" title="下载口袋乐居" target="_blank"><img src="http://ss2.esf.leju.com/bj/images/weixin_images.png" alt="下载口袋乐居" width="60" height="60" /></a></div>
+</div>
+<div id="copyrighter">
+客服热线：<font>010-51660342</font>　邮箱：fangyouservice@sina.com <br />
+Copyright &copy; 2011 esf.sina.com.cn All Rights Reserved 京ICP证080057号
+</div>
+<div style="display:none;"><script type="text/javascript">var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff84b5b58f80ff1199d0557ff22a5887c' type='text/javascript'%3E%3C/script%3E"));</script><script src="http://s19.cnzz.com/stat.php?id=2868901&amp;web_id=2868901" language="JavaScript"></script></div><script src="http://traffic.house.sina.com.cn/esf_8j4p_tag.js" type="text/javascript"></script><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-17522451-1']);_gaq.push(['_setCustomVar',1,'city','bj','3']);  _gaq.push(['_setDomainName', '.sina.com.cn']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? ' https://ssl' : ' http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+<script language="javascript" type="text/javascript">var $ = jQuery;$(document).ready(function(){$('li.widget &gt; ul').hide();$('li.widget &gt; h3').css("background","url(http://ss2.esf.leju.com/bj/images/act/icon_list_b.gif) 2px 3px no-repeat");$('.open &gt; ul').show();$('.open &gt; h3').css("background","url(http://ss2.esf.leju.com/bj/images/act/icon_list_a.gif) 2px 3px no-repeat");$('li.widget &gt; h3').click(function() {$(this).css("background","url(http://ss2.esf.leju.com/bj/images/act/icon_list_a.gif) 2px 3px no-repeat");if($('.open &gt; ul').is(":hidden")){$('.open &gt; h3').css("background","url(http://ss2.esf.leju.com/bj/images/act/icon_list_a.gif) 2px 3px no-repeat");}else{$('.open &gt; h3').css("background","url(http://ss2.esf.leju.com/bj/images/act/icon_list_b.gif) 2px 3px no-repeat");}var content = $(this).next();var others = content.parent().siblings("li.widget").find("ul:visible");if($(content).is(":hidden")){$(this).css("background","url(http://ss2.esf.leju.com/bj/images/act/icon_list_a.gif) 2px 3px no-repeat");}else{$(this).css("background","url(http://ss2.esf.leju.com/bj/images/act/icon_list_b.gif) 2px 3px no-repeat");}content.parent().siblings("li.widget").find("h3").css("background","url(http://ss2.esf.leju.com/bj/images/act/icon_list_b.gif) 2px 3px no-repeat");$(this).siblings("li.widget").find("ul:visible");if (others.length ) {others.slideUp('fast', function() {content.slideToggle('fast');});} else {if(!$(content).is(":hidden")){content.parent().siblings("li.widget").find("h3").css("background","url(http://ss2.esf.leju.com/bj/images/act/icon_list_b.gif) 2px 3px no-repeat");}content.slideToggle('fast');}});$(".house_title").each(function(){var max = 35;var value = $(this).attr("title");if(getByteLen(value) &lt;= max ){$(this).html(value);}else{var valstr = getByteVal(value,max);$(this).html(valstr+"...");}});$(".company_list_name").each(function(){var max = 8;var value = $(this).html();if(getByteLen(value) &lt;= max ){$(this).html(value);}else{var valstr = getByteVal(value,max);$(this).html(valstr);}});});$("#house_search_key").blur(function(){setTimeout("dis_none('house_search_key')",600);});function communitypy(id,preurl){var keyword = encodeURIComponent(document.getElementById(id).value);$.getJSON('/commpy.php?action=communitypy&amp;key='+keyword,function(data){if(null==data || 0==data.length){document.getElementById(id+'_dis').style.display='none';return 0;}else{document.getElementById(id+'_dis').style.display='block';}var wg = '&lt;ul&gt;';for(var i in data){wg += '&lt;li class="onmouseoute" onmouseover="this.className=\'onmouseover\'" onmouseout="this.className=\'onmouseoute\'" onclick="comm_click(\''+data[i].name+'\',\''+id+'\',\''+preurl+'\');"&gt;'+data[i].name+'&lt;/li&gt;';}wg += '&lt;/ul&gt;';document.getElementById(id+'_dis').innerHTML = wg;});};function dis_none(id){setTimeout("document.getElementById('"+id+"_dis').style.display='none';",500);};function comm_click(name,id,preurl){document.getElementById(id).value = name;setTimeout("checkkeyword('"+id+"','"+preurl+"');",100);};function checkkeyword(id,preurl){var keyword = encodeURIComponent(document.getElementById(id).value);keyword = keyword.replace(/-/g,'||');if(keyword==encodeURIComponent('输入关键字(小区或楼盘名称)') || keyword==encodeURIComponent('请您输入要查找的小区或楼盘') || ''==keyword){document.getElementById(id).focus();return false;}if(undefined!=preurl &amp;&amp; 'undefined'!=preurl &amp;&amp; ''!=preurl){var loc = preurl+keyword+'/';}else{var loc = remove('o,n','-o'+keyword);}location.href=loc;};function remove(prefix_list,value){if(undefined==value){value = '';}else{var patter = new RegExp('(%5C|%2F)',['g']);value=value.replace(patter,"");}var url = location.href+'/';var arr = url.split('/');var loc_channel = arr[3]+'/'+arr[4];var loc_condition = arr[5];var prefix_array = prefix_list.split(',');for(var i=0;i&lt;prefix_array.length&gt;</script>
+</body>
+</html> 

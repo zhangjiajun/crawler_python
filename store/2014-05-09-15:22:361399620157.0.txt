@@ -1,0 +1,703 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[6,623,7] published at 2014-05-09 07:15:42 from #235 by system-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中国高尔夫报道_新浪高尔夫频道_新浪网</title>
+<meta name="Keywords" content="," />
+<meta name="Description" content="中国高尔夫,高尔夫报道,高尔夫赛事,高坛趣闻,高尔夫" />
+<script type="text/javascript" src="http://i3.sinaimg.cn/home/sinaflash.js"></script>
+<style type="text/css">
+<!--
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,table,td,th,form,fieldset,img,dl,dt,dd{margin:0;padding:0;}
+textarea,input,select,body,table{font-size:12px;}
+select,input{vertical-align:middle; }
+fieldset,img{border:0; }
+ul,ol{list-style:none;}
+
+a{color:#60584B;text-decoration:none;}
+a:visited{color:#800080;text-decoration:underline;}
+a:hover{color:#f00;text-decoration:underline;}
+
+.clearit{clear:both;font-size:0;line-height:0;height:0;}
+
+body{background:#fff;text-align:center;}
+#wrap{width:950px;text-align:left;margin:0 auto;padding:5px 0;}
+.Title_04{ position:relative;font-size:14px;height:40px;background: url(http://i1.sinaimg.cn/ty/subject/2009/0716/golf_jn_titleBg.gif) no-repeat 0 -1460px; color:#583912; font-weight:normal; padding-left:40px; line-height:40px;}
+.Title_04 a:link,.Title_01 a:visited{color:#03366f; text-decoration:none;}
+.Title_04 a:hover{color:#f00; text-decoration:underline;}
+.Nav1{height:24px;padding:2px 0 0 14px;color:#fff;line-height:24px;background:url(http://i3.sinaimg.cn/ty/col/2009/0515/g02.jpg) no-repeat 0 0;}
+.Nav1 a:link,.Nav1 a:visited{color:#fff; text-decoration:none;}
+.Nav1 a:hover{color:#f00; text-decoration:underline;}
+
+.Nav2{height:29px;padding:2px 0 0 14px;line-height:29px;background:url(http://i1.sinaimg.cn/ty/golf/golf08/images/golf_mj_003.gif) repeat-x 0 0;color:#fce300;}
+.Nav2 a:link,.Nav2 a:visited{color:#fce300; text-decoration:none;margin:0 4px;}
+.Nav2 a:hover{color:#f00; text-decoration:underline;}
+
+.Nav3{background:#f2f2f2;margin-top:1px;height:30px;}
+
+.footer{text-align:center;line-height:20px;margin-top:10px;text-align:center;}
+
+.sp_h10{height:10px;overflow:hidden;background:#fff;font-size:0px;}
+
+.PartA{zoom:1;overflow:hidden;margin-top:10px;background:url(http://i1.sinaimg.cn/ty/golf/0911117/golf_zxh_bg_02.gif) repeat-y 0 0;}
+.PartA .P_Left{float:left;overflow:hidden;width:251px;float:left;}
+.PartA .P_Middle{width:390px;float:left;overflow:hidden;margin-left:9px;}
+.PartA .P_Right{width:290px;float:left;overflow:hidden;margin-left:10px;}
+.PartA .P_Bot { width:950px; height:6px; overflow:hidden; clear:both; background:url(http://i1.sinaimg.cn/ty/golf/0911117/golf_zxh_bg_02.gif) no-repeat -950px 0; }
+
+.PartB{ zoom:1;overflow:hidden;margin-top:10px;background:url(http://i2.sinaimg.cn/ty/golf/0911117/golf_zxh_bg_03.gif) repeat-y 0 0;}
+.PartB .P_Left{float:left;overflow:hidden;width:468px;float:left;}
+.PartB .P_Right{width:468px;float:left;overflow:hidden;margin-left:14px;}
+.PartB .P_Bot { width:950px; height:1px; overflow:hidden; clear:both; background:url(http://i2.sinaimg.cn/ty/golf/0911117/golf_zxh_bg_03.gif) no-repeat -950px 0; }
+
+.Title_01 { background:#f0f3ec url(http://i0.sinaimg.cn/ty/golf/0911117/golf_zxh_bg_01.gif) no-repeat 3px 3px; height:35px; width:245px; overflow:hidden; color:#03366f; padding-right:3px; border:1px solid #c2ccaa; border-bottom:none; }
+.Title_01 .title { float:left; font-size:14px; padding-left:28px; line-height:38px; color:#000; font-weight:normal }
+.Title_01 .more { float:right; font-size:12px; text-align:right; color:#000; font-weight:normal; padding:1px 5px 0 34px; line-height:35px; }
+.Title_01 a { color:#000; text-decoration:none; }
+.Title_01 a:hover { color:#f00; text-decoration:underline; }
+
+.Title_r01 { background:transparent url(http://i0.sinaimg.cn/ty/golf/0911117/golf_zxh_bg_01.gif) no-repeat 0 -100px; padding:10px 0 0 22px; width:268px; height:27px; color:#583912; font-weight:normal; font-size:16px; zoom:1; overflow:hidden}
+.Title_r01 .title{ float:left; }
+.Title_r01 .more{ float:right; font-size:12px; padding:4px 10px}
+.Title_r01 a { color:#583912; text-decoration:none }
+.Title_r01 a:hover { text-decoration:underline }
+
+.Title_02 .more{font-weight:normal; float:right;font-size:12px;padding-right:10px;font-family:宋体;margin-top:11px;}
+.Title_02{background:#f0f3ec url(http://i0.sinaimg.cn/ty/golf/0911117/golf_zxh_bg_01.gif) no-repeat 3px -197px; height:35px; width:463px; overflow:hidden; color:#03366f; padding-right:3px; border:1px solid #c2ccaa; border-bottom:none; }
+.Title_02 .title{float:left; font-size:14px; padding-left:28px; line-height:38px; color:#000; font-weight:normal }
+.Title_02 a:link,.Title_02 a:visited{color:#000; text-decoration:none;}
+.Title_02 a:hover{color:#f00; text-decoration:underline;}
+
+.blk_01{ width:250px; overflow:hidden}
+.blk_01 table { border-left:1px solid #C2CCAA; }
+.blk_01 table td, .blk_01 table th { border-right:1px solid #C2CCAA; border-bottom:1px solid #C2CCAA; line-height:22px; text-align:center; }
+.blk_01 table th { background:#F7F9F4; color:#728361; font-weight:normal; }
+.blk_01 table td { color:#60584B; }
+.blk_01 .bg_02{background:#f5fafe;}
+.blk_01 .bg_03{background:#d2e7fc;}
+.blk_01 a:link,.blk_01 a:visited{text-decoration:none;}
+.blk_01 a:hover{text-decoration:underline;}
+
+.blk_02{margin:0 1px;border-bottom:1px solid #d5d9e2; border-top:none;padding:8px 0;}
+.blk_02 ul{zoom:1;overflow:hidden;padding-left:5px;}
+.blk_02 li{line-height:20px;padding-left:1em;background:url(http://i1.sinaimg.cn/dy/deco/2007/1211/yocc/unfcn_mj_01.gif) no-repeat 5px 50%;width:104px;float:left;}
+.blk_02 a:link,.blk_02 a:visited{text-decoration:none;}
+.blk_02 a:hover{text-decoration:underline;}
+
+.blk_03{margin:0 1px;padding:8px 0;}
+.blk_03 ul{zoom:1;overflow:hidden;padding-left:5px;}
+.blk_03 li{line-height:20px;padding-left:1em;background:url(http://i1.sinaimg.cn/dy/deco/2007/1211/yocc/unfcn_mj_01.gif) no-repeat 5px 50%;width:67px;float:left;}
+.blk_03 a:link,.blk_02 a:visited{text-decoration:none;}
+.blk_03 a:hover{text-decoration:underline;}
+
+#focusViwer { padding-bottom:10px;border:1px solid #9e7c36; background:#e8dec1 url(http://i3.sinaimg.cn/ty/golf/0911117/golf_zxh_bg_04.gif) repeat-x center bottom; text-align:center; }
+
+.blk_04 .focusTxt{padding:5px 0 10px;color:#000;}
+.blk_04 .focusTxt h1{font:20px/28px "黑体";text-align:center;}
+.blk_04 .focusTxt h1 a:link,.blk_04 .focusTxt h1 a:visited{color:#000; text-decoration:none;}
+.blk_04 .focusTxt h1 a:hover{color:#f00; text-decoration:underline;}
+.blk_04 .focusTxt p{text-align:20px;text-align:center;}
+.blk_04 ul{padding:6px 0 0 0;}
+.blk_04 ul li{line-height:23px;font-size:14px;padding-left:1em;background:url(http://i1.sinaimg.cn/dy/deco/2007/1211/yocc/unfcn_mj_01.gif) no-repeat 5px 50%;}
+
+.blk_05{zoom:1;overflow:hidden;border:1px solid #d5d9e2;border-top:none;background:#f8f9fb;padding:0 0 20px;}
+.blk_05 .pic{width:33.33%;float:left;text-align:center;padding:18px 0 0;}
+.blk_05 .pic img{display:block;margin:0 auto;border:1px solid #d2d2d3;padding:3px;}
+.blk_05 .pic p{padding:7px 0 0;line-height:14px;}
+
+.blk_06{padding:4px 0 0;}
+.blk_06 ul{zoom:1;overflow:hidden;padding:0 10px;}
+.blk_06 ul li{width:33.3%;float:left;text-align:center;padding:5px 0 0;}
+.blk_06 ul li a{width:75px;padding:2px 0 0;line-height:19px;display:block;border:1px solid #BCA992;color:#000;background:#F1EDE2;margin:0 auto;text-decoration:none;}
+.blk_06 ul li a:hover{background:#D8CDAB;color:#c00;text-decoration:none;}
+.blk_06 .info{text-align:right;padding-right:15px;line-height:20px;padding-top:4px;}
+
+.blk_07{margin-top:10px;background:#f4f9fd;}
+.blk_07 .b_cont{border:1px solid #c7dbf3;border-top:none;padding:10px 0;}
+.blk_07 .b_cont table{width:98%;text-align:center;margin:0 auto;}
+.blk_07 .b_cont img{border:1px solid #999;padding:8px;background:#fff;}
+
+.blk_08{border:0px solid #d5d9e2;}
+.blk_08 .PicList{zoom:1;overflow:hidden;padding:0 5px;}
+.blk_08 .PicList .pic{width:33.3%;float:left;text-align:center;padding:10px 0 0;}
+.blk_08 .PicList .pic img{display:block;margin:0 auto;border:1px solid #ddd;background:#fff;padding:3px;}
+.blk_08 .PicList .pic p{line-height:20px;padding:5px 0 0;}
+.blk_08 ul{padding:8px 0 10px 10px;}
+.blk_08 ul li{line-height:24px;font-size:14px;padding-left:1em;background:url(http://i1.sinaimg.cn/dy/deco/2007/1211/yocc/unfcn_mj_01.gif) no-repeat 5px 50%;color:#000;}
+.blk_08 .date{font-size:12px;color:#b1b1b1;}
+
+-->
+</style>
+</head>
+<body><!-- SUDA_CODE_START -->
+<script type="text/javascript"> 
+//&lt;!--
+(function(){var al="V=2.1.10";var af=window,F=document,s=navigator,V=s.userAgent,am=af.screen,i=af.location.href;var aB="https:"==af.location.protocol?"https://s":"http://",aw="beacon.sina.com.cn";var N=aB+aw+"/a.gif?",z=aB+aw+"/g.gif?",Q=aB+aw+"/f.gif?",ae=aB+aw+"/e.gif?",az=aB+"beacon.sinauda.com/i.gif?";var ay=F.referrer.toLowerCase();var Z="SINAGLOBAL",X="FSINAGLOBAL",H="Apache",P="ULV",k="SUP",aC="UOR",E="_s_acc",W="_s_tentry",n=false,ax=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aD=false,A=false;var aj="";var l=16777215,Y=0,C,K=0;var r="",b="",a="";var M=[],R=[],I=[];var u=0;var v=0;var p="";var ak=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aB+aw+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function j(){var e=document.createElement("iframe");e.src=aB+aw+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aB+aw+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aF,D){var aE=F.getElementsByName(aF);var e=(D&gt;0)?D:0;return(aE.length&gt;e)?aE[e].content:""}function m(){var aG=F.getElementsByName("sudameta");var aH=[];for(var e=0;e&lt;aG.length;e++){var aF=aG[e].content;if(aF){if(aF.indexOf(";")!=-1){var aI=aF.split(";");for(var aE=0;aE&lt;aI.length;aE++){var D=au(aI[aE]);if(!D){continue}aH.push(D)}}else{aH.push(aF)}}}return aH}function U(aI,aE,aG,aF){if(aI==""){return""}aF=(aF=="")?"=":aF;aE+=aF;var aH=aI.indexOf(aE);if(aH&lt;0){return""}aH+=aE.length;var D=aI.indexOf(aG,aH);if(D&lt;aH){D=aI.length}return aI.substring(aH,D)}function t(e){if(undefined==e||""==e){return""}return U(F.cookie,e,";","")}function aq(aG,e,D,aF){if(e!=null){if((undefined==aF)||(null==aF)){aF="sina.com.cn"}if((undefined==D)||(null==D)||(""==D)){F.cookie=aG+"="+e+";domain="+aF+";path=/"}else{var aE=new Date();var aH=aE.getTime();aH=aH+86400000*D;aE.setTime(aH);aH=aE.getTime();F.cookie=aG+"="+e+";domain="+aF+";expires="+aE.toUTCString()+";path=/"}}}function f(aE){try{var D=document.getElementById("sudaDataFrame").contentWindow.storage;return D.get(aE)}catch(aF){return false}}function ap(aE,aF){try{var D=document.getElementById("sudaDataFrame").contentWindow.storage;D.set(aE,aF);return true}catch(aG){return false}}function L(){var aH=15;var aE=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(aE&amp;&amp;aE!=undefined){w=true}ls_gid=f(Z);if(ls_gid===false||w==false){return false}else{ak=true}if(ls_gid&amp;&amp;ls_gid.length&gt;aH){aq(Z,ls_gid,3650);n=true;return ls_gid}else{if(aE&amp;&amp;aE.length&gt;aH){aq(Z,aE,3650);ax=true}var D=0,aG=500;var aF=setInterval((function(){var e=t(Z);if(w){e=aE}D+=1;if(D&gt;3){clearInterval(aF)}if(e.length&gt;aH){clearInterval(aF);ap(Z,e)}}),aG);return w?aE:t(Z)}}function T(e,aF,aE){var D=e;if(D==null){return false}aF=aF||"click";if((typeof aE).toLowerCase()!="function"){return}if(D.attachEvent){D.attachEvent("on"+aF,aE)}else{if(D.addEventListener){D.addEventListener(aF,aE,false)}else{D["on"+aF]=aE}}return true}function ad(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var aE=arguments.callee.caller;var D;var aF=0;while(aE!=null&amp;&amp;aF&lt;40){D=aE.arguments[0];if(D&amp;&amp;(D.constructor==Event||D.constructor==MouseEvent||D.constructor==KeyboardEvent)){return D}aF++;aE=aE.caller}return D}}function g(D){D=D||ad();if(!D.target){D.target=D.srcElement;D.pageX=D.x;D.pageY=D.y}if(typeof D.layerX=="undefined"){D.layerX=D.offsetX}if(typeof D.layerY=="undefined"){D.layerY=D.offsetY}return D}function au(aF){if(typeof aF!=="string"){throw"trim need a string as parameter"}var e=aF.length;var aE=0;var D=/(\u3000|\s|\t|\u00A0)/;while(aE&lt;e){if(!D.test(aF.charAt(aE))){break}aE+=1}while(e&gt;aE){if(!D.test(aF.charAt(e-1))){break}e-=1}return aF.slice(aE,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aE,aI){var aK=au(aE).split("&amp;");var aJ={};var D=function(aM){if(aI){try{return decodeURIComponent(aM)}catch(aN){return aM}}else{return aM}};for(var aG=0,aH=aK.length;aG&lt;aH;aG++){if(aK[aG]){var aF=aK[aG].split("=");var e=aF[0];var aL=aF[1];if(aF.length&lt;2){aL=e;e="$nullName"}if(!aJ[e]){aJ[e]=D(aL)}else{if(c(aJ[e])!=true){aJ[e]=[aJ[e]]}aJ[e].push(D(aL))}}}return aJ}function ab(D,aF){for(var aE=0,e=D.length;aE&lt;e;aE++){aF(D[aE],aE)}}function ai(D){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(D.match(e)){return D.match(e)[1].toString()}else{return""}}function ah(aL){try{var aI="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aN=function(e){var aO="",aP=0;for(;aP&lt;e.length;aP++){aO+="%"+aE(e[aP])}return decodeURIComponent(aO)};var aE=function(e){var aO="0"+e.toString(16);return aO.length&lt;=2?aO:aO.substr(1)};var aM=function(aV,aS,aO){if(typeof(aV)=="string"){aV=aV.split("")}var aU=function(a4,a6){for(var a5=0;a5&lt;a4.length;a5++){if(a4[a5]==a6){return a5}}return -1};var aP=[];var a3,a1,aY="";var a2,a0,aX,aW="";if(aV.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var aZ=aI.split("");if(aS=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;aZ=D.split("")}var aR=0;if(aS=="binnary"){aZ=[];for(aR=0;aR&lt;=64;aR++){aZ[aR]=aR+128}}if(aS!="binnary"&amp;&amp;e.exec(aV.join(""))){return aO=="array"?[]:""}aR=0;do{a2=aU(aZ,aV[aR++]);a0=aU(aZ,aV[aR++]);aX=aU(aZ,aV[aR++]);aW=aU(aZ,aV[aR++]);a3=(a2&lt;&lt;2)|(a0&gt;&gt;4);a1=((a0&amp;15)&lt;&lt;4)|(aX&gt;&gt;2);aY=((aX&amp;3)&lt;&lt;6)|aW;aP.push(a3);if(aX!=64&amp;&amp;aX!=-1){aP.push(a1)}if(aW!=64&amp;&amp;aW!=-1){aP.push(aY)}a3=a1=aY="";a2=a0=aX=aW=""}while(aR&lt;aV.length);if(aO=="array"){return aP}var aT="",aQ=0;for(;aQ&lt;aP.lenth;aQ++){aT+=String.fromCharCode(aP[aQ])}return aT};var aF=[];var aK=aL.substr(0,3);var aH=aL.substr(3);switch(aK){case"v01":for(var aG=0;aG&lt;aH.length;aG+=2){aF.push(parseInt(aH.substr(aG,2),16))}return decodeURIComponent(aN(aM(aF,"binnary","array")));break;case"v02":aF=aM(aH,"urlsafe","array");return aN(aM(aF,"binnary","array"));break;default:return decodeURIComponent(aL)}}catch(aJ){return""}}var an={screenSize:function(){return(l&amp;8388608==8388608)?am.width+"x"+am.height:""},colorDepth:function(){return(l&amp;4194304==4194304)?am.colorDepth:""},appCode:function(){return(l&amp;2097152==2097152)?s.appCodeName:""},appName:function(){return(l&amp;1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":s.appName):""},cpu:function(){return(l&amp;524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(l&amp;262144==262144)?(s.platform):""},jsVer:function(){if(l&amp;131072!=131072){return""}var aG,e,aI,aE=1,aF=0,D=(s.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":s.appName,aH=s.appVersion;if("MSIE"==D){e="MSIE";aG=aH.indexOf(e);if(aG&gt;=0){aI=window.parseInt(aH.substring(aG+5));if(3&lt;=aI){aE=1.1;if(4&lt;=aI){aE=1.3}}}}else{if(("Netscape"==D)||("Opera"==D)||("Mozilla"==D)){aE=1.3;e="Netscape6";aG=aH.indexOf(e);if(aG&gt;=0){aE=1.5}}}return aE},network:function(){if(l&amp;65536!=65536){return""}var D="";D=(s.connection&amp;&amp;s.connection.type)?s.connection.type:D;try{F.body.addBehavior("#default#clientCaps");D=F.body.connectionType}catch(aE){D="unkown"}return D},language:function(){return(l&amp;32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(l&amp;16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(l&amp;8192!=8192){return""}var aH=s.plugins,aE,aI,aK;if(aH&amp;&amp;aH.length){for(var aG in aH){aI=aH[aG];if(aI.description==null){continue}if(aE!=null){break}aK=aI.description.toLowerCase();if(aK.indexOf("flash")!=-1){aE=aI.version?parseInt(aI.version):aK.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aF=10;aF&gt;=2;aF--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aF);if(D){aE=aF;break}}catch(aJ){}}}else{if(V.indexOf("webtv/2.5")!=-1){aE=3}else{if(V.indexOf("webtv")!=-1){aE=2}}}}return aE},javaEnabled:function(){if(l&amp;4096!=4096){return""}var aE=s.plugins,D=s.javaEnabled(),aF,aG;if(D==true){return 1}if(aE&amp;&amp;aE.length){for(var e in aE){aF=aE[e];if(aF.description==null){continue}if(D!=null){break}aG=aF.description.toLowerCase();if(aG.indexOf("java plug-in")!=-1){D=parseInt(aF.version);continue}}}else{if(window.ActiveXObject){D=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return D?1:0}};var ac={pageId:function(D){var aE=D||r,aI="-9999-0-0-1";if((undefined==aE)||(""==aE)){try{var aF=h("publishid");if(""!=aF){var aH=aF.split(",");if(aH.length&gt;0){if(aH.length&gt;=3){aI="-9999-0-"+aH[1]+"-"+aH[2]}aE=aH[0]}}else{aE="0"}}catch(aG){aE="0"}aE=aE+aI}return aE},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(l&amp;2048!=2048){return""}var e=/^[^\?&amp;#]*.swf([\?#])?/;if((ay=="")||(ay.match(e))){var D=U(i,"ref","&amp;","");if(D!=""){return escape(D)}}return escape(ay)},isHomepage:function(){if(l&amp;1024!=1024){return""}var aE="";try{F.body.addBehavior("#default#homePage");aE=F.body.isHomePage(i)?"Y":"N"}catch(D){aE="unkown"}return aE},PGLS:function(){return(l&amp;512==512)?h("stencil"):""},ZT:function(){if(l&amp;256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(l&amp;128==128)?h("mediaid"):""},domCount:function(){return(l&amp;64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(l&amp;32==32)?F.getElementsByTagName("iframe").length:""}};var at={visitorId:function(){var D=15;var e=t(Z);if(e.length&gt;D&amp;&amp;u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(X);return e}else{aq(X,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var D=new Date();e=Math.random()*10000000000000+"."+D.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var aE=t(H);var aG=t(P);var aF=aG.split(":");var aH="",D;if(aF.length&gt;=6){if(aE!=aF[4]){D=new Date();var e=new Date(window.parseInt(aF[0]));aF[1]=window.parseInt(aF[1])+1;if(D.getMonth()!=e.getMonth()){aF[2]=1}else{aF[2]=window.parseInt(aF[2])+1}if(((D.getTime()-e.getTime())/86400000)&gt;=7){aF[3]=1}else{if(D.getDay()&lt;e.getDay()){aF[3]=1}else{aF[3]=window.parseInt(aF[3])+1}}aH=aF[0]+":"+aF[1]+":"+aF[2]+":"+aF[3];aF[5]=aF[0];aF[0]=D.getTime();aq(P,aF[0]+":"+aF[1]+":"+aF[2]+":"+aF[3]+":"+aE+":"+aF[5],360)}else{aH=aF[5]+":"+aF[1]+":"+aF[2]+":"+aF[3]}}else{D=new Date();aH=":1:1:1";aq(P,D.getTime()+aH+":"+aE+":",360)}return aH},userNick:function(){if(aj!=""){return aj}var aE=unescape(t(k));if(aE!=""){var D=U(aE,"ag","&amp;","");var e=U(aE,"user","&amp;","");var aF=U(aE,"uid","&amp;","");var aH=U(aE,"sex","&amp;","");var aG=U(aE,"dob","&amp;","");aj=D+":"+e+":"+aF+":"+aH+":"+aG;return aj}else{return""}},userOrigin:function(){if(l&amp;4!=4){return""}var e=t(aC);var D=e.split(":");if(D.length&gt;=2){return D[0]}else{return""}},advCount:function(){return(l&amp;2==2)?t(E):""},setUOR:function(){var aJ=t(aC),aN="",D="",aM="",aG="",aK=i.toLowerCase(),aE=F.referrer.toLowerCase();var aO=/[&amp;|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aI=new Date();if(aK.match(aO)){aM=aK.match(aO)[0]}else{if(aE.match(aO)){aM=aE.match(aO)[0]}}if(aM!=""){aM=aM.substr(3)+":"+aI.getTime()}if(aJ==""){if(t(P)==""){aN=ai(aE);D=ai(aK)}aq(aC,aN+","+D+","+aM,365)}else{var aH=0,aL=aJ.split(",");if(aL.length&gt;=1){aN=aL[0]}if(aL.length&gt;=2){D=aL[1]}if(aL.length&gt;=3){aG=aL[2]}if(aM!=""){aH=1}else{var aF=aG.split(":");if(aF.length&gt;=2){var e=new Date(window.parseInt(aF[1]));if(e.getTime()&lt;(aI.getTime()-86400000*30)){aH=1}}}if(aH){aq(aC,aN+","+D+","+aM,365)}}},setAEC:function(e){if(""==e){return}var D=t(E);if(D.indexOf(e+",")&lt;0){D=D+e+","}aq(E,D,7)},ssoInfo:function(){var aE=unescape(ah(t("sso_info")));if(aE!=""){if(aE.indexOf("uid=")!=-1){var D=U(aE,"uid","&amp;","");return escape("uid:"+D)}else{var e=U(aE,"u","&amp;","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ag={CI:function(){var e=["sz:"+an.screenSize(),"dp:"+an.colorDepth(),"ac:"+an.appCode(),"an:"+an.appName(),"cpu:"+an.cpu(),"pf:"+an.platform(),"jv:"+an.jsVer(),"ct:"+an.network(),"lg:"+an.language(),"tz:"+an.timezone(),"fv:"+an.flashVer(),"ja:"+an.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var D=["pid:"+ac.pageId(e),"st:"+ac.sessionCount(),"et:"+ac.excuteCount(),"ref:"+ac.referrer(),"hp:"+ac.isHomepage(),"PGLS:"+ac.PGLS(),"ZT:"+ac.ZT(),"MT:"+ac.mediaType(),"keys:","dom:"+ac.domCount(),"ifr:"+ac.iframeCount()];return"PI="+D.join("|")},UI:function(){var e=["vid:"+at.visitorId(),"sid:"+at.sessionId(),"lv:"+at.lastVisit(),"un:"+at.userNick(),"uo:"+at.userOrigin(),"ae:"+at.advCount(),"lu:"+at.fvisitorId(),"si:"+at.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+at.subp()];return"UI="+e.join("|")},EX:function(D,e){if(l&amp;1!=1){return""}D=(null!=D)?D||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+D+"|ex2:"+e},MT:function(){return"MT="+m().join("|")},V:function(){return al},R:function(){return"gUid_"+new Date().getTime()}};function av(){var aI="-",aF=F.referrer.toLowerCase(),aE=i.toLowerCase();if(""==t(W)){if(""!=aF){aI=ai(aF)}aq(W,aI,"","weibo.com")}var aG=/weibo.com\/reg.php/;if(aE.match(aG)){var aH=U(unescape(aE),"sharehost","&amp;","");var D=U(unescape(aE),"appkey","&amp;","");if(""!=aH){aq(W,aH,"","weibo.com")}aq("appkey",D,"","weibo.com")}}function d(e,D){G(e,D)}function G(D,aE){aE=aE||{};var e=new Image(),aF;if(aE&amp;&amp;aE.callback&amp;&amp;typeof aE.callback=="function"){e.onload=function(){clearTimeout(aF);aF=null;aE.callback(true)}}SUDA.img=e;e.src=D;aF=setTimeout(function(){if(aE&amp;&amp;aE.callback&amp;&amp;typeof aE.callback=="function"){aE.callback(false);e.onload=null}},aE.timeout||2000)}function x(e,aF,aE){SUDA.sudaCount++;if(!at.visitorId()&amp;&amp;!L()){if(u&lt;3){u++;setTimeout(x,500);return}}var D=N+[ag.V(),ag.CI(),ag.PI(e),ag.UI(),ag.MT(),ag.EX(aF,aE),ag.R()].join("&amp;");G(D);var aG=az+ag.R();G(aG);if(window.location.host.search("auto.sina.com.cn")&gt;=0){wrating_url="http://m.wrating.com/m.gif?a=&amp;c=860010-2370010112&amp;mcookie="+at.visitorId()+"&amp;"+ag.R()+"=";G(wrating_url)}}function y(e,aE,D){if(aD||A){return}if(SUDA.sudaCount!=0){return}x(e,aE,D)}function aa(e,aF){if((""==e)||(undefined==e)){return}at.setAEC(e);if(0==aF){return}var aE="AcTrack||"+t(Z)+"||"+t(H)+"||"+at.userNick()+"||"+e+"||";var D=ae+aE+"&amp;gUid_"+new Date().getTime();d(D)}function ao(aG,e,D,aH){aH=aH||{};if(!D){D=""}else{D=escape(D)}var aF="UATrack||"+t(Z)+"||"+t(H)+"||"+at.userNick()+"||"+aG+"||"+e+"||"+ac.referrer()+"||"+D+"||";var aE=ae+aF+"&amp;gUid_"+new Date().getTime();d(aE,aH)}function aA(aI){var D=g(aI);var aG=D.target;var aF="",aJ="",aE="";var aH;if(aG!=null&amp;&amp;aG.getAttribute&amp;&amp;(!aG.getAttribute("suda-uatrack")&amp;&amp;!aG.getAttribute("suda-actrack")&amp;&amp;!aG.getAttribute("suda-data"))){while(aG!=null&amp;&amp;aG.getAttribute&amp;&amp;(!!aG.getAttribute("suda-uatrack")||!!aG.getAttribute("suda-actrack")||!!aG.getAttribute("suda-data"))==false){if(aG==F.body){return}aG=aG.parentNode}}if(aG==null||aG.getAttribute==null){return}aF=aG.getAttribute("suda-actrack")||"";aJ=aG.getAttribute("suda-uatrack")||aG.getAttribute("suda-data")||"";sudaUrls=aG.getAttribute("suda-urls")||"";if(aJ){aH=J(aJ);if(aG.tagName.toLowerCase()=="a"){aE=aG.href}aH.key&amp;&amp;SUDA.uaTrack&amp;&amp;SUDA.uaTrack(aH.key,aH.value||aH.key,aE)}if(aF){aH=J(aF);aH.key&amp;&amp;SUDA.acTrack&amp;&amp;SUDA.acTrack(aH.key,aH.value||aH.key)}}aD=(function(aE,D){if(af.top==af){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight&gt;=aE)&amp;&amp;(F.body.clientWidth&gt;=D))?false:true}catch(aF){return true}}})(320,240);A=(function(){return false})();at.setUOR();var ar=at.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){aa.apply(null,arguments)};SUDA.uaTrack=function(){ao.apply(null,arguments)};T(F.body,"click",aA);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){aa.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){ao.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){aa.apply(null,arguments)};window._S_uaTrack=function(){ao.apply(null,arguments)};window._S_PID_="";y();try{j()}catch(S){}})();
+//--&gt;
+</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden"><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></div>
+</noscript>
+<!-- SUDA_CODE_END -->
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&amp;");var arrtmp;var arrResult={};for(var i=0;i&lt;arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i&lt;f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<div id="wrap">
+<!-- 标准二级导航_高尔夫 begin -->
+<style type="text/css">
+.secondaryHeader{height:38px;overflow:hidden;color:#ffffff;font-size:12px;font-weight:100;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#573f23;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;overflow:hidden;}
+.sHLogo .span1{margin-left:10px;}
+.sHLogo img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;}
+.entNavVList{float:left; padding:8px 0 0 8px;}
+.entNavVList li{float:left;}
+.entNavVList a{text-decoration:none; display:block; line-height:20px; text-align:left; padding:2px 13px 0 25px; background-image:url(http://i2.sinaimg.cn/ent/deco/2008/0312/ent_index_ws_001.gif); background-repeat: no-repeat;}
+a.evl_video{background-position:0 -50px;}
+a.evl_mobile{background-position:0 -100px;}
+a.evl_cmap{background:url(http://i0.sinaimg.cn/ty/up/2009-07-14/U1340P6T64D64010F1091DT20090714202811.jpg) 0 0 no-repeat;}
+a.evl_blog{background:url(http://i0.sinaimg.cn/ty/09golf/index/img2.jpg) 0 0 no-repeat;}
+</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"> <span style="float: left;"><a href="http://golf.sina.com.cn/"><img alt="新浪网" src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" /></a><a href="http://golf.sina.com.cn/"><img alt="新浪高尔夫" src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_golf.gif" /></a></span>
+<ul class="entNavVList">
+<li><a target="_blank" href="http://golf.sina.com.cn/pgatour.html" class="evl_cmap">中文官网</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- 标准二级导航_高尔夫 end -->
+<div style="margin: 0pt auto; clear: both; width: 950px;"><img style="border-style: none none solid; border-color: -moz-use-text-color -moz-use-text-color rgb(255, 255, 255); border-width: medium medium 1px; width: 950px; height: 67px;" src="http://i1.sinaimg.cn/ty/deco/2010/0413/golf_03.jpg" /></div>
+<!-- Nav begin -->
+<style>
+/* 导航 */
+.topNav { background:url(http://i1.sinaimg.cn/ty/subject/2009/1106/golf_jn_navBg.gif) bottom no-repeat; height:66px; line-height:25px; }
+.topNav a{ text-decoration:none}
+.topNav a:hover{ text-decoration:underline}
+.topNav .nav1 { float:left; text-align:center; width:90px; padding-top:4px; }
+.topNav .nav1 a { color:#e4d09d;}
+.navList { float:left; padding-top:4px; }
+.navList dt { width:65px; height:55px; float:left; text-indent:-9999px; }
+.navList dt a { display:block; height:50px; width:50px; margin:0 auto; }
+.navList dd { float:left; }
+.navList dd, .navList dd a { color:#fff; }
+.navList dd, .navList dd a:hover, .navList dd a:link, .navList dd a:visited { color:#fff; }
+</style>
+<!-- Nav begin -->
+<div class="topNav">
+<p class="nav1"><a href="http://golf.sina.com.cn/">高尔夫首页</a><br />
+<a href="http://sports.sina.com.cn/">体育首页</a></p>
+<dl class="navList" style="width:163px;">
+<dt>新闻</dt>
+<dd><a href="http://golf.sina.com.cn/scrollnews.html" target="_blank">滚动</a> <a href="http://golf.sina.com.cn/photo/" target="_blank">图片</a> <a href="http://golf.sina.com.cn/gqphoto/" target="_blank">高清</a><br />
+<a href="http://golf.sina.com.cn/top20/index.html" target="_blank">排行</a> <a href="http://sports.sina.com.cn/star/golf/" target="_blank">明星</a> <a href="http://golf.sina.com.cn/golf_video/index.shtml" target="_blank">视频</a></dd>
+</dl>
+<dl class="navList" style="width:247px;">
+<dt>赛事</dt>
+<dd><a href="http://golf.sina.com.cn/pgatour.html" target="_blank">美巡赛</a> <a href="http://golf.sina.com.cn/epgatour.html" target="_blank">欧巡赛</a> <a href="http://golf.sina.com.cn/asiantour.html" target="_blank">亚巡赛</a> <a href="http://golf.sina.com.cn/lpgatour.html" target="_blank">LPGA</a><br />
+<a href="http://golf.sina.com.cn/cpga/" target="_blank">中高协</a> <a href="http://golf.sina.com.cn/09chinagolfnews/index.shtml" target="_blank">国内赛</a> <a href="http://sports.sina.com.cn/golf/juniorgolf/" target="_blank">青少年</a> <a href="http://sports.sina.com.cn/golf/amateurmatch/" target="_blank">业余赛</a></dd>
+</dl>
+<dl class="navList" style="width:196px;">
+<dt><a href="http://golf.sina.com.cn/chuxuezhe/index.shtml" target="_blank">实用</a></dt>
+<dd><a href="http://golf.sina.com.cn/course/index.shtml" target="_blank">球场</a> <a href="http://golf.sina.com.cn/instruction/index.shtml" target="_blank">球技</a> <a href="http://golf.sina.com.cn/clubs.html" target="_blank">球具</a> <a href="http://golf.sina.com.cn/knowledge/index.shtml" target="_blank" target="_blank">常识</a><br />
+<a href="http://golf.sina.com.cn/information/index.shtml" target="_blank">活动</a> <a href="http://golf.sina.com.cn/travel/index.shtml" target="_blank">旅行</a> <a href="http://sports.sina.com.cn/golf/lifestyle/" target="_blank">生活</a> <a href="http://golf.sina.com.cn/chuxuezhe/index.shtml" target="_blank">入门</a></dd>
+</dl>
+<dl class="navList" style="width:122px;">
+<dt><a href="http://sports.sina.com.cn/golf/industry/" target="_blank">产业</a></dt>
+<dd><a href="http://golf.sina.com.cn/2009golfandconduct/" target="_blank">管理培训</a><br />
+<a href="http://sports.sina.com.cn/golf/industry/" target="_blank">产业资讯</a></dd>
+</dl>
+<dl class="navList" style="width:130px;">
+<dt><a href="http://bbs.sports.sina.com.cn/tableforum/App/index.php?bbsid=25&amp;subid=0&amp;ismain=1" target="_blank">互动</a></dt>
+<dd><a href="http://sports.sina.com.cn/golf/blog/" target="_blank">博客</a> <a href="http://forum.sports.sina.com.cn/golf/forum-47-1.html" target="_blank">论坛</a><br />
+<a href="http://golf.sports.sina.com.cn/" target="_blank">成绩</a> <a href="http://sports.sina.com.cn/golf/2008zt/" target="_blank">专题</a></dd>
+</dl>
+</div>
+<!-- Nav end -->
+<!-- Nav end -->
+<!-- PartA begin -->
+<div class="PartA">
+<div class="P_Left">
+<!-- Left begin -->
+<h2 class="Title_01">
+<span class="title">近期赛事</span>
+<span class="more"><a href="http://sports.sina.com.cn/golf/2013-12-26/10186953414.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_01">
+<table width="250" height="240" border="0" cellpadding="0" cellspacing="0" bordercolor="#96B6E9">
+<tr>
+<th width="50%">名称</th>
+<th width="37%">时间</th>
+</tr>
+<tr class="bg_02">
+<td>宝马大师赛<a href="http://sports.sina.com.cn/golf/2010-01-08/16024780722.shtml" target="_blank"></a></td>
+<td>10月25-28日</td>
+</tr>
+<tr class="bg_01">
+<td>汇丰世界锦标赛<a href="http://sports.sina.com.cn/golf/2010-01-11/12424784964.shtml" target="_blank"></a></td>
+<td>11月1-4日</td>
+</tr>
+<tr class="bg_01">
+<td>苏州太湖女子公开赛<a href="http://sports.sina.com.cn/golf/lymalaysia/" target="_blank"></a></td>
+<td>10月26－28日</td>
+</tr>
+<tr class="bg_02">
+<td>三亚女子公开赛<a href="http://sports.sina.com.cn/golf/2009-12-21/15124756004.shtml" target="_blank"></a></td>
+<td>11月2－4日</td>
+</tr>
+<tr class="bg_01">
+<td>中国女子公开赛<a href="http://sports.sina.com.cn/golf/2010-01-06/17454777463.shtml" target="_blank"></a></td>
+<td>12月14-16日</td>
+</tr>
+<tr class="bg_02">
+<td>中国业余巡回赛第七站</td>
+<td>11月13-15日</td>
+</tr>
+<tr class="bg_01">
+<td>中国业余公开赛</td>
+<td>12月中旬</td>
+</tr>
+<tr class="bg_02">
+<td>皇家杯对抗赛</td>
+<td>12月20-22日</td>
+</tr>
+</table>
+</div>
+<div class="sp_h10"></div>
+<h2 class="Title_01">
+<span class="title">热点推荐</span>
+</h2>
+<div class="blk_02">
+<ul>
+<table border="0">
+<tr bgcolor="#f0f3ec">
+<td></td></tr></table><li><a href="http://sports.sina.com.cn/golf/2012masters/" target="_blank">美国大师</a></li>
+<td></td><li><a href="http://sports.sina.com.cn/golf/2012usopen/" target="_blank">美国公开赛</a></li>
+
+<tr bgcolor="#f0f3ec">
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/theopen2012/" target="_blank">英国公开赛</a></li>
+<td></td><li><a href="http://sports.sina.com.cn/golf/pga2012/" target="_blank">美国PGA锦标赛</a></li>
+
+<tr bgcolor="#f0f3ec">
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/liangwenchong/" target="_blank">梁文冲专栏</a></li>
+<td></td><li><a href="http://sports.sina.com.cn/golf/shanshangolf1/" target="_blank">冯珊珊夺大满贯</a></li>
+
+<tr bgcolor="#f0f3ec">
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/cmgt/" target="_blank">中国媒体球队</a></li>
+<td></td><li><a href="http://sports.sina.com.cn/golf/cuorsetour2012/" target="_blank">博客精选</a></li>
+
+<tr bgcolor="#f0f3ec">
+<td></td></tr><li><a href="http://focus.weibo.com/sports/dajiagolf/index.shtml" target="_blank">车主赛成绩造假</a></li>
+<td></td><li><a href="http://sports.sina.com.cn/golf/golfskill100/" target="_blank">经典技法100篇</a></li>
+
+<tr bgcolor="#f0f3ec">
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/worldlgc/" target="_blank">世界女子锦标赛 </a></li>
+<td></td><li><a href="http://sports.sina.com.cn/golf/2012readyforgolf/" target="_blank">高尔夫春季准备</a></li>
+
+<tr bgcolor="#f0f3ec">
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/cga2009/" target="_blank">中高协换届选举</a></li>
+<td></td><li><a href="http://sports.sina.com.cn/golf/2011golfrules/" target="_blank">高尔夫规则与释例</a></li>
+
+<tr bgcolor="#f0f3ec">
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/2013-01-04/10126363181.shtml" target="_blank">全国球场打球预定</a></li>
+<td></td><li><a href="http://www.wagr.com/" target="_blank">业余选手积分榜</a></li>
+
+<tr bgcolor="#f0f3ec">
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/gxga/" target="_blank">广西高协系列赛</a></li>
+<td></td>
+
+
+</ul>
+</div>
+<!-- Left end -->
+</div>
+<div class="P_Middle">
+<!-- Middle begin -->
+<!--焦点图开始-->
+<div id="focusViwer">
+<a href="http://sports.sina.com.cn/golf/2013-10-20/10466840031.shtml" target="_blank"><img class="img01" border="1" height="240" width="380" alt="焦点图" src="http://i1.sinaimg.cn/ty/golf/chinagolf/idx/2013/1022/U364P6T623D7F15698DT20131022175743.jpg" /><br />会籍新模式“e周汇”华章启幕 2.8万享20家会待</a>
+</div>
+<script type="text/javascript">
+	//&lt;![CDATA[
+
+	var focus_width=380
+	var focus_height=240
+	var text_height=20
+	var swf_height = focus_height+text_height
+	var curhref=document.location.href;
+
+	var pics='http://i2.sinaimg.cn/ty/golf/chinagolf/idx/2013/1022/U364P6T623D7F15698DT20131022175743.jpg|http://i1.sinaimg.cn/ty/golf/chinagolf/idx/2013/0513/U364P6T623D7F15700DT20130513181926.jpg|http://i0.sinaimg.cn/ty/golf/chinagolf/idx/2013/0326/U364P6T623D7F15701DT20130326120527.jpg|http://i0.sinaimg.cn/ty/golf/chinagolf/idx/2013/0326/U364P6T623D7F15699DT20130326120527.jpg'
+	var links='http://sports.sina.com.cn/golf/2013-10-20/10466840031.shtml|http://slide.sports.sina.com.cn/golf/slide_2_754_45899.html|http://slide.sports.sina.com.cn/golf/slide_2_754_43618.html#p=1|http://slide.sports.sina.com.cn/golf/slide_2_754_43654.html'
+	var texts='会籍新模式“e周汇”华章启幕 2.8万享20家会待|高球美女布兰迪|LPGA美女瑞卡丽写真 起亚赛赢第二冠|幻灯图-美国高尔夫频道美女主播劳伦-汤普森'
+
+	var FocusFlash = new sinaFlash("http://i2.sinaimg.cn/IT/iframe/071031/pixviewer1.1_009.swf", "focusflash", focus_width, swf_height, "7", "#f8f9fb", false, "High");
+	FocusFlash.addParam("allowScriptAccess", "sameDomain");
+	FocusFlash.addParam("menu", "false");
+	FocusFlash.addParam("wmode", "transparent");
+	FocusFlash.addVariable("pics", pics);
+	FocusFlash.addVariable("links", links);
+	FocusFlash.addVariable("texts", texts);
+	FocusFlash.addVariable("borderwidth", focus_width);
+	FocusFlash.addVariable("borderheight", focus_height);
+	FocusFlash.addVariable("textheight", text_height);
+	FocusFlash.addVariable("curhref", curhref);
+	FocusFlash.write("focusViwer");
+
+	//--&gt;
+	</script>
+<!--焦点图结束-->
+<div class="sp_h10"></div>
+<div class="blk_04">
+<style type="text/css">
+<!--
+.w2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 18px;
+	text-align: center;
+	text-indent: 24px;
+}
+-->
+</style>
+<div class="focusTxt">
+<h1><a href="http://sports.sina.com.cn/golf/2014-01-07/14266969906.shtml" target="_blank">李大正：高球不姓资不姓社 应理直气壮发展</a></h1>
+<div class="headline"></div>
+<span class="w2">  　对此张连伟认为：“打球和学习应该共同进步，14岁还处于学习阶段，不可以只是打球。他应该适当地参赛，更多的时间去读书，如果条件允许的话，还是应该去美国打球……[<a href="http://sports.sina.com.cn/golf/2013-06-03/17076602973.shtml" target="_blank">更多花絮</a>]
+</span>
+<h1><a href="http://sports.sina.com.cn/golf/2013-06-03/09256602225.shtml" target="_blank" class="linkRed01">纪检清退会员卡球场不着急 私密性有保证</a></h1>
+<div class="headline"></div>
+<span class="w2">  　中纪委要求纪检监察干部要在6月20日前自行清退所收受各种名目的会员卡，做到“零持有、零报告”……
+</span>
+</div>
+<ul>
+<script src="http://sports.sina.com.cn/ztjs/2009/0603/2395.js"></script>
+</ul>
+</div>
+<!-- Middle end -->
+</div>
+<div class="P_Right">
+<!-- Right begin -->
+<h2 class="Title_r01">
+<span class="title" style="padding-top:0;"><span style="font:bold 14px Arial"><a href="http://slide.sports.sina.com.cn/?cate=24" target="_blank">美丽高尔夫</a></span> </span>
+</h2>
+<div class="blk_05">
+<div class="pic">
+<a href="http://slide.sports.sina.com.cn/golf/slide_2_754_38743.html/d/2" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t160/2012_49/754_866721_166669.jpg" width="77" height="51" alt="美女大片" /></a>
+<p><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_38743.html/d/2" target="_blank">美女大片</a></p>
+</div>
+<div class="pic">
+<a href="http://slide.sports.sina.com.cn/golf/slide_2_754_38560.html/d/2" target="_blank"><img src="http://i1.sinaimg.cn/dy/slidenews/2_t160/2012_48/754_863965_634253.jpg" width="77" height="51" alt="五彩杆头套" /></a>
+<p><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_38560.html/d/2" target="_blank">五彩杆头套</a></p>
+</div>
+<div class="pic">
+<a href="http://slide.sports.sina.com.cn/golf/slide_2_754_38119.html/d/2" target="_blank"><img src="http://i3.sinaimg.cn/ty/2012/1213/U364P6DT20121213161858.jpg" width="77" height="51" alt="高尔夫裸奔" /></a>
+<p><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_38119.html/d/2" target="_blank">高尔夫裸奔</a></p>
+</div>
+<div class="pic">
+<a href="http://slide.sports.sina.com.cn/golf/slide_2_754_38103.html/d/2" target="_blank"><img src="http://i0.sinaimg.cn/ty/2012/1213/U364P6DT20121213161859.jpg" width="77" height="51" alt="漂亮女友" /></a>
+<p><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_38103.html/d/2" target="_blank">漂亮女友</a></p>
+</div>
+<div class="pic">
+<a href="http://slide.sports.sina.com.cn/golf/slide_2_754_33723.html/d/2" target="_blank"><img src="http://i1.sinaimg.cn/dy/slidenews/2_t160/2012_34/754_785558_995718.jpg" width="77" height="51" alt="女子高尔夫" /></a>
+<p><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_33723.html/d/2" target="_blank">女子高尔夫</a></p>
+</div>
+<div class="pic">
+<a href="http://slide.sports.sina.com.cn/golf/slide_2_754_30478.html/d/2" target="_blank"><img src="http://i1.sinaimg.cn/dy/slidenews/2_t160/2012_28/754_745108_956009.jpg" width="77" height="51" alt="魏圣美" /></a>
+<p><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_30478.html/d/2" target="_blank">魏圣美</a></p>
+</div>
+<div class="pic">
+<a href="http://slide.sports.sina.com.cn/golf/slide_2_754_30239.html/d/2" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t160/2012_27/754_741158_742733.jpg" width="77" height="51" alt="热吻" /></a>
+<p><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_30239.html/d/2" target="_blank">热吻</a></p>
+</div>
+<div class="pic">
+<a href="http://slide.sports.sina.com.cn/golf/slide_2_754_28459.html/d/2" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t160/2012_22/754_711291_788337.jpg" width="77" height="51" alt="伍兹儿时" /></a>
+<p><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_28459.html/d/2" target="_blank">伍兹儿时</a></p>
+</div>
+<div class="pic">
+<a href="http://slide.sports.sina.com.cn/golf/slide_2_754_25132.html/d/2" target="_blank"><img src="http://i3.sinaimg.cn/ty/2012/1213/U364P6DT20121213162013.jpg" width="77" height="51" alt="伍兹的情妇" /></a>
+<p><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_25132.html/d/2" target="_blank">伍兹的情妇</a></p>
+</div>
+</div>
+<div class="sp_h10"></div>
+<h2 class="Title_r01">
+<span class="title">专题策划</span>
+<span class="more"><a href="url" target="_blank"></a></span></h2>
+<ul class="list_009" style1="style1"><table width="287" height="80" border="0">
+<tr>
+<td>&nbsp;&nbsp;<a href="http://sports.sina.com.cn/golf/golfzj2012/" target="_blank">2012年高尔夫盘点</a></td>
+<td></td></tr></table><li><a href="http://sports.sina.com.cn/golf/woodschehuo/" target="_blank">伍兹性丑闻回顾</a></li>
+
+<tr>
+<td>&nbsp;&nbsp;<a href="http://sports.sina.com.cn/golf/cgm/" target="_blank">中国高尔夫媒体联盟</a></td>
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/tigervsrory/" target="_blank" class="style2">伍兹VS麦克罗伊对抗赛</a></li>
+
+<tr>
+<td>&nbsp;&nbsp;<a href="http://sports.sina.com.cn/golf/golfaac/" target="_blank">亚太业余高尔夫锦标赛</a></td>
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/golfzlh/" target="_blank">球会总经理联谊会</a></li>
+
+<tr>
+<td>&nbsp;&nbsp;<a href="http://sports.sina.com.cn/golf/mhwcpa2012/" target="_blank">2012观澜湖世界明星赛</a></td>
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/bmwmasters/" target="_blank">2012年BMW大师赛</a></li>
+
+<tr>
+<td>&nbsp;&nbsp;<a href="http://sports.sina.com.cn/golf/hsbc2012/" target="_blank">2012年汇丰冠军赛</a></td>
+<td></td></tr><li><a href="http://sports.sina.com.cn/golf/srixonxxioladies2012/" target="_blank">SRIXON-XXIO公开赛</a></li>
+
+<tr>
+<td>&nbsp;&nbsp;<a href="http://sports.sina.com.cn/golf/augustafemale/" target="_blank">奥古斯塔增添女性会员</a></td>
+</tr>
+
+</ul>
+<!-- Right end -->
+</div>
+<div class="P_Bot"></div>
+</div>
+<!-- PartA end -->
+<div style="margin-top:10px;"></div>
+<style>
+		.main_side{float:left;margin-right:10px}
+.one_row{float:none; margin:0 0 10px}
+.one_row .box_h{background-image:url(http://i1.sinaimg.cn/ty/csl09/h_t.jpg); height:26px; line-height:26px; width:950px}
+.clearfix {zoom: 1;}
+.main_side .box{background-color:#f8f9fe}
+.main_side .box_h{background: transparent url(http://i0.sinaimg.cn/ty/golf/080617/golf_mj_001.gif) no-repeat scroll 100% 0; margin:-1px; line-height:26px;height:26px;}
+.box_c {border:1px solid #d5d9e2;border-top:none;}
+.main_side .box_f{background:url(http://i2.sinaimg.cn/ty/csl09/dot.png) repeat-x 0 0; margin:0 9px; padding:6px 0 10px 0;}
+.pic_index{text-align:right; margin:-28px 59px 0 300px}
+.pic_index a{text-decoration:none; padding:0 8px 0 5px; border-right:solid 1px #e57c7c}
+.photos li img{background:#fff; padding:4px; border:solid 1px #bebebe; margin-bottom:3px;display:block;}
+.photos li{ padding:12px 5.5px 5px;float:left;text-align:center;}
+.photos{ padding-left:5.5px}
+
+.more{font-weight:normal;font-size:12px; float:right}
+.box_h h2{font-weight:bold; line-height:40px; padding:0 45px; font-size:14px;color:#000000;}
+.box_h h2 a{text-decoration:none}
+.box_h{ height:28px}
+
+		</style>
+<div class="clearfix main_side one_row">
+<div class="box">
+<div class="box_h">
+<h2 class="Title_04">精彩图片</h2>
+</div>
+<div class="box_c">
+<ul class="video photos clearfix">
+<div id="sinaMarquee" style="overflow:hidden;zoom:1;">
+</div><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243917" target="_blank"><img src="http://i1.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243917_756661.jpg" height="90" /><span>新人场上互动</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243915" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243915_133304.jpg" height="90" /><span>现场宣誓对爱情忠贞</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243913" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243913_841236.jpg" height="90" /><span>西蒙尼斯与苏珊合影</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243912" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243912_998425.jpg" height="90" /><span>甜蜜的吻不可少</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243908" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243908_798857.jpg" height="90" /><span>牵手一生的承诺</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243905" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243905_873791.jpg" height="90" /><span>汽车旁合影</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243903" target="_blank"><img src="http://i3.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243903_717182.jpg" height="90" /><span>默契的眼神交流</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243902" target="_blank"><img src="http://i0.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243902_742896.jpg" height="90" /><span>两人很认真地对待</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243901" target="_blank"><img src="http://i1.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243901_768126.jpg" height="90" /><span>交换戒指</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243900" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243900_657185.jpg" height="90" /><span>共同面对神圣时刻</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243899" target="_blank"><img src="http://i0.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243899_111086.jpg" height="90" /><span>等待最幸福的时刻来临</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243898" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243898_623782.jpg" height="90" /><span>八届欧巡奖金王</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243897" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243897_429424.jpg" height="90" /><span>有聊不完的话题</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243896" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243896_225818.jpg" height="90" /><span>永远的雪茄王</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243895" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243895_667929.jpg" height="90" /><span>一起走向幸福</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243894" target="_blank"><img src="http://i1.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243894_924633.jpg" height="90" /><span>雪茄王深情的吻</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_65026.html?img=1243893" target="_blank"><img src="http://i0.sinaimg.cn/dy/slidenews/2_t500/2014_19/754_1243893_827257.jpg" height="90" /><span>新人接受亲朋好友祝福</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64784.html?img=1240272" target="_blank"><img src="http://i0.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1240272_498816.jpg" height="90" /><span>果岭傲然挺立</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64784.html?img=1240271" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1240271_113086.jpg" height="90" /><span>瞄准果岭出击</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64784.html?img=1240270" target="_blank"><img src="http://i3.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1240270_764965.jpg" height="90" /><span>浓浓绿意</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64784.html?img=1240269" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1240269_858986.jpg" height="90" /><span>球场美景</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64784.html?img=1240268" target="_blank"><img src="http://i0.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1240268_120596.jpg" height="90" /><span>水意绵绵缠绕</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64731.html?img=1239565" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1239565_779639.jpg" height="90" /><span>准备开球</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64731.html?img=1239564" target="_blank"><img src="http://i1.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1239564_415416.jpg" height="90" /><span>训练转体</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64731.html?img=1239563" target="_blank"><img src="http://i2.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1239563_377985.jpg" height="90" /><span>训练平衡感</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64731.html?img=1239562" target="_blank"><img src="http://i0.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1239562_544490.jpg" height="90" /><span>平衡球练习</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64731.html?img=1239561" target="_blank"><img src="http://i1.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1239561_782249.jpg" height="90" /><span>练习转体拉伸</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64731.html?img=1239560" target="_blank"><img src="http://i3.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1239560_342819.jpg" height="90" /><span>练习身体肌肉</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64731.html?img=1239559" target="_blank"><img src="http://i0.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1239559_468491.jpg" height="90" /><span>练习腹部肌肉</span></a></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64731.html?img=1239558" target="_blank"><img src="http://i3.sinaimg.cn/dy/slidenews/2_t500/2014_18/754_1239558_250881.jpg" height="90" /><span>金鸡独立</span></a></li>
+</ul></div>
+<script language="javascript">
+			//&lt;![CDATA[
+			var sinaScroll=function(obj,scrollLength,scrollTime){      //scrollLength:步长  ,scrollTime 间隔时间
+				var obj=typeof(obj)=="string"?document.getElementById(obj):obj;
+				obj.style.overflow="hidden";
+				obj.style.width=obj.offsetWidth+"px";
+				this.marqueeDiv=document.createElement("div");
+				this.marqueeDiv.style.width="30000px";
+				this.marqueeDiv.style.overflow="hidden";
+				this.marqueeDiv.style.zoom="1";
+				this.marqueeData1=document.createElement("div");
+				this.marqueeData2=document.createElement("div");
+				this.marqueeData1.innerHTML=obj.innerHTML;
+				this.marqueeData2.innerHTML=obj.innerHTML;
+				obj.innerHTML="";
+				this.marqueeData1.style.styleFloat="left";//ie
+				this.marqueeData1.style.cssFloat="left";//ff
+				this.marqueeData2.style.styleFloat="left";
+				this.marqueeData2.style.cssFloat="left";
+				this.marqueeData1.style.zoom="1";
+				this.marqueeData2.style.zoom="1";
+				this.marqueeData1.style.overflow="hidden";
+				this.marqueeData2.style.overflow="hidden";
+				obj.appendChild(this.marqueeDiv);
+				this.marqueeDiv.appendChild(this.marqueeData1);
+				this.marqueeDiv.appendChild(this.marqueeData2);
+				var scroll=function(){
+
+					if (obj.scrollLeft+scrollLength&gt;=marqueeData1.scrollWidth)
+					{
+						obj.scrollLeft=obj.scrollLeft+scrollLength-marqueeData1.scrollWidth;
+					}
+					else
+					{
+						obj.scrollLeft+=scrollLength;
+					}
+				}
+				var intervalId=setInterval(scroll,scrollTime);
+				obj.onmouseover=function(){
+					clearInterval(intervalId);
+				}
+				obj.onmouseout=function(){
+					intervalId=setInterval(scroll,scrollTime);
+				}
+			}
+			sinaScroll("sinaMarquee",2,50);
+			//]]&gt;
+			</script>
+
+</div>
+</div>
+</div>
+<div class="blk_07" style="display:none;">
+<h2 class="Title_01">
+<span class="title">图片</span>
+<span class="more"><a href="http://sports.sina.com.cn/golf/2009chinagolfnews/" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="b_cont">
+<table cellspacing="0">
+<tr>
+<td><a href="http://sports.sina.com.cn/golf/p/2012-12-17/11446342052.shtml" target="_blank"><img src="http://i0.sinaimg.cn/ty/golf/p/2012-12-17/U6083P6T12D6342052F168DT20121217114414_small.jpg" border="1" /></a></td><td><a href="http://sports.sina.com.cn/golf/p/2012-12-13/14466336586.shtml" target="_blank"><img src="http://i0.sinaimg.cn/ty/golf/p/2012-12-13/U6083P6T12D6336586F168DT20121213144654_small.jpg" border="1" /></a></td><td><a href="http://sports.sina.com.cn/golf/2012-12-11/11526333339.shtml" target="_blank"><img src="http://i1.sinaimg.cn/ty/golf/2012-12-11/U6083P6T12D6333339F168DT20121211115202_small.JPG" border="1" /></a></td><td><a href="http://sports.sina.com.cn/golf/p/2012-11-26/15336312586.shtml" target="_blank"><img src="http://i1.sinaimg.cn/ty/golf/p/2012-11-26/U6605P6T12D6312586F168DT20121126153358_small.jpg" border="1" /></a></td><td><a href="http://sports.sina.com.cn/golf/p/2012-11-11/14216291730.shtml" target="_blank"><img src="http://i1.sinaimg.cn/ty/golf/p/2012-11-11/U6940P6T12D6291730F168DT20121111142128_small.jpg" border="1" /></a></td><td><a href="http://sports.sina.com.cn/golf/p/2012-09-25/18216239283.shtml" target="_blank"><img src="http://i3.sinaimg.cn/ty/golf/p/2012-09-25/U2010P6T12D6239283F168DT20120925182103_small.jpg" border="1" /></a></td><td><a href="http://sports.sina.com.cn/golf/p/2012-09-25/11376238910.shtml" target="_blank"><img src="http://i2.sinaimg.cn/ty/golf/p/2012-09-25/U6940P6T12D6238910F168DT20120925113742_small.jpg" border="1" /></a></td>
+</tr>
+</table>
+</div>
+</div>
+<div class="PartB">
+<div class="P_Left">
+<!-- Left begin -->
+<h2 class="Title_02">
+<span class="title">国内新闻</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/1/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-05-08/19177155574.shtml" target="_blank">重庆国际高尔夫俱乐部会员嘉宾邀请赛华美上演</a> <span class="date">(08日 19:17)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-08/19127155573.shtml" target="_blank">重庆队际赛第2场：力帆首战甲级赛 对垒常青藤鹰队</a> <span class="date">(08日 19:12)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-07/17207154158.shtml" target="_blank">2014Titleist福建省青少年高球赛福州海峡站成绩</a> <span class="date">(07日 17:20)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-07/16147154119.shtml" target="_blank">小风:中国高球男子不如女子 打好国际赛需认真思考</a> <span class="date">(07日 16:14)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-05/11417150825.shtml" target="_blank">2014美国女子公开赛区域资格赛中国站球员阵容公布</a> <span class="date">(05日 11:41)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-04/17197149077.shtml" target="_blank">带上爱人打高尔夫！ 让女士走进球场需策略方法</a> <span class="date">(04日 17:19)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-04/16167149014.shtml" target="_blank">四月苏州太湖高尔夫球会 高尔夫与品牌的盛宴</a> <span class="date">(04日 16:16)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-04/14447148836.shtml" target="_blank">女子中巡奖金榜前三选手将直通2015美国女子公开赛</a> <span class="date">(04日 14:44)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-03/15167147220.shtml" target="_blank">高尔夫地产地段选择三标准 旅游目的要区别对待</a> <span class="date">(03日 15:16)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-30/10067143148.shtml" target="_blank">沃尔沃赛球星们怎么过比赛周 吴阿顺和朋友聚餐</a> <span class="date">(30日 10:06)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-30/09567143127.shtml" target="_blank">北京公布水价阶梯调整方案 高尔夫被纳入特殊行业</a> <span class="date">(30日 09:56)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-30/09177143040.shtml" target="_blank">王均豪谈高尔夫中庸之道 准备打一辈子高尔夫球</a> <span class="date">(30日 09:17)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/19407142343.shtml" target="_blank">2014首届深圳高尔夫球队际公开赛正式启动</a> <span class="date">(29日 19:40)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/12367141885.shtml" target="_blank">WGC西双版纳站圆满落幕 全球总决赛嘉宾现场助阵</a> <span class="date">(29日 12:36)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/08517141406.shtml" target="_blank">浙江公布禁止用地项目榜单 禁高尔夫球场赛马场</a> <span class="date">(29日 08:51)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-28/17197140836.shtml" target="_blank">五一假期好去处 去北京泰格高尔夫俱乐部练球</a> <span class="date">(28日 17:19)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-28/11487140337.shtml" target="_blank">高尔夫职业首冠成关键字 五位选手上周实现突破</a> <span class="date">(28日 11:48)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-28/11037140220.shtml" target="_blank">花恬水饮氧携手八家球会 为高尔夫球友增添动力</a> <span class="date">(28日 11:03)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-28/09437139976.shtml" target="_blank">广西泛北部湾高尔夫球会合作联盟总经理论谈结束</a> <span class="date">(28日 09:43)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-28/09157139943.shtml" target="_blank">花恬饮用水杯接力腾麒杯 百余爱好者逐鹿上海旭宝</a> <span class="date">(28日 09:15)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-27/14507138834.shtml" target="_blank">中韩十佳俱乐部对抗赛雨战狮子湖 中国大胜雪前耻</a> <span class="date">(27日 14:50)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-26/19327137640.shtml" target="_blank">花恬青少年旭宝站第一轮 许钧翔/叶雷领先男女A组</a> <span class="date">(26日 19:32)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-26/18557137556.shtml" target="_blank">中韩十佳高尔夫俱乐部对抗赛 中国队13:7赢韩国队</a> <span class="date">(26日 18:55)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-24/17157134791.shtml" target="_blank">第四届中韩十佳俱乐部对抗赛决战清远狮子湖</a> <span class="date">(24日 17:15)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-24/16457134763.shtml" target="_blank">橡树谷杯美国赛七月再开启 欢迎国内少年球员报名</a> <span class="date">(24日 16:45)</span></li></ul>
+</div>
+<!-- Left end -->
+</div><div class="P_Right">
+<!-- Right begin -->
+<h2 class="Title_02">
+<span class="title">高球花边</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/3/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-05-08/10547155025.shtml" target="_blank">唐纳德与乌修仁扮海盗 英格兰绅士判若两人(图)</a> <span class="date">(08日 10:54)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-06/17417152733.shtml" target="_blank">奥运冠军邢傲伟险一杆进洞 赢豪车就差0.5英尺(图)</a> <span class="date">(06日 17:41)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-06/08467151949.shtml" target="_blank">50岁西蒙尼斯第三次结婚 婚礼隆重不比年轻人逊色</a> <span class="date">(06日 08:46)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-05/09567150492.shtml" target="_blank">演员王志飞迷恋高尔夫运动 晚宴上为女球友颁奖</a> <span class="date">(05日 09:56)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-03/09447146785.shtml" target="_blank">小麦23岁未婚妻沃兹流露母爱 想当年轻妈妈带孩子</a> <span class="date">(03日 09:44)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_64731.html" target="_blank">高清图-鲍琳娜比基尼演示热身法 助你提高球技</a> <span class="date">(29日 10:35)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-28/12057140360.shtml" target="_blank">伍兹与前妻和女友一同现身 传各携新欢聚会(图)</a> <span class="date">(28日 12:05)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-25/15517136081.shtml" target="_blank">球迷无节操吐槽西蒙尼斯：他曾和金正日打球赢了</a> <span class="date">(25日 15:51)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-24/10167134176.shtml" target="_blank">美媒：伍兹前妻和林赛成好友 一起喝酒相谈甚欢</a> <span class="date">(24日 10:16)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-24/08547133902.shtml" target="_blank">回忆被埋没的女性先锋：贝弗莉从记者转投高尔夫</a> <span class="date">(24日 08:54)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-21/15297130009.shtml" target="_blank">歌后碧昂斯穿比基尼打高尔夫 赢百万粉丝赞誉(图)</a> <span class="date">(21日 15:29)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-19/08057125781.shtml" target="_blank">高尔夫球飞入美国机场造成安全隐患 警察努力追凶</a> <span class="date">(19日 08:05)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-17/14597123780.shtml" target="_blank">满文军为巴巴落泪 看大师赛受益连赢宋柯陈道明</a> <span class="date">(17日 14:59)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214633" target="_blank">图文-高尔夫明星推特精选 夏安-伍兹：庆祝首胜</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214635" target="_blank">图文-高尔夫明星推特精选 伊万：与伍兹一起剪裁</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214634" target="_blank">图文-高尔夫明星推特精选 鸭子与高尔夫美女主播</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214628" target="_blank">图文-高尔夫明星推特精选 罗斯：美妙的日本料理</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214629" target="_blank">图文-高尔夫明星推特精选 美女相伴</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214632" target="_blank">图文-高尔夫明星推特精选 魏圣美：路上的生活</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214630" target="_blank">图文-高尔夫明星推特精选 汤普森：小玩法</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214627" target="_blank">图文-高尔夫明星推特精选 卢克：伊恩引领复古潮流</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214625" target="_blank">图文-高尔夫明星推特精选 简森-戴伊秀恩爱</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214624" target="_blank">图文-高尔夫明星推特精选 加西亚：做鸡肉沙拉</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214623" target="_blank">图文-高尔夫明星推特精选 古尔比斯性感惹火</a> <span class="date">(16日 17:03)</span></li><li><a href="http://slide.sports.sina.com.cn/golf/slide_2_754_48475.html?img=1214621" target="_blank">图文-高尔夫明星推特精选 福勒：享受水上运动</a> <span class="date">(16日 17:03)</span></li></ul>
+</div>
+<!-- Right end -->
+</div><div class="P_Bot"></div>
+</div><div class="PartB">
+<div class="P_Left">
+<!-- Left begin -->
+<h2 class="Title_02">
+<span class="title">海外追踪</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/7/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-04-28/12467140412.shtml" target="_blank">富士产经精英赛：姚宣榆领先五杆实现日巡赛首胜</a> <span class="date">(28日 12:46)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-20/17107128196.shtml" target="_blank">日巡赛东建杯宫里优作夺冠 吴阿顺第19奖金8.2万</a> <span class="date">(20日 17:10)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-17/15517123849.shtml" target="_blank">冯珊珊:见对手比家人多 请朴仁妃再吃烧鹅贺新婚</a> <span class="date">(17日 15:51)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-15/09497119932.shtml" target="_blank">女子世界排名：张玉阳上升2位 日巡冠军埃丝特86位</a> <span class="date">(15日 09:49)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-13/16207117305.shtml" target="_blank">日巡赛第六站张玉阳并列49名 首次收获奖金1.5万</a> <span class="date">(13日 16:20)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-12/16037115807.shtml" target="_blank">日巡赛第六站张玉阳首次晋级 勤劳练习获突破</a> <span class="date">(12日 16:03)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-11/20127114739.shtml" target="_blank">日巡赛第六站张玉阳75杆开局 处在被淘汰边缘</a> <span class="date">(11日 20:12)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-11/19597114732.shtml" target="_blank">皇后杯石昱婷获个人冠军 中国队获团体亚军创历史</a> <span class="date">(11日 19:59)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-11/07367113714.shtml" target="_blank">皇后杯次轮中国队上升暂T2 石昱婷出色单独领先</a> <span class="date">(11日 07:36)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-09/14507111498.shtml" target="_blank">女子日巡赛第六站开打 张玉阳替补进入赛事阵容</a> <span class="date">(09日 14:50)</span></li></ul>
+</div>
+<!-- Left end -->
+</div><div class="P_Right">
+<!-- Right begin -->
+<h2 class="Title_02">
+<span class="title">业余赛事</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/2/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-05-06/15047152585.shtml" target="_blank"> 2014中国国旅高鹏会济州高尔夫首发团圆满结束</a> <span class="date">(06日 15:04)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-04/18067149161.shtml" target="_blank">首届北京业余高尔夫联赛受热捧 5月9日报名截止</a> <span class="date">(04日 18:06)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/17497142269.shtml" target="_blank">棕榈岛高尔夫对抗赛拉开战幕 胡远康获得总杆冠军</a> <span class="date">(29日 17:49)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/17307142252.shtml" target="_blank">太巧了！郭波晚上梦见一杆进洞 次日美“梦”成真</a> <span class="date">(29日 17:30)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/14017141940.shtml" target="_blank">北京业余高尔夫球队争霸赛抽签仪式圆满落幕</a> <span class="date">(29日 14:01)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/08427141385.shtml" target="_blank">花恬饮用水杯 胡长江李艾玲分获男女总杆冠军</a> <span class="date">(29日 08:42)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/01247141070.shtml" target="_blank">10039球学会成立 三国杀高球赛正和岛队包揽双冠</a> <span class="date">(29日 01:24)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-28/17497140857.shtml" target="_blank">2014麦卡伦杯高尔夫巡回赛在上海雅居乐开杆</a> <span class="date">(28日 17:49)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-28/16177140756.shtml" target="_blank">中国高尔夫业余球队联盟筹备会在济州岛举行</a> <span class="date">(28日 16:17)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-28/15107140669.shtml" target="_blank">北京大学国发院高尔夫球会开场杯联谊赛举行</a> <span class="date">(28日 15:10)</span></li></ul>
+</div>
+<!-- Right end -->
+</div><div class="P_Bot"></div>
+</div><div class="PartB">
+<div class="P_Left">
+<!-- Left begin -->
+<h2 class="Title_02">
+<span class="title">青少年赛</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/6/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-05-05/15267151017.shtml" target="_blank">北京十八个家庭欢聚东方天星 举办儿童高尔夫球赛</a> <span class="date">(05日 15:26)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-30/19427143885.shtml" target="_blank">青少年城市对抗南方区将开战 男女混双成致胜关键</a> <span class="date">(30日 19:42)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-30/18177143821.shtml" target="_blank">报名-深圳天穹高尔夫学院青少年赛观澜湖站</a> <span class="date">(30日 18:17)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-24/18047134822.shtml" target="_blank">报名-爱尔兰国际青少年高尔夫赛事 仅剩两名额</a> <span class="date">(24日 18:04)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-16/14397121883.shtml" target="_blank">北京市少年儿童高尔夫巡回赛开始新学期的征程</a> <span class="date">(16日 14:39)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-14/11437118804.shtml" target="_blank">第2届全国青少年高尔夫球城市对抗赛将在金湾打响</a> <span class="date">(14日 11:43)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-11/16577114626.shtml" target="_blank">第二届全国青少年高尔夫球城市对抗赛将打响</a> <span class="date">(11日 16:57)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-07/16047108895.shtml" target="_blank">资讯-棕榈泉学院工坊装备大挑战大奖等你拿！ </a> <span class="date">(07日 16:04)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-07/12127108718.shtml" target="_blank">资讯-花恬饮用水杯业余高尔夫邀请赛(上海站) </a> <span class="date">(07日 12:12)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-07/12117108714.shtml" target="_blank">花恬饮用水杯全年三站 接力腾麒杯四月旭宝开打 </a> <span class="date">(07日 12:11)</span></li></ul>
+</div>
+<!-- Left end -->
+</div><div class="P_Right">
+<!-- Right begin -->
+<h2 class="Title_02">
+<span class="title">球场话题</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/12/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-05-06/17477152737.shtml" target="_blank">金云龙专栏：新西兰的拐子角 世界尽头的球场</a> <span class="date">(06日 17:47)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-06/16217152671.shtml" target="_blank">中国好球场-帕尔默的第二枪 北京叠泉乡村俱乐部</a> <span class="date">(06日 16:21)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-05-06/11337152370.shtml" target="_blank">朝向李昆：被卡住“水瓶颈”的中国高尔夫</a> <span class="date">(06日 11:33)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-30/10577143245.shtml" target="_blank">美国牧场花园高尔夫球场 美国高坛年度体检表</a> <span class="date">(30日 10:57)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/16447142198.shtml" target="_blank">金云龙专栏：难见广野 从二战中复活的百佳球场</a> <span class="date">(29日 16:44)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/16117142174.shtml" target="_blank">中国好球场-漫游云南高尔夫 三个新球场供你选择</a> <span class="date">(29日 16:11)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/14037141942.shtml" target="_blank">旅游-寻找高尔夫的别样乐趣 尼泊尔高尔夫之旅</a> <span class="date">(29日 14:03)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/13437141928.shtml" target="_blank">最具可打性新球场-山钦湾、秦皇岛松石和玉龙湾</a> <span class="date">(29日 13:43)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/13337141922.shtml" target="_blank">中国好球场-聚义北京京南高尔夫俱乐部</a> <span class="date">(29日 13:33)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-25/16307136130.shtml" target="_blank">余钢：中国高尔夫球场南北地区的不同 南柔北犷</a> <span class="date">(25日 16:30)</span></li></ul>
+</div>
+<!-- Right end -->
+</div><div class="P_Bot"></div>
+</div><div class="PartB">
+<div class="P_Left">
+<!-- Left begin -->
+<h2 class="Title_02">
+<span class="title">高球产业</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/5/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-05-02/16517146286.shtml" target="_blank">投资者报：宝马、高尔夫走出妖魔化的启发</a> <span class="date">(02日 16:51)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/18107142294.shtml" target="_blank">Titleist尊贵配件系列 手工制作高性能限量发行</a> <span class="date">(29日 18:10)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-21/15307130010.shtml" target="_blank">新款Titleist轻量级全功能球包 为严谨的球友而设</a> <span class="date">(21日 15:30)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-21/15037129977.shtml" target="_blank">Odyssey全新“巡航坦克”推杆 定制你的专属平衡</a> <span class="date">(21日 15:03)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-20/15187128031.shtml" target="_blank">中国高尔夫职业经理人代表团亮相新加坡经理人会议</a> <span class="date">(20日 15:18)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-19/12137126062.shtml" target="_blank">舒行新体验挥享新乐趣 Crocs推出2014高尔夫系列</a> <span class="date">(19日 12:13)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-15/09237119862.shtml" target="_blank">高尔夫会籍选购小贴士 注重实用性选最适合自己的</a> <span class="date">(15日 09:23)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-11/15517114563.shtml" target="_blank">进口高尔夫球具要缴多少税 球具为何被征收高税</a> <span class="date">(11日 15:51)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-11/15427114558.shtml" target="_blank">高尔夫运动对经济的推动 了解世界高尔夫球场</a> <span class="date">(11日 15:42)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-09/10307111031_2.shtml" target="_blank">海南高尔夫拿什么留住球友 提供高品质培养忠诚度</a> <span class="date">(09日 10:30)</span></li></ul>
+</div>
+<!-- Left end -->
+</div><div class="P_Right">
+<!-- Right begin -->
+<h2 class="Title_02">
+<span class="title">俱乐部月例赛</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/13/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-04-18/11087124838.shtml" target="_blank">精品《GOLF STYLE》会员日北京都市名人圆满落幕</a> <span class="date">(18日 11:08)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-11-22/17476898121.shtml" target="_blank">长涛-美岭湖杯中国商界精英邀请赛在白石岭收杆</a> <span class="date">(22日 17:47)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-11-22/16496898067.shtml" target="_blank">“正中十载 感恩有你”正中高尔夫11月会员邀请赛</a> <span class="date">(22日 16:49)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-06-18/12176625924.shtml" target="_blank">2013麦卡伦杯高尔夫巡回赛第三站上海太阳岛开杆</a> <span class="date">(18日 12:17)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-06-18/11506625897.shtml" target="_blank">2013丹巴渡父子同心高尔夫邀请赛在东莞举行</a> <span class="date">(18日 11:50)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-06-18/11066625846.shtml" target="_blank">二百高尔夫会员邀请赛(北京站)举行 严俊夺冠军</a> <span class="date">(18日 11:06)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-06-18/10346625808.shtml" target="_blank">苏州太湖国际高尔夫俱乐部夏季会员杯圆满收杆</a> <span class="date">(18日 10:34)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-04-12/16016515203.shtml" target="_blank">资讯-2013别克中国高球俱乐部联赛南一区比赛通知</a> <span class="date">(12日 16:01)</span></li><li><a href="http://sports.sina.com.cn/golf/2012-12-27/14356355165.shtml" target="_blank">2012正中高尔夫会员年度总决赛 刘笑70杆夺冠</a> <span class="date">(27日 14:35)</span></li><li><a href="http://sports.sina.com.cn/golf/2012-12-19/17136345172.shtml" target="_blank">厦门鹭岛女子队12月年终赛 郑卫银86杆获总杆冠军</a> <span class="date">(19日 17:13)</span></li></ul>
+</div>
+<!-- Right end -->
+</div><div class="P_Bot"></div>
+</div><div class="PartB">
+<div class="P_Left">
+<!-- Left begin -->
+<h2 class="Title_02">
+<span class="title">高尔夫球队赛</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/14/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-04-03/14597103729.shtml" target="_blank">旅游卫视直通英国赛邀请赛落幕 张永春77杆夺冠</a> <span class="date">(03日 14:59)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-01-20/14156989514.shtml" target="_blank">厦门鹭岛女子高尔夫球队2014开杆赛在东方举行</a> <span class="date">(20日 14:15)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-12-30/11036958638.shtml" target="_blank">厦门鹭岛女子高尔夫球队会长杯举行 张芳颖夺冠</a> <span class="date">(30日 11:03)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-12-08/15376923479.shtml" target="_blank">上海全明星高尔夫球队成立赛即将在苏州太湖举行</a> <span class="date">(08日 15:37)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-11-29/21426909735.shtml" target="_blank">旅游卫视高尔夫精英球队决赛 江南队再度卫冕</a> <span class="date">(29日 21:42)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-11-29/21086909697.shtml" target="_blank">厦门鹭岛女子高尔夫球队11月份例赛开启上海之旅</a> <span class="date">(29日 21:08)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-11-06/10416870869.shtml" target="_blank">2013首都媒体队高尔夫封场赛举行 王俊79杆夺冠</a> <span class="date">(06日 10:41)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-10-22/12386843619.shtml" target="_blank">厦门鹭岛女子高尔夫球队十月例赛 李雪芬夺冠</a> <span class="date">(22日 12:38)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-10-01/15436810219.shtml" target="_blank">厦门鹭岛高尔夫女子队9月例赛在东方球场鏖战</a> <span class="date">(01日 15:43)</span></li><li><a href="http://sports.sina.com.cn/golf/2013-09-30/10296808655.shtml" target="_blank">全明星高尔夫球队九月月赛 李翰均75杆赢总杆冠军</a> <span class="date">(30日 10:29)</span></li></ul>
+</div>
+<!-- Left end -->
+</div><div class="P_Right">
+<!-- Right begin -->
+<h2 class="Title_02">
+<span class="title">高球资讯</span><span class="more"><a href="http://roll.sports.sina.com.cn/s_2009chinagolfnews_all/4/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h2>
+<div class="blk_08">
+<div class="PicList"></div>
+<ul><li><a href="http://sports.sina.com.cn/golf/2014-05-01/16377145213.shtml" target="_blank">至尊旅程-日本印象之初夏游走 名古屋/三重/京都</a> <span class="date">(01日 16:37)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-30/17117143712.shtml" target="_blank">高尔夫交友平台约球正式推出”陪打/教球“专栏</a> <span class="date">(30日 17:11)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-30/16137143652.shtml" target="_blank">资讯-深高教学中心暑期赴美高尔夫赛事训练营</a> <span class="date">(30日 16:13)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/18527142318.shtml" target="_blank">第11届观澜湖高尔夫马拉松 决赛总冠军获邀明星赛</a> <span class="date">(29日 18:52)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-29/14027141941.shtml" target="_blank">优惠-天津滨海森林球会套餐 2场球1630元起</a> <span class="date">(29日 14:02)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-20/18207128305.shtml" target="_blank">耐克高尔夫4月球场搭配速览 大师征程新装上阵</a> <span class="date">(20日 18:20)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-20/18127128292.shtml" target="_blank">资讯-绍兴鉴湖高尔夫球会新推4-6月优惠</a> <span class="date">(20日 18:12)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-19/12467126091.shtml" target="_blank">甄子丹新片《冰封侠》神器在观澜湖酒店展出</a> <span class="date">(19日 12:46)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-17/15237123813.shtml" target="_blank">报名-金意陶杯桃园高尔夫八周年庆会员联谊赛</a> <span class="date">(17日 15:23)</span></li><li><a href="http://sports.sina.com.cn/golf/2014-04-16/11287121704.shtml" target="_blank">资讯-北京业余高尔夫联赛赛制 32支球队角逐</a> <span class="date">(16日 11:28)</span></li></ul>
+</div>
+<!-- Right end -->
+</div><div class="P_Bot"></div>
+</div>
+<!-- 竞技风暴 footer begin -->
+<div class="footer">
+<p><a href="mailto:golfchannel@sina.com" target="_blank">高尔夫频道投稿信箱</a>　联系赛事合作：010-62675681 联系广告业务：010-58983695　欢迎批评指正</p>
+<br />
+<p><a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://emarketing.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="https://login.sina.com.cn/signup/signup.php">通行证注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a></p>
+<br />
+<p>Copyright <span style="font-family:Arial;">&copy;</span> 1996-2014 SINA Corporation, All Rights Reserved</p>
+<br />
+<p>新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a></p>
+<p>北京网通提供网络带宽</p>
+</div>
+<!-- 竞技风暴 footer end -->
+
+<script type="text/javascript">
+(function(){
+    if(window.top !== window.self || window._thereIsNoRealTimeMessage){return};
+    var script = document.createElement('script');
+    script.setAttribute('charset', 'gb2312');
+    script.src = 'http://news.sina.com.cn/js/694/2012/0830/realtime.js?ver=1.5.1';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&amp;")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&amp;":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c&lt;d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&amp;":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g&gt;5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d&lt;c){o={retcode:6203}}else{if(d-h+m&gt;c){o={retcode:6110}}else{if(d-c&gt;p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+<!-- Start  Wrating  -->
+<script language="javascript">
+var wrUrl="//sina.wrating.com/";var wrDomain="sina.com.cn";var wratingDefaultAcc="860010-0323010000";var wratingAccArray={"2012.sina.com.cn":"860010-0308150000","torch.2008.sina.com.cn":"860010-0308070000","video.sina.com.cn":"860010-0309010000","ent.sina.com.cn":"860010-0312010000","tech.sina.com.cn":"860010-0313010000","mobile.sina.com.cn":"860010-0313020000","house.sina.com.cn":"860010-0315010000","bj.house.sina.com.cn":"860010-0315020000","auto.sina.com.cn":"860010-0316010000","eladies.sina.com.cn":"860010-0317010000","woman.sina.com.cn":"860010-0317010000","games.sina.com.cn":"860010-0318010000","edu.sina.com.cn":"860010-0307010000","baby.sina.com.cn":"860010-0320010000","astro.sina.com.cn":"860010-0321020000","news.sina.com.cn":"860010-0310010000","weather.news.sina.com.cn":"860010-0310020000","mil.news.sina.com.cn":"860010-0310030000","www.sina.com.cn":"860010-0322010000","home.sina.com.cn":"860010-0322010000","sports.sina.com.cn":"860010-0308010000","shidefc.sina.com.cn":"860010-0308020000","weiqi.sina.com.cn":"860010-0308030000","f1.sina.com.cn":"860010-0308040000","golf.sina.com.cn":"860010-0308050000","2002.sina.com.cn":"860010-0308060000","2004.sina.com.cn":"860010-0308060000","2006.sina.com.cn":"860010-0308060000","2008.sina.com.cn":"860010-0308070000","yayun2002.sina.com.cn":"860010-0308060000","yayun2006.sina.com.cn":"860010-0308060000","book.sina.com.cn":"860010-0319010000","cul.book.sina.com.cn":"860010-0319020000","comic.book.sina.com.cn":"860010-0319030000","finance.sina.com.cn":"860010-0314010000","money.sina.com.cn":"860010-0314020000","yue.sina.com.cn":"860010-0324010000","www.sina.com":"860010-0322010000"};function vjTrack(){var U=1800;var T=false;var S=false;var R="";var Q="0";var P="";var N;var L;var K;var J;var I;var H="expires=Fri, 1 Jan 2038 00:00:00 GMT;";var G=0;if(document.location.protocol=="file:"){return }T=navigator.cookieEnabled?"1":"0";S=navigator.javaEnabled()?"1":"0";var F="0";var E;var C=-1;var D=document.cookie;if(T=="1"){C=D.indexOf("vjuids=");if(C&lt;0){E=vjVisitorID();document.cookie="vjuids="+escape(E)+";"+H+";domain="+wrDomain+";path=/;";if(document.cookie.indexOf("vjuids=")&lt;0){T="0"}else{Q="1"}}else{E=vjGetCookie("vjuids")}}L=document.referrer;if(!L||L==""){L=""}R=vjFlash();if(self.screen){N=screen.width+"x"+screen.height+"x"+screen.colorDepth}else{if(self.java){var M=java.awt.Toolkit.getDefaultToolkit();var O=M.getScreenSize();N=O.width+"x"+O.height+"x0"}}if(navigator.language){K=navigator.language.toLowerCase()}else{if(navigator.browserLanguage){K=navigator.browserLanguage.toLowerCase()}else{K="-"}}I="";var B;var X;X=new Date();J=X.getTimezoneOffset()/-60;J=X.getTimezoneOffset()/-60;B="&amp;s="+N+"&amp;l="+K+"&amp;z="+J+"&amp;j="+S+"&amp;f="+R;if(T=="1"){C=document.cookie.indexOf("vjlast=");if(C&lt;0){G=0}else{G=parseInt(vjGetCookie("vjlast"))}}if((X.getTime()/1000)-G&gt;U){F="1";document.cookie="vjlast="+Math.round(X.getTime()/1000)+";"+H+";domain="+wrDomain+";path=/;"}if(L!=""){B=B+"&amp;r="+escape(L)}if(F!="0"){B=B+"&amp;n="+G}if(Q!="0"){B=B+"&amp;u="+Q}var V;var A=vjGetAcc();var W=vjGetDomain();V=wrUrl+"a.gif?a="+X.getTime().toString(16)+"&amp;t="+escape(I)+"&amp;i="+escape(E)+"&amp;b="+escape(document.location)+"&amp;c="+A+B+"&amp;ck="+W;document.write('&lt;img src="'+V+'" width="1" height="1" style="visibility:hidden;position:absolute;left:0px;top:0px;z-index:-1"  /&gt;')}function vjGetAcc(){var B=document.location.toString().toLowerCase();var C=(B.split("/"))[2];var A=wratingAccArray[C];if(typeof (A)=="undefined"){A=wratingDefaultAcc}return A}function vjFlash(){var _wr_f="-",_wr_n=navigator;if(_wr_n.plugins&amp;&amp;_wr_n.plugins.length){for(var ii=0;ii&lt;_wr_n.plugins.length;ii++){if(_wr_n.plugins[ii].name.indexOf("Shockwave Flash")!=-1){_wr_f=_wr_n.plugins[ii].description.split("Shockwave Flash ")[1];break}}}else{if(window.ActiveXObject){for(var ii=10;ii&gt;=2;ii--){try{var fl=eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+ii+"');");if(fl){_wr_f=ii+".0";break}}catch(e){}}}}return _wr_f}function vjHash(B){if(!B||B==""){return 0}var D=0;for(var C=B.length-1;C&gt;=0;C--){var A=parseInt(B.charCodeAt(C));D=(D&lt;&lt;5)+D+A}return D}function vjVisitorID(){var B=vjHash(document.location+document.cookie+document.referrer).toString(16);var A;A=new Date();return B+"."+A.getTime().toString(16)+"."+Math.random().toString(16)}function vjGetCookieVal(B){var A=document.cookie.indexOf(";",B);if(A==-1){A=document.cookie.length}return unescape(document.cookie.substring(B,A))}function vjGetCookie(C){var B=C+"=";var F=B.length;var A=document.cookie.length;var E=0;while(E&lt;A){var D=E+F;if(document.cookie.substring(E,D)==B){return vjGetCookieVal(D)}E=document.cookie.indexOf(" ",E)+1;if(E==0){break}}return null}function vjGetDomain(){var A=0;try{if(window.self.parent!=self){var D=/sina.com/i;var C=document.location.toString().toLowerCase();var B=parent.location.toString().toLowerCase();if(D.test(C)&amp;&amp;D.test(B)){A=1}}}catch(e){A=1}return A}vjTrack();
+</script>
+<!-- End Wrating-->
+</body>
+</html>

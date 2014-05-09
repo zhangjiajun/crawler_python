@@ -1,0 +1,1523 @@
+<!DOCTYPE HTML>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>盘龙OL_新浪游戏_新浪网</title>
+<meta name="keywords" content="看游戏,好玩的网络游戏,网络游戏排行,游戏视频,直播,新手卡,封测,内测,高清游戏直播,测试时间,新游戏直播,在线视频,面对面视频游戏" />
+<meta name="description" content="游戏好玩还是不好玩，看看就知道了！新浪游戏“看游戏”！新浪游戏看游戏是一个向游戏玩家提供游戏产品视频的平台,旨在帮助玩家能够通过视频更直观的了解游戏的画面、操作与玩法。" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="stencil" content="PGLS004261" />
+<!--[if IE 6]&gt;
+			&lt;script src="/gtv/static/js/DD_belatedPNG_0.0.8a.js?version201405071418"&gt;&lt;/script&gt;
+			&lt;script src="/gtv/static/js/100.js?version201405071418"&gt;&lt;/script&gt;
+			&lt;![endif]-->
+<link href="http://www.sina.com.cn/favicon.ico" rel="shortcut icon" />
+<script type="text/javascript" src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=1812753147" charset="utf-8"></script>
+<script type="text/javascript" src="/gtv/static/js/JQueryPlugin/jquerymin.js?version201405071418"></script>
+<script type="text/javascript" src="/gtv/static/js/ActiveTab.js?version201405071418"></script>
+<script language="javascript" src="/gtv/static/js/cookies.js?version201405071418"></script>
+<script language="javascript" src="/gtv/static/js/ajax_follow.js?version201405071418"></script>
+<script type="text/javascript" src="/gtv/static/js/floating.js?version201405071418" charset="utf-8"></script>
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_m_v629.js?version201405071418"></script>
+<link href="http://image2.sina.com.cn/gm/t_img/kangame/css/css.css?version201403181121" rel="stylesheet" type="text/css" />
+<link href="http://image2.sina.com.cn/gm/t_img/kangame/css/geren2.css?version201403181121" rel="stylesheet" type="text/css" />
+<link href="http://image2.sina.com.cn/gm/t_img/kangame/css/zhifu.css?version201403181121" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<!-- 频道标准头 begin -->
+<!-- 频道标准头 begin -->
+<style type="text/css">
+    body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,fieldset,lengend,button,input,textarea,th,td {margin:0;padding:0}
+    .knavgation .maike {width:57px; height:58px; background:#778899; margin:0 5px;float:right;background:url(http://image2.sina.com.cn/gm/t_img/kangame/images/20140211/navigation.gif) -225px -155px no-repeat;position:relative;cursor:pointer;z-index:9}
+    .knavgation .login {margin:0 15px 0 5px;float:right;overflow:hidden;height:58px;line-height:58px}
+    .knavgation .login li {float:left;text-align:center}
+    .knavgation .dele_style.show  {background-color:#343333}
+    .knavgation .dele_style.hide  {background-color:#222121}
+    .knavgation .maike .arrow, .knavgation .kankan .arrow  {background:url(http://image2.sina.com.cn/gm/t_img/kangame/images/20140211/navigation.gif)  no-repeat 0 -496px;width:7px;height:4px;position:absolute;right:5px;top:25px}
+    .knavgation{height:58px; background:#222121;border-bottom:2px solid #F93E2B;position:relative;z-index:9999}
+    .knavgation a{font:16px "微软雅黑",Helvetica,Arial,sans-serif}
+    .knavgation a:link,.knavgation a:visited{color:#ebebed}
+    .knavgation a:hover {color:#fb4d53}
+    .navinerbox{width:980px;height:100%;position:relative; margin:0 auto}
+    .navinerbox .sina {height:100%;position:absolute; top:0; left:0;width:188px}
+    .navinerbox .sina a {text-indent:-9999px;background:url(http://image2.sina.com.cn/gm/t_img/kangame/images/20140211/new_logo.jpg) left center no-repeat;display:block;height:100%}
+    .txt{width:auto;height:100%;line-height:58px;position:absolute;margin-left:180px;overflow:hidden;}
+    .txt li{ float:left; padding:0 5px; line-height:58px;}
+    .searchbox{width:174px; height:30px; float:right; margin-top:14px;background:#ededed;overflow:hidden;}
+    .searchbox input.ipt{width:144px;height:30px;border:0;background:none;color:#a8a8a8;display:block;float:left;font:14px "微软雅黑",Helvetica,Arial,sans-serif}
+    .searchbox .sbn{ width:30px;height:30px;background:url(http://image2.sina.com.cn/gm/t_img/kangame/images/20140211/navigation.gif) -202px 0 no-repeat;display:block;float:right}
+    .searchbox a.sbn:hover{background-position:0 bottom}
+    .knavgation .dele_style ul {height:auto;position:absolute;z-index:99;top:58px;right:0px;padding:10px 10px 5px 0;border:1px solid #3a3a3a;border-top:0;box-shadow:0 3px 3px rgba(0,0,0,.5)}
+    .knavgation .dele_style ul li {width:100%;height:33px;font-size:0.875em;line-height:33px; text-indent:42px;white-space:nowrap}
+    .knavgation .searchbox a.sbn:hover{background-position: -202px -30px}
+    .knavgation .maike ul{background:url(http://image2.sina.com.cn/gm/t_img/kangame/images/20140211/navigation.gif) no-repeat 15px -282px #343333}
+    .maike li{height:32px;font-size:0.875em;line-height:32px; text-indent:42px}
+    .knavgation .kankan {width:57px; height:58px;margin:0;float:right;cursor:pointer}
+    .knavgation .kankan ul {background:#343333}
+    .knavgation .kankan li {background:url('http://image2.sina.com.cn/gm/t_img/kangame/images/20140211/navigation.gif') no-repeat #343333}
+    .knavgation .kankan .li1 {background-position:15px -210px}
+    .knavgation .kankan .li2 {background-position:15px -85px}
+    .knavgation .kankan .li3 {background-position:15px -116px}
+    .knavgation .kankan .li4 {background-position:15px -148px}
+    .knavgation .kankan .li5 {background-position:15px -180px}
+    .kankan li{width:130px;height:32px;font-size:0.875em;line-height:32px; text-indent:42px}
+    .knavgation .dele_style.hide ul {display:none}
+    .knavgation .dele_style.show ul {display:block}
+    
+    .W_layer{color: #333;text-decoration: none;}
+    .W_layer .bg {padding: 3px;border-radius: 4px;	background: url("http://img1.t.sinajs.cn/t5/style/images/common/layer_bg.png") repeat;}
+    #login_div table {	border-collapse: collapse;	border-spacing: 0;}
+    #login_div tbody {display: table-row-group;vertical-align: middle;order-color: inherit;}
+    .W_layer .content {	position: relative;background: #fff;border: 1px solid #ccc;	border-radius: 2px;}
+    .layer_login .info_login {color: #808080;	margin: 0 0 13px;}
+    .info_login{padding: 0;}
+    .W_layer .title {background: #f2f2f2;height: 30px;	line-height: 30px;font-weight: 700;	padding: 0 0 0 20px;font-size: 12px;vertical-align: middle;}
+    .W_layer .W_close {	position: absolute;	z-index: 2;	right: 17px;top: 6px;}
+    .W_close {display: inline-block;width: 25px;height: 25px;background: url("http://img.t.sinajs.cn/t5/style/images/common/icon.png?id=1373421647871") no-repeat -75px -200px;	_background-image: url("http://img.t.sinajs.cn/t5/style/images/common/icon.gif?id=1373421647871");}
+    .layer_login {width: 500px;	min-height: 200px;	_height: 200px;	padding: 15px 20px;	background: url("http://img1.t.sinajs.cn/t5/style/images/register/login_bg_vline.png?id=1370232467958") no-repeat 280px 20px;_position: relative;}
+    .clearfix:after {content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+    .layer_login .ly_loginright {float: left;padding: 30px 0 0;	margin: 0 0 0 30px;}
+    .layer_login .ly_loginright .p1 {font-size: 22px;font-style: italic;font-family: "microsoft yahei","Microsoft Yahei";}
+    .layer_login .ly_loginright .p2 {font-size: 16px;font-style: italic;font-family: "microsoft yahei","Microsoft Yahei";margin: 5px 0 10px;}
+    .layer_login .W_login_form {width: 250px;display: block;}
+    .layer_login .otherlogin {padding: 5px 0 0;margin: 0;}
+    #login_div p {	display: block;	-webkit-margin-before: 1em;	-webkit-margin-after: 1em;-webkit-margin-start: 0px;-webkit-margin-end: 0px;}
+    .W_login_form .info_list {margin: 0 0 15px;line-height: 30px;}
+    .W_login_form .right {float: right;margin-right: 40px;_margin-right: 18px;_margin-top: -3px;}
+    .W_login_form .info_list .icon_ask {vertical-align: middle;margin-left: 3px;color: #0a8cd2;background-position: 0 -150px;}
+    .icon_ask, .icon_askS {background-position: 0 -150px;}
+    .icon_error, .icon_del, .icon_succ, .icon_warn, .icon_ask, .icon_rederror, .icon_errorS, .icon_delS, .icon_succS, .icon_warnS, .icon_askS, .icon_rederrorS, .icon_errorM, .icon_delM, .icon_succM, .icon_warnM, .icon_questionM, .icon_rederrorM, .icon_errorB, .icon_delB, .icon_succB, .icon_warnB, .icon_questionB, .icon_rederrorB, .icon_promptS, .icon_noticeS {
+        width: 16px;
+        height: 16px;
+        background: url("http://img1.t.sinajs.cn/t5/style/images/common/ico_warn.png?id=1370232467958");
+        _background: url("http://img1.t.sinajs.cn/t5/style/images/common/ico_warn.gif?id=1370232467958");
+        margin: 0 3px 0 0;
+        overflow: hidden;
+        display: inline-block;
+    }
+    .W_checkbox, .W_radio {vertical-align: -2px;_vertical-align: -3px;margin-right: 3px;}
+    #login_div a:focus,#login_div input,#login_div textarea {outline-style: none;}
+    .W_layer a, .W_layer .S_link1, .W_layer .S_func1:hover, .W_layer .SW_fun:hover .S_func1 {color: #0a8cd2;}
+    .layer_login .ly_loginright .btn_reg:hover {text-decoration: none;background-position: 0 -40px;}
+    .layer_login .ly_loginright .btn_reg {background: url("http://img.t.sinajs.cn/t5/style/images/register/btn_register.png?id=1370232467958") no-repeat;	width: 149px;
+        height: 39px;
+        display: inline-block;
+        line-height: 39px;
+        color: #fff;
+        font-weight: bold;
+        font-size: 14px;
+        text-align: center;
+    }
+    .clearfix {display: block;zoom:1}
+    .layer_login .ly_loginleft {float: left;width: 280px;}
+    .W_login_form .info_list .W_btn_g span {min-width: 49px;_width: 49px;}
+    .W_btn_g {background-position: 0 -780px;}
+    .W_btn_g:hover span, .W_btn_g_current span {background-position: right -330px;}
+    .W_btn_e,.w_btn_g, .W_btn_e span, .W_btn_f, .W_btn_f span, .W_btn_g, .W_btn_g span, .W_btn_e_disable, .W_btn_e_disable span, .W_btn_f_disable, .W_btn_f_disable span, .W_btn_g_disable, .W_btn_g_disable span {
+        cursor: pointer;
+        display: inline-block;
+        background: url("http://img1.t.sinajs.cn/t5/style/images/common/bg_btn.png?id=1370232524894") no-repeat;
+        _background-image: url("http://img1.t.sinajs.cn/t5/style/images/common/bg_btn.gif?id=1370232524894");
+
+        padding: 0 0 0 2px;
+        height: 30px;
+        line-height: 29px;
+        line-height: 30px\9;
+        overflow: hidden;
+    }
+    .W_login_form .password {background-position: 0 -50px;}
+    .username input{
+        width:165px;
+        height:28px;
+        background:none;
+    }
+    .W_login_form .username, .W_login_form .password {
+        width: 165px;
+        padding-left: 39px;
+        padding-right: 4px;
+        border: 1px solid #ccc;
+        border-radius: 2px;
+        height: 28px;
+        vertical-align: middle;
+        color: #808080;
+        -webkit-box-shadow: 1px 1px 1px 0px #eaeaea inset;
+        -moz-box-shadow: 1px 1px 1px 0px #eaeaea inset;
+        box-shadow: 1px 1px 1px 0px #eaeaea inset;
+        background-image: url("http://img1.t.sinajs.cn/t5/style/images/register/form_login.png?id=1370232467958");
+        _background-image: url("http://img1.t.sinajs.cn/t5/style/images/register/form_login.gif?id=1370232467958");
+        background-repeat: no-repeat;
+        position: relative;
+    }
+    #login_div .W_input{
+        font-size : 12px;
+        width: 165px;
+        height: 28px;
+        line-height:28px;
+        background: none;
+        padding:0 2px 0 0;
+        border:0;
+        background:#fff;
+        position:absolute;
+        top:0;
+    }
+    #door.W_input {
+        position: relative;
+    }
+    .W_login_form .username .W_input, .W_login_form .password .W_input, .W_login_form .username .W_input_focus, .W_login_form .username .W_input:focus, .W_login_form .username .W_inputStp:focus, .W_login_form .password .W_input_focus, .W_login_form .password .W_input:focus, .W_login_form .password .W_inputStp:focus {
+        padding-left: 0;
+        -webkit-box-shadow: 0 0 #fff;
+        -moz-box-shadow: 0 0 #fff;
+        box-shadow: 0 0 #fff;
+        border: 1px solid transparent;
+        border-color: transparent !important;
+        _border: none;
+    }
+    .W_login_form .W_input_focus2 {border-color: #FFB941 !important;-webkit-box-shadow: 1px 1px 1px 0px #ddd inset;-moz-box-shadow: 1px 1px 1px 0px #ddd inset;box-shadow: 1px 1px 1px 0px #ddd inset;}
+    .W_login_form .username .enter_psw,
+    .W_login_form .password .enter_psw {
+        line-height: 20px;
+        position: absolute;
+        top: 4px;
+        left: 39px;
+        color: #808080;
+    }
+    .W_login_form .no_reg {margin-top: -8px;}
+    .W_btn_g span, .W_btn_g_disable span {
+        min-width: 49px;
+        text-align: center;
+        padding: 0 16px 0 14px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .W_btn_e, .W_btn_e span, .W_btn_f, .W_btn_f span, .W_btn_g, .W_btn_g span, .W_btn_e_disable, .W_btn_e_disable span, .W_btn_f_disable, .W_btn_f_disable span, .W_btn_g_disable, .W_btn_g_disable span {
+        cursor: pointer;
+        display: inline-block;
+        background: url("http://img1.t.sinajs.cn/t5/style/images/common/bg_btn.png?id=1370232524894") no-repeat;
+        _background-image: url("http://img1.t.sinajs.cn/t5/style/images/common/bg_btn.gif?id=1370232524894");
+        height: 30px;
+        line-height: 29px;
+        line-height: 30px\9;
+        overflow: hidden;
+    }
+    .W_login_form .no_reg_tip {margin-left: 9px;color: #808080;}
+
+    .W_btn_g,.W_btn_g span,.W_btn_e_disable,.W_btn_e_disable span,.W_btn_f_disable,.W_btn_f_disable span,.W_btn_g_disable,.W_btn_g_disable span{cursor:pointer;display:inline-block;background:url("http://img1.t.sinajs.cn/t5/style/images/common/bg_btn.png?id=1370232524894")  no-repeat;_background-image:url("http://img1.t.sinajs.cn/t5/style/images/common/bg_btn.gif?id=1370232524894") ; padding:0 0 0 2px;height:30px; line-height:29px;line-height:30px\9;overflow:hidden;}
+    .W_btn_g span,.W_btn_g_disable span{min-width:49px;text-align:center;padding:0 16px 0 14px; font-size:14px; font-weight:bold;}
+    .W_btn_g,.W_btn_g span,.W_btn_g_disable span{color:#fff;}
+    .W_btn_g:hover,.W_btn_g_current{text-decoration:none;}
+    .W_btn_g{background-position:0 -780px;}
+    .W_btn_g span{background-position:right -810px;}
+    .W_btn_g:hover,.W_btn_g_current{background-position:0 -300px;}
+    .W_btn_g:hover span,.W_btn_g_current span{background-position:right -330px;}
+    .W_btn_a_disable,.W_btn_a_disable:hover,.W_btn_b_disable,.W_btn_b_disable:hover,.W_btn_c_disable,.W_btn_c_disable:hover,.W_btn_d_disable,.W_btn_d_disable:hover,.W_btn_e_disable,.W_btn_e_disable:hover,.W_btn_f_disable,.W_btn_f_disable:hover,.W_btn_g_disable,.W_btn_g_disable:hover,.W_btn_a_disable span,.W_btn_a_disable:hover span,.W_btn_b_disable span,.W_btn_b_disable:hover span,.W_btn_c_disable span,.W_btn_c_disable:hover span,.W_btn_d_disable span,.W_btn_d_disable:hover span,.W_btn_e_disable span,.W_btn_e_disable:hover span,.W_btn_f_disable span,.W_btn_f_disable:hover span,.W_btn_g_disable span,.W_btn_g_disable:hover span{color:#ccc;cursor:default;text-decoration:none;}
+    .W_btn_g_disable,.W_btn_g_disable:hover{background-position:0 -660px;}
+    .W_btn_g_disable span,.W_btn_g_disable:hover span{background-position:right -690px;}
+    .W_btn_g .loading{background:url("http://img1.t.sinajs.cn/t5/style/images/common/loading.gif?id=1370232467958")  no-repeat; float:left; height:15px; margin:3px 4px 0 0; _margin:5px 1px 0 0; width:15px;}.W_btn_e_disable .loading,.W_btn_g .loading{margin:6px 4px 0 0;_margin:8px 0 0 0;}
+    .W_login_form .login_btn .W_btn_g span{padding: 0 80px 0 79px;}
+
+    .W_btn_g, .W_btn_g span, .W_btn_g_disable span {color: #fff;}
+
+    .verify_refresh {
+    background: url("http://img.t.sinajs.cn/t5/style/images/register/verify_refresh.png?id=1370232467958") no-repeat;
+    width: 18px;
+    height: 17px;
+    overflow: hidden;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 7px;
+    }
+    .verify_refresh:hover {
+    background-position: 0 -18px;
+    }
+    .W_login_form .verify * {
+    vertical-align: middle;
+    }
+    .W_login_form .W_input {
+    padding-right: 5px;
+    }
+    .W_login_form .wei_dun input.W_input {
+    width: 142px;
+    padding-left: 5px;
+    margin-right: 8px;
+    _margin-right: 6px;
+    }
+    .W_login_form .wei_dun * {
+    vertical-align: middle;
+    }
+
+    .layer_form_tips .bg {
+    padding: 2px;
+    border-radius: 4px;
+    background: url("http://img2.t.sinajs.cn/t5/style/images/common/layer_bg.png?id=1370232467958") repeat;
+    }
+    .layer_form_tips .content {
+    background: #fffae1;
+    position: relative;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    padding: 5px 20px 5px 5px;
+    }
+    .layer_form_tips .icon_close {
+    position: absolute;
+    right: 6px;
+    top: 6px;
+    }
+    .layer_form_tips .icon_close:hover {
+    background-position: -100px -25px;
+    }
+    .icon_delS {
+    background-position: 0 -50px;
+    }
+    .layer_form_tips .arrow_tips {
+    background: url("http://img2.t.sinajs.cn/t5/style/images/layer/layer_arrow_tips.png?id=1370232467958") no-repeat;
+    width: 10px;
+    height: 8px;
+    bottom: -5px;
+    left: 50%;
+    margin-left: -7px;
+    overflow: hidden;
+    position: absolute;
+    }
+    .W_ico12 {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background-image: url("http://img2.t.sinajs.cn/t5/style/images/common/icon.png?id=1374643393299");
+    _background-image: url("http://img2.t.sinajs.cn/t5/style/images/common/icon.png?id=1374643393299");
+    background-repeat: no-repeat;
+    }
+    .icon_close {
+    background-position: -75px -25px;
+    }
+    @media screen  and (max-width:480px){
+        html { -webkit-text-size-adjust: none}
+        body {width:100%;overflow:hidden;background:none}
+        #login_div img{max-width:100%}
+        .Slide_box,#Ghead,.quick {display:none}
+        #standard_header_channel {height:62px;background-repeat:repeat;width:100%}
+        #TopA,#TopB,#standard_header_return {width:100%;}
+        #TopA_box {height:122px;background:#373737;overflow:hidden}
+        #TopA .logo {padding-top:0;height:50px;padding-left:10px}
+        #TopB_box,#TopB,.TopC_box, .TopC {overflow: hidden}
+        #TopB  a {padding-left:5px;padding-right:5px}
+        #unipro_login_un {width:73px}
+        #search {width:100%;padding:0;margin:0}
+        #search_str {width:50%;padding:0 0 0 5px;margin-left:5px;*width:50%;*zoom:1;background:none;background-color:#EFEFEF}
+        #live-list li,#TopA_box,#Gtrail,#CenterA .ListC li a, #CenterA .ListC li .c_cont,#TopA_box .TopA_box,.TopC_box, .TopC{width:100%}
+        #CenterA  .BoxD,#CenterA .CenterA_box,#CenterB .CenterB_box,#CenterA .BoxC,#CenterA  .ctitle,.TopC ,#Top_Right_box,#Top_Right_box .Top_Right,
+        #Top_Right_box .ftitle,#CenterA .ctitle  {width:100%;padding:0;margin:0;overflow:hidden}
+        #Top_Right_box .newgame {text-align:center}
+        #Top_Right_box .newgame_box {margin-left:0;width:50%;text-align:center}
+        #Top_Right_box .newgame_box .pic {margin:0 auto}
+        #CenterA .ListD,#CenterA .ListC {text-align:center}
+        #CenterA .ListD  li {width:50%; margin:0;padding:0;text-align:center}
+        #CenterA .imgList .ListC {padding:0 5px 20px;font-size:0}
+        #CenterA  .imgList .ListC li {float:none;height:auto;font-size: 12px;letter-spacing: normal;word-spacing: normal;display: inline-block;vertical-align:top}
+        #TopA .links,#CenterB .ListE,#CenterA  #esb,#CenterA  #gameb,.footer_m  {display:none}
+        #TopA  .search {margin:0}
+        #CenterB #live-list {display:block;width:100%;text-align:center}
+        #CenterB #live-list li a {display:block;margin:0 5px}
+        #CenterB .utitle {margin:0 5px}
+        #bc  {background:none}
+        #bc .userb {width:100%;background:none;padding:0}
+        #TopE .box_right,#bc .chata {display:none}
+        #Top_Right_box .forenotice, #Top_Right_box .newgame{margin:0 10px}
+        #bc,#bc .video,#bc .video_box,#TopE .TopE_box,#TopE  .box_left,#bc  .shadowd,#weibo_content {width:100%;margin-left:0;margin-right:0;padding-left:0;padding-right:0}
+        #bc .userb {height:267px}
+        #bc .video_box, #bc .video {height:260px}
+        .TopD_box, .TopD, #bc {height:550px}
+        .TopD_box {margin-bottom:15px}
+        #bc .u_info  {height:170px;padding-left:5px}
+        #TopE .weibob {text-align:center;position: relative;height:102px}
+        #TopE #weibo_content, #TopE .cp, #TopE .swb {margin:0 auto}
+        #TopE .box_left {text-align:center}
+        #bc .ListF  {width:100%;float:left}
+        #weibo_content {width:55%;text-align:left;position: absolute;top:0;left:5px;background:none;border:1px solid #000}
+        #TopE .weibob .cp, #TopE .weibob .swb {margin-right:5px;float:none;position: absolute}
+        #TopE .weibob .cp {top:0;right:0}
+        #TopE .weibob .swb {top:80px;right:0}
+        #TopE .BoxE .title {background:none}
+        #TopE .BoxE .title span {padding-left:10px;background-position:10px 0}
+        #bc .u_sta {float:left;padding-left:5px}
+        #TopE  .BoxE {width:100%}  
+        #TopE  .ListG {text-align:center}
+        #TopE .ListG li {display:inline-block;*zoom:1;*display:inline;vertical-align:middle;letter-spacing:normal;word-spacing:normal;float:none; margin:10px 0 0 0}
+        #TopE .ListG li.last {margin:10px 0 0}
+    }
+</style>
+<!-- 登陆_搜索 begin -->
+<script src="/gtv/static/js/l.js?version201405071418"></script>
+<script language="javascript" src="http://i.sso.sina.com.cn/js/ssologin.js?version201405071418"></script>
+<script type="text/javascript" src="/gtv/static/js/FloatDiv.js?version201405071418"></script>
+<script>
+    $(document).ready(function(){
+        var delay = 200;
+        var allCateTimer = null;
+        
+        function setObjStyle (obj) {
+            if (obj.hasClass('hide')) {
+                obj.removeClass('hide').addClass('show');
+            } else {
+                obj.removeClass('show').addClass('hide');
+            }
+        }
+    
+        $('#knavgation .dele_style').hover(function() {
+            var _that = $(this);
+            allCateTimer = setTimeout(function(){
+                _that.removeClass('hide').addClass('show');
+            }, delay);
+        },
+        function() {
+            var _that = $(this);
+            if(allCateTimer){
+                clearTimeout(allCateTimer);
+            }
+            allCateTimer = setTimeout(function(){
+                _that.removeClass('show').addClass('hide');
+            }, delay);
+        });
+        
+        $('#knavgation').delegate('.dele_style', 'click', function(){
+            setObjStyle($(this));
+        });
+        $('#jumpLogin').click(function(){
+            openFloatDiv('login_div');
+            $('#doorli').hide();
+            $('#tip_div').hide();
+        });
+    });
+</script>
+<div id="knavgation" class="knavgation">
+<div class="navinerbox clearfix">
+<h1 class="sina"><a class="png" href="/">新浪看游戏</a></h1>
+<ul class="txt">
+<li><a href="/">首页</a></li>
+<li><a href="/live/">正在直播</a></li>
+<li><a href="/game/">全部游戏</a></li>
+<li><a href="/hotgirls/">美女秀场</a></li>
+<li><a href="/activity/">精彩活动</a></li>
+<li><a href="/esports/">电竞世界</a></li>
+</ul>
+<ul class="login">
+<li><a href="http://weibo.com/signup/signup.php" target="_blank">注册</a></li>
+<li>|</li>
+<li><a id="jumpLogin" href="javascript:;">登录</a></li>
+</ul>
+<div class="maike dele_style hide">
+<span class="arrow"></span>
+<ul>
+<li><a href="/download/">下载客户端</a></li>
+<li><a href="/download/help/">帮助中心</a></li>
+<li><a href="/act/prize/">奖励计划</a></li>
+</ul>
+</div>
+<form id="videosearch" name="videosearch" method="post" action="/search/" class="searchbox clearfix">
+<input type="hidden" id="search_type" name="type" value="1" />
+<input type="hidden" id="search_page" name="page" value="1" />
+<input type="text" id="search_str" class="s_input ipt" name="search_str" value="您喜欢的游戏或主播..." onfocus="if(this.value=='您喜欢的游戏或主播...') this.value=''" onblur="if(this.value=='') this.value='您喜欢的游戏或主播...'" />
+<a href="javascript:;" class="s_btn sbn" onclick="search_video();"></a>
+</form>
+</div>
+</div>
+<div id="login_div" class="W_layer" node-type="outer" style="display:none;position: absolute; z-index: 10001; text-align: left; top: 169px; left: 345px; visibility: visible;">
+<div class="bg">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div class="content">
+<div class="title" onmousedown="down(event,'login_div')" onmouseup="up()" style="cursor: move;">
+<span node-type="title_content">登录或注册</span>
+</div>
+<a href="javascript:void(0);" class="W_close" title="关闭" onclick='closeFloatDiv("login_div");'></a>
+<div node-type="inner" class="layer_login clearfix" style="width: 500px;">
+<div class="ly_loginleft">
+<p class="info_login">新浪微博、博客、邮箱账号，请直接登录</p>
+<div class="W_login_form" node-type="loginForm">
+<form id="loginlayer" method="post" name="login">
+<div class="info_list">
+<div class="inp username " id="login_name_div">
+<input onkeydown="chkLogin(event)" autocomplete="off" maxlength="128" tabindex="1" id="username" name="username" type="text" class="W_input" value="" onfocus="$('#tip_div').hide();$('#tip_uName').hide();$('#login_name_div').addClass('W_input_focus2')" onblur="if($(this).val()=='') $('#tip_uName').show(); $('#login_name_div').removeClass('W_input_focus2')" onchange="check_prelogin();" />
+<span id="tip_uName" class="enter_psw" onclick="$('#username').focus();">微博账号/博客/邮箱</span>
+</div>
+</div>
+<div class="info_list">
+<div class="inp password " id="login_pwd_div">
+<input id="password" onkeydown="chkLogin(event)" onfocus="$('#tip_div').hide();$('#tip_pwd').hide();$('#login_pwd_div').addClass('W_input_focus2')" onblur='if($(this).val()=="") $("#tip_pwd").show();$("#login_pwd_div").removeClass("W_input_focus2")' maxlength="24" tabindex="2" name="password" type="password" class="W_input" value="" />
+<span id="tip_pwd" class="enter_psw" onclick="$('#password').focus();">请输入密码</span>
+</div>
+</div>
+<div id="doorli" class="info_list" style="display: none;">
+<div class="inp verify">
+<input onkeydown="chkLogin(event)" onfocus="if($(this).val()=='请输入验证码') $(this).val('');$('#tip_div').hide();" onblur="if($(this).val()=='') $(this).val('请输入验证码');" id="door" maxlength="6" tabindex="3" name="verifycode" type="text" class="W_input" value="" style="width: 78px;border: 1px solid #ccc;color: #808080;padding-left: 5px;padding-right: 5px;" />
+<a class="code" href="javascript:void(0);" onclick="chg_door();">
+<img id="doorimg" src="" width="100" height="40" /></a>
+<a class="verify_refresh" href="javascript:void(0);" onclick="chg_door();"></a>
+</div>
+</div>
+<div id="door_weidun" class="info_list" style="display: none;">
+<div class="inp wei_dun">
+<input id="weidun" maxlength="6" tabindex="3" node-type="vsncode" name="vsncode" type="text" class="W_input" value="请输入微盾动态码" style="width: 100px;border: 1px solid #ccc;color: #808080;padding-left: 5px;padding-right: 5px; position: relative;" onkeydown="chkLogin(event)" onfocus="if($(this).val()=='请输入微盾动态码') $(this).val('');$('#tip_div').hide();" onblur="if($(this).val()=='') $(this).val('请输入微盾动态码');" />
+<a target="_blank" node-type="btn_vsncode_recover" href="http://account.weibo.com/forgot/vdun">微盾挂失</a>
+</div>
+</div>
+<div class="info_list clearfix">
+<div class="right">
+<a suda-data="key=tblog_weibologin3&amp;value=click_forgetpwd" target="_blank" node-type="btn_password_recover" href="https://login.sina.com.cn/getpass.html?entry=weibo">忘记密码</a>
+</div>
+<label title="建议在网吧或公共电脑上取消该选项。">
+<input tabindex="5" id="savestate" value="30" checked="checked" node-type="savestate" type="checkbox" class="W_checkbox" />下次自动登录
+                                            </label>
+<a suda-data="key=tblog_weibologin3&amp;value=click_help" action-type="customTip" action-data="content=记不住登录状态，怎么办？" title="记不住登录状态，怎么办？" target="_blank" class="icon_ask" href="http://help.weibo.com/faq/q/85/12524#12524"></a>
+</div>
+<div class="info_list no_reg">
+<a tabindex="6" class="W_btn_g" href="javascript:void(0)" onclick="logintosina();">
+<span>登录</span>
+</a>
+<span class="no_reg_tip">
+                                                还没有帐号？
+                                                <a target="_blank" href="http://weibo.com/signup/signup.php?r=http://kan.sina.com.cn">立即注册！</a>
+</span>
+</div>
+</form>
+</div>
+<p class="otherlogin">
+<a target="_blank" href="http://weibo.com/bind/index.php">使用其他帐号登录</a>
+</p>
+</div>
+<div class="ly_loginright">
+<p class="p1">还没有开通？</p>
+<p class="p2">赶快免费注册一个吧！</p>
+<div>
+<a class="btn_reg" href="http://weibo.com/signup/signup.php?r=http://kan.sina.com.cn">立即免费注册</a>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="tip_div" class="layer_form_tips" style="width: 215px; left: 24px; position: absolute;z-index: 9999;display: none;">
+<div class="bg">
+<div class="content">
+<a href="javascript:void(0)" onclick="$('#tip_div').hide();" class="W_ico12 icon_close"></a>
+<p class="tips" style="margin: 0;padding: 0;">
+<span style="vertical-align: middle;" class="icon_delS"></span>
+<span id="tipMsg"></span>
+</p>
+</div>
+<div class="arrow arrow_tips" id="arrow_tip" style="left: 126px;"></div>
+</div>
+</div>
+</div>
+<!-- 2013-05-18 搜索JS START -->
+<script type="text/javascript">
+	//全局
+	var sina = {
+		$ : function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}},
+		isIE : navigator.appVersion.indexOf("MSIE")!=-1?true:false,
+		addEvent : function(obj,eventType,func){if(obj.attachEvent){obj.attachEvent("on" + eventType,func);}else{obj.addEventListener(eventType,func,false)}},
+		delEvent : function(obj,eventType,func){if(obj.detachEvent){obj.detachEvent("on" + eventType,func)}else{obj.removeEventListener(eventType,func,false)}}
+	};
+</script>
+<!-- 2013-05-18 搜索JS END -->
+<!-- 登陆_搜索 end -->
+<script type="text/javascript">
+			function search_video()
+			{
+				var keyword = $.trim( $('#search_str').val() );
+				if(keyword=='' || keyword=='您喜欢的游戏或主播...'){
+					alert('请输入您喜欢的游戏或主播！');
+					return false;
+				}else if(keyword.length&gt;30){
+					alert('您的搜的名称太长啦！请重新输入！');
+					return false;
+				}else{
+					$('#videosearch').submit();
+				}
+			}
+
+			$(document).ready(function () {
+				$('#search_str').keydown(function(e){
+					if(e.keyCode==13){		search_video();		}
+				});
+			});
+			
+			$(document).ready(function(){
+				$.ajax({
+					async: true,
+					url: "/ajax_fun/get_user_points/"+Math.random(),
+					dataType: "json",
+					data: {},
+					success : function(rs){
+						$("#user_points").html(rs);
+					}
+				});
+			});
+
+			</script>
+<input type="hidden" value="0.0069" name="savestate" id="savestate" />
+<script src="/gtv/static/js/l.js?version201405071418"></script>
+<script src="http://i.sso.sina.com.cn/js/ssologin.js?version201405071418" charset="utf-8"></script>
+<script src="/gtv/static/js/PackDialog.js?version201405071418"></script>
+<link href="http://image2.sina.com.cn/gm/t_img/kangame/css/zhuanqu.css?version201403181121" rel="stylesheet" type="text/css" />
+<link href="http://image2.sina.com.cn/gm/t_img/kangame/css/live.css?version201403181121" rel="stylesheet" type="text/css" />
+<link href="http://image2.sina.com.cn/gm/t_img/kangame/css/chatroomUnive.css?version201403181121" type="text/css" rel="stylesheet" charset="utf-8" />
+<link href="http://image2.sina.com.cn/gm/t_img/kangame/css/chat_zq.css?version201403181121" type="text/css" rel="stylesheet" charset="utf-8" />
+<style type="text/css">
+.card_btn_book_xx{display:block;width:137px;height:30px;margin:0 auto 15px auto; background:url(http://www.sinaimg.cn/gm/kan/kan2014/booking.gif) no-repeat;}
+.card_btn_book_xx:hover{ background-position:-0px -30px}
+</style>
+<script type="text/javascript">
+	var userloginid=0;
+
+	// Define game_flag for AJAX function to take the user card.
+	var game_flag = 'pl';
+	var zq_bg = "http://www.sinaimg.cn/gm/2014/0408/U9766P115DT20140408105554.jpg";
+	var zq_bg_center = "";
+	var component_chat = 'Array';
+	var card_id = '0';
+
+
+	//pengkun3@staff.sina.com.cn  2014-05-04  新手卡模块
+	var game_id;
+	var item_id;
+	var card_left;
+	
+$(document).ready(function(){
+	
+	if($('#card_component_container').attr('usefor') == 'card') {
+	
+		init_card();
+		
+		$('#card_btn_get').click(function() {
+			get_card();
+		});
+	
+		$('#card_btn_book').click(function() {
+			if(userloginid &gt; 0) {
+				book_card();
+			}
+			else {
+				openFloatDiv('login_div');
+			}
+			return false;
+		});
+		
+	}
+		
+	$('.card_copy').click(function(){
+		try{
+			var sn = $(this).parent().find('input').val();
+			window.clipboardData.setData("Text", sn);
+			alert("已复制到剪贴板");
+		}catch(ex){
+			alert("当前浏览不支持剪贴板功能,请手动选中并复制("+sn+")");
+		}
+		return false;
+	});
+
+	/*
+	$('.card_btn').click(function(){
+		if(card_id == 0 || card_id == ''){
+			if($(this).attr('href') != ''){
+				return true;
+			}else{
+				return false;
+			}
+		}
+		$.ajax({
+			async:true,
+			type: "GET",
+			url:  "/ajax_fun/get_freshman_card/"+game_flag,
+			dataType: "json",
+			success: function(rs){
+				if(rs.result){
+					$('.card_bg input').val(rs.data.active_code);
+					$('.card_bg').show(1000);
+				}else{
+					alert(rs.msg);
+				}
+			}
+		});
+		return false;
+	});
+	*/
+
+	if(zq_bg != ''){$('.TopZQ_box .TopZQ').css('background','url("'+zq_bg+'") center top no-repeat');}
+	if(zq_bg_center != ''){$('.TopZQ_box .TopZQ .zq_bc').css('background','url("'+zq_bg_center+'") center top no-repeat');}
+
+	$('#password').keydown(function(e){
+		if(e.keyCode==13){ $('.loginbtn a').click(); }
+	}); 
+});
+
+
+//pengkun3@staff.sina.com.cn  2014-05-04 新手卡初始化
+function init_card() {
+	if(card_id == 0 || card_id == ''){
+		if($('#card_btn_jump').attr('href') != '' &amp;&amp; $('#card_btn_jump').attr('href') != undefined){
+			$('#card_btn_jump').show();
+			$('#card_btn_book').hide();
+			$('#card_btn_get').hide();
+		}else{
+			return false;
+		}
+	}
+	else {
+		$.ajax({
+			async:true,
+			type:'GET',
+			url:'/ajax_fun/zq_card_info/' + game_flag + '?r=' + Math.random(),
+			dataType:'json',
+			success: function(r) {
+				if(r.result) {
+					game_id = r.data.game_id;
+					item_id = r.data.item_id;
+					card_left = r.data.card_left;
+					if(card_left == 0){
+						$('#card_btn_book').show();
+						$('#card_btn_get').hide();
+						$('#card_btn_jump').hide();
+					}
+					else {
+						$('#card_btn_book').hide();
+						$('#card_btn_get').show();
+						$('#card_btn_jump').hide();
+					}
+				}
+				else {
+					alert(r.msg);
+				}
+			}
+			
+		});
+	}
+}
+
+
+//获取新手卡
+function get_card() {
+	$.ajax({
+		async:true,
+		type: "GET",
+		url:  "/ajax_fun/zq_get_card/" + item_id + '?r=' + Math.random(),
+		dataType: "json",
+		success: function(rs){
+			if(rs.result){
+				//$('#card_btn_book').hide();
+				//$('#card_btn_get').hide();
+				//$('#card_btn_jump').hide();
+				$('.card_bg input').val(rs.data.active_code);
+				$('.card_bg').show(1000);
+			}else{
+				alert(rs.msg);
+			}
+		}
+	});
+	return false;	
+}
+
+
+//预订新手卡
+function book_card() {
+	$.ajax({
+		async:true,
+		type: "GET",
+		url:  "/ajax_fun/zq_book_card/" + game_id + '/' + item_id + '?r=' + Math.random(),
+		dataType: "json",
+		success: function(rs){
+			if(rs.result){
+				alert('您已预订成功，请注意接收新手卡中心的通知。');;
+			}else if(rs.msg == 'need_login'){
+				openFloatDiv('login_div');
+			}else {
+				alert(rs.msg);
+			}
+		}
+	});
+	return false;	
+}
+</script>
+<!------TopDbegin----->
+<div class="TopZQ_box">
+<div class="TopZQ">
+<div class="zq_bc">
+<!------用户资料区begin----->
+<div class="userzq">
+<div class="u_info">
+<div class="zq_pic"> <img src="http://www.sinaimg.cn/gm/2014/0408/U9766P115DT20140408105556.jpg" /> </div>
+<ul class="ListF">
+<li class="t1"><strong>盘龙OL</strong></li>
+<li class="t2">
+							录像信息：小坤儿邀你一起玩盘龙[16;00---18;00]
+						</li>
+<li class="t2"><span>播放录像</span> <em class="i_camera"></em> <span></span> </li>
+</ul>
+</div>
+<div class="u_sta">
+<div class="zq_btn"><a href="http://register.sdo.com/register/index?appId=100003000&amp;areaId=200" class="zq_reg" target="_blank"></a><a target="_blank" href="http://pl.sdo.com/web2013/download.asp" class="zq_down"></a><a target="_blank" href="http://ka.sina.com.cn/12061" class="zq_cards"></a><a target="_blank" href="http://games.sina.com.cn/panlong/index.shtml" class="zq_center"></a></div>
+</div>
+</div>
+<!------用户资料区end----->
+<!------直播视频begin----->
+<div class="video">
+<!------------------------ 播放器 ------------------------>
+<style type="text/css">
+    .video_box { height:480px;}
+    .displayn {display:none}
+    .kan_dialog {position: fixed ;_position: absolute;left:50%;top:50%;z-index:9999}
+    .T_qus {width:358px; height:308px; background:#2f2f2f; border:1px solid #000000;margin-left:-179px;margin-top:-154px}
+    .T_qus_o {height:84px;margin-top:42px}
+    .T_qus_o p {padding:30px 0;line-height:24px;font-size:16px;color:#fff;text-align:center}
+    .T_qus .T_qus_nav {width:338px; padding:0px 0 0px 20px; height:31px; background:#212121;position:relative}
+    .T_qus .T_qus_nav span {display:block; width:100px; height:31px; float:left; color:#cfcdce; font-size:16px; padding-left:24px; font-family:"微软雅黑"!important; line-height:30px; vertical-align:middle; background:url(http://image2.sina.com.cn/gm/t_img/kangame/images/20140211/Q_img.jpg) left center no-repeat}
+    .T_qus a.close_feed_back {display:block; width:32px; height:32px; background:url("http://image2.sina.com.cn/gm/t_img/kangame/images/20140211/gift_close.png") no-repeat; float:right}
+    .T_qus .T_qus_con {width:318px; padding:15px 20px 15px 20px}
+    .T_qus .q_1 {width:318px; overflow:hidden}
+    .T_qus .q_2 {width:318px; padding:10px 0 10px 0; overflow:hidden}
+    .T_qus .q_3 {width:318px; padding:0 0 10px 0; overflow:hidden}
+    .T_qus .q_3 p {display:block; width:318px; padding:0; margin:0; color:#9f9b9a; height:32px; line-height:32px; vertical-align:middle}
+    #form1 {display:block; padding:0; margin:0}
+    #form1 label {display:block; width:96px; height:22px; float:left; line-height:22px; vertical-align:middle; color:#797979}
+    #form1 label input {display:block; width:12px; height:12px; margin:4px 8px 3px 0px; padding:0; float:left}
+    .T_qus .q_tex {display:block; width:294px; padding:0px 12px 0px 12px; height:29px; line-height:28px; vertical-align:middle; background:#000; border:0; color:#797979}
+    .T_qus .q_tex2 {margin-bottom:8px}
+    .T_qus .button_jb {display:block; border:none;width:91px; margin:0 auto; height:28px; line-height:26px; vertical-align:middle; text-align:center; font-size:14px; color:#fff; font-family:"微软雅黑"!important; background:url(http://image2.sina.com.cn/gm/t_img/kangame/images/20140211/button.jpg) 0 0 no-repeat}
+    .T_qus a.button_jb:link,a.button_jb:visited {background-position:0 0}
+    .T_qus a.button_jb:active {background-position:0 -28px}
+    .T_qus a.button_jb:hover {background-position:0 -56px}
+    .T_qus .error {font-size:13px;color:#fff;text-align:center}
+</style>
+<div class="kan_dialog T_qus T_qus_o displayn" id="over_feed_back">
+<p></p>
+</div>
+<div class="T_qus kan_dialog displayn" id="feed_back">
+<div class="T_qus_nav clearfix">
+<span>问题反馈</span>
+<a href="" target="_blank" class="close_feed_back"></a>
+</div>
+<div class="T_qus_con">
+<form id="form1" name="form1" method="post" action="">
+<input type="hidden" name="" value="" />
+<p class="q_1">
+<label>
+<input type="radio" name="fd_type" value="1" id="Q_1_0" checked="true" />
+                        画面卡顿
+                    </label>
+<label>
+<input type="radio" name="fd_type" value="2" id="Q_1_1" />
+                        无限缓冲
+                    </label>
+<label>
+<input type="radio" name="fd_type" value="3" id="Q_1_2" />
+                        信号中断
+                    </label>
+<label>
+<input type="radio" name="fd_type" value="4" id="Q_1_3" />
+                        违规内容
+                    </label>
+<label>
+<input type="radio" name="fd_type" value="5" id="Q_1_4" />
+                        其他
+                    </label>
+</p>
+<div class="q_2">
+<input name="profile" class="q_tex" type="text" data="请对反馈的问题进行补充描述" value="请对反馈的问题进行补充描述" size="80" maxlength="100" />
+</div>
+<div class="q_3">
+<p>请留下您的联系方式，方便我们更好地聆听您的建议！</p>
+<input id="radio_qq" name="qq" class="q_tex2 q_tex" type="text" data="您可以留下您的QQ号码..." value="您可以留下您的QQ号码..." size="80" maxlength="100" />
+<input id="radio_mail" name="email" class="q_tex2 q_tex" type="text" data="您可以留下您的电子邮箱..." value="您可以留下您的电子邮箱..." size="80" maxlength="100" />
+</div>
+<a href="#" class="button_jb">提交</a>
+<p id="error_mail" class="error displayn">请输入正确的电子邮件地址！</p>
+<p id="error_qq" class="error displayn">请输入正确的QQ号码</p>
+</form>
+</div>
+</div>
+<script type="text/javascript" src="/gtv/static/js/embedSWF.js?version201405071418"></script>
+<script type="text/javascript" src="/gtv/static/js/cookies.js?version201405071418"></script>
+<div class="video_box">
+<div id="player_showbox" class="video_box player_showbox"></div>
+<script type="text/javascript">
+                    embedSWF('player_showbox', {
+                        src: '/gtv/static/js/VideoGame.swf?t=201404211802',
+                        wmode : "transparent",
+                        flashvars : "tvid=2908171&amp;tag=pl&amp;autoPlay=1&amp;ModeOpen=0&amp;TroubleBut=1&amp;ukey="+getUkey(),
+                        allowfullscreen : "true",
+                        allowFullScreenInteractive : "true",
+                        allowscriptaccess : "always",
+                        bgcolor : "#000000"
+                        //,version: '12.0'
+                    });
+				</script>
+</div>
+<script type="text/javascript">
+        function openFeedback(opt1, opt2) {
+            var feedDialog = $('#feed_back');
+            if (!feedDialog.hasClass('displayn')) {
+                return;
+            }
+            feedDialog.find('input[type="hidden"]').attr('name',opt1).val(opt2);
+            feedDialog.removeClass('displayn');
+        }
+        $(document).ready(function(){
+            var feedDialog = $('#feed_back');
+            var feedDialogO = $('#over_feed_back');
+            var subBtn = feedDialog.find('.button_jb');
+            var inputTxt = feedDialog.find('.q_tex');
+            feedDialog.find('.close_feed_back').click(function(e){
+                e.preventDefault();
+                feedDialog.addClass('displayn');  
+                inputTxt.each(function(){
+                    $(this).val($(this).attr('data'));
+                });
+            });
+            
+            inputTxt.focus(function(){
+                if($(this).val() === $(this).attr('data')) {
+                    $(this).val('');
+                }
+            }).blur(function(){
+                if($(this).val() === '') {
+                    $(this).val($(this).attr('data'));
+                }
+            });
+            
+            subBtn.click(function(e) {
+                var len=document.form1.fd_type.length;
+                var flag = false;
+                var reg2 = /^[\w-]+(\.[\w-]+)*@([\w-]+\.)+[a-zA-Z]+$/;
+                var reg1 = /^[1-9]\d{4,10}$/;
+                var span1 = $('#error_qq');
+                var span2 = $('#error_mail');
+                var serStr = '';
+                e.preventDefault();
+
+                if(reg1.test($('#radio_qq').val()) || $('#radio_qq').val() === '您可以留下您的QQ号码...') {
+                    span1.addClass('displayn');
+                } else {
+                    span1.removeClass('displayn');
+                    return;
+                }
+
+                if(reg2.test($('#radio_mail').val()) || $('#radio_mail').val() === '您可以留下您的电子邮箱...') {
+                    span2.addClass('displayn');
+                } else {
+                    span2.removeClass('displayn');
+                    return;
+                }
+                serStr = decodeURIComponent($('#form1').serialize()).replace('请对反馈的问题进行补充描述', '').replace('您可以留下您的QQ号码...', '').replace('您可以留下您的电子邮箱...', '');
+                $.ajax({
+                    type : 'POST',
+                    dataType : 'json',
+                    cache : false,
+                    url : '/ajax_fun/live_feedback',
+                    data : serStr,
+                    success:function(msg){
+                        if (msg) {
+                            inputTxt.each(function(){
+                                $(this).val($(this).attr('data'));
+                            });
+                            feedDialog.addClass('displayn'); 
+                            feedDialogO.find('p').html(msg.msg).end().removeClass('displayn'); 
+                            setTimeout(function(){feedDialogO.addClass('displayn');},2000);
+                        }
+                    }
+                })
+            });
+        })
+     
+     </script>
+<!------组件begin------>
+<div class="chata" id="chat_style2">
+<div class="chatbox">
+<div class="switch">
+<ul id="tab11">
+<li class="on"><a href="javascript:;"><em class="anchor_icon"></em>主播</a></li>
+<li class=""><a href="javascript:;"><em class="chat_icon"></em>聊天</a></li>
+<li class=""><a href="javascript:;"><em class="schedule_icon"></em>预告</a></li>
+</ul>
+</div>
+<div id="cont_tab" style=" ">
+<div>
+<div class="anchor">
+<div class="TBM_img"><a href="http://weibo.com/tuzituzi5520" target="_blank"><img src="http://www.sinaimg.cn/gm/2013/1126/U174P5053DT20131126162627.jpg" /></a></div>
+<div class="TBM_h1 TB_font1"><a href="http://weibo.com/u/1523867155/home" target="_blank">坤儿</a></div>
+<ul class="TBM_ul">
+<li>昵称:坤儿</li>
+<li>生日:12.15</li>
+<li>星座:射手座</li>
+<li>血型:0</li>
+<li>身高:163cm</li>
+<li>体重:45kg</li>
+<li>三围:87-62-89</li>
+</ul>
+<p>coser、模特、邻家妹妹类型的美女主播  </p>
+<div class="TBM_a">
+</div>
+</div>
+</div>
+<!--chat-->
+<div>
+<script type="text/javascript">
+		var hornuid=0;
+		var is_receive_chat=0;
+		var my$ = function(id){ return document.getElementById(id);};
+		var sys_msg = "欢迎来到盘龙OL直播间";
+		var my_room_id = "400492";
+	</script>
+<script src="/gtv/static/js/chat/baseMerge.js?version201405071418" charset="utf-8"></script>
+<script src="/gtv/static/js/chat/chatroomunUnive_zq.js?version201405071418" charset="utf-8"></script>
+<script src="/gtv/static/js/chat/kan_ui101_zq.js?version201405071418" charset="utf-8"></script>
+<script type="text/javascript">
+		window.KanLiao = {} ;
+		//管理员 9 , 主播 1
+		window.KanLiao.AAdmin =  {"a492":1};
+		document.domain="sina.com.cn";
+		var wuc_chatroom;
+
+		wuc_chatroom = new WUCChatroom({chatRoomId:my_room_id,chatRoomName:'',logGroupName:'',autoOpen:{display:true},displayChatroomRight: {display:false}},'');
+		wuc_chatroom.setVisitorMaxSendcountPerMinu(-1) ;
+		wuc_chatroom.setChatroomSize(306,450);
+
+		if(component_chat == '') $('#ucChatDiv').hide();
+	</script>
+<div class="cover"></div>
+<div class="notice">
+<p><em>[房间公告]：</em>欢迎来到盘龙OL直播间</p>
+</div>
+<div id="ucChatDiv"></div>
+<div class="propline clearfix pay_gift" id="giftlist">
+<div class="option">
+<a href="javascript:void(0);" class="feel" node-type="face"></a>
+<div class="emotion" style="display:none;z-index:9999;">
+<ul class="FaceList">
+<li title="{织}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/41/zz2_thumb.gif" /></a></li>
+<li title="{神马}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/60/horse2_thumb.gif" /></a></li>
+<li title="{浮云}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/bc/fuyun_thumb.gif" /></a></li>
+<li title="{给力}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/c9/geili_thumb.gif" /></a></li>
+<li title="{围观}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/f2/wg_thumb.gif" /></a></li>
+<li title="{威武}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/70/vw_thumb.gif" /></a></li>
+<li title="{熊猫}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/6e/panda_thumb.gif" /></a></li>
+<li title="{兔子}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/81/rabbit_thumb.gif" /></a></li>
+<li title="{奥特曼}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/bc/otm_thumb.gif" /></a></li>
+<li title="{囧}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/15/j_thumb.gif" /></a></li>
+<li title="{互粉}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/89/hufen_thumb.gif" /></a></li>
+<li title="{礼物}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/c4/liwu_thumb.gif" /></a></li>
+<li title="{呵呵}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/eb/smile.gif" /></a></li>
+<li title="{嘻嘻}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/c2/tooth.gif" /></a></li>
+<li title="{哈哈}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/6a/laugh.gif" /></a></li>
+<li title="{可爱}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/9c/tz_org.gif" /></a></li>
+<li title="{可怜}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/af/kl_org.gif" /></a></li>
+<li title="{挖鼻屎}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/b6/kbs_org.gif" /></a></li>
+<li title="{吃惊}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/f4/cj_org.gif" /></a></li>
+<li title="{害羞}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/05/shame_org.gif" /></a></li>
+<li title="{挤眼}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/c3/zy_thumb.gif" /></a></li>
+<li title="{闭嘴}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/29/bz_org.gif" /></a></li>
+<li title="{鄙视}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/71/bs2_org.gif" /></a></li>
+<li title="{爱你}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/7e/love.gif" /></a></li>
+<li title="{泪}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/d8/sad.gif" /></a></li>
+<li title="{偷笑}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/7e/hei_org.gif" /></a></li>
+<li title="{亲亲}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/8f/qq_org.gif" /></a></li>
+<li title="{生病}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/b6/sb_org.gif" /></a></li>
+<li title="{太开心}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/58/mb_org.gif" /></a></li>
+<li title="{懒得理你}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/17/ldln_org.gif" /></a></li>
+<li title="{右哼哼}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/98/yhh_org.gif" /></a></li>
+<li title="{左哼哼}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/6d/zhh_org.gif" /></a></li>
+<li title="{嘘}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/a6/x_org.gif" /></a></li>
+<li title="{衰}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/af/cry.gif" /></a></li>
+<li title="{委屈}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/73/wq_org.gif" /></a></li>
+<li title="{吐}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/9e/t_org.gif" /></a></li>
+<li title="{打哈气}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/f3/k_org.gif" /></a></li>
+<li title="{抱抱}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/27/bba_thumb.gif" /></a></li>
+<li title="{怒}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/57/angry.gif" /></a></li>
+<li title="{疑问}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/5c/yw_org.gif" /></a></li>
+<li title="{馋嘴}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/b8/cz_org.gif" /></a></li>
+<li title="{拜拜}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/70/88_thumb.gif" /></a></li>
+<li title="{思考}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/e9/sk_org.gif" /></a></li>
+<li title="{汗}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/13/sweat.gif" /></a></li>
+<li title="{困}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/8b/sleepy.gif" /></a></li>
+<li title="{睡觉}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/7d/sleep_org.gif" /></a></li>
+<li title="{钱}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/90/money_org.gif" /></a></li>
+<li title="{失望}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/0c/sw_org.gif" /></a></li>
+<li title="{酷}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/40/cool_org.gif" /></a></li>
+<li title="{花心}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/64/hs_org.gif" /></a></li>
+<li title="{哼}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/19/hate.gif" /></a></li>
+<li title="{鼓掌}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/1b/gz_org.gif" /></a></li>
+<li title="{晕}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/a4/dizzy.gif" /></a></li>
+<li title="{悲伤}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/1a/bs_thumb.gif" /></a></li>
+<li title="{抓狂}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/4d/crazy.gif" /></a></li>
+<li title="{黑线}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/91/h_thumb.gif" /></a></li>
+<li title="{阴险}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/6d/yx_thumb.gif" /></a></li>
+<li title="{怒骂}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/89/nm_org.gif" /></a></li>
+<li title="{心}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/6d/heart.gif" /></a></li>
+<li title="{伤心}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/ea/unheart.gif" /></a></li>
+<li title="{猪头}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/58/pig.gif" /></a></li>
+<li title="{ok}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/d6/ok_org.gif" /></a></li>
+<li title="{耶}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/d9/ye_org.gif" /></a></li>
+<li title="{good}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/d8/good_org.gif" /></a></li>
+<li title="{不要}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/c7/no_org.gif" /></a></li>
+<li title="{赞}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/d0/z2_org.gif" /></a></li>
+<li title="{来}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/40/come_org.gif" /></a></li>
+<li title="{弱}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/d8/sad_org.gif" /></a></li>
+<li title="{蜡烛}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/91/lazu_thumb.gif" /></a></li>
+<li title="{蛋糕}"><a href="javascript:void(0);"><img src="http://img.t.sinajs.cn/t3/style/images/common/face/ext/normal/6a/cake.gif" /></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="inbox">
+<div class="chatarea">
+<div class="tips" id="warning" style="display:none;width: 228px;"></div>
+<span style="">
+<textarea node-type="chat_msg">点击这里开始聊天。</textarea>
+<a class="fbtn" node-type="chat"></a>
+<div class="clear"></div>
+</span>
+</div>
+</div>
+</div>
+<!--chat-->
+<div>
+<div class="schedule">
+<ul>
+<li>
+<span><font>【05-09】</font>（16:00—18:00）</span>
+<p>&#23567;&#22372;&#20799;&#36992;&#20320;&#19968;&#36215;&#29609;&#30424;&#40857;[16;00---18;00]</p>
+</li>
+<li>
+<span><font>【05-09】</font>（18:00—20:00）</span>
+<p>&#25250;&#22238;&#29289;&#36164;&#20132;&#32473;&#32599;&#26480;&#25442;&#21462;&#32465;&#37329;&#22870;&#21169;</p>
+</li>
+<li>
+<span><font>【05-09】</font>（20:00—22:00）</span>
+<p>pvp&#31454;&#25216;&#22330;</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!------组件end------>
+<!------在线begin----->
+<div class="online">
+<div class="sta"><a href="javascript:;">在线</a></div>
+<div class="main-wrap">
+<div id="slide-box">
+<div class="slide-content" id="J_slide">
+<div class="wrap">
+<ul class="ks-switchable-content"></ul>
+</div>
+<div class="ks-switchable-triggers">
+<a class="prev" id="J_prev" href="javascript:void(0);"></a>
+<a class="next" id="J_next" href="javascript:void(0);"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!------在线end----->
+</div>
+<ul id="float-tip" class="displayn">
+<li class="title"></li>
+<li class="num"></li>
+</ul>
+<div class="clear"></div>
+<div class="shadowd"></div>
+</div>
+<!------直播视频end----->
+</div>
+</div>
+</div>
+<!------TopDend----->
+<!------TopEbegin----->
+<div class="live_center TopE" id="live_center">
+<div class="TopE_box clearfix">
+<div class="live_boxb zq_tape">
+<div class="clearfix h47">
+<div class="title"></div>
+</div>
+<ul class="clearfix center">
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2908171" target="_blank" title="盘龙ol -5.8盘龙公测ing！">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2908171/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2908171">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-05-08 16:17开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2906246" target="_blank" title="盘龙ol -5.7公测中">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2906246/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2906246">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-05-07 16:19开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2904469" target="_blank" title="盘龙ol -盘龙OL!公测开启！5.6">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2904469/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2904469">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-05-06 16:10开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 last">
+<a class="rela" href="/u/1523867155/2902703" target="_blank" title="盘龙ol -公测开启！5.5">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2902703/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2902703">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-05-05 16:28开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2900949" target="_blank" title="盘龙ol -青年节快乐！">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2900949/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2900949">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-05-04 16:20开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2890204" target="_blank" title="盘龙ol -公测开启！等你开启鸿蒙世界！">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2890204/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2890204">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-29 16:08开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2888335" target="_blank" title="盘龙ol -公测开启！">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2888335/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2888335">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-28 16:57开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 last">
+<a class="rela" href="/u/1523867155/2886211" target="_blank" title="盘龙ol -鸿蒙世界等你开启！">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2886211/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2886211">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-27 16:07开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2882491" target="_blank" title="盘龙ol -今日公测！">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2882491/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2882491">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-25 22:33开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2877184" target="_blank" title="盘龙ol -4月25日公测震撼开启">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2877184/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2877184">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-23 16:23开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2875116" target="_blank" title="盘龙ol -4月25日公测震撼开启">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2875116/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2875116">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-22 16:28开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 last">
+<a class="rela" href="/u/1523867155/2872964" target="_blank" title="盘龙ol -4月25日公测在即！">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2872964/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2872964">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-21 15:56开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2871025" target="_blank" title="盘龙ol -4月25日公测震撼开启">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2871025/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2871025">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-20 16:29开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2863733" target="_blank" title="盘龙ol -4月25日公测震撼开启！">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2863733/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2863733">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-17 17:53开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2861427" target="_blank" title="盘龙ol -4月25日公测开启">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2861427/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2861427">盘龙ol</a></li>
+<li class="time"><span class="magrinT3">2014-04-16 16:32开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 last">
+<a class="rela" href="/u/1523867155/2859246" target="_blank" title="PLGameClient.exe -4月25日公测开启">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2859246/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2859246">PLGameClient.exe</a></li>
+<li class="time"><span class="magrinT3">2014-04-15 16:17开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2856034" target="_blank" title="PLGameClient.exe -4月25日公测震撼开启">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2856034/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2856034">PLGameClient.exe</a></li>
+<li class="time"><span class="magrinT3">2014-04-13 21:17开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2850173" target="_blank" title="PLGameClient.exe -25日公测震撼开启">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2850173/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2850173">PLGameClient.exe</a></li>
+<li class="time"><span class="magrinT3">2014-04-11 16:04开播</span></li>
+</ul>
+</li>
+<li class="live_tape magrinR16 frame220 magrinB20 ">
+<a class="rela" href="/u/1523867155/2848139" target="_blank" title="PLGameClient.exe -盘龙25日公测火热哦哦哦~">
+<img onerror="$(this).attr('src','/gtv/static/images/default.jpg');" src="http://store.games.sina.com.cn/kangame/cut_img/2848139/pic_220X124.jpg" data-pinit="registered" />
+<strong></strong>
+</a>
+<ul class="tape_info">
+<li class="img_info"><a href="/home/1523867155"><img src="http://tp1.sinaimg.cn/3749629832/180/0/1" /></a><a href="/home/1523867155"></a></li>
+<li class="img_title"><a href="/u/1523867155/2848139">PLGameClient.exe</a></li>
+<li class="time"><span class="magrinT3">2014-04-10 15:57开播</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!------TopEend----->
+<div id="gift_list" style="display:none;"></div>
+<div id="user_gift_num" style="display:none;"></div>
+<div class="footer_m">
+<!--[5053,5,1] published at 2013-05-29 16:06:07 from #110 by 170-->
+<div class="footer_main">
+<div class="footer_div">
+<h1 class="font_w">游戏新闻/热门焦点</h1>
+<p class="s_font14">
+<a href="http://games.sina.com.cn/newgame/" target="_blank" title="新网游_新浪游戏">国内新网游</a> ┊ <a href="http://games.sina.com.cn/news/" target="_blank" title="新网游新闻_新浪游戏">游戏资讯</a>
+<br />
+<a href="http://games.sina.com.cn/top50/" target="_blank" title="新网游投票_新浪游戏">游戏期待榜</a> ┊ <a href="http://games.sina.com.cn/y/" target="_blank">产业报道</a>
+<br />
+<a href="http://games.sina.com.cn/netgames/" target="_blank" title="国外新游_新浪游戏">海外新网游</a> ┊ <a href="http://games.sina.com.cn/hot/" target="_blank">原创新闻</a><br />
+</p>
+</div>
+<div class="footer_div">
+<h1 class="font_w">测试列表/游戏查找</h1>
+<p class="s_font14">
+<a href="http://top.sina.com.cn" target="_blank" title="网络游戏排行榜_CGWR">网游排行榜</a> ┊ <a href="http://games.sina.com.cn/testlist.html" target="_blank" title="新网游上线时间表">测试列表</a>
+<br />
+<a href="http://www.twgame.com.cn/" target="_blank" title="台湾游戏">台湾游戏网</a> ┊ <a href="http://games.sina.com.cn/bigtest/" target="_blank" title="热门网游_新浪游戏">游戏大作表</a>
+<br />
+<a href="http://www.7g8g.cn/" target="_blank">社交游戏网</a> ┊ <a href="http://zq.games.sina.com.cn/" target="_blank" title="新网游_新浪游戏">新网游搜索</a><br />
+</p>
+</div>
+<div class="footer_div">
+<h1 class="font_w">电视游戏/单机游戏</h1>
+<p class="s_font14">
+<a href="http://zq.games.sina.com.cn/pc/?filter=0-17-0-0-3" target="_blank" title="热门单机RPG">单机RPG</a>　┊ <a href="http://zq.games.sina.com.cn/pc/?filter=0-17-0-0-13" target="_blank" title="热门单机FPS">单机FPS</a>
+<br />
+<a href="http://games.sina.com.cn/m/" target="_blank" title="热门手机游戏">手机游戏</a> ┊ <a href="http://games.sina.com.cn/esports/" target="_blank" title="电竞">电子竞技</a>
+<br />
+<a href="http://bbs.games.sina.com.cn/index.php" target="_blank" title="游戏论坛">游民部落</a> ┊ <a href="http://games.sina.com.cn/download/" target="_blank" title="游戏下载">下载中心</a><br />
+</p>
+</div>
+<div class="footer_div">
+<h1 class="font_w">玩家趣闻/新手卡</h1>
+<p class="s_font14">
+<a href="http://games.sina.com.cn/photo/" target="_blank">精彩美图</a> ┊ <a href="http://kan.sina.com.cn/" target="_blank" title="游戏视频_看游戏">看游戏</a><br />
+<a href="http://games.sina.com.cn/video/" target="_blank" title="热门游戏视频">游戏视频</a> ┊ <a href="http://tan.weibo.com/" target="_blank">游戏微坛</a>
+<br />
+<a href="http://wan.weibo.com/" target="_blank">游戏微博</a> ┊ <a href="http://ka.sina.com.cn" target="_blank" title="游戏新手卡_新浪游戏">新手卡预订</a><br />
+</p>
+</div>
+<div class="footer_div">
+<h1 class="font_w">游戏活动/八卦周边</h1>
+<p class="s_font14">
+<a href="http://games.sina.com.cn/hd.shtml" target="_blank" title="国外新游_新浪游戏">热门活动</a> ┊ <a href="http://games.sina.com.cn/iask/" target="_blank">爱问</a>
+<br />
+<a href="http://comic.sina.com.cn/" target="_blank">动漫漫画</a> ┊ <a href="http://games.sina.com.cn/o/sinamn.shtml" target="_blank">手机报</a>
+<br />
+<a href="http://games.sina.com.cn/zhanbu/" target="_blank">游戏占卜</a> ┊ <a href="http://sina.5173.com/" target="_blank">5173点卡</a><br />
+</p>
+</div>
+</div>
+<!--[5053,6,1] published at 2014-01-15 18:08:15 from #110 by 173-->
+<div class="footer_yq font9">
+<a href="http://games.sina.com.cn/" target="_blank" title="新浪游戏_网络游戏">新浪游戏</a>┊<a href="http://top.sina.com.cn" title="网络游戏排行榜_CGWR" target="_blank">CGWR</a>┊<a href="http://games.sina.com.cn/newgame/" title="新浪新网游_国内热门新网游" target="_blank">新浪国内新网游</a>┊<a href="http://games.sina.com.cn/netgames/" title="新浪新网游_外服热门新网游" target="_blank">新浪海外新游</a>┊<a href="http://games.sina.com.cn/testlist.html" title="新游测试列表_新热门网游" target="_blank">新浪游戏测试列表</a>┊<a href="http://www.twgame.com.cn/" title="台湾游戏_台服" target="_blank">台湾游戏网</a>┊<a href="http://zq.games.sina.com.cn/" title="网络游戏_新网游产品库" target="_blank">网游专区汇总页</a>┊<a href="http://games.sina.com.cn/video/" title="游戏视频_新热门网游" target="_blank">游戏视频</a>┊<a href="http://games.sina.com.cn/video/hot/" title="游戏视频_游戏沸点_热门新网游" target="_blank">游戏沸点</a>┊<a href="http://games.sina.com.cn/xcb/" title="星辰变_新网游_新浪游戏" target="_blank">星辰变专区</a>┊<a href="http://games.sina.com.cn/z/wow/indexpage.shtml" title="4.1_魔兽世界_wow" target="_blank">魔兽世界专区</a>┊<a href="http://games.sina.com.cn/d3/" title="暗黑3_技能搭配_报错解决" target="_blank">暗黑破坏神3</a>┊<a href="http://games.sina.com.cn/sc2/" title="星际2_Sc2" target="_blank">星际争霸2专区</a>┊<a href="http://games.sina.com.cn/dota2/" title="DOTA2官网_国服_激活" target="_blank">Dota2专区</a>┊<a href="http://games.sina.com.cn/pc/" title="热门单机游戏_暗黑3_星际2_热门游戏" target="_blank">单机游戏频道</a>┊<a href="http://games.sina.com.cn/m/" title="热门手机游戏_iphone_安卓系统" target="_blank">手机游戏频道</a>┊<a href="http://games.sina.com.cn/esports/" title="魔兽争霸3秘籍_单机游戏_WCG2012" target="_blank">电竞游戏频道</a>┊<a href="http://ka.sina.com.cn/" title="新手卡激活码_新浪新手卡中心" target="_blank">新手卡中心</a>┊<a href="http://kan.sina.com.cn/" title="游戏视频_新浪看游戏" target="_blank">新浪看游戏</a>┊<a href="http://www.cngba.com" target="_blank">CNGBA游戏玩家网</a>┊<a href="http://www.redshu.com/" target="_blank">单机游戏大全</a>┊<a href="http://www.17utt.com/" target="_blank">游天堂</a>┊<a href="http://games.sina.com.cn/swd6/index.shtml" target="_blank" title="轩辕剑6_轩辕剑6官方合作站_轩辕剑6下载">轩辕剑6</a>┊<a href="http://www.igoodgame.com" target="_blank" title="电竞网">电竞网</a>┊<a href="http://www.gamefy.cn/" target="_blank" title="游戏风云">游戏风云</a>┊<a href="http://zhushou.sina.com.cn/" target="_blank" title="新浪页游助手">新浪页游助手</a>
+</div>
+</div>
+<div style="display:none;"><div id="cont11"></div></div>
+<script>new ActiveTab("tab11", "cont_tab", false, "click");</script>
+<div class="gbox">
+<div id="Gtrail" class="trail">
+<div id="ZWTrail">
+<script language="javascript" src="/gtv/static/js/tail.js?version201405071418" charset="gbk"></script>
+</div>
+</div>
+</div>
+<div id="get_score_fix" data="" class="get_score_fix old_tpl "></div>
+<div id="confirm_getS" class="confirm_getS displayn kan_dialog">
+<div class="titlef clearfix"><strong>赚取积分</strong><a href="#" data="get_score" class="closez close_con"></a></div>
+<div class="jc_list_i clearfix h50">
+<span></span>
+</div>
+<div class="jc_list_center clearfix">
+<a href="#" class="btnn btnl close_con"><strong>我知道了</strong></a>
+<a href="http://jifen.sina.com.cn/gain/" target="_blank" class="btnn btnr"><strong>去赚积分</strong></a>
+</div>
+</div>
+<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-39199372-1']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js?version201405071418';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js?version201405071418"></script>
+<script type="text/javascript">
+			_S_pSt();
+		</script>
+<!-- SUDA_CODE_END -->
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_m_v629.js"></script>
+<script type="text/javascript">suds_init(2807,100.0000,1015,2);</script>
+<script type="text/javascript">
+            var getCookie = function (name) { //get cookie
+                var str = document.cookie.split(';');
+                for (var i= 0; i &lt; str.length; i++){
+                    var str2 = str[i].split('=');
+                    if ( $.trim(str2[0]) === name) {
+                        return unescape(str2[1]);
+                    }
+                }
+            };
+            var coo = 'SINAGLOBAL=' + getCookie('SINAGLOBAL') + 'FSINAGLOBAL=' + getCookie('FSINAGLOBAL') + 'Apache=' + getCookie('Apache') + 'ULV=' + getCookie('ULV') +'SUP=' + getCookie('SUP') + 'UOR=' + window.location.href + '_s_acc=' + getCookie('_s_acc') + '_s_tentry=' + getCookie('_s_tentry');
+            $.ajax({
+                type:'get',
+                dataType: 'jsonp',
+                cache : false,
+                url:'http://api.g.sina.com.cn/pgame/useraction/glean',
+                data:{param: encodeURIComponent(coo)},
+                success:function(msg){
+                    return;
+                }
+            }); 
+        </script>
+<script type="text/javascript">
+            var confirm_getS = $('#confirm_getS');
+            $('#get_score_fix').click(function(){
+                var that = $(this);
+                var uUid = that.attr('data');
+                var uScoreNode = $('#user_points');
+                var uScoreNum = parseInt(uScoreNode.html(), 10);
+                if ((uUid === '') &amp;&amp; that.hasClass('old_tpl')){
+                    openFloatDiv('login_div');
+                    return;
+                }
+                if ((uUid === '') &amp;&amp; !that.hasClass('old_tpl')){
+                    $('#jumpLogin').trigger('click');
+                    return;
+                }
+                $.ajax({
+                    type: 'POST',
+                    dataType: 'json',
+                    cache : false,
+                    url:'/ajax_fun/get_everyday_points',
+                    data:{uid: uUid},
+                    success:function(msg){
+                         if (msg.msg) {
+                            confirm_getS.find('.jc_list_i span').html(msg.data).end().show();
+                        } 
+                        if (msg.msg === 'succ') {
+                            that.addClass('displayn');
+                            uScoreNode.html(uScoreNum + 100);
+                        }
+                    }
+                })
+            });
+        
+            confirm_getS.delegate('.close_con',"click",function(e){
+                e.preventDefault();
+                confirm_getS.hide();
+            });
+
+            $('.btnr', confirm_getS).click(function(e){
+                confirm_getS.hide();
+            });
+        </script>
+</body>
+</html>

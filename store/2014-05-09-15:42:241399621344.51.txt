@@ -1,0 +1,1430 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【奥迪品荐二手起亚|奥迪品荐起亚汽车价格】-58同城</title>
+<meta name="keywords" content="奥迪品荐二手起亚，奥迪品荐起亚汽车价格" />
+<meta name="description" content="58同城奥迪品荐二手起亚频道为您提供大量奥迪品荐汽车价格信息，是经过厂商严格审核的奥迪品荐二手起亚信息，是您网上选购二手起亚的最佳选择。" />
+<link rel="stylesheet" href="http://static.58.com/ui7/car/aodi/aodi.css" type="text/css" />
+</head>
+<body>
+<div class="headercon">
+<div id="topbar">
+<div class="topcon">
+<ul>
+<li><a href="javascript:brandZoneNamespace.addBookmark();">收藏本专区</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com">58首页</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com/ershouche/">58二手车</a></li>
+</ul>
+</div>
+</div>
+<div class="header">
+<a href="/" class="logo"><img src="http://pic2.58.com/ui7/car/aodi/logo.png" alt="一汽-大众" width="79" height="16" /></a>
+<ul class="navlist"><!--导航条-->
+<li><a href="/">首页</a></li>
+<li><a href="/jieshao/">关于奥迪品荐</a></li>
+<li><a href="/fuwu/">奥迪品荐服务</a></li>
+<li><a href="/news/">奥迪品荐动态</a></li>
+<li><a href="/ershouche/" class="hover">二手车搜索</a></li>
+<li><a href="/shangjia/">经销商查询</a></li>
+</ul>
+<div class="audi"><a href="/"><img src="http://pic2.58.com/ui7/car/aodi/audi.png" width="143" height="20" alt="突破科技，启迪未来" /></a></div>
+</div>
+</div> <div class="dealerwrap">
+<div class="wrap">
+<div class="selection">
+<dl class="secitem01">
+<dt class="secitem_brand">所在地：</dt>
+<dd>
+<div class="obj-wrapper mr8">
+<div id="dealer-province" class="obj-cate-div">
+<span id="curr-province">选择省份</span>
+</div>
+</div>
+<div class="obj-wrapper">
+<div id="dealer-city" class="obj-cate-div">
+<span id="curr-city">选择城市</span>
+</div>
+</div>
+<input id="carListJinPin" type="hidden" />
+<input id="dealer-search" class="submitbtn" type="button" value="确定" />
+<span id="dealer-meg" class="dealermeg"></span>
+</dd>
+</dl>
+<div class="audidiv">
+<!-- 奥迪 begin  -->
+<dl class="secitem audisection">
+<dt class="secitem_brand">奥迪：&nbsp;&nbsp;&nbsp;&nbsp;</dt>
+<dd id="audi_chexi">
+<a href="http://audi.58.com/aliul/">A6L</a>
+<a href="http://audi.58.com/aodialiu/">A6</a>
+<a href="http://audi.58.com/asil/">A4L</a>
+<a href="http://audi.58.com/aodiqqi/">Q7</a>
+<a href="http://audi.58.com/aodiasi/">A4</a>
+<a href="http://audi.58.com/adabl/">A8L</a>
+<a href="http://audi.58.com/adqw/">Q5</a>
+<a href="http://audi.58.com/aoditt/">TT</a>
+<a href="http://audi.58.com/aodiyibai/">奥迪100</a>
+<a href="http://audi.58.com/aodiawu/">A5</a>
+<a href="http://audi.58.com/aodilb/">奥迪200</a>
+<a href="http://audi.58.com/aodirba/">R8</a>
+<a href="http://audi.58.com/adaljk/">A6(进口)</a>
+<a href="http://audi.58.com/aodiasan/">A3</a>
+<a href="http://audi.58.com/adqwjk/">Q5(进口)</a>
+<a href="http://audi.58.com/aqiqc/">A7</a>
+<a href="http://audi.58.com/aodiswu/">S5</a>
+<a href="http://audi.58.com/qsanqc/">Q3(进口)</a>
+<a href="http://audi.58.com/ayiqc/">A1</a>
+<a href="http://audi.58.com/aodiqsan/">Q3</a>
+<a href="http://audi.58.com/adasjk/">A4(进口)</a>
+</dd>
+</dl>
+<!-- 奥迪end -->
+<dl class="secitem">
+<dt class="secitem_brand">类型：</dt>
+<dd>
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a href="http://audi.58.com/jingjijiaoche/">轿车</a>
+<a href="http://audi.58.com/yeuyeche/">越野车/SUV</a>
+<a href="http://audi.58.com/mpv/">MPV</a>
+<a href="http://audi.58.com/paoche/">跑车</a>
+<a href="http://audi.58.com/keche/">客车</a>
+<a href="http://audi.58.com/mianbaoche/">面包车</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">品牌：</dt>
+<dd class="clearfix">
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a class="select" href="http://audi.58.com/qiya/">起亚</a>
+<a href="http://audi.58.com/aodi/">奥迪</a>
+<a href="http://audi.58.com/dazhong/">大众</a>
+<a href="http://audi.58.com/bentian/">本田</a>
+<a href="http://audi.58.com/bieke/">别克</a>
+<a href="http://audi.58.com/fengtian/">丰田</a>
+<a href="http://audi.58.com/xiali/">夏利</a>
+<a href="http://audi.58.com/richan/">日产</a>
+<a href="http://audi.58.com/qirui/">奇瑞</a>
+<a href="http://audi.58.com/baoma/">宝马</a>
+<a href="http://audi.58.com/xiandai/">现代</a>
+<a href="http://audi.58.com/mazida/">马自达</a>
+<a href="http://audi.58.com/futianche/">福田</a>
+<a href="http://audi.58.com/biyadi/">比亚迪</a>
+<a href="http://audi.58.com/lingmu/">铃木</a>
+<a href="http://audi.58.com/xuetielong/">雪铁龙</a>
+<a href="http://audi.58.com/jili/">吉利</a>
+<a href="http://audi.58.com/benchi/">奔驰</a>
+<a href="http://audi.58.com/changanche/">长安</a>
+<a href="http://audi.58.com/fute/">福特</a>
+<a id="moreBrand" name="b_link" para="custom" cl="" href="javascript:void(0)">更多<i class="bak_i_down"></i>
+<!-- &lt;i class="bak_i"&gt;&lt;/i&gt; --></a>
+<div id="moreBrandContainer" class="morepinpai">
+<br /> <a href="http://audi.58.com/xuefulan/">雪佛兰</a>
+<a href="http://audi.58.com/jinbei/">金杯</a>
+<a href="http://audi.58.com/jianghuai/">江淮</a>
+<a href="http://audi.58.com/biaozhi/">标致</a>
+<a href="http://audi.58.com/jeep/">吉普</a>
+<a href="http://audi.58.com/yiqi/">一汽</a>
+<a href="http://audi.58.com/zhonghua/">中华</a>
+<a href="http://audi.58.com/jinlong/">金龙</a>
+<a href="http://audi.58.com/hafei/">哈飞</a>
+<a href="http://audi.58.com/feiyate/">菲亚特</a>
+<a href="http://audi.58.com/haima/">海马</a>
+<a href="http://audi.58.com/dadi/">长城</a>
+<a href="http://audi.58.com/leikesasi/">雷克萨斯</a>
+<a href="http://audi.58.com/rongwei/">荣威</a>
+<a href="http://audi.58.com/sanling/">三菱</a>
+<a href="http://audi.58.com/sikeda/">斯柯达</a>
+<a href="http://audi.58.com/luhu/">路虎</a>
+<a href="http://audi.58.com/woerwo/">沃尔沃</a>
+<a href="http://audi.58.com/baoshijie/">保时捷</a>
+<a href="http://audi.58.com/baicmotor/">北汽</a>
+<a href="http://audi.58.com/kaidilake/">凯迪拉克</a>
+<a href="http://audi.58.com/minicar/">MINI</a>
+<a href="http://audi.58.com/hongqiche/">红旗</a>
+<a href="http://audi.58.com/benteng/">奔腾</a>
+<a href="http://audi.58.com/lifanc/">力帆</a>
+<a href="http://audi.58.com/oubao/">欧宝</a>
+<a href="http://audi.58.com/cfqc/">长丰</a>
+<a href="http://audi.58.com/dihaoc/">帝豪</a>
+<a href="http://audi.58.com/daoqi/">道奇</a>
+<a href="http://audi.58.com/fengxing/">风行</a>
+<a href="http://audi.58.com/oulangcar/">欧朗</a>
+<a href="http://audi.58.com/qqy/">全球鹰</a>
+<a href="http://audi.58.com/ruiqi/">瑞麒</a>
+<a href="http://audi.58.com/subaru/">斯巴鲁</a>
+<a href="http://audi.58.com/mgc/">MG</a>
+<a href="http://audi.58.com/huatai/">华泰</a>
+<a href="http://audi.58.com/yfnd/">英菲尼迪</a>
+<a href="http://audi.58.com/jiebao/">捷豹</a>
+<a href="http://audi.58.com/dffs/">东风风神</a>
+<a href="http://audi.58.com/xinkai/">新凯</a>
+<a href="http://audi.58.com/yinglun/">英伦</a>
+<a href="http://audi.58.com/zhongtai/">众泰</a>
+<a href="http://audi.58.com/sabo/">萨博</a>
+<a href="http://audi.58.com/lnc/">雷诺</a>
+<a href="http://audi.58.com/nqxyt/">南汽新雅途</a>
+<a href="http://audi.58.com/yyfd/">永源</a>
+<a href="http://audi.58.com/shuanglong/">双龙</a>
+<a href="http://audi.58.com/smartc/">精灵smart</a>
+<a href="http://audi.58.com/ouge/">讴歌</a>
+<a href="http://audi.58.com/linian/">理念</a>
+</div>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">车系：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/qiya/">不限</a>
+<a href="http://audi.58.com/sailatu/">赛拉图</a>
+<a href="http://audi.58.com/qianlima/">千里马</a>
+<a href="http://audi.58.com/furuidi/">福瑞迪</a>
+<a href="http://audi.58.com/qrkw/">K5</a>
+<a href="http://audi.58.com/shipao/">狮跑</a>
+<a href="http://audi.58.com/qiyaker/">K2</a>
+<a href="http://audi.58.com/zhipao/">智跑</a>
+<a href="http://audi.58.com/xiuer/">秀尔</a>
+<a href="http://audi.58.com/cxxjl/">新佳乐</a>
+<a href="http://audi.58.com/jiahua/">嘉华</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">价格：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/ershouche/">不限</a> <a target="_self" href="http://audi.58.com/qiya/pve_5864_0_2/">2万以内</a>
+<a target="_self" href="http://audi.58.com/qiya/pve_5864_2_4/">2-4万</a>
+<a target="_self" href="http://audi.58.com/qiya/pve_5864_4_5/">4-5万</a>
+<a target="_self" href="http://audi.58.com/qiya/pve_5864_5_6/">5-6万</a>
+<a target="_self" href="http://audi.58.com/qiya/pve_5864_6_7/">6-7万</a>
+<a target="_self" href="http://audi.58.com/qiya/pve_5864_7_9/">7-9万</a>
+<a target="_self" href="http://audi.58.com/qiya/pve_5864_9_999999/">9万以上</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="listcon">
+<div class="list-tit">
+<h3>
+<!--共找到&lt;b&gt;37&lt;/b&gt; 辆车源 -->
+<span class="rz"><label for="checkbox"><input type="checkbox" id="checkbox" class="checkbox" />奥迪认证车</label></span>
+</h3>
+<div class="list-r">
+<span class="pagenow"><b>1</b>/1</span>
+<span class="qiehuan"> <a href=" javascript:void(0)" class="pre gray"></a> <a href=" javascript:void(0)" class="next gray"></a>
+</span> </div>
+</div>
+<div class="area-con01">
+<ul class="arealist">
+<li>
+<div class="g_img"><span>
+<a href="http://nn.58.com/ershouche/17868818472329x.shtml" target="_blank">
+<img title="起亚嘉华 2006款 2.7 GL 自动 2008年上牌-08年靓车起亚嘉华,无事故 价格实惠" src="http://1.pic.58control.cn/p1/small/n_s12249931501996084074.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nn.58.com/ershouche/17868818472329x.shtml" title="起亚嘉华 2006款 2.7 GL 自动 2008年上牌-08年靓车起亚嘉华,无事故 价格实惠" target="_blank">起亚嘉华 2006款 2.7 GL 自动 2008年上牌-08年靓车起亚嘉华,无事故 价格实惠</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.68<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广西南奥汽车销售服务有限公司" href="http://shop.58.com/24058837946200127/">广西南奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南宁</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wh.58.com/ershouche/17870300595079x.shtml" target="_blank">
+<img title="起亚赛拉图2008款1.6自动GL两厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12250121541685211153.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wh.58.com/ershouche/17870300595079x.shtml" title="起亚赛拉图2008款1.6自动GL两厢-诚信之品，专业之荐" target="_blank">起亚赛拉图2008款1.6自动GL两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										4.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.88<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="武汉华星汉迪汽车销售服务有限公司" href="http://shop.58.com/24062616975203647/">武汉华星汉迪汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">武汉</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nj.58.com/ershouche/17860372471047x.shtml" target="_blank">
+<img title="起亚赛拉图2005款1.6自动GL三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12248850706844320103.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nj.58.com/ershouche/17860372471047x.shtml" title="起亚赛拉图2005款1.6自动GL三厢-诚信之品，专业之荐" target="_blank">起亚赛拉图2005款1.6自动GL三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										9.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.60<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="江苏华兴深蓝汽车有限公司" href="http://shop.58.com/24057226725670932/">江苏华兴深蓝汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17860229673473x.shtml" target="_blank">
+<img title="起亚福瑞迪2010款1.6L自动GL三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02248832409830923045.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17860229673473x.shtml" title="起亚福瑞迪2010款1.6L自动GL三厢-诚信之品，专业之荐" target="_blank">起亚福瑞迪2010款1.6L自动GL三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										19.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广东君奥汽车贸易有限公司" href="http://shop.58.com/24054867200868628/">广东君奥汽车贸易有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hz.58.com/ershouche/17693547497223x.shtml" target="_blank">
+<img title="起亚新佳乐 2005款 2.0-" src="http://3.pic.58control.cn/p1/small/n_s02227494708971134055.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hz.58.com/ershouche/17693547497223x.shtml" title="起亚新佳乐 2005款 2.0" target="_blank">起亚新佳乐 2005款 2.0</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.2<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="浙江和诚滨奥汽车有限公司" href="http://shop.58.com/24063592167705875/">浙江和诚滨奥汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">杭州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17857522647944x.shtml" target="_blank">
+<img title="起亚赛拉图2008款1.6手动GLS三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12248485807293042005.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17857522647944x.shtml" title="起亚赛拉图2008款1.6手动GLS三厢-诚信之品，专业之荐" target="_blank">起亚赛拉图2008款1.6手动GLS三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										8.70万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.40<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京天润汽车贸易服务有限公司" href="http://shop.58.com/24063855449984788/">北京天润汽车贸易服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17738241233416x.shtml" target="_blank">
+<img title="起亚新佳乐 2011款 1.6L 手动 5座舒适版 2011年上牌-庞大奥迪品荐二手车 专业 诚信 便捷" src="http://3.pic.58control.cn/p1/small/n_s12233217848066765003.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17738241233416x.shtml" title="起亚新佳乐 2011款 1.6L 手动 5座舒适版 2011年上牌-庞大奥迪品荐二手车 专业 诚信 便捷" target="_blank">起亚新佳乐 2011款 1.6L 手动 5座舒适版 2011年上牌-庞大奥迪品荐二手车 专业 诚信 便捷</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										5.8万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.2<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西庞大乐业汽车销售服务有限公司" href="http://shop.58.com/24059277640288532/">陕西庞大乐业汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17848785134730x.shtml" target="_blank">
+<img title="起亚智跑 2012款2.0L手自一体GLSNAVI 2012年上牌-新丰泰博奥【奥迪品荐二手车】" src="http://4.pic.58control.cn/kp1/small/n_s12247367530482887126.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17848785134730x.shtml" title="起亚智跑 2012款2.0L手自一体GLSNAVI 2012年上牌-新丰泰博奥【奥迪品荐二手车】" target="_blank">起亚智跑 2012款2.0L手自一体GLSNAVI 2012年上牌-新丰泰博奥【奥迪品荐二手车】</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										3.70万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 16.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西新丰泰博奥汽车有限责任公司" href="http://shop.58.com/24231174431519763/">陕西新丰泰博奥汽车有限责…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://weihai.58.com/ershouche/17839262493830x.shtml" target="_blank">
+<img title="起亚狮跑 2010年5月份上牌2.0L手动 2010年上牌-奥迪4S店置换一手车源知根知底" src="http://3.pic.58control.cn/p1/small/n_s12246146802748004094.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://weihai.58.com/ershouche/17839262493830x.shtml" title="起亚狮跑 2010年5月份上牌2.0L手动 2010年上牌-奥迪4S店置换一手车源知根知底" target="_blank">起亚狮跑 2010年5月份上牌2.0L手动 2010年上牌-奥迪4S店置换一手车源知根知底</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 10.2<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="威海威达汽车贸易有限公司" href="http://shop.58.com/24049293622171668/">威海威达汽车贸易有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">威海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zz.58.com/ershouche/17838420011398x.shtml" target="_blank">
+<img title="起亚赛拉图2008款1.6自动GL两厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s02246040767941111066.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zz.58.com/ershouche/17838420011398x.shtml" title="起亚赛拉图2008款1.6自动GL两厢-诚信之品，专业之荐" target="_blank">起亚赛拉图2008款1.6自动GL两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										8.69万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河南得佳汽车销售服务有限公司" href="http://shop.58.com/24230927328940351/">河南得佳汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">郑州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jining.58.com/ershouche/17836325334666x.shtml" target="_blank">
+<img title="起亚赛拉图2008款1.6手动GL三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12245772675877075063.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jining.58.com/ershouche/17836325334666x.shtml" title="起亚赛拉图2008款1.6手动GL三厢-诚信之品，专业之荐" target="_blank">起亚赛拉图2008款1.6手动GL三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										2.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="济宁广华汽车销售服务有限公司" href="http://shop.58.com/24054943982066196/">济宁广华汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">济宁</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nc.58.com/ershouche/17827666542215x.shtml" target="_blank">
+<img title="起亚赛拉图2008款1.6自动GL三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244664360929876074.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nc.58.com/ershouche/17827666542215x.shtml" title="起亚赛拉图2008款1.6自动GL三厢-诚信之品，专业之荐" target="_blank">起亚赛拉图2008款1.6自动GL三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										12.18万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="江西欧亚汽车服务有限公司" href="http://shop.58.com/24062079634831423/">江西欧亚汽车服务有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南昌</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17828872573065x.shtml" target="_blank">
+<img title="起亚福瑞迪2010款1.6L自动Premium三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02244818675699428126.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17828872573065x.shtml" title="起亚福瑞迪2010款1.6L自动Premium三厢-诚信之品，专业之荐" target="_blank">起亚福瑞迪2010款1.6L自动Premium三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										7.73万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西奥诚汽车销售服务有限公司" href="http://shop.58.com/24059198710196756/">陕西奥诚汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nb.58.com/ershouche/17828703972873x.shtml" target="_blank">
+<img title="起亚K52012款2.0L手自一体GL三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244797168978871085.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nb.58.com/ershouche/17828703972873x.shtml" title="起亚K52012款2.0L手自一体GL三厢-诚信之品，专业之荐" target="_blank">起亚K52012款2.0L手自一体GL三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										7.15万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 14.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宁波恒迪汽车销售服务有限公司" href="http://shop.58.com/24055766923726612/">宁波恒迪汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">宁波</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17828696999813x.shtml" target="_blank">
+<img title="起亚福瑞迪2012款1.6L自动Premium三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12244796217036737134.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17828696999813x.shtml" title="起亚福瑞迪2012款1.6L自动Premium三厢-诚信之品，专业之荐" target="_blank">起亚福瑞迪2012款1.6L自动Premium三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										6.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西奥诚汽车销售服务有限公司" href="http://shop.58.com/24059198710196756/">陕西奥诚汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sjz.58.com/ershouche/17828491836673x.shtml" target="_blank">
+<img title="起亚狮跑2009款2手动GLS两驱SUV-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02244769880721850096.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sjz.58.com/ershouche/17828491836673x.shtml" title="起亚狮跑2009款2手动GLS两驱SUV-诚信之品，专业之荐" target="_blank">起亚狮跑2009款2手动GLS两驱SUV-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										5.40万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 10.87<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河北联润美迪汽车贸易有限公司" href="http://shop.58.com/24056470434971924/">河北联润美迪汽车贸易有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">石家庄</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hf.58.com/ershouche/17828351381895x.shtml" target="_blank">
+<img title="起亚智跑2010款2.0L手自一体Premium-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244752016362960136.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hf.58.com/ershouche/17828351381895x.shtml" title="起亚智跑2010款2.0L手自一体Premium-诚信之品，专业之荐" target="_blank">起亚智跑2010款2.0L手自一体Premium-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										9.80万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 15.30<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="安徽得佳汽车销售有限公司" href="http://shop.58.com/24054072804228372/">安徽得佳汽车销售有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">合肥</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17828286223495x.shtml" target="_blank">
+<img title="起亚新佳乐 2011款2手自一体舒适版7座MPV 2010年上牌-新丰泰博奥【奥迪品荐二手车】" src="http://4.pic.58control.cn/kp1/small/n_s02244743656559313153.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17828286223495x.shtml" title="起亚新佳乐 2011款2手自一体舒适版7座MPV 2010年上牌-新丰泰博奥【奥迪品荐二手车】" target="_blank">起亚新佳乐 2011款2手自一体舒适版7座MPV 2010年上牌-新丰泰博奥【奥迪品荐二手车】</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.52万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.60<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西新丰泰博奥汽车有限责任公司" href="http://shop.58.com/24231174431519763/">陕西新丰泰博奥汽车有限责…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sjz.58.com/ershouche/17828276765191x.shtml" target="_blank">
+<img title="起亚千里马2003款1.3手动GL-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02244742420925143105.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sjz.58.com/ershouche/17828276765191x.shtml" title="起亚千里马2003款1.3手动GL-诚信之品，专业之荐" target="_blank">起亚千里马2003款1.3手动GL-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2004年上牌 </span><span class="gap">|</span>
+										8.54万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 2.28<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河北联润美迪汽车贸易有限公司" href="http://shop.58.com/24056470434971924/">河北联润美迪汽车贸易有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">石家庄</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828202356360x.shtml" target="_blank">
+<img title="起亚狮跑2009款2自动GLS两驱SUV-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244732937519203003.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828202356360x.shtml" title="起亚狮跑2009款2自动GLS两驱SUV-诚信之品，专业之荐" target="_blank">起亚狮跑2009款2自动GLS两驱SUV-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										8.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京奥嘉世茂汽车销售服务有限公司" href="http://shop.58.com/24056114668212287/">北京奥嘉世茂汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sz.58.com/ershouche/17825491922822x.shtml" target="_blank">
+<img title="起亚狮跑 2007款 狮跑-东风悦达 狮跑 2007款 2.0 自动 GL 两驱 SUV 2008年上牌-深圳锦龙奥迪品鉴级别置换车" src="http://2.pic.58control.cn/p1/small/n_s12244385562266644096.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sz.58.com/ershouche/17825491922822x.shtml" title="起亚狮跑 2007款 狮跑-东风悦达 狮跑 2007款 2.0 自动 GL 两驱 SUV 2008年上牌-深圳锦龙奥迪品鉴级别置换车" target="_blank">起亚狮跑 2007款 狮跑-东风悦达 狮跑 2007款 2.0 自动 GL 两驱 SUV 2008年上牌-深圳锦龙奥迪品鉴级别置换车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										3.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="深圳市锦龙汽车贸易有限公司" href="http://shop.58.com/24055037731803412/">深圳市锦龙汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">深圳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://dg.58.com/ershouche/17827983721609x.shtml" target="_blank">
+<img title="起亚K22011款1.4手动GLS三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244704943768567036.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://dg.58.com/ershouche/17827983721609x.shtml" title="起亚K22011款1.4手动GLS三厢-诚信之品，专业之荐" target="_blank">起亚K22011款1.4手动GLS三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2013年上牌 </span><span class="gap">|</span>
+										1.38万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="东莞市世奥汽车销售服务有限公司" href="http://shop.58.com/24058561064658751/">东莞市世奥汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">东莞</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://cq.58.com/ershouche/17827792545546x.shtml" target="_blank">
+<img title="起亚赛拉图2008款1.6自动GLS两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244680424489252014.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://cq.58.com/ershouche/17827792545546x.shtml" title="起亚赛拉图2008款1.6自动GLS两厢-诚信之品，专业之荐" target="_blank">起亚赛拉图2008款1.6自动GLS两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										9.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 52.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="重庆龙华实业集团龙奥汽车销售服务有限公司" href="http://shop.58.com/24063238239383572/">重庆龙华实业集团龙奥汽车…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">重庆</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://suqian.58.com/ershouche/17827546821512x.shtml" target="_blank">
+<img title="起亚智跑2010款2.0L手自一体GLSSUV-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02244648996422855023.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://suqian.58.com/ershouche/17827546821512x.shtml" title="起亚智跑2010款2.0L手自一体GLSSUV-诚信之品，专业之荐" target="_blank">起亚智跑2010款2.0L手自一体GLSSUV-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										5.83万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.78<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宿迁市良宇深蓝汽车贸易有限公司" href="http://shop.58.com/24062993876510484/">宿迁市良宇深蓝汽车贸易有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">宿迁</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://pds.58.com/ershouche/17818018168328x.shtml" target="_blank">
+<img title="起亚智跑2012款2.0L手自一体GLSUV-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12243429327457484126.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://pds.58.com/ershouche/17818018168328x.shtml" title="起亚智跑2012款2.0L手自一体GLSUV-诚信之品，专业之荐" target="_blank">起亚智跑2012款2.0L手自一体GLSUV-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										4.94万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 15.18<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="平顶山市中瑞汽车销售服务有限公司" href="http://shop.58.com/24058709875362068/">平顶山市中瑞汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">平顶山</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://yinchuan.58.com/ershouche/17817873872266x.shtml" target="_blank">
+<img title="起亚赛拉图2007款1.6手动GLS三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02243410913019997054.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://yinchuan.58.com/ershouche/17817873872266x.shtml" title="起亚赛拉图2007款1.6手动GLS三厢-诚信之品，专业之荐" target="_blank">起亚赛拉图2007款1.6手动GLS三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										11.12万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.40<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宁夏奥立升汽车销售服务有限公司" href="http://shop.58.com/24054077879623444/">宁夏奥立升汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">银川</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hf.58.com/ershouche/17751010316290x.shtml" target="_blank">
+<img title="起亚智跑 2011款 2.0 PREMIUM 自动两驱-车况精品,超高性价比" src="http://4.pic.58control.cn/p1/small/n_s12234841669553253095.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hf.58.com/ershouche/17751010316290x.shtml" title="起亚智跑 2011款 2.0 PREMIUM 自动两驱-车况精品,超高性价比" target="_blank">起亚智跑 2011款 2.0 PREMIUM 自动两驱-车况精品,超高性价比</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										9.8万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 15.3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico24" target="_blank" title="原厂质保" href="http://static.58.com/ui7/help/yczb.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="安徽得佳汽车销售有限公司" href="http://shop.58.com/24054072804228372/">安徽得佳汽车销售有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">合肥</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17781972635402x.shtml" target="_blank">
+<img title="起亚新佳乐 2011款 2.0 手自一体7座舒适版-新丰泰博奥【奥迪品荐二手车】" src="http://1.pic.58control.cn/p1/small/n_s12238812467216651003.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17781972635402x.shtml" title="起亚新佳乐 2011款 2.0 手自一体7座舒适版-新丰泰博奥【奥迪品荐二手车】" target="_blank">起亚新佳乐 2011款 2.0 手自一体7座舒适版-新丰泰博奥【奥迪品荐二手车】</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.5万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.6<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西新丰泰博奥汽车有限责任公司" href="http://shop.58.com/24231174431519763/">陕西新丰泰博奥汽车有限责…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17747996861321x.shtml" target="_blank">
+<img title="起亚秀尔 2010款 1.6 GL 自动-私家自用车,车况较好" src="http://4.pic.58control.cn/p1/small/n_s12234461280520398074.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17747996861321x.shtml" title="起亚秀尔 2010款 1.6 GL 自动-私家自用车,车况较好" target="_blank">起亚秀尔 2010款 1.6 GL 自动-私家自用车,车况较好</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										3万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京奥吉通汽车销售有限公司" href="http://shop.58.com/24062056225469204/">北京奥吉通汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zz.58.com/ershouche/17747089994633x.shtml" target="_blank">
+<img title="起亚赛拉图 2008款 1.6 GL 自动-河南丰之元奥迪品荐二手车" src="http://4.pic.58control.cn/p1/small/n_s12234348893571976113.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zz.58.com/ershouche/17747089994633x.shtml" title="起亚赛拉图 2008款 1.6 GL 自动-河南丰之元奥迪品荐二手车" target="_blank">起亚赛拉图 2008款 1.6 GL 自动-河南丰之元奥迪品荐二手车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										5.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河南丰之元汽车销售服务有限公司" href="http://shop.58.com/24232572933354515/">河南丰之元汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">郑州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://dl.58.com/ershouche/17747047368970x.shtml" target="_blank">
+<img title="起亚狮跑 2009款 2.0 GL 自动两驱-大连裕迪二手车 欢迎您的光临" src="http://4.pic.58control.cn/p1/small/n_s12234341249044080125.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://dl.58.com/ershouche/17747047368970x.shtml" title="起亚狮跑 2009款 2.0 GL 自动两驱-大连裕迪二手车 欢迎您的光临" target="_blank">起亚狮跑 2009款 2.0 GL 自动两驱-大连裕迪二手车 欢迎您的光临</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 10.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="大连裕迪汽车销售服务有限公司" href="http://shop.58.com/24055568219438911/">大连裕迪汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">大连</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jh.58.com/ershouche/17713755413381x.shtml" target="_blank">
+<img title="起亚赛拉图 2010款 1.6 手动GL-" src="http://2.pic.58control.cn/p1/small/n_s12230080646972172003.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jh.58.com/ershouche/17713755413381x.shtml" title="起亚赛拉图 2010款 1.6 手动GL" target="_blank">起亚赛拉图 2010款 1.6 手动GL</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										3.6万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.68<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="东阳市德奥汽车有限公司" href="http://shop.58.com/24055728715224639/">东阳市德奥汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">金华</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17704833609349x.shtml" target="_blank">
+<img title="起亚福瑞迪 2009款 1.6 GL 自动-自家用车,车况好,性价比高" src="http://2.pic.58control.cn/p1/small/n_s12228938623239475043.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17704833609349x.shtml" title="起亚福瑞迪 2009款 1.6 GL 自动-自家用车,车况好,性价比高" target="_blank">起亚福瑞迪 2009款 1.6 GL 自动-自家用车,车况好,性价比高</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										7.7万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西奥诚汽车销售服务有限公司" href="http://shop.58.com/24059198710196756/">陕西奥诚汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://fz.58.com/ershouche/17671752312966x.shtml" target="_blank">
+<img title="起亚赛拉图 2006款 1.6GL AT-" src="http://1.pic.58control.cn/p1/small/n_s12224699994145912036.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://fz.58.com/ershouche/17671752312966x.shtml" title="起亚赛拉图 2006款 1.6GL AT" target="_blank">起亚赛拉图 2006款 1.6GL AT</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										15万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="福建原动力汽车销售服务有限公司" href="http://shop.58.com/24056708874069780/">福建原动力汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">福州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wz.58.com/ershouche/17659350081926x.shtml" target="_blank">
+<img title="起亚赛拉图 2006款 1.6GL AT-奥迪4S店置换车 车况精品" src="http://4.pic.58control.cn/p1/small/n_s12223115630168202055.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wz.58.com/ershouche/17659350081926x.shtml" title="起亚赛拉图 2006款 1.6GL AT-奥迪4S店置换车 车况精品" target="_blank">起亚赛拉图 2006款 1.6GL AT-奥迪4S店置换车 车况精品</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										12万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="温州红源汽车销售服务有限公司" href="http://shop.58.com/24061871747082303/">温州红源汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">温州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zz.58.com/ershouche/17659020974851x.shtml" target="_blank">
+<img title="起亚K5 2012款 2.0L DLX AT-河南得佳Audi品荐二手车中心" src="http://1.pic.58control.cn/p1/small/n_s12223076815356213016.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zz.58.com/ershouche/17659020974851x.shtml" title="起亚K5 2012款 2.0L DLX AT-河南得佳Audi品荐二手车中心" target="_blank">起亚K5 2012款 2.0L DLX AT-河南得佳Audi品荐二手车中心</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										1.6万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 15.7<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河南得佳汽车销售服务有限公司" href="http://shop.58.com/24230927328940351/">河南得佳汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">郑州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hd.58.com/ershouche/17638917568136x.shtml" target="_blank">
+<img title="起亚K5 2012款 2.0L DLX AT-车龄短 无事故 车况好经济适用" src="http://4.pic.58control.cn/p1/small/n_s12220502737798417024.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hd.58.com/ershouche/17638917568136x.shtml" title="起亚K5 2012款 2.0L DLX AT-车龄短 无事故 车况好经济适用" target="_blank">起亚K5 2012款 2.0L DLX AT-车龄短 无事故 车况好经济适用</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										8.99万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.98<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="邯郸市奥华汽车销售服务有限公司" href="http://shop.58.com/24060438535598143/">邯郸市奥华汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">邯郸</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="pagerout">
+<div class="pager">
+<strong><span>1</span></strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+		24小时客户关怀热线：400-8171-888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0431-85990888<br />
+		©58.com
+	</div>
+<div class="floatbar">
+<div class="liulan">
+<i class="bar01"></i>
+<div id="myfeetBox" class="hc">
+<ul id="feet_listLs">
+<h4 class="category">最近浏览的信息</h4>
+</ul>
+</div>
+</div>
+<a href="http://my.58.com/shoucangjianli/" id="collection" target="_blank"><i class="bar02"></i></a> <a href="#top"><i class="bar03"></i></a>
+</div>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/getcookie.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi_brandzone.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi.js"></script>
+<script type="text/javascript">
+		$(function() {
+			$('.liulan').hover(
+					function() {
+						$(this).addClass('hover');
+						$('#myfeetBox').show();
+						var container = document.getElementById("feet_listLs");
+						brandZoneNamespace.docookieFunction("final_history",
+								container);
+					}, function() {
+						$(this).removeClass('hover');
+						$('#myfeetBox').hide();
+					})
+		})
+		brandZoneNamespace.brandListEvent().fastSelectLevel().listMorebrand()
+				.dealerSearch().renZhengCar();
+	</script>
+<script type="text/javascript">
+		var achexi = $("#audi_chexi").find("a");
+		var url = window.location.href;
+		for(var i = 0 ; i &lt; achexi.length ; i++){
+			var $item =$(achexi[i]);
+			if($item.attr("href") == url){
+				$item.addClass("select");
+			}
+		}
+							
+	</script>
+<script type="text/javascript">
+		var _gaq = _gaq || [];
+		var site_name = "58";
+		var _trackURL = "{'cate':'29','area':'','pagetype':'list','class':'ershouche'}";
+		_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+		_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+		_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+		_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+		_gaq.push([ 'pageTracker._trackPageview',
+				'/car/ershouche/audi/ershouche/' ]);
+		$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+				: 'http://www')
+				+ '.google-analytics.com/ga.js');
+		$.getScript('http://tracklog.58.com/referrer4.js');
+	</script>
+</body>
+</html>

@@ -1,0 +1,283 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<title>【风云无双新手卡领取】风云无双礼包激活码 - 58游戏</title>
+<meta name="keywords" content="风云无双新手卡,风云无双礼包" />
+<meta name="description" content="58风云无双官网为广大玩家提供风云无双新手卡领取，同时了解风云无双礼包怎么用。给您最完整的风云无双新手卡服务，登陆即送风云无双礼包激活码！" />
+<link href="http://static.58.com/n/wan/game_2.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/n/wan/wbox.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="http://pic2.58.com/n/wan/index_1307/fyws_icon.jpg" />
+<link href="http://static.58.com/n/wan/index_login1.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://static.58.com/n/wan/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://static.58.com/n/wan/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/wbox.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+<script src="http://pic2.58.com/pso/pcuc.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	load_left();
+	doback();
+});
+
+//加载登录区域
+function load_left(){
+    $.ajax({
+        url: '/user/userinfo',
+        dataType: 'json',
+        cache:false,
+        success: function(data){
+            if (data.userid &gt; 0){
+                do_has_login(data);
+            }
+        }
+    });
+}
+
+//左侧区域登录后的文本
+function do_has_login(data){
+	var userid=data.userid;
+	if(userid){
+		var userid=data.userid;
+		if(userid){
+			nickname=data.username;
+			$('#logindiv').html('&lt;div class="d_user"&gt;&lt;p class="dl"&gt;&lt;b&gt;'+nickname+'&lt;/b&gt;&lt;a href="http://my.58.com"&gt;[个人中心]&lt;/a&gt;&lt;a href="https://passport.58.com/logout?back=now&amp;path=http://fyws.wan.58.com/libao/fyws"&gt;[退出]&lt;/a&gt;&lt;/p&gt;&lt;p id="loginp"&gt;&lt;b&gt;最近登录&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;');
+			$.ajax({
+				url: '/recentVisitServer?uid='+userid+"&gid;="+22418785480724,
+				cache:false,
+				 success: function(data){
+				 	$('#loginp').html(data);
+				 }
+			});
+		}
+	}
+}
+
+
+
+var info=$.cookie('PPU');
+function successFunction(){
+    login_back_call();
+}
+
+function doback(){
+   	$('#rememberLi').find('.passport-login-label').html("下次自动登录");
+   	$('#rememberLi').append('&lt;span id="forgetpassword-span"&gt;&lt;/span&gt; &lt;a id="forgetpassword-a" target="blank" href="https://passport.58.com/forgetpassword"&gt;忘记密码?&lt;/a&gt;');
+   	
+   	//密码输入框获添加背景图片
+	if($("#pptpassword").val() != ''){
+	  	$("#pptpassword").removeClass().addClass("passport-login-input passport-login-input-password");
+	}else{
+		$("#pptpassword").removeClass().addClass("passport_img");
+	};
+	  
+	  
+	//密码输入框获取焦点事件
+	$("#pptpassword").bind("focus",function(){
+	  $("#pptpassword").removeClass().addClass("passport-login-input passport-login-input-password");
+	});
+	//密码输入框失去焦点事件
+	$("#pptpassword").bind("blur",function(){
+	  if($("#pptpassword").val() == ''){
+	  	$("#pptpassword").removeClass().addClass("passport_img");
+	  }
+	});
+	
+	
+	//用户名输入框获取焦点事件
+	$("#pptusername").bind("focus",function(){
+	  $("#pptusername").val('');
+	  $("#pptpassword").removeClass().addClass("passport-login-input passport-login-input-password");
+	});
+	//用户名输入框失去焦点事件
+	$("#pptusername").bind("blur",function(){
+	  if($("#pptusername").val() == ''){
+	  	$("#pptusername").val('用户名/电子邮箱');
+	  }
+	  if($("#pptpassword").val() != ''){
+	  	$("#pptpassword").removeClass().addClass("passport-login-input passport-login-input-password");
+	  }else{
+		$("#pptpassword").removeClass().addClass("passport_img");
+	  };
+	});
+}
+
+function showservers() {
+	if(!info) 
+    {
+		danchu();
+		return false;
+	}              
+    if($("#server").is(":visible")==false)
+    {
+    	$("#server").show(); 
+    }else{
+		$("#server").hide(); 
+ 	}
+}
+
+function selectserver(id, name) {
+	$("#sid").val(id);
+	$("#showserver").html(name);
+	$("#server").hide(); 
+}
+
+function getnewcard() {
+	if(!info) {
+		danchu();
+		return false;
+	} 
+	var sid = $("#sid").val();
+	if (sid == '') {
+		alert("请选择服务器！");
+		return false;
+	}
+	$.getJSON('/getnewcardnum?gid='+22418785480724+"&sid;="+sid,
+	    function(data){
+			$("#sident").val(data.sident);
+			if (data.cardnum=='请稍后领取!') {
+				$("#msgdiv").html('&lt;p class="l_p"&gt;&lt;b&gt;'+data.cardnum+'&lt;/b&gt;&lt;/p&gt;&lt;p class="l_p"&gt;您的新手礼包激活码为：&lt;/p&gt;&lt;p&gt;&lt;span class="jhm"&gt;&lt;/span&gt;&lt;a class="fz" href="javascript:void(0)" onclick="copy()"&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul class="sz"&gt;&lt;li class="s_h"&gt;当前服务器：&lt;/li&gt;&lt;li class="p_dw"&gt;&lt;a class="sz_qy1" href="javascript:void(0)" onclick="intoGame()"&gt;'+data.sname+'&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="l_ks" href="javascript:void(0)" onclick="intoGame()"&gt;领取新手卡&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;');
+			} else {
+				$("#msgdiv").html('&lt;p class="l_p"&gt;&lt;b&gt;恭喜您领取成功！&lt;/b&gt;&lt;/p&gt;&lt;p class="l_p"&gt;您的新手礼包激活码为：&lt;/p&gt;&lt;p&gt;&lt;span class="jhm"&gt;'+data.cardnum+'&lt;/span&gt;&lt;a class="fz" href="javascript:void(0)" onclick="copy()"&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul class="sz"&gt;&lt;li class="s_h"&gt;当前服务器：&lt;/li&gt;&lt;li class="p_dw"&gt;&lt;a class="sz_qy1" href="javascript:void(0)" onclick="intoGame()"&gt;'+data.sname+'&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="l_ks" href="javascript:void(0)" onclick="intoGame()"&gt;领取新手卡&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;');
+			}
+	 });
+}
+
+function toreg(){
+	var backurl = location.href;
+	location.href = "/user/reg?backurl="+backurl;
+}
+
+function intoGame() {
+	var sident = $("#sident").val();
+	enterGame(sident,'fyws');
+}
+</script>
+</head>
+<body style="background:url(http://pic2.58.com/n/wan/index_1307/fywsbj.jpg) center 40px no-repeat #000;">
+<input type="hidden" id="gid" name="gid" value="22418785480724" />
+<input type="hidden" id="sid" name="sid" />
+<input type="hidden" id="sident" name="sident" />
+<div class="head">
+<div class="top">
+<span class="logo"><a href="#"><img src="http://pic2.58.com/n/wan/yx_img/head_02.jpg" /></a></span>
+<ul class="game_top_recomend">
+	      推荐：<a target="_blank" class="game_01" href="http://bbs.wan.58.com/ad/wan/wz/">武尊</a>
+<a target="_blank" class="game_ns" href="http://bbs.wan.58.com/ad/wan/mm/">女神联盟</a>
+<a target="_blank" class="game_04" href="http://bbs.wan.58.com/ad/wan/jjsg/">街机三国</a>
+</ul>
+<ul class="nav"><a href="http://bbs.wan.58.com/ad/home/jiaoyouwenzi/" target="_blank">【点击进入】老公，今晚我还要……玩这个！</a></ul>
+</div>
+</div>
+<div class="box">
+<a href="#" onclick="enterGame('wan_44','fyws');return false;" class="flash"></a>
+<div class="ks">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="344" height="125">
+<param name="movie" value="http://pic2.58.com/n/wan/yx_img/ksyx.swf">
+</param><param name="quality" value="high">
+</param><param name="wmode" value="transparent">
+<embed src="http://pic2.58.com/n/wan/yx_img/ksyx.swf" width="344" height="125" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>
+</param></object>
+</div>
+<div class="login" id="logindiv">
+<div class="loginBox" id="wanlogin">
+<script src="http://passport.58.com/uiscript?successFunction=successFunction" type="text/javascript"></script>
+<input type="submit" class="passport-reg-button" value="注册" onclick="toreg()" />
+</div>
+</div>
+<div class="lq_xsk" id="msgdiv">
+<p class="l_ts" id="message">新手卡领取:<br /></p>
+<ul class="sz"><li class="s_h">选择服务器：</li>
+<li class="p_dw"><a class="sz_qy" href="javascript:void(0)" onclick="showservers()" id="showserver">请选择服务器</a>
+<p class="tc_q" style="display:none" id="server">
+<a href="javascript:void(0)" onclick="selectserver('23078753135380','58畅游44区')" id="23078753135380">58畅游44区</a>
+<a href="javascript:void(0)" onclick="selectserver('23069133262100','58畅游43区')" id="23069133262100">58畅游43区</a>
+<a href="javascript:void(0)" onclick="selectserver('23055987740691','58畅游42区')" id="23055987740691">58畅游42区</a>
+<a href="javascript:void(0)" onclick="selectserver('23055979393299','58畅游41区')" id="23055979393299">58畅游41区</a>
+<a href="javascript:void(0)" onclick="selectserver('23055970769427','58畅游40区')" id="23055970769427">58畅游40区</a>
+<a href="javascript:void(0)" onclick="selectserver('23041534780692','58畅游39区')" id="23041534780692">58畅游39区</a>
+<a href="javascript:void(0)" onclick="selectserver('23034766430995','58畅游38区')" id="23034766430995">58畅游38区</a>
+<a href="javascript:void(0)" onclick="selectserver('23013213254420','58畅游37区')" id="23013213254420">58畅游37区</a>
+<a href="javascript:void(0)" onclick="selectserver('23012352274963','58畅游36区')" id="23012352274963">58畅游36区</a>
+<a href="javascript:void(0)" onclick="selectserver('22990868205331','58畅游35区')" id="22990868205331">58畅游35区</a>
+<a href="javascript:void(0)" onclick="selectserver('22990814933523','58畅游34区')" id="22990814933523">58畅游34区</a>
+<a href="javascript:void(0)" onclick="selectserver('22990786059539','58畅游33区')" id="22990786059539">58畅游33区</a>
+<a href="javascript:void(0)" onclick="selectserver('22968206913300','58畅游32区')" id="22968206913300">58畅游32区</a>
+<a href="javascript:void(0)" onclick="selectserver('22952995004179','58畅游31区')" id="22952995004179">58畅游31区</a>
+<a href="javascript:void(0)" onclick="selectserver('22948891233043','58畅游30区')" id="22948891233043">58畅游30区</a>
+<a href="javascript:void(0)" onclick="selectserver('22931745778963','58畅游29区')" id="22931745778963">58畅游29区</a>
+<a href="javascript:void(0)" onclick="selectserver('22924803064852','58畅游28区')" id="22924803064852">58畅游28区</a>
+<a href="javascript:void(0)" onclick="selectserver('22911661174548','58畅游27区')" id="22911661174548">58畅游27区</a>
+<a href="javascript:void(0)" onclick="selectserver('22901354439188','58畅游26区')" id="22901354439188">58畅游26区</a>
+<a href="javascript:void(0)" onclick="selectserver('22886305164051','58畅游25区')" id="22886305164051">58畅游25区</a>
+<a href="javascript:void(0)" onclick="selectserver('22879333237267','58畅游24区')" id="22879333237267">58畅游24区</a>
+<a href="javascript:void(0)" onclick="selectserver('22865230435092','58畅游23区')" id="22865230435092">58畅游23区</a>
+<a href="javascript:void(0)" onclick="selectserver('22858476918803','58畅游22区')" id="22858476918803">58畅游22区</a>
+<a href="javascript:void(0)" onclick="selectserver('22842305241876','58畅游21区')" id="22842305241876">58畅游21区</a>
+<a href="javascript:void(0)" onclick="selectserver('22835563856403','58畅游20区')" id="22835563856403">58畅游20区</a>
+<a href="javascript:void(0)" onclick="selectserver('22819774197268','58畅游19区')" id="22819774197268">58畅游19区</a>
+<a href="javascript:void(0)" onclick="selectserver('22814221795604','58畅游18区')" id="22814221795604">58畅游18区</a>
+<a href="javascript:void(0)" onclick="selectserver('22799298032148','58畅游17区')" id="22799298032148">58畅游17区</a>
+<a href="javascript:void(0)" onclick="selectserver('22788822233107','58畅游16区')" id="22788822233107">58畅游16区</a>
+<a href="javascript:void(0)" onclick="selectserver('22775155855379','58畅游15区')" id="22775155855379">58畅游15区</a>
+<a href="javascript:void(0)" onclick="selectserver('22768806300179','58畅游14区')" id="22768806300179">58畅游14区</a>
+<a href="javascript:void(0)" onclick="selectserver('22754969277203','58畅游13区')" id="22754969277203">58畅游13区</a>
+<a href="javascript:void(0)" onclick="selectserver('22746696619539','58畅游12区')" id="22746696619539">58畅游12区</a>
+<a href="javascript:void(0)" onclick="selectserver('22746679509268','58畅游11区')" id="22746679509268">58畅游11区</a>
+<a href="javascript:void(0)" onclick="selectserver('22725202552595','58畅游10区')" id="22725202552595">58畅游10区</a>
+<a href="javascript:void(0)" onclick="selectserver('22702811871251','58畅游9区')" id="22702811871251">58畅游9区</a>
+<a href="javascript:void(0)" onclick="selectserver('22680565413395','58畅游8区')" id="22680565413395">58畅游8区</a>
+<a href="javascript:void(0)" onclick="selectserver('22648338733587','58畅游7区')" id="22648338733587">58畅游7区</a>
+<a href="javascript:void(0)" onclick="selectserver('22622753502996','58畅游6区')" id="22622753502996">58畅游6区</a>
+<a href="javascript:void(0)" onclick="selectserver('22614149372436','58畅游5区')" id="22614149372436">58畅游5区</a>
+<a href="javascript:void(0)" onclick="selectserver('22593352531475','58畅游4区')" id="22593352531475">58畅游4区</a>
+<a href="javascript:void(0)" onclick="selectserver('22570030154771','58畅游3区')" id="22570030154771">58畅游3区</a>
+<a href="javascript:void(0)" onclick="selectserver('22525796794387','58畅游2区')" id="22525796794387">58畅游2区</a>
+<a href="javascript:void(0)" onclick="selectserver('22419258938132','58畅游1区')" id="22419258938132">58畅游1区</a>
+</p>
+</li>
+<li><a class="lq" href="javascript:void(0)" onclick="getnewcard()">领取新手卡</a></li></ul>
+</div>
+</div>
+<div class="bottom">
+<dl><dt><a href="#"><img src="http://pic2.58.com/n/wan/yx_img/bottom_logo.jpg" /></a></dt>
+<dd><span><a href="http://about.58.com/index.html" target="_blank">联系客服</a><i>|</i><a href="http://about.58.com/home/" target="_blank">关于我们</a><i>|</i><a href="http://about.58.com/home/cooperation.html" target="_blank">合作洽谈</a><i>|</i><a href="http://e.58.com/" target="_blank">推广服务</a><i>|</i><a href="http://about.58.com/hr/" target="_blank">加入我们</a><i>|</i><a href="http://www.58.com/xiaoyuan/" target="_blank">校园招聘</a></span>
+<span>京ICP证030609号 津网文[2013]0121-02</span>
+<span>北京五八信息技术有限公司 &copy; 58.com</span></dd></dl>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+function copy() {
+	if (window.clipboardData) {
+        window.clipboardData.setData("text", $(".jhm").html());
+        alert("复制成功");
+    } else {
+    	alert("您使用的不是IE浏览器，请使用Ctrl+C复制");
+    }
+}
+</script>
+<script type="text/javascript">	var _gaq = _gaq || []; var site_name = "58"; 
+		_gaq.push(['_setAccount', 'UA-877409-4']); 
+		_gaq.push(['_setDomainName', '.58.com']);
+		_gaq.push(['_setAllowLinker', true]);
+		_gaq.push(['_addOrganic', 'sogou', 'query']);
+		_gaq.push(['_addOrganic', 'baidu', 'word']);
+		_gaq.push(['_addOrganic', 'soso', 'w']); 
+		_gaq.push(['_addOrganic', 'youdao', 'q']);
+		_gaq.push(['_addOrganic', '360', 'q']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcf56b981790bf3ad622276d9e97228ff' type='text/javascript'%3E%3C/script%3E"));
+</script>

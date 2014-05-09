@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>深圳长城开发科技股份有限公司2014年最新招聘信 - 58同城</title>
+<meta name="keywords" content="深圳长城开发科技股份有限公司" />
+<meta name="description" content="深圳长城开发科技股份有限公司成立于1985年。1994年深圳长城开发科技股份有限公司在深交所挂牌上市（证券简称：长城开发，代码：000021，原股票简称深科技），由长城科技股份有限" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript"> 
+	function changeClass(){
+		var parentName = document.getElementById("pname").value;
+		var allLi = document.getElementsByName("pli");
+		if(typeof(allLi)!=='undefined'){
+			for(i=0;i&lt;allLi.length;i++){
+				var li = allLi[i];
+				var liVal = li.firstChild.firstChild.innerHTML;
+				if(liVal===parentName){
+					var attr = document.createAttribute("class");
+         	attr.value="active";
+         	li.setAttributeNode(attr);
+					break;
+				}
+			}		
+		}
+	}
+</script>
+<body>
+<!-- Baidu Button BEGIN 
+&lt;script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;pos=right&amp;uid=6862043" &gt;&lt;/script&gt;
+&lt;script type="text/javascript" id="bdshell_js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+var bds_config={"bdTop":140};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+&lt;/script&gt;
+ Baidu Button END -->
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left"><h2></h2> <span id="ipconfig"></span></div>
+<div class="bar_right">
+<div id="login"><a rel="nofollow" target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">登录</a><span class="gap">|</span><a rel="nofollow" target="_self" href="https://passport.58.com/reg/">注册</a></div>
+</div></div></div>
+<div id="header">
+<div id="headerinside"><div id="logo"><a target="_blank" href="http://58.com/"><img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" /></a><span>中国500强企业</span></div>
+<span><a rel="nofollow" style="background: url(http://pic2.58.com/ui6/index/newbg.png) no-repeat scroll 0 -147px transparent;color: #FFFFFF;cursor: pointer;display: inline-block;float: left;font-size: 14px;font-weight: bold;height: 34px;line-height: 34px;position: absolute;right: 10px;text-align: center;top: 11px;width: 117px;" target="_blank" href="http://post.58.com/1/">免费发布信息</a></span></div>
+</div>
+<div id="nav" class="active">
+<div id="navin" class="active">
+<ul>
+<li><a href="/qiye/">首页</a></li>
+<li name="pli" id="pli"><a href="/qiyezixun/"><span>企业最新资讯</span></a></li>
+<li name="pli" id="pli"><a href="/qiyewenhua/"><span>企业文化</span></a></li>
+<li name="pli" id="pli"><a href="/qiyezhaopin/"><span>企业招聘指南</span></a></li>
+<li name="pli" id="pli"><a href="/top500/"><span>世界500强企业</span></a></li>
+<li name="pli" id="pli"><a href="/china500/"><span>中国500强企业</span></a></li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="企业百科" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input name="word" size="21" maxlength="100" type="text" placeholder="58生活资讯" onfocus="if(this.placeholder=='58生活资讯'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='58生活资讯';}" />
+<input type="submit" value="资讯搜索" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+</div>
+</div>
+<script type="text/javascript">changeClass();</script>
+<div class="content ej">
+<div class="box">
+<div class="left fl">
+<div><a rel="nofollow" href="http://zp.58.com/yy/2014spring/" target="_blank"><img style="border:none;" src="http://www.58.com/zp_images/allimg/131128/yjsguanggao.jpg" alt="58招聘季" /></a></div>
+<h2><span class="daohang"><a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/qiye/">企业百科</a> &gt; <a href="/china500/">中国500强企业</a> &gt; </span></h2>
+<div class="wenzhang">
+<h1>深圳长城开发科技股份有限公司2014年最新招聘信</h1>
+<div class="sm">来源：58.com     2013-10-30 15:19 </div>
+<table cellpadding="0" cellspacing="0" width="100%" id="content">
+<tr><td>
+<p>深圳长城开发科技股份有限公司成立于1985年。1994年深圳长城开发科技股份有限公司在深交所挂牌上市（证券简称：长城开发，代码：000021，原股票简称&ldquo;深科技&rdquo;），由长城科技股份有限公司控股，是中国电子信息产业集团的核心企业之一。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 深圳长城开发科技股份有限公司致力于自主产品、先进制造和零部件三大业务领域，特别是硬盘磁头、计量系统、支付终端产品、数字家庭产品及LED的研发生产，以及电子产品的先进制造。公司在新加坡、美国、澳大利亚、香港设有分支机构或拥有研发团队，到2015年，公司将完成包括深圳、苏州、东莞、惠州四个研发制造基地的建立布局，现有员工超过10000人。建立了集合技术研发、工艺设计、生产控制、采购管理、物流支持等不同服务模块的完整EMS服务链，为全球客户提供高端电子产品研发及制造服务， 2012年，公司工业产值164亿元。2012年，深圳长城开发科技股份有限公司在MMI全球EMS行业排名中位列第七。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 深圳长城开发科技股份有限公司拥有中国国家认可委员会（CNAS）认可的专业实验室，具备优秀的可靠性、材料分析、先进机械、热仿真、表面贴装（SMT）、以及静电防护等工程技术能力，被认定为广东省工程技术中心和深圳市公共技术平台。<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 目前，深圳长城开发科技股份有限公司90%的磁头产品已经实现了自动化或半自动化生产，加之在防振、脏污控制、防静电干扰、高等级净化间生产控制等方面的工程能力，使磁头制造处于国际同行领先水平。深圳长城开发科技股份有限公司是全球第二大硬盘磁头专业制造商，也是中国唯一的硬盘盘基片制造商，掌握硬盘盘基片的核心制造技术，彩田园区是深圳政府授予的特色存储产业园，拥有国内唯一完整的磁记录产业链。<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 深圳长城开发科技股份有限公司是国内电表行业标准的制定者之一、自主研发生产的远程控制电表及系统和防窃电电表达到国际领先水平，远程控制电表被认定为国家级重点产品，批量出口到欧洲、南亚和东南亚等地，成为中国最大的远程控制电表及系统出口商。公司是税控收款机国家标准主要起草人，在国标税控收款机市场位列前三甲。作为高清播放产品研发与生产的领先企业之一，长城开发正成为家庭数字娱乐市场重要的技术提供商和产品制造商。<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 自成立以来，深圳长城开发科技股份有限公司积极履行社会责任，兴建希望小学、资助贫困大学生、为驻港部队建设图书阅览室、参与深圳市红十字会&ldquo;燃料行动&rdquo;项目，有计划地捐款救助深圳地中海贫血儿童，并向贵州贫困地区、新疆和田贫困地区、湖南怀化灾区、广东省抗洪灾区、四川地震灾区、西南干旱灾区慷慨解囊，以实际行动积极参与救灾扶贫和教育领域的公益行动。公司致力于节能减排和低碳发展，率先成为&ldquo;深圳生态工业园&rdquo;和&ldquo;广东省清洁生产企业&rdquo;。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 深圳长城开发科技股份有限公司追求卓越运营和共同发展，不仅造就了中国企业500强和深圳工业百强企业前十名的行业地位，也使长城开发赢得了全球各地客户的广泛认可。面对未来，深圳长城开发科技股份有限公司志在成为全球电子信息产业链中关键产品、技术及服务的重要提供商，跨入全球EMS企业前列。</p>
+<p>更多精彩文章推荐：</p>
+<p><a href="http://www.58.com/china500/20131031319035.html">深圳市怡亚通供应链股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031319034.html">海丰国际控股有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031319033.html">浙江盾安人工环境股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031319032.html">山西兰花科技创业股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031319031.html">中国天瑞集团水泥有限公司</a></p>
+</td></tr>
+</table>
+<div class="n_p">
+<!-- 百度分享 横向 kong 2013.11.26 -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+<a class="bds_qzone"></a>
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+<span class="bds_more">更多</span>
+<a class="shareCount"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script><br /><br />
+<!-- 百度分享 横向 kong 2013.11.26 -->
+                上一篇：<a href="/china500/20131030315380.html">中铝国际工程股份有限公司2014年最新招聘信息</a> <br />
+
+
+
+                    下一篇：<a href="/china500/20131030315960.html">华润燃气控股有限公司2014年最新招聘信息</a>
+<center><tr><td>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span>
+</td></tr></center>
+</div>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt>
+<strong>热门职位推荐</strong>
+</dt>
+<dd class="hotpList">
+<a href="/yewu/">销售</a>
+<a href="/bianji/">编辑</a>
+<a href="/wenziluru/">文员</a>
+<a href="/sheji/">平面设计</a>
+<a href="/jiaoshi/">教师</a>
+<a href="/yiliao/">医生</a>
+<a href="/waimaozhuanyuan/">外贸专员</a>
+<a href="/kefu/">客服</a>
+<a href="/caiwu/">会计</a>
+<a href="/qiantai/">前台</a>
+<a href="/wangzhanmeigong/">网页制作</a>
+<a href="/youerjiaoshi/">幼教</a>
+<a href="/hushi/">护士</a>
+<a href="/shichang/">市场公关</a>
+<a href="/dyao/">导游</a>
+<a href="/fanyizhaopin/">翻译</a>
+<a href="/zhaopinjingli/">人事专员</a>
+<a href="/jishuzhichi/">技术支持</a>
+<a href="/jypeixunshi/">培训师</a>
+<a href="/lfawurenyuan/">法务专员</a>
+<a href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+<!--   相关资讯   -->
+<div class="n_p">
+<h3 class="about">深圳长城开发科技股份有限公司2014年最新招聘信相关推荐</h3>
+<div class="ul2">
+<ul>
+<li><span>02-20</span><a href="/china500/20140220628352.html" title="" target="_self">上海隧道工程股份有限公司招聘</a></li>
+<li><span>02-20</span><a href="/china500/20140220628349.html" title="" target="_self">上海隧道工程股份有限公司怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628347.html" title="" target="_self">平顶山煤业集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628346.html" title="" target="_self">平顶山天安煤业</a></li>
+<li><span>02-20</span><a href="/china500/20140220628341.html" title="" target="_self">东部华侨城招聘信息</a></li>
+<li><span>02-20</span><a href="/china500/20140220628340.html" title="" target="_self">深圳华侨城集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628339.html" title="" target="_self">百度理财怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628337.html" title="" target="_self">百度公司地址</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<!--   相关资讯   -->
+</div>
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>栏目推荐</h2>
+<div class="tuijian"><a class="y5" href="/china500/20131107347109.html">2013中国企业500强排行榜</a><a class="y1" href="/qiyezixun/">企业最新资讯</a><a class="y4" href="/qiyezhaopin/">企业招聘信息</a><a class="y3" href="/qiyefazhan/">企业发展</a><a class="y2" href="/qiyewenhua/">企业文化</a><a class="y5" href="/qiyerenwu/">企业热点人物</a></div>
+</div>
+<div class="hot fl">
+<h2>58同城官方微信二维码</h2>
+<ul class="j">
+<a target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" height="220" width="220" src="http://www.58.com/zp_images/allimg/131014/qrcode_for_gh_e21b1c81eaab_258.jpg" /> </a>
+<li>功能：职位订阅 精准推送 </li>
+<li>公众号：58同城</li>
+<li>微信号：amazing58</li>
+<li>提示：打开微信，点击底部菜单</li>
+<li>"发现"，选择"扫一扫"功能对准上</li>
+<li>方二维码即可关注。</li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热点排行</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029296813.html" target="_blank">百丽国际控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297213.html" target="_blank">tcl多媒体科技控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297435.html" target="_blank">恒逸石化股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297612.html" target="_blank">天音通信控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297838.html" target="_blank">中海集装箱运输股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297959.html" target="_blank">芜湖港储运股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029300672.html" target="_blank">内蒙古伊泰煤炭股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301113.html" target="_blank">中航国际控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301281.html" target="_blank">山西西山煤电股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029302414.html" target="_blank">玖龙纸业(控股)有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>推荐阅读</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029303151.html" target="_blank">中国大冶有色金属矿业有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029303672.html" target="_blank">远洋地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304067.html" target="_blank">世茂房地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304254.html" target="_blank">上海国际港务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029306451.html" target="_blank">湖南有色金属股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309731.html" target="_blank">创维数码控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309992.html" target="_blank">永辉超市股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310044.html" target="_blank">中国船舶工业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310177.html" target="_blank">国投电力控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273084.html" target="_blank">荣盛石化股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>精彩专区</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131025273301.html" target="_blank">一汽轿车股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273513.html" target="_blank">中海油田服务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275447.html" target="_blank">深圳华侨城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275560.html" target="_blank">平顶山天安煤业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276242.html" target="_blank">国电科技环保集团股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276774.html" target="_blank">中国雨润食品集团有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293347.html" target="_blank">阳煤化工股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293999.html" target="_blank">安阳钢铁股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295331.html" target="_blank">上海豫园旅游商城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295574.html" target="_blank">山西潞安环保能源开发股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"><a href="/qiyezixun/">企业最新资讯</a>  |  <a href="/qiyewenhua/">企业文化</a>  |  <a href="/qiyefazhan/">企业发展</a>  |<a href="/qiyezhaopin/">企业招聘信息</a>|  <a href="/qiyerenwu/">企业热点人物</a></p>
+<div id="flink"><strong>友情链接</strong>:<a target="_blank" href="http://bj.kuche.com/"></a> <a rel="nofollow" target="_blank" href="/link.html">更多...</a> </div>
+<div id="footer">© 58.com <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">帮助中心</a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffef543bf67b8f904475a9ebf319ee80d' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+	var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info/qiye'+mod+'/detail/';
+
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+</body>
+</html>

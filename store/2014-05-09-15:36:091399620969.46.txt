@@ -1,0 +1,1088 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base target="_blank" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【北京商街|北京黄页114查询】 - 北京58同城</title>
+<meta name="Keywords" content="北京商街,北京黄页,北京商家大全，北京生活服务" />
+<meta name="Description" content="58同城网北京商街,是最全面的北京本地生活服务平台,是真实性和时效性最好的北京商家信息展示平台。为您提供北京搬家,北京家政,北京月嫂,北京保洁,北京回收,北京装修,北京餐饮,北京旅游等几百类本地服务的精准商家服务信息。" />
+<link href="http://static.58.com/ds/v1/base.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/ds/fwdq/css140416.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">try { var ____json4fe = { catentry: { dispid: '', name: '', listname: 'city' }, locallist: { dispid: '1', name: '北京', listname: 'bj' }, start:(new Date()).getTime(),version:'A',modules: 'home'} } catch (e) { };</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/1.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/72/43.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_toplist_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3','1','',true);win.setSearchButton('searchbtn'); writeCookie("city", "bj", "58.com", "30","/");</script>
+<script type="text/javascript" src="http://static.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<script type="text/javascript">
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+
+</script>
+<script type="text/javascript">
+BAIDU_CLB_preloadSlots("345029","345028","345027","345026","345024","345023","345022","345009","345008","345007","345006","345005","345004","345003","345002","345001","345000","344999","344998","344997","344996","344995","344994","344947","346771","346772","346773","346775","346776");
+</script>
+<script src="http://pic2.58.com/js/jquery-1.8.3.js" type="text/javascript"></script>
+<script src="http://static.58.com/ds/fwdq/jquery.plugin.min.js" type="text/javascript"></script>
+<style type="text/css">
+.KSS_titleBar,.KSS_titleBox{ display:none;}
+</style>
+</head>
+<body>
+<!--=topbar=-->
+<div id="topbar"></div>
+<!--=header=-->
+<div id="header">
+<span class="logo"><a href="/" target="_blank">58同城</a></span>
+<div id="searchbar">
+<div class="saerkey">
+<i id="key"><input type="text" id="keyword" class="keyword" value="请输入类别名称或关键字" onfocus="if(this.value=='请输入类别名称或关键字')this.value='',this.className='keyword2'" onblur="win.closeToolTipWindow();" onkeyup="win.GetContentData();" /></i>
+<input type="button" name="button" class="btnall" id="searchbtn" value="同城搜索" onmousemove="this.className='btnal2'" onmouseout="this.className='btnall'" onmousedown="this.className='btnal3'" />
+</div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript">SetCurWindowLoadComplete();SetCurWindowLoadComplete=function(){};</script>
+<a href="http://post.58.com/1/" class="postbtn"><i></i>免费发布信息</a>
+</div>
+<!--=nav=-->
+<div class="navbox borcol">
+<div style="width:1000px; margin:0 auto; position:relative;">
+<ul class="navbar">
+<li><a href="/">首页</a></li>
+<li><a href="/job.shtml">招聘</a></li>
+<li><a href="/zufang/">租房</a></li>
+<li><a href="/ershoufang/">二手房</a></li>
+<li><a href="/ershouche/">二手车</a></li>
+<li><a href="/sale.shtml">二手市场</a></li>
+<li><a href="http://t.58.com/bj/?utm_source=58.com_huanye_nav">团购</a></li>
+<li class="on"><a href="/huangye/">服务大全</a></li>
+</ul>
+<ul class="rightside">
+<li><a href="http://8.58.com/?from=58_jinrong_huangye" class="on">我要贷款</a></li>
+<li><a href="http://static.58.com/ui7/help/index.html">消费者保障计划</a></li>
+<li><a href="http://e.58.com/">推广服务</a></li>
+</ul>
+</div>
+</div>
+<!--=banner=-->
+<div class="indexbox">
+<div class="indexboxm">
+<div class="index_l">
+<div class="indexmm"></div>
+<div class="index_l_text">
+<ul>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/shenghuo.shtml" class="t_l">家政</a><a href="/banjia/">搬家</a><a href="/baomu/">保姆/月嫂</a><a href="/dianqi/">家电维修</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/hunjiehunqing.shtml" class="t_l">婚庆</a><a href="/lifu/">婚纱</a><a href="/hunqinggongsi/">婚庆公司</a><a href="/gerenxiezhen/">写真</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/jiaoyu.shtml" class="t_l">教育</a><a href="/jiajiao/">家教</a><a href="/zhiyepeix/">职业培训</a><a href="/shejipeixun/">艺术培训</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/shangwu.shtml" class="t_l">商务</a><a href="/zhuce/">工商注册</a><a href="/danbaobaoxiantouzi/">投资担保</a><a href="/lvshi/">法律咨询</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/zhuangxiujc.shtml" class="t_l">装修</a><a href="/jiazhuang/">家装</a><a href="/jichujc/">建材</a><a href="/jiajusp/">家具</a><a href="/gongzhuang/">工装服务</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/qichefw.shtml" class="t_l">汽车</a><a href="/zuche/">租车</a><a href="/peilian/">陪练</a><a href="/peijia/">代驾</a><a href="/cheliangfuwu/">汽车装饰</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/lvyouxiuxian.shtml" class="t_l">旅游</a><a href="/caizhai/">采摘</a><a href="/zhoubianyou/">周边游</a><a href="/nongjiale/">农家乐</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/yiliaobaojian.shtml" class="t_l">医疗</a><a href="/tijian/">体检</a><a href="/zuliaozy/">足疗足浴</a><a href="/zhongyitn/">中医推拿</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/canyin.shtml" class="t_l">餐饮</a><a href="/zhongcanyin/">美食</a><a href="/waimai/">快餐外卖</a><a href="/yanhuican/">宴会餐</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/xiuxianyl.shtml" class="t_l">休闲</a><a href="/xiyuzx/">洗浴中心</a><a href="/ktv/">KTV</a><a href="/jianshen/">运动健身</a></span>
+</li>
+<li class="ym-tab">
+<span class="dlb_l"><a href="/zhaoshang.shtml" class="t_l">加盟</a><a href="/canyinjia/">餐饮加盟</a><a href="/fuzhuangjia/">服装加盟</a><a href="/jiancaijm/">建材加盟</a></span>
+</li>
+</ul>
+</div>
+</div>
+<div class="indexmr">
+<div class="bmbox">
+<ul>
+<li><a href="http://about.58.com/14.html" title="如何注册成为58用户？">如何注册成为58用户？</a></li>
+<li><a href="http://e.58.com/pas_wanglintong" title="生活服务版网邻通 特有标识 排序优先！">生活服务版网邻通 特有标识 排序优先！</a></li>
+<li><a href="http://about.58.com/35.html?cateid=1#b" title="我在哪里提交资料进行认证？">我在哪里提交资料进行认证？</a></li>
+<li><a href="http://static.58.com/ui7/help/sh_index.html" title="生活服务消费者保障计划">生活服务消费者保障计划</a></li>
+<li class="bottomnone"><a href="http://static.58.com/ui7/help/dz_index.html" title="短租日租-免费预订，担保支付！">短租日租-免费预订，担保支付！</a></li>
+</ul>
+</div>
+<div class="bmbox_pic">
+<ul>
+<li class="bm_img"><a href="http://jiaoyou.58.com/"><img src="http://pic2.58.com/ds/fwdq/b01.jpg" width="103" height="76" /></a><i class="mask"></i></li>
+<li><a href="/caizhai/"><img src="http://pic2.58.com/ds/fwdq/b02_cz.jpg" width="103" height="76" /></a><i class="mask"></i></li>
+<li class="bm_img"><a href="http://jipiao.58.com/"><img src="http://pic2.58.com/ds/fwdq/b03.jpg" width="103" height="76" /></a><i class="mask"></i></li>
+<li><a href="http://hotel.58.com/"><img src="http://pic2.58.com/ds/fwdq/b04.jpg" width="103" height="76" /></a><i class="mask"></i></li>
+</ul>
+</div>
+<script>
+           $(function(){
+				$(".bmbox_pic li").mouseover(function(){
+					$(this).parent().find(".mask").show();
+					$(this).children(".mask").hide();
+				})
+				$(".bmbox_pic li").mouseout(function(){
+					$(this).children(".mask").show();
+				})
+				$(".bmbox_pic").mouseout(function(){
+					$(this).children().find(".mask").hide();
+				})
+			})
+            </script>
+</div>
+</div>
+<!--banner-->
+<div id="banner">
+<ul id="banner_img">
+<li class="item1">
+<div class="wrapper">
+<div class="ad_txt">
+<img alt="" src="http://pic2.58.com/ds/fwdq/jinrong02.png" />
+<a target="_blank" href="http://8.58.com/?from=58_jinrong_huangye">去看看</a>
+</div>
+<div class="ad_img">
+<img alt="" src="http://pic2.58.com/ds/fwdq/jinrong01.png" />
+</div>
+</div>
+</li>
+<li class="item2">
+<div class="wrapper">
+<div class="ad_txt">
+<img alt="" src="http://pic2.58.com/ds/fwdq/czj02.png" />
+<a target="_blank" href="/caizhai/">去看看</a>
+</div>
+<div class="ad_img">
+<img alt="" src="http://pic2.58.com/ds/fwdq/czj01.png" />
+</div>
+</div>
+</li>
+<li class="item3">
+<div class="wrapper">
+<div class="ad_txt">
+<img alt="" src="http://pic2.58.com/ds/fwdq/yphq02.png" />
+<a target="_blank" href="/hunqing/?utm_source=58_huangye_hunqing">去看看</a>
+</div>
+<div class="ad_img">
+<img alt="" src="http://pic2.58.com/ds/fwdq/yphq01.jpg" />
+</div>
+</div>
+</li>
+<li class="item4">
+<div class="wrapper">
+<div class="ad_txt">
+<img alt="" src="http://pic2.58.com/ds/fwdq/bjbc02.png" />
+<a target="_blank" href="/banjia/">去看看</a>
+</div>
+<div class="ad_img">
+<img alt="" src="http://pic2.58.com/ds/fwdq/bjbc01.png" />
+</div>
+</div>
+</li>
+<li class="item5">
+<div class="wrapper">
+<div class="ad_txt">
+<img alt="" src="http://pic2.58.com/ds/fwdq/jktj02.png" />
+<a target="_blank" href="http://t.58.com/special/aktjzt/">去看看</a>
+</div>
+<div class="ad_img">
+<img alt="" src="http://pic2.58.com/ds/fwdq/jktj01.png" />
+</div>
+</div>
+</li>
+<li class="item6">
+<div class="wrapper">
+<div class="ad_txt">
+<img alt="" src="http://pic2.58.com/ds/fwdq/zbm02.png" />
+<a target="_blank" href="/baomu/">去看看</a>
+</div>
+<div class="ad_img">
+<img alt="" src="http://pic2.58.com/ds/fwdq/zbm01.png" />
+</div>
+</div>
+</li>
+<li class="item7">
+<div class="wrapper">
+<div class="ad_txt">
+<img alt="" src="http://pic2.58.com/ds/fwdq/zcwy02.png" />
+<a target="_blank" href="/zuche/">去看看</a>
+</div>
+<div class="ad_img">
+<img alt="" src="http://pic2.58.com/ds/fwdq/zcwy01.png" />
+</div>
+</div>
+</li>
+</ul>
+<div id="banner_ctr">
+<div id="drag_ctr" style=""></div>
+<ul>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+</ul>
+<div id="drag_arrow" style=""></div>
+</div>
+</div>
+<script type="text/javascript" src="http://static.58.com/ds/fwdq/fashionfoucs.js"></script>
+</div>
+<div class="main">
+<div class="box_cont">
+<!--=家政服务=-->
+<div class="xbox xbox_w">
+<h5 class="bt"><a href="/shenghuo.shtml">家政服务</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/banjia/" class="all0">搬家</a>
+<a href="/juminbj/" class="all">居民搬家</a>
+<a href="/xiaoxingbanjia/">小型搬家</a>
+<a href="/kongtiaochaizhuang/">空调移机</a>
+<a href="/changtubanjia/">长途搬家搬运</a>
+</li>
+<li><a href="/baomu/" class="all0">保姆/月嫂</a>
+<a href="/zhongdiangong/" class="all">钟点工</a>
+<a href="/bmu/">保姆</a>
+<a href="/yiliaopeihu/">陪护</a>
+<a href="/yuesao/">月嫂</a>
+<a href="/yuyingshi/">育婴师/育儿嫂</a>
+<a class="all" href="/yanglaoyuan/">养老院</a>
+</li>
+<li><a href="/dianqi/" class="all0">家电维修</a>
+<a href="/shoujiweixiu/" class="all">手机维修</a>
+<a href="/dianshiweixiu/">电视维修</a>
+<a href="/reshuiqiweixiu/">热水器维修</a>
+<a href="/chufangwx/">厨房家电维修</a>
+</li>
+<li><a href="/baojie/" class="all0">保洁清洗</a>
+<a href="/jiatingbaojie/">家庭保洁</a>
+<a href="/richangbaojie/">物业保洁</a>
+<a href="/kaihuangbaojie/">开荒保洁</a>
+<a href="/youyan/">油烟机清洗</a>
+</li>
+<li><a href="/weixiu/" class="all0">电脑维修</a>
+<a href="/taishidiannao/">台式电脑维修</a>
+<a href="/bijibenweixiu/">笔记本维修</a>
+<a href="/wangluoweixiu/">网络维修</a>
+<a href="/fuwuqiweixiu/">服务器维修</a>
+</li>
+<li class="bottomnone"><a href="/fangweixiu/" class="all0">房屋维修</a>
+<a href="/menchweixiu/">门窗维修/安装</a>
+<a href="/shuiguan/">水管安装/维修</a>
+<a href="/fangshui/">防水补漏</a>
+<a href="/dianlu/">电路维修</a>
+</li>
+</ul>
+<div class="peitu"><a href="/zhongdiangong/"><img src="http://pic2.58.com/ds/fwdq/jzfw.jpg" />用真诚的心做专业<br />的事优质家政服务</a></div>
+</div>
+</div>
+<!--=婚庆服务=-->
+<div class="xboxr xbox_w">
+<h5 class="bt"><a href="/hunjiehunqing.shtml">婚庆服务</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/hunqing/" class="all0">婚庆</a>
+<a href="/hunqinggongsi/" class="all">婚庆公司</a>
+<a href="/hunqingzuche/" class="all">婚车租赁</a>
+<a href="/lifu/">婚纱礼服</a>
+<a href="/xinnianggenzhuang/">彩妆造型</a>
+<a href="/hunqingsiyi/">司仪督导</a>
+</li>
+<li><a href="/huodongcehua/" class="all0">婚宴酒店</a>
+<a href="/hunqingyongpin/">婚庆用品</a>
+<a href="/hunligenpai/">婚礼跟拍</a>
+<a href="/zhubao/">珠宝首饰</a>
+<a href="/hunqingsiyi/">司仪</a>
+</li>
+<li><a href="/hunsha/" class="all0">摄影摄像</a>
+<a href="/hunshasy/" class="all">婚纱摄影</a>
+<a href="/gerenxiezhen/">写真/艺术照</a>
+<a href="/ertongsheying/">儿童摄影</a>
+</li>
+<li><a href="/zhuanyesheying/" class="all0">商业摄影</a>
+<a href="/chongyin/">彩扩冲印</a>
+<a href="/xiangkuangzz/">相框相册制作</a>
+<a href="/shexiang/">摄像录像</a>
+</li>
+<li><a href="/huizhan/" class="all0">礼仪庆典</a>
+<a href="/ydyc/">乐队演出</a>
+<a href="/huizhanlan/">展览展会</a>
+<a href="/huodongcehua/">活动策划</a>
+<a href="/liyihuodong/">庆典公司</a>
+<a href="/liyimote/">礼仪模特</a>
+</li>
+<li class="bottomnone"><a href="http://www.58.com/jiehun/" class="all0">结婚攻略</a>
+<a href="http://www.58.com/jiehunzhunbei/">结婚准备</a>
+<a href="http://www.58.com/paihunshazhao/">拍婚纱照</a>
+<a href="http://www.58.com/hunliliucheng/">婚礼流程</a>
+<a href="http://www.58.com/miyuelvxing/">蜜月旅行</a>
+</li>
+</ul>
+<div class="peitu"><a href="/hunqinggongsi/"><img src="http://pic2.58.com/ds/fwdq/hqfw.jpg" />专业婚庆策划团队<br />打造私人婚礼盛宴</a></div>
+</div>
+</div>
+</div>
+<div class="box_cont">
+<!--=教育培训=-->
+<div class="xbox">
+<h5 class="bt"><a href="/jiaoyu.shtml">教育培训</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/jiajiaogeren/" class="all0">家教个人</a>
+<a href="/sxjiajiaogeren/">数学</a>
+<a href="/yyjiajiaogeren/">英语</a>
+<a href="/ywjiajiaogeren/">语文</a>
+<a href="/wljiajiaogeren/">物理</a>
+<a href="/hxjiajiaogeren/">化学</a>
+<a href="/sdzsjiajiaogeren/">史地政生</a>
+<a href="/jsjiajiaogeren/">竞赛</a>
+</li>
+<li><a href="/jiajiao/" class="all0">家教机构</a>
+<a href="/yuwenjiajiao/">语文</a>
+<a href="/shuxuejiajiao/">数学</a>
+<a href="/yingyujiajiao/">英语</a>
+<a href="/wulijiajiao/">物理</a>
+<a href="/huaxuejiajiao/">化学</a>
+<a href="/shidizhengsheng/">史地政生</a>
+<a href="/jingsaijiajiao/">竞赛</a>
+</li>
+<li><a href="/jiajiao/" class="all0">中小学家教</a>
+<a href="/yuwenjiajiao/">语文</a>
+<a href="/shuxuejiajiao/">数学</a>
+<a href="/yingyujiajiao/">英语</a>
+<a href="/wulijiajiao/">物理</a>
+<a href="/huaxuejiajiao/">化学</a>
+<a href="/shidizhengsheng/">史地政生</a>
+<a href="/jingsaijiajiao/">竞赛</a>
+</li>
+<li><a href="/techang/" class="all0">艺术/体育</a>
+<a href="/wudaopeixun/" class="all">舞蹈</a>
+<a href="/yueqipeixun/" class="all">乐器</a>
+<a href="/meishupeixun/">美术</a>
+<a href="/youyongpx/">游泳</a>
+<a href="/yujiapeixun/">瑜伽</a>
+<a href="/qiuleipeixun/">球类</a>
+<a href="/yinyuepeixun/">声乐</a>
+<a href="/yishuxuexiao/">插花</a>
+</li>
+<li><a href="/zhiyepeix/" class="all0">职业技能培训</a>
+<a href="/kuaijipeixun/">会计/审计/统计</a>
+<a href="/jianzhufangchan/">建筑/房产/物业</a>
+<a href="/chuyipeixun/">餐饮/酒店</a>
+</li>
+<li class="bottomnone"><a href="/xueli/" class="all0">学历教育</a>
+<a href="/zikao/">自考</a>
+<a href="/kaoyanpeixun/">在职研究生</a>
+<a href="/chengrengaokao/">成人高考</a>
+<a href="/kaoyan/">考研</a>
+<a href="/yuanchengjiaoyu/">远程网络教育</a>
+</li>
+</ul>
+<div class="peitu"><a href="http://www.58.com/gaokaochongci/"><img src="http://pic2.58.com/ds/fwdq/jypx.jpg" />高考一"站"到底</a></div>
+</div>
+</div>
+<!--=商务服务=-->
+<div class="xboxr">
+<h5 class="bt"><a href="/shangwu.shtml">商务服务</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/zhuce/" class="all0">工商注册</a>
+<a href="/gongsizhuce/" class="all">内资公司注册</a>
+<a href="/gongshangnianjian/">工商年检</a>
+<a href="/zizhirenzheng/">资质认证</a>
+<a href="/gongsizhuxiao/">公司注销</a>
+</li>
+<li><a href="/danbaobaoxiantouzi/" class="all0">投资担保</a>
+<a href="/daikuan/">贷款</a>
+<a href="/touzichan/">投资</a>
+<a href="/yinhangzhitou/">银行直投</a>
+<a href="/danban/">担保</a>
+<a href="/diandanghang/">典当行</a>
+</li>
+<li><a href="/lvshi/" class="all0">法律咨询</a>
+<a href="/zixunzhongjie/" class="all">咨询</a>
+<a href="/qimingfengshui/">起名/风水</a>
+<a href="/chaiqian/">征地补偿</a>
+<a href="/jiating/">婚姻家庭</a>
+<a href="/susdaili/">刑事辩护/诉讼</a>
+</li>
+<li><a href="/huoyun/" class="all0">货运物流</a>
+<a href="/kuaidi/" class="all">快递</a>
+<a href="/wuliu/">货运专线</a>
+<a href="/tuoyun/">托运</a>
+<a href="/huoyundaili/">货运代理</a>
+<a href="/kcpeihuo/">空车配货</a>
+<a href="/ysbz/">仓储</a>
+</li>
+<li><a href="/yinshua/" class="all0">印刷包装</a>
+<a href="/baozhuang/">包装</a>
+<a href="/zhileiyinshua/">纸类印刷</a>
+<a href="/buganjiao/">不干胶印刷</a>
+<a href="/fangweiyinshua/">防伪印刷</a>
+<a href="/xuanchuanzlys/">宣传资料印刷</a>
+</li>
+<li class="bottomnone"><a href="/visa/" class="all0">代办签证</a>
+<a href="/qzheng/">旅游签证</a>
+<a href="/huzhaoqzh/">护照</a>
+<a href="/rutaizheng/">入台证</a>
+<a href="/qianzhu/">港澳通行证</a>
+<a href="/lxymvisa/">留学签证</a>
+</li>
+</ul>
+<div class="peitu"><a href="/huoyun/"><img src="http://pic2.58.com/ds/fwdq/swfw.jpg" />货运物流,安全快捷</a></div>
+</div>
+</div>
+</div>
+<div class="box_cont">
+<!--=装修建材=-->
+<div class="xbox">
+<h5 class="bt"><a href="/zhuangxiujc.shtml">装修建材</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/jiazhuang/" class="all0">家装服务</a>
+<a href="/shineizx/" class="all">装修队/散工</a>
+<a href="/zhuangxiugs/" class="all">装修公司</a>
+<a href="/zhuangxiu/">设计公司</a>
+<a href="/shigongjl/">施工监理</a>
+</li>
+<li><a href="/gongzhuang/" class="all0">工装服务</a>
+<a href="/zshi/" class="all">办公室装修</a>
+<a href="/canyinylzx/">餐饮娱乐装修</a>
+<a href="/dianpuzx/">店铺装修</a>
+<a href="/changsuo/">商场装修</a>
+</li>
+<li><a href="/fanjiangaizao/" class="all0">建房改造</a>
+<a href="/pfjiagaigz/">房屋改造</a>
+<a href="/zijiangaizao/">自建房</a>
+<a href="/huodongfdz/">活动房定制</a>
+<a href="/fangchaogz/">墙地防潮</a>
+<a href="/pfjiagaigz/">平房加盖</a>
+</li>
+<li><a href="/jiajuzs/" class="all0">家纺家饰</a>
+<a href="/lianlei/">帘类</a>
+<a href="/tieshi/">贴饰壁饰</a>
+<a href="/tanlei/">毯类</a>
+<a href="/zhuangship/">家居摆挂饰</a>
+<a href="/huakuang/">相框/画片</a>
+</li>
+<li><a href="/jiajusp/" class="all0">家具</a>
+<a href="/chuangsp/">床</a>
+<a href="/tatam/">榻榻米</a>
+<a href="/chajilei/">桌类</a>
+<a href="/shafasp/">沙发</a>
+<a href="/guilei/">柜类</a>
+<a href="/kongjianjj/">空间家具</a>
+<a href="/gendiaol/">根雕类</a>
+<a href="/yizilei/">椅凳</a>
+</li>
+<li class="bottomnone"><a href="/jiancai/" class="all0">建材</a>
+<a href="/chugui/">橱柜</a>
+<a href="/shuinishashi/">水泥砂石</a>
+<a href="/chufchugui/">龙头水槽</a>
+<a href="/wujinlei/">五金工具</a>
+<a href="/menchuang/">塑钢门窗</a>
+<a href="/dengju/">灯具照明</a>
+</li>
+</ul>
+<div class="peitu"><a href="/shineizx/"><img src="http://pic2.58.com/ds/fwdq/zxjc.jpg" />专业家装，绿色<br />零污染，承诺保质</a></div>
+</div>
+</div>
+<!--=汽车服务=-->
+<div class="xboxr">
+<h5 class="bt"><a href="/qichefw.shtml">汽车服务</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/zuche/" class="all0">租车</a>
+<a href="/zumianbaoche/">面包车</a>
+<a href="/teshucheliang/">特殊车辆</a>
+<a href="/suvyueye/">SUV</a>
+<a href="/putongjiaoche/">普通轿车</a>
+<a href="/zupaoche/">跑车</a>
+<a href="/dabazc/">大巴</a>
+<a href="/haohuajiaoche/">豪华轿车</a>
+</li>
+<li><a href="/peijia/" class="all0">代驾</a>
+<a href="/jiuhoudj/" class="all">酒后代驾</a>
+<a href="/changtudj/">长途代驾</a>
+<a href="/shangyedj/">商业代驾</a>
+<a href="/lvyoudj/">旅游代驾</a>
+<a href="/sijiwaipai/">司机外派</a>
+</li>
+<li><a href="/qichejx/" class="all0">维修保养</a>
+<a href="/qicheweixiu/" class="all">刹车维修</a>
+<a href="/jiyoujilvby/">机油三滤</a>
+<a href="/daolujiuyuan/">道路救援</a>
+<a href="/huantaibutai/">换胎补胎 </a>
+<a href="/aoxianxiufu/">凹陷修复 </a>
+</li>
+<li><a href="/cheliangfuwu/" class="all0">汽车美容装饰</a>
+<a href="/qicheneibuqj/">内饰清洗</a>
+<a href="/xiche/">洗车</a>
+<a href="/chemeirong/">打蜡</a>
+<a href="/bolitiemo/">玻璃贴膜</a>
+<a href="/qichedala/">汽车精品</a>
+</li>
+<li><a href="/daibanguohu/" class="all0">过户/检车</a>
+<a href="/qicheweixiu/" class="all">汽车年检</a>
+<a href="/weizhangdaiban/">违章代办</a>
+<a href="/guohu/">过户</a>
+<a href="/daibanshangpai/">代办上牌</a>
+<a href="/yidiyanche/">异地验车</a>
+</li>
+<li class="bottomnone"><a href="/gaizhuangfanghu/" class="all0">改装/防护</a>
+<a href="/neishigz/">内饰改装</a>
+<a href="/dvddaohang/">DVD导航</a>
+<a href="/waiguangz/">外观改装</a>
+<a href="/xingnengts/">性能提升</a>
+<a href="/dengguanggz/">灯光改装</a>
+</li>
+</ul>
+<div class="peitu"><a href="/zuche/"><img src="http://pic2.58.com/ds/fwdq/qcfw.jpg" />租车天天有特价</a></div>
+</div>
+</div>
+</div>
+<div class="box_cont">
+<!--=旅游酒店=-->
+<div class="xbox">
+<h5 class="bt"><a href="/lvyouxiuxian.shtml">旅游酒店</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/zhoubianyou/" class="all0">周边游</a>
+<a href="/caizhai/" class="all">采摘</a>
+<a href="/nongjiale/" class="all">农家乐</a>
+<a href="/chuidiao/">垂钓</a>
+<a href="/dujia/">度假村</a>
+<a href="/zhenrenc/">真人CS</a>
+<a href="/wenquandujiacun/">温泉</a>
+<a href="/piaoliuq/">漂流</a>
+<a href="/shaokaoy/">烧烤</a>
+</li>
+<li><a href="/lvyouxianlu/" class="all0">国内游</a>
+<a href="/jzgy/">九寨沟</a>
+<a href="/lijiangy/">丽江</a>
+<a href="/xiameny/">厦门</a>
+<a href="/zhangjiajie/">张家界</a>
+<a href="/hangzhou/">杭州</a>
+<a href="/qingdao/">青岛</a>
+<a href="/taishan/">泰山</a>
+<a href="/wuzheny/">乌镇</a>
+</li>
+<li><a href="/guojilvyou/" class="all0">出境游</a>
+<a href="/dibaiy/">迪拜</a>
+<a href="/xianggang/">香港</a>
+<a href="/taiwan/">台湾</a>
+<a href="/aomen/">澳门</a>
+<a href="/balidaoy/">巴厘岛</a>
+<a href="/medf/">马尔代夫</a>
+<a href="/hanguoy/">韩国</a>
+<a href="/faguoy/">法国</a>
+</li>
+<li><a href="/jipiao/" class="all0">特价机票</a>
+<a href="/guoneijp/">国内机票</a>
+<a href="/guojijp/">国际机票</a>
+</li>
+<li><a href="http://kezhan.58.com/bj/" class="all0">短租日租</a>
+<a href="http://kezhan.58.com/bj/jiatinglvguan/" class="all">短租房/日租房</a>
+<a href="http://kezhan.58.com/bj/jingjixingjiudian/">经济型酒店</a>
+<a href="http://kezhan.58.com/bj/binguanzhaodaisuo/">宾馆招待所</a>
+<a href="http://kezhan.58.com/bj/tesekezhan">青年旅社</a>
+</li>
+<li class="bottomnone"><a href="http://kezhan.58.com/bj/jdyd/" class="all0">酒店预订</a>
+<a href="http://kezhan.58.com/bj/xingjijiudian/">星级酒店</a>
+<a href="/lvyou/">旅行社</a>
+</li>
+</ul>
+<div class="peitu"><a href="/caizhai/"><img src="http://pic2.58.com/ds/fwdq/lyjd.jpg" />北京周边游生态<br />农场有机蔬菜采摘</a></div>
+</div>
+</div>
+<!--=医疗健康=-->
+<div class="xboxr">
+<h5 class="bt"><a href="/yiliaobaojian.shtml">医疗健康</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/zhengxing/" class="all0">整形美容</a>
+<a href="/fubu/">腰腹吸脂</a>
+<a href="/mianbu/">面部整形</a>
+<a href="/yachi/">牙齿整形</a>
+<a href="/bizi/">鼻子整形</a>
+<a href="/yiliaoqx/" class="all">医疗器械</a>
+</li>
+<li><a href="/kouqiang/" class="all0">口腔科</a>
+<a href="/xiya/" class="all">洗牙</a>
+<a href="/yajiaozheng/">牙齿矫正</a>
+<a href="/kouqiang/?final=1&amp;searchtype=3&amp;key=%2525u70E4%2525u74F7%2525u7259&amp;sourcetype=5">烤瓷牙</a>
+<a href="/yazhongzhi/">种植牙</a>
+<a href="/kouqiang/?final=1&amp;searchtype=3&amp;key=%2525u53E3%2525u8154%2525u6E83%2525u75A1&amp;sourcetype=5">口腔溃疡</a>
+<a href="/yameirong/">牙齿美白</a>
+</li>
+<li><a href="/zhongyiyuan/" class="all0">中医保健</a>
+<a href="/zuliaozy/" class="all">足疗足浴</a>
+<a href="/zhongyitn/" class="all">中医推拿</a>
+<a href="/liliao/">理疗/热疗</a>
+<a href="/baguan/">拔罐</a>
+<a href="/huoliao/">火疗</a>
+<a href="/guasha/">刮痧</a>
+</li>
+<li><a href="/tijian/" class="all0">体检</a>
+<a href="/zhuankeyiy/">皮肤科</a>
+<a href="/shenjingxinlike/">精神心理科</a>
+<a href="/baidianfeng/">白癜风</a>
+<a href="/qianliexian/">前列腺炎</a>
+<a href="/xingbing/">性病科</a>
+<a href="/yaopin/" class="all">药品</a>
+</li>
+<li><a href="/fukeyiy/" class="all0">妇科</a>
+<a href="/ruxianzs/">乳腺增生</a>
+<a href="/renliu/">人流</a>
+<a href="/gongjingml/">宫颈糜烂</a>
+<a href="/zigongjl/">子宫肌瘤</a>
+<a href="/gongjingjb/">宫颈疾病</a>
+<a href="/yindaoyan/">阴道炎</a>
+</li>
+<li class="bottomnone"><a href="/tese/" class="all0">儿科</a>
+<a href="/xiaoerfx/">小儿腹泻</a>
+<a href="/xiaoerfy/">小儿肺炎</a>
+<a href="/xiaoergm/">小儿感冒</a>
+<a href="/xiaoerbm/">小儿便秘</a>
+<a href="/xiaoerqg/">小儿气管炎</a>
+</li>
+</ul>
+<div class="peitu"><a href="/zhengxing/"><img src="http://pic2.58.com/ds/fwdq/yljk.jpg" />整形美容领域<br />权威专家</a></div>
+</div>
+</div>
+</div>
+<div class="box_cont">
+<!--=餐饮美食=-->
+<div class="xbox">
+<h5 class="bt"><a href="/canyin.shtml">餐饮美食</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/zhongcanyin/" class="all0">美食</a>
+<a href="/xiangguokaoyu/" class="all">香锅烤鱼</a>
+<a href="/zizhu/">自助餐</a>
+<a href="/shaokao/">烧烤</a>
+<a href="/ribenliaoli/">日本料理</a>
+<a href="/mianbao/">面包甜点</a>
+<a href="/hangliaoli/">韩国料理</a>
+</li>
+<li><a href="/waimai/" class="all0">外卖</a>
+<a href="/zcwaimai/" class="all">中餐外卖</a>
+<a href="/rhwaimai/">日韩外卖</a>
+<a href="/yptdwaimai/">饮品甜点外卖</a>
+<a href="/xcwaimai/">西餐外卖</a>
+<a href="/dangao/">蛋糕订购</a>
+</li>
+<li><a href="/kuaican/" class="all0">快餐/团膳</a>
+<a href="/yanhuican/" class="all">宴会餐</a>
+<a href="/tuantican/">团体餐</a>
+<a href="/shitangchengbao/">食堂承包</a>
+</li>
+<li><a href="http://www.58.com/caipudaquan" class="all0">菜谱大全</a>
+<a href="http://www.58.com/jiachangcaicaipu/129569.html">地三鲜</a>
+<a href="http://www.58.com/jiachangcaicaipu/129058.html">宫保鸡丁</a>
+<a href="http://www.58.com/jiachangcaicaipu/129176.html">红烧茄子</a>
+<a href="http://www.58.com/jiachangcaicaipu/129032.html">红烧排骨</a>
+<a href="http://www.58.com/jiachangcaicaipu/128864.html">西红柿炒鸡蛋</a>
+</li>
+<li><a href="/canyin.shtml" class="all0">南方菜系</a>
+<a href="/chuancai/">川菜</a>
+<a href="/xiangcai/">湘菜</a>
+<a href="/yuecai/">粤菜</a>
+<a href="/zhecai/">浙江菜</a>
+<a href="/hubeicai/">湖北菜</a>
+<a href="/guizhongcai/">贵州菜</a>
+</li>
+<li class="bottomnone"><a href="/canyin.shtml" class="all0">北方菜系</a>
+<a href="/dongbeicai/">东北菜</a>
+<a href="/jingcai/">北京菜</a>
+<a href="/lucai/">鲁菜</a>
+<a href="/shanxicai/">山西菜</a>
+<a href="/xibeicai/">西北菜</a>
+<a href="/henancai/">河南菜</a>
+</li>
+</ul>
+<div class="peitu"><a href="/zizhu/"><img src="http://pic2.58.com/ds/fwdq/cyms.jpg" />上咕咚妈咪<br />轻松享优惠</a></div>
+</div>
+</div>
+<!--=休闲娱乐=-->
+<div class="xboxr">
+<h5 class="bt"><a href="/xiuxianyl.shtml">休闲娱乐</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/jianshen/" class="all0">运动健身</a>
+<a href="/youyongguan/">游泳馆</a>
+<a href="/jianshenzx/">健身中心</a>
+<a href="/lanqc/">篮球</a>
+<a href="/gaoerfuqc/">高尔夫球</a>
+<a href="/liubingchang/">溜冰</a>
+<a href="/wangqc/">网球</a>
+</li>
+<li><a href="/liren.shtml" class="all0">丽人</a>
+<a href="/spa/">SPA</a>
+<a href="/mianbumeir/">美容</a>
+<a href="/jianshenwudao/">舞蹈</a>
+<a href="/yujia/">瑜伽</a>
+<a href="/meitishou/" class="c_red">美体瘦身</a>
+<a href="/wenshen/">纹身</a>
+<a href="/mrmeijia/">美甲</a>
+<a href="/ssmeifa/">美发护发</a>
+</li>
+<li><a href="/xiuxianyl.shtml" class="all0">休闲娱乐</a>
+<a href="/xiyuzx/" class="all">洗浴</a>
+<a href="/ktv/" class="all">KTV</a>
+<a href="/zuliaoam/" class="all">足疗</a>
+<a href="/yezonghui/">夜总会</a>
+<a href="/jiuba/">酒吧</a>
+<a href="/yulecs/">台球厅</a>
+<a href="/mishitt/">密室逃脱</a>
+</li>
+<li><a href="/huwaiyundong/" class="all0">户外</a>
+<a href="/qima/">骑马</a>
+<a href="/huaxuechang/">滑雪</a>
+<a href="/zrcs/">真人cs</a>
+<a href="/qianshui/">潜水</a>
+<a href="/tuozhan/">野外拓展</a>
+<a href="/piaoliu/">漂流</a>
+<a href="/bengji/">蹦极</a>
+<a href="/kadingche/">卡丁车</a>
+</li>
+<li><a href="/jianshenwudao/" class="all0">舞蹈/瑜伽</a>
+<a href="/yujia/">瑜伽</a>
+<a href="/jueshiwu/">爵士舞</a>
+<a href="/jiewudao/">街舞</a>
+<a href="/gangguanwu/">钢管舞</a>
+<a href="/dupiwudao/">肚皮舞</a>
+<a href="/guobiaowudao/">国标舞</a>
+<a href="/ladingwu/">拉丁舞</a>
+</li>
+<li class="bottomnone"><a href="/hunjiehunqing.shtml" class="all0">其他</a>
+<a href="/qipais/">桌游/棋牌/智力</a>
+<a href="/youxiting/">电玩城</a>
+<a href="/wangba/">网吧</a>
+<a href="/kafeit/">咖啡厅</a>
+<a href="/dianyy/">电影院</a>
+<a href="/chaguanxx/">茶馆</a>
+</li>
+</ul>
+<div class="peitu"><a href="/jianshen/"><img src="http://pic2.58.com/ds/fwdq/xxyl.jpg" />北京健身大全</a></div>
+</div>
+</div>
+</div>
+<div class="box_cont">
+<!--=招商加盟=-->
+<div class="xbox">
+<h5 class="bt"><a href="/zhaoshang.shtml">招商加盟</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/canyinjia/" class="all0">餐饮加盟</a>
+<a href="/huogjm/" class="all">火锅</a>
+<a href="/jingdianxiaochi/" class="all">特色小吃</a>
+<a href="/kuaicjm/">快餐</a>
+<a href="/shishangyinpin/">冷饮热饮</a>
+<a href="/dangd/">蛋糕店</a>
+<a href="/jiujm/">烟酒茶饮料</a>
+</li>
+<li><a href="/fuzhuangjia/" class="all0">服装加盟</a>
+<a href="/nvzhuangjia/" class="all">女装</a>
+<a href="/yundongzhuang/">运动户外</a>
+<a href="/nanzhuangjm/">男装</a>
+<a href="/neiyijia/">内衣袜子泳装</a>
+<a href="/tongzhuangjia/">童装</a>
+</li>
+<li><a href="/jiancaijm/" class="all0">建材加盟</a>
+<a href="/bizjm/">壁纸</a>
+<a href="/cwsbjm">厨卫设备</a>
+<a href="/dengjjm/">灯具灯饰</a>
+<a href="/wjjm/">五金机电</a>
+<a href="/scbcjm/">石材板材</a>
+</li>
+<li><a href="/jixiejiagong/" class="all0">机械加盟</a>
+<a href="/scjxjm/">工程机械</a>
+<a href="/spjxjm/">食品加工</a>
+<a href="/nyjxjm/">农用机械</a>
+<a href="/hbjxjm/">环保机械</a>
+</li>
+<li><a href="/jiajuhuanbao/" class="all0">家居环保加盟</a>
+<a href="/tiemo/">家饰摆件</a>
+<a href="/jiajujiameng/">家纺床品</a>
+<a href="/jiajujm/">家具</a>
+<a href="/clbyjm/">窗帘布艺</a>
+</li>
+<li class="bottomnone"><a href="/meirongbaojain/" class="all0">美容保健加盟</a>
+<a href="/yangshen/">养生保健</a>
+<a href="/huahzuangpin/">洗化用品</a>
+<a href="/meirongspa/">美容SPA/美发</a>
+<a href="/chengrenjm/">成人用品</a>
+</li>
+</ul>
+<div class="peitu"><a href="/zhaoshang.shtml"><img src="http://pic2.58.com/ds/fwdq/zsjm.jpg" />生意街有保障<br />手把手教你创业</a></div>
+</div>
+</div>
+<!--=网络购物=-->
+<div class="xboxr">
+<h5 class="bt"><a href="/shop.shtml">批发采购</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/shipinlei/" class="all0">食品</a>
+<a href="/jiulei/" class="all">酒类</a>
+<a href="/tutechan/">土特产</a>
+<a href="/yangchenghu/">大闸蟹</a>
+<a href="/xianhuasudi/">礼品</a>
+<a href="/gongyilp/">工艺礼品</a>
+<a href="/liangyou/">粮油</a>
+<a href="/rouzhipin/">肉制品</a>
+</li>
+<li><a href="/sjshuma/" class="all0">手机数码</a>
+<a href="/sjtongxin/" class="all">手机</a>
+<a href="/xiangjism/">数码相机</a>
+<a href="/bijibensp/">笔记本</a>
+<a href="/pingbandn/">平板电脑</a>
+<a href="/cunchuyd/">移动存储</a>
+<a href="/taishijsp/">台式机</a>
+</li>
+<li><a href="/fushixm/" class="all0">服饰鞋帽</a>
+<a href="/nvzhuangfs/">女装</a>
+<a href="/nanzhuangfs/">男装</a>
+<a href="/nanxie/">男鞋</a>
+<a href="/wnvxie/">女鞋</a>
+<a href="/xiangbaosp/" class="all">箱包饰品</a>
+<a href="/zhubaoss/" class="all">珠宝首饰</a>
+<a href="/fashisp/">发饰</a>
+</li>
+<li><a href="/muyingyp/" class="all0">母婴玩具</a>
+<a href="/mynaifen/">奶粉</a>
+<a href="/myyinyang/">辅食/营养</a>
+<a href="/myshijin/">尿裤湿巾</a>
+<a href="/mytongche/">童车童床</a>
+<a href="/myweiyang/">喂养用品</a>
+</li>
+<li class="bottomnone"><a href="/huazhuangp/" class="all0">化妆品</a>
+<a href="/mianbuhz/">面部</a>
+<a href="/shentihuli/">身体护理</a>
+<a href="/caizhuangsp/">彩妆</a>
+<a href="/xiangshuisp/">香水</a>
+<a href="/meifalei/">美发</a>
+<a href="/jiafa/">假发</a>
+<a href="/nanshihl/">男士</a>
+<a href="/jingyoufx/">精油芳疗</a>
+</li>
+<li><a href="/anfangsheb/" class="all0">安防设备</a>
+<a href="/shangchaoshb/">商超设备</a>
+<a href="/dianziyuanjian/">电子元件</a>
+<a href="/fangzhipf/">布料</a>
+<a href="/baozhuangpf/">包装</a>
+<a href="/zhaomingdj/">灯具照明</a>
+<a href="/yibiaoyiqi/">仪表</a>
+<a href="/yuanliao/">原料</a>
+</li>
+</ul>
+<div class="peitu"><a href="/shop.shtml"><img src="http://pic2.58.com/ds/fwdq/wlgw.jpg" />海参老店品种多<br />质优价廉</a></div>
+</div>
+</div>
+</div>
+<div class="box_cont">
+<!--=农林牧副渔=-->
+<div class="xbox bottomnone xboxd">
+<h5 class="btlong"><a href="/nonglinmy.shtml">农林牧副渔</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/zhongmiao/" class="all0">动植物种苗</a>
+<a href="/zhongyang/" class="all">种羊</a>
+<a href="/shumiaozm/">树苗</a>
+<a href="/yumiaozm/">鱼苗</a>
+<a href="/shemiao/">蛇苗</a>
+<a href="/shiyongjunzm/">食用菌菌种</a>
+<a href="/zhongmiaoqt/">其他种苗</a>
+</li>
+<li><a href="/jiagongdaili/" class="all0">农产品加工/代理</a>
+<a href="/jiajuzhizaojg/">家具制造</a>
+<a href="/shipinjg/">食品加工</a>
+<a href="/mucaijg/">木材加工</a>
+<a href="/yancaojg/">烟草加工</a>
+</li>
+<li><a href="/nongzuowu/" class="all0">农作物</a>
+<a href="/shuiguozuowu/" class="all">水果</a>
+<a href="/liangyouzw/" class="all">粮油作物</a>
+<a href="/maochazuowu/">毛茶</a>
+<a href="/jianguozuowu/">坚果</a>
+<a href="/shiyongjunzw/">食用菌</a>
+<a href="/shucaizuowu/">蔬菜</a>
+<a href="/mianmasizw/">棉麻丝</a>
+</li>
+<li><a href="/siliaoshouyao/" class="all0">饲料/兽药</a>
+<a href="/peihesl/">配合饲料</a>
+<a href="/fupisl/">麸皮</a>
+<a href="/yufensl/">鱼粉</a>
+<a href="/kangyanghj/">抗氧化剂</a>
+<a href="/qingchusl/">青贮饲料</a>
+</li>
+<li><a href="/yuanlinye/" class="all0">园林花卉</a>
+<a href="/huahuiyl/">花卉</a>
+<a href="/zhuleiyl/">竹类</a>
+<a href="/miaomuyl/">苗木</a>
+<a href="/caopingyl/">草坪</a>
+<a href="/shuzhijiao/">副产品树脂/胶</a>
+</li>
+<li class="bottomnone"><a href="/nongyaofeiliao/" class="all0">农药肥料</a>
+<a href="/shamanji/">杀螨剂</a>
+<a href="/danfeiliao/">氮肥</a>
+<a href="/linfeiliao/">磷肥</a>
+<a href="/fuhefeiliao/">复合肥</a>
+<a href="/youjifeiliao/">有机肥</a>
+<a href="/chucaoji/">除草剂</a>
+<a href="/shachongji/">杀虫剂</a>
+</li>
+</ul>
+<div class="peitu"><a href="/zhongmiao/"><img src="http://pic2.58.com/ds/fwdq/nlmfy.jpg" />提供给您最权威的<br />芦笋种植方法</a></div>
+</div>
+</div>
+<!--=公共服务=-->
+<div class="xboxr bottomnone">
+<h5 class="bt"><a href="/bianminfw.shtml">公共服务</a></h5>
+<div class="jjwx">
+<ul>
+<li><a href="/yinhang/" class="all0">银行</a>
+<a href="/guangdayh/" class="all">光大银行</a>
+<a href="/jiansheyh/">建设银行</a>
+<a href="/zhaoshangyh/">招商银行</a>
+<a href="/gongshangyh/">工商银行</a>
+<a href="/zhongguoyh/">中国银行</a>
+</li>
+<li><a href="/youjutx/" class="all0">邮政通讯</a>
+<a href="/youjv/" class="all">邮政</a>
+<a href="/zgyidong/">中国移动</a>
+<a href="/zgliantong/">中国联通</a>
+<a href="/zgdianxin/">中国电信</a>
+<a href="/zgtietong/">中国铁通</a>
+</li>
+<li><a href="/jiayouzhan/" class="all0">加油站</a>
+<a href="/zgshiyou/">中国石油</a>
+<a href="/zgshihua/">中国石化</a>
+</li>
+<li><a href="/jinrongjg/" class="all0">金融机构</a>
+<a href="/zhengquangs/">证劵机构</a>
+<a href="/zhengquanyyt/">证劵营业厅</a>
+</li>
+<li><a href="/zilaishui/" class="all0">自来水/电力营业厅</a>
+<a href="/zilaishuiyyt/">自来水营业厅</a>
+<a href="/dianliyyt/">电力营业厅</a>
+</li>
+<li class="bottomnone"><a href="/bianminfw.shtml" class="all0">火车/飞机票代售点</a>
+<a href="/dshuoche/" class="all">火车票代售点</a>
+<a href="/dsjipiao/">飞机票代售点</a>
+</li>
+</ul>
+<div class="peitu"><a href="/dshuoche/"><img src="http://pic2.58.com/ds/fwdq/ggfw.jpg" />火车票代售点<br />全方位信息查询</a></div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="bg">
+<div id="contact"> <a href="http://about.58.com/" title="有问题请与58客服进行对话" rel="nofollow">联系客服</a>|<a href="http://about.58.com/info/del-menu.html" class="red" rel="nofollow">我要删除信息</a>|<a href="http://about.58.com/home/" rel="nofollow">关于我们</a>|<a href="http://e.58.com/" rel="nofollow">合作洽谈</a>|<a href="http://e.58.com/" rel="nofollow">推广服务</a>|<a href="http://about.58.com/hr/" rel="nofollow">加入我们</a>|<a href="http://58.com/xiaoyuan" target="_blank" rel="nofollow">校园招聘</a><br />
+<span style="color:#999;"> 京公网安备110105000809号 <a href="http://www.miibeian.gov.cn/" style="color:#666" rel="nofollow">京ICP证060405</a>乙测资字11018014</span><a id="___szfw_logo___" href="https://search.szfw.org/cert/l/CX20120918001650001720"><img src="http://pic2.58.com/ui6/index/rongyum.png" align="absmiddle" /></a><script type="text/javascript">(function(){document.getElementById('___szfw_logo___').oncontextmenu = function(){return false;}})();</script></div>
+</div>
+<div class="clear"></div>
+</div>
+<script>
+(function() {
+    var $backToTopEle = $('&lt;a href="#" class="toTop"&gt;&lt;/a&gt;').appendTo($("body"))
+          .click(function() {
+            $("html, body").animate({ scrollTop: 0 }, 120);
+			return false;
+    }), $backToTopFun = function() {
+        var st = $(document).scrollTop(), winh = $(window).height();
+        (st &gt; 0)? $backToTopEle.show(): $backToTopEle.hide();    
+        //IE6下的定位
+        if (!window.XMLHttpRequest) {
+            $backToTopEle.css("top", st + winh - 166);    
+        }
+    };
+    $(window).bind("scroll", $backToTopFun);
+    $(function() { $backToTopFun(); });
+})();
+</script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config={"bdTop":312};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<script type="text/javascript" src="http://www.smzdm.com/wp-content/themes/smzdm_two_year/js/footer.js?v=20130718"></script>
+<script>hit_count();</script>
+<script src="http://static.58.com/ds/js/huangye.js"></script>
+<div style="display:none;">
+<script type="text/javascript">
+// cyc 20140303 增加 SEM hao123 统计   在大类页 结束
+    (function(){
+      var href=window.location.href;
+      if(href.indexOf("huangye/")!=-1)
+      {
+        if(document.referrer.indexOf(".hao123.com")!=-1)
+        {
+          window.location.href=href+"?"+"utm_source=d_hao123&amp;spm=123-huangye-1020";
+        } 
+      }
+  })();
+//增加 SEM hao123 统计   在大类页 结
+(function(){
+    $("#searchbtn").bind("click",function(){
+        _gaq.push(['_trackEvent', 'index', 'search_cate_click', '/huangye/']);
+        b_query_huangye('','','1');
+    })
+}())
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || []; var site_name = "58";
+var _trackURL = "{'cate':'','area':'1','pagetype':'index'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']); 
+_gaq.push(['pageTracker._addOrganic', '360', 'q']);
+_gaq.push(['pageTracker._trackPageview', '/index/huangye/']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();</script><script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3bb04d7a4ca3846dcc66a99c3e861511' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<form action="#" id="gahuangye">
+<input type="hidden" id="uavalues" name="uavalues" value="citysign:bj;pagetype:home" />
+</form>
+<script type="text/javascript"> 
+var _hl = _hl || []; 
+_hl.push(['hlOne._setLRSM']); 
+_hl.push(['hlOne._setDomainName', '.58.com']);
+_hl.push(['hlOne._setAllowLinker', true]); 
+_hl.push(['hlOne._setLGP', 'http://huangye.t.58.com/image/collectlog.gif']);
+_hl.push(['hlOne._tp']);
+</script>
+<script src="http://static.58.com/ui6/yp/ualog.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/track_alliance.js"></script>
+<script type="text/javascript">document.write('&lt;scr' + 'ipt type="text/javascript"  src="http://track.58.com/adsys/cateadsys/?pagetype=4&amp;cate=sale&amp;t='+Math.random()+'"&gt;&lt;/scr' +  'ipt&gt;');
+</script>
+</div>
+</body>
+</html>

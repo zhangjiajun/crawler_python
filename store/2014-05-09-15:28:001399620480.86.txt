@@ -1,0 +1,1784 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>广电运通(002152)股票股价,行情,新闻,财报数据_新浪财经_新浪网</title>
+<meta name="keywords" content="广电运通,002152,广电运通股票行情,002152股票行情,广电运通股价,广电运通实时行情,广电运通交易,广电运通实时资金流向,广电运通机构研究报告,广电运通点评,广电运通新闻,广电运通财务分析,新浪财经 " />
+<meta name="description" content="新浪财经为您提供广电运通(002152)股票实时行情走势,实时资金流向,实时新闻资讯,研究报告,股吧互动,交易信息,个股点评,公告,财务指标分析等与广电运通(002152)股票相关的信息与服务." />
+<meta name="stencil" content="PGLS000314" />
+<link rel="Stylesheet" type="text/css" href="http://i0.sinaimg.cn/cj/realstock/2012/css/base.20130902.css" />
+<link rel="Stylesheet" type="text/css" href="http://i1.sinaimg.cn/cj/realstock/2012/css/stock.20121213.3.css" />
+<style type="text/css" id="globalIndexScrollerCss">
+	.rup_up,.gup_down{color:red;}
+.rup_down,.gup_up{color:Green;}
+.rup_arrow_up,.rup_arrow_down,.gup_arrow_up,.gup_arrow_down{padding-left:9px;}
+.rup_arrow_up{background:url(http://i1.sinaimg.cn/cj/basejs/gloabal_index_scroller/rup_arrow_up.png) left center no-repeat;}
+.rup_arrow_down{background:url(http://i0.sinaimg.cn/cj/basejs/gloabal_index_scroller/rup_arrow_down.png) left center no-repeat;}
+.gup_arrow_up{background:url(http://i2.sinaimg.cn/cj/basejs/gloabal_index_scroller/gup_arrow_up.png) left center no-repeat;}
+.gup_arrow_down{background:url(http://i1.sinaimg.cn/cj/basejs/gloabal_index_scroller/gup_arrow_down.png) left center no-repeat;}
+.global_index_scroller{height:30px;line-height:30px;overflow:hidden;}
+.global_index_scroller .global_index_scroller_body{float:left;width:100%;margin-right:-110px;height:30px;overflow:hidden;}
+.global_index_scroller .global_index_scroller_body ul{width:100%;overflow:hidden;}
+.global_index_scroller .global_index_scroller_body ul li{float:left;margin-right:15px;}
+.global_index_scroller .global_index_scroller_body ul li i{font-style:normal;color:#4b4b4b;font-size:12px;}
+.global_index_scroller a{color:#4b4b4b}
+.global_index_scroller a:visited{color:#4b4b4b}
+.global_index_scroller a:hover,.global_index_scroller a:active,.global_index_scroller a:focus{color:#f00;}
+.global_index_scroller .no_link{text-decoration:none;cursor:default;}
+.global_index_scroller .no_link:hover{color:#4b4b4b}
+
+.global_index_scroller .scroller_oper{float:left;width:100px;padding-right:7px;_padding-top:8px;text-align:right;}
+.global_index_scroller .scroller_oper *{vertical-align:middle;margin:0 3px;}
+.global_index_scroller .scroller_oper .scroller_down,.global_index_scroller .scroller_oper .scroller_up{display:inline-block;width:13px;height:13px;background:url(http://i2.sinaimg.cn/cj/basejs/gloabal_index_scroller/oper_ud.png);_blr:expression(this.onFocus=this.blur());}
+.global_index_scroller .scroller_oper .scroller_down{background-position:left center;}
+.global_index_scroller .scroller_oper .scroller_up{background-position:right center;}
+
+	.login_btn_s{display:inline-block;width:111px;height:37px;background:url(http://i1.sinaimg.cn/cj/basejs/loginLayer/login_back.png) 0 -88px;line-height:200px;overflow:hidden;}
+.login_btn_s:hover{display:inline-block;background-position:0 -125px;}
+.login_btn_m{display:inline-block;width:151px;height:37px;background:url(http://i1.sinaimg.cn/cj/basejs/loginLayer/login_back.png) -120px -88px;line-height:200px;overflow:hidden;}
+.login_btn_m:hover{display:inline-block;background-position:-120px -125px;}
+.loginBG{display:none;position:fixed;_position:absolute; z-index:90001;left:0px;top:0px;_top:expression((_top=document.documentElement.scrollTop) + 'px');width:100%;height:100%;_height:expression(document.documentElement.offsetHeight + 'px');background-color:#08237a;opacity:0.2;filter:alpha(opacity=20);}
+.loginLayer{display:none;position:fixed;_position:absolute;z-index:90010;left:50%;top:150px;_top:expression((_top=document.documentElement.scrollTop) + 150 + 'px');width:493px;height:418px;margin-left:-248px;background-color:#eff5ff;border:1px solid #cce2f0;color:#08237a;}
+.loginLayer .login_close{position:absolute;right:10px;top:8px;width:16px;height:16px;background:url(http://i1.sinaimg.cn/cj/basejs/loginLayer/login_back.png) -160px -168px;}
+.loginLayer .login_title{height:82px;background:url(http://i1.sinaimg.cn/cj/basejs/loginLayer/login_back.png) 0 0;}
+.loginLayer .login_cont{padding-top:25px;}
+.loginLayer th{text-align:right;}
+.loginLayer .txt{width:238px;height:21px;line-height:21px;padding:1px 3px;border:1px solid #c5cad0;color:#333;}
+.loginLayer .login_loginBtn_bg{width:151px;height:12px;background:url(http://i1.sinaimg.cn/cj/basejs/loginLayer/login_back.png) 0 -167px;overflow:hidden;}
+.loginLayer .login_link0{padding-bottom:10px;border-bottom:1px solid #d2e1f6;}
+.loginLayer .login_link0 a{color:#0961c0;margin-right:30px;}
+.loginLayer .login_link0 a:visited{color:#0961c0;}
+.loginLayer .login_link0 a:hover{color:#f00;}
+.loginLayer .login_link1 p{line-height:40px;color:#035dbe;}
+.reg_btn{display:inline-block;width:151px;height:37px;background:url(http://i1.sinaimg.cn/cj/basejs/loginLayer/login_back.png) -280px -88px;line-height:200px;overflow:hidden;}
+.reg_btn:hover{background-position:-280px -125px;}
+#loginRemember{vertical-align:-2px;_vertical-align:-1px;}
+#loginError{float:right;width:135px;margin-top:21px;color:Red;text-align:left;}
+
+.global_index_scroller .scroller_oper{float:left;}
+.global_index_scroller .global_index_scroller_body{float:right;margin-right:-120px;}
+.global_index_scroller .scroller_oper *{float:left;margin:0px;_margin-top:-7px;}
+.global_index_scroller .scroller_oper .scroller_down, .global_index_scroller .scroller_oper .scroller_up{float:right;margin:0px 3px;margin-top:8px;_margin-top:0px;}
+
+/*HTML5版样式*/
+#h5Container{display:none;}
+#h5Container img{margin-top:18px;}
+.h5_tabs{border:1px solid #dde4f4;padding-top:1px;}
+.h5_tabs .tabs{height:25px;padding:2px 7px 0;background:#eef5ff url(http://i2.sinaimg.cn/cj/realstock/2012/images/icon_right.2.png) right -384px no-repeat;overflow:visible;}
+.h5_tabs .tabs .tab{width: 50px;height:23px;line-height:23px;border:none;border-top:2px solid #eef5ff;font-family:宋体;font-size:12px;}
+.h5_tabs .tabs .on{position:relative;z-index:1;width:50px;height:24px;_height:25px;_margin-bottom:-1px;border-left:1px solid #dde4f4;border-right:1px solid #dde4f4;border-top-color:#062784;background-color:White;}
+#h5Container .cont{display:none;height:330px;padding:10px 0;text-align:center;}
+#h5Container .vselect{float:left;margin-bottom:-20px;margin-top:-5px;}
+#h5Container .compare{height:0px;overflow:hidden;}
+</style>
+<script type="text/javascript">
+    function insertScript(argUrl,argCharset)
+    {
+        var _script = document.createElement('script');
+        _script.type = 'text/javascript';
+        if(argCharset)
+        {
+            _script.charset = argCharset;
+        }
+        _script.src = argUrl;
+        var _head = document.getElementsByTagName('head')[0];
+        _head.appendChild(_script);
+    }
+    var StandardBJTime = Math.round(new Date().getTime() / 1000);
+    insertScript('http://counter.sina.com.cn/time?fm=JS');
+    
+    /*添加cookie-----开始-----*/ 
+    (function(c,k,n,d,h){if(!c){return;}
+    var cookie={set:function(k,v,h,d){var hour=h||24,now=new Date(),domain=d||document.domain,exp=new Date(now.getTime()+hour*3600*1000);expires=exp.toGMTString();document.cookie=k+'='+escape(v)+';path=/;expires='+expires+';domain='+domain;},get:function(k){var coo=unescape(document.cookie),s=coo.indexOf(k+'='),kl=s+k.length+1,e=coo.indexOf(';',kl);if(s==-1){return'';}
+    if(e==-1){return coo.substr(kl);}
+    return coo.slice(kl,e);},remove:function(k){var now=new Date(),exp=new Date(now.getTime()-3600*1000);expires=exp.toGMTString();document.cookie=k+'='+';expires='+expires+'';}};var coo,i,l;k=k||'FIN_ALL_VISITED';n=n||60;d=d||'finance.sina.com.cn';h=h||24*30;coo=cookie.get(k);if(!coo){cookie.set(k,c,h,d);return;}
+    coo=coo.split(',');for(i=0,l=coo.length;i&lt;l;i++){if(coo[i]===c){coo.splice(i,1);break;}}
+    coo.unshift(c);coo=coo.slice(0,n);cookie.set(k,coo.join(','),h,d);})('sz002152'); 
+    /*添加cookie-----开始-----*/ 
+</script>
+<script type="text/javascript" src="http://hq.sinajs.cn/list=sz002152"></script>
+<!--&lt;script type="text/javascript" src="http://finance.sina.com.cn/globaltimezone.js"&gt;&lt;/script&gt;-->
+<script type="text/javascript" src="http://www.sinaimg.cn/cj/ddp/js/swfobject2.2.js"></script>
+<script type="text/javascript" src="http://i0.sinaimg.cn/jslib/jquery-1.4.2.min.js"></script>
+<script type="text/javascript">
+    jQuery.noConflict();
+    document.domain = 'sina.com.cn';
+    var _thereIsNoRealTimeMessage = true;
+
+	jQuery(document).ready(function(e) {
+	var isTouchDevice = 'ontouchstart' in window;
+	var isIpad = navigator.userAgent.toLowerCase().match(/ipad/i) == "ipad";
+	if(isTouchDevice &amp;&amp; !isIpad){
+	   var Tip = jQuery('&lt;div style="position:relative;margin:0 auto;background:#3451cd;width:980px;margin:0 auto 10px"&gt;&lt;a href="http://m.sina.com.cn/m/finance.html" target="_blank" class="downLink"&gt;&lt;img src="http://www.sinaimg.cn/cj/deco/2013/0916/down/d980.png"  /&gt;&lt;/a&gt;&lt;div class="close" title="关闭" style="position:absolute;top:24px;right:24px;width:56px;height:56px;cursor:pointer"&gt;&lt;/div&gt;&lt;/div&gt;');
+	   Tip.insertBefore(jQuery('.nav'));
+	   Tip.find('.close').click(function(){
+		   Tip.empty().remove();
+		   })
+	  }
+    });
+</script>
+<script type="text/javascript">
+	function escapeRegExp(a){return a.replace(/([.*+?^${}()|[\]\/\\])/g,"\\$1")}function random(){return(new Date).getTime()}function getScript(a,b,c){var e,f,d=document.createElement("script");d.type="text/javascript";c&amp;&amp;(d.charset=c);d.src=a;e=document.getElementsByTagName("head")[0];f=!1;d.onload=d.onreadystatechange=function(){if(!(f||this.readyState&amp;&amp;"loaded"!==this.readyState&amp;&amp;"complete"!==this.readyState)){f=!0;b&amp;&amp;b();d.onload=d.onreadystatechange=null;setTimeout(function(){e.removeChild(d)},1)}};e.appendChild(d)}function checkUD(a,b){var c=void 0!==b?b:a.change;return c&gt;0?window.UPCOLOR||"up":0&gt;c?window.DOWNCOLOR||"down":window.FLATCOLOR||"flat"}function merge(a,b){for(var c in b)a[c]="object"==typeof a[c]&amp;&amp;"object"==typeof b[c]?arguments.callee(b[c],a[c]):b[c];return a}var hqParser,clock;Function.prototype.fnBind||(Function.prototype.fnBind=function(a,b){var c=this;return function(){var d,e;if(b&amp;&amp;arguments.length){d=Array.prototype.slice.call(b,0);for(e=0;e&lt;arguments.length;e++)Array.prototype.push.call(d,arguments[e])}return c.apply(a||this,d||b||arguments)}});Function.prototype.bindArg||(Function.prototype.bindArg=function(){return this.fnBind(null,arguments)});Number.prototype.toFixed=function(a){var d,b=Math.floor(this*Math.pow(10,a))+.5,c=0&gt;b?"-":"";b=Math.abs(b);Math.abs(this)*Math.pow(10,a)-b&gt;=-.5*Math.pow(10,-14+a)?b+=.5:b-=.5;b+="";if(0==a)return c+b;b=b.split("");if(b.length&lt;=a){for(d=b.length;a&gt;d;d++)b.unshift("0");b.unshift(".");b.unshift("0")}else b.splice(b.length-a,0,".");return c+b.join("")};String.prototype.toFixed=function(a){return isNaN(1*this)?this.toString():(1*this).toFixed(a)};String.prototype.format=function(a){var b,c,d,e,f;a=a||",";b=this+"";if("number"!=typeof(1*b))return b;c="";d="";if(b.indexOf("-")&gt;-1){d="-";b=b.replace("-","")}if(b.indexOf(".")&gt;-1){e=b.split(".");b=e[0];c="."+e[1]}if(b.length&gt;3){b=b.replace(/\d{3}$/,function(a){f=","+a;return""});return d+arguments.callee.apply(b,arguments)+f+c}return d+b+c};Number.prototype.format=function(){return String.prototype.format.apply(this+"",arguments)};String.prototype.preFull=function(a,b){var c=this.toString();a=a||2;b=b||"0";for(;c.length&lt;a;)c=b+c;return c};Number.prototype.preFull=function(a,b){return(this+"").preFull(a,b)};if(!window.Cookie){window.Cookie={};Cookie.get=function(a){var b=document.cookie.match("(?:^|;)\\s*"+escapeRegExp(a)+"=([^;]*)");return b?b[1]||"":""};Cookie.set=function(a,b,c){var d,e,f,g,h;c=c||{};if(null===b){b="";c.expires=-1}d="";if(c.expires&amp;&amp;(1*c.expires||c.expires.toUTCString)){if(1*c.expires){e=new Date;e.setTime(e.getTime()+1e3*60*60*24*c.expires)}else e=c.expires;d="; expires="+e.toUTCString()}f=c.path?"; path="+c.path:"";g=c.domain?"; domain="+c.domain:"";h=c.secure?"; secure":"";document.cookie=[a,"=",b,d,f,g,h].join("")}}hqParser=new function(){function a(a,b){var c,d,e;if(!a){c={};c.enName=c.name=c.open=c.preClose=c.low=c.high=c.now=c.change=c.changeP=c.buy=c.sell=c.volume=c.amount=c.pe=c.income=c.high52=c.low52=c.low52=c.date=c.time=c.swing="--";return c}d=a.split(",");e={};if(b)if(b.indexOf("hk")&gt;-1){e.symbol=b;e.sym=b.replace("hk","")}else{e.symbol="hk"+b;e.sym=b}e.enName=d[0];e.name=d[1];e.open=1*d[2];e.preClose=1*d[3];e.high=1*d[4];e.low=1*d[5];e.now=1*d[6];e.change=1*d[7];e.changeP=1*d[8];e.buy=1*d[9];e.sell=1*d[10];e.volume=1*d[12];e.amount=1*d[11];e.pe=1*d[13];e.pe=e.pe||"--";e.income=1*d[14];e.income=e.income||"--";e.high52=1*d[15];e.low52=1*d[16];e.date=d[17];e.time=d[18];if(!e.open){e.open="--";if(!e.now){e.high="--";e.low="--"}}if(!e.now){e.change="--";e.changeP="--"}if(e.preClose){e.swing=100*((e.high-e.low)/e.preClose);e.swing=isNaN(e.swing)?"--":e.swing}else{e.preClose="--";e.swing="--"}return e}function b(a,b){var c,d,e,f;if(!a){c={};c.enName=c.name=c.open=c.preClose=c.low=c.high=c.now=c.change=c.changeP=c.buy=c.sell=c.volume=c.amount=c.pe=c.income=c.high52=c.low52=c.low52=c.date=c.time=c.swing="--";return c}d=a.split(",");e={};b&amp;&amp;(e.sym=b);e.name=d[0];e.now=1*d[1];e.changeP=1*d[2];e.updateTime=d[3];e.change=1*d[4];e.open=1*d[5];e.high=1*d[6];e.low=1*d[7];e.high52=1*d[8];e.low52=1*d[9];e.volume=1*d[10];e.averageVolume=1*d[11];e.totalShare=1*d[12];e.eps=1*d[13];e.pe=1*d[14];e.pe=e.pe||"--";e.beta=1*d[16];e.dividend=1*d[17];e.dividend=e.dividend||"--";e.income=1*d[18];e.income=e.income||"--";e.shares=1*d[19];e.hourTradingPrice=1*d[21];e.hourTradingChangeP=1*d[22];e.hourTradingChange=1*d[23];e.hourTradingDateTime=d[24];f=d[24].split(" ");e.hourTradingDate=f[0]+" "+f[1];e.hourTradingTime=f[2]||"";e.dateTime=d[25];f=d[25].split(" ");e.date=f[0]+" "+f[1];e.time=f[2];e.preClose=1*d[26];e.hourTradingVolume=1*d[27];if(!e.open){e.open="--";e.high="--";e.low="--"}if(!(e.now&amp;&amp;"--"!=e.open||e.change)){e.change="--";e.changeP="--"}if(e.preClose){e.swing=100*((e.high-e.low)/e.preClose);e.swing=isNaN(e.swing)?"--":e.swing}else{e.preClose="--";e.swing="--"}return e}function c(a,b){var c,d,e,f,g;if(!a){c={};c.enName=c.name=c.open=c.preClose=c.low=c.high=c.now=c.change=c.changeP=c.buy=c.sell=c.volume=c.amount=c.pe=c.income=c.high52=c.low52=c.low52=c.date=c.time=c.swing="--";return c}d=a.split(",");e={};if(b)if(b.indexOf("s")&gt;-1){e.symbol=b;e.sym=b.replace(/s[hz]/,"")}else{e.sym=b;f=b.charAt(0);"69".indexOf(f)&gt;-1&amp;&amp;(e.symbol="sh"+b);"023".indexOf(f)&gt;-1&amp;&amp;(e.symbol="sz"+b)}e.name=d[0];e.open=1*d[1];e.preClose=1*d[2];e.now=1*d[3];e.high=1*d[4];e.low=1*d[5];e.buy=1*d[6];e.sell=1*d[7];e.volume=1*d[8];e.symbol&amp;&amp;/^(sh000|sh580)\d*/.test(e.symbol)&amp;&amp;(e.volume*=100);e.amount=1*d[9];e.date=d[30];e.time=d[31];e.status=d[32];g={"00":"","01":"临停1H","02":"停牌","03":"停牌","04":"临停","05":"停1/2","07":"暂停","-1":"无记录","-2":"未上市","-3":"退市"};e.statusWord="00"==e.status||e.buy||e.sell?"":g[e.status];"02"!=e.status&amp;&amp;"03"!=e.status||e.buy||e.sell||(e.stopDay=!0);e.change=e.now-e.preClose;e.changeP=100*(e.change/e.preClose);if(!e.open){e.open="--";e.high="--";e.low="--"}if(!e.now||"--"==e.open){e.change="--";e.changeP="--"}if(e.preClose){e.swing=100*((e.high-e.low||0)/e.preClose);e.swing=isNaN(e.swing)?"--":e.swing}else{e.preClose="--";e.swing="--"}e.now=e.now||e.preClose;return e}function d(a){var c,d,e;if(!a){c={};c.enName=c.name=c.open=c.preClose=c.low=c.high=c.now=c.change=c.changeP=c.buy=c.sell=c.volume=c.amount=c.pe=c.income=c.high52=c.low52=c.low52=c.date=c.time=c.swing="--";return c}d=a.split(",");e={};e.name=d[0];e.now=1*d[1];e.change=1*d[2];e.changeP=1*d[3];e.time=d[4];if(!e.now){e.change="--";e.changeP="--"}return e}function e(a){var c,d,e;if(!a){c={};c.enName=c.name=c.open=c.preClose=c.low=c.high=c.now=c.change=c.changeP=c.buy=c.sell=c.volume=c.amount=c.pe=c.income=c.high52=c.low52=c.low52=c.date=c.time=c.swing="--";return c}d=a.split(",");e={};e.now=1*d[0];e.change=e.now-d[7];e.changeP=1*d[1];if(!e.now){e.change="--";e.changeP="--"}return e}function f(a,b,c){var d=arguments.callee[a];return d?d(a,b,c):{}}f.a=c;f.b=d;f.hk=a;f.us=b;f.hf=e;return f};clock=new function(){var c,a="http://hq.sinajs.cn/?rn=$random&amp;list=sys_time",b=[],d=/\d{2}:\d{2}:\d{2}/,e=!1;this.init=function(a){var c,d;a=a||[];for(d=0;d&lt;a.length;d++){c={};c.el=document.getElementById(a[d].elID);c.diff=1e3*60*60*getGlobalTimezone(a[d].area);c.template=a[d].template;b.push(c)}if(e)this.draw();else{e=!0;(window.hq_str_sys_time||window.StandardBJTime)&amp;&amp;this.setTime();this.getTime();setInterval(this.getTime.fnBind(this),36e5);setInterval(this.draw.fnBind(this),1e3)}};this.add=function(){};this.getTime=function(){getScript(a.replace("$random",random()),this.setTime.fnBind(this))};this.setTime=function(){c=1e3*(window.hq_str_sys_time||window.StandardBJTime);this.draw()};this.time=function(){return new Date(c)};this.draw=function(){var a,e;if(c){for(e=0;e&lt;b.length;e++){a=new Date(c+b[e].diff);b[e].el.innerHTML=b[e].template?b[e].template.replace("YY",a.getFullYear()).replace("Y",(a.getFullYear()%100).preFull()).replace("MM",(a.getMonth()+1).preFull()).replace("DD",a.getDate().preFull()).replace("H",a.getHours().preFull()).replace("M",a.getMinutes().preFull()).replace("S",a.getSeconds().preFull()):a.getMonth()+1+"月"+a.getDate()+"日 "+a.toString().match(d)[0]}c+=1e3}}};!function(){function a(a){return"string"==typeof a?document.getElementById(a):a}var c,b=function(b){function c(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent("on"+b,c)}function e(a){a=a||event;13==a.keyCode&amp;&amp;d.checkSubmit()}merge(this,b);this.name=a(this.name);this.psw=a(this.psw);this.remember=a(this.remember);this.loginBtn=a(this.loginBtn);this.days=a(this.days);this.logoutBtn=a(this.logoutBtn);var d=this;this.loginBtn&amp;&amp;c(this.loginBtn,"click",this.checkSubmit.fnBind(this));this.logoutBtn&amp;&amp;c(this.logoutBtn,"click",this.logout.fnBind(this));this.name&amp;&amp;this.nameEnter&amp;&amp;c(this.name,"keyup",e);this.psw&amp;&amp;this.pswEnter&amp;&amp;c(this.psw,"keyup",e)};merge(b.prototype,{name:null,psw:null,nameEnter:!0,pswEnter:!0,remember:null,loginBtn:null,logoutBtn:null,days:30,onLoginSuccess:function(){},onLoginFailed:function(){},onLogoutSuccess:function(){},onLogoutFailed:function(){},onUserChanged:function(){},onSubmit:function(){return!0},onCheckFailed:function(){},checkSubmit:function(){this.onSubmit(this.name.value,this.psw.value)?this.login():this.onCheckFailed();return!1},getDays:function(){if(!this.remember)return void 0;if("number"==typeof this.remember)return this.remember;switch(this.remember.tagName){case"INPUT":return this.remember.checked?1*this.remember.value||"number"==typeof this.days?this.days:this.days.value:void 0;case"SELECT":return this.remember.value;default:return void 0}},login:function(a,b,c){if(!a&amp;&amp;!this.name.value)return!1;var d=this;sinaSSOController.customLoginCallBack=function(a){a&amp;&amp;a.result===!0?d.onLoginSuccess(sinaSSOController.getSinaCookie()):a&amp;&amp;a.result===!1?d.onLoginFailed(a):d.onLoginFailed(a)};sinaSSOController.login(a||this.name.value,b||this.psw.value,c||this.getDays());return!1},logout:function(){var a=this;sinaSSOController.customLogoutCallBack=function(b){b.result?a.onLogoutSuccess(a):a.onLogoutFailed("退出失败...")};sinaSSOController.logout();return!1}});c=new function(){function j(a){if(!h){d=1*a||d||1e3;h=setInterval(q,d);sinaSSOController.getSinaCookie()&amp;&amp;sinaSSOController.autoLogin(q)}}function k(){clearInterval(h);m()}function l(a){a._onLoginSuccess=a.onLoginSuccess;a._onLogoutSuccess=a.onLogoutSuccess;a.onLoginSuccess=q;a.onLogoutSuccess=q}function m(){for(var a=0;a&lt;i.length;a++){i[a].onLoginSuccess=i[a]._onLoginSuccess;i[a].onLogoutSuccess=i[a]._onLogoutSuccess}}function n(){for(var a=0;a&lt;i.length;a++)i[a]._onLoginSuccess(f)}function o(){for(var a=0;a&lt;i.length;a++)i[a]._onLogoutSuccess(f)}function p(a,b){for(var c=0;c&lt;i.length;c++)i[c].onUserChanged(a,b)}function q(){var a=sinaSSOController.getSinaCookie();if(a)if(f){if(a.uid!=f.uid){p(a,f);f=a}}else{f=a;n()}else if(f){o();f=null}}var a="finance",c="finance",d=1e3,f=null,g=!0,h=null,i=[];window.sinaSSOConfig=merge({entry:a,service:c,setDomain:g},window.sinaSSOConfig||{});this.startMonitor=j;this.setFreq=function(a){clearInterval(h);d=a||d;h=setInterval(q,d)};this.stopMonitor=k();this.checkImmediate=q;this.add=function(a){var c=a;c.constructor!=b&amp;&amp;(c=new b(c));i.push(c);f&amp;&amp;c.onLoginSuccess(f);l(c);1==i.length&amp;&amp;j();return this};this.get=function(a){return i(a)};this.user=function(){return f}};window.LoginManager=c}();Object.toQueryString=function(a){var b,c;if("string"==typeof a)return encodeURIComponent(a);b=[];for(c in a)b.push(encodeURIComponent(c)+"="+encodeURIComponent(a[c]));return b.join("&amp;")};
+
+	!function(){function t(e){return typeof e=="string"?document.getElementById(e):e}function n(e,n,r){this.template=[],this.html="",this.container=t(e),this.fields=n||{},this.initTemplate(),this.css=i({up:"up",down:"down",flat:"flat"},r)}function r(t,n,r){var i=t,s=n;typeof s=="string"&amp;&amp;(s=e[s]);var o="";if(i===undefined||i===null)i="--";return s?(!isNaN(t*1)&amp;&amp;isFinite(t*1)&amp;&amp;(s.shift&amp;&amp;(i*=Math.pow(10,s.shift)),s["万/亿"]&amp;&amp;(Math.abs(i)&gt;1e8?(i/=1e8,o="亿"):Math.abs(i)&gt;1e4&amp;&amp;(i/=1e4,o="万")),s.digit!==undefined&amp;&amp;s.digit&gt;=0&amp;&amp;(o?i=i.toFixed(s.digit||2):i=i.toFixed(s.digit)),s.cfg&amp;8&amp;&amp;(i=i.format()),s.cfg&amp;4&amp;&amp;(i=t*1&gt;0?"+"+i:i),s.cfg&amp;2&amp;&amp;(i=Math.abs(i*1)),i+=o,s.cfg&amp;32&amp;&amp;this.lastData&amp;&amp;(t&gt;this.lastData[s.key]&amp;&amp;(i='&lt;span style="color:red;"&gt;↑&lt;/span&gt;'+i),t&lt;this.lastdata&gt;&lt;span style="color:green;"&gt;↓&lt;/span&gt;'+i)),s.p&amp;&amp;(i=s.p.replace("$1",i))),i):i}function i(e,t){for(var n in t)typeof e[n]=="object"&amp;&typeof; t[n]=="object"?e[n]=arguments.callee(t[n],e[n]):e[n]=t[n];return e}var e={counts:{s:1},symbol:{key:"symbol",title:"代码"},sym:{key:"sym",title:"代码"},name:{key:"name",title:"名称"},now:{key:"now",title:"&nbsp;最新价",digit:2,cfg:48},change:{key:"change",title:"涨跌额",digit:2,cfg:28},changeP:{key:"changeP",title:"涨跌幅",digit:2,cfg:28,p:"$1%",color:!0},open:{key:"open",title:"开盘价",digit:2,cfg:24},preClose:{key:"preClose",title:"昨收",digit:2,cfg:24},volume:{key:"volume",title:"成交量(手)",digit:0,cfg:16,"万/亿":!0,shift:-2},amount:{key:"amount",title:"成交额(元)",digit:2,cfg:16,"万/亿":!0},turnover:{key:"turnover",title:"换手率",digit:2,cfg:24,p:"$1%"},pe:{key:"pe",title:"市盈率",digit:2,cfg:24},pb:{key:"pb",title:"市净率",digit:2,cfg:24},high:{key:"high",title:"最高价",digit:2,cfg:24},low:{key:"low",title:"最低价",digit:2,cfg:24},buy:{key:"buy",title:"买入价",digit:2,cfg:24},sell:{key:"sell",title:"卖出价",digit:2,cfg:24},date:{key:"date",title:"日期"},time:{key:"time",title:"时间"},swing:{key:"swing",title:"振幅",digit:2,cfg:24,p:"$1%"},eps:{key:"eps",title:"每股收益",digit:2,cfg:24,s:1},profit4Season:{key:"profit4Season",title:"最近4季度每股收益",digit:2,cfg:24,s:1},profitYear:{key:"profitYear",title:"今年以来每股收益",digit:2,cfg:24,s:1},netAsset:{key:"netAsset",title:"每股净资产",digit:2,cfg:24,s:1},averageVolume:{key:"averageVolume",title:"平均成交量",digit:2,cfg:24,s:1},shares:{key:"shares",title:"总股本",digit:0,cfg:16,"万/亿":!0,s:1},capital:{key:"capital",title:"流通股本",digit:0,cfg:16,"万/亿":!0,s:1},cvs:{key:"cvs",title:"流通市值(元)",digit:2,cfg:16,"万/亿":!0},totalShare:{key:"totalShare",title:"总市值(元)",digit:2,cfg:16,"万/亿":!0},capitalA:{key:"capitalA",title:"流通A股",digit:0,cfg:16,"万/亿":!0,s:1},capitalB:{key:"capitalB",title:"流通B股",digit:0,cfg:16,"万/亿":!0,s:1},netProfit:{key:"netProfit",title:"最近年度净利润(亿元)",digit:2,cfg:16,"万/亿":!0,s:1},issuePrice:{key:"issuePrice",title:"发行价",digit:2,cfg:24,s:1},roe:{key:"roe",title:"净资产收益率",digit:2,cfg:24,p:"$1%",s:1},revenue:{key:"revenue",title:"主营业务收入(亿元)",digit:2,cfg:16,"万/亿":!0,s:1},changes_5:{key:"changes_5",title:"五日涨跌",digit:2,cfg:24,p:"$1%",s:1},changes_10:{key:"changes_10",title:"十日涨跌",digit:2,cfg:24,p:"$1%",s:1},changes_20:{key:"changes_20",title:"二十日涨跌",digit:2,cfg:24,p:"$1%",s:1},changes_30:{key:"changes_30",title:"三十日涨跌",digit:2,cfg:24,p:"$1%",s:1},changes_60:{key:"changes_60",title:"六十日涨跌",digit:2,cfg:24,p:"$1%",s:1},netamount:{key:"netamount",title:"净流入(元)",digit:2,cfg:16,"万/亿":!0},netInflowRate:{key:"netInflowRate",title:"净流入率",digit:2,cfg:24,p:"$1%"},r0_in:{key:"r0_in",title:"主力净流入(元)",digit:2,cfg:16,"万/亿":!0},r3_in:{key:"r3_in",title:"散户净流入(元)",digit:2,cfg:16,"万/亿":!0},r0_net_3:{key:"r0_net_3",title:"3日净流入(元)",digit:2,cfg:16,"万/亿":!0,s:1},r0_net_5:{key:"r0_net_5",title:"5日净流入(元)",digit:2,cfg:16,"万/亿":!0,s:1}};window.allFields=e,i(n.prototype,{initTemplate:function(){var e=this,t=this.container.innerHTML;this.container.innerHTML=t.replace(/<!--[\s\S]*?-->/g,"").replace(/@.*?@/g,"--"),t=t.replace(/<!--tpl([\s\S]*?)-->/g,function(t,n){return e.template.push(n),"@template@"}),this.html=t},draw:function(t){var n=this,i=this.html,s=this.template,o=[],u=[],a,f;a=t,a&amp;&amp;(a.constructor!==Array||a[0]&amp;&a;[0].constructor!==Array)&amp;&amp;(a=[a]);for(var l=0;l&lt;a.length&gt;&lt;s.length&gt;&lt;h&gt;0?n.css.up:r&lt;0?n.css.down:n.css.flat}}).replace(/@(.*?)@/g,function(t,i){return r(f[c][i],f[c].fieldsImportant&amp;&f;[c].fieldsImportant[i]||n.fields[i]||e[i])}));o.push(u.join(""))}var p=0;i=i.replace(/@template@/g,function(){return p++,o[p-1]||""}),i=i.replace(/@UD_(.*?)@/g,function(e,r){if(t[r]!==undefined){var i=t[r]*1;return i&gt;0?n.css.up:i&lt;0?n.css.down:n.css.flat}}).replace(/@(.*?)@/g,function(i,s){return r(t[s],t.fieldsImportant&amp;&amp;t.fieldsImportant;[s]||n.fields[s]||e[s])}),this.container.innerHTML=i}}),window.DataDrawer=n,window.dataFormat=r}()
+
+	var SuggestServer=function(){this._stringOriginalUrl="http://suggest3.sinajs.cn/suggest/type=@TYPE@&key;=@KEY@&name;=@NAME@";this._stringUrl="";this._elementScriptLoader=null;this._elementContainer=null;this._stringOriginalValue="";this._stringLastValue="";this._functionCallback=null;this._elementLineCurrent=null;this._objectHtml={};this._objectData={};this._booleanHideDelay=!1;this._stringBrowserType="";this._objectType={11:"A 股",12:"B 股",13:"权证",14:"期货",15:"债券",21:"开基",22:"ETF",23:"LOF",24:"货基",25:"QDII",26:"封基",31:"港股",32:"窝轮",33:"港指数",41:"美股",42:"外期",81:"债券",82:"债券"};this._objectConfig={input:null,loader:null,value:null,"default":null,type:0,max:10,width:220,link:null,target:"_blank",head:["选项","代码","名称"],body:[-1,2,4],fix:{firefox:[1,1]},onshow:function(){},onhide:function(){},hideSelectForIE6:!1,callback:null};this._getElement=function(a){return document.getElementById(a)};this._getRandom=function(){return(new Date).getTime()};this._bind=function(a,b){var c=this;return function(){var e,d=null;if("undefined"!=typeof b){for(e=0;e&lt;arguments.length&gt;&lt;table style="border-collapse:collapse; line-height:18px; border:2px solid #EEE; background-color:#FFF; font-size:12px; text-align:center; color:#999; width:'+(this._objectConfig.width-2)+'px;"&gt;';if(null!=this._objectConfig.head){b+='&lt;tr style="background-color:#F3F3F3;"&gt;';for(c in this._objectConfig.head)this._objectConfig.head.hasOwnProperty(c)&amp;&amp;(b+="&lt;td&gt;"+this._objectConfig.head[c]+"&lt;/td&gt;");b+="&lt;/tr&gt;"}d=(this._objectData["key_"+a]||"").replace(/&amp;/g,"&amp;").replace(/;$/,"").split(";");e=d.length&gt;this._objectConfig.max?this._objectConfig.max:d.length;f="parentNode.parentNode.parentNode['suggest']";for(c=0;e&gt;c;c++){g=d[c].split(",");g[-1]=g[0].replace(new RegExp(a.toLowerCase().replace(/(^\s*)|(\s*$)/g,"").replace(/\./g,function(a){return"\\"+a}),"gi"),function(a){return'&lt;span style="color:#F00;"&gt;'+a+"&lt;/span&gt;"});g[-2]=g[1]in this._objectType?this._objectType[g[1]]:"——";if(null==this._objectConfig.link||""==this._objectConfig.link)h=['&lt;td style="padding:0px;"&gt;&lt;span style="display:block; padding:1px;"&gt;',"&lt;/span&gt;&lt;/td&gt;"];else{i=this._objectConfig.link.replace(/@type@/g,this._getType(g[1])||g[1]).replace(/@code@/g,this._getFullCode(g));for(j in g)g.hasOwnProperty(j)&amp;&amp;(i=i.replace(new RegExp("@"+j+"@","g"),g[j]));h=['&lt;td style="padding:0px;"&gt;&lt;a href="'+i+'" hidefocus="true" onmousedown="return this.parentNode.parentNode.'+f+"&gt;',"&lt;/a&gt;&lt;/td&gt;"]}b+='&lt;tr id="'+d[c]+'" style="cursor:pointer;" onmouseover="this.'+f+"&gt;";for(j in this._objectConfig.body)this._objectConfig.body.hasOwnProperty(j)&amp;&amp;(b+=h[0]+g[this._objectConfig.body[j]]+h[1]);b+="&lt;/tr&gt;"}b+="&lt;/table&gt;";this._objectHtml["key_"+a]=b;this._elementLineCurrent=null;document.createElement("div");this._elementContainer.innerHTML=this._objectHtml["key_"+a];this._show()}else this._hide()};this._color=function(a){var b="";a._booleanArrow&amp;&amp;a.;_booleanMouse?b="#F8FBDF":a._booleanArrow?b="#F1F5FC":a._booleanMouse&amp;&amp;(b="#FCFEDF");a.style.backgroundColor!=b&amp;&amp;(a.style.backgroundColor=b)};this.mouseoverLine=function(a){a._booleanMouse=!0;this._color(a)};this.mouseoutLine=function(a){a._booleanMouse=!1;this._color(a)};this.setLineMouse=function(a){this.setLine(a);null!=this._functionCallback&amp;&amp;this.;_functionCallback(this._elementInput.value,a.id.split(","))};this._getFullCode=function(a){switch(a[1]){case"11":return a[3];case"12":return a[3];case"13":return a[3];case"14":return a[3];case"15":return a[3];case"21":return a[3];case"22":return a[3];case"23":return a[3];case"24":return a[3];case"25":return a[3];case"26":return a[3];default:return a[2]}};this.setLine=function(a){var d,e,f,b=a.id.split(","),c=this._objectConfig.value;if(null!=c&amp;&amp;""!=c){for(d=0;d&lt;b.length&gt;d;d++)this._objectData["key_"+b[d]]=f+";";this._stringLastValue=e;this._elementInput.value=e;if(null!=this._elementLineCurrent){this._elementLineCurrent._booleanArrow=!1;this._color(this._elementLineCurrent)}a._booleanArrow=!0;this._color(a);this._elementLineCurrent=a};this._show=function(){var a,b;if(null!=this._elementContainer){this._elementContainer.style.display="";this._objectConfig.onshow();if(this._objectConfig.hideSelectForIE6&amp;&amp;"ie6"==this._stringBrowserType){a=document.getElementsByTagName("select");for(b=0;b&lt;a.length&gt;&lt;a.length&gt;&lt;k.length&gt;&lt;link rel="stylesheet" href="http://finance.sina.com.cn/basejs/globalIndexScroller.css" type="text/css" id="globalIndexScrollerCss"&gt;')}document.write('&lt;div class="global_index_scroller" id="globalIndexScroller'+this.ID+'" style="visibility:hidden;"&gt;&lt;div class="global_index_scroller_body"&gt;&lt;/div&gt;&lt;div class="scroller_oper"&gt;&lt;a href="javascript:void(0)" class="scroller_down"&gt;&lt;/a&gt;&lt;a href="javascript:void(0)" class="scroller_up"&gt;&lt;/a&gt;&lt;a href="http://finance.sina.com.cn/money/globalindex/" target="_blank"&gt;\u73af\u7403\u5e02\u573a&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;');var h=b("#globalIndexScroller"+this.ID);setTimeout(function(){h.css("visibility","")},500);var f=h.find(".global_index_scroller_body");var g,n;var e,k;var o;for(var m=0;m&lt;this.indexcfgs.length&gt;&lt;ul&gt;").appendTo(f);for(var l=0;l&lt;e.length&gt;&lt;li&gt;").addClass(k[5]||"").appendTo(g);n.html('&lt;span class="#rg#_@UD_changeP@"&gt;&lt;a class="#rg#_arrow_@UD_changeP@ #hasLink#"&gt;#name#&lt;/a&gt;&lt;i&gt;\uff1a&lt;/i&gt;#fields#&lt;/span&gt;'.replace(/#rg#/g,k[3]).replace("#name#",k[1]).replace("#href#",k[4]?'href="'+k[4]+'" target="_blank"':"").replace("#hasLink#",k[4]?"":"no_link").replace("#fields#","@"+(k[6]||"now,changeP").split(",").join("@ @")+"@"));this.indexs.push(new c(k,new DataDrawer(n[0],{amount:{key:"amount",shift:-4,digit:2,p:"$1\u4ebf\u5143"}})))}}h.find(".scroller_down").click(this.scrollDown.fnBind(this));h.find(".scroller_up").click(this.scrollUp.fnBind(this))},getData:function(){var f=[];for(var e=0;e&lt;this.indexs.length&gt;&lt;this.indexs.length&gt;</script>
+<script charset="utf-8" src="http://i.sso.sina.com.cn/js/ssologin.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://i0.sinaimg.cn/cj/realstock/2012/js/stock.20140416.js"></script>
+<script type="text/javascript">
+    //JSVAR
+	var lta = 71861.129;//流通A股,老数据保留
+var lastfive = 148.3670;//过去5个交易日平均每分钟成交量
+var flag = 1; //判断标志
+var totalcapital = 74723.7306; //总股本
+var currcapital = 71861.129; //流通股本
+var curracapital = 0; //流通A股
+var currbcapital = 0; //流通B股
+var a_code = 'sz002152'; //流通A股代码
+var b_code = ''; //流通B股代码
+var papercode = 'sz002152'; //当前页面个股代码
+var exchangerate = 0; //汇率
+var fourQ_mgsy = 0.9707;//最近四个季度每股收益和
+var lastyear_mgsy = 0.9400;//前一年每股收益和
+var price_5_ago = 16.720;//5日前收盘价格
+var price_10_ago = 18.310;//10日前收盘价格
+var price_20_ago = 18.980;//20日前收盘价格
+var price_60_ago = 22.480;//60日前收盘价格
+var price_120_ago = 13.130;//120日前收盘价格
+var price_250_ago = 15.040;//250日前收盘价格
+var mgjzc = 4.8745;//最近报告的每股净资产
+var stock_state = 1;//个股状态（0:无该记录; 1:上市正常交易; 2:未上市; 3:退市）
+var trans_flag = 1;//是否显示涨跌停价（1:显示 0:不显示）
+var profit = 7.0508;//最近年度净利润
+var profit_four = 7.2545;//最近四个季度净利润
+var stockType = 'A'; //股票类型  A-A股 B-B股  I-指数
+var stockname = '广电运通'; //股票名称
+var corr_hkstock = ''; //相关港股代码
+var corr_bdc = ''; //相关债券可转换债
+var corr_bde = ''; //相关债券普通企业债
+
+/* BHPsnK7Cm94I1m1LT9oBbUxsAQI/tgPKy65jyFVorJxI+1EIO93Qt424Ixf9wBWPIGXcpKaSbXdJW/qND1DBRMwXtjHUVq5WkIPxRu8dYiHSMhK2rd+G4J8fJTsDMDuXXBGaU/JHe5/+DqKHxzt6MVAozqAWiOvIC008Tg== */
+    //HOTSTOCK
+	var hotstock_daily_a = [["sh600087","退市长油","206902","1"],["sz000402","金融街","89322","1"],["sh600432","吉恩镍业","77782","6"],["sh601000","唐山港","72036","1"],["sh600000","浦发银行","68852","-1"],["sz000002","万科A","58556","2"],["sh600030","中信证券","55294","3"],["sz002024","苏宁云商","48608","-2"],["sh600317","营口港","45576","-8"],["sz000693","华泽钴镍","43550","11"],["sh600050","中国联通","40150","14"],["sh600234","山水文化","39596","7"],["sh600545","新疆城建","37718","5"],["sz002235","安妮股份","36314","62"],["sh601002","晋亿实业","34330","-1"],["sh600158","中体产业","33424","18"],["sh600743","华远地产","32656","732"],["sh601001","大同煤业","32562","164"],["sh600149","廊坊发展","31974","46"],["sh600010","包钢股份","31940","-13"],["sh600016","民生银行","31314","5"],["sh601166","兴业银行","30928","0"],["sh600546","山煤国际","30868","412"],["sz000897","津滨发展","30686","13"],["sh600383","金地集团","30454","-13"],["sz002122","天马股份","30138","65"],["sz000333","美的集团","29104","0"],["sz002715","登云股份","28446","-17"],["sz000559","万向钱潮","28088","11"],["sh600425","青松建化","27518","9"],["sz000100","TCL集团","27328","-8"],["sz002722","金轮股份","26906","-3"],["sh600089","特变电工","26284","-3"],["sz002451","摩恩电气","25698","-19"],["sh600839","四川长虹","24484","17"],["sh600837","海通证券","24280","20"],["sz000856","冀东装备","24124","350"],["sh601318","中国平安","23250","15"],["sh600036","招商银行","23072","4"],["sh601989","中国重工","22690","2"],["sh601901","方正证券","22446","25"],["sh601299","中国北车","22356","-18"],["sh600111","包钢稀土","22308","-2"],["sz002079","苏州固锝","22254","-28"],["sh600395","盘江股份","22084","-17"],["sh601766","中国南车","21882","-26"],["sz002040","南京港","21780","12"],["sz000063","中兴通讯","21514","23"],["sh600279","重庆港九","21362","-14"],["sh600018","上港集团","21000","-6"]];
+
+/* MkmwunlY8RKojHzubsOG+MHMm/Th+vubzMGDfxpXpKJeyztY7QWtmLxZ8KXe+64qWgI9k3wGczctmYKQsl8W65sU6nG06EbGbVEf/RYul/5zGIzqIQN7RfkOsRAFNBfMMcn8fRvEezWVXqIsWiY5Lpz6R89XPFI73T3NYhRWk5YGrNrhUTTo92WzqNbkTAko */
+	var hq_str_CFF_LIST="IF1405,IF1406,IF1409,IF1412,TF1406,TF1409,TF1412";
+    var bkSymbol = 'new_dzxx';
+    var wbAppKey = '3202088101';
+	var mrq_mgsy = 0.84;
+    var flashURL = 'http://finance.sina.com.cn/flash/cn.swf';
+
+	//相关期货
+	var RS = {};
+	RS.corr_future = [];
+
+/* Amth72g3z/HAHdaTsvsJoF3lgf0Aa7L32uBF7nr8KjeOUUT5xFEcWRGFHtbMqTeJA5HlQ9HFpPkOTPxP/cjwfb1c2ksqrzW3WDkbUjMek+3qE0/FmvRjKs3JsERFFVGCpxd8pc0EE9SekuUJ7Z7JnYSCb5l5UQw7Z60g320/+S0yXS1D3xV8wRU64rK22lvsClDDu1WKlB2mI4UA1IAiSw== */
+
+	
+//综合评级级别
+var gradeLevel = 4;
+//综合评级研究报告数量 ( TODO PHP写进页面)
+var gradeAmt = 35;
+//新股发行 增发  配股 现金分红
+var bonus=[607679970,0,0,383227952];
+
+/* wzgfM7p7120W1VUZtJSS6oiQMABqRTRPiK4oACso5I5CxxGujzuq8DACYGIxnnKiPuFOVXRfb8UtHa2USqYCPfRB5qg/CP5grErL/rBKWIOyzrqQNRZOpGjG+A3tCa55fYKhWEWbkOswlRISwiR6KL0R9A1pcIOJ0FvQX9n+rd7NQlf5bxmg/eAmlAHtppYkrQX2xT19Vqz2kedoxTyY4Zn4eVGRTeM9IXcDSg== */
+</script>
+<script type="text/javascript" src="http://d1.sina.com.cn/litong/zhitou/sspnew.js"></script>
+</head>
+<body><!-- SUDA_CODE_START -->
+<script type="text/javascript"> 
+//&lt;!--
+(function(){var al="V=2.1.10";var af=window,F=document,s=navigator,V=s.userAgent,am=af.screen,i=af.location.href;var aB="https:"==af.location.protocol?"https://s":"http://",aw="beacon.sina.com.cn";var N=aB+aw+"/a.gif?",z=aB+aw+"/g.gif?",Q=aB+aw+"/f.gif?",ae=aB+aw+"/e.gif?",az=aB+"beacon.sinauda.com/i.gif?";var ay=F.referrer.toLowerCase();var Z="SINAGLOBAL",X="FSINAGLOBAL",H="Apache",P="ULV",k="SUP",aC="UOR",E="_s_acc",W="_s_tentry",n=false,ax=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aD=false,A=false;var aj="";var l=16777215,Y=0,C,K=0;var r="",b="",a="";var M=[],R=[],I=[];var u=0;var v=0;var p="";var ak=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aB+aw+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function j(){var e=document.createElement("iframe");e.src=aB+aw+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aB+aw+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aF,D){var aE=F.getElementsByName(aF);var e=(D&gt;0)?D:0;return(aE.length&gt;e)?aE[e].content:""}function m(){var aG=F.getElementsByName("sudameta");var aH=[];for(var e=0;e&lt;aG.length;e++){var aF=aG[e].content;if(aF){if(aF.indexOf(";")!=-1){var aI=aF.split(";");for(var aE=0;aE&lt;aI.length;aE++){var D=au(aI[aE]);if(!D){continue}aH.push(D)}}else{aH.push(aF)}}}return aH}function U(aI,aE,aG,aF){if(aI==""){return""}aF=(aF=="")?"=":aF;aE+=aF;var aH=aI.indexOf(aE);if(aH&lt;0){return""}aH+=aE.length;var D=aI.indexOf(aG,aH);if(D&lt;aH){D=aI.length}return aI.substring(aH,D)}function t(e){if(undefined==e||""==e){return""}return U(F.cookie,e,";","")}function aq(aG,e,D,aF){if(e!=null){if((undefined==aF)||(null==aF)){aF="sina.com.cn"}if((undefined==D)||(null==D)||(""==D)){F.cookie=aG+"="+e+";domain="+aF+";path=/"}else{var aE=new Date();var aH=aE.getTime();aH=aH+86400000*D;aE.setTime(aH);aH=aE.getTime();F.cookie=aG+"="+e+";domain="+aF+";expires="+aE.toUTCString()+";path=/"}}}function f(aE){try{var D=document.getElementById("sudaDataFrame").contentWindow.storage;return D.get(aE)}catch(aF){return false}}function ap(aE,aF){try{var D=document.getElementById("sudaDataFrame").contentWindow.storage;D.set(aE,aF);return true}catch(aG){return false}}function L(){var aH=15;var aE=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(aE&amp;&amp;aE!=undefined){w=true}ls_gid=f(Z);if(ls_gid===false||w==false){return false}else{ak=true}if(ls_gid&amp;&amp;ls_gid.length&gt;aH){aq(Z,ls_gid,3650);n=true;return ls_gid}else{if(aE&amp;&amp;aE.length&gt;aH){aq(Z,aE,3650);ax=true}var D=0,aG=500;var aF=setInterval((function(){var e=t(Z);if(w){e=aE}D+=1;if(D&gt;3){clearInterval(aF)}if(e.length&gt;aH){clearInterval(aF);ap(Z,e)}}),aG);return w?aE:t(Z)}}function T(e,aF,aE){var D=e;if(D==null){return false}aF=aF||"click";if((typeof aE).toLowerCase()!="function"){return}if(D.attachEvent){D.attachEvent("on"+aF,aE)}else{if(D.addEventListener){D.addEventListener(aF,aE,false)}else{D["on"+aF]=aE}}return true}function ad(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var aE=arguments.callee.caller;var D;var aF=0;while(aE!=null&amp;&amp;aF&lt;40){D=aE.arguments[0];if(D&amp;&amp;(D.constructor==Event||D.constructor==MouseEvent||D.constructor==KeyboardEvent)){return D}aF++;aE=aE.caller}return D}}function g(D){D=D||ad();if(!D.target){D.target=D.srcElement;D.pageX=D.x;D.pageY=D.y}if(typeof D.layerX=="undefined"){D.layerX=D.offsetX}if(typeof D.layerY=="undefined"){D.layerY=D.offsetY}return D}function au(aF){if(typeof aF!=="string"){throw"trim need a string as parameter"}var e=aF.length;var aE=0;var D=/(\u3000|\s|\t|\u00A0)/;while(aE&lt;e){if(!D.test(aF.charAt(aE))){break}aE+=1}while(e&gt;aE){if(!D.test(aF.charAt(e-1))){break}e-=1}return aF.slice(aE,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aE,aI){var aK=au(aE).split("&amp;");var aJ={};var D=function(aM){if(aI){try{return decodeURIComponent(aM)}catch(aN){return aM}}else{return aM}};for(var aG=0,aH=aK.length;aG&lt;aH;aG++){if(aK[aG]){var aF=aK[aG].split("=");var e=aF[0];var aL=aF[1];if(aF.length&lt;2){aL=e;e="$nullName"}if(!aJ[e]){aJ[e]=D(aL)}else{if(c(aJ[e])!=true){aJ[e]=[aJ[e]]}aJ[e].push(D(aL))}}}return aJ}function ab(D,aF){for(var aE=0,e=D.length;aE&lt;e;aE++){aF(D[aE],aE)}}function ai(D){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(D.match(e)){return D.match(e)[1].toString()}else{return""}}function ah(aL){try{var aI="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aN=function(e){var aO="",aP=0;for(;aP&lt;e.length;aP++){aO+="%"+aE(e[aP])}return decodeURIComponent(aO)};var aE=function(e){var aO="0"+e.toString(16);return aO.length&lt;=2?aO:aO.substr(1)};var aM=function(aV,aS,aO){if(typeof(aV)=="string"){aV=aV.split("")}var aU=function(a4,a6){for(var a5=0;a5&lt;a4.length;a5++){if(a4[a5]==a6){return a5}}return -1};var aP=[];var a3,a1,aY="";var a2,a0,aX,aW="";if(aV.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var aZ=aI.split("");if(aS=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;aZ=D.split("")}var aR=0;if(aS=="binnary"){aZ=[];for(aR=0;aR&lt;=64;aR++){aZ[aR]=aR+128}}if(aS!="binnary"&amp;&amp;e.exec(aV.join(""))){return aO=="array"?[]:""}aR=0;do{a2=aU(aZ,aV[aR++]);a0=aU(aZ,aV[aR++]);aX=aU(aZ,aV[aR++]);aW=aU(aZ,aV[aR++]);a3=(a2&lt;&lt;2)|(a0&gt;&gt;4);a1=((a0&amp;15)&lt;&lt;4)|(aX&gt;&gt;2);aY=((aX&amp;3)&lt;&lt;6)|aW;aP.push(a3);if(aX!=64&amp;&amp;aX!=-1){aP.push(a1)}if(aW!=64&amp;&amp;aW!=-1){aP.push(aY)}a3=a1=aY="";a2=a0=aX=aW=""}while(aR&lt;aV.length);if(aO=="array"){return aP}var aT="",aQ=0;for(;aQ&lt;aP.lenth;aQ++){aT+=String.fromCharCode(aP[aQ])}return aT};var aF=[];var aK=aL.substr(0,3);var aH=aL.substr(3);switch(aK){case"v01":for(var aG=0;aG&lt;aH.length;aG+=2){aF.push(parseInt(aH.substr(aG,2),16))}return decodeURIComponent(aN(aM(aF,"binnary","array")));break;case"v02":aF=aM(aH,"urlsafe","array");return aN(aM(aF,"binnary","array"));break;default:return decodeURIComponent(aL)}}catch(aJ){return""}}var an={screenSize:function(){return(l&amp;8388608==8388608)?am.width+"x"+am.height:""},colorDepth:function(){return(l&amp;4194304==4194304)?am.colorDepth:""},appCode:function(){return(l&amp;2097152==2097152)?s.appCodeName:""},appName:function(){return(l&amp;1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":s.appName):""},cpu:function(){return(l&amp;524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(l&amp;262144==262144)?(s.platform):""},jsVer:function(){if(l&amp;131072!=131072){return""}var aG,e,aI,aE=1,aF=0,D=(s.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":s.appName,aH=s.appVersion;if("MSIE"==D){e="MSIE";aG=aH.indexOf(e);if(aG&gt;=0){aI=window.parseInt(aH.substring(aG+5));if(3&lt;=aI){aE=1.1;if(4&lt;=aI){aE=1.3}}}}else{if(("Netscape"==D)||("Opera"==D)||("Mozilla"==D)){aE=1.3;e="Netscape6";aG=aH.indexOf(e);if(aG&gt;=0){aE=1.5}}}return aE},network:function(){if(l&amp;65536!=65536){return""}var D="";D=(s.connection&amp;&amp;s.connection.type)?s.connection.type:D;try{F.body.addBehavior("#default#clientCaps");D=F.body.connectionType}catch(aE){D="unkown"}return D},language:function(){return(l&amp;32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(l&amp;16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(l&amp;8192!=8192){return""}var aH=s.plugins,aE,aI,aK;if(aH&amp;&amp;aH.length){for(var aG in aH){aI=aH[aG];if(aI.description==null){continue}if(aE!=null){break}aK=aI.description.toLowerCase();if(aK.indexOf("flash")!=-1){aE=aI.version?parseInt(aI.version):aK.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aF=10;aF&gt;=2;aF--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aF);if(D){aE=aF;break}}catch(aJ){}}}else{if(V.indexOf("webtv/2.5")!=-1){aE=3}else{if(V.indexOf("webtv")!=-1){aE=2}}}}return aE},javaEnabled:function(){if(l&amp;4096!=4096){return""}var aE=s.plugins,D=s.javaEnabled(),aF,aG;if(D==true){return 1}if(aE&amp;&amp;aE.length){for(var e in aE){aF=aE[e];if(aF.description==null){continue}if(D!=null){break}aG=aF.description.toLowerCase();if(aG.indexOf("java plug-in")!=-1){D=parseInt(aF.version);continue}}}else{if(window.ActiveXObject){D=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return D?1:0}};var ac={pageId:function(D){var aE=D||r,aI="-9999-0-0-1";if((undefined==aE)||(""==aE)){try{var aF=h("publishid");if(""!=aF){var aH=aF.split(",");if(aH.length&gt;0){if(aH.length&gt;=3){aI="-9999-0-"+aH[1]+"-"+aH[2]}aE=aH[0]}}else{aE="0"}}catch(aG){aE="0"}aE=aE+aI}return aE},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(l&amp;2048!=2048){return""}var e=/^[^\?&amp;#]*.swf([\?#])?/;if((ay=="")||(ay.match(e))){var D=U(i,"ref","&amp;","");if(D!=""){return escape(D)}}return escape(ay)},isHomepage:function(){if(l&amp;1024!=1024){return""}var aE="";try{F.body.addBehavior("#default#homePage");aE=F.body.isHomePage(i)?"Y":"N"}catch(D){aE="unkown"}return aE},PGLS:function(){return(l&amp;512==512)?h("stencil"):""},ZT:function(){if(l&amp;256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(l&amp;128==128)?h("mediaid"):""},domCount:function(){return(l&amp;64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(l&amp;32==32)?F.getElementsByTagName("iframe").length:""}};var at={visitorId:function(){var D=15;var e=t(Z);if(e.length&gt;D&amp;&amp;u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(X);return e}else{aq(X,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var D=new Date();e=Math.random()*10000000000000+"."+D.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var aE=t(H);var aG=t(P);var aF=aG.split(":");var aH="",D;if(aF.length&gt;=6){if(aE!=aF[4]){D=new Date();var e=new Date(window.parseInt(aF[0]));aF[1]=window.parseInt(aF[1])+1;if(D.getMonth()!=e.getMonth()){aF[2]=1}else{aF[2]=window.parseInt(aF[2])+1}if(((D.getTime()-e.getTime())/86400000)&gt;=7){aF[3]=1}else{if(D.getDay()&lt;e.getDay()){aF[3]=1}else{aF[3]=window.parseInt(aF[3])+1}}aH=aF[0]+":"+aF[1]+":"+aF[2]+":"+aF[3];aF[5]=aF[0];aF[0]=D.getTime();aq(P,aF[0]+":"+aF[1]+":"+aF[2]+":"+aF[3]+":"+aE+":"+aF[5],360)}else{aH=aF[5]+":"+aF[1]+":"+aF[2]+":"+aF[3]}}else{D=new Date();aH=":1:1:1";aq(P,D.getTime()+aH+":"+aE+":",360)}return aH},userNick:function(){if(aj!=""){return aj}var aE=unescape(t(k));if(aE!=""){var D=U(aE,"ag","&amp;","");var e=U(aE,"user","&amp;","");var aF=U(aE,"uid","&amp;","");var aH=U(aE,"sex","&amp;","");var aG=U(aE,"dob","&amp;","");aj=D+":"+e+":"+aF+":"+aH+":"+aG;return aj}else{return""}},userOrigin:function(){if(l&amp;4!=4){return""}var e=t(aC);var D=e.split(":");if(D.length&gt;=2){return D[0]}else{return""}},advCount:function(){return(l&amp;2==2)?t(E):""},setUOR:function(){var aJ=t(aC),aN="",D="",aM="",aG="",aK=i.toLowerCase(),aE=F.referrer.toLowerCase();var aO=/[&amp;|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aI=new Date();if(aK.match(aO)){aM=aK.match(aO)[0]}else{if(aE.match(aO)){aM=aE.match(aO)[0]}}if(aM!=""){aM=aM.substr(3)+":"+aI.getTime()}if(aJ==""){if(t(P)==""){aN=ai(aE);D=ai(aK)}aq(aC,aN+","+D+","+aM,365)}else{var aH=0,aL=aJ.split(",");if(aL.length&gt;=1){aN=aL[0]}if(aL.length&gt;=2){D=aL[1]}if(aL.length&gt;=3){aG=aL[2]}if(aM!=""){aH=1}else{var aF=aG.split(":");if(aF.length&gt;=2){var e=new Date(window.parseInt(aF[1]));if(e.getTime()&lt;(aI.getTime()-86400000*30)){aH=1}}}if(aH){aq(aC,aN+","+D+","+aM,365)}}},setAEC:function(e){if(""==e){return}var D=t(E);if(D.indexOf(e+",")&lt;0){D=D+e+","}aq(E,D,7)},ssoInfo:function(){var aE=unescape(ah(t("sso_info")));if(aE!=""){if(aE.indexOf("uid=")!=-1){var D=U(aE,"uid","&amp;","");return escape("uid:"+D)}else{var e=U(aE,"u","&amp;","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ag={CI:function(){var e=["sz:"+an.screenSize(),"dp:"+an.colorDepth(),"ac:"+an.appCode(),"an:"+an.appName(),"cpu:"+an.cpu(),"pf:"+an.platform(),"jv:"+an.jsVer(),"ct:"+an.network(),"lg:"+an.language(),"tz:"+an.timezone(),"fv:"+an.flashVer(),"ja:"+an.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var D=["pid:"+ac.pageId(e),"st:"+ac.sessionCount(),"et:"+ac.excuteCount(),"ref:"+ac.referrer(),"hp:"+ac.isHomepage(),"PGLS:"+ac.PGLS(),"ZT:"+ac.ZT(),"MT:"+ac.mediaType(),"keys:","dom:"+ac.domCount(),"ifr:"+ac.iframeCount()];return"PI="+D.join("|")},UI:function(){var e=["vid:"+at.visitorId(),"sid:"+at.sessionId(),"lv:"+at.lastVisit(),"un:"+at.userNick(),"uo:"+at.userOrigin(),"ae:"+at.advCount(),"lu:"+at.fvisitorId(),"si:"+at.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+at.subp()];return"UI="+e.join("|")},EX:function(D,e){if(l&amp;1!=1){return""}D=(null!=D)?D||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+D+"|ex2:"+e},MT:function(){return"MT="+m().join("|")},V:function(){return al},R:function(){return"gUid_"+new Date().getTime()}};function av(){var aI="-",aF=F.referrer.toLowerCase(),aE=i.toLowerCase();if(""==t(W)){if(""!=aF){aI=ai(aF)}aq(W,aI,"","weibo.com")}var aG=/weibo.com\/reg.php/;if(aE.match(aG)){var aH=U(unescape(aE),"sharehost","&amp;","");var D=U(unescape(aE),"appkey","&amp;","");if(""!=aH){aq(W,aH,"","weibo.com")}aq("appkey",D,"","weibo.com")}}function d(e,D){G(e,D)}function G(D,aE){aE=aE||{};var e=new Image(),aF;if(aE&amp;&amp;aE.callback&amp;&amp;typeof aE.callback=="function"){e.onload=function(){clearTimeout(aF);aF=null;aE.callback(true)}}SUDA.img=e;e.src=D;aF=setTimeout(function(){if(aE&amp;&amp;aE.callback&amp;&amp;typeof aE.callback=="function"){aE.callback(false);e.onload=null}},aE.timeout||2000)}function x(e,aF,aE){SUDA.sudaCount++;if(!at.visitorId()&amp;&amp;!L()){if(u&lt;3){u++;setTimeout(x,500);return}}var D=N+[ag.V(),ag.CI(),ag.PI(e),ag.UI(),ag.MT(),ag.EX(aF,aE),ag.R()].join("&amp;");G(D);var aG=az+ag.R();G(aG);if(window.location.host.search("auto.sina.com.cn")&gt;=0){wrating_url="http://m.wrating.com/m.gif?a=&amp;c=860010-2370010112&amp;mcookie="+at.visitorId()+"&amp;"+ag.R()+"=";G(wrating_url)}}function y(e,aE,D){if(aD||A){return}if(SUDA.sudaCount!=0){return}x(e,aE,D)}function aa(e,aF){if((""==e)||(undefined==e)){return}at.setAEC(e);if(0==aF){return}var aE="AcTrack||"+t(Z)+"||"+t(H)+"||"+at.userNick()+"||"+e+"||";var D=ae+aE+"&amp;gUid_"+new Date().getTime();d(D)}function ao(aG,e,D,aH){aH=aH||{};if(!D){D=""}else{D=escape(D)}var aF="UATrack||"+t(Z)+"||"+t(H)+"||"+at.userNick()+"||"+aG+"||"+e+"||"+ac.referrer()+"||"+D+"||";var aE=ae+aF+"&amp;gUid_"+new Date().getTime();d(aE,aH)}function aA(aI){var D=g(aI);var aG=D.target;var aF="",aJ="",aE="";var aH;if(aG!=null&amp;&amp;aG.getAttribute&amp;&amp;(!aG.getAttribute("suda-uatrack")&amp;&amp;!aG.getAttribute("suda-actrack")&amp;&amp;!aG.getAttribute("suda-data"))){while(aG!=null&amp;&amp;aG.getAttribute&amp;&amp;(!!aG.getAttribute("suda-uatrack")||!!aG.getAttribute("suda-actrack")||!!aG.getAttribute("suda-data"))==false){if(aG==F.body){return}aG=aG.parentNode}}if(aG==null||aG.getAttribute==null){return}aF=aG.getAttribute("suda-actrack")||"";aJ=aG.getAttribute("suda-uatrack")||aG.getAttribute("suda-data")||"";sudaUrls=aG.getAttribute("suda-urls")||"";if(aJ){aH=J(aJ);if(aG.tagName.toLowerCase()=="a"){aE=aG.href}aH.key&amp;&amp;SUDA.uaTrack&amp;&amp;SUDA.uaTrack(aH.key,aH.value||aH.key,aE)}if(aF){aH=J(aF);aH.key&amp;&amp;SUDA.acTrack&amp;&amp;SUDA.acTrack(aH.key,aH.value||aH.key)}}aD=(function(aE,D){if(af.top==af){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight&gt;=aE)&amp;&amp;(F.body.clientWidth&gt;=D))?false:true}catch(aF){return true}}})(320,240);A=(function(){return false})();at.setUOR();var ar=at.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){aa.apply(null,arguments)};SUDA.uaTrack=function(){ao.apply(null,arguments)};T(F.body,"click",aA);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){aa.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){ao.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){aa.apply(null,arguments)};window._S_uaTrack=function(){ao.apply(null,arguments)};window._S_PID_="";y();try{j()}catch(S){}})();
+//--&gt;
+</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden"><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></div>
+</noscript>
+<!-- SUDA_CODE_END -->
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&amp;");var arrtmp;var arrResult={};for(var i=0;i&lt;arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i&lt;f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<div class="wrap">
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://finance.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" alt="新浪网" /></a><a href="http://finance.sina.com.cn/"><img src="http://i2.sinaimg.cn/dy/images/header/2009/standardl2nav_finance.gif" alt="新浪财经" /></a></span></div>
+<div class="sHLinks"><a href="http://finance.sina.com.cn/">财经首页</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/">新浪导航</a></div>
+</div>
+</div>
+</div>
+<div class="wrap topAD">
+<iframe src="http://finance.sina.com.cn/iframe/463/2008/0616/3.html" width="980" height="95" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>
+</div>
+<div class="nav">
+<div class="wrap">
+<span class="a_right">
+<a href="ncp.shtml?c=o"><font color="#FAD00D">查看旧版</font></a>
+<a href="http://comment5.news.sina.com.cn/comment/skin/feedback.html?channel=ly&amp;newsid=236" target="_blank"><font color="#FAD00D">意见反馈</font></a>
+</span>
+<a class="jxDown hideword" id="jxDown" suda-uatrack="key=nc2012_click&amp;value=jxgpc_on">精选股票池</a>
+<a href="http://finance.sina.com.cn/" class="index hideword" target="_blank">财经首页</a><a href="http://finance.sina.com.cn/stock/index.shtml" target="_blank">股票</a><a href="http://finance.sina.com.cn/fund/index.shtml" target="_blank">基金</a><a href="http://finance.sina.com.cn/stock/hkstock/index.shtml" target="_blank">港股</a><a href="http://finance.sina.com.cn/stock/usstock/index.shtml" target="_blank">美股</a><a href="http://finance.sina.com.cn/futuremarket/" target="_blank">期货</a><a href="http://finance.sina.com.cn/forex/" target="_blank">外汇</a><a href="http://finance.sina.com.cn/nmetal/" target="_blank">贵金属</a><a href="http://finance.sina.com.cn/bond/" target="_blank">债券</a><span class="spliter"></span><a href="http://finance.sina.com.cn/column/jsy.html" target="_blank">大盘</a><a href="http://finance.sina.com.cn/column/ggdp.html" target="_blank">个股</a><a href="http://finance.sina.com.cn/stock/newstock/index.shtml" target="_blank">新股</a><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vIR_CustomSearch/index.phtml" target="_blank">数据</a><span class="spliter"></span><a href="http://blog.sina.com.cn/lm/stock/" target="_blank">博客</a><a href="http://guba.sina.com.cn/" target="_blank">股吧</a><span class="spliter"></span><a href="http://vip.stock.finance.sina.com.cn/portfolio/main.php" target="_blank">自选股</a>
+</div>
+</div>
+<div id="jxgpc" style="display:none">
+<div class="tui">
+<div class="wrap">
+<span class="title blue_d">热门行业</span>
+<span class="list a_blue_l_all">
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_jrhy" target="_blank">金融</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_fdc" target="_blank">地产</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_hbhy" target="_blank">环保</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#hangye_ZI21" target="_blank">券商</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_sphy" target="_blank">食品</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_ysjs" target="_blank">有色</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_snhy" target="_blank">水泥</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_gthy" target="_blank">钢铁</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_mthy" target="_blank">煤炭</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_swzy" target="_blank">医药</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_dlhy" target="_blank">电力</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_jdhy" target="_blank">家电</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_qczz" target="_blank">汽车</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_nlmy" target="_blank">农业</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_fzhy" target="_blank">纺织</a>
+</span>
+<span class="title blue_d" style="margin-left:20px;">热门题材</span>
+<span class="list a_blue_l_all">
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#gn_hdhn" target="_blank">核电</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#gn_yyq" target="_blank">页岩气</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#gn_xsb" target="_blank">新三板</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#gn_tljj" target="_blank">铁路基建</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#new_cmyl" target="_blank">传媒</a>
+<a href="http://finance.sina.com.cn/stock/gujiayidong/20121010/093713326899.shtml" target="_blank">地热能</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#gn_stbk" target="_blank">ST</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#gn_jght" target="_blank">军工</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#gn_hjgn" target="_blank">黄金</a>
+</span>
+</div>
+</div>
+<div class="tui">
+<div class="wrap">
+<span class="title a_blue_d_all"><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/lhb/index.phtml" target="_blank">选股中心</a></span>
+<span class="list a_blue_l_all">
+<a href="http://vip.stock.finance.sina.com.cn/datacenter/hqstat.html#yzqs" target="_blank">一周强势股</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vRGT_shortstock/kind/tenorgstock/index.phtml" target="_blank">机构金股</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vIR_RatingUp/index.phtml?order=rating|2" target="_blank">买入评级股</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vComStockHold/kind/jjzc/index.phtml" target="_blank">基金重仓股</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vDYData/kind/qszs/index.phtml" target="_blank">趋势转升股</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vDYData/kind/zpsd/index.phtml" target="_blank">短线出击股</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vIR_IntervalRelease/index.phtml" target="_blank">资金吸筹股</a>
+<a href="http://vip.stock.finance.sina.com.cn/moneyflow/#jlrlpm" target="_blank">资金净流入股</a>
+<a href="http://vip.stock.finance.sina.com.cn/moneyflow/#zljlrepm" target="_blank">主力净流入股</a>
+<a href="http://vip.stock.finance.sina.com.cn/moneyflow/#lxjlrg" target="_blank">主力连续净流入股</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vIR_EndRise/index.phtml" target="_blank">主力尾盘拉升股</a>
+</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    jQuery('#jxDown').toggle(function ()
+    {
+        jQuery(this).addClass('jx_on').attr('suda-uatrack','key=nc2012_click&amp;value=jxgpc_off');
+        jQuery('#jxgpc').slideDown();
+		return true;
+    },function ()
+    {
+        jQuery(this).removeClass('jx_on').attr('suda-uatrack','key=nc2012_click&amp;value=jxgpc_on');
+        jQuery('#jxgpc').slideUp();
+		return true;
+    });
+</script>
+<div class="tui">
+<div class="wrap">
+<script type="text/javascript">
+		new GlobalIndexScroller(
+			[
+				[
+					['sh000001','上证指数','cn','rup','http://biz.finance.sina.com.cn/suggest/lookup_n.php?q=sh000001&amp;country=stock','','now,changeP,amount'],
+					['sz399001','深证成指','cn','rup','http://biz.finance.sina.com.cn/suggest/lookup_n.php?q=sz399001&amp;country=stock','','now,changeP,amount'],
+					['IF','期指$IF','IF','rup','http://finance.sina.com.cn/money/cffex/quotes/$IF/nc.shtml'],
+					['HSI','恒生指数','hk','gup','http://biz.finance.sina.com.cn/suggest/lookup_n.php?q=HSI&amp;country=hkstock']
+				],
+				[
+					['.dji','道琼斯','us','gup','http://biz.finance.sina.com.cn/suggest/lookup_n.php?q=.dji&amp;country=usstock'],
+					['ixic','纳斯达克','us','gup','http://biz.finance.sina.com.cn/suggest/lookup_n.php?q=ixic&amp;country=usstock'],
+					['SX5E','斯托克50','b','gup',''],
+					['UKX','英国富时100','b','gup',''],
+					['NKY','日经指数','b','gup','']
+				],
+				[
+					['CL','NYMEX原油','hf','gup','http://finance.sina.com.cn/money/future/CL/quote.shtml'],
+					['GC','COMEX黄金','hf','gup','http://finance.sina.com.cn/money/future/quote_hf.html?GC'],
+					['SI','COMEX白银','hf','gup','http://finance.sina.com.cn/money/future/quote_hf.html?SI'],
+					['CAD','LME铜','hf','gup','http://finance.sina.com.cn/money/future/quote_hf.html?CAD']
+				]
+			]).stop();
+		</script>
+</div>
+</div>
+<div class="topbar">
+<div class="wrap clearfix">
+<div class="crumbs a_blue_d_all">
+<a href="http://finance.sina.com.cn/">新浪财经</a> &gt; <a href="http://vip.stock.finance.sina.com.cn/mkt/">行情中心</a> &gt; <a href="http://finance.sina.com.cn/realstock/company/sz002152/nc.shtml">广电运通</a> &gt; <span>行情</span>
+</div>
+<div class="search">
+<form action="http://biz.finance.sina.com.cn/suggest/lookup_n.php" method="get">
+<input type="text" id="suggest_top" name="q" autocomplete="off" class="txt" onfocus="this.style.color='#333';" onblur="if(this.value == '')this.style.color='';" /><input type="submit" class="btn" value="" />
+<input type="hidden" name="country" value="stock" />
+</form>
+<script type="text/javascript">
+                var suggest0 = new SuggestServer();
+                suggest0.bind({
+                    "input": "suggest_top", //*(必选) 指定suggest绑定的对象 [string|HTMLElement.input]
+                    "value": "@2@",
+                    //~  "loader": "suggest_loader", // 可指定js读取用的公共容器 [string|HTMLElement]
+                    "default": "拼音/代码/名称", // 可指定input默认值 [string] 默认空
+                    "type": "stock", // 类型 [string] 例如"stock"、"23"、"11,12"
+                    "link": "http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=@type@&amp;q=@code@", // 备选项点击的url 不设置则不可点击 [string]
+                    target : '_self',
+                    "callback": null // 选定提示行时的回调方法，回调该方法时传入当前input内value [function|null]
+                });
+            </script>
+</div>
+<div class="promot a_blue_l_all blue_l">
+<div id="STOCKRADAR_SHOW_DIV">
+<div style="text-align:center;font-weight:bold;"><a href="http://finance.sina.com.cn/stockradar/config.html" target="_blank">新浪股市雷达  点这里配置</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap main_wrap clearfix">
+<div class="L">
+<div class="v_p data_table" id="tcVP">
+<div class="tabs">
+<div class="tab on">最近访问股</div>
+<div class="tab last"><a href="http://vip.stock.finance.sina.com.cn/portfolio/main.php" target="_blank">自选股</a></div>
+</div>
+<div class="cont a_blue_d_all" style="display:block;">
+<table cellpadding="0" border="0" cellspacing="0">
+<thead>
+<tr>
+<th>名称</th>
+<th>价格(元)</th>
+<th><a href="javascript:void(0)" id="sortBtnV">涨跌幅</a></th>
+</tr>
+</thead>
+<tbody id="tbodyVisited"></tbody>
+<tbody id="tbodyHot">
+<tr>
+<td colspan="3" class="hot_title">以下为热门股票</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="cont a_blue_d_all">
+<div class="blue_d" id="portLoginFalse">
+                    查看自选股请先
+                    <a href="javascript:void(0)" id="port_show_login" class="login_btn_s">登录</a>
+</div>
+<div class="" id="portLoginTrue">
+<div class="port_hq">
+<table cellpadding="0" border="0" cellspacing="0">
+<thead>
+<tr>
+<th>名称</th>
+<th>价格(元)</th>
+<th><a href="javascript:void(0)" id="sortBtnP">涨跌幅</a></th>
+</tr>
+</thead>
+<tbody id="tbodyPort"></tbody>
+</table>
+</div>
+<div class="port_m_link">
+<a href="http://vip.stock.finance.sina.com.cn/portfolio/main.php" target="_blank" class="a_blue_d_all">管理自选股</a>
+</div>
+<div class="port_nick clearfix a_blue_l_all blue_l">
+<span id="portNick" title="我是谁？">^_^</span>
+<a href="javascript:void(0)" id="portLogoutBtn">退出</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+            visitedAndPort.init();
+        </script>
+</div>
+<div class="R">
+<div class="block_hq clearfix">
+<div class="hq_L">
+<div class="hq_title">
+<a href="http://i.finance.sina.com.cn/zixuan,stock" target="_blank" class="a_blue_d_all add_port" id="holdStatus" suda-uatrack="key=nc2012_click&amp;value=addPort">加入自选股</a>
+<a href="http://stock.finance.sina.com.cn/shortcut.php" target="_blank" title="下载本页面的快捷方式，下次可以直接点击进入" class="a_blue_d_all add_port" onclick="this.href='http://stock.finance.sina.com.cn/shortcut.php?url=' + encodeURIComponent('http://finance.sina.com.cn/realstock/company/sz002152/nc.shtml?f=shortcut') + '&amp;name=' + encodeURIComponent('广电运通(002152)_新浪财经')" style="background-position:0px 5px;padding-left:20px;margin-right:20px;" id="getShortcut" suda-uatrack="key=nc2012_click&amp;value=shortcut">桌面快捷方式</a>
+<a href="http://m.sina.com.cn/m/finance.html" target="_blank" title="随身自选股、免费股价提醒" class="a_blue_d_all add_port" style="background-position:0px -27px;padding-left:20px;margin-right:20px;">客户端</a>
+<script type="text/javascript">
+					if(/\((iPhone|iPad|iPod)/i.test(navigator.userAgent))
+					{
+						document.getElementById('getShortcut').style.display = 'none';
+					}
+					</script>
+<h1 id="stockName">广电运通<span>(002152.SZ)</span></h1>
+<span class="stock_tip">
+<a title="新浪微操盘实盘买入" class="t_buy" href="http://wcp.sina.com/?fsina=3k_gg_mai" target="_blank"><img src="http://www.sinaimg.cn/cj/realstock/2012/images/buy.png" alt="" /></a>
+</span>
+</div>
+<div class="hq_details has_limit" id="hq">
+<div class="price_time">
+<div class="price clearfix" id="trading">
+<div class="change">
+<div id="change" class="@UD_change@">@change@</div>
+<div id="changeP" class="@UD_change@">@changeP@</div>
+</div>
+<div id="arrow" class="arrow arrow_@UD_change@"></div>
+<div id="price" class="@UD_change@">@now@</div>
+<div class="ud_limit" id="ud_limie">
+<div>涨停：@up_limit@</div>
+<div>跌停：@down_limit@</div>
+</div>
+</div>
+<div class="price" id="closed">
+                            停牌
+                        </div>
+<div class="time" id="hqTime">
+                            @date@ @time@
+                        </div>
+<div class="time blue_l" id="hqPause">临时停牌</div>
+</div>
+<div class="other" id="hqDetails">
+<table border="0" cellpadding="0" cellspacing="0">
+<colgroup>
+<col width="60" />
+<col width="50" />
+<col width="60" />
+<col width="70" />
+<col width="70" />
+<col width="40" />
+</colgroup>
+<tbody>
+<tr>
+<th>今&nbsp;&nbsp;开：</th>
+<td class="@UD_open_color@">@open@</td>
+<th>成交量：</th>
+<td>@volume@</td>
+<th>振&nbsp;&nbsp;幅：</th>
+<td>@swing@</td>
+</tr>
+<tr>
+<th>最&nbsp;&nbsp;高：</th>
+<td class="@UD_high_color@">@high@</td>
+<th>成交额：</th>
+<td>@amount@</td>
+<th>换手率：</th>
+<td>@turnover@</td>
+</tr>
+<tr>
+<th>最&nbsp;&nbsp;低：</th>
+<td class="@UD_low_color@">@low@</td>
+<th>总市值：</th>
+<td>@totalShare@</td>
+<th>市净率：</th>
+<td>@pb@</td>
+</tr>
+<tr>
+<th>昨&nbsp;&nbsp;收：</th>
+<td>@preClose@</td>
+<th>流通市值：</th>
+<td>@cvs@</td>
+<th>市盈率<sup>TTM</sup>：</th>
+<td>@pe@</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="hq_related blue_l a_blue_d_all" id="abhbk"></div>
+<div class="hq_notice a_blue_l_all blue_d">
+<div class="hq_notice_title">信息地雷：</div>
+<div class="hq_notice_cont blue_l" id="notice">
+<ul></ul>
+</div>
+<div class="hq_notice_btn">
+<a class="hq_notice_up" title="上一条" id="hqNoticeUp"></a>
+<a class="hq_notice_down" title="下一条" id="hqNoticeDown"></a>
+</div>
+</div>
+<div class="spliter_10"></div>
+<div id="flashOK">
+<div class="flash">
+<div id="flash"></div>
+</div>
+<div class="compare blue_d a_blue_d_all clearfix">
+<div class="title">走势对比：</div>
+<div class="cont">
+<div class="compare_msg" id="compareMSG"></div>
+<div class="index" id="compareIndex">
+                                大盘指数
+                                <div class="is">
+<div class="i"><a href="javascript:void(0)" symbol="sh000001">上证指数</a></div>
+<div class="i"><a href="javascript:void(0)" symbol="sz399001">深证指数</a></div>
+<div class="i"><a href="javascript:void(0)" symbol="sh000300">沪深300</a></div>
+</div>
+</div><input type="text" class="txt" id="compareTxt" onfocus="this.style.color='#333';" onblur="if(this.value == '')this.style.color='';" /><a href="javascript:void(0)" id="compareBtn">比较</a>
+</div>
+</div>
+</div>
+<div class="" id="picContainer">
+<div class="pic_tabs">
+<div class="tabs">
+<div class="tab">分时</div>
+<div class="tab">日K</div>
+<div class="tab">周K</div>
+<div class="tab">月K</div>
+<div class="tab">K线</div>
+<div class="tab">复权K线</div>
+<div class="tab">技术图</div>
+</div>
+</div>
+<div class="cont"><img url="http://image2.sinajs.cn/newchart/min/n/$symbol.gif" /></div>
+<div class="cont"><img url="http://image2.sinajs.cn/newchart/daily/n/$symbol.gif" /></div>
+<div class="cont"><img url="http://image2.sinajs.cn/newchart/weekly/n/$symbol.gif" /></div>
+<div class="cont"><img url="http://image2.sinajs.cn/newchart/monthly/n/$symbol.gif" /></div>
+<div class="cont">
+<select id="selectImgK">
+<option value="mink5">5分K线</option>
+<option value="mink15">15分K线</option>
+<option value="mink30">30分K线</option>
+<option value="daily_0">1月K线</option>
+<option value="daily_1">3月K线</option>
+<option value="daily">90天K线</option>
+<option value="daily_2">半年K线</option>
+<option value="daily_3">1年K线</option>
+<option value="daily_4">2年K线</option>
+<option value="daily_5">3年K线</option>
+<option value="weekly">周K线</option>
+<option value="monthly">月K线</option>
+</select>
+<img url="http://image2.sinajs.cn/newchart/mink5/n/$symbol.gif" id="imgK" />
+</div>
+<div class="cont">
+<select id="selectImgFqK">
+<option value="fq_daily">日K线</option>
+<option value="fq_daily_0">1月K线</option>
+<option value="fq_daily_1">3月K线</option>
+<option value="fq_daily">90天K线</option>
+<option value="fq_daily_2">半年K线</option>
+<option value="fq_daily_3">1年K线</option>
+<option value="fq_daily_4">2年K线</option>
+<option value="fq_daily_5">3年K线</option>
+</select>
+<img url="http://image2.sinajs.cn/newchart/fq_daily/n/$symbol.gif" id="imgFqK" />
+</div>
+<div class="cont">
+<select id="selectImgJS">
+<option value="macd">MACD</option>
+<option value="trix">TRIX</option>
+<option value="dmi">DMI</option>
+<option value="expma">EXPMA</option>
+<option value="brar">BRAR</option>
+<option value="cr">CR</option>
+<option value="vr">VR</option>
+<option value="psy">PSY</option>
+<option value="obv">OBV</option>
+<option value="asi">ASI</option>
+<option value="emv">EMV</option>
+<option value="wvad">WVAD</option>
+<option value="rsi">RSI</option>
+<option value="wr">W%R</option>
+<option value="kdj">KDJ</option>
+<option value="roc">ROC</option>
+<option value="mike">MIKE</option>
+<option value="dma">DMA</option>
+<option value="boll">BOLL</option>
+<option value="bias">BIAS</option>
+<option value="cci">CCI</option>
+</select>
+<img url="http://image2.sinajs.cn/newchart/macd/n/$symbol.gif" id="imgJS" />
+</div>
+<div class="compare"></div>
+</div>
+<div class="" id="h5Container">
+<div class="h5_tabs">
+<div class="tabs" id="h5TabsContainer">
+<div class="tab" id="h5Tab_t1">分时</div>
+<div class="tab" id="h5Tab_t5">五日</div>
+<div class="tab" id="h5Tab_cl">年线</div>
+<div class="tab" id="h5Tab_kd">日K</div>
+<div class="tab" id="h5Tab_kw">周K</div>
+<div class="tab" id="h5Tab_km">月K</div>
+<div class="tab" id="h5Tab_k5">5分</div>
+<div class="tab" id="h5Tab_k15">15分</div>
+<div class="tab" id="h5Tab_k30">30分</div>
+<div class="tab" id="h5Tab_k60">60分</div>
+</div>
+</div>
+<div id="h5Figure" style="height:350px;"></div>
+<div class="compare"></div>
+</div>
+<script type="text/javascript" src="http://finance.sina.com.cn/js/689/2013/1226/158.js"></script>
+<div class="attention clearfix a_blue_d_all blue_d" id="attention">
+<div class="title">同时被关注：</div>
+<div class="cont">
+<ul></ul>
+</div>
+<script type="text/javascript">
+                        var attentionList = [["sz000045","sz300348","sz300071","sh600462","sh600184","sz002695","sz002255","sh600970","sh600345","sz002677","sz300053","sz300045","sz300034","sz002187","sz000409","sz000968","sz000590","sh600831","sz000833","sz002393","sz002234","sz000852","sz300335","sz002441","sz002186","sh600582","sh600350","sh600280","sh600064","sh600759"]];
+/* pLCiQCpsUld1Ms+YbPLo3fVv5Ult+Q1Osxlweo13xfxP8kLFvp1tuBN3ea/TRrlKcHxjCyrwh3HRacsErrCNk/S1QO1Ze5RgA2oBtg3oMATp/6QIPcMGGmZ9cEjtHSx7mQoM5/4AIcPNwNQ5Us7bfW8t8iegqNgRl7mU4pVMOH3uDz9+dJeKFb6QaKNX8a1xSJrl0VlZ6r23ZPY6 */
+                    </script>
+</div>
+</div>
+<div class="hq_R">
+<div class="AD_R">
+<iframe src="http://finance.sina.com.cn/iframe/463/2012/0903/12.html" width="195" height="130" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>
+</div>
+<div class="spliter_15"></div>
+<div class="trade_buy data_table" id="trade_buy">
+<div class="tabs">
+<div class="tab">五档盘口</div>
+<div class="tab" style="color:#ff0000">实盘买入</div>
+</div>
+<div class="cont trade_buy_cont">
+<div class="bar_bets data_table">
+<table border="0" cellpadding="0" cellspacing="0" id="tabfive">
+<thead class="boder-bottom">
+<tr>
+<th colspan="3">
+                                    委比 <span id="fiveRate">--</span>&nbsp;&nbsp;&nbsp;委差 <span id="fiveAmt">--</span>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row_0">
+<th>卖⑤</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_1">
+<th>卖④</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_0">
+<th>卖③</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_1">
+<th>卖②</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_0">
+<th>卖①</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_1">
+<th>成交</th>
+<td>--</td>
+<td></td>
+</tr>
+<tr class="row_0">
+<th>买①</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_1">
+<th>买②</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_0">
+<th>买③</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_1">
+<th>买④</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_0">
+<th>买⑤</th>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr class="row_1">
+<th colspan="3">
+<span class="bar_bets_in">外盘&nbsp;<span class="up" id="outamt">--</span></span>
+<span class="bar_bets_out">内盘&nbsp;<span class="down" id="inamt">--</span></span>
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="cont trade_buy_cont" style="display:none">
+<iframe src="http://wcp.gxq.com.cn/html/sina/002152.html" width="100%" height="320" scrolling="no" frameborder="0"></iframe>
+</div>
+</div>
+<div class="spliter_20"></div>
+<div class="trade_info data_table" id="trade_info">
+<div class="tabs">
+<div class="tab"><a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradedetail.php?symbol=sz002152" target="_blank">逐笔</a></div>
+<div class="tab" id="tt6_01"><a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_bill.php?symbol=sz002152" target="_blank">大单</a></div>
+<div class="tab" id="tt6_02"><a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_price.php?symbol=sz002152" target="_blank">分价</a></div>
+<div class="tab last" id="tt6_03">分时</div>
+</div>
+<div class="cont trade_info_cont">
+<table border="0" cellpadding="0" cellspacing="0" class="blue_l" id="position_as_type_c0">
+<thead>
+<tr>
+<th>时间</th>
+<th>价(元)</th>
+<th>量(手)</th>
+<th>性质</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+</div>
+<div class="cont trade_info_cont" id="position_as_type_c1">
+<table border="0" cellpadding="0" cellspacing="0" class="blue_l">
+<thead>
+<tr>
+<th>时间</th>
+<th>价(元)</th>
+<th>量(手)</th>
+<th>性质</th>
+</tr>
+</thead>
+<tbody>
+<!--tpl&lt;tr class="row_@rowIndex@"&gt;
+                                    &lt;th&gt;@time@&lt;/th&gt;
+                                    &lt;td class="@UD_change@"&gt;@now@&lt;/td&gt;
+                                    &lt;td&gt;@volume@&lt;/td&gt;
+                                    &lt;td class="@BS@"&gt;@买卖@&lt;/td&gt;
+                                &lt;/tr&gt;-->
+</tbody>
+</table>
+</div>
+<div class="cont trade_info_cont" id="position_as_type_c2">
+<table border="0" cellpadding="0" cellspacing="0" class="blue_l">
+<thead>
+<tr>
+<th>成交价(元)</th>
+<th>成交量(股)</th>
+<th>占比(%)</th>
+</tr>
+</thead>
+<tbody>
+<!--tpl&lt;tr class="row_@rowIndex@"&gt;
+                                    &lt;td class="@UD_change@"&gt;@now@&lt;/td&gt;
+                                    &lt;td&gt;@volume@&lt;/td&gt;
+                                    &lt;td&gt;@ZB@&lt;/td&gt;
+                                &lt;/tr&gt;-->
+</tbody>
+</table>
+</div>
+<div class="cont trade_info_cont" id="position_as_type_c3">
+<table border="0" cellpadding="0" cellspacing="0" class="blue_l">
+<thead>
+<tr>
+<th>时间</th>
+<th>成交价(元)</th>
+<th>成交量(股)</th>
+</tr>
+</thead>
+<tbody>
+<!--tpl&lt;tr class="row_@rowIndex@"&gt;
+                                    &lt;th&gt;@time@&lt;/th&gt;
+                                    &lt;td class="@UD_change@"&gt;@now@&lt;/td&gt;
+                                    &lt;td&gt;@volume@&lt;/td&gt;
+                                &lt;/tr&gt;-->
+</tbody>
+</table>
+</div>
+<div class="trade_info_link a_blue_d_all">
+<a href="http://finance.sina.com.cn/roll/20140114/173417950577.shtml" target="_blank">新浪财经诚聘产品经理</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">hq.init();</script>
+<div class="spliter_20"></div>
+<div class="AD_hqbottom" style="float:none;">
+<iframe id="ifm_A78090" frameborder="0" scrolling="no" width="786" height="90" src="http://finance.sina.com.cn/iframe/333/2012-01-31/guest1428.shtml"></iframe>
+</div>
+<script type="text/javascript" src="http://i1.sinaimg.cn/dy/fusioncharts/v3_2_2/FusionCharts.js"></script>
+<div class="spliter_20"></div>
+<div class="block_jgdp block_com_research">
+<div class="t_flow jgdp_t clearfix">
+<em></em>
+<h2><a href="http://vip.stock.finance.sina.com.cn/moneyflow/#!ssfx!sz002152" target="_blank" class="a_blue_d_s">资金流向</a></h2>
+<i></i>
+<div class="links a_blue_d_all">
+<a href="http://vip.stock.finance.sina.com.cn/moneyflow/#!ssfx!sz002152" target="_blank">主力罗盘</a>
+<a href="http://finance.sina.com.cn/temp/guest4377.shtml" target="_blank">指标说明</a>
+</div>
+</div>
+<div class="c_flow block_c clearfix">
+<div class="block_flow_L">
+<div class="flow_L_map">
+<div id="chartdiv" style="float:left"></div>
+<script type="text/javascript">
+						&lt;!--
+							var myChart = new FusionCharts("http://i0.sinaimg.cn/dy/fusioncharts/v3_2_2/o_swf/Pie2D.swf","chartid","390","218","0","1");
+							myChart.setTransparent(true);
+						// --&gt;
+						</script>
+</div>
+<div class="spliter_15"></div>
+<div class="flow_table" id="MRFlow">
+<table border="1" cellpadding="0" cellspacing="0">
+<thead>
+<tr>
+<th colspan="5"><a href="http://vip.stock.finance.sina.com.cn/moneyflow/#!ssfx!sz002152" target="_blank" class="a_blue_d_s">主力、散户资金流向</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th></th>
+<th>主力买入</th>
+<th>主力卖出</th>
+<th>散户买入</th>
+<th>散户卖出</th>
+</tr>
+<tr>
+<th>
+                                        金额（万元）
+                                    </th>
+<td>@mainIn@</td>
+<td>@mainOut@</td>
+<td>@retailIn@</td>
+<td>@retailOut@</td>
+</tr>
+<tr>
+<th>比例</th>
+<td>@mainInP@</td>
+<td>@mainOutP@</td>
+<td>@retailInP@</td>
+<td>@retailOutP@</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="block_flow_R">
+<div class="flow_R_map" id="flowMap">
+<div class="flow_R_map_balance"></div>
+<div class="flow_R_map_bar_0 up"><span>散单</span></div>
+<div class="flow_R_map_bar_1 down"><span>小单</span></div>
+<div class="flow_R_map_bar_2 down"><span>大单</span></div>
+<div class="flow_R_map_bar_3 down"><span>特大单</span></div>
+</div>
+<div class="spliter_10"></div>
+<div class="flow_table" id="FLFlow">
+<table border="1" cellpadding="0" cellspacing="0">
+<thead>
+<tr>
+<th colspan="5"><a href="http://vip.stock.finance.sina.com.cn/moneyflow/#!ssfx!sz002152" target="_blank" class="a_blue_d_s">分类资金净流入额</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th></th>
+<th>散单</th>
+<th>小单</th>
+<th>大单</th>
+<th>特大单</th>
+</tr>
+<tr>
+<th>
+                                        净流入（万元）
+                                    </th>
+<td>@r3_r_in@</td>
+<td>@r2_r_in@</td>
+<td>@r1_r_in@</td>
+<td>@r0_r_in@</td>
+</tr>
+<tr>
+<th>占流通盘比例</th>
+<td>@r3_p_svs@</td>
+<td>@r2_p_svs@</td>
+<td>@r1_p_svs@</td>
+<td>@r0_p_svs@</td>
+</tr>
+<tr>
+<th>占换手率比例</th>
+<td>@r3_p_turnover@</td>
+<td>@r2_p_turnover@</td>
+<td>@r1_p_turnover@</td>
+<td>@r0_p_turnover@</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="block block_border">
+<div class="block_c clearfix">
+<div class="block_news">
+<div class="title_brown">
+<a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml" target="_blank" class="more">更多</a>
+<span style="float:right;width:380px" id="stockTip"></span>
+<h2><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml" target="_blank">公司资讯</a></h2>
+</div>
+<div class="block_c_li block_c_li_time li_point" id="stockNews">
+<ul>
+<li>
+<span>(05-08 14:28)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml">资讯</a>]
+					<a href="http://finance.sina.com.cn/stock/e/20140508/142819043021.shtml" target="_blank">电子支付概念走势强劲 上海普天大涨</a>
+</li> <li>
+<span>(05-06 13:47)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml">资讯</a>]
+					<a href="http://finance.sina.com.cn/stock/e/20140506/134719016048.shtml" target="_blank">快讯：电子支付概念活跃 东港股份大涨</a>
+</li> <li>
+<span>(05-05 15:08)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml">资讯</a>]
+					<a href="http://finance.sina.com.cn/stock/companyresearch/20140505/150819004185.shtml" target="_blank">明日最具爆发力六大牛股</a>
+</li> <li>
+<span>(04-30 19:29)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml">资讯</a>]
+					<a href="http://finance.sina.com.cn/china/20140430/192918978804.shtml" target="_blank">工信部回应将建国家基站公司：符合深化改革精神</a>
+</li> <li>
+<span>(04-30 10:08)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml">资讯</a>]
+					<a href="http://finance.sina.com.cn/stock/hkstock/hkstocknews/20140430/100818973614.shtml" target="_blank">传电信业将重组成立国家基站公司 三大运营商共同持股</a>
+</li> <li>
+<span>(04-29 23:09)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml">资讯</a>]
+					<a href="http://finance.sina.com.cn/chanjing/cyxw/20140429/230918965291.shtml" target="_blank">传电信业将重组成立国家基站公司 与三大运营商平起平坐</a>
+</li></ul><div class="dotted_line"></div><ul> <li>
+<span>(04-29 07:40)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/002152.phtml">公告</a>]
+					<a href="http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=sz002152&amp;id=1393529" target="_blank">广电运通2014年第一季度报告全文</a> </li> <li>
+<span>(04-29 00:00)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllMemordDetail.php?stockid=002152">地雷</a>]
+					<a href="http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllMemordDetail.php?stockid=002152#_2095261" target="_blank">(002152) 广电运通：拟披露季报</a>
+</li> <li>
+<span>(04-29 00:00)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllMemordDetail.php?stockid=002152">地雷</a>]
+					<a href="http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllMemordDetail.php?stockid=002152#_2164443" target="_blank">(002152) 广电运通：2014年一季度报告主要财..</a>
+</li> <li>
+<span>(04-28 21:51)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/002152.phtml">公告</a>]
+					<a href="http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=sz002152&amp;id=1393523" target="_blank">广电运通2014年第一季度报告正文</a> </li> <li>
+<span>(04-28 01:19)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml">资讯</a>]
+					<a href="http://finance.sina.com.cn/china/20140428/011918938910.shtml" target="_blank">医保基金结余超9千亿 个人账户资金大量遭滥用</a>
+</li> <li>
+<span>(04-23 16:20)</span>
+					[<a class="a_blue_d_all" target="_blank" href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002152.phtml">资讯</a>]
+					<a href="http://finance.sina.com.cn/stock/companyresearch/20140423/162018897142.shtml" target="_blank">涨停敢死队火线抢入6只强势股</a>
+</li></ul>
+<!-- k+OpWdZREE7SJT5FWVb6WeR3zQL94l10Lx8OehepdZ91ZU3Xkqj8qpKY4iK8TPN4dvtpSuqrQfAsLAh039Tigyp7KXaYBFpIA1sp5GZmZSX46GXlQNa0q9Uf/QhIc0EVde86cNPIfB2X6ehYJF2X8zciXxxd/a+ks8VzcCS/K4suPhTpaRW6tdoFWQq/NW3wAZIv0N+xCN1V7ILWUaUSRmyFfrM+N/1+f70MqjZUgJsb9fV+kIsSgxknC/M= -->
+</div>
+</div>
+<div class="block_comment">
+<div class="title_brown">
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?symbol=002152&amp;t1=all" target="_blank" class="more">更多</a>
+<h2><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?symbol=002152&amp;t1=all" target="_blank">研究报告</a></h2>
+</div>
+<div class="block_c_li block_c_li_time li_point">
+<!--公司研究-->
+<div class="comment_t"><span><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?symbol=sz002152&amp;t1=all" target="_blank" class="a_blue_l_s">公司研究</a></span></div><ul> <li><a title="广电运通:出货情况良好,收入确认滞后拖累业绩表现" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2313343/index.phtml" target="_blank">广电运通:出货情况良好,收入确...</a></li> <li><a title="广电运通14年一季报点评:业绩稳健增长 毛利率持续提升" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2310399/index.phtml" target="_blank">广电运通14年一季报点评:业绩...</a></li> <li><a title="广电运通:服务占比不断提升,VTM、清分机等新产品逐渐放量" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2281816/index.phtml" target="_blank">广电运通:服务占比不断提升,V...</a></li> <li><a title="广电运通:2013略超预期,2014设备与服务多点开花" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2270843/index.phtml" target="_blank">广电运通:2013略超预期,2...</a></li> <li><a title="广电运通:先行指标全面向好,公司增速有望再上新台阶" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2270613/index.phtml" target="_blank">广电运通:先行指标全面向好,公...</a></li></ul>
+<!-- wwwvHWA4+vAHC9Rge5SQAZYtha3TrxTTBUHt9yCqL9vByC+zqA1WJM7hb6ElfGtvT2z32gm2tKRZgIUKSvTDKW11SFn800wDrUc/4qY9QW7rdX5YlITDkmi8jdzykhdvZsXBRtDFXek5kq56iUOW2RisNedDLPeNLmHudJvIbERqdWQuNWaM9gapDnueKoQczAxcUvhAMw+22pdoYQ3INaUmRJdBzGvQCe2acI2D86xYjAghP6wBQQ== -->
+<!--行业研究-->
+<div class="comment_t"><span><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?industry=电信行业&amp;t1=all" target="_blank" class="a_blue_l_s">行业研究</a></span></div><ul> <li><a title="China Telecoms Sector:On firmer ground" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2320978/index.phtml" target="_blank">China Telecoms ...</a></li> <li><a title="软件与服务行业2014年日常报告:铁路投资总额再上调,铁路信息化板块受益" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2320834/index.phtml" target="_blank">软件与服务行业2014年日常报...</a></li> <li><a title="首届“首都网络安全日”点评:信息安全重视程度持续提升" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2320793/index.phtml" target="_blank">首届“首都网络安全日”点评:信...</a></li> <li><a title="电子元器件行业周报:led企业一季度财报表现抢眼" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2320382/index.phtml" target="_blank">电子元器件行业周报:led企业...</a></li> <li><a title="China Telecoms:VAT Reform: EPS-Dilutive,but FCF-Accretive" href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2320328/index.phtml" target="_blank">China Telecoms:...</a></li></ul>
+<!-- wwwvHWA4+vAHC9Rge5SQAZYtha3TrxTTBUHt9yCqL9vByC+zqA1WJM7hb6ElfGtvT2z32gm2tKRZgIUKSvTDKW11SFn800wDrUc/4qY9QW7rdX5YlITDkmi8jdzykhdvZsXBRtDFXek5kq56iUOW2RisNedDLPeNLmHudJvIbERqdWQuNWaM9gapDnueKoQczAxcUvhAMw+22pdoYQ3INaUmRJdBzGvQCe2acI2D86xYjAghP6wBQQ== -->
+</div>
+</div>
+</div>
+</div>
+<div class="block">
+<div class="block_c clearfix">
+<div class="block_newBBS">
+<div class="title_brown">
+<a href="http://guba.sina.com.cn/?s=bar&amp;name=sz002152" target="_blank" class="more">更多</a>
+<a href="http://guba.sina.com.cn/?s=bar&amp;name=sz002152" class="write" target="_blank">发表帖子</a>
+<h2><a href="http://guba.sina.com.cn/?s=bar&amp;name=sz002152" target="_blank">广电运通股吧</a></h2>
+</div>
+<div class="li_point">
+<div class="newBBS_title blue_l">
+<span class="NBT_0">标题</span>
+<span class="NBT_1">点击</span>
+<span class="NBT_2">回复</span>
+<span class="NBT_3">最后回复</span>
+</div>
+<ul>
+<li><a title="价格有望筑底回升" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21107" target="_blank">价格有望筑底回升</a><span class="NBN_0">1113</span><span class="NBN_1">0</span><span class="NBN_2">05-09 14:47</span></li> <li><a title="融资融券:广电运通(002152)5月8日做空力度增大" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21118" target="_blank">融资融券:广电运通(002152)5月8日...</a><span class="NBN_0">556</span><span class="NBN_1">0</span><span class="NBN_2">05-09 10:08</span></li> <li><a title="广电运通（002152）10日午间公告" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=20098" target="_blank">广电运通（002152）10日午间公告</a><span class="NBN_0">8286</span><span class="NBN_1">11</span><span class="NBN_2">05-09 09:23</span></li> <li><a title="皖新传媒：文化消费为基本点，影视娱乐为亮点，安徽文化产业新旗舰！" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21109" target="_blank">皖新传媒：文化消费为基本点，影视娱乐为亮点...</a><span class="NBN_0">145</span><span class="NBN_1">0</span><span class="NBN_2">05-08 11:29</span></li> <li><a title="融资融券:广电运通(002152)5月7日做空力度增大" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21108" target="_blank">融资融券:广电运通(002152)5月7日...</a><span class="NBN_0">531</span><span class="NBN_1">0</span><span class="NBN_2">05-08 10:17</span></li> <li><a title="#国企要闻#【广电运通谭栋作为省五一劳动奖章获得者代表上" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21100" target="_blank">#国企要闻#【广电运通谭栋作为省五一劳动奖...</a><span class="NBN_0">1321</span><span class="NBN_1">0</span><span class="NBN_2">05-07 15:26</span></li> <li><a title="融资融券:广电运通(002152)5月6日股价走弱的概率增大" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21097" target="_blank">融资融券:广电运通(002152)5月6日...</a><span class="NBN_0">773</span><span class="NBN_1">0</span><span class="NBN_2">05-07 09:28</span></li> <li><a title="智能交通：2014的最大赢家!关注龙头皖通科技、中海科技。" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21088" target="_blank">智能交通：2014的最大赢家!关注龙头皖通...</a><span class="NBN_0">275</span><span class="NBN_1">0</span><span class="NBN_2">05-06 15:47</span></li></ul><div class="dotted_line"></div><ul> <li><a title="融资融券:广电运通(002152)5月5日股价走弱的概率增大" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21086" target="_blank">融资融券:广电运通(002152)5月5日...</a><span class="NBN_0">1017</span><span class="NBN_1">0</span><span class="NBN_2">05-06 13:43</span></li> <li><a title="广电运通：出货情况良好" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21077" target="_blank">广电运通：出货情况良好</a><span class="NBN_0">1168</span><span class="NBN_1">0</span><span class="NBN_2">05-05 15:25</span></li> <li><a title="广州广电运通入职在华颖门诊部体检？（广州体检代检： （" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21098" target="_blank">广州广电运通入职在华颖门诊部体检？（广州体...</a><span class="NBN_0">513</span><span class="NBN_1">0</span><span class="NBN_2">05-01 09:26</span></li> <li><a title="广电运通评估信息安全意识课件，九安医疗:内部控制鉴证报" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21078" target="_blank">广电运通评估信息安全意识课件，九安医疗:内...</a><span class="NBN_0">796</span><span class="NBN_1">0</span><span class="NBN_2">04-29 17:01</span></li> <li><a title="分别是:康美药业、伊利股份、新纶科技、上海绿新、江山股" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21076" target="_blank">分别是:康美药业、伊利股份、新纶科技、上海...</a><span class="NBN_0">1439</span><span class="NBN_1">0</span><span class="NBN_2">04-29 13:39</span></li> <li><a title="融资融券:广电运通(002152)4月28日空方占据优势" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21020" target="_blank">融资融券:广电运通(002152)4月28...</a><span class="NBN_0">1141</span><span class="NBN_1">0</span><span class="NBN_2">04-29 09:50</span></li> <li><a title="广电运通融资融券信息(4/25)，东方财富网。[公司人说]李先" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=21052" target="_blank">广电运通融资融券信息(4/25)，东方财富...</a><span class="NBN_0">904</span><span class="NBN_1">0</span><span class="NBN_2">04-28 20:05</span></li> <li><a title="16只券商股月内逆市上涨" href="http://guba.sina.com.cn/?s=thread&amp;bid=1526&amp;tid=20996" target="_blank">16只券商股月内逆市上涨</a><span class="NBN_0">572</span><span class="NBN_1">0</span><span class="NBN_2">04-28 11:04</span></li></ul>
+<!-- fLWfTHSnlcuP0IXRGxOp/FIzTqDWFiRT+L1yjjBTEowFyx/fZl3EAxwRyvzYDww28PM0ZWSdnTw2O5AxD1ozRYXNQhuIfpCjSKWpLzppu+zfooim3ApKCQGqrWzo2HKIsKFlxesnKIQTCih5T0jOwMCvgzN4UapoTq2NK5xaVXaXShXwiRYhbMIq2rO3bGthfgfRzqlQxcgrIqbAPwXsA1sakWQtIfWAgMnX26+mEPI= -->
+</div>
+</div>
+<div class="block_weibo_recommend">
+<div class="title_brown">
+<h2><a href="http://weibo.com/u/1638782947" target="_blank">微博推荐</a></h2>
+</div>
+<div class="wr_c" id="weiboRecommend">
+<a href="javascript:void(0)" class="go_up"></a>
+<div class="wrs a_blue_l_all blue_d"></div>
+<a href="javascript:void(0)" class="go_down"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="spliter_20"></div>
+<div class="block_jgdp">
+<div class="jgdp_t clearfix">
+<em></em>
+<h2><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vDYData/kind/znzd/index.phtml" target="_blank" class="a_blue_d_s">机构分析</a></h2>
+<div class="t_links a_blue_d_all">
+<a href="http://dy.show.sina.com.cn/" target="_blank">高手问答</a>
+</div>
+</div>
+<div class="jgdp_maps clearfix">
+<div class="jgdp_map">
+<div>
+<a href="http://finance.sina.com.cn/stock/message/upchina/sz002152.html" target="_blank"><img alt="广电运通-综合评测" src="/stock/message/upchina/qushianquan/002152-1.png" onerror="this.parentNode.parentNode.innerHTML ='&lt;div style=\'height:163px;line-height:163px;text-align:center;\'&gt;暂无数据&lt;/div&gt;'" /><div style="">暂无数据</div>'" /&gt;</a>
+</div>
+<p class="jgdp_zhpc blue_d">
+                        综合评测：广电运通评分为<span class="up">95</span>，压力位<span class="up">20.32</span>，支撑位<span class="up">18.48</span>
+</p>
+<p class="jgdp_word blue_l">
+                        趋势安全
+                    </p>
+<p class="jgdp_word blue_l">
+                        (2014-05-09)
+                    </p>
+</div>
+<div class="jgdp_map">
+<div>
+<a href="http://finance.sina.com.cn/stock/message/upchina/sz002152.html" target="_blank"><img alt="广电运通-控盘力度" src="/stock/message/upchina/kongpanlidu/002152-3.png" onerror="this.parentNode.parentNode.innerHTML ='&lt;div style=\'height:163px;line-height:163px;text-align:center;\'&gt;暂无数据&lt;/div&gt;'" /><div style="">暂无数据</div>'" /&gt;</a>
+</div>
+<p class="jgdp_word blue_l">
+                        控盘力度
+                    </p>
+<p class="jgdp_word blue_l">
+                        (2014-05-09)
+                    </p>
+</div>
+<div class="jgdp_map">
+<span id="gxq_radar"></span>
+<p class="jgdp_zhpc blue_l">
+<a href="http://finance.sina.com.cn/stock/message/gxq/sz002152/ggzd.html" target="_blank" class="a_blue_l_all">微操盘：<span class="blue_d">该股的机构认同、技术面、题材面、资金面强于行业水平，而基本面弱于行业水平</span>
+<!-- PSv6fv6eOSj0Ppf22qublvXDk0qFpb7QazeozNMZfIkHsd5uF00gx0iMAlWWuj/Ez1bxoiHg+vKcXpNISFLHyneM2BGBF8guajHAnluiE5kMaUqR6bq0wXEa44p8SUR2w8GzrzPwBxhi3Vq0SFsim52Io1w1jhGlQSZ+PdaztE9lKQwOfJ1zf93pdw4PJm7/BqOHpKDS5S7Jur7NCVTQBg== --></a> (2014-05-09)
+                    </p>
+</div>
+</div>
+<div class="jgdp_c blue_d">
+<p>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vDYData/kind/znzd/index.phtml" target="_blank"><span class="blue_l">智能诊断</span></a>：中期跌势。弱势底部反复，暂不宜加仓，短期阻力位 16.97，支撑位 16.43
+				<span class="blue_l">(2014-05-08)</span>
+</p>
+<!-- rmI8yI7UtVCViN0egJ8KLevJ2DTeGaO/8j2VuJrdC0oGtci3ebgtjhpANfok8vO3nfTlgHy/xhB2bRCQ9EteCuh7WglD4Ew/0YmZ0YkQYWfXCk0ZJE2JLi7Xgy7G3W1WT5yuZAft5ZEYbamHlsATGVWkQw/e2RMCkVLuOYjL0nURK7FlU6E6j8CqLhGKhiihJFAHS5fmRgzif5Xbo9MDpFmTVN+axVBHMKUINQ== -->
+<p>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/qgqp/index.phtml" target="_blank"><span class="blue_l">千股千评</span></a>：调整格局,卖出
+				<span class="blue_l">(2014-05-08)</span>
+</p>
+<!-- 6o/1338gG6jcEk4mlkPvsWy2qxaI4UvVcvC0uHDCY1ccsDl16npoCbXZrJqgAMcUCYQSSlPyGxmkOZwQWc64jmhw6bLk1IokRqHV5BGjkUNv6WOvpBAI7NXHk8CJlLwIK3UTMtVMCRxlXX4gpB1IjFLMEGfB6RegmNqGnvaDgXI09zZjXoCr+9U5z3vX0ZhTZ5ZnRWKrSGSL5qWJnRrDffS2ZURaqlHi4FCshw== -->
+</div>
+</div>
+<div class="spliter_20"></div>
+<div class="block_jgdp block_com_research">
+<div class="jgdp_t clearfix">
+<em></em>
+<h2>公司研究</h2>
+</div>
+<div class="com_research clearfix">
+<div class="com_r com_r_0">
+<div class="title">
+<h3>热点数据</h3>
+<a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_FinanceSummary/stockid/002152/displaytype/4.phtml" target="_blank" class="more" style="margin-left:10px;">更多</a>
+<select id="select_mgzb">
+<option value="cwblzyywsr">主营业务收入(亿元)</option>
+<option value="cwbljlr">净利润(亿元)</option>
+<option value="mgzb_mgsy2012">每股收益</option>
+<option value="mgzb_mgjzc2012">每股净资产</option>
+<option value="cwzkxjhl">每股现金含量</option>
+<option value="cwzkwfplr">每股未分配利润</option>
+<option value="cwzkmgzbgj">每股资本公积金</option>
+</select>
+</div>
+<div class="cont" id="cont_mgzb"></div>
+<div class="com_r_rank">
+<div class="tabs" id="tabs_rank_chart_l">
+<a class="more" target="_blank" href="http://screener.finance.sina.com.cn/index.html?wkey=c3b34885a9574b457720f8e2c9af082a">更多</a> <div class="tab on" type="xl">相邻排名</div>
+<div class="tab" type="top">行业前十</div>
+</div>
+<div id="rankSummary_l" class="rank_summary blue_d"></div>
+<div class="cont" id="rank_chart_l"></div>
+</div>
+<i class="corner"></i>
+</div>
+<div class="com_r com_r_1">
+<div class="title">
+<h3>财务比率</h3>
+<a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_FinancialGuideLine/stockid/002152/displaytype/4.phtml" target="_blank" class="more" style="margin-left:10px;">更多</a>
+<select id="select_cwbl">
+<option value="cwbljzcsyl">净资产收益率</option>
+<option value="cwblzylrl">主营业务利润率</option>
+<option value="cwbljlrzzl">净利润增长率</option>
+<option value="cwblmll">毛利率</option>
+<option value="cwblgdqybl">股东权益比率</option>
+<option value="cwblhbldzcl">现金流量比率</option>
+</select>
+</div>
+<div class="cont" id="cont_cwbl"></div>
+<div class="com_r_rank">
+<div class="tabs" id="tabs_rank_chart_r">
+<a class="more" target="_blank" href="http://screener.finance.sina.com.cn/index.html?wkey=023432848b4dc34e5d6e69aac4202859">更多</a> <div class="tab on" type="xl">相邻排名</div>
+<div class="tab" type="top">行业前十</div>
+</div>
+<div id="rankSummary_r" class="rank_summary blue_d"></div>
+<div class="cont" id="rank_chart_r"></div>
+</div>
+<i class="corner"></i>
+</div>
+<div class="com_r com_r_2">
+<div class="title">
+<h3>研究机构投资评级</h3>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?symbol=sz002152&amp;t1=all" target="_blank" class="more">更多</a>
+</div>
+<div class="cont">
+<p>最近60天内有<script type="text/javascript">
+                                document.write(gradeAmt);
+                            </script>个研究报告发布广电运通(sz002152)评级，综合评级如下：</p>
+<div class="pj_bar">
+<img alt="" src="http://www.sinaimg.cn/cj/realstock/2012/images/pj_bar.jpg" width="288" />
+<script type="text/javascript">
+                                if(gradeLevel &gt; 0)
+                                {
+                                    document.write('&lt;div class="pj_pointer" style="left:' + ((290 / 5) * (gradeLevel - 1 + 0.5) - 5) + 'px;"&gt;&lt;/div&gt;');
+                                }
+                            </script>
+</div>
+</div>
+<i class="corner"></i>
+</div>
+<div class="com_r com_r_3">
+<div class="title">
+<h3>财务安全评级</h3>
+<a href="http://finance.sina.com.cn/stock/message/upchina/sz002152.html" target="_blank" class="more">更多</a>
+</div>
+<div class="cont">
+<img alt="" src="/stock/message/upchina/pingjianquan/002152-2.png" onerror="this.parentNode.innerHTML ='&lt;div style=\'height:135px;line-height:135px;text-align:center;\'&gt;暂无数据&lt;/div&gt;'" /><div style="">暂无数据</div>'" /&gt;
+                    </div>
+<i class="corner"></i>
+</div>
+</div>
+</div>
+</div>
+<div class="L">
+<div class="spliter_15"></div>
+<div class="title_blue">
+<h2>热点栏目</h2>
+</div>
+<div class="hot_column a_blue_d_all">
+<ul class="clearfix li_point">
+<li><a href="http://finance.sina.com.cn/focus/jyts/index.shtml" target="_blank">交易提示</a></li>
+<li><a href="http://finance.sina.com.cn/stock/cpbd/" target="_blank">操盘必读</a></li>
+<li><a href="http://roll.finance.sina.com.cn/finance/zq1/gsjsy/index.shtml" target="_blank">大市评论</a></li>
+<li><a href="http://finance.sina.com.cn/column/ggdp.shtml" target="_blank">个股点评</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllMemordDetail.php?stockid=002152" target="_blank">公司公告</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?symbol=002152&amp;t1=all" target="_blank">研究报告</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vRPD_NewStockIssue/page/1.phtml" target="_blank">新股申购</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/qgqp/index.phtml" target="_blank">千股千评</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/moneyflow/#!ssfx!sz002152" target="_blank" style="color:Red">资金流向</a></li>
+<li><a href="http://finance.sina.com.cn/focus/zqbjh/" target="_blank">证券报</a></li>
+</ul>
+</div>
+<div class="spliter_15"></div>
+<div id="hydb_container">
+<div class="title_blue hydb_title">
+<h2>行业对比</h2>
+<select id="select_hydb">
+<option value="changepercent_up">涨幅</option>
+<option value="changepercent_down">跌幅</option>
+<option value="swingpercent">振幅</option>
+<option value="volumerate">量比</option>
+<option value="commissionrate">委比</option>
+<option value="volume">成交量</option>
+<option value="turnoverrate">换手率</option>
+<option value="peratio">市盈率</option>
+<option value="pbratio">市净率</option>
+<option value="bkrank_netamount">资金流入额</option>
+<option value="bkrank_ratioamount">资金流入率</option>
+</select>
+</div>
+<div class="hydb_column a_blue_d_all data_table">
+<table cellpadding="0" border="0" cellspacing="0">
+<thead>
+<tr>
+<th>名称</th>
+<th>价格(元)</th>
+<th id="hydb_key"></th>
+</tr>
+</thead>
+<tbody id="table_hydb"></tbody>
+</table>
+</div>
+<div class="spliter_20"></div>
+</div>
+<div class="louver a_blue_d_all" id="louver">
+<div class="top_oper">
+<a href="javascript:void(0)" id="louverAllUnfold">展开全部</a>
+<a href="javascript:void(0)" id="louverAllFold">收起全部</a>
+</div>
+<div class="louver_sec">
+<div class="sec_title">
+<h3>投资工具</h3>
+</div>
+<div class="sec_cont">
+<ul>
+<li><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/lhb/index.phtml" target="_blank">数据中心</a></li>
+<li><a href="http://screener.finance.sina.com.cn/?from=cnstock" target="_blank">条件选股</a></li>
+<li><a href="http://biz.finance.sina.com.cn/company/compare/compare.php?stock_code=002152" target="_blank">财务对比</a></li>
+<li><a href="http://finance.sina.com.cn/stock/message/gxq/sz002152/ggzd.html" target="_blank">个股诊断</a></li>
+</ul>
+</div>
+<div class="sec_btn"><!--&lt;a&gt;&lt;/a&gt;--></div>
+</div>
+<div class="louver_sec">
+<div class="sec_title">
+<h3>行情走势</h3>
+</div>
+<div class="sec_cont row_num_5">
+<ul>
+<li><a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_bill.php?symbol=sz002152" target="_blank">大单追踪</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradedetail.php?symbol=sz002152" target="_blank">成交明细</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_price.php?symbol=sz002152" target="_blank">分价统计</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_price_history.php?symbol=sz002152" target="_blank">持仓分析</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vMS_MarketHistory/stockid/002152.phtml" target="_blank">历史交易</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vMS_FuQuanMarketHistory/stockid/002152.phtml" target="_blank">复权交易</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/rzrq/index.phtml?symbol=sz002152&amp;bdate=2014-01-01&amp;edate=2014-05-09" target="_blank">融资融券</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/dzjy/index.phtml?symbol=sz002152&amp;bdate=2014-01-01&amp;edate=2014-05-09" target="_blank">大宗交易</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/nbjy/index.phtml?symbol=sz002152&amp;bdate=2014-01-01&amp;edate=2014-05-09" target="_blank">内部交易</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/lhbstock/index.phtml?symbol=sz002152&amp;bdate=2011-05-09&amp;edate=2014-05-09" target="_blank">龙虎榜</a></li>
+</ul>
+</div>
+<div class="sec_btn"></div>
+</div>
+<div class="louver_sec">
+<div class="sec_title">
+<h3>技术分析</h3>
+</div>
+<div class="sec_cont" id="technology">
+<a href="javascript:void(0)" param="forward">复权K线</a>
+<a href="javascript:void(0)" param="MACD">MACD</a>
+<a href="javascript:void(0)" param="KDJ">KDJ</a>
+<a href="javascript:void(0)" param="BOLL">BOLL</a>
+<a href="javascript:void(0)" param="PSY">PSY</a>
+<a href="javascript:void(0)" param="OBV">OBV</a>
+<a href="javascript:void(0)" param="RSI">RSI</a>
+<a href="javascript:void(0)" param="CCI">CCI</a>
+<a href="javascript:void(0)" param="WVAD">WVAD</a>
+<a href="javascript:void(0)" param="asi">ASI</a>
+<a href="javascript:void(0)" param="expma">EXPMA</a>
+<a href="javascript:void(0)" param="roc">ROC</a>
+<a href="javascript:void(0)" param="wr">W&R;</a>
+</div>
+<div class="sec_btn"><a></a></div>
+</div>
+<div class="louver_sec">
+<div class="sec_title">
+<h3><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002152.phtml" target="_blank" class="a_blue_d_s">公司资料</a></h3>
+</div>
+<div class="sec_cont">
+<ul>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002152.phtml" target="_blank">公司简介</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpManager/stockid/002152.phtml" target="_blank">公司高管</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/002152/menu_num/2.phtml" target="_blank">所属行业</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/002152/menu_num/5.phtml" target="_blank">所属板块</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpRule/stockid/002152.phtml" target="_blank">公司章程</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/002152/menu_num/0.phtml" target="_blank">证券资料</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/002152.phtml" target="_blank">相关资料</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/002152/menu_num/1.phtml" target="_blank">相关证券</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/002152/menu_num/3.phtml" target="_blank">所属指数</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/002152/menu_num/4.phtml" target="_blank">所属系别</a></li>
+</ul>
+</div>
+<div class="sec_btn"><a></a></div>
+</div>
+<div class="louver_sec">
+<div class="sec_title">
+<h3><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_ShareBonus/stockid/002152.phtml" target="_blank" class="a_blue_d_s">发行分配</a></h3>
+</div>
+<div class="sec_cont row_num_2">
+<ul>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_ShareBonus/stockid/002152.phtml" target="_blank">分红送配</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_NewStock/stockid/002152.phtml" target="_blank">新股发行</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/xsjj/index.phtml?symbol=sz002152" target="_blank">限售解禁</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_AddStock/stockid/002152.phtml" target="_blank">增发</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_TransferableBond/stockid/002152.phtml" target="_blank">可转债</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_CollectFund/stockid/002152.phtml" target="_blank">募资投向</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_RaiseExplanation/stockid/002152.phtml" target="_blank">招股说明书</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_MarketBulletin/stockid/002152.phtml" target="_blank">上市公告</a></li>
+</ul>
+</div>
+<div class="sec_btn"><a></a></div>
+</div>
+<div class="louver_sec">
+<div class="sec_title">
+<h3><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_StockStructure/stockid/002152.phtml" target="_blank" class="a_blue_d_s">股本股东</a></h3>
+</div>
+<div class="sec_cont">
+<ul>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_StockStructure/stockid/002152.phtml" target="_blank">股本结构</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_StockHolder/stockid/002152/displaytype/30.phtml" target="_blank">主要股东</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CirculateStockHolder/stockid/002152/displaytype/30.phtml" target="_blank">流通股东</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_FundStockHolder/stockid/002152/displaytype/30.phtml" target="_blank">基金持股</a></li>
+</ul>
+</div>
+<div class="sec_btn"><!--&lt;a&gt;&lt;/a&gt;--></div>
+</div>
+<div class="louver_sec">
+<div class="sec_title">
+<h3><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/002152.phtml" target="_blank" class="a_blue_d_s">公司公告</a></h3>
+</div>
+<div class="sec_cont row_num_3">
+<ul>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/002152.phtml" target="_blank">最新公告</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002152/page_type/ndbg.phtml" target="_blank">年报</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002152/page_type/zqbg.phtml" target="_blank">半年报</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002152/page_type/yjdbg.phtml" target="_blank">一季报</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002152/page_type/sjdbg.phtml" target="_blank">三季报</a></li>
+</ul>
+</div>
+<div class="sec_btn"><!--&lt;a&gt;&lt;/a&gt;--></div>
+</div>
+<div class="louver_sec">
+<div class="sec_title">
+<h3><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_FinanceSummary/stockid/002152/displaytype/4.phtml" target="_blank" class="a_blue_d_s">财务数据</a></h3>
+</div>
+<div class="sec_cont row_num_4">
+<ul>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_FinanceSummary/stockid/002152/displaytype/4.phtml" target="_blank">财务摘要</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_FinancialGuideLine/stockid/002152/displaytype/4.phtml" target="_blank">财务指标</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_BalanceSheet/stockid/002152/ctrl/part/displaytype/4.phtml" target="_blank">资产负债表</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_ProfitStatement/stockid/002152/ctrl/part/displaytype/4.phtml" target="_blank">利润表</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_CashFlow/stockid/002152/ctrl/part/displaytype/4.phtml" target="_blank">现金流量表</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_AchievementNotice/stockid/002152.phtml" target="_blank">业绩预告</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_DupontAnalysis/stockid/002152/displaytype/10.phtml" target="_blank">杜邦分析</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_BenifitChange/stockid/002152/displaytype/4.phtml" target="_blank">股东权益增减</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_BalanceSheet_Text/stockid/002152/type/1040.phtml" target="_blank">资产负债表附注</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_BalanceSheet_Text/stockid/002152/type/1070.phtml" target="_blank">利润表附注</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_BalanceSheet_Text/stockid/002152/type/1079.phtml" target="_blank">现金流量表附注</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_FootNotes/stockid/002152.phtml" target="_blank">财务附注</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_BadAccount/stockid/002152/displaytype/4.phtml" target="_blank">坏账准备</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_AssetDevalue/stockid/002152/displaytype/4.phtml" target="_blank">资产减值准备</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_PayTax/stockid/002152/displaytype/4.phtml" target="_blank">应缴增值税</a></li>
+</ul>
+</div>
+<div class="sec_btn"><a></a></div>
+</div>
+<div class="louver_sec">
+<div class="sec_title">
+<h3><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vGP_StockHolderMeeting/stockid/002152.phtml" target="_blank" class="a_blue_d_s">重大事项</a></h3>
+</div>
+<div class="sec_cont row_num_1">
+<ul>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vGP_StockHolderMeeting/stockid/002152.phtml" target="_blank">股东大会</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vGP_RelatedTrade/stockid/002152.phtml" target="_blank">关联交易</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vGP_Lawsuit/stockid/002152.phtml" target="_blank">诉讼仲裁</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vGP_GetOutOfLine/stockid/002152.phtml" target="_blank">违规记录</a></li>
+<li><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vGP_Assurance/stockid/002152.phtml" target="_blank">对外担保</a></li>
+</ul>
+</div>
+<div class="sec_btn"><a></a></div>
+</div>
+</div>
+<div class="spliter_15"></div>
+<div class="title_blue">
+<a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002152.phtml" target="_blank" class="more">更多</a>
+<h2><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002152.phtml" target="_blank">公司概况</a></h2>
+</div>
+<div class="com_overview blue_d">
+<p><b>公司名称：</b></p>
+<p>广州广电运通金融电子股份有限公司</p>
+<p><b>主营业务：</b></p>
+<p title="    主要从事银行自动柜员机(ATM)等货币自动处理设备及相关系统软件的研发、生产、销售和服务。">    主要从事银行自动柜员机(ATM)等货币自动处理设备及...</p>
+<p><b>电　　话：</b>020-82188517,020-82188900</p>
+<p><b>传　　真：</b>020-82188517</p>
+<p><b>成立日期：</b>2005-10-18</p>
+<p><b>上市日期：</b>2007-08-13</p>
+<p><b>法人代表：</b>赵友永</p>
+<p><b>总 经 理：</b>叶子瑜</p>
+<p><b>注册资本：</b>74723.7万元</p>
+<p><b>发行价格：</b>16.88元</p>
+<p><b>最新总股本：</b>74723.7306万股</p>
+<p><b>最新流通股：</b>71861.129</p>
+<p>
+<b>所属板块：</b>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#sz_a" target="_blank">深市A股</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#hs_a" target="_blank">沪深A股</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#zxqy" target="_blank">中小企业</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#diyu_4400" target="_blank">广东</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#diyu_4401" target="_blank">广州</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#hangye_ZC5" target="_blank">电子</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#zhishu_399130" target="_blank">制造指数</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#zhishu_399138" target="_blank">机械指数</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#new_dzxx" target="_blank">电子信息</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#zhishu_399106" target="_blank">深证综指</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#gn_sbzc" target="_blank">社保重仓</a> <a href="http://vip.stock.finance.sina.com.cn/mkt/#gn_dzzf" target="_blank">电子支付</a> </p>
+<!-- 06oYEQ/rSlOL0cjNqNw3VLS93vD1799pqsvmgDMDotAnhlrkKyq/rtRZi3xrvbyuTcm3BiF7suS/cD+ASmH/n755Xw7ZbUSkP9fxr0Cd1N6zXMY3joS+3wB4mudUZs2f1TwJ/Ru/dqWRpRasiCre24pq36tLFaGssdo3qSayD7x23oJLiMNnmoU7xvHlW8Nt0eYvEwtLEAF2Fg90OWgjL0oCXPO0nOFtTzHTHAzKMFXOZW+eaFAqqg== -->
+</div>
+<div class="spliter_15"></div>
+<div class="title_blue" style="border-bottom:none">
+<a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_FinanceSummary/stockid/002152/displaytype/4.phtml" target="_blank" class="more">更多</a>
+<h2><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_FinanceSummary/stockid/002152/displaytype/4.phtml" target="_blank">财务摘要</a></h2>
+</div>
+<div id="finance_overview">
+<div class="finance_overview">
+<div class="tabs">
+<div class="tab first">2014-03</div>
+<a class="open" href="javascript:void(0)"></a>
+<div class="tab">2013-12</div>
+<div class="tab">2013-09</div>
+<div class="tab">2013-06</div>
+<div class="tab">2013-03</div>
+</div>
+<div class="cont data_table L_data_table">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr class="row_0">
+<th>每股收益</th>
+<td>0.2100元</td>
+<td>0.9400元</td>
+<td>0.5100元</td>
+<td>0.3700元</td>
+<td>0.2200元</td>
+</tr>
+<tr class="row_1">
+<th>每股净资产</th>
+<td>4.8745元</td>
+<td>4.6644元</td>
+<td>4.2332元</td>
+<td>4.0927元</td>
+<td>4.9861元</td>
+</tr>
+<tr class="row_0">
+<th>每股经营现金流净额</th>
+<td>-0.6921元</td>
+<td>0.9573元</td>
+<td>-0.3750元</td>
+<td>-0.4633元</td>
+<td>-0.5748元</td>
+</tr>
+<tr class="row_1">
+<th>净资产收益率</th>
+<td>4.31%</td>
+<td>20.23%</td>
+<td>12.07%</td>
+<td>9.11%</td>
+<td>4.40%</td>
+</tr>
+<tr class="row_0">
+<th>每股未分配利润</th>
+<td>3.2092元</td>
+<td>2.9991元</td>
+<td>2.6523元</td>
+<td>2.5143元</td>
+<td>3.2890元</td>
+</tr>
+<tr class="row_1">
+<th>每股资本公积金</th>
+<td>0.2369元</td>
+<td>0.2365元</td>
+<td>0.2379元</td>
+<td>0.2378元</td>
+<td>0.2869元</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- 06oYEQ/rSlOL0cjNqNw3VLS93vD1799pqsvmgDMDotAnhlrkKyq/rtRZi3xrvbyuTcm3BiF7suS/cD+ASmH/n755Xw7ZbUSkP9fxr0Cd1N6zXMY3joS+3wB4mudUZs2f1TwJ/Ru/dqWRpRasiCre24pq36tLFaGssdo3qSayD7x23oJLiMNnmoU7xvHlW8Nt0eYvEwtLEAF2Fg90OWgjL0oCXPO0nOFtTzHTHAzKMFXOZW+eaFAqqg== -->
+</div>
+<a class="close" title="收起"></a>
+</div>
+<div class="spliter_15"></div>
+<div class="title_blue">
+<a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_ShareBonus/stockid/002152.phtml" target="_blank" class="more">更多</a>
+<h2><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vISSUE_ShareBonus/stockid/002152.phtml" target="_blank">分红送配</a></h2>
+</div>
+<div class="fhsp data_table L_data_table">
+<table cellspacing="0" cellpadding="0" border="0">
+<thead class="boder-bottom">
+<tr>
+<th>公告日期</th>
+<td>分配方案</td>
+</tr>
+</thead>
+<tbody>
+<tr class="row_0">
+<th>2013-05-14</th>
+<td>10派3元送2股</td>
+</tr> <tr class="row_1">
+<th>2012-04-21</th>
+<td>10派1元转4股</td>
+</tr> <tr class="row_0">
+<th>2011-05-04</th>
+<td>10派2元送3股</td>
+</tr> <tr class="row_1">
+<th>2010-05-05</th>
+<td>10派4元</td>
+</tr> <tr class="row_0">
+<th>2009-05-08</th>
+<td>10派2元转2股</td>
+</tr> </tbody>
+</table>
+<!-- 06oYEQ/rSlOL0cjNqNw3VLS93vD1799pqsvmgDMDotAnhlrkKyq/rtRZi3xrvbyuTcm3BiF7suS/cD+ASmH/n755Xw7ZbUSkP9fxr0Cd1N6zXMY3joS+3wB4mudUZs2f1TwJ/Ru/dqWRpRasiCre24pq36tLFaGssdo3qSayD7x23oJLiMNnmoU7xvHlW8Nt0eYvEwtLEAF2Fg90OWgjL0oCXPO0nOFtTzHTHAzKMFXOZW+eaFAqqg== -->
+</div>
+<div class="spliter_15"></div>
+<div class="title_blue" style="border-bottom:none;">
+<a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CirculateStockHolder/stockid/002152/displaytype/30.phtml" target="_blank" class="more">更多</a>
+<h2><a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CirculateStockHolder/stockid/002152/displaytype/30.phtml" target="_blank">流通股东</a></h2>
+</div>
+<div id="ltgd">
+<div class="ltgd clearfix">
+<div class="tabs">
+<div class="tab first on">2014-03</div>
+<a class="open" href="javascript:void(0)"></a> <div class="tab">2013-12</div> <div class="tab last">2013-09</div></div>
+<div class="data_table L_data_table cont">
+<table cellspacing="0" cellpadding="0" border="0">
+<thead>
+<tr>
+<th>股东名称</th>
+<td>持股(%)</td>
+<td>增减</td>
+</tr>
+</thead>
+<tbody> <tr class="row_1">
+<th title="广州无线电集团有限公司">广州无线电集团...</th>
+<td>47.700</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_0">
+<th title="全国社保基金一零四组合">全国社保基金一...</th>
+<td>4.268</td>
+<td class="up">增持</td>
+</tr> <tr class="row_1">
+<th title="梅州敬基实业有限公司">梅州敬基实业有...</th>
+<td>3.693</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_0">
+<th title="中国工商银行-广发大盘成长混合型证券投资基金">中国工商银行-...</th>
+<td>3.145</td>
+<td class="up">增持</td>
+</tr> <tr class="row_1">
+<th title="上海浦东发展银行-广发小盘成长股票型证券投资基金">上海浦东发展银...</th>
+<td>1.232</td>
+<td class="down">减持</td>
+</tr> <tr class="row_0">
+<th title="中国工商银行-景顺长城精选蓝筹股票型证券投资基金">中国工商银行-...</th>
+<td>1.083</td>
+<td class="up">新进</td>
+</tr> <tr class="row_1">
+<th title="全国社保基金四一八组合">全国社保基金四...</th>
+<td>1.031</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_0">
+<th title="中国工商银行-嘉实策略增长混合型证券投资基金">中国工商银行-...</th>
+<td>0.898</td>
+<td class="up">新进</td>
+</tr> <tr class="row_1">
+<th title="中国建设银行-国泰金马稳健回报证券投资基金">中国建设银行-...</th>
+<td>0.776</td>
+<td class="down">减持</td>
+</tr> <tr class="row_0">
+<th title="安耐德合伙人有限公司-客户资金">安耐德合伙人有...</th>
+<td>0.695</td>
+<td class="up">新进</td>
+</tr> </tbody>
+</table>
+</div><div class="data_table L_data_table cont" style="display:none">
+<table cellspacing="0" cellpadding="0" border="0">
+<thead>
+<tr>
+<th>股东名称</th>
+<td>持股(%)</td>
+<td>增减</td>
+</tr>
+</thead>
+<tbody> <tr class="row_1">
+<th title="广州无线电集团有限公司">广州无线电集团...</th>
+<td>47.700</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_0">
+<th title="梅州敬基实业有限公司">梅州敬基实业有...</th>
+<td>3.693</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_1">
+<th title="中国工商银行-广发大盘成长混合型证券投资基金">中国工商银行-...</th>
+<td>2.944</td>
+<td class="up">增持</td>
+</tr> <tr class="row_0">
+<th title="全国社保基金一零四组合">全国社保基金一...</th>
+<td>2.717</td>
+<td class="down">减持</td>
+</tr> <tr class="row_1">
+<th title="全国社会保障基金理事会转持二户">全国社会保障基...</th>
+<td>2.525</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_0">
+<th title="上海浦东发展银行-广发小盘成长股票型证券投资基金">上海浦东发展银...</th>
+<td>1.256</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_1">
+<th title="中国工商银行-上投摩根内需动力股票型证券投资基金">中国工商银行-...</th>
+<td>1.138</td>
+<td class="up">新进</td>
+</tr> <tr class="row_0">
+<th title="全国社保基金四一八组合">全国社保基金四...</th>
+<td>1.031</td>
+<td class="down">减持</td>
+</tr> <tr class="row_1">
+<th title="中国建设银行-国泰金马稳健回报证券投资基金">中国建设银行-...</th>
+<td>0.956</td>
+<td class="down">减持</td>
+</tr> <tr class="row_0">
+<th title="中国工商银行-汇添富价值精选股票型证券投资基金">中国工商银行-...</th>
+<td>0.803</td>
+<td class="up">新进</td>
+</tr> </tbody>
+</table>
+</div><div class="data_table L_data_table cont" style="display:none">
+<table cellspacing="0" cellpadding="0" border="0">
+<thead>
+<tr>
+<th>股东名称</th>
+<td>持股(%)</td>
+<td>增减</td>
+</tr>
+</thead>
+<tbody> <tr class="row_1">
+<th title="广州无线电集团有限公司">广州无线电集团...</th>
+<td>47.700</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_0">
+<th title="全国社保基金一零四组合">全国社保基金一...</th>
+<td>4.015</td>
+<td class="up">增持</td>
+</tr> <tr class="row_1">
+<th title="梅州敬基实业有限公司">梅州敬基实业有...</th>
+<td>3.693</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_0">
+<th title="全国社会保障基金理事会转持二户">全国社会保障基...</th>
+<td>2.525</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_1">
+<th title="中国工商银行-广发大盘成长混合型证券投资基金">中国工商银行-...</th>
+<td>2.520</td>
+<td class="up">增持</td>
+</tr> <tr class="row_0">
+<th title="全国社保基金四一八组合">全国社保基金四...</th>
+<td>1.673</td>
+<td class="down">减持</td>
+</tr> <tr class="row_1">
+<th title="中国建设银行-国泰金马稳健回报证券投资基金">中国建设银行-...</th>
+<td>1.425</td>
+<td class="up">新进</td>
+</tr> <tr class="row_0">
+<th title="上海浦东发展银行-广发小盘成长股票型证券投资基金">上海浦东发展银...</th>
+<td>1.256</td>
+<td class="down">减持</td>
+</tr> <tr class="row_1">
+<th title="安耐德合伙人有限公司-客户资金">安耐德合伙人有...</th>
+<td>0.695</td>
+<td class="flat">未变</td>
+</tr> <tr class="row_0">
+<th title="赵友永">赵友永</th>
+<td>0.608</td>
+<td class="flat">未变</td>
+</tr> </tbody>
+</table>
+</div><div class="img">
+<h3>流通股东持股比例</h3>
+<a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CirculateStockHolder/stockid/002152/displaytype/30.phtml" target="_blank">
+<img alt="" src="http://finance.sina.com.cn/cj/qimg/stockimg/sz002152/bar_csimex2_0.png" />
+</a>
+</div>
+<!-- 06oYEQ/rSlOL0cjNqNw3VLS93vD1799pqsvmgDMDotAnhlrkKyq/rtRZi3xrvbyuTcm3BiF7suS/cD+ASmH/n755Xw7ZbUSkP9fxr0Cd1N6zXMY3joS+3wB4mudUZs2f1TwJ/Ru/dqWRpRasiCre24pq36tLFaGssdo3qSayD7x23oJLiMNnmoU7xvHlW8Nt0eYvEwtLEAF2Fg90OWgjL0oCXPO0nOFtTzHTHAzKMFXOZW+eaFAqqg== -->
+</div>
+<a class="close" title="收起"></a>
+</div>
+</div>
+</div>
+<div class="footer">
+<ul>
+<li>客户服务热线：4006900000 　欢迎批评指正</li>
+<li><a target="_blank" href="http://tech.sina.com.cn/focus/sinahelp.shtml">常见问题解答</a> <a target="_blank" href="http://net.china.cn/chinese/index.htm">互联网违法和不良信息举报</a> <a target="_blank" href="http://comment5.news.sina.com.cn/comment/skin/feedback.html?channel=ly&amp;newsid=5">新浪财经意见反馈留言板</a></li><li>
+</li><li><a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://emarketing.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="https://login.sina.com.cn/signup/signup.php">通行证注册</a> | <a href="http://help.sina.com.cn/">产品答疑</a></li>
+<li>Copyright &copy; 1996-2014 SINA Corporation, All Rights Reserved</li>
+<li>新浪公司　<a target="_blank" href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a></li>
+</ul>
+<span class="mianze">新浪财经免费提供股票、基金、债券、外汇等行情数据以及其他资料均来自相关合作方，仅作为用户获取信息之目的，并不构成投资建议。<br />新浪财经以及其合作机构不为本页面提供信息的错误、残缺、延迟或因依靠此信息所采取的任何行动负责。市场有风险，投资需谨慎。</span>
+</div>
+<br /><br />
+<div class="loginBG" id="loginBG"></div>
+<div class="loginLayer" id="loginLayer">
+<a href="javascript:void(0)" title="关闭" class="login_close" id="loginClose"></a>
+<div class="login_title"></div>
+<div class="login_cont">
+<table border="0" cellpadding="5" cellspacing="0">
+<colgroup>
+<col width="130" />
+<col width="305" />
+</colgroup>
+<tr>
+<th>用户名：</th>
+<td><input type="text" class="txt" id="loginName" /></td>
+</tr>
+<tr>
+<th>密&nbsp;&nbsp;码：</th>
+<td><input type="password" class="txt" id="loginPSW" /></td>
+</tr>
+<tr>
+<th></th>
+<td><label><input type="checkbox" id="loginRemember" checked="checked" /> 记录登录状态一个月</label></td>
+</tr>
+<tr>
+<th></th>
+<td>
+<p><span id="loginError"></span><a href="javascript:void(0)" id="loginBtn" class="login_btn_m">登录</a></p>
+<div class="login_loginBtn_bg"></div>
+<div class="login_link0">
+<a href="http://login.sina.com.cn/getpass.html" target="_blank">找回密码</a>
+<a href="http://login.sina.com.cn/help.html" target="_blank">登录帮助</a>
+</div>
+<div class="login_link1">
+<p>还不是新浪会员？</p>
+<div><a href="http://login.sina.com.cn/signup/signup.php?entry=finance&amp;r=" target="_blank" class="reg_btn">新用户注册</a></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<script type="text/javascript">    loginLayer.init();</script>
+<div style="position:absolute;left:1px;top:1px;" id="__webpush2_box"></div>
+<script type="text/javascript" src="http://finance.sina.com.cn/basejs/radar.js"></script>
+<script type="text/javascript">
+	(new StockRadarMore()).boot({ divid: 'STOCKRADAR_SHOW_DIV',owidth: 430,iwidth: 430,oheight: 32,iheight: 30,
+        fontsize: 12,scrolldirect: 1,msgcount: 2,scrollstep: 1,scrolltime: 50,matchstop: 20,
+        msgwidth: 149,logowidth: 25,delay1stscroll: 5000
+    });
+</script>
+<script type="text/javascript" src="http://i0.sinaimg.cn/cj/realstock/2012/js/QRCode.20131105.3.js"></script>
+<!--Adforward Begin:-->
+<iframe marginheight="0" marginwidth="0" frameborder="0" width="1" height="1" scrolling="NO" src="http://578.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|test1|gupiaozuizhong&amp;db=sina&amp;border=0&amp;local=yes">
+<script language="JavaScript1.1" src="http://578.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|test1|gupiaozuizhong&amp;db=sina&amp;local=yes&amp;js=on"></script>
+<noscript><a href="http://578.adsina.allyes.com/main/adfclick?user=AFP6_for_SINA|test1|gupiaozuizhong&amp;db=sina"><img src="http://578.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|test1|gupiaozuizhong&amp;db=sina" width="1" height="1" border="0" /></a></noscript></iframe>
+<!--Adforward End-->
+<script type="text/javascript">
+(function(){
+    if(window.top !== window.self || window._thereIsNoRealTimeMessage){return};
+    var script = document.createElement('script');
+    script.setAttribute('charset', 'gb2312');
+    script.src = 'http://news.sina.com.cn/js/694/2012/0830/realtime.js?ver=1.5.1';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&amp;")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&amp;":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c&lt;d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&amp;":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g&gt;5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d&lt;c){o={retcode:6203}}else{if(d-h+m&gt;c){o={retcode:6110}}else{if(d-c&gt;p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+<!-- Start  Wrating  -->
+<script language="javascript">
+var wrUrl="//sina.wrating.com/";var wrDomain="sina.com.cn";var wratingDefaultAcc="860010-0323010000";var wratingAccArray={"2012.sina.com.cn":"860010-0308150000","torch.2008.sina.com.cn":"860010-0308070000","video.sina.com.cn":"860010-0309010000","ent.sina.com.cn":"860010-0312010000","tech.sina.com.cn":"860010-0313010000","mobile.sina.com.cn":"860010-0313020000","house.sina.com.cn":"860010-0315010000","bj.house.sina.com.cn":"860010-0315020000","auto.sina.com.cn":"860010-0316010000","eladies.sina.com.cn":"860010-0317010000","woman.sina.com.cn":"860010-0317010000","games.sina.com.cn":"860010-0318010000","edu.sina.com.cn":"860010-0307010000","baby.sina.com.cn":"860010-0320010000","astro.sina.com.cn":"860010-0321020000","news.sina.com.cn":"860010-0310010000","weather.news.sina.com.cn":"860010-0310020000","mil.news.sina.com.cn":"860010-0310030000","www.sina.com.cn":"860010-0322010000","home.sina.com.cn":"860010-0322010000","sports.sina.com.cn":"860010-0308010000","shidefc.sina.com.cn":"860010-0308020000","weiqi.sina.com.cn":"860010-0308030000","f1.sina.com.cn":"860010-0308040000","golf.sina.com.cn":"860010-0308050000","2002.sina.com.cn":"860010-0308060000","2004.sina.com.cn":"860010-0308060000","2006.sina.com.cn":"860010-0308060000","2008.sina.com.cn":"860010-0308070000","yayun2002.sina.com.cn":"860010-0308060000","yayun2006.sina.com.cn":"860010-0308060000","book.sina.com.cn":"860010-0319010000","cul.book.sina.com.cn":"860010-0319020000","comic.book.sina.com.cn":"860010-0319030000","finance.sina.com.cn":"860010-0314010000","money.sina.com.cn":"860010-0314020000","yue.sina.com.cn":"860010-0324010000","www.sina.com":"860010-0322010000"};function vjTrack(){var U=1800;var T=false;var S=false;var R="";var Q="0";var P="";var N;var L;var K;var J;var I;var H="expires=Fri, 1 Jan 2038 00:00:00 GMT;";var G=0;if(document.location.protocol=="file:"){return }T=navigator.cookieEnabled?"1":"0";S=navigator.javaEnabled()?"1":"0";var F="0";var E;var C=-1;var D=document.cookie;if(T=="1"){C=D.indexOf("vjuids=");if(C&lt;0){E=vjVisitorID();document.cookie="vjuids="+escape(E)+";"+H+";domain="+wrDomain+";path=/;";if(document.cookie.indexOf("vjuids=")&lt;0){T="0"}else{Q="1"}}else{E=vjGetCookie("vjuids")}}L=document.referrer;if(!L||L==""){L=""}R=vjFlash();if(self.screen){N=screen.width+"x"+screen.height+"x"+screen.colorDepth}else{if(self.java){var M=java.awt.Toolkit.getDefaultToolkit();var O=M.getScreenSize();N=O.width+"x"+O.height+"x0"}}if(navigator.language){K=navigator.language.toLowerCase()}else{if(navigator.browserLanguage){K=navigator.browserLanguage.toLowerCase()}else{K="-"}}I="";var B;var X;X=new Date();J=X.getTimezoneOffset()/-60;J=X.getTimezoneOffset()/-60;B="&amp;s="+N+"&amp;l="+K+"&amp;z="+J+"&amp;j="+S+"&amp;f="+R;if(T=="1"){C=document.cookie.indexOf("vjlast=");if(C&lt;0){G=0}else{G=parseInt(vjGetCookie("vjlast"))}}if((X.getTime()/1000)-G&gt;U){F="1";document.cookie="vjlast="+Math.round(X.getTime()/1000)+";"+H+";domain="+wrDomain+";path=/;"}if(L!=""){B=B+"&amp;r="+escape(L)}if(F!="0"){B=B+"&amp;n="+G}if(Q!="0"){B=B+"&amp;u="+Q}var V;var A=vjGetAcc();var W=vjGetDomain();V=wrUrl+"a.gif?a="+X.getTime().toString(16)+"&amp;t="+escape(I)+"&amp;i="+escape(E)+"&amp;b="+escape(document.location)+"&amp;c="+A+B+"&amp;ck="+W;document.write('&lt;img src="'+V+'" width="1" height="1" style="visibility:hidden;position:absolute;left:0px;top:0px;z-index:-1"  /&gt;')}function vjGetAcc(){var B=document.location.toString().toLowerCase();var C=(B.split("/"))[2];var A=wratingAccArray[C];if(typeof (A)=="undefined"){A=wratingDefaultAcc}return A}function vjFlash(){var _wr_f="-",_wr_n=navigator;if(_wr_n.plugins&amp;&amp;_wr_n.plugins.length){for(var ii=0;ii&lt;_wr_n.plugins.length;ii++){if(_wr_n.plugins[ii].name.indexOf("Shockwave Flash")!=-1){_wr_f=_wr_n.plugins[ii].description.split("Shockwave Flash ")[1];break}}}else{if(window.ActiveXObject){for(var ii=10;ii&gt;=2;ii--){try{var fl=eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+ii+"');");if(fl){_wr_f=ii+".0";break}}catch(e){}}}}return _wr_f}function vjHash(B){if(!B||B==""){return 0}var D=0;for(var C=B.length-1;C&gt;=0;C--){var A=parseInt(B.charCodeAt(C));D=(D&lt;&lt;5)+D+A}return D}function vjVisitorID(){var B=vjHash(document.location+document.cookie+document.referrer).toString(16);var A;A=new Date();return B+"."+A.getTime().toString(16)+"."+Math.random().toString(16)}function vjGetCookieVal(B){var A=document.cookie.indexOf(";",B);if(A==-1){A=document.cookie.length}return unescape(document.cookie.substring(B,A))}function vjGetCookie(C){var B=C+"=";var F=B.length;var A=document.cookie.length;var E=0;while(E&lt;A){var D=E+F;if(document.cookie.substring(E,D)==B){return vjGetCookieVal(D)}E=document.cookie.indexOf(" ",E)+1;if(E==0){break}}return null}function vjGetDomain(){var A=0;try{if(window.self.parent!=self){var D=/sina.com/i;var C=document.location.toString().toLowerCase();var B=parent.location.toString().toLowerCase();if(D.test(C)&amp;&amp;D.test(B)){A=1}}}catch(e){A=1}return A}vjTrack();
+</script>
+<!-- End Wrating-->
+</body>
+</html>
+<!-- 2014-05-09 15:16:49 -->
+<!-- GK/z/57AN0PCLc1kZ4d7CCzuf/p7E1CXXl68EuTJQPuZPwuEjEx5WCswJlPriCAlEctiJ6uujkaG5J29mtSIAudJ76O9xIlUmfrY+jTDdhQ20IRoVeZtulIIgwZZZbiU3t7/f3XfGLK9WWEDgaxwmLzngqE2DVUucxO9jV/kuVT6letC9WVg24I3dNt+H5dIlcvKrQ== -->

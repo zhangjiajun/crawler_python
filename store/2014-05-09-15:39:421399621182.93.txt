@@ -1,0 +1,1065 @@
+<!Doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【香港招聘网|香港人才网|香港人才市场】- 香港58同城</title>
+<meta name="mobile-agent" content="format=xhtml; url=http://m.58.com/hk/job.shtml" />
+<meta name="mobile-agent" content="format=html5; url=http://m.58.com/hk/job.shtml" />
+<meta name="mobile-agent" content="format=wml; url=http://m.58.com/hk/job.shtml" />
+<meta name="keywords" content="香港招聘,香港人才网,香港招聘网,香港人才市场" />
+<meta name="description" content="58同城香港招聘网是最权威的专业香港人才网站。免费提供最全面香港人才网招聘信息:销售,客服,餐饮,IT,金融等1000+行业香港人才。香港人才市场首选58同城香港招聘网" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui6/index/s/job1015.css?1" />
+<script type="text/javascript">
+	try{var ____json4fe = {catentry:{dispid:'9224',name:'招聘信息',listname:'job'},locallist:{dispid:'2050',name:'香港',listname:'hk'},start:(new Date()).getTime(),version:'A',modules:'toplist'}}catch(e){};
+</script>
+<script src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_toplist_version.js"></script>
+<script type="text/javascript" src="http://static.58.com/n/js/zp/jobCates.js?1"></script>
+<script type="text/javascript" src="http://static.58.com/n/js/zp/job-bj.js?1"></script>
+<script type="text/javascript">
+	document.domain = '58.com';
+	var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','1','',true);
+	boot.require('util.cookie', function (Frame, cookie) {cookie.set("city", "hk");})	
+</script>
+</head>
+<body>
+<!-- topbar -->
+<div id="topbar" tongji_id="ZP_job_index_div_topbar"></div>
+<script type="text/javascript">boot.require('business.topbar', function (Frame, topbar, user) {topbar.init();});</script>
+<div id="navlist" tongji_id="ZP_job_index_div_topbar">
+<ul>
+<li id="navbln" class="sel">
+<a href="/job.shtml" target="_self">香港招聘</a>
+</li>
+<li>
+<a href="/jianzhi.shtml">香港兼职</a>
+</li>
+<li id="navbrn">
+<a href="http://www.58.com/mingqi/">名企招聘</a>
+</li>
+</ul>
+</div>
+<!-- head start -->
+<div class="wb-head">
+<div class="wb-header clearfix">
+<div class="logo">
+<a href="http://www.58.com/" target="_blank" title="到58同城首页">
+<img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" alt="中文最大生活信息门户" title="58同城，让生活更简单" />
+</a>
+</div>
+<h1>香港招聘</h1>
+<div class="fabu fr" tongji_id="ZP_job_index_div_post">
+<a href="http://post.58.com/1/9224/j5" class="fabu_zp" target="_blank" rel="nofollow" onclick="clickLog('from=zhaopin_index_button_post&amp;city=hk');">发布招聘</a><a href="http://jianli.58.com/resumebase/" target="_blank" rel="nofollow" onclick="clickLog('from=zhaopin_index_button_register&amp;city=hk');">登记简历</a>
+</div>
+</div>
+</div>
+<!-- head end -->
+<!-- main start -->
+<div class="wb-main">
+<div class="wb-content">
+<!-- fliter start -->
+<div class="filter" id="filter">
+<div class="tabs" tongji_id="ZP_job_index_div_navigation">
+<div class="tabsbar">
+<a href="/job.shtml" class="selCur" onclick="clickLog('from=zhaopin_index_tab_searchjob&amp;city=hk');">找工作</a><a href="/jianzhi.shtml" target="_blank" onclick="clickLog('from=zhaopin_index_tab_searchjz&amp;city=hk');">找兼职</a><a href="http://www.58.com/mingqi/" target="_blank" onclick="clickLog('from=pinpairezhao&amp;city=hk');">知名企业</a><a href="http://www.58.com/zp/" target="_blank" onclick="clickLog('from=zhaopin_index_tab_handbook&amp;city=hk');">求职指南</a><a href="/searchjob.shtml" target="_blank" onclick="clickLog('from=zhaopin_index_tab_jobjl&amp;city=hk');">全职简历</a><a href="/zhaojianzhi.shtml" target="_blank" onclick="clickLog('from=zhaopin_index_tab_jianzhijl&amp;city=hk');">兼职简历</a>
+</div>
+</div>
+<div class="searInfo clearfix" tongji_id="ZP_job_index_div_sou">
+<div class="selInfo clearfix" id="selInfo">
+<div class="itemInfo jobCate_item">
+<div class="itemT" id="urla" default="请选择职位类别">
+<span>请选择职位类别</span><b></b>
+</div>
+<div class="divJobCate" id="divJobCate" style="display:none">
+<!-- 显示职位类别弹出层时，添加样式zidx900 -->
+<h3>选择职位类别</h3>
+<table class="jobcatebox" selectedid="9224,13901"></table>
+</div>
+</div>
+<div class="itemInfo hire_item"><!-- 显示行业类别弹出层时，添加样式zidx900 -->
+<div class="itemT" id="urlb" default="请选择行业类别">
+<span>请选择行业类别</span><b></b>
+</div>
+<div class="infoList divIndCate" id="divIndCate" style="display:none"><!-- 选择行业类别弹出层 -->
+<ul class="indcatelist">
+<li class="select">
+<a href="/pve_5358_0/" cln="pve_5358_0" rel="nofollow">不限</a>
+</li>
+<li>
+<a href="/pve_5363_244_pve_5358_0/" cln="pve_5363_244_pve_5358_0" rel="nofollow">互联网/电子商务</a>
+</li>
+<li>
+<a href="/pve_5363_245_pve_5358_0/" cln="pve_5363_245_pve_5358_0" rel="nofollow">计算机软件</a>
+</li>
+<li>
+<a href="/pve_5363_246_pve_5358_0/" cln="pve_5363_246_pve_5358_0" rel="nofollow">计算机硬件</a>
+</li>
+<li>
+<a href="/pve_5363_247_pve_5358_0/" cln="pve_5363_247_pve_5358_0" rel="nofollow">IT服务/系统集成</a>
+</li>
+<li>
+<a href="/pve_5363_248_pve_5358_0/" cln="pve_5363_248_pve_5358_0" rel="nofollow">通信/电信</a>
+</li>
+<li>
+<a href="/pve_5363_249_pve_5358_0/" cln="pve_5363_249_pve_5358_0" rel="nofollow">电子技术/半导体/集成电路</a>
+</li>
+<li>
+<a href="/pve_5363_250_pve_5358_0/" cln="pve_5363_250_pve_5358_0" rel="nofollow">仪器仪表/工业自动化</a>
+</li>
+<li>
+<a href="/pve_5363_251_pve_5358_0/" cln="pve_5363_251_pve_5358_0" rel="nofollow">财务/审计</a>
+</li>
+<li>
+<a href="/pve_5363_252_pve_5358_0/" cln="pve_5363_252_pve_5358_0" rel="nofollow">金融/银行</a>
+</li>
+<li>
+<a href="/pve_5363_253_pve_5358_0/" cln="pve_5363_253_pve_5358_0" rel="nofollow">保险</a>
+</li>
+<li>
+<a href="/pve_5363_254_pve_5358_0/" cln="pve_5363_254_pve_5358_0" rel="nofollow">贸易/进出口</a>
+</li>
+<li>
+<a href="/pve_5363_255_pve_5358_0/" cln="pve_5363_255_pve_5358_0" rel="nofollow">批发/零售</a>
+</li>
+<li>
+<a href="/pve_5363_256_pve_5358_0/" cln="pve_5363_256_pve_5358_0" rel="nofollow">快速消费品(食品/饮料等)</a>
+</li>
+<li>
+<a href="/pve_5363_257_pve_5358_0/" cln="pve_5363_257_pve_5358_0" rel="nofollow">耐用消费品（家具/家电等）</a>
+</li>
+<li>
+<a href="/pve_5363_258_pve_5358_0/" cln="pve_5363_258_pve_5358_0" rel="nofollow">服装/纺织/皮革</a>
+</li>
+<li>
+<a href="/pve_5363_259_pve_5358_0/" cln="pve_5363_259_pve_5358_0" rel="nofollow">办公用品及设备</a>
+</li>
+<li>
+<a href="/pve_5363_260_pve_5358_0/" cln="pve_5363_260_pve_5358_0" rel="nofollow">钢铁/机械/设备/重工</a>
+</li>
+<li>
+<a href="/pve_5363_261_pve_5358_0/" cln="pve_5363_261_pve_5358_0" rel="nofollow">汽车/摩托车</a>
+</li>
+<li>
+<a href="/pve_5363_262_pve_5358_0/" cln="pve_5363_262_pve_5358_0" rel="nofollow">医疗/保健/卫生/美容</a>
+</li>
+<li>
+<a href="/pve_5363_263_pve_5358_0/" cln="pve_5363_263_pve_5358_0" rel="nofollow">生物/制药/医疗器械</a>
+</li>
+<li>
+<a href="/pve_5363_264_pve_5358_0/" cln="pve_5363_264_pve_5358_0" rel="nofollow">广告/创意</a>
+</li>
+<li>
+<a href="/pve_5363_265_pve_5358_0/" cln="pve_5363_265_pve_5358_0" rel="nofollow">公关/市场推广/会展</a>
+</li>
+<li>
+<a href="/pve_5363_266_pve_5358_0/" cln="pve_5363_266_pve_5358_0" rel="nofollow">文体/影视/艺术</a>
+</li>
+<li>
+<a href="/pve_5363_267_pve_5358_0/" cln="pve_5363_267_pve_5358_0" rel="nofollow">媒体传播</a>
+</li>
+<li>
+<a href="/pve_5363_268_pve_5358_0/" cln="pve_5363_268_pve_5358_0" rel="nofollow">出版/印刷/造纸</a>
+</li>
+<li>
+<a href="/pve_5363_269_pve_5358_0/" cln="pve_5363_269_pve_5358_0" rel="nofollow">房地产/物业管理</a>
+</li>
+<li>
+<a href="/pve_5363_270_pve_5358_0/" cln="pve_5363_270_pve_5358_0" rel="nofollow">建筑/建材</a>
+</li>
+<li>
+<a href="/pve_5363_271_pve_5358_0/" cln="pve_5363_271_pve_5358_0" rel="nofollow">家居/室内设计/装潢</a>
+</li>
+<li>
+<a href="/pve_5363_272_pve_5358_0/" cln="pve_5363_272_pve_5358_0" rel="nofollow">中介/专业服务</a>
+</li>
+<li>
+<a href="/pve_5363_273_pve_5358_0/" cln="pve_5363_273_pve_5358_0" rel="nofollow">检测/认证</a>
+</li>
+<li>
+<a href="/pve_5363_274_pve_5358_0/" cln="pve_5363_274_pve_5358_0" rel="nofollow">法律/法务</a>
+</li>
+<li>
+<a href="/pve_5363_275_pve_5358_0/" cln="pve_5363_275_pve_5358_0" rel="nofollow">教育/科研/培训</a>
+</li>
+<li>
+<a href="/pve_5363_276_pve_5358_0/" cln="pve_5363_276_pve_5358_0" rel="nofollow">旅游/酒店</a>
+</li>
+<li>
+<a href="/pve_5363_277_pve_5358_0/" cln="pve_5363_277_pve_5358_0" rel="nofollow">娱乐休闲/餐饮/服务</a>
+</li>
+<li>
+<a href="/pve_5363_278_pve_5358_0/" cln="pve_5363_278_pve_5358_0" rel="nofollow">交通/运输/物流</a>
+</li>
+<li>
+<a href="/pve_5363_279_pve_5358_0/" cln="pve_5363_279_pve_5358_0" rel="nofollow">航天/航空</a>
+</li>
+<li>
+<a href="/pve_5363_280_pve_5358_0/" cln="pve_5363_280_pve_5358_0" rel="nofollow">化工/采掘/冶炼</a>
+</li>
+<li>
+<a href="/pve_5363_281_pve_5358_0/" cln="pve_5363_281_pve_5358_0" rel="nofollow">能源（电力/水利/矿产）</a>
+</li>
+<li>
+<a href="/pve_5363_282_pve_5358_0/" cln="pve_5363_282_pve_5358_0" rel="nofollow">原材料和加工</a>
+</li>
+<li>
+<a href="/pve_5363_283_pve_5358_0/" cln="pve_5363_283_pve_5358_0" rel="nofollow">政府/非盈利机构</a>
+</li>
+<li>
+<a href="/pve_5363_284_pve_5358_0/" cln="pve_5363_284_pve_5358_0" rel="nofollow">环保</a>
+</li>
+<li>
+<a href="/pve_5363_285_pve_5358_0/" cln="pve_5363_285_pve_5358_0" rel="nofollow">农林牧渔</a>
+</li>
+<li>
+<a href="/pve_5363_286_pve_5358_0/" cln="pve_5363_286_pve_5358_0" rel="nofollow">多元化集团</a>
+</li>
+<li>
+<a href="/pve_5363_3527_pve_5358_0/" cln="pve_5363_3527_pve_5358_0" rel="nofollow">人力资源服务</a>
+</li>
+<li>
+<a href="/pve_5363_287_pve_5358_0/" cln="pve_5363_287_pve_5358_0" rel="nofollow">其他行业</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="searBar fl">
+<div class="searInput">
+<input para="key1" name="b_q1" onblur="win1.closeToolTipWindow();if(this.value==''){this.value='请输入职位名、公司名等关键字';this.className='keyword';}" id="keyword1" class="keyword" onfocus="if(this.value=='请输入职位名、公司名等关键字')this.value='';this.className='keyword2';" onkeyup="win1.GetContentData();" value="请输入职位名、公司名等关键字" autocomplete="on" fdv="请输入职位名、公司名等关键字" data-fdv="true" />
+</div>
+<a href="#" class="searJob" id="searJob">
+<strong>找工作</strong>
+</a>
+<span class="moreTypeSel" id="moreTypeSel">
+<a href="javascript:void(0)">高级搜索</a>
+<i></i>
+</span>
+</div>
+</div>
+<div class="selItem clearfix" id="selItem">
+<div class="itemInfo loca_item">
+<div class="itemT" id="urlc" default="工作地点">
+<span>全香港</span>
+<b></b>
+</div>
+<div class="infoList localist" style="display:none">
+<ul class="distlist"></ul>
+</div>
+</div>
+<div class="itemInfo sala_item">
+<div class="itemT" id="urld" default="薪资">
+<span>薪资</span><b></b>
+</div>
+<ul class="infoList salalist">
+<li><a href="javascript:void(0)" data-value="" rel="nofollow">不限</a></li>
+<li><a href="/?minxinzi=0_999/" data-value="minxinzi=0_999" rel="nofollow">1000元以下</a></li>
+<li><a href="/?minxinzi=1000_1999/" data-value="minxinzi=1000_1999" rel="nofollow">1000-2000元</a></li>
+<li><a href="/?minxinzi=2000_2999/" data-value="minxinzi=2000_2999" rel="nofollow">2000-3000元</a></li>
+<li><a href="/?minxinzi=3000_4999/" data-value="minxinzi=3000_4999" rel="nofollow">3000-5000元</a></li>
+<li><a href="/?minxinzi=5000_7999/" data-value="minxinzi=5000_7999" rel="nofollow">5000-8000元</a></li>
+<li><a href="/?minxinzi=8000_11999/" data-value="minxinzi=8000_11999" rel="nofollow">8000-12000元</a></li>
+<li><a href="/?minxinzi=12000_19999/" data-value="minxinzi=12000_19999" rel="nofollow">12000-20000元</a></li>
+<li><a href="/?minxinzi=20000_24999/" data-value="minxinzi=20000_24999" rel="nofollow">20000-25000元</a></li>
+<li><a href="/?minxinzi=25000_999999/" data-value="minxinzi=25000_999999" rel="nofollow">25000元以上</a></li>
+</ul>
+</div>
+<div class="itemInfo edu_item">
+<div class="itemT" id="urlf" default="学历">
+<span>学历</span><b></b>
+</div>
+<ul class="infoList edulist">
+<li>
+<a class="select" href="/pve_5358_0/" edu="pve_5358_0" rel="nofollow">不限</a></li>
+<li>
+<a name="b_link" para="custom" href="/pve_5356_2_pve_5358_0/" vid="5356" edu="pve_5356_2_pve_5358_0" v="2" rel="nofollow">高中</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5356_3_pve_5358_0/" vid="5356" edu="pve_5356_3_pve_5358_0" v="3" rel="nofollow">技校</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5356_4_pve_5358_0/" vid="5356" edu="pve_5356_4_pve_5358_0" v="4" rel="nofollow">中专</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5356_5_pve_5358_0/" vid="5356" edu="pve_5356_5_pve_5358_0" v="5" rel="nofollow">大专</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5356_6_pve_5358_0/" vid="5356" edu="pve_5356_6_pve_5358_0" v="6" rel="nofollow">本科</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5356_7_pve_5358_0/" vid="5356" edu="pve_5356_7_pve_5358_0" v="7" rel="nofollow">硕士</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5356_8_pve_5358_0/" vid="5356" edu="pve_5356_8_pve_5358_0" v="8" rel="nofollow">博士</a>
+</li>
+</ul>
+</div>
+<div class="itemInfo ex_item">
+<div class="itemT" id="urle" default="工作经验">
+<span>工作经验</span><b></b>
+</div>
+<ul class="infoList exlist">
+<li>
+<a href="/pve_5358_0/" exp="pve_5358_0" rel="nofollow">不限</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5357_4_pve_5358_0/" vid="5357" exp="pve_5357_4_pve_5358_0" v="4" rel="nofollow">1年以下</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5357_5_pve_5358_0/" vid="5357" exp="pve_5357_5_pve_5358_0" v="5" rel="nofollow">1-2年</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5357_6_pve_5358_0/" vid="5357" exp="pve_5357_6_pve_5358_0" v="6" rel="nofollow">3-5年</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5357_7_pve_5358_0/" vid="5357" exp="pve_5357_7_pve_5358_0" v="7" rel="nofollow">6-7年</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5357_8_pve_5358_0/" vid="5357" exp="pve_5357_8_pve_5358_0" v="8" rel="nofollow">8-10年</a>
+</li>
+<li>
+<a name="b_link" para="custom" href="/pve_5357_9_pve_5358_0/" vid="5357" exp="pve_5357_9_pve_5358_0" v="9" rel="nofollow">10年以上</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- filter end -->
+<!-- 广告位预留 -->
+<div id="ad_d4"></div>
+<!-- hotposCate start-->
+<div class="hotposCate bor clearfix" tongji_id="ZP_job_index_div_hotlist">
+<div class="title">
+<h2>香港招聘专区 | 热门职位</h2>
+</div>
+<div class="hotposCont">
+<ul class="wealList clearfix">
+<li>
+<a href="/job/?param6693=8" target="_blank">包吃住</a>
+</li>
+<li>
+<a href="/job/?param7503=1" target="_blank">应届生</a>
+</li>
+<li>
+<a href="/zptaobao/" target="_blank">淘宝职位</a>
+</li>
+<li>
+<a href="/job/?param6693=1" target="_blank">五险一金</a>
+</li>
+<li>
+<a href="/job/?param6693=6" target="_blank">周末双休</a>
+</li>
+<li>
+<a href="http://www.58.com/canjiren/" target="_blank">残疾人招聘</a>
+</li>
+<li class="wid112">
+<a href="http://fnms.58.com/" target="_blank">非你莫属招聘</a>
+</li>
+</ul>
+<ul class="posList">
+<li>
+<a href="/yewu/">销售</a>
+</li>
+<li>
+<a href="/bianji/">编辑</a>
+</li>
+<li>
+<a href="/zpshengchankaifa/">普工/技工</a>
+</li>
+<li>
+<a href="/cantfwy/">服务员</a>
+</li>
+<li>
+<a href="/cuxiao/">导购员</a>
+</li>
+<li>
+<a href="/jiaoshi/">教师/助教</a>
+</li>
+<li class="wid112">
+<a href="/faxingshi/">发型师</a>
+</li>
+<li>
+<a href="/kefu/">客服</a>
+</li>
+<li>
+<a href="/sheji/">平面设计</a>
+</li>
+<li>
+<a href="/siji/">司机</a>
+</li>
+<li>
+<a href="/shouying/">收银员</a>
+</li>
+<li>
+<a href="/yingyeyuan/">营业员</a>
+</li>
+<li>
+<a href="/youerjiaoshi/">幼教</a>
+</li>
+<li class="wid112">
+<a href="/meirongshi/">美容师</a>
+</li>
+<li>
+<a href="/wenziluru/">文员</a>
+</li>
+<li>
+<a href="/wangzhanmeigong/">网页设计/制作</a>
+</li>
+<li>
+<a href="/qichewx/">汽车修理</a>
+</li>
+<li>
+<a href="/canguan/">厨师</a>
+</li>
+<li>
+<a href="/lihuoyuan/">理货员</a>
+</li>
+<li>
+<a href="/jypeixunshi/">培训师</a>
+</li>
+<li class="wid112">
+<a href="/meifaxuetu/">美发助理/学徒</a>
+</li>
+<li>
+<a href="/qiantai/">前台</a>
+</li>
+<li>
+<a href="/wangluogongchengshi/">网管</a>
+</li>
+<li>
+<a href="/baojieyuan/">保洁</a>
+</li>
+<li>
+<a href="/chufangqiepei/">配菜/打荷</a>
+</li>
+<li>
+<a href="/sudiyuan/">快递员</a>
+</li>
+<li>
+<a href="/fanyizhaopin/">翻译</a>
+</li>
+<li class="wid112">
+<a href="/jinrong/">理财顾问</a>
+</li>
+<li>
+<a href="/zhaopinjingli/">人事专员/助理</a>
+</li>
+<li>
+<a href="/jishuzhichi/">技术支持</a>
+</li>
+<li>
+<a href="/baomuxin/">保姆</a>
+</li>
+<li>
+<a href="/qiantjd/">迎宾/接待</a>
+</li>
+<li>
+<a href="/cangku/">仓库管理员</a>
+</li>
+<li>
+<a href="/yiliao/">医生</a>
+</li>
+<li class="wid112">
+<a href="/zpjinrongbaoxian/">保险</a>
+</li>
+<li>
+<a href="/caiwu/">会计/出纳</a>
+</li>
+<li>
+<a href="/chengxuyuan/">程序员</a>
+</li>
+<li>
+<a href="/baoanl/">保安</a>
+</li>
+<li>
+<a href="/zpzagong/">杂工</a>
+</li>
+<li>
+<a href="/shineisheji/">装修装潢</a>
+</li>
+<li>
+<a href="/hushi/">护士/护理</a>
+</li>
+<li class="wid112">
+<a href="/lfawurenyuan/">法务专员/助理</a>
+</li>
+</ul>
+</div>
+</div>
+<!-- 广告位预留 -->
+<div id="ad_z4"></div>
+<!-- 全部职位 start -->
+<div class="allPos bor" tongji_id="ZP_job_index_div_alllist1">
+<div class="title">
+<h2>香港招聘全部职位</h2>
+</div>
+<div class="posCont clearfix" id="posCont">
+<ul class="sidebar-left fl" id="sidebar-left">
+<li class="curSel">
+<a href="javascript:void(0)" class="nobor">生活 | 服务业</a>
+</li>
+<li>
+<a href="javascript:void(0)">人力 | 行政 | 管理</a>
+</li>
+<li>
+<a href="javascript:void(0)">销售 | 客服 | 采购 | 淘宝</a>
+</li>
+<li>
+<a href="javascript:void(0)">市场 | 媒介 | 广告 | 设计</a>
+</li>
+<li>
+<a href="javascript:void(0)">生产 | 物流 | 质控 | 汽车</a>
+</li>
+<li>
+<a href="javascript:void(0)">网络 | 通信 | 电子</a>
+</li>
+<li>
+<a href="javascript:void(0)">法律 | 教育 | 翻译 | 出版</a>
+</li>
+<li>
+<a href="javascript:void(0)">财会 | 金融 | 保险</a>
+</li>
+<li>
+<a href="javascript:void(0)">医疗 | 制药 | 环保</a>
+</li>
+<li>
+<a href="javascript:void(0)">建筑 | 装修 | 物业 | 其他</a>
+</li>
+</ul>
+<div class="sidebar-right fl" id="sidebar-right">
+</div>
+</div>
+</div>
+<!-- 全部职位 end -->
+<!-- 职位列举 start -->
+<div class="posExp bor clearfix" id="posExp" tongji_id="ZP_job_index_div_alllist2">
+<dl class="pad14">
+<dt>
+<a href="/yewu/">销售</a>
+</dt>
+<dd>
+<a href="/xiaoshouyuan/">销售代表</a><a href="/xiaoshouzhuli/">销售助理</a><a href="/xiaoshougongchengshi/">销售支持</a><a href="/dianhuaxiaoshou/">电话销售</a><a href="/quyuxiaoshou/">区域销售</a><a href="/qudaorenyuan/">渠道专员</a><a href="/kehujingli/">客户经理/主管</a><a href="/xiaoshoujingli/">销售经理/主管</a><a href="/yiyaodaibiao/">医药代表</a><a href="/qichexiaoshou/">汽车销售</a><a href="/yiliaoqixie/">医疗器械销售</a><a href="/wangluoxiaoshouyuan/">网络销售</a><a href="/xiaoshouzongjian/">销售总监</a><a href="/qudaojingli/">渠道经理/总监</a><a href="/dakehujingli/">大客户经理</a><a href="/tuangouxiaoshou/">团购业务员/经理</a><a href="/huijiguwen/">会籍顾问</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/renli/">人事/行政/后勤</a>
+</dt>
+<dd>
+<a href="/renshizhuguan/">人事经理/主管</a><a href="/zhaopinjingli/">人事专员/助理</a><a href="/xinzifuli/">薪酬/绩效/员工关系</a><a href="/qiantai/">前台/总机/接待</a><a href="/houqin/">后勤</a><a href="/wenziluru/">文员</a><a href="/mishu/">经理助理/秘书</a><a href="/lietouguwen/">猎头顾问</a><a href="/xingzhengzhuanyuan/">行政专员/助理</a><a href="/xingzhengjingli/">行政经理/主管</a><a href="/renshizongjian/">人事总监</a><a href="/xingzhengzongjian/">行政总监</a><a href="/peixunzhuanyuan/">培训专员/助理</a><a href="/peixunjingli/">培训经理/主管</a><a href="/zhaopinzhuanyuan/">招聘专员/助理</a><a href="/zhaopinzhuguan/">招聘经理/主管</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/kefu/">客服</a>
+</dt>
+<dd>
+<a href="/kefuzhuanyuan/">客服专员/助理</a><a href="/kefujingli/">客服经理/主管</a><a href="/kefuzongjian/">客服总监</a><a href="/shouhoufuwu/">售前/售后服务</a><a href="/kehuzixun/">电话客服</a><a href="/kehuguanxi/">客户关系管理</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zplvyoujiudian/">餐饮</a>
+</dt>
+<dd>
+<a href="/cantfwy/">服务员</a><a href="/chuancaiyuan/">传菜员</a><a href="/canguan/">厨师/厨师长</a><a href="/miandianshi/">面点师</a><a href="/xiwangong/">洗碗工</a><a href="/houchuczg/">后厨</a><a href="/chufangqiepei/">配菜/打荷</a><a href="/jiudianjl/">餐饮管理</a><a href="/lingban/">大堂经理/领班</a><a href="/qiantjd/">迎宾/接待</a><a href="/chayi/">茶艺师</a><a href="/songcanyuan/">送餐员</a><a href="/zpxuetu/">学徒</a><a href="/zpzagong/">杂工</a><a href="/zpkafei/">咖啡师</a><a href="/zpyudingyuan/">预订员</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpjiudian/">酒店/旅游</a>
+</dt>
+<dd>
+<a href="/zpjiudianqiantai/">酒店前台</a><a href="/zpkefang/">客房服务员</a><a href="/zpjingli/">楼面经理</a><a href="/xingliyuan/">行李员</a><a href="/jiushengyuan/">救生员</a><a href="/zpjiudianguanli/">酒店管理</a><a href="/zpdingpiao/">订票员</a><a href="/dyao/">导游</a><a href="/zpjidiao/">计调</a><a href="/qianzheng/">签证专员</a><a href="/lvyouguwen/">旅游顾问</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/meirongjianshen/">美容/美发</a>
+</dt>
+<dd>
+<a href="/faxingshi/">发型师</a><a href="/meirongshi/">美容师</a><a href="/huazhuangshizg/">化妆师</a><a href="/meirongguwen/">美容/瘦身顾问</a><a href="/xitougong/">洗头工</a><a href="/meifaxuetu/">美发助理/学徒</a><a href="/meitishi/">美甲师</a><a href="/meifadianz/">美容店长</a><a href="/meirongzhuli/">美容助理/学徒</a><a href="/chongwumr/">宠物美容</a><a href="/caizhuangpeixun/">彩妆培训师</a><a href="/zpmeirongdaoshi/">美容导师</a><a href="/zpmeitishi/">美体师</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpanmo/">保健按摩</a>
+</dt>
+<dd>
+<a href="/zhenjiuzg/">按摩师</a><a href="/baojiananmozuliao/">足疗师</a><a href="/zptuina/">针灸推拿</a><a href="/zpcuozao/">搓澡工</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpjianshen/">运动健身</a>
+</dt>
+<dd>
+<a href="/jianshenguwen/">健身教练</a><a href="/yujiawudaolaoshi/">瑜伽教练</a><a href="/zpwudao/">舞蹈老师</a><a href="/zpyouyong/">游泳教练</a><a href="/zptaiqiu/">台球教练</a><a href="/zpgaoerfu/">高尔夫球助理</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/shichang/">市场/媒介/公关</a>
+</dt>
+<dd>
+<a href="/pinpaijingli/">品牌专员/经理</a><a href="/yingxiaozhuanyuan/">市场专员/助理</a><a href="/shichangzhuanyuan/">市场拓展</a><a href="/shichangdiaoyan/">市场调研</a><a href="/qihua/">市场策划</a><a href="/shichangcehuagongguanmeijie/">媒介专员/助理</a><a href="/huiwujingli/">会务会展会员/经理</a><a href="/shichangzongjian/">市场经理/总监</a><a href="/meijiejingli/">媒介经理/主管</a><a href="/gongguanzhuanyuan/">公关专员/助理</a><a href="/gongguanjingli/">公关经理/主管</a><a href="/qihuajingli/">企划经理/主管</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpfangchanjianzhu/">建筑</a>
+</dt>
+<dd>
+<a href="/jianzhugongchengshi/">建筑工程师/总工</a><a href="/jiegoutumu/">土木/土建工程师</a><a href="/gongluqiaoliang/">道路桥梁技术</a><a href="/geipaishui/">给排水/制冷/暖通</a><a href="/muqiang/">幕墙工程师</a><a href="/fangwusj/">园林/景观设计</a><a href="/cehuiceliang/">测绘/测量</a><a href="/gongchengzhaojia/">造价师/预算师</a><a href="/jianzhugongcheng/">工程项目管理</a><a href="/gongchengjianli/">工程监理</a><a href="/jianzhuanfang/">安防工程师</a><a href="/jzanquanguanli/">安全管理/安全员</a><a href="/ziliao/">资料员</a><a href="/shizhenggc/">市政工程师</a><a href="/buxianruodian/">综合布线/弱电</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpshengchankaifa/">普工/技工</a>
+</dt>
+<dd>
+<a href="/mugong/">木工</a><a href="/youqigong/">油漆工</a><a href="/pugong/">普工</a><a href="/dianzi/">电工</a><a href="/qiangong/">钳工</a><a href="/maohangong/">切割/焊工</a><a href="/banjin/">钣金工</a><a href="/shukongjichuang/">车工/铣工</a><a href="/fengrengong/">缝纫工</a><a href="/gulugong/">锅炉工</a><a href="/nuantonggong/">制冷/水暖工</a><a href="/weixiugongchengshi/">综合维修工</a><a href="/chachegong/">铲车/叉车工</a><a href="/mojugong/">铸造/注塑/模具工</a><a href="/shoujiwx/">手机维修</a><a href="/ditigong/">电梯工</a><a href="/zhizaogongchengshi/">操作工</a><a href="/baozhuanggcs/">包装工</a><a href="/zpshuini/">水泥工</a><a href="/zpgangjin/">钢筋工</a><a href="/zpguangdao/">管道工</a><a href="/zpwagong/">瓦工</a><a href="/zpzuzhuang/">组装工</a><a href="/zpyangyigong/">样衣工</a><a href="/zprangong/">染工</a><a href="/zpfangzhi/">纺织工</a><a href="/zpyinhua/">印花工</a><a href="/zpyayun/">压熨工</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpshengchan/">生产管理/研发</a>
+</dt>
+<dd>
+<a href="/zhiliangbaozhengqa/">质量管理</a><a href="/zonggongchengshi/">总工程师/副总工程师</a><a href="/gcsbguanli/">设备管理维护</a><a href="/jsgysheji/">工艺设计</a><a href="/shengchanjingli/">车间主任</a><a href="/shengchanzhuguan/">生产主管/组长</a><a href="/jihuatiaodu/">生产计划</a><a href="/huayan/">化验/检验</a><a href="/changzhang/">厂长/副厂长</a><a href="/shengchanzongjian/">生产总监</a><a href="/weixiugong/">维修工程师</a><a href="/gongyegcs/">工业工程师</a><a href="/cailiaogcs/">材料工程师</a><a href="/jishugongcheng/">技术工程师</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/tech/">计算机/互联网/通信</a>
+</dt>
+<dd>
+<a href="/jishuzongjian/">技术总监/经理</a><a href="/jishuzhichi/">技术支持/维护</a><a href="/jszhuanyuan/">技术专员/助理</a><a href="/ruanjiangong/">软件工程师</a><a href="/chengxuyuan/">程序员</a><a href="/yingjiangong/">硬件工程师</a><a href="/zhilianggongcheng/">质量工程师</a><a href="/yingjiancs/">测试员</a><a href="/xitongjichengfenxi/">系统架构师</a><a href="/shujukukaifa/">数据库管理/DBA</a><a href="/youxisheji/">游戏设计/开发</a><a href="/wangzhanmeigong/">网页设计/制作</a><a href="/cadsheji/">语音/视频/图形</a><a href="/xiangmuzongjian/">项目经理/主管</a><a href="/wangzhanchanpin/">产品经理/专员</a><a href="/wangzhanyunying/">网站运营</a><a href="/wangzhanyingyun/">网站编辑</a><a href="/wangzhancehua/">网站策划</a><a href="/wangluogongchengshi/">网络管理员</a><a href="/wangluoanquan/">网络与信息安全工程师</a><a href="/ruanjianshishi/">实施工程师</a><a href="/tongxinwuxian/">通信技术工程师</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpqiche/">汽车制造/服务</a>
+</dt>
+<dd>
+<a href="/qichemeirong/">汽车美容</a><a href="/qichewx/">汽车/摩托车修理</a><a href="/qcfsweixiu/">4S店管理</a><a href="/qcpinggushi/">二手车评估师</a><a href="/qichesheji/">汽车设计工程师</a><a href="/zhuangpeigongyi/">装配工艺工程师</a><a href="/qichejixie/">汽车机械工程师</a><a href="/qichedianzi/">汽车电子工程师</a><a href="/jianyanjiance/">汽车检验/检测</a><a href="/qczozhuang/">发动机/总装工程师</a><a href="/qcanquanxingneng/">安全性能工程师</a><a href="/qclipei/">理赔专员/顾问</a><a href="/xicheyuan/">洗车工</a><a href="/tingcheguanli/">停车管理员</a><a href="/jiayougong/">加油站工作人员</a><a href="/luntaigong/">轮胎工</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/chaoshishangye/">超市/百货/零售</a>
+</dt>
+<dd>
+<a href="/yingyeyuan/">店员/营业员</a><a href="/shouying/">收银员</a><a href="/cuxiao/">促销/导购员</a><a href="/lihuoyuan/">理货员/陈列员</a><a href="/fangsunyuan/">防损员/内保</a><a href="/dianzhang/">店长/卖场经理</a><a href="/zhaoshangjingli/">招商经理/主管</a><a href="/shechipinyewu/">奢侈品业务</a><a href="/pinleiguanli/">品类管理</a><a href="/shipinjiagong/">食品加工/处理</a><a href="/zpdudao/">督导</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpcaiwushenji/">财务/审计/统计</a>
+</dt>
+<dd>
+<a href="/caiwuzongjian/">财务总监</a><a href="/caiwuzhuli/">财务/会计助理</a><a href="/caiwu/">会计/会计师</a><a href="/caiwufenxi/">财务分析员</a><a href="/tongjishenji/">审计专员/助理</a><a href="/chuna/">出纳</a><a href="/shuiwuzhuanyuan/">税务专员/助理</a><a href="/tongjiyuan/">统计员</a><a href="/caiwujingli/">财务经理/主管</a><a href="/shenjijingli/">审计经理/主管</a><a href="/shuiwujingli/">税务经理/主管</a><a href="/zpchengben/">成本管理员</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/jiazhengbaojiexin/">家政保洁/安保</a>
+</dt>
+<dd>
+<a href="/xiyifang/">洗衣工</a><a href="/baojieyuan/">保洁</a><a href="/baomuxin/">保姆</a><a href="/yuesaoyuying/">月嫂</a><a href="/zhdiang/">钟点工</a><a href="/baoanl/">保安</a><a href="/yuying/">育婴师/保育员</a><a href="/hugong/">护工</a><a href="/songshuigong/">送水工</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/siji/">司机</a>
+</dt>
+<dd>
+<a href="/shangwujiaochesiji/">商务司机</a><a href="/chuzuchesiji/">出租车司机</a><a href="/gongjiaobanchesiji/">班车司机</a><a href="/sonhuosiji/">货运司机</a><a href="/tezhongchesiji/">特种车司机</a><a href="/changtukeyuansiji/">客运司机</a><a href="/jiaoxiaojiaolian/">驾校教练/陪练</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpxiezuochuban/">编辑/出版/印刷</a>
+</dt>
+<dd>
+<a href="/cbzhubian/">总编/副总编/主编</a><a href="/bianji/">编辑/撰稿</a><a href="/jizhe/">记者/采编</a><a href="/cbchuban/">出版/发行</a><a href="/cbyishua/">排版设计/制作</a><a href="/cbyinshuacaozuo/">印刷操作</a><a href="/zhuangdingyuan/">装订/烫金</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zhuanye/">教育培训</a>
+</dt>
+<dd>
+<a href="/jiaoshi/">教师/助教</a><a href="/jiaowu/">教学/教务管理</a><a href="/youerjiaoshi/">幼教</a><a href="/jypeixunshi/">培训师/讲师</a><a href="/jykeyuanrenyuan/">学术研究/科研</a><a href="/jiajiaolaoshi/">家教</a><a href="/jiaoyukaifa/">教育产品开发</a><a href="/peixuncehua/">培训策划</a><a href="/peixunzhuli/">野外拓展训练师</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/fanyizhaopin/">翻译</a>
+</dt>
+<dd>
+<a href="/yingyufanyi/">英语翻译</a><a href="/riyufanyi/">日语翻译</a><a href="/eyufanyi/">俄语翻译</a><a href="/jyxiaoyuzhongfanyi/">小语种翻译</a><a href="/hanyu/">韩语翻译</a><a href="/fayufanyi/">法语翻译</a><a href="/deyufanyi/">德语翻译</a><a href="/xibanyayu/">西班牙语翻译</a><a href="/yidaliyu/">意大利语翻译</a><a href="/putaoyayu/">葡萄牙语翻译</a><a href="/alaboyu/">阿拉伯语翻译</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpwentiyingshi/">娱乐/休闲</a>
+</dt>
+<dd>
+<a href="/tiaojiushi/">调酒师</a><a href="/jiubagzy/">酒吧服务员</a><a href="/yingshicehua/">影视/后期制作</a><a href="/wtzhuchiren/">主持人</a><a href="/wtxieying/">摄影师/摄像师</a><a href="/wtluying/">音效师</a><a href="/wtliyi/">礼仪/迎宾</a><a href="/peiyin/">配音员</a><a href="/fangyingyuan/">放映员</a><a href="/dengguangshi/">灯光师</a><a href="/yulefwy/">娱乐厅服务员</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpguanggao/">广告/会展/咨询</a>
+</dt>
+<dd>
+<a href="/fengmiansj/">广告设计/制作</a><a href="/wenan/">广告文案</a><a href="/shejichuangyi/">广告创意</a><a href="/chuangyizongjian/">创意指导/总监</a><a href="/huizhancehua/">会展策划/设计</a><a href="/zpkehuzhuguan/">客户主管/专员</a><a href="/zpqiyecehua/">企业策划</a><a href="/zpmeijiecehua/">媒介策划/管理</a><a href="/zphunlicehua/">婚礼策划</a><a href="/zixunshi/">咨询顾问</a><a href="/zixunjingli/">咨询经理/主管</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpmeishu/">美术/设计/创意</a>
+</dt>
+<dd>
+<a href="/meibian/">美编/美术设计</a><a href="/fuzhuangsj/">服装设计</a><a href="/jiajusj/">家具/家居用品设计</a><a href="/sheji/">平面设计</a><a href="/meishuzhidao/">美术指导</a><a href="/zhanshizhuanghuang/">店面/陈列/展览设计</a><a href="/gongyisheji/">工艺/珠宝设计</a><a href="/duomeiti/">多媒体/动画设计</a><a href="/baozhuangsheji/">产品/包装设计</a><a href="/shineisheji/">装修装潢设计</a><a href="/shejizhitu/">CAD设计/制图</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/jinrongtouzi/">金融/银行/证券/投资</a>
+</dt>
+<dd>
+<a href="/jingjiren/">证券/期货/外汇经纪人</a><a href="/jinrong/">投资/理财顾问</a><a href="/zichanpinggu/">信贷管理/资信评估</a><a href="/zhengquanjingli/">证券经理/总监</a><a href="/waihuijingli/">外汇/基金/国债经理人</a><a href="/rongzijingli/">融资经理/总监</a><a href="/yinhangjingli/">银行经理/主任</a><a href="/fengxiankongzhi/">风险管理/控制</a><a href="/yinhangkuaiji/">银行会计/柜员</a><a href="/zhengquanfenxi/">证券分析/金融研究</a><a href="/yinhangyewu/">信用卡/银行卡业务</a><a href="/zcpinggu/">资产评估</a><a href="/danbaopaimai/">担保/拍卖/典当</a><a href="/paimaishi/">拍卖师</a><a href="/rongzizhuanyuan/">融资专员</a><a href="/caopanshou/">股票/期货操盘手</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpjinrongbaoxian/">保险</a>
+</dt>
+<dd>
+<a href="/baoxian/">保险经纪人</a><a href="/baoxianjingsuan/">保险精算师</a><a href="/baoxianjchanpin/">保险客户经理</a><a href="/baoxianjingli/">保险项目经理</a><a href="/baoxianguwen/">保险顾问</a><a href="/baoxianlipei/">车险专员</a><a href="/baoxianneiqin/">保险内勤</a><a href="/baoxianxuqi/">保险客服</a><a href="/baoxianpeixun/">保险培训师</a><a href="/chubeijingli/">储备经理人</a><a href="/qiyueguanli/">保险其他职位</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpshangwumaoyi/">贸易/采购</a>
+</dt>
+<dd>
+<a href="/waimaojingli/">外贸经理/主管</a><a href="/waimaozhuanyuan/">外贸专员/助理</a><a href="/danzhengbaoguan/">报关员</a><a href="/shangwuzhuanyuan/">商务专员/经理</a><a href="/caigouguanli/">采购经理/总监</a><a href="/caigouyuan/">采购员</a><a href="/maishou/">买手</a><a href="/caigouzhuli/">采购助理</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpwuliucangchu/">物流/仓储</a>
+</dt>
+<dd>
+<a href="/maoyi/">物流专员/助理</a><a href="/wuliujingli/">物流经理/主管</a><a href="/wuliuzongjian/">物流总监</a><a href="/diaodu/">调度员</a><a href="/sudiyuan/">快递员</a><a href="/cangku/">仓库管理员</a><a href="/cangkujingli/">仓库经理/主管</a><a href="/banyungong/">装卸/搬运工</a><a href="/gongyinglianguanli/">供应链管理</a><a href="/danzhengyuan/">单证员</a><a href="/guojihuoyun/">国际货运</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpfalvzixun/">法律</a>
+</dt>
+<dd>
+<a href="/lvshizhaopin/">律师/法律顾问</a><a href="/lfawurenyuan/">法务专员/主管</a><a href="/zhuanliguwen/">产权/专利顾问</a><a href="/heguiguanli/">合规管理</a><a href="/lvshizhuli/">律师助理</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpyiyuanyiliao/">医院/医疗/护理</a>
+</dt>
+<dd>
+<a href="/yyyiyuan/">医疗管理</a><a href="/yiliao/">医生</a><a href="/yymeirongzhengxing/">美容整形师</a><a href="/yyliliaoshi/">理疗师</a><a href="/yyxinliyisheng/">心理医生</a><a href="/yyyingyangshi/">营养师</a><a href="/yyyaokuzhuren/">药剂师</a><a href="/yyyiyaoxuejianyan/">医药质检</a><a href="/hushi/">护士/护理</a><a href="/hushizhang/">护理主任/护士长</a><a href="/chongwuyisheng/">宠物护理/兽医</a><a href="/yanguangshi/">验光师</a><a href="/baojianyisheng/">保健医生</a><a href="/daoyiyuan/">导医</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpzhiyao/">制药/生物工程</a>
+</dt>
+<dd>
+<a href="/yiyaoyanfa/">医药研发/生产/注册</a><a href="/linchuangyanjiu/">临床研究/协调</a><a href="/shengwugongcheng/">生物工程/生物制药</a><a href="/yiliaoyanfa/">医疗器械研发/维修</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpjixieyiqi/">电子/电气</a>
+</dt>
+<dd>
+<a href="/didianqigongchengshi/">电路工程师/技术员</a><a href="/dianzidianqigcs/">电子/电气工程师</a><a href="/zidonghua/">自动化工程师</a><a href="/wuxiandiangcs/">无线电工程师</a><a href="/ceshigcs/">测试/可靠性工程师</a><a href="/gongyigcs/">产品工艺/规划工程师</a><a href="/yinpinshipingcs/">音频/视频工程师</a><a href="/zhaomingsheji/">灯光/照明设计工程师</a><a href="/yanfagcs/">研发工程师</a><a href="/dianzidianqiwx/">电子/电器维修</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpjixie/">机械/仪器仪表</a>
+</dt>
+<dd>
+<a href="/jxjixiegongchengshi/">机电工程师</a><a href="/zpjixiegongcheng/">机械工程师</a><a href="/jxyiqigongcheng/">仪器/仪表/计量</a><a href="/bantushejigcs/">版图设计工程师</a><a href="/zpyanfa/">研发工程师</a><a href="/zpceshi/">测试/可靠性工程师</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zhikonganfang/">质控/安防</a>
+</dt>
+<dd>
+<a href="/zhiliangguanli/">质量管理/测试经理</a><a href="/zhijianyuan/">质量检验员/测试员</a><a href="/ceshigongchengshi/">测试工程师</a><a href="/anquanxiaofang/">安全消防</a><a href="/renzhengyuan/">认证工程师/审核员</a><a href="/anquanguanli/">安全管理</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpguanli/">高级管理</a>
+</dt>
+<dd>
+<a href="/zpzongcai/">CEO/总裁/总经理</a><a href="/shouxiyunying/">首席运营官COO</a><a href="/shouxicaiwu/">首席财务官CFO</a><a href="/shouxijishu/">首席技术官CTO</a><a href="/fuzongcai/">副总裁/副总经理</a><a href="/zongcaizhuli/">总裁助理/总经理助理</a><a href="/zongjian/">总监</a><a href="/fengongsijingli/">分公司经理</a><a href="/hehuoren/">合伙人</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/xiaofeipin/">服装/纺织/食品</a>
+</dt>
+<dd>
+<a href="/fuzhuangsheji/">服装设计师</a><a href="/fuzhuangdayang/">服装打样/制版</a><a href="/shengchanguanli/">生产管理</a><a href="/yangyigong/">样衣工</a><a href="/shipinyanfa/">食品/饮料研发/检验</a><a href="/chugeshi/">板房/底格出格师</a><a href="/fangmayuan/">电脑放码员</a><a href="/zhiyangshi/">纸样师/车板工</a><a href="/fangzhisheji/">纺织品设计师</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/huanbao/">环保</a>
+</dt>
+<dd>
+<a href="/wushuichuli/">污水处理工程师</a><a href="/hjgongchengjishu/">环境工程技术</a><a href="/hjguanli/">环境管理/保护</a><a href="/huanbaojishu/">环保技术</a><a href="/ehsguanli/">EHS管理</a><a href="/huanbaoshi/">环保工程师</a><a href="/huanbaojiance/">环保检测</a><a href="/shuizhijiance/">水质检测员</a><a href="/hjlvhua/">环境绿化</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/nonglinmuyu/">农/林/牧/渔业</a>
+</dt>
+<dd>
+<a href="/siliao/">饲料业务</a><a href="/yangzhi/">养殖人员</a><a href="/nongyishi/">农艺师</a><a href="/xumushi/">畜牧师</a><a href="/nongchangzhu/">场长</a><a href="/yangzhizhuguan/">养殖部主管</a><a href="/siliaoyanfa/">动物营养/饲料研发</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpwuye/">物业管理</a>
+</dt>
+<dd>
+<a href="/zonghewuyeweixiugong/">物业维修</a><a href="/wuye/">物业管理员</a><a href="/wuyejingli/">物业经理/主管</a><a href="/jzhetong/">合同管理</a><a href="/fczhaoshang/">招商经理/主管</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zpfangchan/">房产中介</a>
+</dt>
+<dd>
+<a href="/fangdichan/">房地产经纪人</a><a href="/zpzhiye/">置业顾问</a><a href="/zpfangchandianzhang/">房产店长/经理</a><a href="/zpfangchandianyuan/">房产店员/助理</a><a href="/zpfangchankefu/">房产客服</a><a href="/zpfangchanneiqin/">房产内勤</a><a href="/fangdichankaifa/">房地产开发/策划</a><a href="/zpfangchanpinggu/">房产评估师</a><a href="/zpfangchanqita/">其他房产职位</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zptaobao/">淘宝职位</a>
+</dt>
+<dd>
+<a href="/zptaobaodianzhang/">网店店长</a><a href="/zptaobaokefu/">淘宝客服</a><a href="/zptaobaomeigong/">淘宝美工</a><a href="/zptaobaobianji/">店铺文案编辑</a><a href="/zptaobaotuiguang/">店铺推广</a><a href="/zptaobaocehua/">活动策划</a>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="/zhaopin/">其他招聘信息</a>
+</dt>
+<dd>
+<a href="/cgqitazhiwei/">其他职位</a>
+</dd>
+</dl>
+<dl class="padB14">
+<dt>
+<a href="http://www.58.com/zp/">求职指南</a>
+</dt>
+<dd>
+<a href="http://www.58.com/jianlimoban/">简历模板</a><a href="http://www.58.com/mianshijiqiao/">面试技巧</a><a href="http://www.58.com/ziwojianding/">自我鉴定</a><a href="http://www.58.com/ziwopingjia/">自我评价</a><a href="http://www.58.com/mianshitiku/">面试题库</a><a href="http://www.58.com/qiuzhixin/">求职信</a><a href="http://www.58.com/jianlifanwen/">简历范文</a><a href="http://www.58.com/ziwojieshao/">自我介绍</a>
+</dd>
+</dl>
+</div>
+<!--职位列举 end -->
+<!--最新信息 start -->
+<div class="newposInfo bor" tongji_id="ZP_job_index_div_newlist">
+<div class="title">
+<h2>香港招聘最新信息</h2>
+</div>
+<div class="clearfix">
+<ul>
+<li>
+<a href="http://hk.58.com/zpfangchanjianzhu/17869692567562x.shtml" target="_blank">
+高级顾问</a>
+3小时前</li>
+<li>
+<a href="http://hk.58.com/zpfangchanjianzhu/17869234850947x.shtml" target="_blank">
+技术支持</a>
+4小时前</li>
+<li>
+<a href="http://hk.58.com/zplvyoujiudian/17576157108871x.shtml" target="_blank">
+招聘厅房服务员工资日结</a>
+05-08</li>
+<li>
+<a href="http://hk.58.com/zpcaiwushenji/17851488155912x.shtml" target="_blank">
+急聘临时会计兼助理</a>
+05-08</li>
+<li>
+<a href="http://hk.58.com/zpjinrongbaoxian/17859416258441x.shtml" target="_blank">
+理财策划专员同主任</a>
+05-08</li>
+<li>
+<a href="http://hk.58.com/zpxiezuochuban/17528471291145x.shtml" target="_blank">
+香港时事热点兼职记者</a>
+05-08</li>
+<li>
+<a href="http://hk.58.com/yewu/17373982022022x.shtml" target="_blank">
+招网络销售</a>
+05-07</li>
+<li>
+<a href="http://hk.58.com/yewu/17373959342090x.shtml" target="_blank">
+招网络销售</a>
+05-07</li>
+<li>
+<a href="http://hk.58.com/yewu/17849511094659x.shtml" target="_blank">
+大区经理</a>
+05-07</li>
+<li>
+<a href="http://hk.58.com/yewu/17128884397063x.shtml" target="_blank">
+高薪高提成急聘销售</a>
+05-07</li>
+<li>
+<a href="http://hk.58.com/kefu/17077802213768x.shtml" target="_blank">
+网络客服专员</a>
+05-07</li>
+<li>
+<a href="http://hk.58.com/yewu/17077806329477x.shtml" target="_blank">
+高薪诚聘销售精英</a>
+05-07</li>
+<li>
+<a href="http://hk.58.com/chaoshishangye/17847569229832x.shtml" target="_blank">
+中富鼎展创基金招商中</a>
+05-07</li>
+<li>
+<a href="http://hk.58.com/yewu/17847165370632x.shtml" target="_blank">
+销售</a>
+05-07</li>
+<li>
+<a href="http://hk.58.com/yewu/17626279945093x.shtml" target="_blank">
+销售经理/主管</a>
+05-07</li>
+</ul>
+</div>
+</div>
+<!--最新信息 end -->
+<!-- hotposCate end-->
+<!-- bottom start-->
+<div class="bottom">
+<div class="channelIntro">
+<h3>香港招聘频道介绍</h3>
+<p>58同城香港招聘网提供最全面香港人才网招聘信息、香港招聘职位信息，助香港人才，求职招聘入职快。香港人才市场首选58同城 <a href="/job.shtml">香港招聘</a></p>
+</div>
+<div class="hotCity">
+<h3>香港招聘相关热门城市</h3>
+<ul class="clearfix">
+<li>
+<a href="http://sh.58.com/job.shtml">上海招聘</a>
+</li>
+<li>
+<a href="http://bj.58.com/job.shtml">北京招聘</a>
+</li>
+<li>
+<a href="http://sz.58.com/job.shtml">深圳招聘</a>
+</li>
+<li>
+<a href="http://gz.58.com/job.shtml">广州招聘</a>
+</li>
+<li>
+<a href="http://tj.58.com/job.shtml">天津招聘</a>
+</li>
+<li>
+<a href="http://nj.58.com/job.shtml">南京招聘</a>
+</li>
+<li>
+<a href="http://dl.58.com/job.shtml">大连招聘</a>
+</li>
+<li>
+<a href="http://hz.58.com/job.shtml">杭州招聘</a>
+</li>
+<li>
+<a href="http://sy.58.com/job.shtml">沈阳招聘</a>
+</li>
+<li>
+<a href="http://hrb.58.com/job.shtml">哈尔滨招聘</a>
+</li>
+<li>
+<a href="http://cd.58.com/job.shtml">成都招聘</a>
+</li>
+<li>
+<a href="http://dg.58.com/job.shtml">东莞招聘</a>
+</li>
+<li>
+<a href="http://jn.58.com/job.shtml">济南招聘</a>
+</li>
+<li>
+<a href="http://fs.58.com/job.shtml">佛山招聘</a>
+</li>
+<li>
+<a href="http://wx.58.com/job.shtml">无锡招聘</a>
+</li>
+<li>
+<a href="http://cs.58.com/job.shtml">长沙招聘</a>
+</li>
+<li>
+<a href="http://wh.58.com/job.shtml">武汉招聘</a>
+</li>
+<li>
+<a href="http://nb.58.com/job.shtml">宁波招聘</a>
+</li>
+<li>
+<a href="http://cc.58.com/job.shtml">长春招聘</a>
+</li>
+<li>
+<a href="http://su.58.com/job.shtml">苏州招聘</a>
+</li>
+<li>
+<a href="http://qd.58.com/job.shtml">青岛招聘</a>
+</li>
+</ul>
+</div>
+<div class="friendlinks">
+<div class="linkList">
+					﻿<strong>友情链接</strong>:<a href="http://www.9dyl.com/" target="_blank">酒店娱乐人才网</a>&nbsp;<a href="http://gn.dadou.com/" target="_blank">甘南大豆网</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a>&nbsp;
+					<a href="http://link.58control.cn/AppLink.aspx?PlaceID=5&amp;CityID=2050&amp;CateID=9224" target="_blank">自动申请链接</a>
+</div>
+</div>
+</div>
+<!-- bottom end-->
+</div>
+</div>
+<!-- main end -->
+<!-- foot start -->
+<div class="wb-foot">
+<div class="wb-footer">
+		&copy;&nbsp;58.com<a href="http://about.58.com/" rel="nofollow">联系客服</a><a href="/joblist.shtml">香港人才网</a>
+</div>
+</div>
+<!-- foot end -->
+<script type="text/javascript" src="http://pic2.58.com/js/track_alliance.js"></script>
+<script type="text/javascript">
+var _gaq = _gaq || []; var site_name = "58";
+var _trackURL = "{'cate':'9224','area':'2050','pagetype':'index'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']); 
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']); 
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']); 
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview', '/index/zhaopin/job/']);
+boot.require('util.js', function(Frame, js){
+Frame.init(function(){ js.append( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'); js.append('http://tracklog.58.com/referrer4.js');});});
+//广告位
+	document.write('&lt;scr' + 'ipt type="text/javascript" src="http://track.58.com/adsys/cateadsys/?pagetype=4&amp;cate=job&amp;t='+Math.random()+'"&gt;&lt;/scr' + 'ipt&gt;');
+</script>
+</body>
+</html>

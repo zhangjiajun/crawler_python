@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>魏桥纺织股份有限公司2014年最新招聘信息 - 58同城</title>
+<meta name="keywords" content="魏桥纺织股份有限公司" />
+<meta name="description" content="魏桥纺织股份有限公司简称魏桥纺织，主要从事棉纱、坯布及牛仔布的生产、销售及分销，是中国最大的棉纺织生产商。 魏桥纺织股份有限公司是目前世界上纺织能力最大的棉纺织企业" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript"> 
+	function changeClass(){
+		var parentName = document.getElementById("pname").value;
+		var allLi = document.getElementsByName("pli");
+		if(typeof(allLi)!=='undefined'){
+			for(i=0;i&lt;allLi.length;i++){
+				var li = allLi[i];
+				var liVal = li.firstChild.firstChild.innerHTML;
+				if(liVal===parentName){
+					var attr = document.createAttribute("class");
+         	attr.value="active";
+         	li.setAttributeNode(attr);
+					break;
+				}
+			}		
+		}
+	}
+</script>
+<body>
+<!-- Baidu Button BEGIN 
+&lt;script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;pos=right&amp;uid=6862043" &gt;&lt;/script&gt;
+&lt;script type="text/javascript" id="bdshell_js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+var bds_config={"bdTop":140};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+&lt;/script&gt;
+ Baidu Button END -->
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left"><h2></h2> <span id="ipconfig"></span></div>
+<div class="bar_right">
+<div id="login"><a rel="nofollow" target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">登录</a><span class="gap">|</span><a rel="nofollow" target="_self" href="https://passport.58.com/reg/">注册</a></div>
+</div></div></div>
+<div id="header">
+<div id="headerinside"><div id="logo"><a target="_blank" href="http://58.com/"><img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" /></a><span>中国500强企业</span></div>
+<span><a rel="nofollow" style="background: url(http://pic2.58.com/ui6/index/newbg.png) no-repeat scroll 0 -147px transparent;color: #FFFFFF;cursor: pointer;display: inline-block;float: left;font-size: 14px;font-weight: bold;height: 34px;line-height: 34px;position: absolute;right: 10px;text-align: center;top: 11px;width: 117px;" target="_blank" href="http://post.58.com/1/">免费发布信息</a></span></div>
+</div>
+<div id="nav" class="active">
+<div id="navin" class="active">
+<ul>
+<li><a href="/qiye/">首页</a></li>
+<li name="pli" id="pli"><a href="/qiyezixun/"><span>企业最新资讯</span></a></li>
+<li name="pli" id="pli"><a href="/qiyewenhua/"><span>企业文化</span></a></li>
+<li name="pli" id="pli"><a href="/qiyezhaopin/"><span>企业招聘指南</span></a></li>
+<li name="pli" id="pli"><a href="/top500/"><span>世界500强企业</span></a></li>
+<li name="pli" id="pli"><a href="/china500/"><span>中国500强企业</span></a></li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="企业百科" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input name="word" size="21" maxlength="100" type="text" placeholder="58生活资讯" onfocus="if(this.placeholder=='58生活资讯'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='58生活资讯';}" />
+<input type="submit" value="资讯搜索" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+</div>
+</div>
+<script type="text/javascript">changeClass();</script>
+<div class="content ej">
+<div class="box">
+<div class="left fl">
+<div><a rel="nofollow" href="http://zp.58.com/yy/2014spring/" target="_blank"><img style="border:none;" src="http://www.58.com/zp_images/allimg/131128/yjsguanggao.jpg" alt="58招聘季" /></a></div>
+<h2><span class="daohang"><a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/qiye/">企业百科</a> &gt; <a href="/china500/">中国500强企业</a> &gt; </span></h2>
+<div class="wenzhang">
+<h1>魏桥纺织股份有限公司2014年最新招聘信息</h1>
+<div class="sm">来源：58.com     2013-10-30 16:25 </div>
+<table cellpadding="0" cellspacing="0" width="100%" id="content">
+<tr><td>
+<p>魏桥纺织股份有限公司简称魏桥纺织，主要从事棉纱、坯布及牛仔布的生产、销售及分销，是中国最大的棉纺织生产商。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 魏桥纺织股份有限公司是目前世界上纺织能力最大的棉纺织企业，是中国企业500强和山东省26户特大型企业之一。魏桥纺织股份有限公司在过去十多年来把握中国经济快速增长的契机，建立了庞大的生产规模，结合先进的技术装备，在全球棉纺织市场奠定稳固基础。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;魏桥纺织股份有限公司位于中国第三大产棉省山东省，生产规模庞大，共有四个生产基地，分别为魏桥生产基地(第二及第三生产区)、滨州生产基地(滨州工业园第一生产区及第二生产区)、威海生产基地(威海魏桥纺织有限公司「威海魏桥」和威海魏桥科技工业园有限公司「威魏工业园」)及邹平生产基地(邹平第一工业园、邹平第二工业园和邹平第三工业园)。截至二零一二年十二月三十一日，雇用员工约82,000 人。生产区每日24 小时轮班工作。于二零一二年，本集团产量约450,000吨棉纱、1,045,000,000 米坯布及89,000,000 米牛仔布。强大的经济规模使魏桥纺织处于有利位置。此外，作为一家综合棉纺织生产商，本集团以本身生产的棉纱，制造坯布和牛仔布。本集团的产品种类齐全，有超过2,000种，均以知名的&ldquo;魏桥&rdquo;商标在海外和国内销售。<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 魏桥纺织股份有限公司技术实力雄厚，产品结构合理，主要生产两纱两布，高支高密弹力面料，牛仔布，化纤布等十大类2000多个品种，2006年总产量达到棉纱线88.2万吨、坯布16.34亿米、牛仔布1.75亿米。&ldquo;魏桥&rdquo;牌产品以其档次高、质量好、规格全的优势，覆盖美日韩等20多个国家和地区。<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 魏桥纺织股份有限公司是ISO9001质量管理体系和ISO14001环境管理体系认证企业，出口棉纱全部达到国际97乌斯特公报水平，棉布出口合格率达99.2%，出口产品商检合格率历年保持100%。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;魏桥纺织股份有限公司的客户包括伊藤忠、福田实业集团和德永佳集团等纺织业内的市场领导者。至于国内市场，魏桥纺织股份有限公司的国内客户，其中很多是位于华南及华东地区的公司，当地有很多大型纺织和制衣公司。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;城镇化及收入倍增目标长期拉动中国纺织品服装需求，同时消费者需求向中高端转移，魏桥纺织股份有限公司将顺应市场需求，在积极开拓市场、减低库存的同时，也将通过技术改造及创新，优化操作流程，进一步降低万锭用工水平，提高营运效率。魏桥纺织股份有限公司将坚持开发高端产品以及开辟新兴市场的战略，利用行业整合契机扩大市场份额，继续保持魏桥纺织股份有限公司在全球棉纺织行业的领先地位。</p>
+<p>更多精彩文章推荐：</p>
+<p><a href="http://www.58.com/china500/20131029304026.html">英利绿色能源控股有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131029304052.html">新疆金风科技股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131030314042.html">众品集团</a></p>
+<p><a href="http://www.58.com/china500/20131030314321.html">鲁西化工集团股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131030314487.html">中文天地出版传媒股份有限公司</a></p>
+</td></tr>
+</table>
+<div class="n_p">
+<!-- 百度分享 横向 kong 2013.11.26 -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+<a class="bds_qzone"></a>
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+<span class="bds_more">更多</span>
+<a class="shareCount"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script><br /><br />
+<!-- 百度分享 横向 kong 2013.11.26 -->
+                上一篇：<a href="/china500/20131030317032.html">烟台万华聚氨酯股份有限公司2014年最新招聘信息</a> <br />
+
+
+
+                    下一篇：<a href="/china500/20131030317735.html">五矿资源有限公司2014年最新招聘信息</a>
+<center><tr><td>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span>
+</td></tr></center>
+</div>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt>
+<strong>热门职位推荐</strong>
+</dt>
+<dd class="hotpList">
+<a href="/yewu/">销售</a>
+<a href="/bianji/">编辑</a>
+<a href="/wenziluru/">文员</a>
+<a href="/sheji/">平面设计</a>
+<a href="/jiaoshi/">教师</a>
+<a href="/yiliao/">医生</a>
+<a href="/waimaozhuanyuan/">外贸专员</a>
+<a href="/kefu/">客服</a>
+<a href="/caiwu/">会计</a>
+<a href="/qiantai/">前台</a>
+<a href="/wangzhanmeigong/">网页制作</a>
+<a href="/youerjiaoshi/">幼教</a>
+<a href="/hushi/">护士</a>
+<a href="/shichang/">市场公关</a>
+<a href="/dyao/">导游</a>
+<a href="/fanyizhaopin/">翻译</a>
+<a href="/zhaopinjingli/">人事专员</a>
+<a href="/jishuzhichi/">技术支持</a>
+<a href="/jypeixunshi/">培训师</a>
+<a href="/lfawurenyuan/">法务专员</a>
+<a href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+<!--   相关资讯   -->
+<div class="n_p">
+<h3 class="about">魏桥纺织股份有限公司2014年最新招聘信息相关推荐</h3>
+<div class="ul2">
+<ul>
+<li><span>02-20</span><a href="/china500/20140220628352.html" title="" target="_self">上海隧道工程股份有限公司招聘</a></li>
+<li><span>02-20</span><a href="/china500/20140220628349.html" title="" target="_self">上海隧道工程股份有限公司怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628347.html" title="" target="_self">平顶山煤业集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628346.html" title="" target="_self">平顶山天安煤业</a></li>
+<li><span>02-20</span><a href="/china500/20140220628341.html" title="" target="_self">东部华侨城招聘信息</a></li>
+<li><span>02-20</span><a href="/china500/20140220628340.html" title="" target="_self">深圳华侨城集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628339.html" title="" target="_self">百度理财怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628337.html" title="" target="_self">百度公司地址</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<!--   相关资讯   -->
+</div>
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>栏目推荐</h2>
+<div class="tuijian"><a class="y5" href="/china500/20131107347109.html">2013中国企业500强排行榜</a><a class="y1" href="/qiyezixun/">企业最新资讯</a><a class="y4" href="/qiyezhaopin/">企业招聘信息</a><a class="y3" href="/qiyefazhan/">企业发展</a><a class="y2" href="/qiyewenhua/">企业文化</a><a class="y5" href="/qiyerenwu/">企业热点人物</a></div>
+</div>
+<div class="hot fl">
+<h2>58同城官方微信二维码</h2>
+<ul class="j">
+<a target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" height="220" width="220" src="http://www.58.com/zp_images/allimg/131014/qrcode_for_gh_e21b1c81eaab_258.jpg" /> </a>
+<li>功能：职位订阅 精准推送 </li>
+<li>公众号：58同城</li>
+<li>微信号：amazing58</li>
+<li>提示：打开微信，点击底部菜单</li>
+<li>"发现"，选择"扫一扫"功能对准上</li>
+<li>方二维码即可关注。</li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热点排行</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029296813.html" target="_blank">百丽国际控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297213.html" target="_blank">tcl多媒体科技控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297435.html" target="_blank">恒逸石化股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297612.html" target="_blank">天音通信控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297838.html" target="_blank">中海集装箱运输股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297959.html" target="_blank">芜湖港储运股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029300672.html" target="_blank">内蒙古伊泰煤炭股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301113.html" target="_blank">中航国际控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301281.html" target="_blank">山西西山煤电股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029302414.html" target="_blank">玖龙纸业(控股)有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>推荐阅读</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029303151.html" target="_blank">中国大冶有色金属矿业有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029303672.html" target="_blank">远洋地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304067.html" target="_blank">世茂房地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304254.html" target="_blank">上海国际港务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029306451.html" target="_blank">湖南有色金属股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309731.html" target="_blank">创维数码控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309992.html" target="_blank">永辉超市股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310044.html" target="_blank">中国船舶工业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310177.html" target="_blank">国投电力控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273084.html" target="_blank">荣盛石化股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>精彩专区</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131025273301.html" target="_blank">一汽轿车股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273513.html" target="_blank">中海油田服务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275447.html" target="_blank">深圳华侨城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275560.html" target="_blank">平顶山天安煤业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276242.html" target="_blank">国电科技环保集团股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276774.html" target="_blank">中国雨润食品集团有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293347.html" target="_blank">阳煤化工股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293999.html" target="_blank">安阳钢铁股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295331.html" target="_blank">上海豫园旅游商城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295574.html" target="_blank">山西潞安环保能源开发股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"><a href="/qiyezixun/">企业最新资讯</a>  |  <a href="/qiyewenhua/">企业文化</a>  |  <a href="/qiyefazhan/">企业发展</a>  |<a href="/qiyezhaopin/">企业招聘信息</a>|  <a href="/qiyerenwu/">企业热点人物</a></p>
+<div id="flink"><strong>友情链接</strong>:<a target="_blank" href="http://bj.kuche.com/"></a> <a rel="nofollow" target="_blank" href="/link.html">更多...</a> </div>
+<div id="footer">© 58.com <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">帮助中心</a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffef543bf67b8f904475a9ebf319ee80d' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+	var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info/qiye'+mod+'/detail/';
+
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+</body>
+</html>

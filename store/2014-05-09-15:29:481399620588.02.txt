@@ -1,0 +1,860 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>王伯庆_新浪博客</title>
+<meta name="keywords" content="王伯庆_新浪博客,王伯庆,教师,管理,考核,评估,教育,工程,教育,认证,图书馆,智能,数字化,哈佛,教育,移动,互联,数据云,麦可思,教育,高科技,变革,课堂,教育,管办评,评价,认证,改革,教育,就业,扩招,教育,新生,调查,哈佛,教育,麦可思,哈佛,高校职业服务,假期实习,职业技能培养,职业发展" />
+<meta name="description" content="王伯庆_新浪博客,王伯庆,管不好教师&nbsp;何以为大学,大学&nbsp;工程教育带领你,21世纪的大学图书馆,大学管理&nbsp;技术正在颠覆你,科技改变哈佛课程,“评”要有范式,十年就业路漫漫,嗨！认识下你的新生,专业调整&nbsp;挑战利益,就业发愁？愁啥？" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+&lt;!–[if lte IE 6]&gt;
+&lt;script type="text/javascript"&gt;
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+&lt;/script&gt;
+&lt;![endif]–&gt;
+&lt;script type="text/javascript"&gt;
+window.staticTime=new Date().getTime();
+&lt;/script&gt;
+&lt;link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php"  /&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd"  /&gt;
+&lt;link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest"  /&gt;
+&lt;link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1510050685.xml" title="RSS"  /&gt;
+&lt;link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet"  /&gt;&lt;style id="tplstyle" type="text/css"&gt;@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/5/5_3/t.css");
+&lt;/style&gt;
+&lt;style id="positionstyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="bgtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="headtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="navtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--$sinatopbar--&gt;
+&lt;div style="z-index:512;" class="nsinatopbar"&gt;
+  &lt;div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"&gt;&lt;/div&gt;
+  &lt;div class="ntopbar_main"&gt; 
+    &lt;a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"&gt;&lt;img class="ntopbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"&gt;&lt;/a&gt;
+    &lt;div class="ntopbar_floatL"&gt;
+      &lt;div class="ntopbar_search" id="traySearchBar"&gt;&lt;/div&gt;
+	  &lt;div class="ntopbar_ad" id="loginBarActivity" style="display:none;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="ntopbar_loading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"&gt;加载中…&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--$end sinatopbar--&gt;
+
+&lt;div class="sinabloga" id="sinabloga"&gt;
+	&lt;div id="sinablogb" class="sinablogb"&gt;
+
+	   
+ &lt;div id="sinablogHead" class="sinabloghead"&gt;
+     &lt;div style="display: none;" id="headflash" class="headflash"&gt;&lt;/div&gt;
+	   &lt;div id="headarea" class="headarea"&gt;
+      &lt;div id="blogTitle" class="blogtoparea"&gt;
+      &lt;h1 id="blogname" class="blogtitle"&gt;&lt;a href="http://blog.sina.com.cn/wangboqing"&gt;&lt;span id="blognamespan"&gt;伯客观察&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;
+	  		
+					&lt;div id="bloglink" class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/wangboqing"&gt;http://blog.sina.com.cn/wangboqing&lt;/a&gt;  &lt;a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss"&gt;[&lt;cite&gt;订阅&lt;/cite&gt;]&lt;/a&gt;&lt;a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1510050685'));"&gt;[&lt;cite&gt;手机订阅&lt;/cite&gt;]&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="blognav" id="blognav"&gt;
+      			  &lt;div id="blognavBg" class="blognavBg"&gt;&lt;/div&gt; &lt;div class="blognavInfo"&gt; 
+		&lt;span&gt;&lt;a  class="on" href="http://blog.sina.com.cn/wangboqing"&gt;首页&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a  href="http://blog.sina.com.cn/s/articlelist_1510050685_0_1.html"&gt;博文目录&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a href="http://photo.blog.sina.com.cn/wangboqing"&gt;图片&lt;/a&gt;&lt;/span&gt;
+      &lt;span class="last"&gt;&lt;a  href="http://blog.sina.com.cn/s/profile_1510050685.html"&gt;关于我&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;      		      		 	
+      
+             &lt;div class="autoskin" id="auto_skin"&gt;
+       &lt;/div&gt;
+
+&lt;div class="adsarea"&gt;
+     &lt;a href="#"&gt;&lt;div id="template_clone_pic" class="pic"&gt;&lt;/div&gt;&lt;/a&gt;
+     &lt;div id="template_clone_link" class="link wdc_HInf"&gt;&lt;/div&gt;
+     &lt;div id="template_clone_other" class="other"&gt;&lt;/div&gt;        
+&lt;/div&gt;
+    &lt;/div&gt;
+    	    	    &lt;/div&gt;
+    
+    &lt;!--主题内容开始 --&gt;
+    &lt;div class="sinablogbody" id="sinablogbody"&gt;
+		
+	&lt;!--第一列start--&gt;
+    &lt;div id="column_1" class="SG_colW21 SG_colFirst"&gt;&lt;div class="SG_conn" id="module_901"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="个人资料"&gt;个人资料&lt;/span&gt;
+            &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="info"&gt;
+                            
+            &lt;div class="info_img" id="comp_901_head"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://p6.sinaimg.cn/1510050685/180/02071263187073" id="comp_901_head_image" width="180" height="180" alt="王伯庆" title="王伯庆"  /&gt;&lt;/div&gt;
+            
+            &lt;div class="info_txt"&gt;
+              &lt;div class="info_nm"&gt;
+                &lt;img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;
+                &lt;span class="SG_txtb"&gt;&lt;strong id="ownernick"&gt;王伯庆                                &lt;/strong&gt;&lt;/span&gt;
+                
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class="info_btn1"&gt;
+              &lt;!--user['qing_url'] --&gt;
+                &lt;a target="_blank" href="http://qing.blog.sina.com.cn/u/1510050685" onclick="v7sendLog &amp;&amp; v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;Qing&lt;/cite&gt;&lt;/a&gt;
+                &lt;a target="_blank" href="http://weibo.com/u/1510050685?source=blog" class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;微博&lt;/cite&gt;&lt;/a&gt;
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class="SG_j_linedot"&gt;&lt;/div&gt;        &lt;div class="info_locate" id = "info_locate_id"&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;div class="info_btn2"&gt;
+    &lt;p&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"&gt;&lt;cite &gt;加好友&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"&gt;&lt;cite &gt;发纸条&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;a href="http://blog.sina.com.cn/s/profile_1510050685.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"&gt;&lt;cite&gt;写留言&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"&gt;&lt;cite onclick="Module.SeeState.add()"&gt;加关注&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+                  &lt;div class="info_list"&gt;     
+                                   &lt;ul class="info_list1"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客等级：&lt;/span&gt;&lt;span id="comp_901_grade"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/2.gif"   /&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/0.gif"   /&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客积分：&lt;/span&gt;&lt;span id="comp_901_score"&gt;&lt;strong&gt;1690&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;ul class="info_list2"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客访问：&lt;/span&gt;&lt;span id="comp_901_pv"&gt;&lt;strong&gt;1,662,457&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;关注人气：&lt;/span&gt;&lt;span id="comp_901_attention"&gt;&lt;strong&gt;4,469&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/div&gt;
+&lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_conn" id="module_1"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="评论"&gt;评论&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1002"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="友情链接"&gt;友情链接&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget"&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/mycosblog" target="_blank"&gt;麦可思教育专栏&lt;/a&gt;&lt;p&gt;更新:麦可思-2009大学就业排行榜&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1001"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="相关链接"&gt;相关链接&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget" style="position:relative"&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; TexT-ALiGn: left; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-pagination: widow-orphan" ALIGN="left"&gt;&nbsp;&lt;wbr&gt;&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt"&gt;&lt;SPAN STYLE="FonT-siZe: 9pt; CoLor: black; FonT-FAMiLY: 宋体; mso-bidi-font-family: 'Times new roman'; mso-font-kerning: 1.0pt; mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'; mso-fareast-language: ZH-Cn; mso-ansi-language: en-Us; mso-bidi-language: Ar-sA"&gt;用昨天的方法从事今天教学是对孩子们明天的剥夺&lt;/SPAN&gt;&lt;SPAN STYLE="FonT-siZe: 9pt; CoLor: black; FonT-FAMiLY: 宋体; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'; mso-fareast-language: ZH-Cn; mso-ansi-language: en-Us; mso-bidi-language: Ar-sA"&gt;”&lt;/SPAN&gt;&lt;SPAN STYLE="FonT-siZe: 9pt; CoLor: black; FonT-FAMiLY: 'Times new roman'; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-fareast-language: ZH-Cn; mso-ansi-language: en-Us; mso-bidi-language: Ar-sA; mso-fareast-font-family: 宋体"&gt;&lt;FONT COLOR="#000000"&gt;&lt;FONT FACE="Times New Roman"&gt;—&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN STYLE="FonT-siZe: 9pt; CoLor: black; FonT-FAMiLY: 宋体; mso-bidi-font-family: 'Times new roman'; mso-font-kerning: 1.0pt; mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'; mso-fareast-language: ZH-Cn; mso-ansi-language: en-Us; mso-bidi-language: Ar-sA"&gt;杜威&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt"&gt;&nbsp;&lt;wbr&gt;&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; TexT-ALiGn: left; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-pagination: widow-orphan" ALIGN="left"&gt;&lt;FONT STYLE="FonT-siZe: 12px"&gt;&lt;FONT SIZE="3"&gt;&lt;FONT STYLE="FonT-siZe: 12px" COLOR="#000000"&gt;本博客应邀于2008年8月7日开设。谢谢大家光临！&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; TexT-ALiGn: left; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-pagination: widow-orphan" ALIGN="left"&gt;&nbsp;&lt;wbr&gt;&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; TexT-ALiGn: left; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-pagination: widow-orphan" ALIGN="left"&gt;&lt;FONT STYLE="FonT-siZe: 12px"&gt;&lt;FONT SIZE="3"&gt;&lt;FONT STYLE="FonT-siZe: 12px" COLOR="#000000"&gt;媒体需要转载博文的请联系&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; TexT-ALiGn: left; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-pagination: widow-orphan" ALIGN="left"&gt;&lt;A&gt;&lt;FONT COLOR="#000000"&gt;media@mycos.com.cn&lt;/FONT&gt;&lt;/A&gt;&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; TexT-ALiGn: left; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-pagination: widow-orphan" ALIGN="left"&gt;&nbsp;&lt;wbr&gt;&lt;/P&gt;&lt;P&gt;【新书推荐】&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt"&gt;&lt;SPAN STYLE="FonT-siZe: 14pt; CoLor: #9a9a9a; FonT-FAMiLY: 宋体; mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;&lt;STRONG&gt;&lt;FONT COLOR="#0000FF"&gt;《大学生求职决胜宝典（2011年·本科版）》&lt;/FONT&gt;&lt;/STRONG&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;两本书分别由清华大学出版社和北京大学出版社出版，在各地新华书店有售，内容连载请关注本博客。&lt;/P&gt;&lt;P&gt;&nbsp;&lt;wbr&gt;&lt;/P&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_2"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="留言"&gt;留言&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div id="module_3" class="SG_conn"&gt;
+  &lt;div class="SG_connHead"&gt;
+  &lt;span comp_title="分类" class="title"&gt;分类&lt;/span&gt;
+  &lt;span class="edit"&gt;
+	   &lt;/span&gt; 
+  &lt;/div&gt;
+  &lt;div class="SG_connBody"&gt;
+  		&lt;div class="classList"&gt;
+		&lt;ul&gt;
+		&lt;li class="SG_dot"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_0_1.html"&gt;全部博文&lt;/a&gt;&lt;em class="count SG_txtb"&gt;(496)&lt;/em&gt;&lt;/li&gt;
+		&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1510050685_5_1.html"  target="_blank"&gt;看就业选专业--志愿填报&lt;/a&gt;&lt;em&gt;(60)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1510050685_11_1.html"  target="_blank"&gt;大学生发展与求职&lt;/a&gt;&lt;em&gt;(124)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1510050685_9_1.html"  target="_blank"&gt;留学美国&lt;/a&gt;&lt;em&gt;(23)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1510050685_3_1.html"  target="_blank"&gt;三言两语&lt;/a&gt;&lt;em&gt;(122)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1510050685_7_1.html"  target="_blank"&gt;创业的足迹&lt;/a&gt;&lt;em&gt;(20)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1510050685_2_1.html"  target="_blank"&gt;新燕山夜话&lt;/a&gt;&lt;em&gt;(31)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1510050685_6_1.html"  target="_blank"&gt;他山之石&lt;/a&gt;&lt;em&gt;(9)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1510050685_12_1.html"  target="_blank"&gt;就业蓝皮书&lt;/a&gt;&lt;em&gt;(45)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1510050685_10_1.html"  target="_blank"&gt;麦可思研究&lt;/a&gt;&lt;em&gt;(24)&lt;/em&gt;&lt;/li&gt;		 &lt;/ul&gt;
+		&lt;/div&gt;
+     &lt;/div&gt;
+  &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第一列end--&gt;
+	
+	&lt;!--第二列start--&gt;
+	&lt;div id="column_2" class="SG_colW73"&gt;&lt;div id="module_10001" class="SG_conn"&gt;
+	&lt;div class="SG_connHead"&gt;
+		&lt;span comp_title="博文" class="title"&gt;博文&lt;/span&gt;
+		&lt;span class="edit"&gt;
+        		&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class="SG_connBody"&gt;
+															&lt;div class="bloglist"&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e6bd" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e6bd.html" target="_blank"&gt;管不好教师&nbsp;何以为大学&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-03-19 12:51)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e6bd'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e6bd');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%CC%CA%A6&amp;by=tag" target="_blank"&gt;教师&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%DC%C0%ED&amp;by=tag" target="_blank"&gt;管理&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BF%BC%BA%CB&amp;by=tag" target="_blank"&gt;考核&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C6%C0%B9%C0&amp;by=tag" target="_blank"&gt;评估&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%CC%D3%FD&amp;by=tag" target="_blank"&gt;教育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_10_1.html"&gt;麦可思研究&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e6bd&amp;url=http://album.sina.com.cn/pic/001Ec1adzy6HnIocTCX2b'
+target='_blank'&gt;&lt;img name='image_operate_84341395051132500' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s12.sinaimg.cn/mw690/001Ec1adzy6HnIocTCX2b&amp;690" alt=''
+title='' id="image_operate_84341395051132500"  /&gt;&lt;/a&gt;&lt;br  /&gt;&lt;/p&gt;
+&lt;p&gt;
+　　2011年，云南大学尹晓冰副教授曾引起较大的争议，不是因为他开宝马、手机号有7个8、是三家公司的独立董事，而是他说的话：一生把全部精力都用在教学上是“毁灭自己，照亮别人”;他说，把大学教师分在“金字塔”的各个部分，处于底端的是仅会讲课的教师，中间的是又会讲课又会拿课题的，顶端的是“学霸”和担任行政职务者。其实，尹老师是一位优秀老师。平心而论，他说的只是现有教师考核体制下的大实话。&lt;/p&gt;
+&lt;p&gt;
+　　研究型大学难道不是这样的金字塔结构吗?如尹老师这样能干的会计学教授，当独董不算啥，开事务所的都不是个别。建筑、计算机、法学等，能干的教授又有多少能守住教学这盏风中的蜡烛?大学如同中国寺庙，市场经济这个妹子和尚动得，我动不得?高校管理者不能拿道德来约束教师，只有完善教师管理制度才能铺就正确导向，教师们自然会上道。&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e6bd" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e6bd.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e6bd.html#comment" id="c_10001_5a018b7d0102e6bd"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e6bd');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e6bd" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e6bd');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e6bd" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e6bd.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e6bd"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e6bc" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e6bc.html" target="_blank"&gt;大学&nbsp;工程教育带领你&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-03-17 17:47)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e6bc'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e6bc');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%A4%B3%CC&amp;by=tag" target="_blank"&gt;工程&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%CC%D3%FD&amp;by=tag" target="_blank"&gt;教育&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C8%CF%D6%A4&amp;by=tag" target="_blank"&gt;认证&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_10_1.html"&gt;麦可思研究&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p align='left'&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e6bc&amp;url=http://album.sina.com.cn/pic/001Ec1adzy6HnGSklQ8b4'
+target='_blank'&gt;&lt;img src=
+'http://s5.sinaimg.cn/mw690/001Ec1adzy6HnGSklQ8b4&amp;690' name=
+'image_operate_30711395050776656' alt='' title='' id=
+"image_operate_30711395050776656"  /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align='left'&gt;
+　　2013年6月19日，在韩国首尔召开的国际工程联盟大会上全票通过中国成为《华盛顿协议》的第21个成员国(预备)。中国与华协的多年了解修成正果。华协已经成为世界工程教育认证领域最具权威性的国际工程师互认协议。这个协议的签订标志着中国工程教育及其质量保障迈出了重大一步。&lt;/p&gt;
+&lt;p&gt;
+　　工程教育的根本目的是使毕业生拥有合格的知识与能力，并使其能够持续发展，奠定其长久工程实践所需要的基础。通过工程教育认证，可以让学生们取得经过认证合格的专业的毕业文凭，拿到进入国际就业市场的“通行证”。而对学校而言，参加工程教育认证将为“提高教学质量”设立明确的质量标准，在全面改进工程教育专业教学、实现以学生为中心的目标、推进国际互认的工程人才培养等方面有着重要作用。&lt;/p&gt;
+&lt;p&gt;　　目前，中国工程类大学每年招生达2&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e6bc" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e6bc.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e6bc.html#comment" id="c_10001_5a018b7d0102e6bc"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e6bc');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e6bc" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e6bc');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e6bc" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e6bc.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e6bc"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e5zo" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5zo.html" target="_blank"&gt;21世纪的大学图书馆&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-02-08 17:22)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e5zo'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e5zo');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CD%BC%CA%E9%B9%DD&amp;by=tag" target="_blank"&gt;图书馆&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D6%C7%C4%DC&amp;by=tag" target="_blank"&gt;智能&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CA%FD%D7%D6%BB%AF&amp;by=tag" target="_blank"&gt;数字化&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%FE%B7%F0&amp;by=tag" target="_blank"&gt;哈佛&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%CC%D3%FD&amp;by=tag" target="_blank"&gt;教育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_9_1.html"&gt;留学美国&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e5zo&amp;url=http://album.sina.com.cn/pic/001Ec1adgy6GqEMNOt3c9'
+target='_blank'&gt;&lt;img src=
+'http://s10.sinaimg.cn/mw690/001Ec1adgy6GqEMNOt3c9&amp;690' width=
+'690' height='460' name='image_operate_47511391852080687' alt=''
+title='' id="image_operate_47511391852080687"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+顶尖的大学要稳坐“江山”，少不了聪明的学生、聪明的老师、聪明的管理者。这些聪明的人力资源会转化和创造出聪明的设备设施，而设备设施又会反过来催化师生们获得更加骄人、更具创新性的成就，从而形成一&lt;br  /&gt;
+
+个人力资源“软”实力与“硬”件系统的良性循环——聪明的东西让聪明的人好上加好，聪明的人让聪明的东西美上添美。为了佐证这一观点，我想与您分享一个具体的例子，即哈佛令人印象深刻的科技化平台：数字图书馆基础架构（Digital
+Library Infrastructure）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e5zo&amp;url=http://album.sina.com.cn/pic/001Ec1adgy6GqEOxyr8b2'
+target='_blank'&gt;&lt;img src=
+'http://s3.sinaimg.cn/mw690/001Ec1adgy6GqEOxyr8b2&amp;690' width=
+'331' height='34' name='image_operate_39961391852140484' alt=''
+title='' id="image_operate_39961391852140484"  /&gt;&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e5zo" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5zo.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5zo.html#comment" id="c_10001_5a018b7d0102e5zo"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e5zo');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e5zo" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e5zo');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e5zo" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5zo.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e5zo"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e5uv" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5uv.html" target="_blank"&gt;大学管理&nbsp;技术正在颠覆你&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-01-23 16:25)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e5uv'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e5uv');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D2%C6%B6%AF&amp;by=tag" target="_blank"&gt;移动&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BB%A5%C1%AA&amp;by=tag" target="_blank"&gt;互联&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CA%FD%BE%DD%D4%C6&amp;by=tag" target="_blank"&gt;数据云&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C2%F3%BF%C9%CB%BC&amp;by=tag" target="_blank"&gt;麦可思&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%CC%D3%FD&amp;by=tag" target="_blank"&gt;教育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_10_1.html"&gt;麦可思研究&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e5uv&amp;url=http://album.sina.com.cn/pic/001Ec1adgy6G15xqro521'
+target='_blank'&gt;&lt;img name='image_operate_75101390466994265' src=
+'http://s2.sinaimg.cn/mw690/001Ec1adgy6G15xqro521&amp;690' width=
+'612' height='627' alt='' title='' id=
+"image_operate_75101390466994265"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+　　大学，这个一向固步自封的象牙塔，正在被一场技术革命的风暴悄悄接近。阿里巴巴用支付宝点燃了中国的金融革命，腾讯用微信遮住了运营寡头的灿烂阳光，纸媒会普遍倒闭，&lt;font color='#00B7EF'&gt;顶尖的咨询公司倒闭&lt;/font&gt;……这个时代所有行业面临洗牌的日子来到了。我们查看最近一年的大学新闻，有多少大学生开发的校园App问世?我们可以调查一下，拥有三千万青年人的中国大学，孩子们多久没买一本纸质杂志?多久没看一张报纸?多少学生上课在玩手机?还有几个孩子没有民工版智能手机?手机是学生的另一个大脑，你想教育他，得先通过它。&lt;/p&gt;
+&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e5uv&amp;url=http://album.sina.com.cn/pic/001Ec1adgy6G15lw4rPbd'
+target='_blank'&gt;&lt;img name='image_operate_68571390466995015' src=
+'http://s14.sinaimg.cn/mw690/001Ec1adgy6G15lw4rPbd&amp;690' width=
+'444' height='79' alt='' title='' id=
+"image_operate_68571390466995015"  /&gt;&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e5uv" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5uv.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5uv.html#comment" id="c_10001_5a018b7d0102e5uv"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e5uv');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e5uv" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e5uv');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e5uv" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5uv.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e5uv"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e5nz" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5nz.html" target="_blank"&gt;科技改变哈佛课程&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-01-02 15:13)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e5nz'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e5nz');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B8%DF%BF%C6%BC%BC&amp;by=tag" target="_blank"&gt;高科技&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B1%E4%B8%EF&amp;by=tag" target="_blank"&gt;变革&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BF%CE%CC%C3&amp;by=tag" target="_blank"&gt;课堂&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%CC%D3%FD&amp;by=tag" target="_blank"&gt;教育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_9_1.html"&gt;留学美国&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e5nz&amp;url=http://album.sina.com.cn/pic/001Ec1adgy6FtuRENUr7f'
+target='_blank'&gt;&lt;img name='image_operate_57591388647440566' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s16.sinaimg.cn/mw690/001Ec1adgy6FtuRENUr7f&amp;690" alt=''
+title='' id="image_operate_57591388647440566"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e5nz&amp;url=http://album.sina.com.cn/pic/001Ec1adgy6FtuSZI7de7'
+target='_blank'&gt;&lt;img name='image_operate_95561388647749988' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s8.sinaimg.cn/mw690/001Ec1adgy6FtuSZI7de7&amp;690" alt=''
+title='' id="image_operate_95561388647749988"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e5nz&amp;url=http://album.sina.com.cn/pic/001Ec1adgy6FtuTNWzb55'
+target='_blank'&gt;&lt;img name='image_operate_86161388647747910' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s6.sinaimg.cn/mw690/001Ec1adgy6FtuTNWzb55&amp;690" alt=''
+title='' id="image_operate_86161388647747910"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 现今，当你审视美国的小学和中学时就会发现，在课堂上使用iPad
+作为数字化教学方式并不是什么新鲜事了。上交手写的论文作业简直&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e5nz" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5nz.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5nz.html#comment" id="c_10001_5a018b7d0102e5nz"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e5nz');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e5nz" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e5nz');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e5nz" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5nz.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e5nz"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e5jj" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5jj.html" target="_blank"&gt;“评”要有范式&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-12-24 13:42)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e5jj'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e5jj');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%DC%B0%EC%C6%C0&amp;by=tag" target="_blank"&gt;管办评&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C6%C0%BC%DB&amp;by=tag" target="_blank"&gt;评价&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C8%CF%D6%A4&amp;by=tag" target="_blank"&gt;认证&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B8%C4%B8%EF&amp;by=tag" target="_blank"&gt;改革&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%CC%D3%FD&amp;by=tag" target="_blank"&gt;教育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_10_1.html"&gt;麦可思研究&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e5jj&amp;url=http://album.sina.com.cn/pic/001Ec1adgy6Ff2f2wOOae'
+target='_blank'&gt;&lt;img name='image_operate_59931387864056375' align=
+'left' src=
+'http://s15.sinaimg.cn/mw690/001Ec1adgy6Ff2f2wOOae&amp;690' width=
+'137' height='533' alt='' title='' id=
+"image_operate_59931387864056375"  /&gt;&lt;/a&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+有一天，跟一位“985”高校的管理者聊天，他说，“麦可思的事业一定能做得很大。”我说，“在开始几年很难，没有高校需要第三方做跟踪评价，体制内自己有一套汇报制度，或体制内机构可以模仿做一套。”他说，“我们校长说过，有时候事情不在正确的轨道上，最终还是要回来的。”是的，做正确的事情，可能一开始是离现实最远的出发点，但是能作为持久奋斗的事业。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+十八届三中全会通过的改革决定，涉及高校去行政化、招生考试制度改革、管办评分离等，就是把中国高等教育的列车拨回正轨。说是“回轨”，中国大学的早期是没有行政级别的，管办是分开的，文理分科高考也是这二十年才弄出来的“新鲜事物”。为什么大家觉得难改呢？有位做高教多年的人说，我们是如此习惯现状，以至于把错误&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e5jj" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5jj.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5jj.html#comment" id="c_10001_5a018b7d0102e5jj"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e5jj');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e5jj" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e5jj');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e5jj" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e5jj.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e5jj"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e58u" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e58u.html" target="_blank"&gt;十年就业路漫漫&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-11-21 17:59)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e58u'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e58u');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BE%CD%D2%B5&amp;by=tag" target="_blank"&gt;就业&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C0%A9%D5%D0&amp;by=tag" target="_blank"&gt;扩招&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%CC%D3%FD&amp;by=tag" target="_blank"&gt;教育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_10_1.html"&gt;麦可思研究&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e58u&amp;url=http://album.sina.com.cn/pic/001Ec1adgy6EoGLuWLU42'
+target='_blank'&gt;&lt;img name='image_operate_441385028458171' src=
+'http://s3.sinaimg.cn/mw690/001Ec1adgy6EoGLuWLU42&amp;690' width=
+'690' height='121' alt='' title='' id=
+"image_operate_441385028458171"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+2003年，中国大学扩招后的第一届毕业生就业了。从那年起，大学生就业难就成为社会头条新闻：“1999年首次扩招的大学生，2003年面临就业，明年将是我国第一个毕业生高峰年，应届毕业生达到212万人，比2002年增加67万人，而社会需求则并未增加。”（新华网）“中国社会调查所针对2003年大学生就业状况的最新调查显示，到目前为止，全国还有近100万左右的应届大学毕业生尚未落实工作，面临毕业即失业的困境。”（新华网）&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+自那时起，从社会大众到总理无不为大学毕业生就业揪心。我那年在美国工作，决定以后回到中国，做大学生就业研究，从此也把自己绑上了大学生就业的战车。十年过去了，2013年成为了中国大学毕业生“史上最难就业年”。为什么会这样呢？我们知道，1999年启动大学扩招是为了提振&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e58u" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e58u.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e58u.html#comment" id="c_10001_5a018b7d0102e58u"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e58u');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e58u" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e58u');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e58u" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e58u.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e58u"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e4v9" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4v9.html" target="_blank"&gt;嗨！认识下你的新生&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-10-21 15:51)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e4v9'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e4v9');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D0%C2%C9%FA&amp;by=tag" target="_blank"&gt;新生&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B5%F7%B2%E9&amp;by=tag" target="_blank"&gt;调查&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%FE%B7%F0&amp;by=tag" target="_blank"&gt;哈佛&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%CC%D3%FD&amp;by=tag" target="_blank"&gt;教育&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C2%F3%BF%C9%CB%BC&amp;by=tag" target="_blank"&gt;麦可思&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_10_1.html"&gt;麦可思研究&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e4v9&amp;url=http://album.sina.com.cn/pic/5a018b7dgx6DB3v4NgS0a'
+target='_blank'&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e4v9&amp;url=http://album.sina.com.cn/pic/5a018b7dgx6DB3ztcnj7d'
+target='_blank'&gt;&lt;img src=
+'http://s14.sinaimg.cn/mw690/5a018b7dgx6DB3ztcnj7d&amp;690' width=
+'690' height='417' name='image_operate_71901382341868890' alt=''
+title='' id="image_operate_71901382341868890"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e4v9&amp;url=http://album.sina.com.cn/pic/5a018b7dgx6DB3Aoohw7e'
+target='_blank'&gt;&lt;img style='WiDTH: 687px; HeiGHT: 215px' src=
+'http://s15.sinaimg.cn/mw690/5a018b7dgx6DB3Aoohw7e&amp;690' width=
+'690' height='217' name='image_operate_13851382341869078' alt=''
+title='' id="image_operate_13851382341869078"  /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 早上，我在&lt;strong&gt;《哈佛深红报》&lt;/strong&gt;（Harvard Crimson
+）上读到了一组有意思的文章。这家由学生经营的报社对2017届哈佛新生进行了一次大范围的“非官方”调查，内容包&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e4v9" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4v9.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4v9.html#comment" id="c_10001_5a018b7d0102e4v9"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e4v9');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e4v9" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e4v9');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e4v9" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4v9.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e4v9"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e4l8" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4l8.html" target="_blank"&gt;专业调整&nbsp;挑战利益&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-09-21 11:05)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e4l8'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e4l8');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_10_1.html"&gt;麦可思研究&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e4l8&amp;url=http://album.sina.com.cn/pic/5a018b7dgx6COWxMkFQ42'
+target='_blank'&gt;&lt;img src=
+'http://s3.sinaimg.cn/mw690/5a018b7dgx6COWxMkFQ42&amp;690' width=
+'690' height='253' name='image_operate_66281379733930296' alt=''
+title='' id="image_operate_66281379733930296"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&lt;p align='left'&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 昆工在云南也是大学老二，有52 个博士点、206
+个硕士点，是老牌大学，过去叫昆明工学院，在冶金部的三大名校（东工、北钢、中南矿冶）之外也是颇有名头的。今天该校抓住专业结构调整的机遇，根治扩招以来高校所患“癌症”：为了扩招生源追赶热门专业，造成少数专业供大于求，成为全校就业陷阱；不顾办学条件盲目开设专业，对学生培养不负责任；专业能上不能下，牺牲学生前途以保住专业教师岗位。&lt;/p&gt;
+&lt;p align='left'&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+专业结构调整关乎学校和教师的发展，一定要坐实科学依据，才能保证调整不出错；有科学依据，才能减轻专业结构调整所带来的反对阻力。昆工也承认，目前用于专业评估的考核指标的确有点粗糙，学校正在调查研究，细化评估。其实，不仅需要细化评估，指标也有些&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e4l8" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4l8.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4l8.html#comment" id="c_10001_5a018b7d0102e4l8"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e4l8');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e4l8" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e4l8');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e4l8" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4l8.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e4l8"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5a018b7d0102e4dq" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4dq.html" target="_blank"&gt;就业发愁？愁啥？&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-09-01 08:48)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5a018b7d0102e4dq'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e4dq');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%FE%B7%F0&amp;by=tag" target="_blank"&gt;哈佛&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B8%DF%D0%A3%D6%B0%D2%B5%B7%FE%CE%F1&amp;by=tag" target="_blank"&gt;高校职业服务&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BC%D9%C6%DA%CA%B5%CF%B0&amp;by=tag" target="_blank"&gt;假期实习&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D6%B0%D2%B5%BC%BC%C4%DC%C5%E0%D1%F8&amp;by=tag" target="_blank"&gt;职业技能培养&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D6%B0%D2%B5%B7%A2%D5%B9&amp;by=tag" target="_blank"&gt;职业发展&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1510050685_10_1.html"&gt;麦可思研究&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e4dq&amp;url=http://album.sina.com.cn/pic/5a015103gx6CieBrtw571'
+target='_blank'&gt;&lt;/a&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e4dq&amp;url=http://album.sina.com.cn/pic/5a018b7dgx6CifZ12xUa6'
+target='_blank'&gt;&lt;/a&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5a018b7d0102e4dq&amp;url=http://album.sina.com.cn/pic/5a018b7dgx6Cig4wHnJ2b'
+target='_blank'&gt;&lt;img name='image_operate_1201377963184640' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s12.sinaimg.cn/mw690/5a018b7dgx6Cig4wHnJ2b&amp;690" alt=''
+title='' id="image_operate_1201377963184640"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+自打迈出哈佛门槛后，我时不时地发现，人们会把我们这群哈佛毕业生圈进他们心目中的哈佛“泡影”里。在中国，许多人会因为我到本科毕业时已做了4
+份实习和工作而大感诧异；我得承认，刚开始我也挺诧异的。我诧异的是他们的“大惊小怪”——对近年来的哈佛毕业生来说，这真的不过是个平均数嘛！我们通常就带着如此的期望在学习：大部分学生就得靠打点“零工”来支付自己的学费，为休闲活动买单；我们也&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5a018b7d0102e4dq" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4dq.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4dq.html#comment" id="c_10001_5a018b7d0102e4dq"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5a018b7d0102e4dq');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5a018b7d0102e4dq" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5a018b7d0102e4dq');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5a018b7d0102e4dq" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5a018b7d0102e4dq.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5a018b7d0102e4dq"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div favmd5='{"5a018b7d0102e6bd":"0b7fd6440c663e7d671c8fa505c84e0c","5a018b7d0102e6bc":"07c9ea5325570afb32a9db330d4d65a9","5a018b7d0102e5zo":"33e9810358efc4a626bab424abcb5808","5a018b7d0102e5uv":"2b39afd806622793b4834257b601a233","5a018b7d0102e5nz":"510d6ce4c79163f608c73b166c70e83a","5a018b7d0102e5jj":"117c8a71d0dd150424f3df3f4698533f","5a018b7d0102e58u":"7f9a0b0cbc84b6fbb8cb1f90fbdf49a6","5a018b7d0102e4v9":"8bbc7406ffbefe7d9780c6d4b1f20dca","5a018b7d0102e4l8":"7311912053d789d27efe7cfe8cf49e9e","5a018b7d0102e4dq":"2792560c58293003228bb13b1f4bfe68"}' classid="0" pagesize="10" total="496" id="pagination_10001" class="SG_page"&gt;&lt;/div&gt;
+					&lt;/div&gt;
+							  
+				&lt;/div&gt;  
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第二列start--&gt;
+	
+	&lt;!--第三列start--&gt;
+	&lt;div id="column_3" class="SG_colWnone"&gt;&lt;div style="width:0px;height:0.1px;margin:0px;"&gt;&nbsp;&nbsp;&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第三列end--&gt;
+
+	
+    &lt;/div&gt;
+   &lt;!--主题内容结束 --&gt;
+  
+
+	&lt;div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"&gt;&lt;/div&gt;
+    &lt;div class="sinablogfooter" id="sinablogfooter"  style="position:relative;"&gt;
+      
+      &lt;p class="SG_linka"&gt;&lt;a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank"&gt;新浪BLOG意见反馈留言板&lt;/a&gt;　&lt;a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');"&gt;不良信息反馈&lt;/a&gt;　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正&lt;/p&gt;
+   
+      &lt;p class="SG_linka"&gt;&lt;a href="http://corp.sina.com.cn/chn/" target="_blank"&gt;新浪简介&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/eng/" target="_blank"&gt;About Sina&lt;/a&gt; | &lt;a href="http://emarketing.sina.com.cn/" target="_blank"&gt;广告服务&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/contactus.html" target="_blank"&gt;联系我们&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank"&gt;招聘信息&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank"&gt;网站律师&lt;/a&gt; | &lt;a href="http://english.sina.com" target="_blank"&gt;SINA English&lt;/a&gt; | &lt;a href="http://members.sina.com.cn/apply/" target="_blank"&gt;会员注册&lt;/a&gt; | &lt;a href="http://help.sina.com.cn/" target="_blank"&gt;产品答疑&lt;/a&gt; &lt;/p&gt;
+      &lt;p class="copyright SG_linka"&gt; Copyright &copy; 1996 - 2014 SINA Corporation,  All Rights Reserved&lt;/p&gt;
+      &lt;p class="SG_linka"&gt; 新浪公司 &lt;a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank"&gt;版权所有&lt;/a&gt;&lt;/p&gt;
+	  &lt;a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="swfbox"&gt;&lt;/div&gt;
+&lt;script id="PVCOUNTER_FORIE" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;script type="text/javascript"&gt;
+var scope = {
+    $newTray : 1,
+    $setDomain : true,
+    $uid : "1510050685",
+    $PRODUCT_NAME : "blog7",      //blog7photo,blog7icp
+    $pageid : "index",
+    $key :  "16feec1c53e8f87bd0e064a38c3f95da",
+    $uhost : "wangboqing",
+    $ownerWTtype :"",
+    $private: {"cms":0,"hidecms":0,"blogsize":0,"ad":0,"sms":0,"adver":0,"tj":1,"p4p":0,"spamcms":1,"topblogid":0,"pageset":0,"invitationset":0,"top":0,"t_sina":"","oauth_token":"","oauth_token_secret":"","uname":"","p_push_t":0,"p_get_t":0,"unbind":"1","articleclass":"122"},
+    $playids :"",
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,    component_lists:{"2":{"size":730,"list":[10001]},"1":{"size":210,"list":[901,1,1002,1001,2,3]}},
+    formatInfo:1,
+    UserPic:[{"pid":null,"repeat":"no-repeat","align-h":"top","align-v":"top","apply":0},{"pid":null,"repeat":null,"align-h":null,"align-v":null,"apply":null},{"pid":null,"repeat":"no-repeat","align-h":"top","align-v":"top","apply":0}],
+    UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
+    UserColor:"",
+    backgroundcolor:"",
+    tpl:"5_3",
+    reclist:0    };
+var $encrypt_code = "79e6b604319667188b386b505c8a2314";
+&lt;/script&gt;
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__load_js();&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__render_page();&lt;/script&gt;
+
+
+&lt;!-- ALL CODE START--&gt;&lt;!-- SUDA_CODE_START --&gt; 
+&lt;noScript&gt; 
+&lt;div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'&gt;&lt;img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt=''  /&gt;&lt;/div&gt; 
+
+&lt;/noScript&gt; 
+&lt;!-- SUDA_CODE_END --&gt; 
+
+
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/xblogtheme/js/blog680-min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+        var slotArr = ['atcTitLi_SLOT_41', 'atcTitLi_SLOT_42','loginBarActivity']; //广告位id
+        var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
+        SinaBlog680.staticBox(slotArr, sourceArr);
+&lt;/script&gt;
+&lt;/html&gt;
+</head></html>

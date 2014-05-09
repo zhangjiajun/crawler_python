@@ -1,0 +1,1054 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【奥迪品荐二手铃木|奥迪品荐铃木汽车价格】-58同城</title>
+<meta name="keywords" content="奥迪品荐二手铃木，奥迪品荐铃木汽车价格" />
+<meta name="description" content="58同城奥迪品荐二手铃木频道为您提供大量奥迪品荐汽车价格信息，是经过厂商严格审核的奥迪品荐二手铃木信息，是您网上选购二手铃木的最佳选择。" />
+<link rel="stylesheet" href="http://static.58.com/ui7/car/aodi/aodi.css" type="text/css" />
+</head>
+<body>
+<div class="headercon">
+<div id="topbar">
+<div class="topcon">
+<ul>
+<li><a href="javascript:brandZoneNamespace.addBookmark();">收藏本专区</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com">58首页</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com/ershouche/">58二手车</a></li>
+</ul>
+</div>
+</div>
+<div class="header">
+<a href="/" class="logo"><img src="http://pic2.58.com/ui7/car/aodi/logo.png" alt="一汽-大众" width="79" height="16" /></a>
+<ul class="navlist"><!--导航条-->
+<li><a href="/">首页</a></li>
+<li><a href="/jieshao/">关于奥迪品荐</a></li>
+<li><a href="/fuwu/">奥迪品荐服务</a></li>
+<li><a href="/news/">奥迪品荐动态</a></li>
+<li><a href="/ershouche/" class="hover">二手车搜索</a></li>
+<li><a href="/shangjia/">经销商查询</a></li>
+</ul>
+<div class="audi"><a href="/"><img src="http://pic2.58.com/ui7/car/aodi/audi.png" width="143" height="20" alt="突破科技，启迪未来" /></a></div>
+</div>
+</div> <div class="dealerwrap">
+<div class="wrap">
+<div class="selection">
+<dl class="secitem01">
+<dt class="secitem_brand">所在地：</dt>
+<dd>
+<div class="obj-wrapper mr8">
+<div id="dealer-province" class="obj-cate-div">
+<span id="curr-province">选择省份</span>
+</div>
+</div>
+<div class="obj-wrapper">
+<div id="dealer-city" class="obj-cate-div">
+<span id="curr-city">选择城市</span>
+</div>
+</div>
+<input id="carListJinPin" type="hidden" />
+<input id="dealer-search" class="submitbtn" type="button" value="确定" />
+<span id="dealer-meg" class="dealermeg"></span>
+</dd>
+</dl>
+<div class="audidiv">
+<!-- 奥迪 begin  -->
+<dl class="secitem audisection">
+<dt class="secitem_brand">奥迪：&nbsp;&nbsp;&nbsp;&nbsp;</dt>
+<dd id="audi_chexi">
+<a href="http://audi.58.com/aliul/">A6L</a>
+<a href="http://audi.58.com/aodialiu/">A6</a>
+<a href="http://audi.58.com/asil/">A4L</a>
+<a href="http://audi.58.com/aodiqqi/">Q7</a>
+<a href="http://audi.58.com/aodiasi/">A4</a>
+<a href="http://audi.58.com/adabl/">A8L</a>
+<a href="http://audi.58.com/adqw/">Q5</a>
+<a href="http://audi.58.com/aoditt/">TT</a>
+<a href="http://audi.58.com/aodiyibai/">奥迪100</a>
+<a href="http://audi.58.com/aodiawu/">A5</a>
+<a href="http://audi.58.com/aodilb/">奥迪200</a>
+<a href="http://audi.58.com/aodirba/">R8</a>
+<a href="http://audi.58.com/adaljk/">A6(进口)</a>
+<a href="http://audi.58.com/aodiasan/">A3</a>
+<a href="http://audi.58.com/adqwjk/">Q5(进口)</a>
+<a href="http://audi.58.com/aqiqc/">A7</a>
+<a href="http://audi.58.com/aodiswu/">S5</a>
+<a href="http://audi.58.com/qsanqc/">Q3(进口)</a>
+<a href="http://audi.58.com/ayiqc/">A1</a>
+<a href="http://audi.58.com/aodiqsan/">Q3</a>
+<a href="http://audi.58.com/adasjk/">A4(进口)</a>
+</dd>
+</dl>
+<!-- 奥迪end -->
+<dl class="secitem">
+<dt class="secitem_brand">类型：</dt>
+<dd>
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a href="http://audi.58.com/jingjijiaoche/">轿车</a>
+<a href="http://audi.58.com/yeuyeche/">越野车/SUV</a>
+<a href="http://audi.58.com/mpv/">MPV</a>
+<a href="http://audi.58.com/paoche/">跑车</a>
+<a href="http://audi.58.com/keche/">客车</a>
+<a href="http://audi.58.com/mianbaoche/">面包车</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">品牌：</dt>
+<dd class="clearfix">
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a class="select" href="http://audi.58.com/lingmu/">铃木</a>
+<a href="http://audi.58.com/aodi/">奥迪</a>
+<a href="http://audi.58.com/dazhong/">大众</a>
+<a href="http://audi.58.com/bentian/">本田</a>
+<a href="http://audi.58.com/bieke/">别克</a>
+<a href="http://audi.58.com/fengtian/">丰田</a>
+<a href="http://audi.58.com/xiali/">夏利</a>
+<a href="http://audi.58.com/richan/">日产</a>
+<a href="http://audi.58.com/qirui/">奇瑞</a>
+<a href="http://audi.58.com/baoma/">宝马</a>
+<a href="http://audi.58.com/xiandai/">现代</a>
+<a href="http://audi.58.com/mazida/">马自达</a>
+<a href="http://audi.58.com/futianche/">福田</a>
+<a href="http://audi.58.com/biyadi/">比亚迪</a>
+<a href="http://audi.58.com/xuetielong/">雪铁龙</a>
+<a href="http://audi.58.com/jili/">吉利</a>
+<a href="http://audi.58.com/benchi/">奔驰</a>
+<a href="http://audi.58.com/changanche/">长安</a>
+<a href="http://audi.58.com/fute/">福特</a>
+<a href="http://audi.58.com/xuefulan/">雪佛兰</a>
+<a id="moreBrand" name="b_link" para="custom" cl="" href="javascript:void(0)">更多<i class="bak_i_down"></i>
+<!-- &lt;i class="bak_i"&gt;&lt;/i&gt; --></a>
+<div id="moreBrandContainer" class="morepinpai">
+<br /> <a href="http://audi.58.com/jinbei/">金杯</a>
+<a href="http://audi.58.com/qiya/">起亚</a>
+<a href="http://audi.58.com/jianghuai/">江淮</a>
+<a href="http://audi.58.com/biaozhi/">标致</a>
+<a href="http://audi.58.com/jeep/">吉普</a>
+<a href="http://audi.58.com/yiqi/">一汽</a>
+<a href="http://audi.58.com/zhonghua/">中华</a>
+<a href="http://audi.58.com/jinlong/">金龙</a>
+<a href="http://audi.58.com/hafei/">哈飞</a>
+<a href="http://audi.58.com/feiyate/">菲亚特</a>
+<a href="http://audi.58.com/haima/">海马</a>
+<a href="http://audi.58.com/dadi/">长城</a>
+<a href="http://audi.58.com/leikesasi/">雷克萨斯</a>
+<a href="http://audi.58.com/rongwei/">荣威</a>
+<a href="http://audi.58.com/sanling/">三菱</a>
+<a href="http://audi.58.com/sikeda/">斯柯达</a>
+<a href="http://audi.58.com/luhu/">路虎</a>
+<a href="http://audi.58.com/woerwo/">沃尔沃</a>
+<a href="http://audi.58.com/baoshijie/">保时捷</a>
+<a href="http://audi.58.com/baicmotor/">北汽</a>
+<a href="http://audi.58.com/kaidilake/">凯迪拉克</a>
+<a href="http://audi.58.com/minicar/">MINI</a>
+<a href="http://audi.58.com/hongqiche/">红旗</a>
+<a href="http://audi.58.com/benteng/">奔腾</a>
+<a href="http://audi.58.com/lifanc/">力帆</a>
+<a href="http://audi.58.com/oubao/">欧宝</a>
+<a href="http://audi.58.com/cfqc/">长丰</a>
+<a href="http://audi.58.com/dihaoc/">帝豪</a>
+<a href="http://audi.58.com/daoqi/">道奇</a>
+<a href="http://audi.58.com/fengxing/">风行</a>
+<a href="http://audi.58.com/oulangcar/">欧朗</a>
+<a href="http://audi.58.com/qqy/">全球鹰</a>
+<a href="http://audi.58.com/ruiqi/">瑞麒</a>
+<a href="http://audi.58.com/subaru/">斯巴鲁</a>
+<a href="http://audi.58.com/mgc/">MG</a>
+<a href="http://audi.58.com/huatai/">华泰</a>
+<a href="http://audi.58.com/yfnd/">英菲尼迪</a>
+<a href="http://audi.58.com/jiebao/">捷豹</a>
+<a href="http://audi.58.com/dffs/">东风风神</a>
+<a href="http://audi.58.com/xinkai/">新凯</a>
+<a href="http://audi.58.com/yinglun/">英伦</a>
+<a href="http://audi.58.com/zhongtai/">众泰</a>
+<a href="http://audi.58.com/sabo/">萨博</a>
+<a href="http://audi.58.com/lnc/">雷诺</a>
+<a href="http://audi.58.com/nqxyt/">南汽新雅途</a>
+<a href="http://audi.58.com/yyfd/">永源</a>
+<a href="http://audi.58.com/shuanglong/">双龙</a>
+<a href="http://audi.58.com/smartc/">精灵smart</a>
+<a href="http://audi.58.com/ouge/">讴歌</a>
+<a href="http://audi.58.com/linian/">理念</a>
+</div>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">车系：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/lingmu/">不限</a>
+<a href="http://audi.58.com/aotuo/">奥拓</a>
+<a href="http://audi.58.com/beidouxing/">北斗星</a>
+<a href="http://audi.58.com/yuyan/">雨燕</a>
+<a href="http://audi.58.com/sxsilx/">天语SX4两厢</a>
+<a href="http://audi.58.com/tysxsi/">天语SX4三厢</a>
+<a href="http://audi.58.com/jimuni/">吉姆尼</a>
+<a href="http://audi.58.com/tyruiqi/">天语SX4锐骑</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">价格：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/ershouche/">不限</a> <a target="_self" href="http://audi.58.com/lingmu/pve_5864_0_1/">1万以内</a>
+<a target="_self" href="http://audi.58.com/lingmu/pve_5864_1_2/">1-2万</a>
+<a target="_self" href="http://audi.58.com/lingmu/pve_5864_2_3/">2-3万</a>
+<a target="_self" href="http://audi.58.com/lingmu/pve_5864_3_4/">3-4万</a>
+<a target="_self" href="http://audi.58.com/lingmu/pve_5864_4_5/">4-5万</a>
+<a target="_self" href="http://audi.58.com/lingmu/pve_5864_5_999999/">5万以上</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="listcon">
+<div class="list-tit">
+<h3>
+<!--共找到&lt;b&gt;25&lt;/b&gt; 辆车源 -->
+<span class="rz"><label for="checkbox"><input type="checkbox" id="checkbox" class="checkbox" />奥迪认证车</label></span>
+</h3>
+<div class="list-r">
+<span class="pagenow"><b>1</b>/1</span>
+<span class="qiehuan"> <a href=" javascript:void(0)" class="pre gray"></a> <a href=" javascript:void(0)" class="next gray"></a>
+</span> </div>
+</div>
+<div class="area-con01">
+<ul class="arealist">
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17870774137737x.shtml" target="_blank">
+<img title="铃木天语SX4两厢 2010款1.6L自动灵动型两厢 2010年上牌-诚信之品,专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12250182114920008065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17870774137737x.shtml" title="铃木天语SX4两厢 2010款1.6L自动灵动型两厢 2010年上牌-诚信之品,专业之荐" target="_blank">铃木天语SX4两厢 2010款1.6L自动灵动型两厢 2010年上牌-诚信之品,专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										2.64万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京德奥达汽车销售有限公司" href="http://shop.58.com/24514429038758463/">北京德奥达汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sjz.58.com/ershouche/17860956569218x.shtml" target="_blank">
+<img title="铃木奥拓 2009款 1.0L MT豪华型-自家用车,无事故。" src="http://4.pic.58control.cn/p1/small/n_s12248922818694441136.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sjz.58.com/ershouche/17860956569218x.shtml" title="铃木奥拓 2009款 1.0L MT豪华型-自家用车,无事故。" target="_blank">铃木奥拓 2009款 1.0L MT豪华型-自家用车,无事故。</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.78<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河北德联开新汽车贸易有限公司" href="http://shop.58.com/24053541289783571/">河北德联开新汽车贸易有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">石家庄</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zhangzhou.58.com/ershouche/17859723571077x.shtml" target="_blank">
+<img title="铃木天语SX4两厢2011款1.6L自动运动型两厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12248767630396602123.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zhangzhou.58.com/ershouche/17859723571077x.shtml" title="铃木天语SX4两厢2011款1.6L自动运动型两厢-诚信之品，专业之荐" target="_blank">铃木天语SX4两厢2011款1.6L自动运动型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4.90万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="漳州盈众致远汽车销售有限公司" href="http://shop.58.com/24059212722360127/">漳州盈众致远汽车销售有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">漳州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://linfen.58.com/ershouche/17848712274819x.shtml" target="_blank">
+<img title="铃木雨燕 2005款 1.3自动超豪华型-性价比高" src="http://4.pic.58control.cn/p1/small/n_s12229072212247097006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://linfen.58.com/ershouche/17848712274819x.shtml" title="铃木雨燕 2005款 1.3自动超豪华型-性价比高" target="_blank">铃木雨燕 2005款 1.3自动超豪华型-性价比高</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico24" target="_blank" title="原厂质保" href="http://static.58.com/ui7/help/yczb.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="临汾市奥源汽车贸易有限公司" href="http://shop.58.com/24058482292744511/">临汾市奥源汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">临汾</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://pds.58.com/ershouche/17847529221761x.shtml" target="_blank">
+<img title="铃木天语SX4锐骑2012款1.6L自动运动型两厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12247206751407002083.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://pds.58.com/ershouche/17847529221761x.shtml" title="铃木天语SX4锐骑2012款1.6L自动运动型两厢-诚信之品，专业之荐" target="_blank">铃木天语SX4锐骑2012款1.6L自动运动型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										1.63万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.68<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="平顶山市中瑞汽车销售服务有限公司" href="http://shop.58.com/24058709875362068/">平顶山市中瑞汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">平顶山</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17837201809288x.shtml" target="_blank">
+<img title="铃木北斗星2004款1手动CH7100A经济型EC-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02245884794112713094.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17837201809288x.shtml" title="铃木北斗星2004款1手动CH7100A经济型EC-诚信之品，专业之荐" target="_blank">铃木北斗星2004款1手动CH7100A经济型EC-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2004年上牌 </span><span class="gap">|</span>
+										13.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 1.90<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京天润汽车贸易服务有限公司" href="http://shop.58.com/24063855449984788/">北京天润汽车贸易服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hz.58.com/ershouche/17836513951363x.shtml" target="_blank">
+<img title="铃木雨燕2010款1.3L自动超值版两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12245796812358498015.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hz.58.com/ershouche/17836513951363x.shtml" title="铃木雨燕2010款1.3L自动超值版两厢-诚信之品，专业之荐" target="_blank">铃木雨燕2010款1.3L自动超值版两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										2.49万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="浙江奥达通汽车销售有限公司" href="http://shop.58.com/24231299130205203/">浙江奥达通汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">杭州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zz.58.com/ershouche/17835306423818x.shtml" target="_blank">
+<img title="铃木北斗星 2008款1.4手动CH7140STD两 2010年上牌-河南丰之元奥迪品荐二手车" src="http://1.pic.58control.cn/p1/small/n_s12245687398386291105.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zz.58.com/ershouche/17835306423818x.shtml" title="铃木北斗星 2008款1.4手动CH7140STD两 2010年上牌-河南丰之元奥迪品荐二手车" target="_blank">铃木北斗星 2008款1.4手动CH7140STD两 2010年上牌-河南丰之元奥迪品荐二手车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										2.90万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.38<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河南丰之元汽车销售服务有限公司" href="http://shop.58.com/24232572933354515/">河南丰之元汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">郑州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://fz.58.com/ershouche/17829221000325x.shtml" target="_blank">
+<img title="铃木天语SX4两厢2011款1.6L自动舒适型两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244863182161905065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://fz.58.com/ershouche/17829221000325x.shtml" title="铃木天语SX4两厢2011款1.6L自动舒适型两厢-诚信之品，专业之荐" target="_blank">铃木天语SX4两厢2011款1.6L自动舒适型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										2.55万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.38<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="福建省润通汽车销售服务有限公司" href="http://shop.58.com/24058755938417215/">福建省润通汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">福州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nb.58.com/ershouche/17828843487624x.shtml" target="_blank">
+<img title="铃木天语SX4两厢2011款1.6L自动灵动型两厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02244815031586757155.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nb.58.com/ershouche/17828843487624x.shtml" title="铃木天语SX4两厢2011款1.6L自动灵动型两厢-诚信之品，专业之荐" target="_blank">铃木天语SX4两厢2011款1.6L自动灵动型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										6.21万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宁波恒迪汽车销售服务有限公司" href="http://shop.58.com/24055766923726612/">宁波恒迪汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">宁波</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828652924289x.shtml" target="_blank">
+<img title="铃木天语SX4两厢2007款1.6自动运动休旅款两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02244790428075179016.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828652924289x.shtml" title="铃木天语SX4两厢2007款1.6自动运动休旅款两厢-诚信之品，专业之荐" target="_blank">铃木天语SX4两厢2007款1.6自动运动休旅款两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										6.24万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.40<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京奥之旅汽车销售服务有限公司" href="http://shop.58.com/8376235225857/">北京奥之旅汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828249860871x.shtml" target="_blank">
+<img title="铃木天语SX4三厢2009款1.6手动精英型三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02244738946155494006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828249860871x.shtml" title="铃木天语SX4三厢2009款1.6手动精英型三厢-诚信之品，专业之荐" target="_blank">铃木天语SX4三厢2009款1.6手动精英型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										2.70万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京华阳奥通汽车有限公司" href="http://shop.58.com/24058481294125588/">北京华阳奥通汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828040012421x.shtml" target="_blank">
+<img title="铃木奥拓1992款0.8手动小王子双气囊电喷两厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02244712151616331083.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828040012421x.shtml" title="铃木奥拓1992款0.8手动小王子双气囊电喷两厢-诚信之品，专业之荐" target="_blank">铃木奥拓1992款0.8手动小王子双气囊电喷两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2003年上牌 </span><span class="gap">|</span>
+										18.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 2.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京奥嘉世茂汽车销售服务有限公司" href="http://shop.58.com/24056114668212287/">北京奥嘉世茂汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17827899058570x.shtml" target="_blank">
+<img title="铃木天语SX4三厢2010款1.6自动超值版三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244694125284913124.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17827899058570x.shtml" title="铃木天语SX4三厢2010款1.6自动超值版三厢-诚信之品，专业之荐" target="_blank">铃木天语SX4三厢2010款1.6自动超值版三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										3.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.75<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京名尊奥翔汽车销售有限公司" href="http://shop.58.com/24063941983958804/">北京名尊奥翔汽车销售有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17827694999559x.shtml" target="_blank">
+<img title="铃木雨燕2005款1.3手动舒适型两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02244667743014692126.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17827694999559x.shtml" title="铃木雨燕2005款1.3手动舒适型两厢-诚信之品，专业之荐" target="_blank">铃木雨燕2005款1.3手动舒适型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										10.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 2.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京国服信汽车贸易有限公司" href="http://shop.58.com/16426494889473/">北京国服信汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17824425896581x.shtml" target="_blank">
+<img title="铃木雨燕 2005款 1.3手动舒适型-国服信奥兴奥迪二手车,品质保证" src="http://1.pic.58control.cn/p1/small/n_s12244247977480363153.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17824425896581x.shtml" title="铃木雨燕 2005款 1.3手动舒适型-国服信奥兴奥迪二手车,品质保证" target="_blank">铃木雨燕 2005款 1.3手动舒适型-国服信奥兴奥迪二手车,品质保证</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京国服信汽车贸易有限公司" href="http://shop.58.com/16426494889473/">北京国服信汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://fs.58.com/ershouche/17813819863433x.shtml" target="_blank">
+<img title="铃木雨燕 2010款 1.5冠军限量版 AT-自家用车,无事故,上下班代步车" src="http://3.pic.58control.cn/p1/small/n_s12242887575916092134.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://fs.58.com/ershouche/17813819863433x.shtml" title="铃木雨燕 2010款 1.5冠军限量版 AT-自家用车,无事故,上下班代步车" target="_blank">铃木雨燕 2010款 1.5冠军限量版 AT-自家用车,无事故,上下班代步车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.88<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="佛山德冠协力汽车贸易有限公司" href="http://shop.58.com/24061332835632447/">佛山德冠协力汽车贸易有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">佛山</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17783046579466x.shtml" target="_blank">
+<img title="铃木天语SX4两厢 2009款 1.6L 运动型 AT-" src="http://3.pic.58control.cn/p1/small/n_s12238951323389043103.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17783046579466x.shtml" title="铃木天语SX4两厢 2009款 1.6L 运动型 AT" target="_blank">铃木天语SX4两厢 2009款 1.6L 运动型 AT</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										6.19万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.4<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京奥之旅汽车销售服务有限公司" href="http://shop.58.com/8376235225857/">北京奥之旅汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://qz.58.com/ershouche/17772154210177x.shtml" target="_blank">
+<img title="铃木天语SX4三厢 2007款 三厢 1.8L 手动豪华型 2007年上牌-车辆佳.无任何事故" src="http://1.pic.58control.cn/p1/small/n_s02237544910243160025.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://qz.58.com/ershouche/17772154210177x.shtml" title="铃木天语SX4三厢 2007款 三厢 1.8L 手动豪华型 2007年上牌-车辆佳.无任何事故" target="_blank">铃木天语SX4三厢 2007款 三厢 1.8L 手动豪华型 2007年上牌-车辆佳.无任何事故</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										13万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.6<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="泉州华奥汽车销售服务有限公司" href="http://shop.58.com/24056819848197396/">泉州华奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">泉州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wx.58.com/ershouche/17692686465674x.shtml" target="_blank">
+<img title="铃木天语SX4两厢 2011款 改款1.8L运动型 AT-德尔奥迪品荐二手车" src="http://3.pic.58control.cn/p1/small/n_s12227386230049852095.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wx.58.com/ershouche/17692686465674x.shtml" title="铃木天语SX4两厢 2011款 改款1.8L运动型 AT-德尔奥迪品荐二手车" target="_blank">铃木天语SX4两厢 2011款 改款1.8L运动型 AT-德尔奥迪品荐二手车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="无锡德尔汽车有限公司" href="http://shop.58.com/24232372459016468/">无锡德尔汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">无锡</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bt.58.com/ershouche/17670638150022x.shtml" target="_blank">
+<img title="铃木吉姆尼 2011款 1.3 自动单色导航版GPS-时尚个性外观和越野性能" src="http://1.pic.58control.cn/p1/small/n_s12224562713250161066.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bt.58.com/ershouche/17670638150022x.shtml" title="铃木吉姆尼 2011款 1.3 自动单色导航版GPS-时尚个性外观和越野性能" target="_blank">铃木吉姆尼 2011款 1.3 自动单色导航版GPS-时尚个性外观和越野性能</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4.3万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="内蒙古新奥捷汽车销售服务有限公司" href="http://shop.58.com/24059254525414420/">内蒙古新奥捷汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">包头</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hd.58.com/ershouche/17638704807811x.shtml" target="_blank">
+<img title="铃木雨燕 2005款 1.3手动豪华型-无事故,价格公道,经济型家用车" src="http://2.pic.58control.cn/p1/small/n_s12220461392545040036.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hd.58.com/ershouche/17638704807811x.shtml" title="铃木雨燕 2005款 1.3手动豪华型-无事故,价格公道,经济型家用车" target="_blank">铃木雨燕 2005款 1.3手动豪华型-无事故,价格公道,经济型家用车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										3.83万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="邯郸市奥华汽车销售服务有限公司" href="http://shop.58.com/24060438535598143/">邯郸市奥华汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">邯郸</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hu.58.com/ershouche/17636480670467x.shtml" target="_blank">
+<img title="铃木天语SX4两厢 2009款 1.6L 时尚型 MT-车况非常好" src="http://3.pic.58control.cn/p1/small/n_s12220191633885822083.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hu.58.com/ershouche/17636480670467x.shtml" title="铃木天语SX4两厢 2009款 1.6L 时尚型 MT-车况非常好" target="_blank">铃木天语SX4两厢 2009款 1.6L 时尚型 MT-车况非常好</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										8万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="内蒙古奥捷汽车销售有限公司" href="http://shop.58.com/24058555447616276/">内蒙古奥捷汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">呼和浩特</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17627993462794x.shtml" target="_blank">
+<img title="铃木天语SX4两厢 2009款 1.6L 运动型 MT-新丰泰博奥【奥迪品荐二手车】" src="http://3.pic.58control.cn/p1/small/n_s12219105557498277096.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17627993462794x.shtml" title="铃木天语SX4两厢 2009款 1.6L 运动型 MT-新丰泰博奥【奥迪品荐二手车】" target="_blank">铃木天语SX4两厢 2009款 1.6L 运动型 MT-新丰泰博奥【奥迪品荐二手车】</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										7.1万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.2<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西新丰泰博奥汽车有限责任公司" href="http://shop.58.com/24231174431519763/">陕西新丰泰博奥汽车有限责…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jining.58.com/ershouche/17616346942982x.shtml" target="_blank">
+<img title="铃木天语SX4两厢 2010款 1.6L 冠军限量版 MT-私家一手好车,车况极好。" src="http://3.pic.58control.cn/p1/small/n_s12217612603839374164.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jining.58.com/ershouche/17616346942982x.shtml" title="铃木天语SX4两厢 2010款 1.6L 冠军限量版 MT-私家一手好车,车况极好。" target="_blank">铃木天语SX4两厢 2010款 1.6L 冠军限量版 MT-私家一手好车,车况极好。</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										4.42万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.68<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="济宁裕华汽车销售服务有限公司" href="http://shop.58.com/24056951579297812/">济宁裕华汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">济宁</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="pagerout">
+<div class="pager">
+<strong><span>1</span></strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+		24小时客户关怀热线：400-8171-888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0431-85990888<br />
+		©58.com
+	</div>
+<div class="floatbar">
+<div class="liulan">
+<i class="bar01"></i>
+<div id="myfeetBox" class="hc">
+<ul id="feet_listLs">
+<h4 class="category">最近浏览的信息</h4>
+</ul>
+</div>
+</div>
+<a href="http://my.58.com/shoucangjianli/" id="collection" target="_blank"><i class="bar02"></i></a> <a href="#top"><i class="bar03"></i></a>
+</div>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/getcookie.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi_brandzone.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi.js"></script>
+<script type="text/javascript">
+		$(function() {
+			$('.liulan').hover(
+					function() {
+						$(this).addClass('hover');
+						$('#myfeetBox').show();
+						var container = document.getElementById("feet_listLs");
+						brandZoneNamespace.docookieFunction("final_history",
+								container);
+					}, function() {
+						$(this).removeClass('hover');
+						$('#myfeetBox').hide();
+					})
+		})
+		brandZoneNamespace.brandListEvent().fastSelectLevel().listMorebrand()
+				.dealerSearch().renZhengCar();
+	</script>
+<script type="text/javascript">
+		var achexi = $("#audi_chexi").find("a");
+		var url = window.location.href;
+		for(var i = 0 ; i &lt; achexi.length ; i++){
+			var $item =$(achexi[i]);
+			if($item.attr("href") == url){
+				$item.addClass("select");
+			}
+		}
+							
+	</script>
+<script type="text/javascript">
+		var _gaq = _gaq || [];
+		var site_name = "58";
+		var _trackURL = "{'cate':'29','area':'','pagetype':'list','class':'ershouche'}";
+		_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+		_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+		_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+		_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+		_gaq.push([ 'pageTracker._trackPageview',
+				'/car/ershouche/audi/ershouche/' ]);
+		$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+				: 'http://www')
+				+ '.google-analytics.com/ga.js');
+		$.getScript('http://tracklog.58.com/referrer4.js');
+	</script>
+</body>
+</html>

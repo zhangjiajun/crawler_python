@@ -1,0 +1,1498 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【奥迪品荐二手福特|奥迪品荐福特汽车价格】-58同城</title>
+<meta name="keywords" content="奥迪品荐二手福特，奥迪品荐福特汽车价格" />
+<meta name="description" content="58同城奥迪品荐二手福特频道为您提供大量奥迪品荐汽车价格信息，是经过厂商严格审核的奥迪品荐二手福特信息，是您网上选购二手福特的最佳选择。" />
+<link rel="stylesheet" href="http://static.58.com/ui7/car/aodi/aodi.css" type="text/css" />
+</head>
+<body>
+<div class="headercon">
+<div id="topbar">
+<div class="topcon">
+<ul>
+<li><a href="javascript:brandZoneNamespace.addBookmark();">收藏本专区</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com">58首页</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com/ershouche/">58二手车</a></li>
+</ul>
+</div>
+</div>
+<div class="header">
+<a href="/" class="logo"><img src="http://pic2.58.com/ui7/car/aodi/logo.png" alt="一汽-大众" width="79" height="16" /></a>
+<ul class="navlist"><!--导航条-->
+<li><a href="/">首页</a></li>
+<li><a href="/jieshao/">关于奥迪品荐</a></li>
+<li><a href="/fuwu/">奥迪品荐服务</a></li>
+<li><a href="/news/">奥迪品荐动态</a></li>
+<li><a href="/ershouche/" class="hover">二手车搜索</a></li>
+<li><a href="/shangjia/">经销商查询</a></li>
+</ul>
+<div class="audi"><a href="/"><img src="http://pic2.58.com/ui7/car/aodi/audi.png" width="143" height="20" alt="突破科技，启迪未来" /></a></div>
+</div>
+</div> <div class="dealerwrap">
+<div class="wrap">
+<div class="selection">
+<dl class="secitem01">
+<dt class="secitem_brand">所在地：</dt>
+<dd>
+<div class="obj-wrapper mr8">
+<div id="dealer-province" class="obj-cate-div">
+<span id="curr-province">选择省份</span>
+</div>
+</div>
+<div class="obj-wrapper">
+<div id="dealer-city" class="obj-cate-div">
+<span id="curr-city">选择城市</span>
+</div>
+</div>
+<input id="carListJinPin" type="hidden" />
+<input id="dealer-search" class="submitbtn" type="button" value="确定" />
+<span id="dealer-meg" class="dealermeg"></span>
+</dd>
+</dl>
+<div class="audidiv">
+<!-- 奥迪 begin  -->
+<dl class="secitem audisection">
+<dt class="secitem_brand">奥迪：&nbsp;&nbsp;&nbsp;&nbsp;</dt>
+<dd id="audi_chexi">
+<a href="http://audi.58.com/aliul/">A6L</a>
+<a href="http://audi.58.com/aodialiu/">A6</a>
+<a href="http://audi.58.com/asil/">A4L</a>
+<a href="http://audi.58.com/aodiqqi/">Q7</a>
+<a href="http://audi.58.com/aodiasi/">A4</a>
+<a href="http://audi.58.com/adabl/">A8L</a>
+<a href="http://audi.58.com/adqw/">Q5</a>
+<a href="http://audi.58.com/aoditt/">TT</a>
+<a href="http://audi.58.com/aodiyibai/">奥迪100</a>
+<a href="http://audi.58.com/aodiawu/">A5</a>
+<a href="http://audi.58.com/aodilb/">奥迪200</a>
+<a href="http://audi.58.com/aodirba/">R8</a>
+<a href="http://audi.58.com/adaljk/">A6(进口)</a>
+<a href="http://audi.58.com/aodiasan/">A3</a>
+<a href="http://audi.58.com/adqwjk/">Q5(进口)</a>
+<a href="http://audi.58.com/aqiqc/">A7</a>
+<a href="http://audi.58.com/aodiswu/">S5</a>
+<a href="http://audi.58.com/qsanqc/">Q3(进口)</a>
+<a href="http://audi.58.com/ayiqc/">A1</a>
+<a href="http://audi.58.com/aodiqsan/">Q3</a>
+<a href="http://audi.58.com/adasjk/">A4(进口)</a>
+</dd>
+</dl>
+<!-- 奥迪end -->
+<dl class="secitem">
+<dt class="secitem_brand">类型：</dt>
+<dd>
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a href="http://audi.58.com/jingjijiaoche/">轿车</a>
+<a href="http://audi.58.com/yeuyeche/">越野车/SUV</a>
+<a href="http://audi.58.com/mpv/">MPV</a>
+<a href="http://audi.58.com/paoche/">跑车</a>
+<a href="http://audi.58.com/keche/">客车</a>
+<a href="http://audi.58.com/mianbaoche/">面包车</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">品牌：</dt>
+<dd class="clearfix">
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a class="select" href="http://audi.58.com/fute/">福特</a>
+<a href="http://audi.58.com/aodi/">奥迪</a>
+<a href="http://audi.58.com/dazhong/">大众</a>
+<a href="http://audi.58.com/bentian/">本田</a>
+<a href="http://audi.58.com/bieke/">别克</a>
+<a href="http://audi.58.com/fengtian/">丰田</a>
+<a href="http://audi.58.com/xiali/">夏利</a>
+<a href="http://audi.58.com/richan/">日产</a>
+<a href="http://audi.58.com/qirui/">奇瑞</a>
+<a href="http://audi.58.com/baoma/">宝马</a>
+<a href="http://audi.58.com/xiandai/">现代</a>
+<a href="http://audi.58.com/mazida/">马自达</a>
+<a href="http://audi.58.com/futianche/">福田</a>
+<a href="http://audi.58.com/biyadi/">比亚迪</a>
+<a href="http://audi.58.com/lingmu/">铃木</a>
+<a href="http://audi.58.com/xuetielong/">雪铁龙</a>
+<a href="http://audi.58.com/jili/">吉利</a>
+<a href="http://audi.58.com/benchi/">奔驰</a>
+<a href="http://audi.58.com/changanche/">长安</a>
+<a href="http://audi.58.com/xuefulan/">雪佛兰</a>
+<a id="moreBrand" name="b_link" para="custom" cl="" href="javascript:void(0)">更多<i class="bak_i_down"></i>
+<!-- &lt;i class="bak_i"&gt;&lt;/i&gt; --></a>
+<div id="moreBrandContainer" class="morepinpai">
+<br /> <a href="http://audi.58.com/jinbei/">金杯</a>
+<a href="http://audi.58.com/qiya/">起亚</a>
+<a href="http://audi.58.com/jianghuai/">江淮</a>
+<a href="http://audi.58.com/biaozhi/">标致</a>
+<a href="http://audi.58.com/jeep/">吉普</a>
+<a href="http://audi.58.com/yiqi/">一汽</a>
+<a href="http://audi.58.com/zhonghua/">中华</a>
+<a href="http://audi.58.com/jinlong/">金龙</a>
+<a href="http://audi.58.com/hafei/">哈飞</a>
+<a href="http://audi.58.com/feiyate/">菲亚特</a>
+<a href="http://audi.58.com/haima/">海马</a>
+<a href="http://audi.58.com/dadi/">长城</a>
+<a href="http://audi.58.com/leikesasi/">雷克萨斯</a>
+<a href="http://audi.58.com/rongwei/">荣威</a>
+<a href="http://audi.58.com/sanling/">三菱</a>
+<a href="http://audi.58.com/sikeda/">斯柯达</a>
+<a href="http://audi.58.com/luhu/">路虎</a>
+<a href="http://audi.58.com/woerwo/">沃尔沃</a>
+<a href="http://audi.58.com/baoshijie/">保时捷</a>
+<a href="http://audi.58.com/baicmotor/">北汽</a>
+<a href="http://audi.58.com/kaidilake/">凯迪拉克</a>
+<a href="http://audi.58.com/minicar/">MINI</a>
+<a href="http://audi.58.com/hongqiche/">红旗</a>
+<a href="http://audi.58.com/benteng/">奔腾</a>
+<a href="http://audi.58.com/lifanc/">力帆</a>
+<a href="http://audi.58.com/oubao/">欧宝</a>
+<a href="http://audi.58.com/cfqc/">长丰</a>
+<a href="http://audi.58.com/dihaoc/">帝豪</a>
+<a href="http://audi.58.com/daoqi/">道奇</a>
+<a href="http://audi.58.com/fengxing/">风行</a>
+<a href="http://audi.58.com/oulangcar/">欧朗</a>
+<a href="http://audi.58.com/qqy/">全球鹰</a>
+<a href="http://audi.58.com/ruiqi/">瑞麒</a>
+<a href="http://audi.58.com/subaru/">斯巴鲁</a>
+<a href="http://audi.58.com/mgc/">MG</a>
+<a href="http://audi.58.com/huatai/">华泰</a>
+<a href="http://audi.58.com/yfnd/">英菲尼迪</a>
+<a href="http://audi.58.com/jiebao/">捷豹</a>
+<a href="http://audi.58.com/dffs/">东风风神</a>
+<a href="http://audi.58.com/xinkai/">新凯</a>
+<a href="http://audi.58.com/yinglun/">英伦</a>
+<a href="http://audi.58.com/zhongtai/">众泰</a>
+<a href="http://audi.58.com/sabo/">萨博</a>
+<a href="http://audi.58.com/lnc/">雷诺</a>
+<a href="http://audi.58.com/nqxyt/">南汽新雅途</a>
+<a href="http://audi.58.com/yyfd/">永源</a>
+<a href="http://audi.58.com/shuanglong/">双龙</a>
+<a href="http://audi.58.com/smartc/">精灵smart</a>
+<a href="http://audi.58.com/ouge/">讴歌</a>
+<a href="http://audi.58.com/linian/">理念</a>
+</div>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">车系：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/fute/">不限</a>
+<a href="http://audi.58.com/fkslx/">福克斯两厢</a>
+<a href="http://audi.58.com/fkssx/">福克斯三厢</a>
+<a href="http://audi.58.com/mengdiou/">蒙迪欧</a>
+<a href="http://audi.58.com/mdozs/">蒙迪欧-致胜</a>
+<a href="http://audi.58.com/jnihua/">嘉年华三厢</a>
+<a href="http://audi.58.com/jianianhua/">嘉年华两厢</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">价格：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/ershouche/">不限</a> <a target="_self" href="http://audi.58.com/fute/pve_5864_0_3/">3万以内</a>
+<a target="_self" href="http://audi.58.com/fute/pve_5864_3_4/">3-4万</a>
+<a target="_self" href="http://audi.58.com/fute/pve_5864_4_5/">4-5万</a>
+<a target="_self" href="http://audi.58.com/fute/pve_5864_5_6/">5-6万</a>
+<a target="_self" href="http://audi.58.com/fute/pve_5864_6_7/">6-7万</a>
+<a target="_self" href="http://audi.58.com/fute/pve_5864_7_8/">7-8万</a>
+<a target="_self" href="http://audi.58.com/fute/pve_5864_8_9/">8-9万</a>
+<a target="_self" href="http://audi.58.com/fute/pve_5864_9_999999/">9万以上</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="listcon">
+<div class="list-tit">
+<h3>
+<!--共找到&lt;b&gt;73&lt;/b&gt; 辆车源 -->
+<span class="rz"><label for="checkbox"><input type="checkbox" id="checkbox" class="checkbox" />奥迪认证车</label></span>
+</h3>
+<div class="list-r">
+<span class="pagenow"><b>1</b>/2</span>
+<span class="qiehuan"> <a href=" javascript:void(0)" class="pre gray"></a> <a href="http://audi.58.com/fute/pn2/" class="next "></a>
+</span> </div>
+</div>
+<div class="area-con01">
+<ul class="arealist">
+<li>
+<div class="g_img"><span>
+<a href="http://zhuzhou.58.com/ershouche/17870616615306x.shtml" target="_blank">
+<img title="福特福克斯三厢 2006款1.8手自一体时尚型-车况很好,无任何大事故" src="http://3.pic.58control.cn/p1/small/n_s02250158976501897065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zhuzhou.58.com/ershouche/17870616615306x.shtml" title="福特福克斯三厢 2006款1.8手自一体时尚型-车况很好,无任何大事故" target="_blank">福特福克斯三厢 2006款1.8手自一体时尚型-车况很好,无任何大事故</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										11.7万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.8<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="株洲湘奥汽车销售服务有限公司" href="http://shop.58.com/26253713813309972/">株洲湘奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">株洲</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17870297064457x.shtml" target="_blank">
+<img title="福特蒙迪欧-致胜 2007款 2.3 至尊型-诚信之品,专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12250121071379117015.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17870297064457x.shtml" title="福特蒙迪欧-致胜 2007款 2.3 至尊型-诚信之品,专业之荐" target="_blank">福特蒙迪欧-致胜 2007款 2.3 至尊型-诚信之品,专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										9.27万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.60<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京德奥达汽车销售有限公司" href="http://shop.58.com/24514429038758463/">北京德奥达汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17869589414406x.shtml" target="_blank">
+<img title="福特福克斯三厢2009款 1.8 AT豪华型-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12250030505919056025.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17869589414406x.shtml" title="福特福克斯三厢2009款 1.8 AT豪华型-诚信之品，专业之荐" target="_blank">福特福克斯三厢2009款 1.8 AT豪华型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										10.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广东粤奥汽车销售服务有限公司" href="http://shop.58.com/24055900294764095/">广东粤奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17828650127361x.shtml" target="_blank">
+<img title="福特福克斯两厢2007款 两厢 2.0AT运动版-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12245713295328566023.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17828650127361x.shtml" title="福特福克斯两厢2007款 两厢 2.0AT运动版-诚信之品，专业之荐" target="_blank">福特福克斯两厢2007款 两厢 2.0AT运动版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										7.04万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.58<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海永达汽车浦东销售服务有限公司" href="http://shop.58.com/24059840224410687/">上海永达汽车浦东销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17848674211338x.shtml" target="_blank">
+<img title="福特蒙迪欧-致胜2010款 2.3 豪华型-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247353308515900125.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17848674211338x.shtml" title="福特蒙迪欧-致胜2010款 2.3 豪华型-诚信之品，专业之荐" target="_blank">福特蒙迪欧-致胜2010款 2.3 豪华型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										11.70万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.18<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海永达汽车浦东销售服务有限公司" href="http://shop.58.com/24059840224410687/">上海永达汽车浦东销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zz.58.com/ershouche/17861584318470x.shtml" target="_blank">
+<img title="福特福克斯两厢 2010款1.8手动经典型两厢 2011年上牌-河南丰之元奥迪品荐二手车" src="http://3.pic.58control.cn/p1/small/n_s12250235223935294063.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zz.58.com/ershouche/17861584318470x.shtml" title="福特福克斯两厢 2010款1.8手动经典型两厢 2011年上牌-河南丰之元奥迪品荐二手车" target="_blank">福特福克斯两厢 2010款1.8手动经典型两厢 2011年上牌-河南丰之元奥迪品荐二手车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										10.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.88<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河南丰之元汽车销售服务有限公司" href="http://shop.58.com/24232572933354515/">河南丰之元汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">郑州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://lishui.58.com/ershouche/17861263844358x.shtml" target="_blank">
+<img title="福特福克斯两厢2007款1.8自动时尚型两厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12248964829054752055.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://lishui.58.com/ershouche/17861263844358x.shtml" title="福特福克斯两厢2007款1.8自动时尚型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2007款1.8自动时尚型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										5.56万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="丽水市嘉诚汽车销售有限公司" href="http://shop.58.com/24058040189848639/">丽水市嘉诚汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">丽水</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xz.58.com/ershouche/17861234272646x.shtml" target="_blank">
+<img title="福特嘉年华两厢2011款1.5自动时尚版两厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02248960989595824086.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xz.58.com/ershouche/17861234272646x.shtml" title="福特嘉年华两厢2011款1.5自动时尚版两厢-诚信之品，专业之荐" target="_blank">福特嘉年华两厢2011款1.5自动时尚版两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										1.60万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="徐州沪彭东源汽车销售服务有限公司" href="http://shop.58.com/24063385084371732/">徐州沪彭东源汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">徐州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://cz.58.com/ershouche/17859844166913x.shtml" target="_blank">
+<img title="福特福克斯两厢2010款1.8手动舒适型两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12248783072366454156.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://cz.58.com/ershouche/17859844166913x.shtml" title="福特福克斯两厢2010款1.8手动舒适型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2010款1.8手动舒适型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.83万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.90<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="常州上瑞凯迪汽车销售服务有限公司" href="http://shop.58.com/24055027061988884/">常州上瑞凯迪汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">常州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://yz.58.com/ershouche/17858774085898x.shtml" target="_blank">
+<img title="福特福克斯两厢2012款 两厢1.6 AT舒适型-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12248646070342085156.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://yz.58.com/ershouche/17858774085898x.shtml" title="福特福克斯两厢2012款 两厢1.6 AT舒适型-诚信之品，专业之荐" target="_blank">福特福克斯两厢2012款 两厢1.6 AT舒适型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										7.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 11.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="江苏金澳汽车销售服务有限公司" href="http://shop.58.com/24061987763757119/">江苏金澳汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">扬州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jining.58.com/ershouche/17848996515463x.shtml" target="_blank">
+<img title="福特福克斯三厢 2006款1.8MT舒适型-裕华二手车,精品奉献" src="http://1.pic.58control.cn/p1/small/n_s12247393858848502036.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jining.58.com/ershouche/17848996515463x.shtml" title="福特福克斯三厢 2006款1.8MT舒适型-裕华二手车,精品奉献" target="_blank">福特福克斯三厢 2006款1.8MT舒适型-裕华二手车,精品奉献</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										18.5万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.88<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="济宁裕华汽车销售服务有限公司" href="http://shop.58.com/24056951579297812/">济宁裕华汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">济宁</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17849133440385x.shtml" target="_blank">
+<img title="福特福克斯两厢2007款1.8自动时尚型两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247412117701663023.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17849133440385x.shtml" title="福特福克斯两厢2007款1.8自动时尚型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2007款1.8自动时尚型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										8.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京正德永成汽车贸易服务有限公司" href="http://shop.58.com/24061817907357247/">北京正德永成汽车贸易服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nj.58.com/ershouche/17838812163465x.shtml" target="_blank">
+<img title="福特福克斯两厢2011款 1.8 MT舒适型-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12246090999923985033.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nj.58.com/ershouche/17838812163465x.shtml" title="福特福克斯两厢2011款 1.8 MT舒适型-诚信之品，专业之荐" target="_blank">福特福克斯两厢2011款 1.8 MT舒适型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										4.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.40<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="南京恒岳汽车销售服务有限公司" href="http://shop.58.com/24232663194475796/">南京恒岳汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hf.58.com/ershouche/17838567353224x.shtml" target="_blank">
+<img title="福特嘉年华两厢2009款 两厢 1.5自动时尚型-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12246059683580931105.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hf.58.com/ershouche/17838567353224x.shtml" title="福特嘉年华两厢2009款 两厢 1.5自动时尚型-诚信之品，专业之荐" target="_blank">福特嘉年华两厢2009款 两厢 1.5自动时尚型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										4.70万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.40<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="安徽奥祥汽车销售服务有限公司" href="http://shop.58.com/24062251607392532/">安徽奥祥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">合肥</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17837725679881x.shtml" target="_blank">
+<img title="福特福克斯两厢2009款1.8自动时尚型两厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12245951833081996076.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17837725679881x.shtml" title="福特福克斯两厢2009款1.8自动时尚型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2009款1.8自动时尚型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										5.70万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京天润汽车贸易服务有限公司" href="http://shop.58.com/24063855449984788/">北京天润汽车贸易服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://tj.58.com/ershouche/17837602427655x.shtml" target="_blank">
+<img title="福特福克斯两厢2009款1.8自动时尚型两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12245936184233851144.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://tj.58.com/ershouche/17837602427655x.shtml" title="福特福克斯两厢2009款1.8自动时尚型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2009款1.8自动时尚型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										3.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.28<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="天津捷世丰汽车销售服务有限公司" href="http://shop.58.com/24061633234207764/">天津捷世丰汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">天津</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://qz.58.com/ershouche/17837231558917x.shtml" target="_blank">
+<img title="福特蒙迪欧-致胜2011款 时尚型-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12245888695324345124.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://qz.58.com/ershouche/17837231558917x.shtml" title="福特蒙迪欧-致胜2011款 时尚型-诚信之品，专业之荐" target="_blank">福特蒙迪欧-致胜2011款 时尚型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										8.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 11.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="福建盈众汽车有限公司" href="http://shop.58.com/24054784905886740/">福建盈众汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">泉州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://qz.58.com/ershouche/17836854097154x.shtml" target="_blank">
+<img title="福特福克斯三厢2009款 1.8 AT时尚型-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02245840370125713113.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://qz.58.com/ershouche/17836854097154x.shtml" title="福特福克斯三厢2009款 1.8 AT时尚型-诚信之品，专业之荐" target="_blank">福特福克斯三厢2009款 1.8 AT时尚型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										6.01万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="福建盈众汽车有限公司" href="http://shop.58.com/24054784905886740/">福建盈众汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">泉州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sz.58.com/ershouche/17836733517320x.shtml" target="_blank">
+<img title="福特蒙迪欧-致胜2011款 时尚型-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12245824934366320103.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sz.58.com/ershouche/17836733517320x.shtml" title="福特蒙迪欧-致胜2011款 时尚型-诚信之品，专业之荐" target="_blank">福特蒙迪欧-致胜2011款 时尚型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										3.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 14.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="深圳鹏峰奥星汽车有限公司" href="http://shop.58.com/24057056859972115/">深圳鹏峰奥星汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">深圳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17836772332035x.shtml" target="_blank">
+<img title="福特福克斯两厢2007款1.8自动时尚型两厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02245829836853036124.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17836772332035x.shtml" title="福特福克斯两厢2007款1.8自动时尚型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2007款1.8自动时尚型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										12.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京东方华奥汽车服务销售有限公司" href="http://shop.58.com/24058837405047828/">北京东方华奥汽车服务销售…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17836753187973x.shtml" target="_blank">
+<img title="福特福克斯三厢2007款1.8手动经典型三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12245827339520883113.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17836753187973x.shtml" title="福特福克斯三厢2007款1.8手动经典型三厢-诚信之品，专业之荐" target="_blank">福特福克斯三厢2007款1.8手动经典型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										8.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京天润汽车贸易服务有限公司" href="http://shop.58.com/24063855449984788/">北京天润汽车贸易服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hz.58.com/ershouche/17836484511747x.shtml" target="_blank">
+<img title="福特福克斯三厢2007款1.8手动经典型三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12245793063732115026.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hz.58.com/ershouche/17836484511747x.shtml" title="福特福克斯三厢2007款1.8手动经典型三厢-诚信之品，专业之荐" target="_blank">福特福克斯三厢2007款1.8手动经典型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										4.63万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.08<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="浙江奥达通汽车销售有限公司" href="http://shop.58.com/24231299130205203/">浙江奥达通汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">杭州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wh.58.com/ershouche/17829187860871x.shtml" target="_blank">
+<img title="福特福克斯两厢2009款1.8自动时尚型两厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12244859113440246024.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wh.58.com/ershouche/17829187860871x.shtml" title="福特福克斯两厢2009款1.8自动时尚型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2009款1.8自动时尚型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										4.75万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="湖北鼎杰汽车销售服务有限公司" href="http://shop.58.com/24056914220817940/">湖北鼎杰汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">武汉</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17828749092355x.shtml" target="_blank">
+<img title="福特福克斯三厢2005款 1.8 AT时尚型-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02244802906180286095.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17828749092355x.shtml" title="福特福克斯三厢2005款 1.8 AT时尚型-诚信之品，专业之荐" target="_blank">福特福克斯三厢2005款 1.8 AT时尚型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										14.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.88<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海永达奥诚中环汽车销售服务有限公司" href="http://shop.58.com/24061636270300692/">上海永达奥诚中环汽车销售…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828670982792x.shtml" target="_blank">
+<img title="福特福克斯两厢2009款2自动运动型两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244792903764090074.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828670982792x.shtml" title="福特福克斯两厢2009款2自动运动型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2009款2自动运动型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										2.60万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京百得利汽车贸易有限公司" href="http://shop.58.com/24054615388815892/">北京百得利汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17828549738118x.shtml" target="_blank">
+<img title="福特福克斯三厢2007款1.8手自一体时尚型三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244777325200107005.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17828549738118x.shtml" title="福特福克斯三厢2007款1.8手自一体时尚型三厢-诚信之品，专业之荐" target="_blank">福特福克斯三厢2007款1.8手自一体时尚型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										5.51万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西奥诚汽车销售服务有限公司" href="http://shop.58.com/24059198710196756/">陕西奥诚汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://su.58.com/ershouche/17828455620615x.shtml" target="_blank">
+<img title="福特蒙迪欧2006款 2.0 Ghia精英型-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12244765313911760085.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://su.58.com/ershouche/17828455620615x.shtml" title="福特蒙迪欧2006款 2.0 Ghia精英型-诚信之品，专业之荐" target="_blank">福特蒙迪欧2006款 2.0 Ghia精英型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										15.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="第一汽车（苏州）服务贸易有限公司" href="http://shop.58.com/24059604280783167/">第一汽车（苏州）服务贸易…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">苏州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jh.58.com/ershouche/17828374549383x.shtml" target="_blank">
+<img title="福特福克斯三厢2005款 1.8 MT经典型-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244754954470317006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jh.58.com/ershouche/17828374549383x.shtml" title="福特福克斯三厢2005款 1.8 MT经典型-诚信之品，专业之荐" target="_blank">福特福克斯三厢2005款 1.8 MT经典型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										11.16万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.30<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="金华东奥汽车贸易有限公司" href="http://shop.58.com/24062169141086228/">金华东奥汽车贸易有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">金华</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hf.58.com/ershouche/17828336166664x.shtml" target="_blank">
+<img title="福特蒙迪欧-致胜2007款 2.3 至尊型-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244750082591939115.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hf.58.com/ershouche/17828336166664x.shtml" title="福特蒙迪欧-致胜2007款 2.3 至尊型-诚信之品，专业之荐" target="_blank">福特蒙迪欧-致胜2007款 2.3 至尊型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										9.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="安徽得佳汽车销售有限公司" href="http://shop.58.com/24054072804228372/">安徽得佳汽车销售有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">合肥</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://fz.58.com/ershouche/17828323480456x.shtml" target="_blank">
+<img title="福特福克斯两厢2011款 1.8 AT时尚型-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02244748448696675084.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://fz.58.com/ershouche/17828323480456x.shtml" title="福特福克斯两厢2011款 1.8 AT时尚型-诚信之品，专业之荐" target="_blank">福特福克斯两厢2011款 1.8 AT时尚型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										7.90万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.70<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="福建原动力汽车销售服务有限公司" href="http://shop.58.com/24056708874069780/">福建原动力汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">福州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sjz.58.com/ershouche/17828264706690x.shtml" target="_blank">
+<img title="福特蒙迪欧2006款 2.5 V6旗舰型-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12244740880517904086.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sjz.58.com/ershouche/17828264706690x.shtml" title="福特蒙迪欧2006款 2.5 V6旗舰型-诚信之品，专业之荐" target="_blank">福特蒙迪欧2006款 2.5 V6旗舰型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										15.90万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.98<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河北联润美迪汽车贸易有限公司" href="http://shop.58.com/24056470434971924/">河北联润美迪汽车贸易有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">石家庄</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gy.58.com/ershouche/17828247470601x.shtml" target="_blank">
+<img title="福特福克斯三厢2009款 1.8 AT时尚型-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244738680294162083.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gy.58.com/ershouche/17828247470601x.shtml" title="福特福克斯三厢2009款 1.8 AT时尚型-诚信之品，专业之荐" target="_blank">福特福克斯三厢2009款 1.8 AT时尚型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										5.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="贵州四扬兴奥汽车销售服务有限公司" href="http://shop.58.com/24060726562910740/">贵州四扬兴奥汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">贵阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828213970561x.shtml" target="_blank">
+<img title="福特福克斯两厢2009款1.8手动舒适型两厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12244734338305400135.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828213970561x.shtml" title="福特福克斯两厢2009款1.8手动舒适型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2009款1.8手动舒适型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										7.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京华阳奥通汽车有限公司" href="http://shop.58.com/24058481294125588/">北京华阳奥通汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nc.58.com/ershouche/17828224729090x.shtml" target="_blank">
+<img title="福特嘉年华两厢2011款1.5自动时尚版两厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244735765317451066.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nc.58.com/ershouche/17828224729090x.shtml" title="福特嘉年华两厢2011款1.5自动时尚版两厢-诚信之品，专业之荐" target="_blank">福特嘉年华两厢2011款1.5自动时尚版两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										2.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="江西德奥汽车销售服务有限公司" href="http://shop.58.com/24249192812592916/">江西德奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南昌</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://dg.58.com/ershouche/17828214896390x.shtml" target="_blank">
+<img title="福特福克斯两厢2010款1.8自动时尚型两厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02244734540648444143.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://dg.58.com/ershouche/17828214896390x.shtml" title="福特福克斯两厢2010款1.8自动时尚型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2010款1.8自动时尚型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										5.62万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.30<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="东莞市世奥汽车销售服务有限公司" href="http://shop.58.com/24058561064658751/">东莞市世奥汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">东莞</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828210206599x.shtml" target="_blank">
+<img title="福特福克斯两厢2009款1.8手动舒适型两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244733913944566144.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828210206599x.shtml" title="福特福克斯两厢2009款1.8手动舒适型两厢-诚信之品，专业之荐" target="_blank">福特福克斯两厢2009款1.8手动舒适型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										5.30万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京百得利汽车贸易有限公司" href="http://shop.58.com/24054615388815892/">北京百得利汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://lz.58.com/ershouche/17828154535045x.shtml" target="_blank">
+<img title="福特福克斯三厢2013款1.8L手动时尚型三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244726742223199073.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://lz.58.com/ershouche/17828154535045x.shtml" title="福特福克斯三厢2013款1.8L手动时尚型三厢-诚信之品，专业之荐" target="_blank">福特福克斯三厢2013款1.8L手动时尚型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2013年上牌 </span><span class="gap">|</span>
+										1.16万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 11.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="兰州兰奥汽车销售服务有限公司" href="http://shop.58.com/24057714658745108/">兰州兰奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">兰州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17828089035649x.shtml" target="_blank">
+<img title="福特蒙迪欧-致胜2007款2.3手自一体时尚型三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02244718413431640005.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17828089035649x.shtml" title="福特蒙迪欧-致胜2007款2.3手自一体时尚型三厢-诚信之品，专业之荐" target="_blank">福特蒙迪欧-致胜2007款2.3手自一体时尚型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										13.68万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.03<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西新丰泰汽车有限责任公司" href="http://shop.58.com/24059631569258260/">陕西新丰泰汽车有限责任公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://dl.58.com/ershouche/17828006737154x.shtml" target="_blank">
+<img title="福特嘉年华两厢2011款1.5自动时尚版两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244707899016679033.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://dl.58.com/ershouche/17828006737154x.shtml" title="福特嘉年华两厢2011款1.5自动时尚版两厢-诚信之品，专业之荐" target="_blank">福特嘉年华两厢2011款1.5自动时尚版两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										3.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.78<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="大连裕迪汽车销售服务有限公司" href="http://shop.58.com/24055568219438911/">大连裕迪汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">大连</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sz.58.com/ershouche/17825414404098x.shtml" target="_blank">
+<img title="福特福克斯三厢 2009款 1.8 AT时尚型-深圳锦龙奥迪认证二手车" src="http://1.pic.58control.cn/p1/small/n_s12244375764012788126.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sz.58.com/ershouche/17825414404098x.shtml" title="福特福克斯三厢 2009款 1.8 AT时尚型-深圳锦龙奥迪认证二手车" target="_blank">福特福克斯三厢 2009款 1.8 AT时尚型-深圳锦龙奥迪认证二手车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										17.43万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="深圳市锦龙汽车贸易有限公司" href="http://shop.58.com/24055037731803412/">深圳市锦龙汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">深圳</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="pagerout">
+<div class="pager">
+<strong><span>1</span></strong><a href="http://audi.58.com/fute/pn2/"><span>2</span></a><a class="next" href="http://audi.58.com/fute/pn2/"><span>下一页</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+		24小时客户关怀热线：400-8171-888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0431-85990888<br />
+		©58.com
+	</div>
+<div class="floatbar">
+<div class="liulan">
+<i class="bar01"></i>
+<div id="myfeetBox" class="hc">
+<ul id="feet_listLs">
+<h4 class="category">最近浏览的信息</h4>
+</ul>
+</div>
+</div>
+<a href="http://my.58.com/shoucangjianli/" id="collection" target="_blank"><i class="bar02"></i></a> <a href="#top"><i class="bar03"></i></a>
+</div>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/getcookie.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi_brandzone.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi.js"></script>
+<script type="text/javascript">
+		$(function() {
+			$('.liulan').hover(
+					function() {
+						$(this).addClass('hover');
+						$('#myfeetBox').show();
+						var container = document.getElementById("feet_listLs");
+						brandZoneNamespace.docookieFunction("final_history",
+								container);
+					}, function() {
+						$(this).removeClass('hover');
+						$('#myfeetBox').hide();
+					})
+		})
+		brandZoneNamespace.brandListEvent().fastSelectLevel().listMorebrand()
+				.dealerSearch().renZhengCar();
+	</script>
+<script type="text/javascript">
+		var achexi = $("#audi_chexi").find("a");
+		var url = window.location.href;
+		for(var i = 0 ; i &lt; achexi.length ; i++){
+			var $item =$(achexi[i]);
+			if($item.attr("href") == url){
+				$item.addClass("select");
+			}
+		}
+							
+	</script>
+<script type="text/javascript">
+		var _gaq = _gaq || [];
+		var site_name = "58";
+		var _trackURL = "{'cate':'29','area':'','pagetype':'list','class':'ershouche'}";
+		_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+		_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+		_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+		_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+		_gaq.push([ 'pageTracker._trackPageview',
+				'/car/ershouche/audi/ershouche/' ]);
+		$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+				: 'http://www')
+				+ '.google-analytics.com/ga.js');
+		$.getScript('http://tracklog.58.com/referrer4.js');
+	</script>
+</body>
+</html>

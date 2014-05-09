@@ -1,0 +1,2035 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【北京二手笔记本转让|北京二手笔记本电脑价格】 - 北京58同城</title>
+<meta name="description" content="北京二手笔记本频道为您提供北京二手笔记本转让/出售信息，在此有大量北京二手笔记本报价/图片/价格信息供您选择，您可以免费查看和发布北京二手笔记本信息。" />
+<meta name="keywords" content="北京二手笔记本" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css?v=20130910" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/ershou/list-eui7.css?version=20130530" media="all" />
+<!-- =S 脚本这个由 脚本组负责 这个路径为暂时的 -->
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<!-- createElement-lte-IE8.js 该脚本只针对IE8及以下版本浏览器 -->
+<!-- =E -->
+<script type="text/javascript">try {
+        var ____json4fe = {"catentry":[{"dispid":"5","name":"二手市场","listname":"sale"},{"dispid":"38483","name":"笔记本电脑","listname":"bijibendiannao"},{"dispid":"479","name":"笔记本","listname":"bijiben"}],"locallist":[{"dispid":"1","name":"北京","listname":"bj"}],"start":(new Date()).getTime(),"modules":"list"};
+        ____json4fe.version = 'A';
+        ____json4fe.modules = 'listpage';
+        ____json4fe.smsc = 'ce882233f1f0d86e46777a38aa61a501a2e7bbfab7f67ad8db66889adfec8401e69e2144ddae581412afd31ec7bc6916f2c421e0e0a43e02469e6e0d7a3edb713870f1ae117ef68d09237307d14dd7ca5574e0e1dc826d55dcc1e987f24d6d8b50108dc5dfb4aafe2ea8e1ec84a37aa3';
+    } catch (e) {
+    }
+    ;</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';
+    var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2', '1', '');
+    win1.setSearchButton('searchbtn1');
+    boot.require('util.cookie', function (Frame, cookie) {
+        cookie.set('city', 'bj');
+    });</script>
+<style>
+	    /*2014-1-16 相关搜索 by hezc*/
+		.RelatedSearch{ border:1px solid #E1E1E1; font-size:14px; padding:10px 5px;line-height:25px;  margin-bottom:15px;}
+		.RelatedSearch dt{ float:left; width:88px; text-align:right;font-weight:700;line-height:25px;}
+		.RelatedSearch dd{ float:right; width:720px;}.RelatedSearch dd a{ display:inline-block;width:140px;line-height:25px;}
+		#list_left_zhuti{border:1px solid #E1E1E1; margin-bottom:10px; padding:15px;}
+		#list_left_zhuti div{ margin-left:-55px; height:110px;}
+    </style>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/bj/bijiben" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/bj/bijiben" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/bj/bijiben" />
+</head>
+<body>
+<script type="text/javascript">
+    var hasXiaobao = "true"
+</script>
+<!-- =S topbar -->
+<div id="topbar"></div>
+<script type="text/javascript">boot.require('business.topbar', function (Frame, topbar) {
+    topbar.init();
+});</script>
+<!-- =E topbar -->
+<!-- =S header -->
+<header id="header">
+<span class="logo">
+<a href="/" target="_blank"><img src="http://pic2.58.com/images/logonew.gif" title="到58同城首页" alt="58同城" /></a>
+</span>
+<!-- =S 面包屑导航 -->
+<div class="nav">
+<a href="/">北京58同城</a>
+<cite></cite><a href="/sale.shtml">北京二手市场</a>
+<cite></cite><a href="/bijiben/">北京二手笔记本</a>
+</div>
+<!-- =E 面包屑导航 -->
+<span class="fr mt10">
+<a href="http://post.58.com/1/38483/s5" class="postBtn" target="_blank" rel="nofollow"></a>
+</span>
+</header>
+<!-- =E header -->
+<!-- S 推广广告 -->
+<div id="ad_d12" class="cripic"></div>
+<!-- E 推广广告 -->
+<!-- =S selection -->
+<section id="selection">
+<!-- =S 搜索结果 -->
+<script type="text/javascript">
+    $("#searchtree .selectbar1 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+
+    $("#searchtree .selectbar2 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+</script>
+<!-- =E 搜索结果 -->
+<div class="pb15">
+<dl class="secitem">
+<dt>类别 ：</dt>
+<dd zwname="类别" zwnameid="9279">
+<a class="select" name="b_link" para="custom" cl="http://bj.58.com/bijiben/" data-finalurl="http://bj.58.com/bijiben/" href="http://bj.58.com/bijiben/">笔记本</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bjbpeijian/" href="http://bj.58.com/bjbpeijian/">笔记本配件</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>品牌 ：</dt>
+<dd zwname="品牌" zwnameid="9280">
+<a class="select" href="http://bj.58.com/bijiben/" data-finalurl="http://bj.58.com/bijiben/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/ibm/" href="http://bj.58.com/ibm/">ThinkPad/IBM</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/lenovo/" href="http://bj.58.com/lenovo/">联想</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/dell/" href="http://bj.58.com/dell/">戴尔</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/asus/" href="http://bj.58.com/asus/">华硕</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/compaq/" href="http://bj.58.com/compaq/">惠普</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/sony/" href="http://bj.58.com/sony/">索尼</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/apple/" href="http://bj.58.com/apple/">苹果</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/samsung/" href="http://bj.58.com/samsung/">三星</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/acer/" href="http://bj.58.com/acer/">宏基</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/fujitsu/" href="http://bj.58.com/fujitsu/">富士通</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/toshiba/" href="http://bj.58.com/toshiba/">东芝</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/fangzhengbjb/" href="http://bj.58.com/fangzhengbjb/">方正</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/shenzhou/" href="http://bj.58.com/shenzhou/">神舟</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/haierbjb/" href="http://bj.58.com/haierbjb/">海尔</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/qinghuatongfangbjb/" href="http://bj.58.com/qinghuatongfangbjb/">清华同方</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/necbjb/" href="http://bj.58.com/necbjb/">NEC</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/qitabjb/" href="http://bj.58.com/qitabjb/">其他品牌</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>CPU ：</dt>
+<dd zwname="CPU" zwnameid="9281">
+<a class="select" href="http://bj.58.com/bijiben/" data-finalurl="http://bj.58.com/bijiben/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_552151/" href="http://bj.58.com/bijiben/pve_9281_552151/">酷睿</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_552154/" href="http://bj.58.com/bijiben/pve_9281_552154/">酷睿2</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_552147/" href="http://bj.58.com/bijiben/pve_9281_552147/">酷睿i3</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_552148/" href="http://bj.58.com/bijiben/pve_9281_552148/">酷睿i5</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_552153/" href="http://bj.58.com/bijiben/pve_9281_552153/">酷睿i7</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_552162/" href="http://bj.58.com/bijiben/pve_9281_552162/">奔腾</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_552160/" href="http://bj.58.com/bijiben/pve_9281_552160/">赛扬</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_552149/" href="http://bj.58.com/bijiben/pve_9281_552149/">速龙</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_552170/" href="http://bj.58.com/bijiben/pve_9281_552170/">闪龙</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_617795/" href="http://bj.58.com/bijiben/pve_9281_617795/">FX</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_617796/" href="http://bj.58.com/bijiben/pve_9281_617796/">APU</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9281_617797/" href="http://bj.58.com/bijiben/pve_9281_617797/">其他</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>价格 ：</dt>
+<dd zwname="价格" zwnameid="9292">
+<a class="select" href="http://bj.58.com/bijiben/" data-finalurl="http://bj.58.com/bijiben/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9292_0_100/" href="http://bj.58.com/bijiben/pve_9292_0_100/">100元以下</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9292_101_200/" href="http://bj.58.com/bijiben/pve_9292_101_200/">100-200元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9292_201_500/" href="http://bj.58.com/bijiben/pve_9292_201_500/">200-500元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9292_501_1000/" href="http://bj.58.com/bijiben/pve_9292_501_1000/">500-1000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9292_1001_2000/" href="http://bj.58.com/bijiben/pve_9292_1001_2000/">1000-2000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9292_2001_3500/" href="http://bj.58.com/bijiben/pve_9292_2001_3500/">2000-3500元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9292_3501_999999/" href="http://bj.58.com/bijiben/pve_9292_3501_999999/">3500元以上</a>
+<span class="prifilter">
+<span class="text text2"><input type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /></span>
+<span class="dev"> - </span>
+<span class="dev text text2"><input class="mr5" type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /> 元   </span>
+<span class="btn btn2" style="display:none"><input type="button" value="价格筛选" onclick="b_query_minprice()" /></span>
+</span>
+<script type="text/javascript">
+                        $(document).ready(function () {
+                            //text控件事件
+                            $(".prifilter input:text").click(function () {
+                                $(".prifilter input:button").parent().show();
+                                return false;
+                            });
+
+                            //button控件事件
+                            $(".prifilter input:button").click(function () {
+                                return false;
+                            });
+
+                            //body控件事件
+                            $(document.body).click(function () {
+                                $(".prifilter input:button").parent().hide();
+                            });
+                        });
+                    </script>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>新旧 ：</dt>
+<dd zwname="新旧" zwnameid="9294">
+<a class="select" href="http://bj.58.com/bijiben/" data-finalurl="http://bj.58.com/bijiben/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9294_7/" href="http://bj.58.com/bijiben/pve_9294_7/">全新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9294_2/" href="http://bj.58.com/bijiben/pve_9294_2/">95成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9294_3/" href="http://bj.58.com/bijiben/pve_9294_3/">9成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9294_4/" href="http://bj.58.com/bijiben/pve_9294_4/">8成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://bj.58.com/bijiben/pve_9294_5/" href="http://bj.58.com/bijiben/pve_9294_5/">7成新及以下</a>
+</dd>
+</dl>
+<!--S 显示区域 -->
+<dl class="secitem">
+<dt>区域 ：</dt>
+<dd zwnameid="quyu" zwname="区域">
+<a href="/bijiben/" data-finalurl="/bijiben/" class="select">全北京</a>
+<a href="/chaoyang/bijiben/" data-finalurl="/chaoyang/bijiben/">朝阳</a>
+<a href="/haidian/bijiben/" data-finalurl="/haidian/bijiben/">海淀</a>
+<a href="/dongcheng/bijiben/" data-finalurl="/dongcheng/bijiben/">东城</a>
+<a href="/xicheng/bijiben/" data-finalurl="/xicheng/bijiben/">西城</a>
+<a href="/chongwen/bijiben/" data-finalurl="/chongwen/bijiben/">崇文</a>
+<a href="/xuanwu/bijiben/" data-finalurl="/xuanwu/bijiben/">宣武</a>
+<a href="/fengtai/bijiben/" data-finalurl="/fengtai/bijiben/">丰台</a>
+<a href="/tongzhouqu/bijiben/" data-finalurl="/tongzhouqu/bijiben/">通州</a>
+<a href="/shijingshan/bijiben/" data-finalurl="/shijingshan/bijiben/">石景山</a>
+<a href="/fangshan/bijiben/" data-finalurl="/fangshan/bijiben/">房山</a>
+<a href="/changping/bijiben/" data-finalurl="/changping/bijiben/">昌平</a>
+<a href="/daxing/bijiben/" data-finalurl="/daxing/bijiben/">大兴</a>
+<a href="/shunyi/bijiben/" data-finalurl="/shunyi/bijiben/">顺义</a>
+<a href="/miyun/bijiben/" data-finalurl="/miyun/bijiben/">密云</a>
+<a href="/huairou/bijiben/" data-finalurl="/huairou/bijiben/">怀柔</a>
+<a href="/yanqing/bijiben/" data-finalurl="/yanqing/bijiben/">延庆</a>
+<a href="/pinggu/bijiben/" data-finalurl="/pinggu/bijiben/">平谷</a>
+<a href="/mentougou/bijiben/" data-finalurl="/mentougou/bijiben/">门头沟</a>
+<a href="/bjyanjiao/bijiben/" data-finalurl="/bjyanjiao/bijiben/">燕郊</a>
+<a href="/beijingzhoubian/bijiben/" data-finalurl="/beijingzhoubian/bijiben/">北京周边</a>
+</dd>
+</dl>
+<!--E 显示区域 -->
+<!-- =S header-search -->
+<div class="sale_search clearfix_z" id="SearchForm">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<span class="search_input"><input class="but-wd" value="输入类别或关键字" maxlength="40" onkeyup="win1.GetContentData();" onclick="if(this.value=='输入类别或关键字')this.value=''" onblur="if(this.value=='')this.value='输入类别或关键字'" fdv="" id="keyword1" name="b_q" para="key" autocomplete="off" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="submit" id="searchbtn1" class="search_on" value="搜本类" onclick="return searchword_filter();" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="button" value="搜全站" onclick="if(searchword_filter())b_query_all();" /></span>
+</form>
+<div class="entrance_quanguo">
+<a target="_blank" rel="nofollow" href="http://quanguo.58.com/bijiben/?fromlocalid=1" title="点击查看全国所有城市二手笔记本" onclick="clickLog('from=ToQuanguo_list_bijibendiannao_bj');">
+<i></i>
+                               全国二手笔记本
+        </a>
+</div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#keyword1").keydown(function () {
+            $("#keyword1").attr("style", "color: rgb(0, 0, 0);"); //黑色
+        });
+    });
+
+    function searchword_filter() {
+        if ($("#keyword1").attr("value") == "输入类别或关键字") {
+            $("#keyword1").attr("style", "color: rgb(153, 153, 153);"); //灰色
+            //$("#keyword1").focus(); $("#keyword1").select();
+            return false;
+        }
+
+        return true;
+    }
+</script>
+<!-- =E header-search -->
+<!-- =S 特色 -->
+<dl class="secitem remen">
+<dt>热门 ：<i></i></dt>
+<dd class="tese">
+<a href="http://bj.58.com/apple/pve_9282_511925/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbhot/MacbookPro/']);">MacBookPro系列</a>
+<a href="http://bj.58.com/apple/pve_9282_511926/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbhot/MacbookAir/']);">MacbookAir系列</a>
+<a href="http://bj.58.com/lenovo/pve_9281_552147/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbhot/lenovoi3/']);">联想i3本</a>
+<a href="http://bj.58.com/lenovo/pve_9281_552148/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbhot/lenovoi5/']);">联想i5本</a>
+<a href="http://bj.58.com/ibm/pve_9281_552148/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbhot/IBMi5/']);">Thinkpad i5本</a>
+<a href="http://bj.58.com/ibm/pve_9281_552153/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbhot/IBMi7/']);">Thinkpad i7本</a>
+<a href="http://bj.58.com/compaq/pve_9281_552147/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbhot/huipui3/']);">惠普i3本</a>
+</dd>
+</dl>
+<dl class="secitem xinpin">
+<dt>特色 ：<i></i></dt>
+<dd class="tese tese2">
+<a href="http://bj.58.com/bijiben/?minprice=1200_1800&amp;xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/dijiaxuesheng/']);">低价学生本</a>
+<a href="http://bj.58.com/bijiben/?minprice=2000_3000&amp;xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/1000youzhi/']);">千元优质本</a>
+<a href="http://bj.58.com/bijiben/pve_9281_552148/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/i5zl/']);">i5主流</a>
+<a href="http://bj.58.com/bijiben/pve_9281_552153/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/i7gp/']);">i7高配</a>
+<a href="http://bj.58.com/bijiben/key_独显笔记本/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/duxian/']);">独立显卡</a>
+<a href="http://bj.58.com/bijiben/key_大屏/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/dapingyingyin/']);">大屏影音本</a>
+<a href="http://bj.58.com/bijiben/key_上网本/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/shangwangben/']);">上网本</a>
+<a href="http://bj.58.com/bijiben/key_游戏本/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/youxiben/']);">高配游戏本</a>
+<a href="http://bj.58.com/bijiben/key_商务本/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/shangwuben/']);">实用商务本</a>
+<a href="http://bj.58.com/bijiben/pve_9297_7/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/quanxin/']);">全新二手</a>
+<a href="http://bj.58.com/bijiben/pve_9281_552154/?xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/jingdianxinghao/']);">经典型号</a>
+<a href="http://bj.58.com/bijiben/?key=原装/&amp;xgtj=bjb" rel="nofollow" onclick="_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/diannao/bjbtese/yuanzhuang/']);">原装行货</a>
+</dd>
+</dl>
+<!-- =E 特色 -->
+</div>
+<!-- =S 底部搜索结果 -->
+<!--  &lt;dl class="secitem"&gt;&lt;div id ="highlightline" class="line highlight"&gt;&lt;div id="selected" class="bar"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/dl&gt; -->
+<div class="selectResult clearfix" id="selected" style="display: none;"></div>
+</section>
+<!-- =E selection -->
+<!--S 百强县 -->
+<!--E 百强县 -->
+<!-- =S tabsbar -->
+<div class="tabsbar">
+<a class="sel" href="http://bj.58.com/bijiben/"><h1>北京二手笔记本</h1></a>
+</div>
+<!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix">
+<!-- =S infolist 左侧列表主体 -->
+<div id="infolist" class="cleft">
+<!-- =S filterbar -->
+<div class="filterbar">
+<table cellspacing="0" cellpadding="0" class="tbfilter">
+<colgroup>
+<col />
+<col class="w100" /> <col class="w100" />
+</colgroup>
+<tr class="bg">
+<td>
+<div class="caty">
+<a class="geren active" name="b_link" para="custom" cl="/bijiben/?rb=1" data-finalurl="/bijiben/" href="/bijiben/">
+                            全部
+                        </a>
+<a class="geren" data-finalurl="/bijiben/0/" href="/bijiben/0/">
+                        个人
+                    </a>
+<a class="shangjia" data-finalurl="/bijiben/1/" href="/bijiben/1/">
+                        商家
+                    </a>
+</div>
+<span id="span_xiaobao" class="checkbox"><input type="checkbox" name="zaixianzhifu" value="1" id="xiaobao_baozhang" /><label for="zaixianzhifu" class="isxiaobao">支持保障交易</label></span>
+<span class="checkbox"><input name="" type="checkbox" value="" id="ispic" onclick="click_Ispic(this)" /><label for="ispic">只看有图</label></span>
+<span class="checkbox"><input type="checkbox" id="isonline" /><label for="isonline" class="isonline">帮帮在线</label></span>
+</td>
+<!-- =S 排序功能 -->
+<td class="sort" colspan="2">
+<div class="sort_wrap">
+<span class="default  active"><a href="http://bj.58.com/bijiben/" rel="nofollow">默认排序</a></span>
+<span class="time "><a href="http://bj.58.com/bijiben/?sort=sortid_desc" rel="nofollow">按时间</a></span>
+<span class="sort_price">
+<a href="http://bj.58.com/bijiben/?sort=minprice_asc" rel="nofollow">按价格</a>
+</span>
+</div>
+</td>
+<!-- =E 排序功能 -->
+</tr>
+</table>
+</div>
+<!-- =E filterbar -->
+<!-- =S 查询搜索无结果补充信息  -->
+<!-- =E 查询搜索无结果补充信息  -->
+<!-- =S top_google_ad -->
+<div id="top_google_ad"></div>
+<!-- =E top_google_ad  -->
+<!-- =S 头部精准推广显示 -->
+<div class="pr">
+<table class="tbimg tbimg_jz" cellspacing="0" cellpadding="0" id="jingzhun">
+<col class="" />
+<col />
+<col class="w100" /> <col class="w100" />
+<tr logr="b_2_21844959075591_17528283521537_11_2_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZC3wbOkn7RKi7KwHyqaEv-HEy0huA-1pyEqnH0kPHbdP1nVuWmQnBYYPAu6syFBnHbVuHKhPADOP176P1EkFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjb3njTLriuzuymqpZwY0jCfsvFJsWN3shPfUitksvFGph-Buy3h0vqd0hP-5HDhIh-1Iy-b5HDYP1TQn1nLnW9QnW9LFMuG0LRG0jYznH98ra3ksWDkPzu-UMwY0jYkFMK60h7V5HbzP1blniuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HcQrjEYrHNOnj0dPHbQFhP_pv-b5HnzrymvmHTLsHn1PjTVPjNzmBYOrAmdsHmzmvNOuhEkP1RbmzukpyEqPau-UMwGujYQP1Nzrjc3n1NznHN1Pzu-UMwY0jYkFMKzpyP-5H0dFMF-uA-z5y6YIZTlszqBpB3draOWUvYfmh-JpyF-UhwGmyO8mytfnH0dnW9zrjndnWDdn1I3sMPCIAd_FhwG0LKf01YQFMPdmh-b5HN3PHmdPWThmLF-mgw-ujYdrjNzPHm1FMK60h7VpyEqrHcLriubpgPWmHY1rjE3nzu1uyQhmvDqn19YrjnhuA-1UAtqniu1uyQhUAtqniuQ5HDdPzu6mMEqmE" target="_blank" data-addtype="level5"><img src="http://img2.58.com/bidding/tiny/n_s02206344436306056155.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZC3wbOkn7RKi7KwHyqaEv-HEy0huA-1pyEqnH0kPHbdP1nVuWmQnBYYPAu6syFBnHbVuHKhPADOP176P1EkFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjb3njTLriuzuymqpZwY0jCfsvFJsWN3shPfUitksvFGph-Buy3h0vqd0hP-5HDhIh-1Iy-b5HDYP1TQn1nLnW9QnW9LFMuG0LRG0jYznH98ra3ksWDkPzu-UMwY0jYkFMK60h7V5HbzP1blniuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HcQrjEYrHNOnj0dPHbQFhP_pv-b5HnzrymvmHTLsHn1PjTVPjNzmBYOrAmdsHmzmvNOuhEkP1RbmzukpyEqPau-UMwGujYQP1Nzrjc3n1NznHN1Pzu-UMwY0jYkFMKzpyP-5H0dFMF-uA-z5y6YIZTlszqBpB3draOWUvYfmh-JpyF-UhwGmyO8mytfnH0dnW9zrjndnWDdn1I3sMPCIAd_FhwG0LKf01YQFMPdmh-b5HN3PHmdPWThmLF-mgw-ujYdrjNzPHm1FMK60h7VpyEqrHcLriubpgPWmHY1rjE3nzu1uyQhmvDqn19YrjnhuA-1UAtqniu1uyQhUAtqniuQ5HDdPzu6mMEqmE" target="_blank" class="t" data-addtype="level5">
+                        收售笔记本,平板电脑,台式机,收售高低端笔记本</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span> <span class="ico ntu" title="">[6图]</span> <a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                      高价上门收售笔记本，品牌机，IBM.索尼，东芝.联想.戴尔
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="ico area">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                                  
+                              &nbsp;/ 今天
+    		              </span>
+<span name="zaixian_21844959075591"></span>
+</td>
+<td class="tc">
+<b class="pri">9999</b> 元                </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="b_1_8811458236678_17860722275458_11_1_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZC3wbOkn7RKi7KwHyqaEv-HEy0huA-1pyEqnH0kPHbdP1nVuWmQnBYYPAu6syFBnHbVuHKhPADOP176P1EkFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjb3njTLriuzuymqpZwY0jCfsvFJsWN3shPfUitksvFGph-Buy3h0vqd0hP-5HDhIh-1Iy-b5HDYP1TQn1nLnW9QnW9LFMuG0LRG0jYznH98ra3ksWDkPzu-UMwY0jYkFMK60h7V5HbzP1blniuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5H93nHDYPH9zn1mvP19hmvQopyEqnhnQuAEdujcVPHnYraYYrjcLsycznvEVnyc3PjR-rANYPARBFMKGujYYFhR8IA-b5HDLrjmkP1cznW0dPjN3FhR8IZwk5HTh0ZFGmvNqP1Th0hRbpgcqpZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP19vnj0znWcLPHEdrZ980v6YUykhuA-10Aq15Hch0LRBpyEqPWcvPHmzniuW0hR6IARb5HmzPWDvnWnh0A7zmydGujYOnW0OFhwG0vP65Hn3Pj91FMP-UAuWmHY1rjE3nzubpgP_U1YQFMP-UAu_U1YQFMDqnHNdFh7BIjd6" target="_blank" data-addtype="level5"><img src="http://img8.58.com/bidding/tiny/n_s12249925069849087006.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZC3wbOkn7RKi7KwHyqaEv-HEy0huA-1pyEqnH0kPHbdP1nVuWmQnBYYPAu6syFBnHbVuHKhPADOP176P1EkFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjb3njTLriuzuymqpZwY0jCfsvFJsWN3shPfUitksvFGph-Buy3h0vqd0hP-5HDhIh-1Iy-b5HDYP1TQn1nLnW9QnW9LFMuG0LRG0jYznH98ra3ksWDkPzu-UMwY0jYkFMK60h7V5HbzP1blniuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5H93nHDYPH9zn1mvP19hmvQopyEqnhnQuAEdujcVPHnYraYYrjcLsycznvEVnyc3PjR-rANYPARBFMKGujYYFhR8IA-b5HDLrjmkP1cznW0dPjN3FhR8IZwk5HTh0ZFGmvNqP1Th0hRbpgcqpZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP19vnj0znWcLPHEdrZ980v6YUykhuA-10Aq15Hch0LRBpyEqPWcvPHmzniuW0hR6IARb5HmzPWDvnWnh0A7zmydGujYOnW0OFhwG0vP65Hn3Pj91FMP-UAuWmHY1rjE3nzubpgP_U1YQFMP-UAu_U1YQFMDqnHNdFh7BIjd6" target="_blank" class="t" data-addtype="level5">
+                        北京火爆价售收苹果笔记本回收苹果一体机回收二手戴尔</a>
+<span class="ico ntu" title="">[3图]</span> <a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                     北京天顺回收有限公司，电话：182-103-291-89　Q
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="ico area">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a><span> - </span>
+<a class="c_666" href="/guomao/bijiben/">国贸</a>
+                                  
+                              &nbsp;/ 今天
+    		              </span>
+<span name="zaixian_8811458236678"></span>
+</td>
+<td class="tc">
+<b class="pri">9000</b> 元                </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="b_1_21246289125639_17727900929418_11_1_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZC3wbOkn7RKi7KwHyqaEv-HEy0huA-1pyEqnH0kPHbdP1nVuWmQnBYYPAu6syFBnHbVuHKhPADOP176P1EkFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjb3njTLriuzuymqpZwY0jCfsvFJsWN3shPfUitksvFGph-Buy3h0vqd0hP-5HDhIh-1Iy-b5HDYP1TQn1nLnW9QnW9LFMuG0LRG0jYznH98ra3ksWDkPzu-UMwY0jYkFMK60h7V5HbzP1blniuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HcQnWEvnW9OnHcdPWnOFhP_pv-b5yR6rjT1rjDOsHF6m1NVPAcvmBYOPWRBsyNknWD1PhDkrjTvnzukpyEqPau-UMwGujYQP10zP1bknjbzrHEQrau-UMwY0jYkFMKzpyP-5HNzFMF-uA-z5y6YIZTlszqBpB3draOWUvYfmh-JpyF-UhwGmyO8mytfnH0LnW0OnjTOnWbYnH63sMPCIAd_FhwG0LKf01Y1FMPdmh-b5HmQn1TQnWDhmLF-mgw-ujYvnHcvnHcYFMK60h7VpyEqrHcLriubpgPWmHY1rjE3nzu1uyQhmvDqn19YrjnhuA-1UAtqniu1uyQhUAtqniuQ5HDdPiu6mMEqmE" target="_blank" data-addtype="level5"><img src="http://img3.58.com/bidding/tiny/n_s12235097449074266143.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5HTduZC3wbOkn7RKi7KwHyqaEv-HEy0huA-1pyEqnH0kPHbdP1nVuWmQnBYYPAu6syFBnHbVuHKhPADOP176P1EkFMP_ULEqUA-1IAQ-uMEhuA-1IAYqnHnOrHmznjb3njTLriuzuymqpZwY0jCfsvFJsWN3shPfUitksvFGph-Buy3h0vqd0hP-5HDhIh-1Iy-b5HDYP1TQn1nLnW9QnW9LFMuG0LRG0jYznH98ra3ksWDkPzu-UMwY0jYkFMK60h7V5HbzP1blniuG0vR3IAR8ujdhmyQ1uiukUAmqsHDhpyd-pHYhIy-b5HcQnWEvnW9OnHcdPWnOFhP_pv-b5yR6rjT1rjDOsHF6m1NVPAcvmBYOPWRBsyNknWD1PhDkrjTvnzukpyEqPau-UMwGujYQP10zP1bknjbzrHEQrau-UMwY0jYkFMKzpyP-5HNzFMF-uA-z5y6YIZTlszqBpB3draOWUvYfmh-JpyF-UhwGmyO8mytfnH0LnW0OnjTOnWbYnH63sMPCIAd_FhwG0LKf01Y1FMPdmh-b5HmQn1TQnWDhmLF-mgw-ujYvnHcvnHcYFMK60h7VpyEqrHcLriubpgPWmHY1rjE3nzu1uyQhmvDqn19YrjnhuA-1UAtqniu1uyQhUAtqniuQ5HDdPiu6mMEqmE" target="_blank" class="t" data-addtype="level5">
+                        专业收售苹果笔记本收购苹果ipad收购苹果一体机收</a>
+<span class="ico ntu" title="">[5图]</span> <a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                     ​  北京金大苹果电脑回收公司！最大最专业的数码电脑产品回收
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="ico area">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a>
+                                  
+                              &nbsp;/ 今天
+    		              </span>
+<span name="zaixian_21246289125639"></span>
+</td>
+<td class="tc">
+<b class="pri">13520</b> 元                </td>
+<td class="tc">
+</td>
+</tr>
+</table>
+</div>
+<!-- =E 头部精准推广显示 -->
+<div id="hoverinfo">
+<!-- =S 显示搜索无结果补充信息  -->
+<!-- =E 显示搜索无结果补充信息  -->
+<table class="tbimg" cellpadding="0" cellspacing="0">
+<col class="" />
+<col />
+<col class="w100" /><col class="w100" />
+<tr logr="z_1_40834800_16303389211527_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQPWnkn1n3rHcQnHNzPL980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznjmzn1n_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=16303389211527&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=1&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12049556197364292154.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQPWnkn1n3rHcQnHNzPL980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznjmzn1n_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=16303389211527&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=1&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [全新]                            收售笔记本、一体机、平板ipad、手机、单反等</a>
+<span class="ico ntu" title="">[3图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                                                                                    北京星华电脑回收中心坐落于北京海淀区，以笔记本回收，手机回收，电脑回收…
+                                                                            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a><span> - </span>
+<a class="c_666" href="/guomao/bijiben/">国贸</a>
+</span>
+<span name="zaixian_40834800"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                        </span>
+</td>
+<td class="tc">
+<b class="pri">10000</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_0_21532744781319_17270838771457_1_0_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP1cLnj91rj0LnHEdPL980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznjnQnjm_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=17270838771457&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=2&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12173388206066649115.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP1cLnj91rj0LnHEdPL980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznjnQnjm_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=17270838771457&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=2&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            广告公司一批办公做设计用笔记本外观时尚速度快转让</a>
+<span class="ico ntu" title="">[1图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                                                                                    公司裁员，办公做设计用笔记本电脑处理器2.4G以上的，1G到2G内存,…
+                                                                            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/caoqiao/bijiben/">草桥</a>
+</span>
+<span name="zaixian_21532744781319"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">501</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_16141560130822_17731273505546_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP101nHcLn1NkPHNYPM980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznjcLn1N_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=17731273505546&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=3&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02232324340418746064.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP101nHcLn1NkPHNYPM980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznjcLn1N_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=17731273505546&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=3&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            公司处理一批笔记本电脑</a>
+<span class="ico ntu" title="">[5图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                                                                                    成色很新、速度快、质量过硬、上网、玩游戏都没问题、可当场挑选试机。
+                                                                            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+</span>
+<span name="zaixian_16141560130822"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                        </span>
+</td>
+<td class="tc">
+<b class="pri">550</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_0_22569349421831_17736777162242_1_0_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP101PW0LP1DvnWcYnM980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznWmLnW9_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=17736777162242&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=4&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12233029217324964155.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP101PW0LP1DvnWcYnM980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznWmLnW9_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=17736777162242&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=4&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            转让原装ThinkPad/IBM i7四核八线程2</a>
+<span class="ico ntu" title="">[1图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                                                                                    
+本子是去年买的，外观现在至少95成新以上。酷睿i7四核处理器。2G…
+                                                                            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+</span>
+<span name="zaixian_22569349421831"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2418</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="z_1_16141560130822_17584582539013_1_1_0">
+<td class="img"><a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP1N3PjN3nWN1rHTQnL980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznjcLn1E_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=17584582539013&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=5&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s02241722894011488126.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jing.58.com/adJump?adType=3&amp;target=pZwY0jCfsvFJsWN3shPfUiqBpyGGmhR8uA-6UhO6UztQP1N3PjN3nWN1rHTQnL980v6YUyk_na3krHNLnjNYPjbvPjmdnW0QPWNdnW91PHEzrHTdPj0Onjc_nHEznjcLn1E_sT&amp;loggin_user_id=14701337281287&amp;disp_cate=479&amp;disp_local=1&amp;client_user_id=&amp;entityid=17584582539013&amp;entitytype=0&amp;entity_cate=&amp;entity_local=&amp;disp_time=1399620980410&amp;position=5&amp;param=9279:1&amp;platform=-1&amp;end=end" target="_blank" class="t" tips="tips">
+                            [95成新]                            双核游戏本、速度快、大量随便挑【超高性价比】</a>
+<span class="ico ntu" title="">[5图]</span>
+<a title="置顶信息" target="_blank" href="http://e.58.com/all/zhiding.html" rel="nofollow"><span class="ico ding"> </span></a>
+<i class="clear"></i>
+                                                                                    上网、看电影、玩游戏都没问题、功能全好、质量过硬、可当场挑选试机。
+                                                                            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+</span>
+<span name="zaixian_16141560130822"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                        </span>
+</td>
+<td class="tc">
+<b class="pri">550</b> 元                    </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23043564951302_17851356229514_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17851356229514x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12247695300431795124.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17851356229514x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                转让95成新金属壳联想IBM酷睿2双核独显14宽屏</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                购买大概不到1年，成色95成吧，表面没有划痕也没有硬伤，14寸16比9…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/liujiayao/bijiben/">刘家窑</a>
+                            
+                            &nbsp;/ 2分钟
+            			</span>
+<span name="zaixian_23043564951302"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1300</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_21979421916423_17319310410882_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17319310410882x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12179592292796861065.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17319310410882x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                转联想双显8核处理器8G内存1000G硬盘无拆修联</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                                                本人自用的不要拿来和二手笔记本商贩比较！！ 2013年8月买保修至20…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+                            
+                            &nbsp;/ 4分钟
+            			</span>
+<span name="zaixian_21979421916423"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1308</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23023565414151_17841354159750_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17841354159750x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12246414733051039036.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17841354159750x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                转客户送的99成新惠普I5四核14寸宽屏独显摄像头</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                公司业务上的关系，客户赠送的，基本也没怎么用，家里有电脑而且使用不习惯…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xuanwu/bijiben/">宣武</a><span> - </span>
+<a class="c_666" href="/taoranting/bijiben/">陶然亭</a>
+                            
+                            &nbsp;/ 4分钟
+            			</span>
+<span name="zaixian_23023565414151"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1900</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22465788757510_17570116149510_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17570116149510x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12211695926675864083.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17570116149510x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                转让没有 没有暗伤 无线wi-Fi LEO背光 高</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                
+个人使用笔记本电脑 爱护的非常好 外观无明显划痕 没有暗伤之类的 …
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/bijiben/">海淀</a><span> - </span>
+<a class="c_666" href="/renmindaxue/bijiben/">人民大学</a>
+                            
+                            &nbsp;/ 6分钟
+            			</span>
+<span name="zaixian_22465788757510"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2200</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22531026614535_17869130894983_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17869130894983x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12249970813716964086.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17869130894983x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                个人转Thinkpad商务笔记本</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                Think Pad笔记本质量大家都知道的，品质是一流的，坚如磐石，而且…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/beijingzhoubian/bijiben/">北京周边</a>
+                            
+                            &nbsp;/ 6分钟
+            			</span>
+<span name="zaixian_22531026614535"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1300</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_21694775811591_17641990055809_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17641990055809x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12220889181357220016.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17641990055809x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                苹果纯白色钢琴烤漆笔记本电脑一台转了个人自己用的</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                电脑是去年年初上班那时侯因为老出外差买的，一直用到现在，感觉苹果的东西…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a><span> - </span>
+<a class="c_666" href="/bjsihui/bijiben/">四惠</a>
+                            
+                            &nbsp;/ 7分钟
+            			</span>
+<span name="zaixian_21694775811591"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1070</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23013564147719_17836372717832_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17836372717832x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12245775758675331135.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17836372717832x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                转让联想THINKPAD酷睿I5四核14寸宽屏独显</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                去年购买的，用了不到一年，跟新的差不多，外观没有磨损，没硬伤，黑色磨砂…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/zhaogongkou/bijiben/">赵公口</a>
+                            
+                            &nbsp;/ 7分钟
+            			</span>
+<span name="zaixian_23013564147719"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2100</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_18611146727431_17871421212418_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17871421212418x.shtml" target="_blank"><img src="http://2.pic.58control.cn/mobile/tiny/n_s12250264086941897164.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17871421212418x.shtml" target="_blank" class="t" tips="tips">
+                                便宜出售戴尔笔记本电脑。</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a><span> - </span>
+<a class="c_666" href="/yaojiayuan/bijiben/">姚家园</a>
+                            
+                            &nbsp;/ 8分钟
+            			</span>
+<span name="zaixian_18611146727431"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">600</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_11301279184133_17708176594437_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17708176594437x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12229364332789853003.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17708176594437x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                个人转95成新DELL酷睿2双核14寸屏DVD独显</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                之前办公出差 的时候用的，现在用得也不多，基本属于闲置，故转让，使用时…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/yuquanying/bijiben/">玉泉营</a>
+                            
+                            &nbsp;/ 8分钟
+            			</span>
+<span name="zaixian_11301279184133"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">800</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22972769641991_17815973917953_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17815973917953x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12243164445049866023.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17815973917953x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                99新I7惠普固态硬盘本本全国联保</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                
+本本外观十分完美，款式也很漂亮 今年的新款，在专卖店刚买来的，购机…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+                            
+                            &nbsp;/ 12分钟
+            			</span>
+<span name="zaixian_22972769641991"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2400</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22707051366663_17683163501322_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17683163501322x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12226159198798690015.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17683163501322x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                闲转95新联想IBM触屏旋转12寸酷睿2双核摄像头</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                爱人单位配的，一直自己使用，无拆无修，多余闲置很少使用，联想IBM可旋…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/caoqiao/bijiben/">草桥</a>
+                            
+                            &nbsp;/ 12分钟
+            			</span>
+<span name="zaixian_22707051366663"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1200</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22534251234311_17868641707658_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17868641707658x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12249908763003568096.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17868641707658x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                联想ThinkPad/IBM/T430 i7 四核</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                配置：i7处理器 cpu： 3.80G1000G 高速硬盘 7200转…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+                            
+                            &nbsp;/ 12分钟
+            			</span>
+<span name="zaixian_22534251234311"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2700</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22683537404423_17671374324353_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17671374324353x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12224652719949156024.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17671374324353x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                99新烤漆时尚游戏娱乐笔记本 办公也很快 有照片</a>
+<span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                                                 本人华硕的笔记本，正常使用一年多。性能超级稳定，从来没有任何问题。无…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 13分钟
+            			</span>
+<span name="zaixian_22683537404423"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1200</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23058291011078_17871380524161_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17871380524161x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250259060199280154.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17871380524161x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                女生自用土豪 金16GB5S正品行货 见面交易</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                在苏宁买的还有大半年保无拆修闲置中黄金色的（16GB5S）可专柜验机。…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+                            
+                            &nbsp;/ 13分钟
+            			</span>
+<span name="zaixian_23058291011078"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1500</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22247171702278_17460395095813_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17460395095813x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12197647905540568085.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17460395095813x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                本女子诚转个人自用原装超轻至薄99新酷睿T430八</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                                                 全国联保三年联想四核高配独显2G内存8G硬盘1T笔记本电脑出售本人承…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/bijiben/">海淀</a>
+                            
+                            &nbsp;/ 15分钟
+            			</span>
+<span name="zaixian_22247171702278"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1330</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23157067_17871366754951_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17871366754951x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250248314080876124.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17871366754951x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                索尼 笔记本 原装主配 无拆无修</a>
+<span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                                                   http://detail.zol.com.cn/noteboo…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/bijiben/">海淀</a><span> - </span>
+<a class="c_666" href="/sijiqinghd/bijiben/">四季青</a>
+                            
+                            &nbsp;/ 15分钟
+            			</span>
+<span name="zaixian_23157067"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1100</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22467589735687_17869084556553_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17869084556553x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12249965385453184124.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17869084556553x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                个人低价诚转让商务家用八核高端联想 独显2G 保修</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                自取，本成色极新，9.5成新以上。性能强，反应快，运行非常稳定。诚信交…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+                            
+                            &nbsp;/ 15分钟
+            			</span>
+<span name="zaixian_22467589735687"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1300</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22769295230727_17714241431175_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17714241431175x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s02230142284892160046.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17714241431175x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                转自用95成新金属戴尔I5四核14宽屏独显摄像头笔</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                诚心诚意转让，个人使用，中介二道贩子请勿打扰，个人自用戴尔I5 四核高…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/liujiayao/bijiben/">刘家窑</a>
+                            
+                            &nbsp;/ 15分钟
+            			</span>
+<span name="zaixian_22769295230727"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2100</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22903656722182_17781926401034_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17781926401034x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02238801650107710035.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17781926401034x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                苹果 笔记本 本女生自己用的本本,保护的也比较好。</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                图片是自己拍的，像素不太好。喜欢苹果的朋友电话联系。因为换了新的台式电…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a><span> - </span>
+<a class="c_666" href="/guomao/bijiben/">国贸</a>
+                            
+                            &nbsp;/ 16分钟
+            			</span>
+<span name="zaixian_22903656722182"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1880</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_21784232150278_17825521380738_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17825521380738x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12244388783590110084.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17825521380738x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                女生个人用的联想八核高端商务T430笔记本独显2G</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                女生全国三年联保联想独显2G内存8顶配商务游戏本 配件齐全正品发票 保…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 17分钟
+            			</span>
+<span name="zaixian_21784232150278"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1306</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23083541528839_17871347042440_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17871347042440x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250253492964311113.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17871347042440x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                干净 漂亮 戴尔 双核笔记本转让 至少9成新 配件</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                                                个人转让自用戴尔 双核笔记本 家里有台式电脑 这台戴尔笔记本一直在家闲…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/bijiben/">海淀</a>
+                            
+                            &nbsp;/ 18分钟
+            			</span>
+<span name="zaixian_23083541528839"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">600</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_9245277115142_17731022539013_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17731022539013x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12232279538044796123.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17731022539013x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                ThinkPad/IBM X61系列 当年最牛B的</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                笔记本最大亮点：无任何毛病，速度很快，型号ThinkPad x61型号…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 20分钟
+            			</span>
+<span name="zaixian_9245277115142"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">900</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_20359420563975_17659413203845_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17659413203845x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s02223127160885293155.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17659413203845x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                超薄联想IBM自用原装正品经典实用商务本</a>
+<span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                                                Thinkpad x200,经典12寸商务本子，超长待机。轻薄轻便。英…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 20分钟
+            			</span>
+<span name="zaixian_20359420563975"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1400</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22689320436486_17835889611272_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17835889611272x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12245715619856736004.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17835889611272x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                多余转让95成新金属15寸联想IBM轻薄小巧独显笔</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                金属轻薄型设计，携带方便，结实耐用，黑色钛合金金属外壳，15寸LED高…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/jiaomen/bijiben/">角门</a>
+                            
+                            &nbsp;/ 20分钟
+            			</span>
+<span name="zaixian_22689320436486"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">700</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_19596851957511_17703807762945_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17703807762945x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12228801196164206026.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17703807762945x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                高贵精致典雅自用闲置原装无拆无修游戏娱乐影音笔记本</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                苹果原装的一台以前上班办公纯白钢琴烤漆外观笔记本电脑转让，一直是自己用…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/dongcheng/bijiben/">东城</a><span> - </span>
+<a class="c_666" href="/dengshikou/bijiben/">灯市口</a>
+                            
+                            &nbsp;/ 21分钟
+            			</span>
+<span name="zaixian_19596851957511"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1100</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22600060154630_17868756174730_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17868756174730x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12249920819282144004.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17868756174730x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                女孩喜新厌旧转让苹果笔记本电脑 CPU酷睿双核 4</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                
+前几天我过生日我老爸送我一台超级本，本本在家里放着老爸老妈又不会用…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xicheng/bijiben/">西城</a><span> - </span>
+<a class="c_666" href="/xinjie/bijiben/">新街口</a>
+                            
+                            &nbsp;/ 22分钟
+            			</span>
+<span name="zaixian_22600060154630"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1100</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22527098674439_17593122439814_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17593122439814x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12214641053535113104.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17593122439814x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                转近乎全新的惠普I5四核金属14寸宽屏摄像头笔记本</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                单位上的业务关系，客户赠送的，使用不到一年，外观接近全新，银灰色拉丝金…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/caihuying/bijiben/">菜户营</a>
+                            
+                            &nbsp;/ 22分钟
+            			</span>
+<span name="zaixian_22527098674439"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2000</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_21578073088518_17868453040521_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17868453040521x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12249882241700051156.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17868453040521x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                女孩转2013年追求者送的苹果笔记本电脑 4G内存</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                
+本本是2013追求我的帅哥在我过生日的时候给我买的，现在分手了，也…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/bijiben/">海淀</a><span> - </span>
+<a class="c_666" href="/erlizhuang/bijiben/">二里庄</a>
+                            
+                            &nbsp;/ 22分钟
+            			</span>
+<span name="zaixian_21578073088518"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2100</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_21646874493446_17153103394561_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17153103394561x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12158320011398329123.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17153103394561x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                正品行货苹果Pro13寸屏设计剪辑专用</a>
+<span class="ico ntu" title="">[10图]</span>
+<i class="clear"></i>
+                                                低价转自用苹果MacbookPro13寸宽屏笔记本。行货 正品 双系统…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+                            
+                            &nbsp;/ 24分钟
+            			</span>
+<span name="zaixian_21646874493446"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">3750</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22264217769734_17681465251978_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17681465251978x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12225948319482048003.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17681465251978x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                闲置转让95成新戴尔酷睿2双核独显14寸宽屏笔记本</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                戴尔原装行货双核笔记本，原装配置，有保修质量信得过，金属镁钛合金金属外…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/fengyiqiao/bijiben/">丰益桥</a>
+                            
+                            &nbsp;/ 25分钟
+            			</span>
+<span name="zaixian_22264217769734"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">900</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_21561687591686_17871276153225_0_1_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17871276153225x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12230448692447730065.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17871276153225x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                高价收售苹果MD101笔记本北京收售外星人笔记本收</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                北京华盛数码集团！本公司24小时上门服务！咨询电话：1355 222 …
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/shunyi/bijiben/">顺义</a><span> - </span>
+<a class="c_666" href="/yangzhen/bijiben/">杨镇</a>
+                            
+                            &nbsp;/ 27分钟
+            			</span>
+<span name="zaixian_21561687591686"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                        </span>
+</td>
+<td class="tc">
+<b class="pri">5000</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22857824924167_17806255100805_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17806255100805x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s02241916826603321134.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17806255100805x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                转让个人使用高配联想笔记本</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                自用笔记本一台，买了台式机所以笔记本很少用，外观除了稍微有点轻微划伤其…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/bijiben/">海淀</a><span> - </span>
+<a class="c_666" href="/zhichunlu/bijiben/">知春路</a>
+                            
+                            &nbsp;/ 28分钟
+            			</span>
+<span name="zaixian_22857824924167"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1280</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22903466896390_17781302423815_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17781302423815x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s02238728549223239104.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17781302423815x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                99成新东芝15.4镜面宽屏酷睿2双核独显大本本</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                个人觉得有点大带着不太方便，所以转让，用了不到一年，外观99成新，还在…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/majiabao/bijiben/">马家堡</a>
+                            
+                            &nbsp;/ 29分钟
+            			</span>
+<span name="zaixian_22903466896390"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1100</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_28147554_17852634043394_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17852634043394x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12247859717197288103.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17852634043394x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                苹果 MacBookPro系列 笔记本</a>
+<span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                                                基本状况苹果 MacBookPro系列A1286 酷睿i7 四核 4G…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a><span> - </span>
+<a class="c_666" href="/cbd/bijiben/">CBD </a>
+                            
+                            &nbsp;/ 31分钟
+            			</span>
+<span name="zaixian_28147554"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">6500</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_16443276229638_17725754993031_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17725754993031x.shtml" target="_blank"><img src="http://3.pic.58control.cn/mobile/tiny/n_s02231604974683532054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17725754993031x.shtml" target="_blank" class="t" tips="tips">
+                                全新未拆封联想thinkpad T430u</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                全新闲置，无发票，
+随赠
+1.电脑包
+2.鼠标
+3.联想楽pa…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/liuliqiao/bijiben/">六里桥</a>
+                            
+                            &nbsp;/ 32分钟
+            			</span>
+<span name="zaixian_16443276229638"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">8800</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_11514919963142_17871225986953_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17871225986953x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250233452103019024.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17871225986953x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                闲置戴尔外星人XPS M1210 12寸笔记本转让</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                闲置在家！有需要的联系！功能一切正常！原装9芯电池！原装电源！基本信息…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a><span> - </span>
+<a class="c_666" href="/cbd/bijiben/">CBD </a>
+                            
+                            &nbsp;/ 33分钟
+            			</span>
+<span name="zaixian_11514919963142"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">800</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_21668562438406_17561867338762_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17561867338762x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s02218900770259308005.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17561867338762x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                17寸超大宽屏真正的四核游戏超级本 散热好 速度快</a>
+<span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+                                                 4G内存 500G硬盘 四核八线程i7处理器东芝笔记本。(下图有实物…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 34分钟
+            			</span>
+<span name="zaixian_21668562438406"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">2600</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_2_21844959075591_17539391144963_0_2_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17539391144963x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12207764774063312116.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17539391144963x.shtml" target="_blank" class="t" tips="tips">
+                [9成新]                北京回收苹果笔记本回收苹果mc724回收mc721</a>
+<span class="wb-m-wlt-ico" title="58.com建议您优先选择网邻通商家"><i>1</i></span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                回收苹果笔记本回收二手苹果笔记本电脑回-收苹果imac一-台电脑回收苹…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/changping/bijiben/">昌平</a><span> - </span>
+<a class="c_666" href="/lishuiqiao/bijiben/">立水桥</a>
+                            
+                            &nbsp;/ 36分钟
+            			</span>
+<span name="zaixian_21844959075591"></span>
+<span class="fl ml5 biz">
+														  							  	[网邻通商家]
+							  							                        </span>
+</td>
+<td class="tc">
+<b class="pri">8000</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22647004724742_17658620782343_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17658620782343x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12223026209328041096.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17658620782343x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                个人诚心转让绝对够档次的新款酷睿四核联想笔记本</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                                                有需要的大哥大姐可以来电联系我！ 买电脑时全套手续还在的，入手就可以直…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/bijiben/">北京</a>
+                            
+                            &nbsp;/ 36分钟
+            			</span>
+<span name="zaixian_22647004724742"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1350</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_15270741295623_17871199577994_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17871199577994x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250233688427132084.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17871199577994x.shtml" target="_blank" class="t" tips="tips">
+                [8成新]                转让自用的戴尔双核笔记本电脑</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                转让一台自家用的双核电脑，戴尔14寸笔记本，80G硬盘，办公、上网都好…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a><span> - </span>
+<a class="c_666" href="/jiuxianqiao/bijiben/">酒仙桥</a>
+                            
+                            &nbsp;/ 37分钟
+            			</span>
+<span name="zaixian_15270741295623"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">500</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23023041515527_17841071155714_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17841071155714x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12246372729655576154.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17841071155714x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                本人学生,钱紧张转父母给买的苹果笔记本电脑,十五寸</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                朋友们好，此笔记本非常好用。我的苹果笔记本是去年9月份开学前后在国美电…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/bijiben/">海淀</a>
+                            
+                            &nbsp;/ 38分钟
+            			</span>
+<span name="zaixian_23023041515527"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1500</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23023872821766_17841486607107_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17841486607107x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12246425530468676064.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17841486607107x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                这苹果我平时很少用,有一个就足够了。所以放着也没什</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                苹果笔记本电脑刚买了没多长时间，保养的非常好了，在保没有维修史，家里刚…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xicheng/bijiben/">西城</a>
+                            
+                            &nbsp;/ 39分钟
+            			</span>
+<span name="zaixian_23023872821766"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">890</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_17534521748742_17850876035331_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17850876035331x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12247632605219023056.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17850876035331x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                独显无线蓝牙齐全新款时尚苹果笔记本电脑转给诚心的朋</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                专卖店买的原装正品苹果笔记本电脑发票保修卡都在的呢，本本机身简洁，时尚…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a><span> - </span>
+<a class="c_666" href="/guomao/bijiben/">国贸</a>
+                            
+                            &nbsp;/ 40分钟
+            			</span>
+<span name="zaixian_17534521748742"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1050</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_1_21313014460679_17205019161354_0_1_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17205019161354x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12164963242050856036.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17205019161354x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                个人联想T430笔记本【酷睿i7八核】2G独立显卡</a>
+<span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                                                鲁大师随意检测真金不怕火来炼,全国质保三年,商务笔记本 无拆无修低价急…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 41分钟
+            			</span>
+<span name="zaixian_21313014460679"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                        </span>
+</td>
+<td class="tc">
+<b class="pri">1330</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23012202350087_17869930544129_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17869930544129x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250074041567348076.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17869930544129x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                本人转thinkpad产品的精英x220 最顶端的</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                本人转thinkpad产品的精英x220 最顶端的一款笔记本用得很爱惜…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/haidian/bijiben/">海淀</a>
+                            
+                            &nbsp;/ 42分钟
+            			</span>
+<span name="zaixian_23012202350087"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1600</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_22891218374406_17830881121546_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17830881121546x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12245073663707618074.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17830881121546x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                才用联想笔记本九五成新,十四寸高清宽屏,高屏幕,,</a>
+<span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                ﻿
+前几天一个朋友去美国，帮我带了苹果本本，那边比这边便宜多了，有了…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 42分钟
+            			</span>
+<span name="zaixian_22891218374406"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">850</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23063144723974_17861140338570_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17861140338570x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12248947795249226076.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17861140338570x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                女孩诚心转让个人自用一部大屏幕崭新笔记本没有任何问</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                原装产品，绝对的精品笔记本，性能稳定、经久耐用，标准机身，大尺寸屏幕，…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 42分钟
+            			</span>
+<span name="zaixian_23063144723974"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">870</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23044258372871_17851778134530_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17851778134530x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12247742234233795114.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17851778134530x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                准备送人的,因为家人反对,后来就掰了,所以本本一直</a>
+<span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                
+本本很新，去年购买的！买来准备送人的，因为家人反对，后来就掰了，所…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 42分钟
+            			</span>
+<span name="zaixian_23044258372871"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">820</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_23043538308615_17851319092486_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17851319092486x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12247688595851325084.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17851319092486x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                老公今年五一单位组织玩,回来又送我一个新款笔记本电</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                
+老公今年五一单位组织玩，回来又送我一个新款笔记本电脑，把一年前送我…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/chaoyang/bijiben/">朝阳</a>
+                            
+                            &nbsp;/ 43分钟
+            			</span>
+<span name="zaixian_23043538308615"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">1620</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+<tr logr="p_0_20364508205319_17203792520328_0_0_0">
+<td class="img"><a href="http://bj.58.com/bijibendiannao/17203792520328x.shtml" target="_blank"><img src="http://4.pic.58control.cn/p1/tiny/n_s12164807073076194163.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://bj.58.com/bijibendiannao/17203792520328x.shtml" target="_blank" class="t" tips="tips">
+                [95成新]                传媒公司办公做设计用原装商务笔记本性能稳定速度快转</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                笔记本电脑处理器2.4G以上的，1G到2G内存,硬盘80到250G，1…
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/fengtai/bijiben/">丰台</a><span> - </span>
+<a class="c_666" href="/caoqiao/bijiben/">草桥</a>
+                            
+                            &nbsp;/ 44分钟
+            			</span>
+<span name="zaixian_20364508205319"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">501</b> 元        </td>
+<td class="tc">
+</td>
+</tr>
+</table>
+<!-- =E tbimg/tbtxt -->
+<!-- =S 底部精准推广显示 -->
+<!-- =E 底部精准推广显示 -->
+<!-- =S bottom_google_ad -->
+<div id="guanggao"> <div id="taobao"></div>
+<div id="bottom_google_ad"></div>
+</div>
+<!-- =E bottom_google_ad -->
+</div>
+<!-- =S pager -->
+<div class="pager">
+<strong><span>1</span></strong><a href="/bijiben/pn2/"><span>2</span></a><a href="/bijiben/pn3/"><span>3</span></a><a href="/bijiben/pn4/"><span>4</span></a><a href="/bijiben/pn5/"><span>5</span></a><a href="/bijiben/pn6/"><span>6</span></a><a href="/bijiben/pn7/"><span>7</span></a><a href="/bijiben/pn8/"><span>8</span></a><a href="/bijiben/pn9/"><span>9</span></a><a href="/bijiben/pn10/"><span>10</span></a><a href="/bijiben/pn11/"><span>11</span></a><a href="/bijiben/pn12/"><span>12</span></a><a class="next" href="/bijiben/pn2/"><span>下一页</span></a>
+<span class="dingyue2 dingyuebtn" id="mianfeidingyue">
+        							免费订阅
+                                </span>
+</div>
+<!-- =E pager -->
+<!-- =S infocont -->
+<div id="infocont" class="infocont">
+   		共 <span style="color: red"><b>26792</b></span> 条信息，
+       <a href="http://post.58.com/1/38483/s5" target="_blank" class="pubbtn" rel="nofollow">马上发布一条北京二手笔记本信息&raquo;</a>
+</div>
+<!-- =S RelatedSearch 相关搜索 -->
+<!-- =E RelatedSearch 相关搜索 -->
+<!--商业产品 广告-->
+<div id="bottom_zhaoshangjiameng_ad"></div>
+<!-- =E infocont -->
+</div>
+<!-- =E infolist 左侧列表主体 -->
+<!-- =S rightframe 右侧广告 -->
+<!-- =S rightframe 右侧广告   class="cright"  -->
+<div id="rightframe">
+<div class="tiaocha">
+<a target="_blank" href="http://58tongcheng.sojump.com/jq/3171926.aspx">
+<img src="http://pic2.58.com/ui7/ershou/list/tiaocha.png" />
+</a>
+</div>
+<div class="act02_center">
+<p><img src="http://pic2.58.com/ui7/ershou/act/act2_center.png" /></p>
+<div class="zfb_list">
+<p><a rel="nofollow" target="_blank" href="http://static.58.com/ui7/help/payment.html?from=list-right-xiaobao"><img src="http://pic2.58.com/ui7/ershou/act/zfb_01.png" /></a></p>
+<ol>
+<li><a rel="nofollow" target="_blank" href="http://static.58.com/ui7/help/es_index.html?from=list-right-xiaobao"><i class="zfb_01"></i>保障服务</a></li>
+<li class="zfb_li"><a rel="nofollow" target="_blank" href="http://about.58.com/ershou/buyer.html?from=list-right-xiaobao#findwp-1"><i class="zfb_02"></i>交易流程</a></li>
+<li><a rel="nofollow" target="_blank" href="http://about.58.com/ershou/buyer.html?from=list-right-xiaobao#tiaoxuan"><i class="zfb_03"></i>常见问题</a></li>
+<li class="zfb_li"><a rel="nofollow" target="_blank" href="http://about.58.com/ershou/buyer.html?from=list-right-xiaobao#tuikuan"><i class="zfb_04"></i>售后权益</a></li>
+</ol>
+</div>
+<p><a href="http://static.58.com/ui7/help/safesj.shtml?from=list-right-safesj" target="_blank" rel="nofollow" onclick="clickLog('from=list-right-safesj');"><img src="http://pic2.58.com/ui7/ershou/act/qizha2.png" /></a></p>
+</div>
+<!--见面交易 E-->
+<div id="ad19"></div>
+</div>
+<!-- =E rightframe 右侧广告 --><!-- =E rightframe 右侧广告 -->
+</section>
+<!-- =E main -->
+<!-- =S 智能推广 -->
+<div id="direct_ad_bottom"></div>
+<!-- =E 智能推广 -->
+<!-- =S 底部广告 -->
+<div id="ad_b12"></div>
+<!-- =E 底部广告 -->
+<!-- =S #links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S relate 相关信息 -->
+<dl class="linksItem relate" id="relate">
+<dt class="b-left">
+<h2>北京笔记本相关信息</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="/bijibendiannao/jh_%E8%B6%85%E8%96%84%E7%AC%94%E8%AE%B0%E6%9C%AC/">超薄笔记本</a></li>
+<li><a href="/bijibendiannao/jh_i7%E7%AC%94%E8%AE%B0%E6%9C%AC/">i7笔记本</a></li>
+<li><a href="/bijibendiannao/jh_%E7%B4%A2%E5%B0%BC%E7%AC%94%E8%AE%B0%E6%9C%AC/">索尼笔记本</a></li>
+<li><a href="/bijibendiannao/jh_%E8%8B%B9%E6%9E%9C%E7%AC%94%E8%AE%B0%E6%9C%AC/">苹果笔记本</a></li>
+<li><a href="/bijibendiannao/jh_%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC/">华硕笔记本</a></li>
+<li><a href="/bijibendiannao/jh_%E8%81%94%E6%83%B3%E7%AC%94%E8%AE%B0%E6%9C%AC/">联想笔记本</a></li>
+<li><a href="/bijibendiannao/jh_i5%E7%AC%94%E8%AE%B0%E6%9C%AC/">i5笔记本</a></li>
+<li><a href="/bijibendiannao/jh_%E4%B8%89%E6%98%9F%E7%AC%94%E8%AE%B0%E6%9C%AC/">三星笔记本</a></li>
+<li><a href="/bijibendiannao/jh_%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%A1%AC%E7%9B%98/">笔记本硬盘</a></li>
+<li><a href="/bijibendiannao/jh_ibm%E7%AC%94%E8%AE%B0%E6%9C%AC/">ibm笔记本</a></li>
+<li><a href="/bijibendiannao/jh_%E6%83%A0%E6%99%AE%E7%AC%94%E8%AE%B0%E6%9C%AC/">惠普笔记本</a></li>
+<li><a href="/bijiben/daohang_北京笔记本/" target="_blank">更多&gt;&gt;</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E relate 相关信息 -->
+<!-- =S relatelink -->
+<!-- =E relatelink -->
+<!-- =S friendtips -->
+<dl class="linksItem friendtips" id="friendtips">
+<dt class="b-left">
+<h2>北京笔记本频道介绍</h2></dt>
+<dd class="b-right"><p>北京二手笔记本频道为您提供北京二手笔记本转让/出售信息，在此有大量北京二手笔记本报价/图片/价格信息供您选择，您可以免费查看和发布北京二手笔记本信息。
+</p></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>热门城市笔记本</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://sh.58.com/bijiben/">上海二手笔记本</a></li>
+<li><a href="http://bj.58.com/bijiben/">北京二手笔记本</a></li>
+<li><a href="http://sz.58.com/bijiben/">深圳二手笔记本</a></li>
+<li><a href="http://gz.58.com/bijiben/">广州二手笔记本</a></li>
+<li><a href="http://tj.58.com/bijiben/">天津二手笔记本</a></li>
+<li><a href="http://nj.58.com/bijiben/">南京二手笔记本</a></li>
+<li><a href="http://dl.58.com/bijiben/">大连二手笔记本</a></li>
+<li><a href="http://hz.58.com/bijiben/">杭州二手笔记本</a></li>
+<li><a href="http://sy.58.com/bijiben/">沈阳二手笔记本</a></li>
+<li><a href="http://hrb.58.com/bijiben/">哈尔滨二手笔记本</a></li>
+<li><a href="http://cd.58.com/bijiben/">成都二手笔记本</a></li>
+<li><a href="http://dg.58.com/bijiben/">东莞二手笔记本</a></li>
+<li><a href="http://jn.58.com/bijiben/">济南二手笔记本</a></li>
+<li><a href="http://fs.58.com/bijiben/">佛山二手笔记本</a></li>
+<li><a href="http://wx.58.com/bijiben/">无锡二手笔记本</a></li>
+<li><a href="http://cs.58.com/bijiben/">长沙二手笔记本</a></li>
+<li><a href="http://wh.58.com/bijiben/">武汉二手笔记本</a></li>
+<li><a href="http://nb.58.com/bijiben/">宁波二手笔记本</a></li>
+<li><a href="http://cc.58.com/bijiben/">长春二手笔记本</a></li>
+<li><a href="http://su.58.com/bijiben/">苏州二手笔记本</a></li>
+<li><a href="http://qd.58.com/bijiben/">青岛二手笔记本</a></li>
+<li><a href="http://zh.58.com/bijiben/">珠海二手笔记本</a></li>
+<li><a href="http://cq.58.com/bijiben/">重庆二手笔记本</a></li>
+<li><a href="http://fz.58.com/bijiben/">福州二手笔记本</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S 底部链接分类 -->
+<!-- =E 底部链接分类 -->
+<!-- =S 周边城市 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				北京二手笔记本周边城市
+			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a target="_blank" href="http://tj.58.com/bijiben/">天津二手笔记本</a>
+</li>
+<li>
+<a target="_blank" href="http://sjz.58.com/bijiben/">石家庄二手笔记本</a>
+</li>
+<li>
+<a target="_blank" href="http://zjk.58.com/bijiben/">张家口二手笔记本</a>
+</li>
+<li>
+<a target="_blank" href="http://bd.58.com/bijiben/">保定二手笔记本</a>
+</li>
+<li>
+<a target="_blank" href="http://lf.58.com/bijiben/">廊坊二手笔记本</a>
+</li>
+<li>
+<a target="_blank" href="http://ts.58.com/bijiben/">唐山二手笔记本</a>
+</li>
+<li>
+<a target="_blank" href="http://chengde.58.com/bijiben/">承德二手笔记本</a>
+</li>
+<li>
+<a target="_blank" href="http://qhd.58.com/bijiben/">秦皇岛二手笔记本</a>
+</li>
+<li>
+<a target="_blank" href="http://cangzhou.58.com/bijiben/">沧州二手笔记本</a>
+</li>
+<li>
+<a target="_blank" href="http://hs.58.com/bijiben/">衡水二手笔记本</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 周边城市 -->
+<!-- =S friendlink -->
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!-- =S 筛选保存个数 -->
+<ul id="localInfo" class="lso-hide" style="left: 1198.5px; top: 578px;">
+<li class="item"><a class="item-left" href="http://bj.58.com/dongcheng/shouji/pve_5595_300242/?v=1">东城二手手机300万像素</a><a class="off-button" href="#localInfo"></a></li>
+</ul>
+<!-- =E 筛选保存个数 -->
+<script type="text/javascript">
+    boot.require('util.uri', function (Frame, uri) {
+        var mutexs_par = "".substring(0, 1);
+        var re = new RegExp(mutexs_par + '\\d+', 'ig')
+        mutexs = [
+            {searchitem: re, params: ["minprice"], searthname: '价格'}
+        ];
+        for (var i = 0, leni = mutexs.length; i &lt; leni; i++) {
+            var mutex = mutexs[i];
+            var pobj = {};
+            for (var j = 0, lenj = mutex.params.length; j &lt; lenj; j++) {
+                pobj[mutex.params[j]] = null;
+            }
+            for (var l = 0, lenl = mutex.params.length; l &lt; lenl; l++) {
+                var pitem = $("#selection&gt;.secitem dt:contains(" + mutex.searthname + ")").parent();
+                pitem.find("a").each(function () {
+                    var o = {};
+                    o[mutex.params] = null;
+                    this.href = (new uri(this.href)).setQuery(o);
+                });
+            }
+        }
+    });
+</script>
+<script src="http://track.58.com/adsys/ggafs?rand=20140509"></script>
+<script>
+    //信息hover
+    boot.require('dom, anim.hover', function (Frame, dom, hover) {
+        var isPersonal = false;
+        var cc;
+        if (isPersonal) {
+            cc = dom.get('hoverinfo');
+        }
+        else {
+            cc = dom.get('infolist');
+        }
+        trs = cc.getElementsByTagName('tr');
+        Frame.each(trs, function (item) {
+            hover.bind(item, 'bg');
+        });
+    });
+
+    $(".selector").each(function () {
+        $(this).hover(function () {
+            $(this).addClass("hover")
+        }, function () {
+            $(this).removeClass("hover")
+        });
+    });
+    ////导航
+    var navs = [];
+    navs.push(['北京58同城', 'http://bj.58.com/sou/']);
+    navs.push(['北京二手市场', '/sale.shtml']);
+                navs.push(['北京笔记本电脑', '/bijibendiannao/']);
+            navs.push(['北京笔记本信息', '/bijiben/']);
+                    boot.require('business.navbar', function (Frame, navbar) {
+        navbar.init(navs);
+    });
+    ///////标红////
+    boot.require('business.highlight', function (Frame, highlight) {
+                        highlight.init($("#infolist a.t"), '');
+            });
+</script>
+<div style="display:none">
+<!--基本统计代码begin(5,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {level1:'0', level2:'0', level3:'0',  level4:'0', level5:'0', sortid: '451843225'};
+var _gaq = _gaq || [], site_name = "58", post_count = "61", page_type = "list";
+ _trackURL = "{'cate':'5,38483,479','area':'1','pagetype':'list','pagesize':'50','pagenum':'1','jiage':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+boot.require('business.gaq, util.js', function (Frame, gaq, js) {
+	_gaq.push(['pageTracker._trackPageview', gaq("sale", "/bj/sale/bijibendiannao/bijiben/list/")]);
+	_gaq.push(['pageTracker._trackPageLoadTime']);
+	Frame.init(function () {
+		js.append(('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+		js.append('http://tracklog.58.com/referrer4.js');
+	});
+});
+</script>
+<!--基本统计代码end-->
+</div>
+<!-- =S 地域推荐功能 -->
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" name="myTest" align="middle">
+<param name="allowScriptAccess" value="always">
+</param><param name="movie" value="http://list.house.58.com/kanfangdan.swf">
+</param><param name="quality" value="high">
+<embed src="http://list.house.58.com/kanfangdan.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true" allowscriptaccess="always"></embed>
+</param></object>
+<!-- =S 地域推荐功能 -->
+<script>
+$(window).resize(function(){
+	if($(document.body).width()&lt;1333){
+		$(".qizha").hide();
+	}else{
+		$(".qizha").show();
+	}
+	
+});
+$(function (){
+	$(".qizha span").click(function (){
+		$(".qizha").hide();
+	});
+});
+</script>
+<div class="qizha">
+<img src="http://pic2.58.com/ui7/ershou/list/qizha-dn.png" />
+<span></span>
+<a href="http://static.58.com/ui7/help/safedn.shtml?from=list-left-safedn" target="_blank" onclick="clickLog('from=list-left-safedn');"></a>
+</div>
+</body>
+</html>

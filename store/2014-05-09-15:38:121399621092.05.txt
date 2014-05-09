@@ -1,0 +1,1504 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【奥迪品荐二手本田|奥迪品荐本田汽车价格】-58同城</title>
+<meta name="keywords" content="奥迪品荐二手本田，奥迪品荐本田汽车价格" />
+<meta name="description" content="58同城奥迪品荐二手本田频道为您提供大量奥迪品荐汽车价格信息，是经过厂商严格审核的奥迪品荐二手本田信息，是您网上选购二手本田的最佳选择。" />
+<link rel="stylesheet" href="http://static.58.com/ui7/car/aodi/aodi.css" type="text/css" />
+</head>
+<body>
+<div class="headercon">
+<div id="topbar">
+<div class="topcon">
+<ul>
+<li><a href="javascript:brandZoneNamespace.addBookmark();">收藏本专区</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com">58首页</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com/ershouche/">58二手车</a></li>
+</ul>
+</div>
+</div>
+<div class="header">
+<a href="/" class="logo"><img src="http://pic2.58.com/ui7/car/aodi/logo.png" alt="一汽-大众" width="79" height="16" /></a>
+<ul class="navlist"><!--导航条-->
+<li><a href="/">首页</a></li>
+<li><a href="/jieshao/">关于奥迪品荐</a></li>
+<li><a href="/fuwu/">奥迪品荐服务</a></li>
+<li><a href="/news/">奥迪品荐动态</a></li>
+<li><a href="/ershouche/" class="hover">二手车搜索</a></li>
+<li><a href="/shangjia/">经销商查询</a></li>
+</ul>
+<div class="audi"><a href="/"><img src="http://pic2.58.com/ui7/car/aodi/audi.png" width="143" height="20" alt="突破科技，启迪未来" /></a></div>
+</div>
+</div> <div class="dealerwrap">
+<div class="wrap">
+<div class="selection">
+<dl class="secitem01">
+<dt class="secitem_brand">所在地：</dt>
+<dd>
+<div class="obj-wrapper mr8">
+<div id="dealer-province" class="obj-cate-div">
+<span id="curr-province">选择省份</span>
+</div>
+</div>
+<div class="obj-wrapper">
+<div id="dealer-city" class="obj-cate-div">
+<span id="curr-city">选择城市</span>
+</div>
+</div>
+<input id="carListJinPin" type="hidden" />
+<input id="dealer-search" class="submitbtn" type="button" value="确定" />
+<span id="dealer-meg" class="dealermeg"></span>
+</dd>
+</dl>
+<div class="audidiv">
+<!-- 奥迪 begin  -->
+<dl class="secitem audisection">
+<dt class="secitem_brand">奥迪：&nbsp;&nbsp;&nbsp;&nbsp;</dt>
+<dd id="audi_chexi">
+<a href="http://audi.58.com/aliul/">A6L</a>
+<a href="http://audi.58.com/aodialiu/">A6</a>
+<a href="http://audi.58.com/asil/">A4L</a>
+<a href="http://audi.58.com/aodiqqi/">Q7</a>
+<a href="http://audi.58.com/aodiasi/">A4</a>
+<a href="http://audi.58.com/adabl/">A8L</a>
+<a href="http://audi.58.com/adqw/">Q5</a>
+<a href="http://audi.58.com/aoditt/">TT</a>
+<a href="http://audi.58.com/aodiyibai/">奥迪100</a>
+<a href="http://audi.58.com/aodiawu/">A5</a>
+<a href="http://audi.58.com/aodilb/">奥迪200</a>
+<a href="http://audi.58.com/aodirba/">R8</a>
+<a href="http://audi.58.com/adaljk/">A6(进口)</a>
+<a href="http://audi.58.com/aodiasan/">A3</a>
+<a href="http://audi.58.com/adqwjk/">Q5(进口)</a>
+<a href="http://audi.58.com/aqiqc/">A7</a>
+<a href="http://audi.58.com/aodiswu/">S5</a>
+<a href="http://audi.58.com/qsanqc/">Q3(进口)</a>
+<a href="http://audi.58.com/ayiqc/">A1</a>
+<a href="http://audi.58.com/aodiqsan/">Q3</a>
+<a href="http://audi.58.com/adasjk/">A4(进口)</a>
+</dd>
+</dl>
+<!-- 奥迪end -->
+<dl class="secitem">
+<dt class="secitem_brand">类型：</dt>
+<dd>
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a href="http://audi.58.com/jingjijiaoche/">轿车</a>
+<a href="http://audi.58.com/yeuyeche/">越野车/SUV</a>
+<a href="http://audi.58.com/mpv/">MPV</a>
+<a href="http://audi.58.com/paoche/">跑车</a>
+<a href="http://audi.58.com/keche/">客车</a>
+<a href="http://audi.58.com/mianbaoche/">面包车</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">品牌：</dt>
+<dd class="clearfix">
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a class="select" href="http://audi.58.com/bentian/">本田</a>
+<a href="http://audi.58.com/aodi/">奥迪</a>
+<a href="http://audi.58.com/dazhong/">大众</a>
+<a href="http://audi.58.com/bieke/">别克</a>
+<a href="http://audi.58.com/fengtian/">丰田</a>
+<a href="http://audi.58.com/xiali/">夏利</a>
+<a href="http://audi.58.com/richan/">日产</a>
+<a href="http://audi.58.com/qirui/">奇瑞</a>
+<a href="http://audi.58.com/baoma/">宝马</a>
+<a href="http://audi.58.com/xiandai/">现代</a>
+<a href="http://audi.58.com/mazida/">马自达</a>
+<a href="http://audi.58.com/futianche/">福田</a>
+<a href="http://audi.58.com/biyadi/">比亚迪</a>
+<a href="http://audi.58.com/lingmu/">铃木</a>
+<a href="http://audi.58.com/xuetielong/">雪铁龙</a>
+<a href="http://audi.58.com/jili/">吉利</a>
+<a href="http://audi.58.com/benchi/">奔驰</a>
+<a href="http://audi.58.com/changanche/">长安</a>
+<a href="http://audi.58.com/fute/">福特</a>
+<a href="http://audi.58.com/xuefulan/">雪佛兰</a>
+<a id="moreBrand" name="b_link" para="custom" cl="" href="javascript:void(0)">更多<i class="bak_i_down"></i>
+<!-- &lt;i class="bak_i"&gt;&lt;/i&gt; --></a>
+<div id="moreBrandContainer" class="morepinpai">
+<br /> <a href="http://audi.58.com/jinbei/">金杯</a>
+<a href="http://audi.58.com/qiya/">起亚</a>
+<a href="http://audi.58.com/jianghuai/">江淮</a>
+<a href="http://audi.58.com/biaozhi/">标致</a>
+<a href="http://audi.58.com/jeep/">吉普</a>
+<a href="http://audi.58.com/yiqi/">一汽</a>
+<a href="http://audi.58.com/zhonghua/">中华</a>
+<a href="http://audi.58.com/jinlong/">金龙</a>
+<a href="http://audi.58.com/hafei/">哈飞</a>
+<a href="http://audi.58.com/feiyate/">菲亚特</a>
+<a href="http://audi.58.com/haima/">海马</a>
+<a href="http://audi.58.com/dadi/">长城</a>
+<a href="http://audi.58.com/leikesasi/">雷克萨斯</a>
+<a href="http://audi.58.com/rongwei/">荣威</a>
+<a href="http://audi.58.com/sanling/">三菱</a>
+<a href="http://audi.58.com/sikeda/">斯柯达</a>
+<a href="http://audi.58.com/luhu/">路虎</a>
+<a href="http://audi.58.com/woerwo/">沃尔沃</a>
+<a href="http://audi.58.com/baoshijie/">保时捷</a>
+<a href="http://audi.58.com/baicmotor/">北汽</a>
+<a href="http://audi.58.com/kaidilake/">凯迪拉克</a>
+<a href="http://audi.58.com/minicar/">MINI</a>
+<a href="http://audi.58.com/hongqiche/">红旗</a>
+<a href="http://audi.58.com/benteng/">奔腾</a>
+<a href="http://audi.58.com/lifanc/">力帆</a>
+<a href="http://audi.58.com/oubao/">欧宝</a>
+<a href="http://audi.58.com/cfqc/">长丰</a>
+<a href="http://audi.58.com/dihaoc/">帝豪</a>
+<a href="http://audi.58.com/daoqi/">道奇</a>
+<a href="http://audi.58.com/fengxing/">风行</a>
+<a href="http://audi.58.com/oulangcar/">欧朗</a>
+<a href="http://audi.58.com/qqy/">全球鹰</a>
+<a href="http://audi.58.com/ruiqi/">瑞麒</a>
+<a href="http://audi.58.com/subaru/">斯巴鲁</a>
+<a href="http://audi.58.com/mgc/">MG</a>
+<a href="http://audi.58.com/huatai/">华泰</a>
+<a href="http://audi.58.com/yfnd/">英菲尼迪</a>
+<a href="http://audi.58.com/jiebao/">捷豹</a>
+<a href="http://audi.58.com/dffs/">东风风神</a>
+<a href="http://audi.58.com/xinkai/">新凯</a>
+<a href="http://audi.58.com/yinglun/">英伦</a>
+<a href="http://audi.58.com/zhongtai/">众泰</a>
+<a href="http://audi.58.com/sabo/">萨博</a>
+<a href="http://audi.58.com/lnc/">雷诺</a>
+<a href="http://audi.58.com/nqxyt/">南汽新雅途</a>
+<a href="http://audi.58.com/yyfd/">永源</a>
+<a href="http://audi.58.com/shuanglong/">双龙</a>
+<a href="http://audi.58.com/smartc/">精灵smart</a>
+<a href="http://audi.58.com/ouge/">讴歌</a>
+<a href="http://audi.58.com/linian/">理念</a>
+</div>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">车系：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/bentian/">不限</a>
+<a href="http://audi.58.com/yage/">雅阁</a>
+<a href="http://audi.58.com/siyu/">思域</a>
+<a href="http://audi.58.com/feidu/">飞度</a>
+<a href="http://audi.58.com/bentiancrv/">CR-V</a>
+<a href="http://audi.58.com/aodesai/">奥德赛</a>
+<a href="http://audi.58.com/fengfan/">锋范</a>
+<a href="http://audi.58.com/sidi/">思迪</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">价格：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/ershouche/">不限</a> <a target="_self" href="http://audi.58.com/bentian/pve_5864_0_3/">3万以内</a>
+<a target="_self" href="http://audi.58.com/bentian/pve_5864_3_5/">3-5万</a>
+<a target="_self" href="http://audi.58.com/bentian/pve_5864_5_6/">5-6万</a>
+<a target="_self" href="http://audi.58.com/bentian/pve_5864_6_7/">6-7万</a>
+<a target="_self" href="http://audi.58.com/bentian/pve_5864_7_8/">7-8万</a>
+<a target="_self" href="http://audi.58.com/bentian/pve_5864_8_10/">8-10万</a>
+<a target="_self" href="http://audi.58.com/bentian/pve_5864_10_20/">10-20万</a>
+<a target="_self" href="http://audi.58.com/bentian/pve_5864_20_999999/">20万以上</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="listcon">
+<div class="list-tit">
+<h3>
+<!--共找到&lt;b&gt;107&lt;/b&gt; 辆车源 -->
+<span class="rz"><label for="checkbox"><input type="checkbox" id="checkbox" class="checkbox" />奥迪认证车</label></span>
+</h3>
+<div class="list-r">
+<span class="pagenow"><b>1</b>/3</span>
+<span class="qiehuan"> <a href=" javascript:void(0)" class="pre gray"></a> <a href="http://audi.58.com/bentian/pn2/" class="next "></a>
+</span> </div>
+</div>
+<div class="area-con01">
+<ul class="arealist">
+<li>
+<div class="g_img"><span>
+<a href="http://tz.58.com/ershouche/17871256525570x.shtml" target="_blank">
+<img title="本田飞度 2006款 1.5 MT标准版-自家用车 无任何事故 性价比高" src="http://4.pic.58control.cn/p1/small/n_s12250242624228495094.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://tz.58.com/ershouche/17871256525570x.shtml" title="本田飞度 2006款 1.5 MT标准版-自家用车 无任何事故 性价比高" target="_blank">本田飞度 2006款 1.5 MT标准版-自家用车 无任何事故 性价比高</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.98<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="台州和诚临奥汽车有限公司" href="http://shop.58.com/26253278622680339/">台州和诚临奥汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">台州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zhuzhou.58.com/ershouche/17870720849290x.shtml" target="_blank">
+<img title="本田CR-V 2008款 2.0 自动挡两驱都市版-车况很好,无任何大事故" src="http://1.pic.58control.cn/p1/small/n_s12250169968742627164.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zhuzhou.58.com/ershouche/17870720849290x.shtml" title="本田CR-V 2008款 2.0 自动挡两驱都市版-车况很好,无任何大事故" target="_blank">本田CR-V 2008款 2.0 自动挡两驱都市版-车况很好,无任何大事故</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										12.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="株洲湘奥汽车销售服务有限公司" href="http://shop.58.com/26253713813309972/">株洲湘奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">株洲</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17850258353800x.shtml" target="_blank">
+<img title="本田雅阁 2008款 2.4 EX Navi 2008年上牌-八代雅阁,2.4L 车况良好" src="http://1.pic.58control.cn/p1/small/n_s12247556011412133103.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17850258353800x.shtml" title="本田雅阁 2008款 2.4 EX Navi 2008年上牌-八代雅阁,2.4L 车况良好" target="_blank">本田雅阁 2008款 2.4 EX Navi 2008年上牌-八代雅阁,2.4L 车况良好</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										14.5万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 10.58<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西庞大乐业汽车销售服务有限公司" href="http://shop.58.com/24059277640288532/">陕西庞大乐业汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zs.58.com/ershouche/17870907903241x.shtml" target="_blank">
+<img title="本田雅阁2008款 2.0 EX 自动-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12250199229829305153.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zs.58.com/ershouche/17870907903241x.shtml" title="本田雅阁2008款 2.0 EX 自动-诚信之品，专业之荐" target="_blank">本田雅阁2008款 2.0 EX 自动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										10.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="中山市广物君奥汽车销售服务有限公司" href="http://shop.58.com/24063344932073748/">中山市广物君奥汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">中山</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://qz.58.com/ershouche/17869937352070x.shtml" target="_blank">
+<img title="本田锋范2009款 1.8 自动豪华版-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02250075060931595115.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://qz.58.com/ershouche/17869937352070x.shtml" title="本田锋范2009款 1.8 自动豪华版-诚信之品，专业之荐" target="_blank">本田锋范2009款 1.8 自动豪华版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										1.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="晋江大长江奥通汽车销售服务有限公司" href="http://shop.58.com/24057570751873300/">晋江大长江奥通汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">泉州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://quzhou.58.com/ershouche/17869385207175x.shtml" target="_blank">
+<img title="本田思域2009款 1.8 EXI 自动舒适版-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02250004370425885065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://quzhou.58.com/ershouche/17869385207175x.shtml" title="本田思域2009款 1.8 EXI 自动舒适版-诚信之品，专业之荐" target="_blank">本田思域2009款 1.8 EXI 自动舒适版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										5.84万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="衢州君悦佳奥汽车有限公司" href="http://shop.58.com/24060415529766420/">衢州君悦佳奥汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">衢州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17860401135491x.shtml" target="_blank">
+<img title="本田思域 2009款 1.8 VTI 自动豪华版-一手车,车况极好" src="http://1.pic.58control.cn/p1/small/n_s12248849910664741116.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17860401135491x.shtml" title="本田思域 2009款 1.8 VTI 自动豪华版-一手车,车况极好" target="_blank">本田思域 2009款 1.8 VTI 自动豪华版-一手车,车况极好</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.4万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广州市锦龙汽车发展有限公司" href="http://shop.58.com/24056077664803092/">广州市锦龙汽车发展有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hrb.58.com/ershouche/17862281550338x.shtml" target="_blank">
+<img title="本田雅阁2008款 2.0 EX Navi 自动-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12249095088754125104.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hrb.58.com/ershouche/17862281550338x.shtml" title="本田雅阁2008款 2.0 EX Navi 自动-诚信之品，专业之荐" target="_blank">本田雅阁2008款 2.0 EX Navi 自动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										8.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="哈尔滨运通汽车销售服务有限公司" href="http://shop.58.com/24060270987400255/">哈尔滨运通汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">哈尔滨</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hd.58.com/ershouche/17861551725578x.shtml" target="_blank">
+<img title="本田CR-V2008款2.0L-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12249001612578137123.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hd.58.com/ershouche/17861551725578x.shtml" title="本田CR-V2008款2.0L-诚信之品，专业之荐" target="_blank">本田CR-V2008款2.0L-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										18.54万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 10.98<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="邯郸市奥华汽车销售服务有限公司" href="http://shop.58.com/24060438535598143/">邯郸市奥华汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">邯郸</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sjz.58.com/ershouche/17859459826690x.shtml" target="_blank">
+<img title="本田飞度 2011款 1.5 自动豪华型-" src="http://2.pic.58control.cn/p1/small/n_s12248729394498285093.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sjz.58.com/ershouche/17859459826690x.shtml" title="本田飞度 2011款 1.5 自动豪华型" target="_blank">本田飞度 2011款 1.5 自动豪华型</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										0.95万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="河北冀迪汽车销售服务有限公司" href="http://shop.58.com/26250493559702291/">河北冀迪汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">石家庄</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://su.58.com/ershouche/17861175975176x.shtml" target="_blank">
+<img title="本田思域2006款 尊贵版1.8 VTi-S AT-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12248953550195632095.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://su.58.com/ershouche/17861175975176x.shtml" title="本田思域2006款 尊贵版1.8 VTi-S AT-诚信之品，专业之荐" target="_blank">本田思域2006款 尊贵版1.8 VTi-S AT-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										6.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.68<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="第一汽车（苏州）服务贸易有限公司" href="http://shop.58.com/24059604280783167/">第一汽车（苏州）服务贸易…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">苏州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hrb.58.com/ershouche/17861151982857x.shtml" target="_blank">
+<img title="本田雅阁2008款2.4自动LX三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12248950518401493065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hrb.58.com/ershouche/17861151982857x.shtml" title="本田雅阁2008款2.4自动LX三厢-诚信之品，专业之荐" target="_blank">本田雅阁2008款2.4自动LX三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 14.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="哈尔滨运通汽车销售服务有限公司" href="http://shop.58.com/24060270987400255/">哈尔滨运通汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">哈尔滨</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wz.58.com/ershouche/17861091762056x.shtml" target="_blank">
+<img title="本田奥德赛2011款 2.4 劲秀 自动领秀版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12248942460750001086.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wz.58.com/ershouche/17861091762056x.shtml" title="本田奥德赛2011款 2.4 劲秀 自动领秀版-诚信之品，专业之荐" target="_blank">本田奥德赛2011款 2.4 劲秀 自动领秀版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4.56万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 18.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="温州红源汽车销售服务有限公司" href="http://shop.58.com/24061871747082303/">温州红源汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">温州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hf.58.com/ershouche/17860270834055x.shtml" target="_blank">
+<img title="本田雅阁2007款 2.0AT 舒适精典版-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12248837714284225143.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hf.58.com/ershouche/17860270834055x.shtml" title="本田雅阁2007款 2.0AT 舒适精典版-诚信之品，专业之荐" target="_blank">本田雅阁2007款 2.0AT 舒适精典版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										11.47万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.90<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="安徽安迪汽车有限公司" href="http://shop.58.com/24052910601550399/">安徽安迪汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">合肥</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17859897228803x.shtml" target="_blank">
+<img title="本田雅阁2005款 2.4标准版-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12248789839021713054.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17859897228803x.shtml" title="本田雅阁2005款 2.4标准版-诚信之品，专业之荐" target="_blank">本田雅阁2005款 2.4标准版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										23.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广东君奥汽车贸易有限公司" href="http://shop.58.com/24054867200868628/">广东君奥汽车贸易有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zhuzhou.58.com/ershouche/17857813316103x.shtml" target="_blank">
+<img title="本田思迪 2007款 1.5 自动舒适版-车况很好,无任何大事故" src="http://1.pic.58control.cn/p1/small/n_s12248493716033868164.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zhuzhou.58.com/ershouche/17857813316103x.shtml" title="本田思迪 2007款 1.5 自动舒适版-车况很好,无任何大事故" target="_blank">本田思迪 2007款 1.5 自动舒适版-车况很好,无任何大事故</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										11万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.7<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="株洲湘奥汽车销售服务有限公司" href="http://shop.58.com/26253713813309972/">株洲湘奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">株洲</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://quzhou.58.com/ershouche/17859710721029x.shtml" target="_blank">
+<img title="本田奥德赛2005款 2.4 舒适型-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12248766028679395055.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://quzhou.58.com/ershouche/17859710721029x.shtml" title="本田奥德赛2005款 2.4 舒适型-诚信之品，专业之荐" target="_blank">本田奥德赛2005款 2.4 舒适型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										14.13万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="衢州君悦佳奥汽车有限公司" href="http://shop.58.com/24060415529766420/">衢州君悦佳奥汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">衢州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17857847646593x.shtml" target="_blank">
+<img title="本田雅阁2005款 2.4标准版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12248527554760724156.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17857847646593x.shtml" title="本田雅阁2005款 2.4标准版-诚信之品，专业之荐" target="_blank">本田雅阁2005款 2.4标准版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										13.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京华阳奥通汽车有限公司" href="http://shop.58.com/24058481294125588/">北京华阳奥通汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://chengde.58.com/ershouche/17857860654982x.shtml" target="_blank">
+<img title="本田雅阁2011款 2.0 EX 自动-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12248529185622227056.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://chengde.58.com/ershouche/17857860654982x.shtml" title="本田雅阁2011款 2.0 EX 自动-诚信之品，专业之荐" target="_blank">本田雅阁2011款 2.0 EX 自动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										3.80万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 15.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="承德庞大奥兴汽车销售有限公司" href="http://shop.58.com/24055455830848532/">承德庞大奥兴汽车销售有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">承德</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nj.58.com/ershouche/17850088804359x.shtml" target="_blank">
+<img title="本田雅阁 2006款雅阁2.4LAT舒适版-诚信之品,专业之荐" src="http://2.pic.58control.cn/p1/small/n_s12247531535502167116.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nj.58.com/ershouche/17850088804359x.shtml" title="本田雅阁 2006款雅阁2.4LAT舒适版-诚信之品,专业之荐" target="_blank">本田雅阁 2006款雅阁2.4LAT舒适版-诚信之品,专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										12万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="江苏华兴深蓝汽车有限公司" href="http://shop.58.com/24057226725670932/">江苏华兴深蓝汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://deyang.58.com/ershouche/17850353916681x.shtml" target="_blank">
+<img title="本田CR-V2010款2.0L-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247568347450312084.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://deyang.58.com/ershouche/17850353916681x.shtml" title="本田CR-V2010款2.0L-诚信之品，专业之荐" target="_blank">本田CR-V2010款2.0L-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										9.11万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="德阳华星万路汽车销售服务有限公司" href="http://shop.58.com/24055640397549588/">德阳华星万路汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">德阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17850212130818x.shtml" target="_blank">
+<img title="本田思域2006款 经典版1.8 EXi MT-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247550162619931136.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17850212130818x.shtml" title="本田思域2006款 经典版1.8 EXi MT-诚信之品，专业之荐" target="_blank">本田思域2006款 经典版1.8 EXi MT-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										8.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京首汽腾迪汽车销售服务有限公司" href="http://shop.58.com/24061923551722004/">北京首汽腾迪汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://cq.58.com/ershouche/17850130221314x.shtml" target="_blank">
+<img title="本田CR-V2007款2.4L-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12247539428019043096.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://cq.58.com/ershouche/17850130221314x.shtml" title="本田CR-V2007款2.4L-诚信之品，专业之荐" target="_blank">本田CR-V2007款2.4L-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										12.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 15.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="重庆商社德奥汽车有限公司" href="http://shop.58.com/24063759835987476/">重庆商社德奥汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">重庆</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hrb.58.com/ershouche/17849702248449x.shtml" target="_blank">
+<img title="本田雅阁2007款 2.0AT 标准精典版-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247484950676707014.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hrb.58.com/ershouche/17849702248449x.shtml" title="本田雅阁2007款 2.0AT 标准精典版-诚信之品，专业之荐" target="_blank">本田雅阁2007款 2.0AT 标准精典版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										8.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="哈尔滨运通汽车销售服务有限公司" href="http://shop.58.com/24060270987400255/">哈尔滨运通汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">哈尔滨</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://su.58.com/ershouche/17849554579849x.shtml" target="_blank">
+<img title="本田CR-V2007款2.4L-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247466020800247054.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://su.58.com/ershouche/17849554579849x.shtml" title="本田CR-V2007款2.4L-诚信之品，专业之荐" target="_blank">本田CR-V2007款2.4L-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										11.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="第一汽车（苏州）服务贸易有限公司" href="http://shop.58.com/24059604280783167/">第一汽车（苏州）服务贸易…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">苏州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17849125618693x.shtml" target="_blank">
+<img title="本田雅阁2011款 2.4 LX 自动-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s02247411119313156143.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17849125618693x.shtml" title="本田雅阁2011款 2.4 LX 自动-诚信之品，专业之荐" target="_blank">本田雅阁2011款 2.4 LX 自动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										9.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 15.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京寰宇恒通汽车有限公司" href="http://shop.58.com/24061546267234068/">北京寰宇恒通汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hshi.58.com/ershouche/17849093020937x.shtml" target="_blank">
+<img title="本田思域2009款 1.8 EXI 自动舒适版-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12247406939016616136.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hshi.58.com/ershouche/17849093020937x.shtml" title="本田思域2009款 1.8 EXI 自动舒适版-诚信之品，专业之荐" target="_blank">本田思域2009款 1.8 EXI 自动舒适版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										9.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.10<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="黄石恒信奥龙汽车销售有限公司" href="http://shop.58.com/24060638443317780/">黄石恒信奥龙汽车销售有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">黄石</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://cs.58.com/ershouche/17848963198090x.shtml" target="_blank">
+<img title="本田思域 2009款 1.8EXi 自动 舒适版 2010年上牌-车况好,无事故,手续全,原车图" src="http://2.pic.58control.cn/p1/small/n_s12247389938534156056.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://cs.58.com/ershouche/17848963198090x.shtml" title="本田思域 2009款 1.8EXi 自动 舒适版 2010年上牌-车况好,无事故,手续全,原车图" target="_blank">本田思域 2009款 1.8EXi 自动 舒适版 2010年上牌-车况好,无事故,手续全,原车图</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										5.4万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.9<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="湖南世茂汽车销售服务有限公司" href="http://shop.58.com/24056784405078335/">湖南世茂汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">长沙</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xz.58.com/ershouche/17847365569928x.shtml" target="_blank">
+<img title="本田雅阁2008款 2.4 EXL Navi 自动-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247185821749360134.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xz.58.com/ershouche/17847365569928x.shtml" title="本田雅阁2008款 2.4 EXL Navi 自动-诚信之品，专业之荐" target="_blank">本田雅阁2008款 2.4 EXL Navi 自动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.41万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="徐州沪彭奥通汽车销售服务有限公司" href="http://shop.58.com/24063084642390292/">徐州沪彭奥通汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">徐州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://tz.58.com/ershouche/17616903675274x.shtml" target="_blank">
+<img title="本田飞度 2008款 1.5 自动豪华版-" src="http://1.pic.58control.cn/p1/small/n_s12217686197223973006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://tz.58.com/ershouche/17616903675274x.shtml" title="本田飞度 2008款 1.5 自动豪华版" target="_blank">本田飞度 2008款 1.5 自动豪华版</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										8.6万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.2<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="台州晨隆汽车销售有限公司" href="http://shop.58.com/24063314272544788/">台州晨隆汽车销售有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">台州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wh.58.com/ershouche/17839945072394x.shtml" target="_blank">
+<img title="本田思域2006款 经典版1.8 EXi AT-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12246235965981330003.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wh.58.com/ershouche/17839945072394x.shtml" title="本田思域2006款 经典版1.8 EXi AT-诚信之品，专业之荐" target="_blank">本田思域2006款 经典版1.8 EXi AT-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										6.62万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.68<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="湖北奥泽汽车销售服务有限公司" href="http://shop.58.com/24059040747599935/">湖北奥泽汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">武汉</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://tj.58.com/ershouche/17838546158346x.shtml" target="_blank">
+<img title="本田思域2008款 1.8AT EXi纪念经典版-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12246056935344018054.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://tj.58.com/ershouche/17838546158346x.shtml" title="本田思域2008款 1.8AT EXi纪念经典版-诚信之品，专业之荐" target="_blank">本田思域2008款 1.8AT EXi纪念经典版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										8.82万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="天津百得利之迪汽车销售有限公司" href="http://shop.58.com/24058095088335167/">天津百得利之迪汽车销售有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">天津</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jining.58.com/ershouche/17838311644033x.shtml" target="_blank">
+<img title="本田思迪 2006款 1.5 AT豪华型-诚信之品,专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12246026924524702036.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jining.58.com/ershouche/17838311644033x.shtml" title="本田思迪 2006款 1.5 AT豪华型-诚信之品,专业之荐" target="_blank">本田思迪 2006款 1.5 AT豪华型-诚信之品,专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										11.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="济宁广华汽车销售服务有限公司" href="http://shop.58.com/24054943982066196/">济宁广华汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">济宁</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://tj.58.com/ershouche/17838097771142x.shtml" target="_blank">
+<img title="本田奥德赛2011款 2.4 劲秀 自动豪华版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s02245999550661838036.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://tj.58.com/ershouche/17838097771142x.shtml" title="本田奥德赛2011款 2.4 劲秀 自动豪华版-诚信之品，专业之荐" target="_blank">本田奥德赛2011款 2.4 劲秀 自动豪华版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										7.91万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 15.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="天津百得利之迪汽车销售有限公司" href="http://shop.58.com/24058095088335167/">天津百得利之迪汽车销售有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">天津</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17837669389571x.shtml" target="_blank">
+<img title="本田锋范2009款 1.5 自动精英版-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12245944629365724116.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17837669389571x.shtml" title="本田锋范2009款 1.5 自动精英版-诚信之品，专业之荐" target="_blank">本田锋范2009款 1.5 自动精英版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										5.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.60<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京天润汽车贸易服务有限公司" href="http://shop.58.com/24063855449984788/">北京天润汽车贸易服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nc.58.com/ershouche/17836335151114x.shtml" target="_blank">
+<img title="本田雅阁2008款 2.4 EX 自动-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12245773875087751093.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nc.58.com/ershouche/17836335151114x.shtml" title="本田雅阁2008款 2.4 EX 自动-诚信之品，专业之荐" target="_blank">本田雅阁2008款 2.4 EX 自动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										9.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 11.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="江西德奥汽车销售服务有限公司" href="http://shop.58.com/24249192812592916/">江西德奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南昌</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jining.58.com/ershouche/17836345144962x.shtml" target="_blank">
+<img title="本田思域2009款 1.8 LXI 手动经典版-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12245775226963701054.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jining.58.com/ershouche/17836345144962x.shtml" title="本田思域2009款 1.8 LXI 手动经典版-诚信之品，专业之荐" target="_blank">本田思域2009款 1.8 LXI 手动经典版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										4.80万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="济宁广华汽车销售服务有限公司" href="http://shop.58.com/24054943982066196/">济宁广华汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">济宁</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://yc.58.com/ershouche/17836290110216x.shtml" target="_blank">
+<img title="本田思域2009款 1.8 VTI 自动豪华版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s02245768151322861154.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://yc.58.com/ershouche/17836290110216x.shtml" title="本田思域2009款 1.8 VTI 自动豪华版-诚信之品，专业之荐" target="_blank">本田思域2009款 1.8 VTI 自动豪华版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										6.27万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 10.40<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宜昌奥龙汽车销售服务有限公司" href="http://shop.58.com/24063189352253459/">宜昌奥龙汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">宜昌</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nj.58.com/ershouche/17835921687818x.shtml" target="_blank">
+<img title="本田雅阁2007款 2.0AT 舒适精典版-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12245721021549300086.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nj.58.com/ershouche/17835921687818x.shtml" title="本田雅阁2007款 2.0AT 舒适精典版-诚信之品，专业之荐" target="_blank">本田雅阁2007款 2.0AT 舒适精典版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										20.28万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="南京恒岳汽车销售服务有限公司" href="http://shop.58.com/24232663194475796/">南京恒岳汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://mdj.58.com/ershouche/17835846449410x.shtml" target="_blank">
+<img title="本田奥德赛 2002款 标准版-诚信之品,专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12245711395031274064.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://mdj.58.com/ershouche/17835846449410x.shtml" title="本田奥德赛 2002款 标准版-诚信之品,专业之荐" target="_blank">本田奥德赛 2002款 标准版-诚信之品,专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2002年上牌 </span><span class="gap">|</span>
+										2.31万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="牡丹江中信恒业汽车销售服务有限公司" href="http://shop.58.com/24061215864372287/">牡丹江中信恒业汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">牡丹江</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="pagerout">
+<div class="pager">
+<strong><span>1</span></strong><a href="http://audi.58.com/bentian/pn2/"><span>2</span></a><a href="http://audi.58.com/bentian/pn3/"><span>3</span></a><a class="next" href="http://audi.58.com/bentian/pn2/"><span>下一页</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+		24小时客户关怀热线：400-8171-888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0431-85990888<br />
+		©58.com
+	</div>
+<div class="floatbar">
+<div class="liulan">
+<i class="bar01"></i>
+<div id="myfeetBox" class="hc">
+<ul id="feet_listLs">
+<h4 class="category">最近浏览的信息</h4>
+</ul>
+</div>
+</div>
+<a href="http://my.58.com/shoucangjianli/" id="collection" target="_blank"><i class="bar02"></i></a> <a href="#top"><i class="bar03"></i></a>
+</div>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/getcookie.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi_brandzone.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi.js"></script>
+<script type="text/javascript">
+		$(function() {
+			$('.liulan').hover(
+					function() {
+						$(this).addClass('hover');
+						$('#myfeetBox').show();
+						var container = document.getElementById("feet_listLs");
+						brandZoneNamespace.docookieFunction("final_history",
+								container);
+					}, function() {
+						$(this).removeClass('hover');
+						$('#myfeetBox').hide();
+					})
+		})
+		brandZoneNamespace.brandListEvent().fastSelectLevel().listMorebrand()
+				.dealerSearch().renZhengCar();
+	</script>
+<script type="text/javascript">
+		var achexi = $("#audi_chexi").find("a");
+		var url = window.location.href;
+		for(var i = 0 ; i &lt; achexi.length ; i++){
+			var $item =$(achexi[i]);
+			if($item.attr("href") == url){
+				$item.addClass("select");
+			}
+		}
+							
+	</script>
+<script type="text/javascript">
+		var _gaq = _gaq || [];
+		var site_name = "58";
+		var _trackURL = "{'cate':'29','area':'','pagetype':'list','class':'ershouche'}";
+		_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+		_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+		_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+		_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+		_gaq.push([ 'pageTracker._trackPageview',
+				'/car/ershouche/audi/ershouche/' ]);
+		$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+				: 'http://www')
+				+ '.google-analytics.com/ga.js');
+		$.getScript('http://tracklog.58.com/referrer4.js');
+	</script>
+</body>
+</html>

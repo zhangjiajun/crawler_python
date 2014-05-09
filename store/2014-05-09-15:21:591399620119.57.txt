@@ -1,0 +1,684 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[650,59,9] published at 2014-05-09 15:00:13 from #182 by system-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>评论-观点_公益资讯_新浪公益_新浪网</title>
+<link href="http://gongyi.sinaimg.cn/css/gyzx/m.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://gongyi.sinaimg.cn/css/gyzx/s1.css" id="cssfile" media="screen" />
+<script type="text/javascript" src="http://gongyi.sinaimg.cn/js/jq.js"></script>
+<script type="text/javascript" src="http://top.collection.sina.com.cn/ws/GetTopDataList.php?top_type=day&amp;top_cat=gongyi_all&amp;top_time=today&amp;top_show_num=10&amp;top_order=ASC&amp;js_var=gongyi_all_1_data"></script>
+<script type="text/javascript" src="http://app.gongyi.sina.com.cn/js/gongyinewstop.js"></script>
+<!--[if IE 6]&gt;
+&lt;script type="text/javascript" src="http://gongyi.sinaimg.cn/js/DD_belatedPNG.js" &gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;DD_belatedPNG.fix('.gynav img');&lt;/script&gt;
+&lt;![endif]-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21312042-2']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+<body style="background: none"><!-- SUDA_CODE_START -->
+<script type="text/javascript"> 
+//&lt;!--
+(function(){var win=window,doc=document,nav=navigator,ua=nav.userAgent,scr=win.screen,loc=win.location.href;var prtl=loc.indexOf("https")&gt;-1?"https://":"http://",domain="beacon.sina.com.cn";var a_gif=prtl+domain+"/a.gif?",g_gif=prtl+domain+"/g.gif?",d_gif=prtl+domain+"/d.gif?",e_gif=prtl+domain+"/e.gif?";var sudaRef=doc.referrer.toLowerCase();var cookie_SINAGLOBAL="SINAGLOBAL",cookie_For_Flash="FSINAGLOBAL",cookie_Apache="Apache",cookie_ULV="ULV",cookie_SUP="SUP",cookie_UOR="UOR",cookie__s_acc="_s_acc",cookie__s_tentry="_s_tentry";var count=0;var inFrame=false,isMetaFresh=false;var loginUserInfo="";var commonType=16777215,performance=0,filter,interval=0;var sudaPageid="",sudaExt1="",sudaExt2="";var sudaInfo=[],acTrackInfo=[],uaTrackInfo=[];var sudaGlobalCount=0;var fsudaGlobalCount=0;var storage=(function(){var objDS=window.localStorage,store,STORE_NAME;if(objDS){return{get:function(key){return unescape(objDS.getItem(key))},set:function(key,value){objDS.setItem(key,escape(value))}}}else{if(window.ActiveXObject){store=document.documentElement;STORE_NAME="localstorage";try{store.addBehavior("#default#userdata");store.save("localstorage")}catch(e){}return{set:function(key,value){try{store.setAttribute(key,value);store.save(STORE_NAME)}catch(e){}},get:function(key){try{store.load(STORE_NAME);return store.getAttribute(key)}catch(e){}}}}else{return{get:getCookie,set:setCookie}}}})();var flashData={flashObj:null,id:"sudaDataFrame",status:"loading",$:function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval("document.all."+objName)}},clear:function(){this.flashObj.write("")},read:function(name){if(this.status!="ok"){return""}var nameRule=/[=,;]+/i;if(nameRule.test(name)){return""}var dataScring=this.flashObj.read();if(dataScring==null){dataScring=""}var reg=new RegExp("(?:^|;)"+name+"=(.*?),expires=([^;]*)","i");var value=dataScring.match(reg);if(value==null){value=""}else{if(value.length&gt;=3){var now=new Date();var dd=now.getTime();if(new Number(value[2])&gt;dd){value=value[1];value=value.replace(/\[\$\=\]/g,"=");value=value.replace(/\[\$\;\]/g,";");value=value.replace(/\[\$\,\]/g,",")}else{value=""}}else{value=""}}return value},write:function(name,value,hours){if(this.status!="ok"){return}var nameRule=/[=,;]+/i;if(nameRule.test(name)){return}value=value.toString();value=value.replace(/\\/g,"\\\\");value=value.replace(/\&amp;/g,"&amp;");value=value.replace(/\=/g,"[$$=]");value=value.replace(/\;/g,"[$$;]");value=value.replace(/\,/g,"[$$,]");if(typeof(hours)!="number"){hours=24*30*3}var now=new Date();var expire=new Date(now.getTime()+hours*3600000);expire=",expires="+expire.getTime();var list=this.flashObj.read();if(list==null){list=""}list=list.split(/;(?!\])/i);var newList=[],update=false;var data;for(var i=0;i&lt;list.length;i++){data=list[i].match(/(.*?)\=(.*?),expires=(\d*)/i);if(data==null){continue}if(data.length&lt;4){continue}if(data[1]==name){if(value!=""){newList.push(name+"="+value+expire)}update=true}else{if(new Date(new Number(data[3]))&gt;now&amp;&amp;data[2]!=""){newList.push(list[i])}}}if(!update){newList.push(name+"="+value+expire)}var newStr="";for(var i=0;i&lt;newList.length;i++){if(newStr!=""){newStr+=";"}newStr+=newList[i]}this.flashObj.write(newStr)},load:function(){try{this.flashObj=this.$(this.id).contentWindow.flashData.flashObj;this.status="ok"}catch(e){}if(this.onload){this.onload()}}};var local_unique="";var loaded=false;function createFlashIFrame(){var iframe=document.createElement("iframe");iframe.src="http://beacon.sina.com.cn/data.html";iframe.id="sudaDataFrame";iframe.style.height="0px";iframe.style.width="1px";iframe.style.overflow="hidden";iframe.frameborder="0";iframe.scrolling="no";document.getElementsByTagName("head")[0].appendChild(iframe)}function getMeta(metaName,pidx){var pMeta=doc.getElementsByName(metaName);var idx=(pidx&gt;0)?pidx:0;return(pMeta.length&gt;idx)?pMeta[idx].content:""}function getSudaMeta(){var pMeta=doc.getElementsByName("sudameta");var meta=[];for(var idx=0;idx&lt;pMeta.length;idx++){var content=pMeta[idx].content;if(content){meta.push(content)}}return meta}function stringSplice(src,k,e,sp){if(src==""){return""}sp=(sp=="")?"=":sp;k+=sp;var ps=src.indexOf(k);if(ps&lt;0){return""}ps+=k.length;var pe=src.indexOf(e,ps);if(pe&lt;ps){pe=src.length}return src.substring(ps,pe)}function getCookie(ckName){if(undefined==ckName||""==ckName){return""}return stringSplice(doc.cookie,ckName,";","")}function setCookie(ckName,ckValue,ckDays,ckDomain){if(ckValue!=null){if((undefined==ckDomain)||(null==ckDomain)){ckDomain="sina.com.cn"}if((undefined==ckDays)||(null==ckDays)||(""==ckDays)){doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";path=/"}else{var now=new Date();var time=now.getTime();time=time+86400000*ckDays;now.setTime(time);time=now.getTime();doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";expires="+now.toUTCString()+";path=/"}}}function addEvent(sNode,sEventType,oFunc){var oElement=sNode;if(oElement==null){return false}sEventType=sEventType||"click";if((typeof oFunc).toLowerCase()!="function"){return}if(oElement.attachEvent){oElement.attachEvent("on"+sEventType,oFunc)}else{if(oElement.addEventListener){oElement.addEventListener(sEventType,oFunc,false)}else{oElement["on"+sEventType]=oFunc}}return true}function getEvent(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var o=arguments.callee.caller;var e;var n=0;while(o!=null&amp;&amp;n&lt;40){e=o.arguments[0];if(e&amp;&amp;(e.constructor==Event||e.constructor==MouseEvent||e.constructor==KeyboardEvent)){return e}n++;o=o.caller}return e}}function fixEvent(e){e=e||getEvent();if(!e.target){e.target=e.srcElement;e.pageX=e.x;e.pageY=e.y}if(typeof e.layerX=="undefined"){e.layerX=e.offsetX}if(typeof e.layerY=="undefined"){e.layerY=e.offsetY}return e}function trim(str){if(typeof str!=="string"){throw"trim need a string as parameter"}var len=str.length;var s=0;var reg=/(\u3000|\s|\t|\u00A0)/;while(s&lt;len){if(!reg.test(str.charAt(s))){break}s+=1}while(len&gt;s){if(!reg.test(str.charAt(len-1))){break}len-=1}return str.slice(s,len)}function isArray(o){return Object.prototype.toString.call(o)==="[object Array]"}function queryToJson(QS,isDecode){var _Qlist=trim(QS).split("&amp;");var _json={};var _fData=function(data){if(isDecode){return decodeURIComponent(data)}else{return data}};for(var i=0,len=_Qlist.length;i&lt;len;i++){if(_Qlist[i]){var _hsh=_Qlist[i].split("=");var _key=_hsh[0];var _value=_hsh[1];if(_hsh.length&lt;2){_value=_key;_key="$nullName"}if(!_json[_key]){_json[_key]=_fData(_value)}else{if(isArray(_json[_key])!=true){_json[_key]=[_json[_key]]}_json[_key].push(_fData(_value))}}}return _json}function foreach(arr,func){for(var i=0,len=arr.length;i&lt;len;i++){func(arr[i],i)}}function getHost(sUrl){var r=new RegExp("^http(?:s)?://([^/]+)","im");if(sUrl.match(r)){return sUrl.match(r)[1].toString()}else{return""}}function ssoDecode(inputString){if("v01"!=inputString.substring(0,3)){return inputString}var input=inputString.substring(3);var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i;var keys=[];for(i=0;i&lt;=64;i++){keys[i+128]=i}i=0;while(i&lt;input.length){enc1=keys[parseInt(input.substr(i,2),16)];i+=2;enc2=keys[parseInt(input.substr(i,2),16)];i+=2;enc3=keys[parseInt(input.substr(i,2),16)];i+=2;enc4=keys[parseInt(input.substr(i,2),16)];i+=2;chr1=(enc1&lt;&lt;2)|(enc2&gt;&gt;4);chr2=((enc2&amp;15)&lt;&lt;4)|(enc3&gt;&gt;2);chr3=((enc3&amp;3)&lt;&lt;6)|enc4;output=output+String.fromCharCode(chr1);if(enc3!=undefined&amp;&amp;enc3!=64){output=output+String.fromCharCode(chr2)}if(enc4!=undefined&amp;&amp;enc4!=64){output=output+String.fromCharCode(chr3)}}return output}var CI={screenSize:function(){return(commonType&amp;8388608==8388608)?scr.width+"x"+scr.height:""},colorDepth:function(){return(commonType&amp;4194304==4194304)?scr.colorDepth:""},appCode:function(){return(commonType&amp;2097152==2097152)?nav.appCodeName:""},appName:function(){return(commonType&amp;1048576==1048576)?((nav.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":nav.appName):""},cpu:function(){return(commonType&amp;524288==524288)?(nav.cpuClass||nav.oscpu):""},platform:function(){return(commonType&amp;262144==262144)?(nav.platform):""},jsVer:function(){if(commonType&amp;131072!=131072){return""}var p,appsign,appver,jsver=1,isN6=0,navigatorAppName=(nav.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":nav.appName,navigatorAppVersion=nav.appVersion;if("MSIE"==navigatorAppName){appsign="MSIE";p=navigatorAppVersion.indexOf(appsign);if(p&gt;=0){appver=window.parseInt(navigatorAppVersion.substring(p+5));if(3&lt;=appver){jsver=1.1;if(4&lt;=appver){jsver=1.3}}}}else{if(("Netscape"==navigatorAppName)||("Opera"==navigatorAppName)||("Mozilla"==navigatorAppName)){jsver=1.3;appsign="Netscape6";p=navigatorAppVersion.indexOf(appsign);if(p&gt;=0){jsver=1.5}}}return jsver},network:function(){if(commonType&amp;65536!=65536){return""}var ct="";ct=(nav.connection&amp;&amp;nav.connection.type)?nav.connection.type:ct;try{doc.body.addBehavior("#default#clientCaps");ct=doc.body.connectionType}catch(e){ct="unkown"}return ct},language:function(){return(commonType&amp;32768==32768)?(nav.systemLanguage||nav.language):""},timezone:function(){return(commonType&amp;16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(commonType&amp;8192!=8192){return""}var pl=nav.plugins,flash,item,desc;if(pl&amp;&amp;pl.length){for(var key in pl){item=pl[key];if(item.description==null){continue}if(flash!=null){break}desc=item.description.toLowerCase();if(desc.indexOf("flash")!=-1){flash=item.version?parseInt(item.version):desc.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var i=10;i&gt;=2;i--){try{var object=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);if(object){flash=i;break}}catch(e){}}}else{if(ua.indexOf("webtv/2.5")!=-1){flash=3}else{if(ua.indexOf("webtv")!=-1){flash=2}}}}return flash},javaEnabled:function(){if(commonType&amp;4096!=4096){return""}var pl=nav.plugins,java=nav.javaEnabled(),item,desc;if(java==true){return 1}if(pl&amp;&amp;pl.length){for(var key in pl){item=pl[key];if(item.description==null){continue}if(java!=null){break}desc=item.description.toLowerCase();if(desc.indexOf("java plug-in")!=-1){java=parseInt(item.version);continue}}}else{if(window.ActiveXObject){java=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return java?1:0}};var PI={pageId:function(pageid){var pid=pageid||sudaPageid,defaultPageID="-9999-0-0-1";if((undefined==pid)||(""==pid)){try{var metaTxt=getMeta("publishid");if(""!=metaTxt){var pbidList=metaTxt.split(",");if(pbidList.length&gt;0){if(pbidList.length&gt;=3){defaultPageID="-9999-0-"+pbidList[1]+"-"+pbidList[2]}pid=pbidList[0]}}else{pid="0"}}catch(e){pid="0"}pid=pid+defaultPageID}return pid},sessionCount:function(){var count=getCookie("_s_upa");if(count==""){count=0}return count},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(commonType&amp;2048!=2048){return""}var re=/^[^\?&amp;#]*.swf([\?#])?/;if((sudaRef=="")||(sudaRef.match(re))){var ref=stringSplice(loc,"ref","&amp;","");if(ref!=""){return escape(ref)}}return escape(sudaRef)},isHomepage:function(){if(commonType&amp;1024!=1024){return""}var isHome="";try{doc.body.addBehavior("#default#homePage");isHome=doc.body.isHomePage(loc)?"Y":"N"}catch(e){isHome="unkown"}return isHome},PGLS:function(){return(commonType&amp;512==512)?getMeta("stencil"):""},ZT:function(){if(commonType&amp;256!=256){return""}var zt=getMeta("subjectid");zt.replace(",",".");zt.replace(";",",");return escape(zt)},mediaType:function(){return(commonType&amp;128==128)?getMeta("mediaid"):""},domCount:function(){return(commonType&amp;64==64)?doc.getElementsByTagName("*").length:""},iframeCount:function(){return(commonType&amp;32==32)?doc.getElementsByTagName("iframe").length:""}};var UI={visitorId:function(gid){if(!gid){var gid=getCookie(cookie_SINAGLOBAL);return gid}else{}},fvisitorId:function(fid){if(!fid){var fid=getCookie(cookie_For_Flash);return fid}else{setCookie(cookie_For_Flash,fid,3650)}},sessionId:function(){var sid=getCookie(cookie_Apache);if(""==sid){var now=new Date();sid=Math.random()*10000000000000+"."+now.getTime()}return sid},flashCookie:function(gid){if(gid){flashData.write("local_unique",gid,24*360)}else{return local_unique}},lastVisit:function(){var sid=getCookie(cookie_Apache);var lvi=getCookie(cookie_ULV);var lva=lvi.split(":");var lvr="",lvn;if(lva.length&gt;=6){if(sid!=lva[4]){lvn=new Date();var lvd=new Date(window.parseInt(lva[0]));lva[1]=window.parseInt(lva[1])+1;if(lvn.getMonth()!=lvd.getMonth()){lva[2]=1}else{lva[2]=window.parseInt(lva[2])+1}if(((lvn.getTime()-lvd.getTime())/86400000)&gt;=7){lva[3]=1}else{if(lvn.getDay()&lt;lvd.getDay()){lva[3]=1}else{lva[3]=window.parseInt(lva[3])+1}}lvr=lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3];lva[5]=lva[0];lva[0]=lvn.getTime();setCookie(cookie_ULV,lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3]+":"+sid+":"+lva[5],360)}else{lvr=lva[5]+":"+lva[1]+":"+lva[2]+":"+lva[3]}}else{lvn=new Date();lvr=":1:1:1";setCookie(cookie_ULV,lvn.getTime()+lvr+":"+sid+":",360)}return lvr},userNick:function(){if(loginUserInfo!=""){return loginUserInfo}var sup=unescape(getCookie(cookie_SUP));if(sup!=""){var ag=stringSplice(sup,"ag","&amp;","");var user=stringSplice(sup,"user","&amp;","");var uid=stringSplice(sup,"uid","&amp;","");var sex=stringSplice(sup,"sex","&amp;","");var bday=stringSplice(sup,"dob","&amp;","");loginUserInfo=ag+":"+user+":"+uid+":"+sex+":"+bday;return loginUserInfo}else{return""}},userOrigin:function(){if(commonType&amp;4!=4){return""}var uoc=getCookie(cookie_UOR);var upa=uoc.split(":");if(upa.length&gt;=2){return upa[0]}else{return""}},advCount:function(){return(commonType&amp;2==2)?getCookie(cookie__s_acc):""},setUOR:function(){var uoc=getCookie(cookie_UOR),uor="",uol="",up_t="",up="",currLoc=loc.toLowerCase(),ref=doc.referrer.toLowerCase();var re=/[&amp;|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var ct=new Date();if(currLoc.match(re)){up_t=currLoc.match(re)[0]}else{if(ref.match(re)){up_t=ref.match(re)[0]}}if(up_t!=""){up_t=up_t.substr(3)+":"+ct.getTime()}if(uoc==""){if(getCookie(cookie_ULV)==""){uor=getHost(ref);uol=getHost(currLoc)}setCookie(cookie_UOR,uor+","+uol+","+up_t,365)}else{var ucg=0,uoa=uoc.split(",");if(uoa.length&gt;=1){uor=uoa[0]}if(uoa.length&gt;=2){uol=uoa[1]}if(uoa.length&gt;=3){up=uoa[2]}if(up_t!=""){ucg=1}else{var upa=up.split(":");if(upa.length&gt;=2){var upd=new Date(window.parseInt(upa[1]));if(upd.getTime()&lt;(ct.getTime()-86400000*30)){ucg=1}}}if(ucg){setCookie(cookie_UOR,uor+","+uol+","+up_t,365)}}},setAEC:function(eid){if(""==eid){return}var acc=getCookie(cookie__s_acc);if(acc.indexOf(eid+",")&lt;0){acc=acc+eid+","}setCookie(cookie__s_acc,acc,7)},ssoInfo:function(){var info=unescape(ssoDecode(getCookie("sso_info")));if(info!=""){var uid=stringSplice(info,"uid","&amp;","");return uid}else{return""}}};var D={CI:function(){var data=["sz:"+CI.screenSize(),"dp:"+CI.colorDepth(),"ac:"+CI.appCode(),"an:"+CI.appName(),"cpu:"+CI.cpu(),"pf:"+CI.platform(),"jv:"+CI.jsVer(),"ct:"+CI.network(),"lg:"+CI.language(),"tz:"+CI.timezone(),"fv:"+CI.flashVer(),"ja:"+CI.javaEnabled()];return"CI="+data.join("|")},PI:function(pid){var data=["pid:"+PI.pageId(pid),"st:"+PI.sessionCount(),"et:"+PI.excuteCount(),"ref:"+PI.referrer(),"hp:"+PI.isHomepage(),"PGLS:"+PI.PGLS(),"ZT:"+PI.ZT(),"MT:"+PI.mediaType(),"keys:","dom:"+PI.domCount(),"ifr:"+PI.iframeCount()];return"PI="+data.join("|")},UI:function(){var data=["vid:"+UI.visitorId(),"sid:"+UI.sessionId(),"lv:"+UI.lastVisit(),"un:"+UI.userNick(),"uo:"+UI.userOrigin(),"ae:"+UI.advCount(),"lu:"+UI.fvisitorId(),"si:"+UI.ssoInfo()];return"UI="+data.join("|")},EX:function(extInfo1,extInfo2){if(commonType&amp;1!=1){return""}extInfo1=(null!=extInfo1)?extInfo1||"":sudaExt1;extInfo2=(null!=extInfo2)?extInfo2||"":sudaExt2;return"EX=ex1:"+extInfo1+"|ex2:"+extInfo2},MT:function(){return"MT="+getSudaMeta().join("|")},V:function(){return"V=2.1.4"},R:function(){return"gUid_"+new Date().getTime()}};function setEntry(){var e="-",ref=doc.referrer.toLowerCase(),currLoc=loc.toLowerCase();if(""==getCookie(cookie__s_tentry)){if(""!=ref){e=getHost(ref)}setCookie(cookie__s_tentry,e,"","weibo.com")}var vlogin=/weibo.com\/reg.php/;if(currLoc.match(vlogin)){var sharehost=stringSplice(unescape(currLoc),"sharehost","&amp;","");var appkey=stringSplice(unescape(currLoc),"appkey","&amp;","");if(""!=sharehost){setCookie(cookie__s_tentry,sharehost,"","weibo.com")}setCookie("appkey",appkey,"","weibo.com")}}function sendFinalRequest(url){createRequest(url)}function createRequest(url){var img=new Image();SUDA.img=img;img.src=url}function gatherCommon(pid,ext1,ext2){SUDA.sudaCount++;var url=a_gif+[D.V(),D.CI(),D.PI(pid),D.UI(),D.MT(),D.EX(ext1,ext2),D.R()].join("&amp;");createRequest(url)}function gatherCommon2(pid,ext1,ext2){if(inFrame||isMetaFresh){return}if(SUDA.sudaCount!=0){return}gatherCommon(pid,ext1,ext2)}function acTrack(eid,p){if((""==eid)||(undefined==eid)){return}UI.setAEC(eid);if(0==p){return}var s="AcTrack||"+getCookie(cookie_SINAGLOBAL)+"||"+getCookie(cookie_Apache)+"||"+UI.userNick()+"||"+eid+"||";var url=e_gif+s+"&amp;gUid_"+new Date().getTime();sendFinalRequest(url)}function uaTrack(acode,aext,href){if(!href){href=""}else{href=escape(href)}var s="UATrack||"+getCookie(cookie_SINAGLOBAL)+"||"+getCookie(cookie_Apache)+"||"+UI.userNick()+"||"+acode+"||"+aext+"||"+PI.referrer()+"||"+href+"||";var url=e_gif+s+"&amp;gUid_"+new Date().getTime();sendFinalRequest(url)}function trackAgent(e){var evt=fixEvent(e);var el=evt.target;var sudaAcTrack="",sudaUaTrack="",href="";var trackData;if(el!=null&amp;&amp;el.getAttribute&amp;&amp;(!el.getAttribute("suda-uatrack")&amp;&amp;!el.getAttribute("suda-actrack")&amp;&amp;!el.getAttribute("suda-data"))){while(el!=null&amp;&amp;el.getAttribute&amp;&amp;(!!el.getAttribute("suda-uatrack")||!!el.getAttribute("suda-actrack")||!!el.getAttribute("suda-data"))==false){if(el==doc.body){return}el=el.parentNode}}if(el==null||el.getAttribute==null){return}sudaAcTrack=el.getAttribute("suda-actrack")||"";sudaUaTrack=el.getAttribute("suda-uatrack")||el.getAttribute("suda-data")||"";sudaUrls=el.getAttribute("suda-urls")||"";if(sudaUaTrack){trackData=queryToJson(sudaUaTrack);if(el.tagName.toLowerCase()=="a"){href=el.href}trackData.key&amp;&amp;SUDA.uaTrack&amp;&amp;SUDA.uaTrack(trackData.key,trackData.value||trackData.key,href)}if(sudaAcTrack){trackData=queryToJson(sudaAcTrack);trackData.key&amp;&amp;SUDA.acTrack&amp;&amp;SUDA.acTrack(trackData.key,trackData.value||trackData.key)}}inFrame=(function(minH,minW){if(win.top==win){return false}else{try{if(doc.body.clientHeight==0){return false}return((doc.body.clientHeight&gt;=minH)&amp;&amp;(doc.body.clientWidth&gt;=minW))?false:true}catch(e){return true}}})(320,240);isMetaFresh=(function(){return false})();UI.setUOR();var sid=UI.sessionId();if(!UI.visitorId()){UI.visitorId(sid)}window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){gatherCommon.apply(null,arguments)};SUDA.acTrack=function(){acTrack.apply(null,arguments)};SUDA.uaTrack=function(){uaTrack.apply(null,arguments)};addEvent(doc.body,"click",trackAgent);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){acTrack.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){uaTrack.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){acTrack.apply(null,arguments)};window._S_uaTrack=function(){uaTrack.apply(null,arguments)};window._S_PID_="";gatherCommon2()})();
+//--&gt;
+</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden"><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></div>
+</noscript>
+<!-- SUDA_CODE_END -->
+<!-- for iPad begin -->
+<script type="text/javascript">
+(function(){
+if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+var iPadScript = document.createElement('script');
+iPadScript.src = 'http://news.sina.com.cn/js/ui/ipad/reset.js';
+document.getElementsByTagName('head')[0].appendChild(iPadScript);
+})();
+</script>
+<!-- for iPad end -->
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&amp;");var arrtmp;var arrResult={};for(var i=0;i&lt;arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i&lt;f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<div class="topbar clohi">
+<div class="wm">
+<h1><a href="http://gongyi.sina.com.cn" target="_blank"><img src="http://gongyi.sinaimg.cn/image/gyzx/gylogo.jpg" alt="新浪公益" /></a></h1>
+<a href="http://gongyi.sina.com.cn">公益首页</a>|<a href="http://www.sina.com.cn">新浪首页</a>|<a href="http://news.sina.com.cn/guide">新浪导航</a></div>
+</div>
+<!-- 页头start -->
+<div class="gynav">
+<a href="/gyzx.html" target="_blank"><img src="http://gongyi.sinaimg.cn/image/gyzx/gyzx.png" alt="公益资讯" /></a>
+<ul>
+<li><a href="http://gongyi.sina.com.cn/gyzx/zz.html" target="_blank">赈灾</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/zx.html" target="_blank">助学</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/fr.html" target="_blank">扶弱</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/pl.html" target="_blank">评论</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/wm.html" target="_blank">文明</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/sp.html" target="_blank">视频</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/zy.html" target="_blank">志愿者</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/ngo.html" target="_blank">公益组织</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/qt.html" target="_blank">慈善文化</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/hg.html" target="_blank">热点话题</a></li>
+<li><a href="http://gongyi.sina.com.cn/greenlife" target="_blank">绿色生活</a></li>
+<li><a href="http://gongyi.sina.com.cn/qycs.html" target="_blank">企业慈善</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/spaq.html" target="_blank">食品安全</a></li>
+</ul>
+</div>
+<!-- 页头End -->
+<!-- 页中start -->
+<div class="main">
+<div class="left">
+<span class="left-title"><a href="http://gongyi.sina.com.cn/gyzx.html" target="_blank">公益资讯</a> &gt;&gt; 评论-观点</span>
+<ol id="news_content">
+</ol>
+<div class="left-page" id="news_page">
+<span class="left-home"><a href="">首页</a></span> <span><a href="">&lt;&lt;</a></span>
+<span class="left-selected">1</span> <span><a href="">2</a></span> <span><a href="">
+                    &gt;&gt; </a></span><span class="left-home"><a href="">尾页</a></span>
+</div>
+<script type="text/javascript">
+ var auto_news = new Array();auto_news[0] = ["赵涛：儒商是中国梦的推动者","/gyzx/2014-05-08/140749052.html","2014-05-08"];
+auto_news[1] = ["近八成网友认为救灾募捐应先有资金规划","/gyzx/2014-05-07/104849025.html","2014-05-07"];
+auto_news[2] = ["“失独家庭”和“国家责任”什么关系","/gyzx/2014-05-07/100849021.html","2014-05-07"];
+auto_news[3] = ["评论：曝光疑似拐卖儿童需防误伤","/gyzx/2014-05-07/100749020.html","2014-05-07"];
+auto_news[4] = ["评论：高速免费的便宜真不那么好占","/gyzx/2014-05-07/100349016.html","2014-05-07"];
+auto_news[5] = ["评论：社会信用建设要“且行且珍惜”","/gyzx/2014-05-06/091849001.html","2014-05-06"];
+auto_news[6] = ["评论：霉变的救灾物资给爱心添堵","/gyzx/2014-05-06/091749000.html","2014-05-06"];
+auto_news[7] = ["草根公益人：社会救助发展的三个关键词","/gyzx/2014-05-05/121848996.html","2014-05-05"];
+auto_news[8] = ["亚行行长：未来10年将消除绝对贫困人口","/gyzx/2014-05-05/101448988.html","2014-05-05"];
+auto_news[9] = ["子研论道：“飙骂”无助于公益事业成长","/gyzx/2014-05-04/105748976.html","2014-05-04"];
+auto_news[10] = ["益调查：如何看待基金会募款规划和使用？","/gyzx/2014-04-30/163048969.html","2014-04-30"];
+auto_news[11] = ["评论：校长吻猪不需要大肆包装","/gyzx/2014-04-30/095448961.html","2014-04-30"];
+auto_news[12] = ["评论：监控下的伤童案各方请勿装“无知”","/gyzx/2014-04-30/094648960.html","2014-04-30"];
+auto_news[13] = ["评论：维护生存权 利益攸关人最重要","/gyzx/2014-04-29/101848947.html","2014-04-29"];
+auto_news[14] = ["评论：自来水安全是无法回避的数据公开","/gyzx/2014-04-29/101148946.html","2014-04-29"];
+auto_news[15] = ["中国企业家参与慈善获高度认可","/gyzx/2014-04-28/102048931.html","2014-04-28"];
+auto_news[16] = ["社会乱象或致公益组织公信力坍塌","/gyzx/2014-04-28/101348930.html","2014-04-28"];
+auto_news[17] = ["子研论道：由“最美小学生”李美佳想到的","/gyzx/2014-04-28/100748926.html","2014-04-28"];
+auto_news[18] = ["评论：不暴露孩子隐私部位于公众应成共识","/gyzx/2014-04-28/095948924.html","2014-04-28"];
+auto_news[19] = ["子研论道：为马云捐资建个人公益基金点赞","/gyzx/2014-04-28/092448923.html","2014-04-28"];
+auto_news[20] = ["评论：公益监督应该像公益事业一样严谨","/gyzx/2014-04-25/105948916.html","2014-04-25"];
+auto_news[21] = ["评论：简单粗暴的质疑无助中国公益发展","/gyzx/2014-04-25/104448914.html","2014-04-25"];
+auto_news[22] = ["评论：公众用水安全应成为生态红线 ","/gyzx/2014-04-25/101648909.html","2014-04-25"];
+auto_news[23] = ["子研论道：壹基金3个亿捐款被质疑的思考","/gyzx/2014-04-25/100848908.html","2014-04-25"];
+auto_news[24] = ["评论：骗取保障房也应定性为诈骗","/gyzx/2014-04-23/101348882.html","2014-04-23"];
+auto_news[25] = ["子研论道：奉献也要有美感","/gyzx/2014-04-23/091648873.html","2014-04-23"];
+auto_news[26] = ["评论：该如何规范屡遭质疑的公益专项基金","/gyzx/2014-04-21/101148835.html","2014-04-21"];
+auto_news[27] = ["子研论道：企业与公益共建小康社会","/gyzx/2014-04-18/103348825.html","2014-04-18"];
+auto_news[28] = ["评论：经济“微刺激”不如减征社保","/gyzx/2014-04-17/103748804.html","2014-04-17"];
+auto_news[29] = ["评论：养老险“亏空”千亿不值得大惊小怪","/gyzx/2014-04-17/102948801.html","2014-04-17"];
+auto_news[30] = ["益调查：怎样让公益更有力量？","/gyzx/2014-04-15/152348773.html","2014-04-15"];
+auto_news[31] = ["房涛：慈善会应转变为社区基金会","/gyzx/2014-04-15/150648772.html","2014-04-15"];
+auto_news[32] = ["半数网友认为信任感缺失致器官捐献登记率低","/gyzx/2014-04-15/111448771.html","2014-04-15"];
+auto_news[33] = ["子研论道：孩子 请别再哭","/gyzx/2014-04-15/095848763.html","2014-04-15"];
+auto_news[34] = ["评论：公共自行车工程烂尾不能怪市场","/gyzx/2014-04-15/095548761.html","2014-04-15"];
+auto_news[35] = ["崔永元：目前公益仍停在“共和国脊梁”上","/gyzx/2014-04-15/095448759.html","2014-04-15"];
+auto_news[36] = ["崔永元：目前公益仍停在“共和国脊梁”上(2)","/gyzx/2014-04-15/095448759_2.html","2014-04-15"];
+auto_news[37] = ["评论：改革不到位真医院也会站着“坑人”","/gyzx/2014-04-15/095048757.html","2014-04-15"];
+auto_news[38] = ["评论：政府购买服务不是一锤子买卖","/gyzx/2014-04-15/093648753.html","2014-04-15"];
+auto_news[39] = ["评论：给民营医院自主定价权意义有多大","/gyzx/2014-04-15/093548752.html","2014-04-15"];
+auto_news[40] = ["评论：兰州水污染利益牵扯才是真凶","/gyzx/2014-04-14/104948741.html","2014-04-14"];
+auto_news[41] = ["延迟退休：一厢情愿还是大势所趋","/gyzx/2014-04-14/101948731.html","2014-04-14"];
+auto_news[42] = ["关注：各种“宋基会”该不该透明","/gyzx/2014-04-14/095848728.html","2014-04-14"];
+auto_news[43] = ["子研论道：公益人需要一点坚持","/gyzx/2014-04-14/095648726.html","2014-04-14"];
+auto_news[44] = ["评论：“第三方评估”独立才有公信","/gyzx/2014-04-14/094648721.html","2014-04-14"];
+auto_news[45] = ["评论：莫把资本市场当成扶贫工具","/gyzx/2014-04-11/103248712.html","2014-04-11"];
+auto_news[46] = ["评论：放开民营医院价格不等于“医疗市场化”","/gyzx/2014-04-11/092148705.html","2014-04-11"];
+auto_news[47] = ["益调查：中国器官捐献志愿登记率极低，你怎么看？  ","/gyzx/2014-04-10/145348703.html","2014-04-10"];
+auto_news[48] = ["评论：赋予非公医院定价权需进一步开放市场","/gyzx/2014-04-10/100348696.html","2014-04-10"];
+auto_news[49] = ["评论：放开民营医院价格不会加剧“看病贵”","/gyzx/2014-04-10/094948690.html","2014-04-10"];
+auto_news[50] = ["评论：贫困县里豪楼起 可有官员乌纱落","/gyzx/2014-04-09/102848683.html","2014-04-09"];
+auto_news[51] = ["子研论道：公益实践中的法律困惑","/gyzx/2014-04-09/092448675.html","2014-04-09"];
+auto_news[52] = ["仅三成网友认为慈善组织应积极理财","/gyzx/2014-04-08/142748673.html","2014-04-08"];
+auto_news[53] = ["北京青年报：弃婴岛 不能承受之重","/gyzx/2014-04-04/105248650.html","2014-04-04"];
+auto_news[54] = ["人大哲学副教授：以好制度对抗失德的社会","/gyzx/2014-04-04/104748649.html","2014-04-04"];
+auto_news[55] = ["评论：培养贫民窟里的百万富翁 可行吗？","/gyzx/2014-04-04/104248648.html","2014-04-04"];
+auto_news[56] = ["评论：逝者“交租”尴尬亟待有效化解","/gyzx/2014-04-04/095048638.html","2014-04-04"];
+auto_news[57] = ["马蔚华：公益和别的事情不一样","/gyzx/2014-04-03/102548622.html","2014-04-03"];
+auto_news[58] = ["评论：法律保护儿童权益不能是空话","/gyzx/2014-04-03/102048619.html","2014-04-03"];
+auto_news[59] = ["评论：查处滥种转基因 可不对外公开？","/gyzx/2014-04-03/100948616.html","2014-04-03"];
+auto_news[60] = ["评论：“药儿园”病根在投资不足和非专业管理","/gyzx/2014-04-02/103648594.html","2014-04-02"];
+auto_news[61] = ["评论：让转基因恐惧止于“知者”","/gyzx/2014-04-02/101248585.html","2014-04-02"];
+auto_news[62] = ["评论：该怎样解救被虐待的“阳台男孩”","/gyzx/2014-04-02/095248575.html","2014-04-02"];
+auto_news[63] = ["评论：教育公平不只是农村娃上名校","/gyzx/2014-04-02/094448574.html","2014-04-02"];
+auto_news[64] = ["益调查：你怎么看待慈善组织理财？","/gyzx/2014-04-01/175448566.html","2014-04-01"];
+auto_news[65] = ["近四成网友愿意支持环保理念倡导及普及类项目","/gyzx/2014-04-01/135348565.html","2014-04-01"];
+auto_news[66] = ["关注：青少年“社会工程师”何去何从","/gyzx/2014-04-01/094748547.html","2014-04-01"];
+auto_news[67] = ["评论：“食药警察”需要与行政监管衔接","/gyzx/2014-04-01/094248544.html","2014-04-01"];
+auto_news[68] = ["子研论道：雅安断想","/gyzx/2014-03-31/115248539.html","2014-03-31"];
+auto_news[69] = ["益调查：你愿意捐助环境保护类公益项目吗？","/gyzx/2014-03-27/175348496.html","2014-03-27"];
+auto_news[70] = ["评论：制外修补难以解决乡村教育的根本问题","/gyzx/2014-03-27/103548483.html","2014-03-27"];
+auto_news[71] = ["子研论道：丈夫“基金”","/gyzx/2014-03-27/094148469.html","2014-03-27"];
+auto_news[72] = ["讨论：如果你突然瞎了该怎么办？","/gyzx/2014-03-26/100048451.html","2014-03-26"];
+auto_news[73] = ["NGO微信传播效果初探：鸡肋还是利器？","/gyzx/2014-03-26/095748449.html","2014-03-26"];
+auto_news[74] = ["评论：家庭收养才是弃婴最好的归宿","/gyzx/2014-03-26/093148439.html","2014-03-26"];
+auto_news[75] = ["评论：“相差40岁才可收养”不合理","/gyzx/2014-03-26/093048437.html","2014-03-26"];
+auto_news[76] = ["评论：以房养老保险试点叫好不叫座","/gyzx/2014-03-26/092748435.html","2014-03-26"];
+auto_news[77] = ["子研论道：公益事业哪能做到绝对透明？","/gyzx/2014-03-26/091048434.html","2014-03-26"];
+auto_news[78] = ["子研论道：公益机构不能完全企业化管理","/gyzx/2014-03-25/144148423.html","2014-03-25"];
+auto_news[79] = ["“住燕郊进京看病”呼唤首都资源疏解","/gyzx/2014-03-25/093848417.html","2014-03-25"];
+auto_news[80] = ["评论：不能让民办幼儿园频繁出事","/gyzx/2014-03-25/092248415.html","2014-03-25"];
+auto_news[81] = ["评论：公益的市场化逻辑","/gyzx/2014-03-24/163648410.html","2014-03-24"];
+auto_news[82] = ["马蔚华：公益慈善基金管理制度需引入信托机制","/gyzx/2014-03-24/103348404.html","2014-03-24"];
+auto_news[83] = ["评论：社会需要专业的儿童社会工作者","/gyzx/2014-03-24/102248402.html","2014-03-24"];
+auto_news[84] = ["评论：防止污染监测造假 当引入公众监督","/gyzx/2014-03-24/095048394.html","2014-03-24"];
+auto_news[85] = ["评论：公益创业 离商业近一点","/gyzx/2014-03-24/093848392.html","2014-03-24"];
+auto_news[86] = ["环保部部长：坚决向污染宣战 让群众看到希望","/gyzx/2014-03-21/104648382.html","2014-03-21"];
+auto_news[87] = ["为猥亵丑闻保密背后有什么秘密？","/gyzx/2014-03-21/104248381.html","2014-03-21"];
+auto_news[88] = ["评论：非物质文化遗产不是用来装门面","/gyzx/2014-03-21/092648375.html","2014-03-21"];
+auto_news[89] = ["为何多地发生“幼儿园喂病毒灵”事件","/gyzx/2014-03-21/091948373.html","2014-03-21"];
+auto_news[90] = ["申请低保要“表示” 谁管低保谁能吃","/gyzx/2014-03-21/091548372.html","2014-03-21"];
+auto_news[91] = ["弃婴岛带来的压力与政府福利应形成正反馈","/gyzx/2014-03-20/105648366.html","2014-03-20"];
+auto_news[92] = ["评论：为什么喂药的都是民办幼儿园","/gyzx/2014-03-20/104948364.html","2014-03-20"];
+auto_news[93] = ["吐槽“药儿园”：什么样的人办教育很重要","/gyzx/2014-03-20/100848359.html","2014-03-20"];
+auto_news[94] = ["公益组织两种经营模式的利弊分析","/gyzx/2014-03-19/102548352.html","2014-03-19"];
+auto_news[95] = ["中华红丝带基金：民企呼唤更健康的慈善环境","/gyzx/2014-03-19/101748350.html","2014-03-19"];
+auto_news[96] = ["评论：查一查“东莞丐帮”制造了多少罪恶","/gyzx/2014-03-19/093348338.html","2014-03-19"];
+auto_news[97] = ["评论：嘲笑韩国暖炕申遗不会让我们更清醒","/gyzx/2014-03-18/110948329.html","2014-03-18"];
+auto_news[98] = ["评论：暂停“弃婴岛” 是最笨的办法","/gyzx/2014-03-18/095648312.html","2014-03-18"];
+auto_news[99] = ["评论：人道的“弃婴岛”试点当不惧阵痛","/gyzx/2014-03-18/094048306.html","2014-03-18"];
+auto_news[100] = ["崔子研：我国公益市场化是大势所趋","/gyzx/2014-03-17/110948300.html","2014-03-17"];
+auto_news[101] = ["评论：未婚妈妈的生育权问题不可能单独解决","/gyzx/2014-03-17/104748293.html","2014-03-17"];
+auto_news[102] = ["评论：揭露幼儿园潜规则的努力应获得支持","/gyzx/2014-03-17/103548289.html","2014-03-17"];
+auto_news[103] = ["保障幼儿在校安全根本在于去商业化和提高师资","/gyzx/2014-03-17/102348285.html","2014-03-17"];
+auto_news[104] = ["评论：“首张污染罚单”不只具有象征意义","/gyzx/2014-03-17/100748281.html","2014-03-17"];
+auto_news[105] = ["评论：弃婴岛暂停不必过度悲观","/gyzx/2014-03-17/100448280.html","2014-03-17"];
+auto_news[106] = ["评论：服药以保出勤率是幼儿园乱象的反映","/gyzx/2014-03-14/102248270.html","2014-03-14"];
+auto_news[107] = ["评论：医保资金确实不该“可自由支取”","/gyzx/2014-03-14/094248262.html","2014-03-14"];
+auto_news[108] = ["从《政府工作报告》看公益事业前景","/gyzx/2014-03-13/172548257.html","2014-03-13"];
+auto_news[109] = ["益调查：公益组织需要审查捐款来源吗？","/gyzx/2014-03-13/113748254.html","2014-03-13"];
+auto_news[110] = ["评论：给没病孩子吃药的 幼儿园才“有病”","/gyzx/2014-03-13/094748236.html","2014-03-13"];
+auto_news[111] = ["王名：加快制定社会组织基本法 成立公益银行","/gyzx/2014-03-12/103348227.html","2014-03-12"];
+auto_news[112] = ["高校有“皇后”“妃子”之分 何谈教育公平","/gyzx/2014-03-10/093148171.html","2014-03-10"];
+auto_news[113] = ["益调查：“假如你是李亚鹏，你怎么公开？”","/gyzx/2014-03-06/140548145.html","2014-03-06"];
+auto_news[114] = ["关注：独生子女家庭该不该获得更多优惠","/gyzx/2014-03-06/105148142.html","2014-03-06"];
+auto_news[115] = ["评论：解读联合劝募如何着陆中国","/gyzx/2014-03-05/103548123.html","2014-03-05"];
+auto_news[116] = ["评论：解读联合劝募如何着陆中国(2)","/gyzx/2014-03-05/103548123_2.html","2014-03-05"];
+auto_news[117] = ["全国政协委员孙太利：治霾要少作秀多作为","/gyzx/2014-03-05/095548109.html","2014-03-05"];
+auto_news[118] = ["评论：确保安全前提下转基因食品应产业化","/gyzx/2014-03-05/094848108.html","2014-03-05"];
+auto_news[119] = ["评论：土壤污染待治理 污染数据需公开","/gyzx/2014-03-04/103748095.html","2014-03-04"];
+auto_news[120] = ["科技部：京津冀治理雾霾无需30年时间","/gyzx/2014-03-04/102748093.html","2014-03-04"];
+auto_news[121] = ["评论：养老新政不可忽视机制设计问题","/gyzx/2014-03-04/095948086.html","2014-03-04"];
+auto_news[122] = ["昆明恐怖袭击：反人类的暴行","/gyzx/2014-03-03/104648073.html","2014-03-03"];
+auto_news[123] = ["评论：学雷锋未必要做“大事","/gyzx/2014-03-03/101548067.html","2014-03-03"];
+auto_news[124] = ["纪念平民英雄：面对持刀暴徒他们挺身而出","/gyzx/2014-03-03/093248061.html","2014-03-03"];
+auto_news[125] = ["评论：一个善举可能比十个善念更宝贵","/gyzx/2014-02-28/092448043.html","2014-02-28"];
+auto_news[126] = ["微公益原创：透明公开不是赔本“买卖”","/gyzx/2014-02-27/140648038.html","2014-02-27"];
+auto_news[127] = ["评论：雾霾天学校能否自主停课？","/gyzx/2014-02-27/104748036.html","2014-02-27"];
+auto_news[128] = ["钢子：让慈善不再昂贵 让公益成为连锁反应","/gyzx/2014-02-27/103948033.html","2014-02-27"];
+auto_news[129] = ["评论：雾锁京城 治理必须嵌入经济发展","/gyzx/2014-02-27/102948030.html","2014-02-27"];
+auto_news[130] = ["评论：浓雾之下不能坐等风吹","/gyzx/2014-02-26/102448005.html","2014-02-26"];
+auto_news[131] = ["公祭以国之名义：是铭记不是复仇 ","/gyzx/2014-02-26/093647996.html","2014-02-26"];
+auto_news[132] = ["评论：邓飞的转型与国民心态的建设","/gyzx/2014-02-25/101747985.html","2014-02-25"];
+auto_news[133] = ["国企治污为何有两副面孔？ ","/gyzx/2014-02-21/104347956.html","2014-02-21"];
+auto_news[134] = ["湖南系列公益诉讼剑指电信行业垄断","/gyzx/2014-02-21/094647949.html","2014-02-21"];
+auto_news[135] = ["评论：如何把文明变成一种习惯","/gyzx/2014-02-20/102847926.html","2014-02-20"];
+auto_news[136] = ["评论：嫣然基金 请让谣言止于公开","/gyzx/2014-02-20/095147925.html","2014-02-20"];
+auto_news[137] = ["慎言“农村与城市大学生就业率无明显差异”","/gyzx/2014-02-20/091447923.html","2014-02-20"];
+auto_news[138] = ["与不靠谱的基金会共存亡","/gyzx/2014-02-19/135147917.html","2014-02-19"];
+auto_news[139] = ["与不靠谱的基金会共存亡(2)","/gyzx/2014-02-19/135147917_2.html","2014-02-19"];
+auto_news[140] = ["净化网络环境 维护未成年人健康成长","/gyzx/2014-02-19/092847903.html","2014-02-19"];
+auto_news[141] = ["学者：延迟退休无助解决劳动力减少问题","/gyzx/2014-02-18/103547886.html","2014-02-18"];
+auto_news[142] = ["我国经性感染艾滋病毒者发病更快","/gyzx/2014-02-18/091247877.html","2014-02-18"];
+auto_news[143] = ["评论：“弃婴安全岛”保护的是生命","/gyzx/2014-02-18/091047876.html","2014-02-18"];
+auto_news[144] = ["评论：大病保险能否终结因病致贫","/gyzx/2014-02-18/090547875.html","2014-02-18"];
+auto_news[145] = ["益调查：你愿意成为持续月捐者吗？","/gyzx/2014-02-13/161347837.html","2014-02-13"];
+auto_news[146] = ["邓国胜：社会创新的三点趋势、三点不足","/gyzx/2014-02-13/104447831.html","2014-02-13"];
+auto_news[147] = ["汪忠：中国社会创新需要多方位的探索","/gyzx/2014-02-13/104347830.html","2014-02-13"];
+auto_news[148] = ["华建敏：努力把红会打造成全社会信任支持的平台 ","/gyzx/2014-02-13/102347825.html","2014-02-13"];
+auto_news[149] = ["评论：人均预期寿命是延迟退休的参考依据么","/gyzx/2014-02-12/103247804.html","2014-02-12"];
+auto_news[150] = ["政协委员：养老金不够用鼓励社会资本介入 ","/gyzx/2014-02-12/102247802.html","2014-02-12"];
+auto_news[151] = ["评论：让百姓受益的变通别只停留在春运","/gyzx/2014-02-12/092447795.html","2014-02-12"];
+auto_news[152] = ["评论：马年春节成为崇清尚俭拐点","/gyzx/2014-02-11/091447783.html","2014-02-11"];
+auto_news[153] = ["给你们泼点冷水——公益众筹，没那么简单","/gyzx/2014-02-11/085747778.html","2014-02-11"];
+auto_news[154] = ["“统一城乡居保”利于解决“养老碎片化”","/gyzx/2014-02-11/085547777.html","2014-02-11"];
+auto_news[155] = ["评论：建立统一的城乡养老保险制度势在必行","/gyzx/2014-02-10/102647765.html","2014-02-10"];
+auto_news[156] = ["评论：弃婴增多别着急归咎“弃婴岛”","/gyzx/2014-02-10/100047760.html","2014-02-10"];
+auto_news[157] = ["评论：儿童大病医保能否率先建立","/gyzx/2014-02-10/094547758.html","2014-02-10"];
+auto_news[158] = ["H7N9：每例通报要有 科普也别缺位","/gyzx/2014-02-07/093047732.html","2014-02-07"];
+auto_news[159] = ["评论：公租房惠民 还须拓宽受惠面","/gyzx/2014-02-07/092747730.html","2014-02-07"];
+auto_news[160] = ["评论：“烟花遇冷”释放出几重信号","/gyzx/2014-02-07/092547729.html","2014-02-07"];
+auto_news[161] = ["评论：“低头族”，请放下手机陪父母","/gyzx/2014-02-02/105647723.html","2014-02-02"];
+auto_news[162] = ["评论：春节环保是一种态度","/gyzx/2014-01-29/112947718.html","2014-01-29"];
+auto_news[163] = ["评论：政府80万奖李娜 为何不听“劝”","/gyzx/2014-01-29/111847717.html","2014-01-29"];
+auto_news[164] = ["评论：高速免费 未必要等到收费期结束","/gyzx/2014-01-29/104747711.html","2014-01-29"];
+auto_news[165] = ["评论：医保跨省结算为何就这么难","/gyzx/2014-01-27/101547683.html","2014-01-27"];
+auto_news[166] = ["关注：从留守儿童问题看国家监护制度","/gyzx/2014-01-27/095647679.html","2014-01-27"];
+auto_news[167] = ["评论：让少放烟花成为一场“公民行动”","/gyzx/2014-01-27/093147670.html","2014-01-27"];
+auto_news[168] = ["评论：自杀的留守儿童缺的不只是“一起过年”","/gyzx/2014-01-26/101647662.html","2014-01-26"];
+auto_news[169] = ["评论：用制度设计保证养老金跑赢物价","/gyzx/2014-01-26/100547661.html","2014-01-26"];
+auto_news[170] = ["农村扶贫：关键在“走出去”和“引进来”","/gyzx/2014-01-26/095947659.html","2014-01-26"];
+auto_news[171] = ["评论：我们如何面对留守儿童锥心之问","/gyzx/2014-01-26/094247652.html","2014-01-26"];
+auto_news[172] = ["对“个人”多点期许 对“公共”多点参与","/gyzx/2014-01-26/094147651.html","2014-01-26"];
+auto_news[173] = ["评论：转变教育公平理念 解决农村教育短板","/gyzx/2014-01-24/094747631.html","2014-01-24"];
+auto_news[174] = ["钢子：每个人都可以是慈善家","/gyzx/2014-01-23/104147619.html","2014-01-23"];
+auto_news[175] = ["从保安全到保空气 过年还放不放鞭炮？ ","/gyzx/2014-01-23/093247609.html","2014-01-23"];
+auto_news[176] = ["评论：“站票官司”是维权短板的另类表达","/gyzx/2014-01-23/092847607.html","2014-01-23"];
+auto_news[177] = ["王振耀：公益领域的三个浪潮与三个反思","/gyzx/2014-01-22/112147603.html","2014-01-22"];
+auto_news[178] = ["益调查：剥夺失责父母监护权 你怎么看？","/gyzx/2014-01-22/110547601.html","2014-01-22"];
+auto_news[179] = ["盖茨夫妇发布公开信 预言2035年全球消灭贫穷","/gyzx/2014-01-22/100047581.html","2014-01-22"];
+auto_news[180] = ["人物：“老抠儿”威尔逊的慈善事业","/gyzx/2014-01-21/112847572.html","2014-01-21"];
+auto_news[181] = ["公益观察：禁食野生动物可否入法？","/gyzx/2014-01-21/101147567.html","2014-01-21"];
+auto_news[182] = ["评论：用协议“买断”公民信访权不合法","/gyzx/2014-01-21/084447552.html","2014-01-21"];
+auto_news[183] = ["评论：机关疗养院改养老院是个好建议","/gyzx/2014-01-20/090347529.html","2014-01-20"];
+auto_news[184] = ["新浪CEO曹国伟：新媒体时代的慈善变革","/gyzx/2014-01-17/122747522.html","2014-01-17"];
+auto_news[185] = ["微益天下：公益捐赠不该动用行政指令","/gyzx/2014-01-17/111347518.html","2014-01-17"];
+auto_news[186] = ["评论：公益组织该如何对付媒体？","/gyzx/2014-01-17/103947505.html","2014-01-17"];
+auto_news[187] = ["益调查：“爱心基金”借路费 有去无回怎么办？","/gyzx/2014-01-16/193247499.html","2014-01-16"];
+auto_news[188] = ["评论：我们何时才能学会“为生命让路”？","/gyzx/2014-01-16/104947480.html","2014-01-16"];
+auto_news[189] = ["香格里拉大火：拒绝居民自救消防管道缺水","/gyzx/2014-01-15/094947451.html","2014-01-15"];
+auto_news[190] = ["评论：空气污染致死为何难引人关注","/gyzx/2014-01-15/094047447.html","2014-01-15"];
+auto_news[191] = ["方庆云：所得税扣除障碍问题急需解决","/gyzx/2014-01-14/164047445.html","2014-01-14"];
+auto_news[192] = ["何道峰：三中全会后的机遇与挑战","/gyzx/2014-01-14/163947444.html","2014-01-14"];
+auto_news[193] = ["媒体谈邵氏启示：慈善不该成为作秀场","/gyzx/2014-01-14/100147431.html","2014-01-14"];
+auto_news[194] = ["除夕高速不免费 别拿“福利歧视”说事","/gyzx/2014-01-14/092347426.html","2014-01-14"];
+auto_news[195] = ["评论：多元养老体系中的政府责任仍需坚持","/gyzx/2014-01-13/102247411.html","2014-01-13"];
+auto_news[196] = ["评论：一场痛心大火留下多少迫切追问","/gyzx/2014-01-13/092747405.html","2014-01-13"];
+auto_news[197] = ["香格里拉大火：古城新用须尊重传统智慧 ","/gyzx/2014-01-13/085947402.html","2014-01-13"];
+auto_news[198] = ["评论：上调企退养老金应为公平养老铺路","/gyzx/2014-01-10/100047395.html","2014-01-10"];
+auto_news[199] = ["益调查：公益“众筹”，你怎么看？","/gyzx/2014-01-09/115247387.html","2014-01-09"];
+auto_news[200] = ["评论： 公务员养老需先破双轨制再讨论公平","/gyzx/2014-01-09/102347380.html","2014-01-09"];
+auto_news[201] = ["评论：养老金并轨无关“平均主义”","/gyzx/2014-01-09/102047379.html","2014-01-09"];
+auto_news[202] = ["评论：开发商先想着赚钱 做不好养老地产","/gyzx/2014-01-09/093347376.html","2014-01-09"];
+auto_news[203] = ["养老并轨未动 先担心“对公务员不公”？","/gyzx/2014-01-09/090847372.html","2014-01-09"];
+auto_news[204] = ["垃圾焚烧项目不透明 公众知情权被漠视","/gyzx/2014-01-09/090747371.html","2014-01-09"];
+auto_news[205] = ["评论：中国民间力量急需完善的慈善制度","/gyzx/2014-01-09/090547370.html","2014-01-09"];
+auto_news[206] = ["不废除嫖宿幼女罪无碍严惩性侵幼童犯罪","/gyzx/2014-01-09/085547368.html","2014-01-09"];
+auto_news[207] = ["评论：中国教育需要更多邵逸夫式的慈善家","/gyzx/2014-01-08/095847350.html","2014-01-08"];
+auto_news[208] = ["纪念邵逸夫：他的离开不只是娱乐界大事","/gyzx/2014-01-08/092647344.html","2014-01-08"];
+auto_news[209] = ["评论：谁来做李亚鹏和周筱赟的裁判员","/gyzx/2014-01-08/091447341.html","2014-01-08"];
+auto_news[210] = ["评论：染毒快件暴露快递业法规落地难","/gyzx/2014-01-08/090247334.html","2014-01-08"];
+auto_news[211] = ["评论：让童工回课堂 政府要负起责任","/gyzx/2014-01-07/094447320.html","2014-01-07"];
+auto_news[212] = ["别忽视“国外公务员退休金高”的另一面","/gyzx/2014-01-07/085347314.html","2014-01-07"];
+auto_news[213] = ["评论：在养老金上应该比的是谁更公平","/gyzx/2014-01-07/084247309.html","2014-01-07"];
+auto_news[214] = ["评论：社会救助应考虑流动人口问题","/gyzx/2014-01-06/095047294.html","2014-01-06"];
+auto_news[215] = ["评论：医保报销不封顶不妨推而广之","/gyzx/2014-01-06/094047291.html","2014-01-06"];
+auto_news[216] = ["公开异常反应信息 重建疫苗社会信任","/gyzx/2014-01-06/093947290.html","2014-01-06"];
+auto_news[217] = ["评论：如何面对“当童工有肉吃”的孩子","/gyzx/2014-01-06/085147284.html","2014-01-06"];
+auto_news[218] = ["益调查：公益拼车合法 你愿合乘出行吗？","/gyzx/2014-01-03/173547280.html","2014-01-03"];
+auto_news[219] = ["评论：弃婴岛尊重生命还是在纵容遗弃？","/gyzx/2014-01-03/103347264.html","2014-01-03"];
+auto_news[220] = ["公办养老机构转制：别加重居民养老负担","/gyzx/2014-01-02/090947231.html","2014-01-02"];
+auto_news[221] = ["评论：公办养老资源要给最需要的人","/gyzx/2014-01-02/084847223.html","2014-01-02"];
+auto_news[222] = ["刘佑平：慈善改革要向经济改革学习","/gyzx/2013-12-31/144947219.html","2013-12-31"];
+auto_news[223] = ["王振耀：慈善资本主义时代到来","/gyzx/2013-12-31/144447218.html","2013-12-31"];
+auto_news[224] = ["女童摔婴事件：反思儿童暴力倾向预防","/gyzx/2013-12-31/092447204.html","2013-12-31"];
+auto_news[225] = ["何道峰：中国人也有责任正视世界的苦难","/gyzx/2013-12-30/112847191.html","2013-12-30"];
+auto_news[226] = ["评论：社会抚养费公开数据真实只是最低要求","/gyzx/2013-12-27/105447153.html","2013-12-27"];
+auto_news[227] = ["评论：高速免费别总是让民众纠结","/gyzx/2013-12-27/104847152.html","2013-12-27"];
+auto_news[228] = ["评论：豪华“衙门”的贫困帽是怎么批的","/gyzx/2013-12-26/100947115.html","2013-12-26"];
+auto_news[229] = ["评论：“弃婴骤增”说明弃婴岛应更多推广","/gyzx/2013-12-25/105647097.html","2013-12-25"];
+auto_news[230] = ["评论：彻底公开疫苗流向才能防止信任滑坡","/gyzx/2013-12-25/105047095.html","2013-12-25"];
+auto_news[231] = ["益调查：2013年度十大公益新闻事件评选","/gyzx/2013-12-24/182647086.html","2013-12-24"];
+auto_news[232] = ["评论：应尽快将疫苗事故善后纳入法制化轨道","/gyzx/2013-12-24/104947069.html","2013-12-24"];
+auto_news[233] = ["评论：公共服务温情化应成常态","/gyzx/2013-12-24/102847064.html","2013-12-24"];
+auto_news[234] = ["公益观察：以专长服务公益更有说服力","/gyzx/2013-12-24/102647063.html","2013-12-24"];
+auto_news[235] = ["从李亚鹏涉嫌违规看公众人物的法律意识","/gyzx/2013-12-23/103247038.html","2013-12-23"];
+auto_news[236] = ["评论：保障山区儿童受教育权须统筹规划","/gyzx/2013-12-23/091647022.html","2013-12-23"];
+auto_news[237] = ["益调查：你支持中国公益组织走向世界吗？","/gyzx/2013-12-19/173347000.html","2013-12-19"];
+auto_news[238] = ["任意“人肉搜索”的受害者可能就是你我","/gyzx/2013-12-19/095646978.html","2013-12-19"];
+auto_news[239] = ["专家：户籍改革须剥离户口福利","/gyzx/2013-12-18/091746938.html","2013-12-18"];
+auto_news[240] = ["评论：不能总是火灾过后才汲取教训","/gyzx/2013-12-17/100646925.html","2013-12-17"];
+auto_news[241] = ["评论：缺乏保障的渐进式延迟退休等于失业 ","/gyzx/2013-12-17/094646923.html","2013-12-17"];
+auto_news[242] = ["益调查：你会购买明星网店的“公益宝贝”吗？","/gyzx/2013-12-12/170846856.html","2013-12-12"];
+auto_news[243] = ["评论：放弃对行善者刨根究底式的追问","/gyzx/2013-12-12/111246843.html","2013-12-12"];
+auto_news[244] = ["评论：延迟退休选择权不妨交给劳动者","/gyzx/2013-12-12/105246837.html","2013-12-12"];
+auto_news[245] = ["关注：异地办生育证 难在缺“数据”吗？","/gyzx/2013-12-11/104046805.html","2013-12-11"];
+auto_news[246] = ["评论：雾霾罚单别只让公共财政“背黑锅”","/gyzx/2013-12-11/103346802.html","2013-12-11"];
+auto_news[247] = ["母亲毒杀脑瘫儿：“救助失灵”的悲剧","/gyzx/2013-12-10/102846782.html","2013-12-10"];
+auto_news[248] = ["关注：几百亿的社会抚养费“抚养”了谁","/gyzx/2013-12-06/101746739.html","2013-12-06"];
+auto_news[249] = ["益调查：为弃婴设置“安全岛”你怎么看？","/gyzx/2013-12-05/155946733.html","2013-12-05"];
+auto_news[250] = ["关于“延迟退休”全社会需要一场理性对话","/gyzx/2013-12-05/102646720.html","2013-12-05"];
+auto_news[251] = ["感恩节在华遇冷 留给中国节日一道新题","/gyzx/2013-12-03/103446656.html","2013-12-03"];
+auto_news[252] = ["评论：用保险制度扶起跌倒老人","/gyzx/2013-11-29/101746610.html","2013-11-29"];
+auto_news[253] = ["评论：节俭 帮我们更好地规划生活","/gyzx/2013-11-28/101846585.html","2013-11-28"];
+auto_news[254] = ["延休冲击五成就业 “渐进式”成博弈之选","/gyzx/2013-11-25/101746536.html","2013-11-25"];
+auto_news[255] = ["比尔盖茨：做慈善需要政府企业通力合作","/gyzx/2013-11-21/124046524.html","2013-11-21"];
+auto_news[256] = ["王振耀：三中全会勾勒现代慈善蓝图","/gyzx/2013-11-21/123946523.html","2013-11-21"];
+auto_news[257] = ["徐永光：中国慈善水平较低是因政府包办","/gyzx/2013-11-21/123846522.html","2013-11-21"];
+auto_news[258] = ["评论：接力“寻耳” 爱心进入“全城时代”","/gyzx/2013-11-19/111146460.html","2013-11-19"];
+auto_news[259] = ["评论：取消公费医疗对养老金并轨有何启示","/gyzx/2013-11-19/110946459.html","2013-11-19"];
+auto_news[260] = ["公费医疗取消了 医疗补助能否取消？","/gyzx/2013-11-19/104246453.html","2013-11-19"];
+auto_news[261] = ["评论：“搭车征地”和公益无关","/gyzx/2013-11-18/102546435.html","2013-11-18"];
+auto_news[262] = ["评论：以系统化“顶层设计”突破改革难局","/gyzx/2013-11-13/100846380.html","2013-11-13"];
+auto_news[263] = ["评论：从尊重出发 举手之劳皆公益","/gyzx/2013-11-11/110446357.html","2013-11-11"];
+auto_news[264] = ["评论：新型公益组织的萌芽与困境","/gyzx/2013-11-11/105546353.html","2013-11-11"];
+auto_news[265] = ["神童情结是种浮躁心态","/gyzx/2013-11-07/095446308.html","2013-11-07"];
+auto_news[266] = ["广场舞何以跳得“惊心动魄”","/gyzx/2013-11-07/095246307.html","2013-11-07"];
+auto_news[267] = ["胡泳：徒善不足以为政 徒法不能以自行","/gyzx/2013-11-06/162146306.html","2013-11-06"];
+auto_news[268] = ["进口抗癌药在内地的“制度成本”","/gyzx/2013-11-06/102846294.html","2013-11-06"];
+auto_news[269] = ["进口抗癌药在内地的“制度成本”(2)","/gyzx/2013-11-06/102846294_2.html","2013-11-06"];
+auto_news[270] = ["也许我们需要一部《摄像探头法》了","/gyzx/2013-11-06/101346292.html","2013-11-06"];
+auto_news[271] = ["国家发改委：雾霾天气几乎常态化","/gyzx/2013-11-06/092446290.html","2013-11-06"];
+auto_news[272] = ["星云大师：烧香磕头没必要行慈悲最重要","/gyzx/2013-11-06/091446289.html","2013-11-06"];
+auto_news[273] = ["谈“免费医疗”：天下没有“免费的午餐” ","/gyzx/2013-11-05/102946277.html","2013-11-05"];
+auto_news[274] = ["评论：医疗资源的公平比免费更重要","/gyzx/2013-11-05/095746273.html","2013-11-05"];
+auto_news[275] = ["公园观察：98.6%的基金会请“醒来”！","/gyzx/2013-11-04/110846261.html","2013-11-04"];
+auto_news[276] = ["评论：孕妇斗歹徒不应被复制","/gyzx/2013-11-04/103746256.html","2013-11-04"];
+auto_news[277] = ["评论：对孕妇见义勇为别作“自我解读”","/gyzx/2013-11-01/105046241.html","2013-11-01"];
+auto_news[278] = ["评论：调解机制为何在温岭杀医案中失灵？","/gyzx/2013-11-01/101946236.html","2013-11-01"];
+auto_news[279] = ["打破社保“双轨制” 需“群众路线”思维","/gyzx/2013-11-01/101646234.html","2013-11-01"];
+auto_news[280] = ["“悬浮视察”是一则官场寓言","/gyzx/2013-10-31/104146216.html","2013-10-31"];
+auto_news[281] = ["广场舞扰民 别让居民用法外手段获得法定权利","/gyzx/2013-10-31/102546209.html","2013-10-31"];
+auto_news[282] = ["评论：PS视察照是一种病态的审美观","/gyzx/2013-10-31/101746207.html","2013-10-31"];
+auto_news[283] = ["新《消保法》赋予消协公益诉讼权","/gyzx/2013-10-31/100746204.html","2013-10-31"];
+auto_news[284] = ["食品安全法修订草案：网购食品出问题网站先赔","/gyzx/2013-10-30/103346187.html","2013-10-30"];
+auto_news[285] = ["温岭弑医案：医患调解机制为何“失灵”","/gyzx/2013-10-30/100746186.html","2013-10-30"];
+auto_news[286] = ["评论：杀医案之后 谁还愿意做医生","/gyzx/2013-10-30/100346184.html","2013-10-30"];
+auto_news[287] = ["九成网友支持捐款若不当使用应全退","/gyzx/2013-10-29/112146180.html","2013-10-29"];
+auto_news[288] = ["不要总让医生成为医患冲突牺牲品","/gyzx/2013-10-29/100946170.html","2013-10-29"];
+auto_news[289] = ["调查显示近半数年轻人对养老保障不安心","/gyzx/2013-10-29/100746168.html","2013-10-29"];
+auto_news[290] = ["媒体称医患关系恶化非单一成因 需耐心调养","/gyzx/2013-10-28/102446148.html","2013-10-28"];
+auto_news[291] = ["评论：“医不过二代”投射代际传承断裂","/gyzx/2013-10-28/101246143.html","2013-10-28"];
+auto_news[292] = ["“最美女教师”提副处的正常与不正常","/gyzx/2013-10-25/111546129.html","2013-10-25"];
+auto_news[293] = ["严惩性侵未成年人犯罪 效果有待实践检验","/gyzx/2013-10-25/110846126.html","2013-10-25"];
+auto_news[294] = ["评论：严惩性侵幼女还需立法跟进","/gyzx/2013-10-25/102746119.html","2013-10-25"];
+auto_news[295] = ["专家称以房养老是自愿非政策 期待多元体系 ","/gyzx/2013-10-24/103746098.html","2013-10-24"];
+auto_news[296] = ["媒体人做公益有着“天然的优势”","/gyzx/2013-10-23/105946079.html","2013-10-23"];
+auto_news[297] = ["媒体人做公益有着“天然的优势”(2)","/gyzx/2013-10-23/105946079_2.html","2013-10-23"];
+auto_news[298] = ["评论：莫让“再穷不能穷教育”沦为口号","/gyzx/2013-10-22/105746045.html","2013-10-22"];
+auto_news[299] = ["评论：豪华衙门VS学校难民营 谁该脸红？ ","/gyzx/2013-10-22/104746041.html","2013-10-22"];
+auto_news[300] = ["评论：医保跨省还需攻克“利益统筹关”","/gyzx/2013-10-22/102046034.html","2013-10-22"];
+auto_news[301] = ["“公办养老机构成了事业单位”倒逼改革","/gyzx/2013-10-21/104146012.html","2013-10-21"];
+auto_news[302] = ["关注：锯腿等死者郑艳良的医保与依靠","/gyzx/2013-10-21/103646007.html","2013-10-21"];
+auto_news[303] = ["关注：锯腿等死者郑艳良的医保与依靠(2)","/gyzx/2013-10-21/103646007_2.html","2013-10-21"];
+auto_news[304] = ["评论：养老“并轨”改革不宜再拖","/gyzx/2013-10-21/103146003.html","2013-10-21"];
+auto_news[305] = ["邓飞的成就归于民间公益的主体性","/gyzx/2013-10-21/093945994.html","2013-10-21"];
+auto_news[306] = ["评论：公共医疗制度的本质就是帮助穷人","/gyzx/2013-10-17/110145921.html","2013-10-17"];
+auto_news[307] = ["评论：勤俭节约是最好的纪念","/gyzx/2013-10-15/111845880.html","2013-10-15"];
+auto_news[308] = ["让人背着“视察”灾情 问题关键不在鞋","/gyzx/2013-10-15/103745864.html","2013-10-15"];
+auto_news[309] = ["刘国梁：体育公益需要专业组织","/gyzx/2013-10-14/111545851.html","2013-10-14"];
+auto_news[310] = ["“怎么一报道才有人来关心”的锥心之问","/gyzx/2013-10-14/110745849.html","2013-10-14"];
+auto_news[311] = ["家庭教育不能失去的部分","/gyzx/2013-10-14/110445847.html","2013-10-14"];
+auto_news[312] = ["2013年直销行业公众形象市场调查报告发布","/gyzx/2013-10-14/102945837.html","2013-10-14"];
+auto_news[313] = ["2013年直销行业公众形象市场调查报告发布(2)","/gyzx/2013-10-14/102945837_2.html","2013-10-14"];
+auto_news[314] = ["评论：免费医疗的价值观之争","/gyzx/2013-10-11/102545784.html","2013-10-11"];
+auto_news[315] = ["免费医疗不现实 改善医疗应可期","/gyzx/2013-10-11/101645781.html","2013-10-11"];
+auto_news[316] = ["免费医疗：陷阱还是馅饼？","/gyzx/2013-10-10/112245775.html","2013-10-10"];
+auto_news[317] = ["王振耀：关于慈善立法的思考与建议","/gyzx/2013-10-09/112145744.html","2013-10-09"];
+auto_news[318] = ["公益专业化发展尚缺外部支撑","/gyzx/2013-10-08/112845723.html","2013-10-08"];
+auto_news[319] = ["“慈善免刑”只是丁书苗们的一厢情愿","/gyzx/2013-09-26/104545653.html","2013-09-26"];
+auto_news[320] = ["评论：不要忽略张家川少年的返乡经历","/gyzx/2013-09-26/104345652.html","2013-09-26"];
+auto_news[321] = ["治理空气污染须强化政府的公共责任","/gyzx/2013-09-26/100545639.html","2013-09-26"];
+auto_news[322] = ["“政府放手 民间承办”慈展会能走得更远?","/gyzx/2013-09-25/112345625.html","2013-09-25"];
+auto_news[323] = ["“慈善明星”陨落 当警惕行善成交易","/gyzx/2013-09-25/112145624.html","2013-09-25"];
+auto_news[324] = ["13年谎言能换来孩子的成功吗？","/gyzx/2013-09-25/110845619.html","2013-09-25"];
+auto_news[325] = ["13年谎言能换来孩子的成功吗？(2)","/gyzx/2013-09-25/110845619_2.html","2013-09-25"];
+auto_news[326] = ["打造慈善之都 深圳要敢于打破制度藩篱","/gyzx/2013-09-25/105845616.html","2013-09-25"];
+auto_news[327] = ["传递正能量的草根英雄","/gyzx/2013-09-25/103545610.html","2013-09-25"];
+auto_news[328] = ["评论：极端个案处理失当或埋社会隐患","/gyzx/2013-09-25/103445609.html","2013-09-25"];
+auto_news[329] = ["评论：每多一道轨 人心就多隔一堵墙","/gyzx/2013-09-24/110145592.html","2013-09-24"];
+auto_news[330] = ["评论：退休官员介入公益未必是好事","/gyzx/2013-09-24/104545584.html","2013-09-24"];
+auto_news[331] = ["人大教授郑功成：对迟延退休者应有补偿","/gyzx/2013-09-24/103345578.html","2013-09-24"];
+auto_news[332] = ["人大教授郑功成：对迟延退休者应有补偿(2)","/gyzx/2013-09-24/103345578_2.html","2013-09-24"];
+auto_news[333] = ["王振耀：慈善事业法应实现“开门立法”","/gyzx/2013-09-24/103245577.html","2013-09-24"];
+auto_news[334] = ["评论：不讲伦理的转基因研究必然受谴责","/gyzx/2013-09-24/101045571.html","2013-09-24"];
+auto_news[335] = ["捐赠连降倒逼公益慈善转型升级","/gyzx/2013-09-23/105245549.html","2013-09-23"];
+auto_news[336] = ["公益创新着力四个维度 奇思怪想也可有作为","/gyzx/2013-09-23/101945541.html","2013-09-23"];
+auto_news[337] = ["全民慈善时代到来 传统机构需积极适应变局","/gyzx/2013-09-23/093845536.html","2013-09-23"];
+auto_news[338] = ["评论：以房养老 不意味着淡化政府责任","/gyzx/2013-09-21/104445527.html","2013-09-21"];
+auto_news[339] = ["清新空气靠实在的清洁行动","/gyzx/2013-09-18/101145487.html","2013-09-18"];
+auto_news[340] = ["婴儿“第一口奶”怎能沾染“寻租之毒”","/gyzx/2013-09-17/102845473.html","2013-09-17"];
+auto_news[341] = ["摔童案中的辩护也是一堂法律课","/gyzx/2013-09-17/095445463.html","2013-09-17"];
+auto_news[342] = ["代课教师自杀“清退”不宜一刀切","/gyzx/2013-09-13/100945404.html","2013-09-13"];
+auto_news[343] = ["期待“大气十条”推动治污升级","/gyzx/2013-09-13/100745403.html","2013-09-13"];
+auto_news[344] = ["全民开放是公共图书馆的未来","/gyzx/2013-09-12/102645398.html","2013-09-12"];
+auto_news[345] = ["诺奖得主支招治污缓堵","/gyzx/2013-09-12/092445390.html","2013-09-12"];
+auto_news[346] = ["评论：怎么看“老牛吃慈善”","/gyzx/2013-09-11/111145367.html","2013-09-11"];
+auto_news[347] = ["推广新能源车尚需政府扶一把","/gyzx/2013-09-11/105945364.html","2013-09-11"];
+auto_news[348] = ["两次检查为何未避免上海液氨泄漏事故","/gyzx/2013-09-11/102845358.html","2013-09-11"];
+auto_news[349] = ["我国流动人口多半为“八零后”","/gyzx/2013-09-11/102345355.html","2013-09-11"];
+auto_news[350] = ["机关养老金不并轨 任何改革都似耍流氓","/gyzx/2013-09-11/101845353.html","2013-09-11"];
+auto_news[351] = ["“撑竹筏上学”也许是外人想像出的悲情","/gyzx/2013-09-11/101845352.html","2013-09-11"];
+auto_news[352] = ["教师节师德问题成焦点 “红线”成“虚线”？ ","/gyzx/2013-09-10/111345313.html","2013-09-10"];
+auto_news[353] = ["评论：不必带着情绪意气去反击舆论监督","/gyzx/2013-09-10/101145298.html","2013-09-10"];
+auto_news[354] = ["评论：儿童伤害案频发 当反思监护缺失","/gyzx/2013-09-09/110445288.html","2013-09-09"];
+auto_news[355] = ["让孩子远离性侵害 需要我们共同努力","/gyzx/2013-09-09/104645280.html","2013-09-09"];
+auto_news[356] = ["公益话题：儿童保护更应强调国家责任","/gyzx/2013-09-09/103445275.html","2013-09-09"];
+auto_news[357] = ["养老制度改革不可“选择性借鉴”","/gyzx/2013-09-06/102645262.html","2013-09-06"];
+auto_news[358] = ["评论：算清社会抚养费这笔糊涂账","/gyzx/2013-09-05/103645231.html","2013-09-05"];
+auto_news[359] = ["“社会抚养费”应给公众“明白账”","/gyzx/2013-09-03/104245197.html","2013-09-03"];
+auto_news[360] = ["社会抚养费支出不该成谜","/gyzx/2013-09-03/104145196.html","2013-09-03"];
+auto_news[361] = ["河南宋基会真的有人在“调查”吗？","/gyzx/2013-09-03/102645187.html","2013-09-03"];
+auto_news[362] = ["评论：能否让失去双眼的男童“看到天亮”","/gyzx/2013-09-03/093045177.html","2013-09-03"];
+auto_news[363] = ["救灾反思：让好心真能办好事","/gyzx/2013-09-02/101445152.html","2013-09-02"];
+auto_news[364] = ["炎炎夏日民间爱心团体为环卫工“送清凉”","/gyzx/2013-09-02/100245149.html","2013-09-02"];
+auto_news[365] = ["公益观察：环保公益组织的坏消息","/gyzx/2013-09-02/100045148.html","2013-09-02"];
+auto_news[366] = ["黄英男：推动公益回归本源","/gyzx/2013-09-02/094645145.html","2013-09-02"];
+auto_news[367] = ["潘石屹：不能凭“幸运”做公益","/gyzx/2013-08-30/163545143.html","2013-08-30"];
+auto_news[368] = ["牛根生：做公益慈善事业信托的路子挺好","/gyzx/2013-08-30/163445142.html","2013-08-30"];
+auto_news[369] = ["不伤害儿童应是社会底线","/gyzx/2013-08-30/110245125.html","2013-08-30"];
+auto_news[370] = ["奶企要做“惊弓之鸟”别当“缩头乌龟”","/gyzx/2013-08-29/105145112.html","2013-08-29"];
+auto_news[371] = ["评论：心理救助被挖眼男童和破案一样重要","/gyzx/2013-08-29/104645111.html","2013-08-29"];
+auto_news[372] = ["评论：食品安全 宁可“虚惊”不能“放纵”","/gyzx/2013-08-29/103845108.html","2013-08-29"];
+auto_news[373] = ["明星代言广告的有限责任","/gyzx/2013-08-28/104545084.html","2013-08-28"];
+auto_news[374] = ["病态公关--CSR的不速之客","/gyzx/2013-08-28/103345082.html","2013-08-28"];
+auto_news[375] = ["社会性企业是SK企业社会责任重要方向","/gyzx/2013-08-28/100545079.html","2013-08-28"];
+auto_news[376] = ["评论：勿以正义名义施以戾气之举","/gyzx/2013-08-27/100045053.html","2013-08-27"];
+auto_news[377] = ["评论：网络谣言让文明很受伤","/gyzx/2013-08-26/130345048.html","2013-08-26"];
+auto_news[378] = ["专家质疑：长期用太阳能热水器会铅中毒?","/gyzx/2013-08-26/111345043.html","2013-08-26"];
+auto_news[379] = ["长痘不能从警：体检标准应回立法本义","/gyzx/2013-08-26/104345033.html","2013-08-26"];
+auto_news[380] = ["推迟领养老金 失信用还是新思路","/gyzx/2013-08-22/112844994.html","2013-08-22"];
+auto_news[381] = ["评论：节约用水 “阶梯水价”可提上日程","/gyzx/2013-08-22/104044988.html","2013-08-22"];
+auto_news[382] = ["经济学专家：养老金改革应给公众明确预期","/gyzx/2013-08-22/102544986.html","2013-08-22"];
+auto_news[383] = ["经济学专家：养老金改革应给公众明确预期(2)","/gyzx/2013-08-22/102544986_2.html","2013-08-22"];
+auto_news[384] = ["母婴“安家”肯德基释放出人性温度","/gyzx/2013-08-22/095044979.html","2013-08-22"];
+auto_news[385] = ["评论：洪灾来袭 预警疏散莫只靠敲锣","/gyzx/2013-08-21/104344953.html","2013-08-21"];
+auto_news[386] = ["关爱受害女生勿只是应付舆论","/gyzx/2013-08-21/092644942.html","2013-08-21"];
+auto_news[387] = ["评论：机会型公益创业符合世界潮流和趋势","/gyzx/2013-08-19/110844908.html","2013-08-19"];
+auto_news[388] = ["二代身份证隐忧重重 先天缺陷或管理漏洞","/gyzx/2013-08-19/110044902.html","2013-08-19"];
+auto_news[389] = ["评论：公益培养人才不应局限于专才","/gyzx/2013-08-19/100344896.html","2013-08-19"];
+auto_news[390] = ["评论：比摔童更恶劣的是有案不立","/gyzx/2013-08-19/095344895.html","2013-08-19"];
+auto_news[391] = ["评论：犬类乘公共交通理当禁止","/gyzx/2013-08-19/094844894.html","2013-08-19"];
+auto_news[392] = ["窦玉沛：鼓励各地推进中国慈善信息平台建设","/gyzx/2013-08-16/165644889.html","2013-08-16"];
+auto_news[393] = ["控烟协会长：“烟草院士”让国家形象受损","/gyzx/2013-08-15/102144844.html","2013-08-15"];
+auto_news[394] = ["飞虎队公墓遗骨横陈 谈何慎终追远？","/gyzx/2013-08-14/105344821.html","2013-08-14"];
+auto_news[395] = ["评论：不宜让企业家们为自救问题所困扰","/gyzx/2013-08-14/085144812.html","2013-08-14"];
+auto_news[396] = ["评论：红会应为“无偿献血大王”做什么","/gyzx/2013-08-13/113444798.html","2013-08-13"];
+auto_news[397] = ["评论：红会出来走两步","/gyzx/2013-08-13/113244797.html","2013-08-13"];
+auto_news[398] = ["南京：救助“无肛宝宝”创造慈善新模式","/gyzx/2013-08-13/110044796.html","2013-08-13"];
+auto_news[399] = ["恒天然式“危机公关”让中国消费者很受伤","/gyzx/2013-08-13/102644784.html","2013-08-13"];
+auto_news[400] = ["评论：释放非营利力量 放飞未来中国梦想","/gyzx/2013-08-13/073844777.html","2013-08-13"];
+auto_news[401] = ["王振耀：警惕慈善恐怖主义","/gyzx/2013-08-09/134644746.html","2013-08-09"];
+auto_news[402] = ["评论：城乡养老并轨资金来源不是问题","/gyzx/2013-08-09/114844734.html","2013-08-09"];
+auto_news[403] = ["评论：先污染后治理 环境污染拉大贫富差距","/gyzx/2013-08-09/105144726.html","2013-08-09"];
+auto_news[404] = ["评论：别让高温灼伤劳动者权利","/gyzx/2013-08-09/095844718.html","2013-08-09"];
+auto_news[405] = ["社会责任已成为企业文化基因重要组成部分","/gyzx/2013-08-08/111944710.html","2013-08-08"];
+auto_news[406] = ["评论：保障房不仅看数量也要重品质","/gyzx/2013-08-08/110244703.html","2013-08-08"];
+auto_news[407] = ["评论：生育政策调整的窗口期就在当前","/gyzx/2013-08-07/102544674.html","2013-08-07"];
+auto_news[408] = ["广东河源：超标保障房为何“一路绿灯”","/gyzx/2013-08-07/101744672.html","2013-08-07"];
+auto_news[409] = ["评论：洋奶粉也不可靠 我们的孩子吃什么","/gyzx/2013-08-07/101744671.html","2013-08-07"];
+auto_news[410] = ["必须彻查富平贩婴案的罪恶链条","/gyzx/2013-08-07/084144663.html","2013-08-07"];
+auto_news[411] = ["策划炒作 “女孩撑伞”只会让善美爱心受伤","/gyzx/2013-08-06/110644647.html","2013-08-06"];
+auto_news[412] = ["评论：假爱心玷污公益精神","/gyzx/2013-08-06/105844641.html","2013-08-06"];
+auto_news[413] = ["新生代聚焦“小公益”：学会用爱与智慧发声","/gyzx/2013-08-06/101044629.html","2013-08-06"];
+auto_news[414] = ["徐永光：小公益贵在“以小博大”","/gyzx/2013-08-06/100944628.html","2013-08-06"];
+auto_news[415] = ["加快养老“并轨”并非过高承诺","/gyzx/2013-08-05/105944611.html","2013-08-05"];
+auto_news[416] = ["公益观察：公众“做主”善款仍需时日","/gyzx/2013-08-05/095444599.html","2013-08-05"];
+auto_news[417] = ["改革公共服务提供方式将一举多得","/gyzx/2013-08-02/104244572.html","2013-08-02"];
+auto_news[418] = ["评论：推动购买公共服务在规范中前行","/gyzx/2013-08-02/102344570.html","2013-08-02"];
+auto_news[419] = ["厘清权力与公益 让慈善本意回归","/gyzx/2013-08-01/113344560.html","2013-08-01"];
+auto_news[420] = ["吴杭民：看那触目惊心的扶贫款“黑洞”","/gyzx/2013-08-01/103444556.html","2013-08-01"];
+auto_news[421] = ["评论：“烧烤”之下更想念树荫","/gyzx/2013-08-01/101544549.html","2013-08-01"];
+auto_news[422] = ["评论：探索“尊严死”亟待法律规范","/gyzx/2013-08-01/093144544.html","2013-08-01"];
+auto_news[423] = ["周生贤：生态中国拒绝开宝马喝污水","/gyzx/2013-07-31/103744531.html","2013-07-31"];
+auto_news[424] = ["汶川地震捐款被曝80%左右流入政府财政","/gyzx/2013-07-31/102944530.html","2013-07-31"];
+auto_news[425] = ["评论：不要以“社会之恶”替犯罪辩护","/gyzx/2013-07-31/102644527.html","2013-07-31"];
+auto_news[426] = ["评论：高温“烤”验各地政府公共服务措施","/gyzx/2013-07-31/070844514.html","2013-07-31"];
+auto_news[427] = ["评论：“模范敬老院”为何这么穷","/gyzx/2013-07-30/103544495.html","2013-07-30"];
+auto_news[428] = ["没有资金支持的文物保护成纸上谈兵？","/gyzx/2013-07-30/101644490.html","2013-07-30"];
+auto_news[429] = ["照护特殊人群可发掘社会组织之力","/gyzx/2013-07-29/104644467.html","2013-07-29"];
+auto_news[430] = ["共同维护法律底线 向暴戾坚决说不","/gyzx/2013-07-29/104244464.html","2013-07-29"];
+auto_news[431] = ["评论：谁将泳池里的女童推向绝境","/gyzx/2013-07-29/095744453.html","2013-07-29"];
+auto_news[432] = ["微公益：不断改进的慈善新平台","/gyzx/2013-07-26/111744433.html","2013-07-26"];
+auto_news[433] = ["评论：消除暴戾必须找准暴戾根源","/gyzx/2013-07-26/101244420.html","2013-07-26"];
+auto_news[434] = ["评论：拒绝虚假因果的恐惧传染","/gyzx/2013-07-26/100144416.html","2013-07-26"];
+auto_news[435] = ["顺风车、拼车和黑车到底该如何界定","/gyzx/2013-07-26/095644414.html","2013-07-26"];
+auto_news[436] = ["评论：被富豪相亲会丢掉的底线和尊严","/gyzx/2013-07-26/092744407.html","2013-07-26"];
+auto_news[437] = ["全社会都要负起对精神病患者的监护责任","/gyzx/2013-07-25/074544386.html","2013-07-25"];
+auto_news[438] = ["防范学生溺水不能仅靠避水","/gyzx/2013-07-24/095644346.html","2013-07-24"];
+auto_news[439] = ["评论：河北两医院为何没确诊H7N9？","/gyzx/2013-07-23/102944317.html","2013-07-23"];
+auto_news[440] = ["评论：年假应保障所有职工“常回家看看”","/gyzx/2013-07-22/105644294.html","2013-07-22"];
+auto_news[441] = ["书店文明阅读儿童需要引导","/gyzx/2013-07-22/102844275.html","2013-07-22"];
+auto_news[442] = ["专家：政府应推动儿童大病医保全覆盖","/gyzx/2013-07-22/101244272.html","2013-07-22"];
+auto_news[443] = ["一周公益观察：公益之力让歧视者出局","/gyzx/2013-07-22/093844268.html","2013-07-22"];
+auto_news[444] = ["评论：争议汉字繁简 不如关注文明传承","/gyzx/2013-07-19/095144237.html","2013-07-19"];
+auto_news[445] = ["评论：兑现高温权益 须告别“双重标准”","/gyzx/2013-07-17/105544202.html","2013-07-17"];
+auto_news[446] = ["评论：吃镉大米没问题如此雷语几时休","/gyzx/2013-07-17/103544199.html","2013-07-17"];
+auto_news[447] = ["葛兰素案件：整顿中国医药市场的良机","/gyzx/2013-07-16/101144169.html","2013-07-16"];
+auto_news[448] = ["微公益成为推动中国慈善的力量","/gyzx/2013-07-15/134944162.html","2013-07-15"];
+auto_news[449] = ["性教育 不能重知识轻理念","/gyzx/2013-07-15/110544158.html","2013-07-15"];
+auto_news[450] = ["深圳：市慈善会要“去行政化”","/gyzx/2013-07-15/110444157.html","2013-07-15"];
+auto_news[451] = ["中国慈善组织监管缺乏独立评级机构","/gyzx/2013-07-15/103044152.html","2013-07-15"];
+auto_news[452] = ["性教育：老师大方讲 学生才不往歪处想","/gyzx/2013-07-15/101844149.html","2013-07-15"];
+auto_news[453] = ["江门取消核项目：有环保共识才有多赢结局","/gyzx/2013-07-15/101044144.html","2013-07-15"];
+auto_news[454] = ["慈善会“官办”背景浓厚 引发业内人士争议","/gyzx/2013-07-15/093844135.html","2013-07-15"];
+auto_news[455] = ["慈善会“官办”背景浓厚 引发业内人士争议(2)","/gyzx/2013-07-15/093844135_2.html","2013-07-15"];
+auto_news[456] = ["评论：如何从制度上解决公益组织“缺血”","/gyzx/2013-07-15/093444134.html","2013-07-15"];
+auto_news[457] = ["治理PM2.5 官员岂止戒烟这点作为","/gyzx/2013-07-11/101544072.html","2013-07-11"];
+auto_news[458] = ["连环境公益诉权都可能被垄断吗","/gyzx/2013-07-10/094944028.html","2013-07-10"];
+auto_news[459] = ["评论：“挟器官以令捐款”亵渎了慈善","/gyzx/2013-07-09/095844003.html","2013-07-09"];
+auto_news[460] = ["评论：唯有透明才能驱散器官捐献疑云","/gyzx/2013-07-09/095644000.html","2013-07-09"];
+auto_news[461] = ["法律未赋予红监会调查权 实质是专业桥梁","/gyzx/2013-07-05/104243957.html","2013-07-05"];
+auto_news[462] = ["重塑红会公信力 去行政化非唯一途径","/gyzx/2013-07-05/104143956.html","2013-07-05"];
+auto_news[463] = ["H7N9秋冬或卷土重来 突变人传人 ","/gyzx/2013-07-04/095043919.html","2013-07-04"];
+auto_news[464] = ["评论：“好人法”释放道德正能量","/gyzx/2013-07-03/083143882.html","2013-07-03"];
+auto_news[465] = ["评论：保护好孩子安全成年人须尽责","/gyzx/2013-07-03/082343881.html","2013-07-03"];
+auto_news[466] = ["关于慈善去行政化问题","/gyzx/2013-07-01/102943826.html","2013-07-01"];
+auto_news[467] = ["评论：不爱狗者的言论自由需要尊重","/gyzx/2013-07-01/100543817.html","2013-07-01"];
+auto_news[468] = ["评论：扶贫更要授人以渔","/gyzx/2013-07-01/095543810.html","2013-07-01"];
+auto_news[469] = ["评论：整合公益力量寻找儿童保护的死角","/gyzx/2013-07-01/092343804.html","2013-07-01"];
+auto_news[470] = ["谁来申请撤销儿童监护人的资格","/gyzx/2013-06-28/110243795.html","2013-06-28"];
+auto_news[471] = ["南京幼女饿死事件折射未成年人权益保护困境","/gyzx/2013-06-28/102743782.html","2013-06-28"];
+auto_news[472] = ["专家谈儿童意外伤害防范：家长切勿矫枉过正","/gyzx/2013-06-26/103443731.html","2013-06-26"];
+auto_news[473] = ["慈善活动到底是公益还是利己？","/gyzx/2013-06-26/100943721.html","2013-06-26"];
+auto_news[474] = ["慈善传播研究中心主任：公益需要专业传播","/gyzx/2013-06-24/095643647.html","2013-06-24"];
+auto_news[475] = ["农民工的1.4万元工资意味着什么","/gyzx/2013-06-24/094643644.html","2013-06-24"];
+auto_news[476] = ["热点评论：婴幼儿奶粉关系大国公信","/gyzx/2013-06-21/101543615.html","2013-06-21"];
+auto_news[477] = ["加强青少年公共安全教育才能减少悲剧","/gyzx/2013-06-21/101343613.html","2013-06-21"];
+auto_news[478] = ["别让古建在路边担惊受怕","/gyzx/2013-06-20/100443590.html","2013-06-20"];
+auto_news[479] = ["评论：为什么又是维C银翘片？","/gyzx/2013-06-20/100343589.html","2013-06-20"];
+auto_news[480] = ["石家庄治污：慎用单双号限行“猛药”","/gyzx/2013-06-20/100043587.html","2013-06-20"];
+auto_news[481] = ["水源地变“化粪池”是环保之羞","/gyzx/2013-06-20/095043581.html","2013-06-20"];
+auto_news[482] = ["环境公益诉讼 法院“不搭理”？","/gyzx/2013-06-19/141343572.html","2013-06-19"];
+auto_news[483] = ["评论：守护好儿童精神世界的“食堂”","/gyzx/2013-06-19/141143571.html","2013-06-19"];
+auto_news[484] = ["民工托不起　“老无所依”","/gyzx/2013-06-18/105143543.html","2013-06-18"];
+auto_news[485] = ["评论：红十字会应尽快脱去行政外衣","/gyzx/2013-06-18/101343528.html","2013-06-18"];
+auto_news[486] = ["宁波市慈善总会任和君：浅析慈善救助公信力","/gyzx/2013-06-17/110443511.html","2013-06-17"];
+auto_news[487] = ["媒体称社监委接受红会差旅费致其丧失独立性","/gyzx/2013-06-17/100643486.html","2013-06-17"];
+auto_news[488] = ["公交纵火案：媒体自我标榜不合时宜","/gyzx/2013-06-17/095743484.html","2013-06-17"];
+auto_news[489] = ["评论：消费者协会应定性为公益组织","/gyzx/2013-06-14/101443450.html","2013-06-14"];
+auto_news[490] = ["红会社：监督者自身也要接受监督","/gyzx/2013-06-11/094343396.html","2013-06-11"];
+auto_news[491] = ["微博红人于莺：特需医疗应从公立医院剥离","/gyzx/2013-06-11/093643393.html","2013-06-11"];
+auto_news[492] = ["再论现代慈善理念","/gyzx/2013-06-09/150043386.html","2013-06-09"];
+auto_news[493] = ["厦门公交起火 公共安全再敲警钟","/gyzx/2013-06-09/104743339.html","2013-06-09"];
+auto_news[494] = ["外教性侵案 不必凸显“洋”身份","/gyzx/2013-06-08/105243313.html","2013-06-08"];
+auto_news[495] = ["媒体在现代慈善中的功能与运用","/gyzx/2013-06-07/112743290.html","2013-06-07"];
+auto_news[496] = ["2元的瓶装水哪儿去了","/gyzx/2013-06-07/101343273.html","2013-06-07"];
+auto_news[497] = ["城乡养老金差33倍 “双轨制”亟待改革 ","/gyzx/2013-06-05/110643221.html","2013-06-05"];
+auto_news[498] = ["连续灾难敲响安全警钟","/gyzx/2013-06-05/103943217.html","2013-06-05"];
+auto_news[499] = ["拦车救狗之后 如何将慈善进行到底","/gyzx/2013-06-05/101743210.html","2013-06-05"];
+
+function show_news(p,np)
+{
+	p = parseInt(p); //当前显示页码
+	np = parseInt(np); //每页显示条数
+	if (p&lt;=0) p=1;
+	if (np&lt;=0) np=50;
+	var nt = auto_news.length; //总条数
+	var pt = Math.ceil(nt/np); //总页数
+	if (p&gt;pt) p=pt;
+	var ns = (p-1)*np; //开始索引
+	var ne = (p)*np; //结束索引(不包括)
+	if (ne &gt; nt) ne = nt;
+	var __s = '&lt;p align="left"&gt;&nbsp;&lt;/p&gt;';
+	for (var i=ns; i&lt;ne&gt;&lt;div style="padding:0 0 0 25px; text-align:left; " class="linkBlack01"&gt;';
+		}
+		if (i%6 == 0 &amp;&amp; i%30 !=0)  {
+			__s += '&lt;div style="height:1px; overflow:hidden; border-bottom:1px #333 dotted; clear:both;"&gt;&lt;/div&gt;&lt;p&gt;&nbsp;&lt;/p&gt;';
+		}
+		__s += '&lt;li&gt;&lt;a href="'+auto_news[i][1]+'"&gt;'+auto_news[i][0]+'&lt;/a&gt; &lt;span&gt;('+auto_news[i][2]+')&lt;/span&gt;&lt;/li&gt;';
+		if (i%6 == 5)
+		{
+			__s += '&lt;/div&gt;';
+		}
+	}
+	__p = '';
+	if (p&gt;1)
+	{
+		__p += '&lt;span&gt;&lt;a href="javascript:show_news('+(p-1)+','+np+');void 0;"&gt;&lt;&lt;&lt;/a&gt;&lt;/span&gt;&nbsp;';
+	}
+	else
+	{
+		__p += '&lt;span&gt;&lt;&lt;&lt;/span&gt;&nbsp;';
+
+	}
+	for (i=1; i&lt;=pt; i++)
+	{
+		if (i == p)
+		{
+			__p += "&lt;span class="left-selected"&gt;"+i+"&lt;/span&gt;&nbsp;";
+		}
+		else
+		{
+			__p += "&lt;span&gt;&lt;a href="javascript:show_news("+i+","+np+");void 0"&gt;"+i+"&lt;/a&gt;&lt;/span&gt;&nbsp;";
+		}
+        if(i%20==0) __p += "&lt;br&gt;&lt;br&gt;";
+	}
+	if (p&lt;pt&gt;&lt;span&gt;&lt;a href="javascript:show_news('+(p+1)+','+np+');void 0;"&gt;&gt;&gt;&lt;/a&gt;&lt;span&gt;&nbsp;';
+	}
+	else
+	{
+		__p += '&lt;span&gt;&gt;&gt;&lt;/span&gt;&nbsp;';
+	}
+	//__p += '&nbsp; 显示第'+(ns+1)+'-'+ne+'条记录，共'+nt+'条 '+pt+'页';
+    __p += '&nbsp;&nbsp; 共'+nt+'条,'+pt+'页';
+	document.getElementById("news_content").innerHTML = __s;
+	document.getElementById("news_page").innerHTML = __p;
+}
+show_news(1,30);
+            </script>
+</div>
+<div class="right">
+<div class="right-box">
+<span class="right-title">资讯排行</span>
+<ol class="BKLT rank" style="display: block;" id="gongyizxtop">
+<li><a href="http://gongyi.sina.com.cn/gyzx/2011-01-19/100023499.html" target="_blank">政府的温暖不能毁在“最后一步”</a></li>
+<li><a href="http://gongyi.sina.com.cn/greenlife/2011-01-18/180423490.html" target="_blank">碳汇基金会推出系列举措助力碳补偿</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/2011-01-18/144123487.html" target="_blank">企业不能缺席见义勇为的生态建设</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/2011-01-18/142123483.html" target="_blank">13岁穷孩子和他的“熊猫电视台”</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/2011-01-18/101523474.html" target="_blank">民政部出台新规规范社会组织评估</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/2011-01-17/101423442.html" target="_blank">台湾残疾画家捐助广州残疾儿童</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/2011-01-14/181623433.html" target="_blank">ITT“水印计划”创意大赛圆满结束</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/2011-01-14/104623424.html" target="_blank">千名排水志愿者进社区为民解难</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/2011-01-17/095823436.html" target="_blank">英特尔140万元寻找创新公益</a></li>
+<li><a href="http://gongyi.sina.com.cn/gyzx/2011-01-13/150023405.html" target="_blank">流动儿童在“让我玩”中快乐成长</a></li>
+</ol>
+</div>
+<div class="right-box">
+<span class="right-title">公益进行时</span>
+<iframe src="http://gongyi.sina.com.cn/iframe/2008-06-18/3.html" frameborder="0" scrolling="no" height="200px" width="246px"></iframe>
+</div>
+</div>
+</div>
+<!-- 页中End -->
+<s class="sper"></s>
+<div class="footer">
+<a href="http://corp.sina.com.cn/chn/">新浪简介</a>|<a href="http://corp.sina.com.cn/eng/">About
+            Sina</a>|<a href="http://emarketing.sina.com.cn/">广告服务</a>|<a href="http://www.sina.com.cn/contactus.html">联系我们</a>|<a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a>|<a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a>|<a href="http://english.sina.com/">SINA English</a>|<a href="https://login.sina.com.cn/signup/signup.php">通行证注册</a>|<a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a><br />
+        Copyright &copy; 1996 - 2014 SINA Corporation, All Rights Reserved<br />
+        新浪公司&nbsp;&nbsp;<a target="_blank" href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a>
+</div>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F914694b13b867a2af790ee1b0654fa0a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html>

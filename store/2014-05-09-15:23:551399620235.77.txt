@@ -1,0 +1,856 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>魏君子_新浪博客</title>
+<meta name="keywords" content="魏君子_新浪博客,魏君子,杂谈,博客七周年" />
+<meta name="description" content="魏君子_新浪博客,魏君子,往事若堪回首&nbsp;&nbsp;笑骂当然由人——邵逸夫107岁纪念,2013年12月07日,说我是《风暴》收钱枪手和水军的小伙伴们，可以看过来了，这里有,《香港电影史记》目录,《香港电影史记》序——“正史”画皮下的“野狐禅”,追述刘家良：逝去的影坛武林,我的博客今天7岁120天了，我领取了元老博主徽章,狄龙说张彻（下）&nbsp;船过水无痕,《一路向西》刻意文艺&nbsp;&nbsp;带你瞟尽香港三级性喜剧,【华语电影势力探秘&nbsp;&nbsp;领袖访谈录】序：先从格局入手" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+&lt;!–[if lte IE 6]&gt;
+&lt;script type="text/javascript"&gt;
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+&lt;/script&gt;
+&lt;![endif]–&gt;
+&lt;script type="text/javascript"&gt;
+window.staticTime=new Date().getTime();
+&lt;/script&gt;
+&lt;link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php"  /&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd"  /&gt;
+&lt;link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest"  /&gt;
+&lt;link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1433596734.xml" title="RSS"  /&gt;
+&lt;link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet"  /&gt;&lt;style id="tplstyle" type="text/css"&gt;@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/6/6_21/t.css");
+&lt;/style&gt;
+&lt;style id="positionstyle"  type="text/css"&gt;
+.sinabloghead .blogtoparea{ left:10px;top:19%;}
+.sinabloghead .blognav{ left:80px;top:77%;}
+&lt;/style&gt;
+&lt;style id="bgtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="heightstyle"  type="text/css"&gt;
+.sinabloghead{ height: 310px; }
+&lt;/style&gt;
+&lt;style id="headtyle"  type="text/css"&gt;
+.sinabloghead{ background-image: url(http://s11.sinaimg.cn/orignal/5572f33et89c2c750392a);}
+.sinabloghead{ background-repeat:repeat; background-position:center top;}
+&lt;/style&gt;
+&lt;style id="navtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--$sinatopbar--&gt;
+&lt;div style="z-index:512;" class="nsinatopbar"&gt;
+  &lt;div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"&gt;&lt;/div&gt;
+  &lt;div class="ntopbar_main"&gt; 
+    &lt;a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"&gt;&lt;img class="ntopbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"&gt;&lt;/a&gt;
+    &lt;div class="ntopbar_floatL"&gt;
+      &lt;div class="ntopbar_search" id="traySearchBar"&gt;&lt;/div&gt;
+	  &lt;div class="ntopbar_ad" id="loginBarActivity" style="display:none;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="ntopbar_loading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"&gt;加载中…&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--$end sinatopbar--&gt;
+
+&lt;div class="sinabloga" id="sinabloga"&gt;
+	&lt;div id="sinablogb" class="sinablogb"&gt;
+
+	   
+ &lt;div id="sinablogHead" class="sinabloghead"&gt;
+     &lt;div style="display: none;" id="headflash" class="headflash"&gt;&lt;/div&gt;
+	   &lt;div id="headarea" class="headarea"&gt;
+      &lt;div id="blogTitle" class="blogtoparea"&gt;
+      &lt;h1 id="blogname" class="blogtitle"&gt;&lt;a href="http://blog.sina.com.cn/weijunzi"&gt;&lt;span id="blognamespan"&gt;江湖外史之港片残卷&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;
+	  	  &lt;div class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/v/verify" target="_blank"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/v_blog_y.jpg"  width="80" height="20" title="新浪个人认证" align="absmiddle"  /&gt;&lt;/a&gt;电影作者，著有《香港电影演义》《香港电影史记》等。&lt;/div&gt;
+	  		
+					&lt;div id="bloglink" class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/weijunzi"&gt;http://blog.sina.com.cn/weijunzi&lt;/a&gt;  &lt;a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss"&gt;[&lt;cite&gt;订阅&lt;/cite&gt;]&lt;/a&gt;&lt;a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1433596734'));"&gt;[&lt;cite&gt;手机订阅&lt;/cite&gt;]&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="blognav" id="blognav"&gt;
+      			  &lt;div id="blognavBg" class="blognavBg"&gt;&lt;/div&gt; &lt;div class="blognavInfo"&gt; 
+		&lt;span&gt;&lt;a  class="on" href="http://blog.sina.com.cn/weijunzi"&gt;首页&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a  href="http://blog.sina.com.cn/s/articlelist_1433596734_0_1.html"&gt;博文目录&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a href="http://photo.blog.sina.com.cn/weijunzi"&gt;图片&lt;/a&gt;&lt;/span&gt;
+      &lt;span class="last"&gt;&lt;a  href="http://blog.sina.com.cn/s/profile_1433596734.html"&gt;关于我&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;      		      		 	
+      
+             &lt;div class="autoskin" id="auto_skin"&gt;
+       &lt;/div&gt;
+
+&lt;div class="adsarea"&gt;
+     &lt;a href="#"&gt;&lt;div id="template_clone_pic" class="pic"&gt;&lt;/div&gt;&lt;/a&gt;
+     &lt;div id="template_clone_link" class="link wdc_HInf"&gt;&lt;/div&gt;
+     &lt;div id="template_clone_other" class="other"&gt;&lt;/div&gt;        
+&lt;/div&gt;
+    &lt;/div&gt;
+    	    	    &lt;/div&gt;
+    
+    &lt;!--主题内容开始 --&gt;
+    &lt;div class="sinablogbody" id="sinablogbody"&gt;
+	    &lt;div id="blogads" style="display: none;" class="blogads" uid="1433596734" formatInfo="1"&gt;&lt;div class="ad_head"&gt;&lt;/div&gt;&lt;div class="ad_body"&gt;&lt;div id="adversite_top" class="adsle"&gt;
+	&lt;/div&gt;&lt;div class="adsrig"&gt;新浪广告共享计划&gt;&lt;/div&gt;&lt;div class="clearit"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="ad_foot"&gt;&lt;/div&gt;&lt;/div&gt;
+		
+	&lt;!--第一列start--&gt;
+    &lt;div id="column_1" class="SG_colW21 SG_colFirst"&gt;&lt;div class="SG_conn" id="module_901"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="个人资料"&gt;个人资料&lt;/span&gt;
+            &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="info"&gt;
+                            
+            &lt;div class="info_img" id="comp_901_head"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://p7.sinaimg.cn/1433596734/180/73081317284025" id="comp_901_head_image" width="180" height="180" alt="魏君子" title="魏君子"  /&gt;&lt;/div&gt;
+            
+            &lt;div class="info_txt"&gt;
+              &lt;div class="info_nm"&gt;
+                &lt;img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;
+                &lt;span class="SG_txtb"&gt;&lt;strong id="ownernick"&gt;魏君子                &lt;a href="http://blog.sina.com.cn/v/verify" target="_blank"&gt;&lt;img class="SG_icon SG_icon146" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" title="新浪个人认证" alt="新浪个人认证" align="absmiddle"  /&gt;&lt;/a&gt;                &lt;/strong&gt;&lt;/span&gt;
+                
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class="info_btn1"&gt;
+              &lt;!--user['qing_url'] --&gt;
+                &lt;a target="_blank" href="http://qing.blog.sina.com.cn/u/1433596734" onclick="v7sendLog &amp;&amp; v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;Qing&lt;/cite&gt;&lt;/a&gt;
+                &lt;a target="_blank" href="http://weibo.com/u/1433596734?source=blog" class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;微博&lt;/cite&gt;&lt;/a&gt;
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class="SG_j_linedot"&gt;&lt;/div&gt;        &lt;div class="info_locate" id = "info_locate_id"&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;div class="info_btn2"&gt;
+    &lt;p&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"&gt;&lt;cite &gt;加好友&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"&gt;&lt;cite &gt;发纸条&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;a href="http://blog.sina.com.cn/s/profile_1433596734.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"&gt;&lt;cite&gt;写留言&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"&gt;&lt;cite onclick="Module.SeeState.add()"&gt;加关注&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+                  &lt;div class="info_list"&gt;     
+                                   &lt;ul class="info_list1"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客等级：&lt;/span&gt;&lt;span id="comp_901_grade"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/2.gif"   /&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/3.gif"   /&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客积分：&lt;/span&gt;&lt;span id="comp_901_score"&gt;&lt;strong&gt;2552&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;ul class="info_list2"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客访问：&lt;/span&gt;&lt;span id="comp_901_pv"&gt;&lt;strong&gt;11,656,800&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;关注人气：&lt;/span&gt;&lt;span id="comp_901_attention"&gt;&lt;strong&gt;1,665&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/div&gt;
+&lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="adps_person" style="display:none"&gt;
+&lt;div class="SG_conn" id="module_946"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="广告共享计划"&gt;广告共享计划&lt;/span&gt;
+            &lt;span class="edit"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+                    &lt;!--广告容器 --&gt; 
+           &lt;div class="widgetcen"&gt; 
+           &lt;div class="widgetconn" id="adps000001" &gt; 
+            广告共享计划&lt;!--广告内容 --&gt; 
+           &lt;/div&gt; 
+           &lt;/div&gt; 
+            &lt;!--广告容器结束 --&gt; 
+         &lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;       
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="SG_conn" id="module_1001"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="江湖外史港片残卷"&gt;江湖外史港片残卷&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget" style="position:relative"&gt;&lt;P&gt;姓名：魏君子&lt;/P&gt;&lt;P&gt;院校：录像厅&lt;/P&gt;&lt;P&gt;专业：港片&lt;/P&gt;&lt;P&gt;学历：三级&lt;/P&gt;&lt;P&gt;邮箱：&lt;U&gt;weijunziwei@sina.com&lt;/U&gt;&lt;/P&gt;&lt;P&gt;有意或喜欢剧本创作的朋友 请加QQ群 录像厅 289802665&lt;/P&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div id="module_3" class="SG_conn"&gt;
+  &lt;div class="SG_connHead"&gt;
+  &lt;span comp_title="分类" class="title"&gt;分类&lt;/span&gt;
+  &lt;span class="edit"&gt;
+	   &lt;/span&gt; 
+  &lt;/div&gt;
+  &lt;div class="SG_connBody"&gt;
+  		&lt;div class="classList"&gt;
+		&lt;ul&gt;
+		&lt;li class="SG_dot"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1433596734_0_1.html"&gt;全部博文&lt;/a&gt;&lt;em class="count SG_txtb"&gt;(780)&lt;/em&gt;&lt;/li&gt;
+		&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1433596734_3_1.html"  target="_blank"&gt;八卦掌&lt;/a&gt;&lt;em&gt;(299)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1433596734_4_1.html"  target="_blank"&gt;摘星手&lt;/a&gt;&lt;em&gt;(79)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1433596734_5_1.html"  target="_blank"&gt;观影脚&lt;/a&gt;&lt;em&gt;(113)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1433596734_7_1.html"  target="_blank"&gt;乱弹指&lt;/a&gt;&lt;em&gt;(54)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1433596734_6_1.html"  target="_blank"&gt;风月斩&lt;/a&gt;&lt;em&gt;(12)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1433596734_1_1.html"  target="_blank"&gt;行路难&lt;/a&gt;&lt;em&gt;(51)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1433596734_2_1.html"  target="_blank"&gt;梦里真真语真幻&lt;/a&gt;&lt;em&gt;(46)&lt;/em&gt;&lt;/li&gt;		 &lt;/ul&gt;
+		&lt;/div&gt;
+     &lt;/div&gt;
+  &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_conn" id="module_1"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="评论"&gt;评论&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_2"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="留言"&gt;留言&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1002"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="友情链接"&gt;友情链接&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget"&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://weijunziwei.blog.sohu.com/" target="_blank"&gt;俺的另外一个博&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://www.zhanglixian.net/blogs/pigu6/" target="_blank"&gt;笑渐不文六哥悄&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/m/ningcaishen" target="_blank"&gt;武林外传宁财神&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://tongtong2.blog.sohu.com/" target="_blank"&gt;最最淫贱是小七&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://www.blogcn.com/user35/yahaaa_yahaaa/index.html" target="_blank"&gt;偷天换日卓别灵&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/m/jianghuajianghu" target="_blank"&gt;十面埋伏高群书&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/m/onetwo" target="_blank"&gt;电影往事竹聿名&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/m/wangxiaoqiang" target="_blank"&gt;一杆鸟枪王二小&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://mkal.blog.sohu.com/" target="_blank"&gt;雄心最强不文狼&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://lxw0493.blogchina.com/" target="_blank"&gt;亮剑高呼猛将兄&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://www.donnieyen.net/blog/u/2/" target="_blank"&gt;盒子的龙影博客&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1669300445" target="_blank"&gt;飞鸿黄之少林寺&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://movpp.blog.sohu.com/" target="_blank"&gt;多情虬胡还烦否&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://starwilling.blogbus.com/" target="_blank"&gt;悄悄地紫杉流年&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1224100187" target="_blank"&gt;世家姜小配音王&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1226933284" target="_blank"&gt;并非小女人日记&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://www.blogcn.com/user65/hktksky/index.html" target="_blank"&gt;唐山有个大河马&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://andydin.allmov.com/" target="_blank"&gt;木头屌能有多猛&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/yumuou" target="_blank"&gt;无花无酒有电影&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://www.blogcn.com/user8/sidsuicide/index.html" target="_blank"&gt;摩天轮的大地兄&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://www.funshion.com" target="_blank"&gt;风行电影在线看&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/m/yubuting" target="_blank"&gt;雨不亭影像日志&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1243484173" target="_blank"&gt;E夫当关王旭东&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1268243065" target="_blank"&gt;疯狂舞当疯狂博&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1271598311" target="_blank"&gt;最爱谭张之博客&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1476424833" target="_blank"&gt;如冰恋枫安意如&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第一列end--&gt;
+	
+	&lt;!--第二列start--&gt;
+	&lt;div id="column_2" class="SG_colW73"&gt;&lt;div id="module_10001" class="SG_conn"&gt;
+	&lt;div class="SG_connHead"&gt;
+		&lt;span comp_title="博文" class="title"&gt;博文&lt;/span&gt;
+		&lt;span class="edit"&gt;
+        		&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class="SG_connBody"&gt;
+															&lt;div class="bloglist"&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://zhuanlan.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="您的文章被发表到新浪专栏，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_5572f33e0102e50o" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e50o.html" target="_blank"&gt;往事若堪回首&nbsp;&nbsp;笑骂当然由人——邵逸夫107岁纪念&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-01-07 13:53)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102e50o'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e50o');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;br  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; 文/魏君子&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-family:宋体;mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font: minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'&gt;
+以前做媒体时，不时会跟同事唠叨，百岁邵逸夫的专题一定要备好，真要出事就不会手忙脚乱。说这话当然不是心怀恶意，而是邵老板在华语影视界举足轻重，对媒体专业度实在是极大考验。但邵逸夫不愧“人瑞”，百岁之后依然精神矍铄连续数年出席&lt;/span&gt;&lt;span&gt;TVB&lt;/span&gt;&lt;span style='font-family:宋体;mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font: minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'&gt;港姐评选，久而久之，我就想&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102e50o" href="http://blog.sina.com.cn/s/blog_5572f33e0102e50o.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102e50o.html#comment" id="c_10001_5572f33e0102e50o"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e50o');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102e50o" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102e50o');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102e50o" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e50o.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102e50o"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5572f33e0102e4n4" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e4n4.html" target="_blank"&gt;2013年12月07日&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-12-07 23:50)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102e4n4'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e4n4');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p name='ffe5'&gt;说我是《风暴》收钱枪手和水军的小伙伴们，可以看过来了，这里有你想要的答案噢。&lt;/p&gt;
+&lt;p&gt;最近这两个月，在微博里发《风暴》的各种新闻物料，被不少小朋友询问：“收了多少钱？”“你是影评人啊，节操呢？”&lt;/p&gt;
+&lt;p&gt;
+看来有必要澄清下自己的身份。确实，曾几何时，“魏君子”最广为人知的是影评人，但事实是我自05年投身媒体后，影评便很少写，对香港电影的研究倒是一直未停，出了几本书。尤其是2009年重入新浪娱乐建立策划部后，更是以电影产业策划为重，同时开始参与一些电影的前期策划工作，此时身份更多是媒体人和策划人。&lt;/p&gt;
+&lt;p&gt;
+关于“影评人”这个身份，我的定义可能比较狭义：最好是以影评为主要职业，也就是说靠写电影评论赚取稿费的。如果我还一脚踩在电影这行，虽然可以继续对电影发表看法，但在我的角度，恐怕很难再自称为影评人了，毕竟太多关系交织，很难做到完全立场客观（当然，这只是我个人观点，不求大同）。&lt;/p&gt;
+&lt;p&gt;
+其实2009年后我就十分抗拒“影评人”这个头衔，我的微博个人简介也从来没提过。除了在《看电影》写“魏君子说书”这个口述影史的专栏外，也就偶尔在微博上写个140字电影观感而已。查了一下，我迄今写的最后两篇影评，一篇&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102e4n4" href="http://blog.sina.com.cn/s/blog_5572f33e0102e4n4.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102e4n4.html#comment" id="c_10001_5572f33e0102e4n4"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e4n4');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102e4n4" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102e4n4');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102e4n4" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e4n4.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102e4n4"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5572f33e0102e4n3" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e4n3.html" target="_blank"&gt;说我是《风暴》收钱枪手和水军的小伙伴们，可以看过来了，这里有&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-12-07 23:47)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102e4n3'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e4n3');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p name='fff2'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;最近这两个月，在微博里发《风暴》的各种新闻物料，被不少小朋友询问：“收了多少钱？”“你是影评人啊，节操呢？”&lt;/p&gt;
+&lt;p&gt;
+看来有必要澄清下自己的身份。确实，曾几何时，“魏君子”最广为人知的是影评人，但事实是我自05年投身媒体后，影评便很少写，对香港电影的研究倒是一直未停，出了几本书。尤其是2009年重入新浪娱乐建立策划部后，更是以电影产业策划为重，同时开始参与一些电影的前期策划工作，此时身份更多是媒体人和策划人。&lt;/p&gt;
+&lt;p&gt;
+关于“影评人”这个身份，我的定义可能比较狭义：最好是以影评为主要职业，也就是说靠写电影评论赚取稿费的。如果我还一脚踩在电影这行，虽然可以继续对电影发表看法，但在我的角度，恐怕很难再自称为影评人了，毕竟太多关系交织，很难做到完全立场客观（当然，这只是我个人观点，不求大同）。&lt;/p&gt;
+&lt;p&gt;
+其实2009年后我就十分抗拒“影评人”这个头衔，我的微博个人简介也从来没提过。除了在《看电影》写“魏君子说书”这个口述影史的专栏外，也就偶尔在微博上写个140字电影观感而已。查了一下，我迄今写的最后两篇影评，一篇是2011年的《桃姐》，另一篇是今年上映的《毒战》，其他都是微博上偶尔感怀一下，&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102e4n3" href="http://blog.sina.com.cn/s/blog_5572f33e0102e4n3.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102e4n3.html#comment" id="c_10001_5572f33e0102e4n3"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e4n3');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102e4n3" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102e4n3');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102e4n3" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e4n3.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102e4n3"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_5572f33e0102e3m7" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e3m7.html" target="_blank"&gt;《香港电影史记》目录&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-09-08 23:23)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102e3m7'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e3m7');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							【卷一】黎氏兄弟本纪：香港电影的开荒者（1912——1945）&lt;br  /&gt;
+&lt;br  /&gt;
+世家&lt;br  /&gt;
+联华：罗明佑毁约“海外联华”&lt;br  /&gt;
+大观：开创彩色宽银幕立体声港片&lt;br  /&gt;
+凤凰：卢根壮志未酬&lt;br  /&gt;
+全球、南粤：朱箕如、竺清贤连手粤剧名伶&lt;br  /&gt;
+&lt;br  /&gt;
+列传&lt;br  /&gt;
+关文清:&nbsp;&lt;wbr&gt;香港早期电影先驱者&lt;br  /&gt;
+薛觉先、马师曾：名伶争雄，开创粤剧电影潮流&lt;br  /&gt;
+&lt;br  /&gt;
+[书]&lt;br  /&gt;
+影画戏&lt;br  /&gt;
+禁拍粤语片风波&lt;br  /&gt;
+国防电影&lt;br  /&gt;
+粤剧电影&lt;br  /&gt;
+&lt;br  /&gt;
+&lt;br  /&gt;
+【卷二】长凤新/银都本纪：飞越黄昏&nbsp;&lt;wbr&gt;（1949——）&lt;br  /&gt;
+&lt;br  /&gt;
+世家&lt;br  /&gt;
+五十年代：集体创作开拓者&lt;br  /&gt;
+龙马:朱石麟承费穆遗志&lt;br  /&gt;
+青鸟：夏梦制作三部曲&lt;br  /&gt;
+影幻制作：张之亮两夺金像最佳&lt;br  /&gt;
+&lt;br  /&gt;
+世家【相关】&lt;br  /&gt;
+永华：李祖永大手笔昙花一现&lt;br  /&gt;
+新华：张善琨开拓台湾市场&lt;br  /&gt;
+嘉民：中港合拍急先锋&lt;br  /&gt;
+&lt;br  /&gt;
+列传【导演】&lt;br  /&gt;
+李萍倩：在娱乐中使观众上进&lt;br  /&gt;
+陈静波：香港首位“百万导演”&lt;br  /&gt;
+罗君雄：香港纪录片代表&lt;br  /&gt;
+张鑫炎：武侠片一代宗师&lt;br  /&gt;
+胡小峰：左派写实电影名家&lt;br  /&gt;
+&lt;br  /&gt;
+凤凰三女将：任意之、陈娟娟、朱枫&lt;br  /&gt;
+方育平：新浪潮冷门大师&lt;br  /&gt;
+严浩：						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102e3m7" href="http://blog.sina.com.cn/s/blog_5572f33e0102e3m7.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102e3m7.html#comment" id="c_10001_5572f33e0102e3m7"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e3m7');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102e3m7" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102e3m7');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102e3m7" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e3m7.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102e3m7"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5572f33e0102e3iz" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e3iz.html" target="_blank"&gt;《香港电影史记》序——“正史”画皮下的“野狐禅”&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-08-31 12:47)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102e3iz'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e3iz');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='text-indent:103.0pt;mso-char-indent-count:5.95'&gt;
+&lt;b&gt;&lt;span style=
+'font-size:16.0pt;font-family:宋体;color:red'&gt;“正史”画皮下的“野狐禅”&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;br  /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&nbsp;&lt;wbr&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style='font-family:宋体'&gt;2013&lt;/span&gt;&lt;span style=
+'font-family:宋体'&gt;年&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span style=
+'font-family: 宋体'&gt;月&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span style=
+'font-family:宋体'&gt;日，在北京做《武侠大宗师：张彻》一书的影迷沙龙，有人问我是否出身电影研究专业，我指着另外几位作者迈子、阿蒙、小葵说：“我们都只是影迷发烧友而已，因为蛋吃多了，想见识下蛋的母鸡，最终走上不归路。”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-family:宋体'&gt;现在，我们用了两年多时间编著的《香港电影史记》问世了。作为业余票友，敢碰这样专业的题目，一方面肯定是“无知者无畏”，一方面也必然诚惶诚恐，但无论如何，书已在您手中，不妨暂放心绪，容我细说端详。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&nbsp;&lt;wbr&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'font-family:宋体'&gt;香港电影于内地观众而言，最难忘怀是改革开放年代以来提供的娱乐性和新鲜视野；但在痴迷多年的影迷看&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102e3iz" href="http://blog.sina.com.cn/s/blog_5572f33e0102e3iz.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102e3iz.html#comment" id="c_10001_5572f33e0102e3iz"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e3iz');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102e3iz" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102e3iz');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102e3iz" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e3iz.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102e3iz"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://zhuanlan.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="您的文章被发表到新浪专栏，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_5572f33e0102e2qa" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e2qa.html" target="_blank"&gt;追述刘家良：逝去的影坛武林&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-06-26 18:39)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102e2qa'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e2qa');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='line-height: 23px; font-family:' lucida=""
+background-color:=""&gt;&lt;i&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&lt;/i&gt;&lt;b&gt;&lt;span style='font-size: 16pt; font-family: 华文隶书; color: red;'&gt;追述刘家良：逝去的影坛武林&lt;span lang='EN-US'
+xml:lang='EN-US'&gt;&nbsp;&lt;wbr&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p style='line-height: 23px; font-family:' lucida=""
+background-color:=""&gt;&lt;span lang='EN-US' xml:lang='EN-US'&gt;&lt;i&gt;&nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;
+&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;&lt;/i&gt;
+文/&lt;b&gt;魏君子&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style='line-he'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102e2qa" href="http://blog.sina.com.cn/s/blog_5572f33e0102e2qa.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102e2qa.html#comment" id="c_10001_5572f33e0102e2qa"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e2qa');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102e2qa" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102e2qa');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102e2qa" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e2qa.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102e2qa"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5572f33e0102e0hg" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e0hg.html" target="_blank"&gt;我的博客今天7岁120天了，我领取了元老博主徽章&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-01-03 15:25)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102e0hg'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e0hg');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B2%A9%BF%CD%C6%DF%D6%DC%C4%EA&amp;by=tag" target="_blank"&gt;博客七周年&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;div style=
+'margin:0; width:689px; height:553px; position:relative; overflow:hidden; background:url(http://simg.sinajs.cn/blog7style/images/activity/blog7year/blog7year_contentbg.png) no-repeat; font-family:'
+microsoft=""&gt;
+&lt;h3 style='margin:102px 0 0 63px; font-size:19px; color:#fff600;'&gt;
+我的博客今天&lt;span style='color:#6ab6e2;'&gt;7&lt;/span&gt;岁&lt;span style=
+'color:#6ab6e2;'&gt;120&lt;/span&gt;天了，我领取了徽章.&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&lt;/h3&gt;
+&lt;div style='position:absolute; top:60px; right:106px;'&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s4.sinaimg.cn/middle/5572f33e4d25d46179503&amp;690" width=
+'108' alt='' title=''  /&gt;&lt;/div&gt;
+&lt;ul style=
+'margin:102px 0 0 70px;line-height:28px;list-style:none;font-size:13px;color:#6ab6e2;'&gt;
+&lt;li&gt;&lt;span style='color:#fff600;'&gt;2005.09.06&lt;/span&gt;，我在新浪博客安家。&lt;/li&gt;
+&lt;li&gt;&lt;span style=
+'color:#fff600;'&gt;2005.11.23&lt;/span&gt;，我写下了第一篇博文：《“生活秀”里的陶红很风骚嘛》。&lt;/li&gt;
+&lt;li&gt;&lt;span style='color:#fff600;'&gt;2009.05.02&lt;/span&gt;，我上传了第一张&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102e0hg" href="http://blog.sina.com.cn/s/blog_5572f33e0102e0hg.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102e0hg.html#comment" id="c_10001_5572f33e0102e0hg"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e0hg');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102e0hg" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102e0hg');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102e0hg" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e0hg.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102e0hg"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5572f33e0102e0hc" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e0hc.html" target="_blank"&gt;狄龙说张彻（下）&nbsp;船过水无痕&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2013-01-03 12:12)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102e0hc'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e0hc');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 150%; MArGin-Top: 0pt; TexT-inDenT: -18pt; MArGin-BoTToM: 0pt; MArGin-LeFT: 18pt'&gt;
+&lt;span style='FonT-FAMiLY:' color:="" font-size:="" font-weight:=""
+mso-spacerun:="yes''"&gt;&lt;span style='FonT-FAMiLY:' color:=""
+font-size:="" mso-spacerun:="yes''"&gt;&lt;a href=
+'http://blog.sina.com.cn/s/blog_5572f33e0102dypr.html' target=
+'_blank'&gt;&lt;font style='FonT-siZe: 16px' color=
+'#ED1C24'&gt;狄龙说张彻（上）：伯乐不常有&lt;/font&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 150%; MArGin-Top: 0pt; TexT-inDenT: -18pt; MArGin-BoTToM: 0pt; MArGin-LeFT: 18pt'&gt;
+&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 150%; MArGin-Top: 0pt; TexT-inDenT: -18pt; MArGin-BoTToM: 0pt; MArGin-LeFT: 18pt'&gt;
+&lt;span style='FonT-FAMiLY:' color:="" font-size:="" font-weight:=""
+mso-spacerun:="yes''"&gt;&lt;span style='FonT-FAMiLY:' color:=""
+font-size:="" mso-spacerun:="yes''"&gt; &lt;a href=
+'htt'&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102e0hc" href="http://blog.sina.com.cn/s/blog_5572f33e0102e0hc.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102e0hc.html#comment" id="c_10001_5572f33e0102e0hc"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102e0hc');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102e0hc" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102e0hc');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102e0hc" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102e0hc.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102e0hc"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_5572f33e0102dz8b" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102dz8b.html" target="_blank"&gt;《一路向西》刻意文艺&nbsp;&nbsp;带你瞟尽香港三级性喜剧&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2012-09-19 15:16)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102dz8b'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102dz8b');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;
+近日，港片《一路向西》未映先红，不仅当地预售情况火爆，就连明知无缘在大银幕欣赏到的内地网友也是关注非常，话题热度指数一路飘红。究其原因，这是一部打着情色噱头甚至又是3D的三级片可谓“祸首”，原来《一路向西》制作出品方“中国3D数码娱乐公司”去年就曾凭《3D肉蒲团》4100万港币一度问鼎2011香港本埠华语票房冠军，可惜最后一月被《那些年，我们一起追过的女孩》反超。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;
+时隔一年，该公司再拍《一路向西》，继续操弄大尺度的情欲床戏，又融入《那些年》的成长初恋记忆，更以香港年轻人的情感生活为主体，套用网络作家向西村上春树的原著人气故事，凭借“刻意文艺”的腔调营造“低俗喜剧”的桥段，完成一部风格独特的香港男人“性情”成长史——试想当装X和傻X共冶一炉之后的口味会是怎样呢？相信看完《一路向西》，你会有所体验。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=5572f33e0102dz8b&amp;url=http://s9.sinaimg.cn/orignal/5572f33etca09313a0878'
+target='_blank'&gt;&lt;img src=
+'http://s9.sinaimg.cn/middle/5572f33etca09313a0878&amp;690' width=
+'690' height='419' name='image_operate_66711348040746221' alt=''
+title='' id="image_operate_66711348040746221"  /&gt;&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102dz8b" href="http://blog.sina.com.cn/s/blog_5572f33e0102dz8b.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102dz8b.html#comment" id="c_10001_5572f33e0102dz8b"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102dz8b');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102dz8b" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102dz8b');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102dz8b" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102dz8b.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102dz8b"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_5572f33e0102dyym" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102dyym.html" target="_blank"&gt;【华语电影势力探秘&nbsp;&nbsp;领袖访谈录】序：先从格局入手&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2012-09-03 16:34)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'5572f33e0102dyym'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102dyym');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;
+&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+&lt;b&gt;【前言】&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&nbsp;&lt;wbr&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+2009年，香港导演王晶和台湾“学者”老板蔡松林相继提出“华语电影将迎来黄金十年”，理由是年轻观众开始走进电影院，内行老板陆续出来做电影，内地票房连年增长，影院不断新建。这一观点提出之后，获得业内广泛认同，但也有人表示质疑，导演尔冬升就担心内地影市火爆会让大量资金涌入，导致明星加价、题材趋同、质量下降等问题，最后重演港片落难史。转眼三年过去，“黄金十年”确在继续，但隐忧也逐渐暴露，尤其2012年2月中美双方就解决WTO电影相关问题的谅解备忘录达成协议，美国进口大片数量和分账比例都翻倍增长，这对国内电影制作的冲击有多大？尚待观察。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;如何看清纷扰、解决问题？不妨从头说起，先从华语电影产业格局入手。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;
+当今华语影坛，市场唯内地马首是瞻，自冯小刚《甲方乙方》打起贺岁片大旗，至张艺谋《英雄》票房乃以亿计，进而中影打造大片系列《投名状》、《赤壁》，华谊、博纳等民营公司也相继崛起，&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_5572f33e0102dyym" href="http://blog.sina.com.cn/s/blog_5572f33e0102dyym.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_5572f33e0102dyym.html#comment" id="c_10001_5572f33e0102dyym"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('5572f33e0102dyym');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_5572f33e0102dyym" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('5572f33e0102dyym');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_5572f33e0102dyym" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5572f33e0102dyym.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_5572f33e0102dyym"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div favmd5='{"5572f33e0102e50o":"d9408f18969af9f7087f9fb252729ba7","5572f33e0102e4n4":"8b8049ad21d7dd3a01c18c5c1cb0dfaa","5572f33e0102e4n3":"54733d3a8db892d3666c8d74fbdacd87","5572f33e0102e3m7":"842579d9805ba630ec4e1d01b24639f4","5572f33e0102e3iz":"f37fe47b31c8aaa0e61c985c1fc293e1","5572f33e0102e2qa":"c9dd052cc10a85fd3e6ed761b01ff3e7","5572f33e0102e0hg":"c9ec3f7331f04f3d7c872847d8caa647","5572f33e0102e0hc":"948eec9f55a5f9f918df82b1bc71b66e","5572f33e0102dz8b":"c068dddfea49a8193463b4395cb257f2","5572f33e0102dyym":"0a3dd706f5833729d5bcfd5eb9a44d48"}' classid="0" pagesize="10" total="780" id="pagination_10001" class="SG_page"&gt;&lt;/div&gt;
+					&lt;/div&gt;
+							  
+				&lt;/div&gt;  
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第二列start--&gt;
+	
+	&lt;!--第三列start--&gt;
+	&lt;div id="column_3" class="SG_colWnone"&gt;&lt;div style="width:0px;height:0.1px;margin:0px;"&gt;&nbsp;&nbsp;&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第三列end--&gt;
+
+	
+    &lt;/div&gt;
+   &lt;!--主题内容结束 --&gt;
+  
+
+	&lt;div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"&gt;&lt;/div&gt;
+    &lt;div class="sinablogfooter" id="sinablogfooter"  style="position:relative;"&gt;
+      
+      &lt;p class="SG_linka"&gt;&lt;a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank"&gt;新浪BLOG意见反馈留言板&lt;/a&gt;　&lt;a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');"&gt;不良信息反馈&lt;/a&gt;　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正&lt;/p&gt;
+   
+      &lt;p class="SG_linka"&gt;&lt;a href="http://corp.sina.com.cn/chn/" target="_blank"&gt;新浪简介&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/eng/" target="_blank"&gt;About Sina&lt;/a&gt; | &lt;a href="http://emarketing.sina.com.cn/" target="_blank"&gt;广告服务&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/contactus.html" target="_blank"&gt;联系我们&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank"&gt;招聘信息&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank"&gt;网站律师&lt;/a&gt; | &lt;a href="http://english.sina.com" target="_blank"&gt;SINA English&lt;/a&gt; | &lt;a href="http://members.sina.com.cn/apply/" target="_blank"&gt;会员注册&lt;/a&gt; | &lt;a href="http://help.sina.com.cn/" target="_blank"&gt;产品答疑&lt;/a&gt; &lt;/p&gt;
+      &lt;p class="copyright SG_linka"&gt; Copyright &copy; 1996 - 2014 SINA Corporation,  All Rights Reserved&lt;/p&gt;
+      &lt;p class="SG_linka"&gt; 新浪公司 &lt;a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank"&gt;版权所有&lt;/a&gt;&lt;/p&gt;
+	  &lt;a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="swfbox"&gt;&lt;/div&gt;
+&lt;script id="PVCOUNTER_FORIE" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;script type="text/javascript"&gt;
+var scope = {
+    $newTray : 1,
+    $setDomain : true,
+    $uid : "1433596734",
+    $PRODUCT_NAME : "blog7",      //blog7photo,blog7icp
+    $pageid : "index",
+    $key :  "90f4e43b3d29c905ffa2af43e157e473",
+    $uhost : "weijunzi",
+    $ownerWTtype :"0",
+    $private: {"cms":0,"hidecms":0,"blogsize":0,"ad":1,"sms":0,"adver":0,"tj":1,"p4p":0,"spamcms":1,"topblogid":0,"pageset":0,"invitationset":0,"top":0,"headpic":1,"active":"4","t_sina":"1433596734","oauth_token":1,"oauth_token_secret":1,"uname":"\u9b4f\u541b\u5b50","p_push_t":1,"p_get_t":1,"medal7":7,"uid":"1433596734"},
+    $playids :"",
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,    component_lists:{"2":{"size":730,"list":[10001]},"1":{"size":210,"list":[901,946,1001,3,1,2,1002]}},
+    formatInfo:1,
+    UserPic:[{"pid":"5572f33e44ba15c75a801","repeat":"repeat","align-h":"center","align-v":"top","apply":"0"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"5572f33et89c2c750392a","repeat":"repeat","align-h":"center","align-v":"top","apply":"1"}],
+    UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
+    UserColor:1,
+    backgroundcolor:"#e8e8e8",
+    tpl:"6_21",
+    reclist:0    };
+var $encrypt_code = "abc2075bb6420b6329fd446b576feace";
+&lt;/script&gt;
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__load_js();&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__render_page();&lt;/script&gt;
+
+
+&lt;!-- ALL CODE START--&gt;&lt;!-- SUDA_CODE_START --&gt; 
+&lt;noScript&gt; 
+&lt;div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'&gt;&lt;img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt=''  /&gt;&lt;/div&gt; 
+
+&lt;/noScript&gt; 
+&lt;!-- SUDA_CODE_END --&gt; 
+
+
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/xblogtheme/js/blog680-min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+        var slotArr = ['atcTitLi_SLOT_41', 'atcTitLi_SLOT_42','loginBarActivity']; //广告位id
+        var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
+        SinaBlog680.staticBox(slotArr, sourceArr);
+&lt;/script&gt;
+&lt;/html&gt;
+</head></html>

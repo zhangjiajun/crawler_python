@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>圈子列表_新浪圈子_新浪网</title>
+<script language="javascript" type="text/javascript" src="http://image2.sina.com.cn/pay/quanzi/ria/js/group_common.js"></script>
+<link rel="stylesheet" type="text/css" href="http://image2.sina.com.cn/pay/quanzi/ria/css/top.css" />
+<style type="text/css">
+*{margin:0;padding:0;}
+body{font:9pt "宋体"; color:#000; background:url(images/qihoo_02.gif) top repeat-x;}
+img{border:0;}
+a{text-decoration:none; color:#425887;}
+a:hover{text-decoration:underline;}
+li{list-style:none; }
+div{margin:0 auto; text-align:left;}
+input,select{vertical-align:middle!important;vertical-align:-2px;}
+strong{font-weight:bold;}
+em{font-style:normal}
+/*清除浮动样式*/
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;} 
+* html&gt;body .clearfix{display:inline-block;width:100%;} 
+* html .clearfix{height:1%;} 
+*+html .clearfix{min-height:1%;}
+
+#warp{width:950px; margin:0 auto; border-top:1px solid #CACACA; padding-top:10px;}
+#warp .warp_l{float:left;width:200px;}
+#warp .warp_r{float:right;width:737px;}
+
+.model{border:1px solid #8CBCED; padding:8px; margin:10px auto;}
+#z_ps{ text-align:center; background:#F4F9FD; padding:15px;}
+#z_ps p{text-align:center; margin:5px auto;}
+#z_ps p img{border:1px solid #C5C3C4; padding:1px; width:110px;height:110px;}
+#z_ps .p_color{color:#425887;}
+
+#z_title{padding:5px;color:#425784;font-size:14px; background:#F4F9FD; font-weight:bold; text-indent:20px;}
+#z_list_title{padding:0 8px; border-bottom:1px  dashed #D9E9E8; line-height:190%;}
+#z_list_title .z_list_title_r{float:right;}
+#z_list_title .z_list_title_r span{color:red;}
+
+#z_list{ margin:20px auto;}
+#z_list a:link,#z_list a:visited{ text-decoration:underline;}
+#z_list a:hover,#z_list a:active{ text-decoration:none;}
+#z_list li{ margin-bottom:50px; margin-top:10px;}
+#z_list li .box_1{border-bottom:1px solid #D9E9E8; padding:0 8px;line-height:170%; color:#425887;}
+#z_list li .box_1 span{ float:left;width:100px; overflow:hidden;}
+#z_list li .box_1 span em{color:red;}
+#z_list li .box_2{padding:0 8px; margin-bottom:10px; line-height:200%;}
+#z_list li .box_3{ line-height:180%;color:#343434; text-indent:2em;}
+
+.z_fy{color:#425887; text-align:center;}
+#footer{width:950px; margin:20px auto;line-height:170%; border-top:1px solid #CACACA; padding-top:15px;}
+#footer div{ text-align:center;}
+
+/*add 20081229---begin*/
+.modelNew{border:1px solid #8CBCED; padding:8px;}
+.modelNew .mNtitle{padding:0 8px; border-bottom:1px  dashed #D9E9E8; line-height:190%; clear:both;}
+.modelNew .mRow{ padding:20px 5px; overflow:hidden; height:1%; clear:both; border-bottom:1px  dashed #D9E9E8;}
+.modelNew .mRow .upic{ width:60px; float:left;}
+.modelNew .mRow .cont{ width:645px; float:left; margin-top:-3px;}
+.modelNew .mRow .cont dd{ line-height:20px; clear:both; margin-bottom:3px; height:1%; overflow:hidden;}
+.modelNew .mRow .cont dd .fl{ float:left;}
+.modelNew .mRow .cont dd .fr{ float:right; color:#666;}
+.modelNew .pageRow{ text-align:right;line-height:20px; padding:10px 30px 20px; overflow:hidden; clear:both; color:#425887;}
+.modelNew .pageRow .iptNum{ width:148px;}
+.modelNew .pageRow .btnGo{ padding-top:2px;}
+/*add 20081229---end*/
+</style>
+</head>
+<script language="javascript">var islogin = 0;</script>
+<body>
+<script language="javascript" src="/js/sina_blogq_head.v1343885312.js" type="text/javascript"></script>
+<div id="warp" class="clearfix">
+<div class="warp_l">
+<div class="model" id="z_ps">
+<p><a href="http://profile.blog.sina.com.cn/circle.php?uid=&amp;page=1&amp;type=2" target="_blank"><img src="http://portrait1.sinaimg.cn//blog/180" /></a></p>
+<p><a href="http://profile.blog.sina.com.cn/circle.php?uid=&amp;page=1&amp;type=2" target="_blank"><strong>gabrielle-in-北京</strong></a></p>
+<p class="p_color">[<a href="http://profile.blog.sina.com.cn/circle.php?uid=&amp;page=1&amp;type=2" target="_blank">我的圈子</a>]　[<a href="http://profile.blog.sina.com.cn/circle.php?uid=&amp;page=1&amp;type=2" target="_blank">全部圈子</a>]</p>
+</div>
+</div>
+<div class="warp_r">
+<div class="model" id="z_title"><a href="http://blog.sina.com.cn/u/" target="_blank"> </a></div>
+<!--/*add 20081229*/-begin-->
+<div class="modelNew" style="display:none">
+<div class="mNtitle"><strong>本文已被以下0个圈子加精：</strong></div>
+<div class="z_fy">
+</div>
+</div>
+<!--/*add 20081229*/-end-->
+<div class="model">
+<div id="z_list_title">
+<div style="display:none" class="z_list_title_r">总共<span>2345</span>条评论/<span>5555</span>次点击</div>
+                本文已经分享到下列0个圈子中：
+            </div>
+<ul id="z_list">
+</ul>
+<div class="z_fy">
+</div> </div>
+</div>
+</div>
+<div id="footer">
+<script type="text/javascript" src="/js/sina_blog_foot.js"></script>
+</div>
+</body>
+</html> 

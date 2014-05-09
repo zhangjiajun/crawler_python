@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- title -->
+<title>面试题库_面试问题_面试常见问题  -58同城</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="email=no" />
+<meta name="format-detection" content="address=no;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<meta name="description" content="58同城招聘网求职指南频道为求职者提供职业规划、个人简历模板、自我评价、面试技巧、升职加薪、跳槽策略、防欺诈技巧、劳动法规等30多个内容频道相关服务，为求职者在求职过程中的彷徨提供方向指南。" />
+<meta name="keywords" content="面试题库,面试问题,面试常见问题" />
+<!-- css -->
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="stylesheet" href="http://static.58.com/m58/m3/css/m.zixun.css" />
+<script src="http://static.58.com/m58/m3/js/jq.mobi.min.js"></script>
+<script src="http://static.58.com/m58/m3/js/m.zixun.js"></script></head>
+<body>
+<!--- banner --->
+<!--- banner end --->
+<!--- header --->
+<div class="header">
+<a class="logo_a" href="http://m.58.com/" onclick="clickLog('from=58logo')">
+<img src="http://pic2.58.com/m58/m3/img/logo.png" alt="中文最大生活信息门户" width="100%" />
+</a>
+<a href="http://m.58.com/" onclick="clickLog('from=58logo')"></a>
+<div class="city_a"><span class="city">面试题库</span></div>
+<a class="publish" path="http://p.m.58.com/?from=click_post_index" href="http://p.m.58.com/202/?path=http://m.58.com/&amp;from=click_post_index" onclick="clickLog('from=post')" rel="nofollow"><i class="ico"></i>发布</a>
+</div>
+<!--- header end --->
+<!-- tag  -->
+<div class="dl_nav">
+<a href="/w/zp/">求职指南</a>
+			    			&gt;
+    		    										<a href="/w/mianshizhinan/">面试指南</a>
+			    			&gt;
+    		    										<h1>
+<a href="/w/mianshitiku/">面试题库</a>
+</h1>
+</div>
+<!-- tag end -->
+<!-- search -->
+<!-- search end -->
+<!--- nav --->
+<div class="zpnav">
+<div class="navtxt" id="navtxt">
+<ul>
+<li><a href="/w/zp/" class="catspan" name="zxindex">首页</a></li>
+<li><a href="/w/zhichangzixun/" class="catspan" name="zhichangzixun">职场资讯</a></li>
+<li><a href="/w/jianligonglue/" class="catspan" name="jianligonglue">简历攻略</a></li>
+<li><a href="/w/mianshizhinan/" class="catspan" name="mianshizhinan">面试指南</a></li>
+<li><a href="/w/xinchoufuli/" class="catspan" name="xinchoufuli">薪酬福利</a></li>
+<li><a href="/w/shenzaizc/" class="catspan" name="shenzaizc">身在职场</a></li>
+<li><a href="/w/laodongfayuan/" class="catspan" name="laodongfayuan">劳动法苑</a></li>
+<li><a href="/w/jianli/" class="catspan" name="jianli">个人简历</a></li>
+<li><a href="/w/zpzt/" class="catspan" name="zpzt">求职资讯专题</a></li>
+</ul>
+</div>
+<div class="navlist" id="zhichangzixun">
+<p>
+<a href="/w/jiuyedongtai/" name="jiuyedongtai">就业动态</a>
+<a href="/w/zhengcefagui/" name="zhengcefagui">政策法规</a>
+<a href="/w/hangyezixun/" name="hangyezixun">行业资讯</a>
+</p>
+</div>
+<div class="navlist" id="jianligonglue">
+<p>
+<a href="/w/jiaoshiqiuzhixin/" name="jiaoshiqiuzhixin">教师求职信</a>
+<a href="/w/jianlijiqiao/" name="jianlijiqiao">简历技巧</a>
+<a href="/w/jianlimoban/" name="jianlimoban">简历模板</a>
+<a href="/w/jianlifanwen/" name="jianlifanwen">简历范文</a>
+<a href="/w/qiuzhixin/" name="qiuzhixin">求职信</a>
+<a href="/w/ziwopingjia/" name="ziwopingjia">自我评价</a>
+<a href="/w/zhizuojiqiao/" name="zhizuojiqiao">制作技巧</a>
+<a href="/w/jianlifengmian/" name="jianlifengmian">简历封面</a>
+<a href="/w/jianlibiaoge/" name="jianlibiaoge">简历表格</a>
+<a href="/w/zijianxin/" name="zijianxin">自荐信</a>
+<a href="/w/ziwojianding/" name="ziwojianding">自我鉴定</a>
+</p>
+</div>
+<div class="navlist" id="mianshizhinan">
+<p>
+<a href="/w/mianshijiqiao/" name="mianshijiqiao">面试技巧</a>
+<a href="/w/mianshitiku/" name="mianshitiku">面试题库</a>
+<a href="/w/ziwojieshao/" name="ziwojieshao">自我介绍</a>
+</p>
+</div>
+<div class="navlist" id="xinchoufuli">
+<p>
+<a href="/w/shengzhijiaxin/" name="shengzhijiaxin">升职加薪</a>
+<a href="/w/fulidiantai/" name="fulidiantai">福利电台</a>
+<a href="/w/xinqingpandian/" name="xinqingpandian">薪情盘点</a>
+</p>
+</div>
+<div class="navlist" id="shenzaizc">
+<p>
+<a href="/w/zcchongdian/" name="zcchongdian">职场充电</a>
+<a href="/w/tiaocaocelue/" name="tiaocaocelue">跳槽策略</a>
+<a href="/w/lehuozc/" name="lehuozc">乐活职场</a>
+<a href="/w/shuzhibaogao/" name="shuzhibaogao">述职报告</a>
+</p>
+</div>
+<div class="navlist" id="laodongfayuan">
+<p>
+<a href="/w/guibixianjing/" name="guibixianjing">规避陷阱</a>
+<a href="/w/falvfagui/" name="falvfagui">法律法规</a>
+<a href="/w/jiuyeweiquan/" name="jiuyeweiquan">就业维权</a>
+</p>
+</div>
+</div>
+<!--- nav end --->
+<!---list info--->
+<ul class="infolst">
+<li>
+<a href="/w/mianshitiku/20140425630701.html">
+<strong>销售员笔试题</strong>
+<span class="fr red">阅读数:116</span><br />
+										    	      					&nbsp;请你逼真地想象你处于下述情境中，如果你遇到相同的情况，你觉得它是由于什么原因 引  起的?由于事情的发生可能有许多原因，我们只要求你选出一个原因，也就是事情发生  在你身上最有可能的原因。
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140423630683.html">
+<strong>嘉实基金笔试题目</strong>
+<span class="fr red">阅读数:153</span><br />
+										    	      					&nbsp;一、性格测试：四个选项，标出最符合和最不符合自己的描述
+二、智力测试? 题目分五部分 其中记得的有：
+1、三个数字选择与中间大小的差的绝对值最大的数字
+2、字母R排列成各种角度和形状
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-23</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140422630656.html">
+<strong>Twitter面试中的麻辣问题</strong>
+<span class="fr red">阅读数:105</span><br />
+										    	      					社交网络Twitter可以让我们获取很多新闻资讯，可以让我们随心所欲地使用。在这样的公司工作，真是妙不可言啊。但是，想进Twitter又谈何容易!它的面试过程极其严格，其中包含有很多棘手的麻辣问题。
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-22</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140421630619.html">
+<strong>东软笔试常见的题目</strong>
+<span class="fr red">阅读数:146</span><br />
+										    	      					&nbsp;1、(数据结构)设线性表(a1,a2,a3,...,a500)中所有元素的值由小到大排列，对一个给定的值K，用二分法查找表中与K相等的元素，在查找不成功的情况下，至多需要比较  次：
+A
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-21</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140418630581.html">
+<strong>索尼公司笔试题</strong>
+<span class="fr red">阅读数:126</span><br />
+										    	      					&nbsp;一、情景选择题
+请在a、b、c、d中选择正确的答案
+1、假如你遭到意外的打击，你会( )
+a.头昏眼花，不过几秒钟后就会恢复
+b.不知所措，以至数分钟之久
+c.一段时间内都处于伤
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-18</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140417630554.html">
+<strong>五星电器常见笔试题</strong>
+<span class="fr red">阅读数:52</span><br />
+										    	      					一.选择题
+1、某企业一台设备的原值为36,000元，预计净残值为1,800元，预计使用年限5年，采用年数总和法计提折旧，第三年的折旧率为( )。
+A.33.33% B.26.67% C.20% 
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-17</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140416630518.html">
+<strong>瑞星公司笔试真题</strong>
+<span class="fr red">阅读数:84</span><br />
+										    	      					1.internet中e-mail协仪,IE的协仪,NAT是什么,有什么好处,能带来什么问题?DNS是什么,它是如何工作的?
+2.一台计算机的IP是192.168.10.71子网掩码255.255.
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-16</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140415630485.html">
+<strong>LG笔试题</strong>
+<span class="fr red">阅读数:185</span><br />
+										    	      					LG笔试最常考的笔试题目分享：
+1. C#中 property 与 attribute的区别，他们各有什么用处，这种机制的好处在哪里?
+答：attribute:自定义属性的基类;property 
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-15</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140414630415.html">
+<strong>卡夫笔试真题</strong>
+<span class="fr red">阅读数:132</span><br />
+										    	      					&nbsp;卡夫笔试题分享:
+1.你认为二级城市应该设立一个还是多个经销商，为什么?
+(据当地情况而定,一般针对X这样成熟品牌的产品,一个经销商肯定满足不了市场需求,而且对厂家来说不容易控制,市场
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-14</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140414630385.html">
+<strong>广告公司笔试题</strong>
+<span class="fr red">阅读数:82</span><br />
+										    	      					&nbsp;一下分享的是求职广告公司的笔试题：
+1. 同一个人因为不同观点,可以被人作不同的描述:
+自由战士(褒)
+游击队员(中性)
+恐怖分子(贬)
+请试举出三个例子
+2. 写一个短自传介
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-14</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140410630355.html">
+<strong>华夏基金笔试题</strong>
+<span class="fr red">阅读数:189</span><br />
+										    	      					1. 从银行、钢铁、有色金属、电力、航空、食品、房地产、纺织、商业中选择2个行业，本文出自应届生求职网分别阐述汇率、物价上升对于此2个行业的盈利影响，分析其中包含的投资机会。
+2. 从银行、钢铁、有
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-10</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140409630320.html">
+<strong>人人网笔试题</strong>
+<span class="fr red">阅读数:200</span><br />
+										    	      					下面人人网产品类寒假实习笔试题为网友分享，仅供参考：
+1、产品业务类
+a)人人网最大的商业价值在哪里，从哪些方面体现?
+b)如果将《非诚勿扰》看做一个产品，该产品成功的因素有哪些?如果你是产品经
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-09</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140408630291.html">
+<strong>格力笔试真题</strong>
+<span class="fr red">阅读数:84</span><br />
+										    	      					1、不随时间变化的应力称为静应力，随时间变化的应力称为变应力，具有周期性的变应力称为交变应力。
+2、对于直齿圆柱齿轮传动，其齿根弯曲疲劳强度主要取决于模数，其表面接触疲劳强度主要取决于直径。
+3、
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-08</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140404630256.html">
+<strong>奇瑞汽车面试问题</strong>
+<span class="fr red">阅读数:182</span><br />
+										    	      					1.在暑期 2 个月实习生活中，你希望奇瑞汽车能给你带来什么?
+回答这个问题切忌完全从个人的角度出发，只描述自己的预期和职业机会。
+这道问题的回答思路与上一道类似：求职者个人的竞争优势包括 2-3
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-04</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140403630217.html">
+<strong>国泰君安笔试真题</strong>
+<span class="fr red">阅读数:73</span><br />
+										    	      					一列火车上三个工人，史密斯――琼斯――罗伯特，三人工作为消防员，司闸员，机械师，有三个乘客与三人名字相同。
+1.罗伯特住在底特律.
+2.司闸员住在芝加哥和底特律中间的地方.
+3.琼斯一年赚2万美
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-03</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140402630189.html">
+<strong>搜狗招聘笔试题</strong>
+<span class="fr red">阅读数:141</span><br />
+										    	      					&nbsp;
+1、下面程序执行结果为【说明：X86_64环境】(D)
+A、16000 1101 13002 2
+B、4 2 3 60
+C、16000 2 3 2
+D、4 1101 13002
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-02</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140401630154.html">
+<strong>淘宝招聘面试相关笔试题</strong>
+<span class="fr red">阅读数:64</span><br />
+										    	      					有些教员也拥有了私人汽车，所有的大款都有私人汽车。因此，有些教员也是大款
+以下哪个推理具有和上述推理最为类似的结构?
+1. 有些有神论者是佛教徒，所有的基督教徒都不是佛教徒。因此，有些有神论者不是
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-01</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140331630127.html">
+<strong>HTC面试笔试题</strong>
+<span class="fr red">阅读数:61</span><br />
+										    	      					1：户枢不蠹&rdquo;的&ldquo;不蠹&rdquo;是什么意思? (低级题) 不生虫
+2：企鹅一般在几月份产卵? (高级题) 5月
+3：月亮老是一面朝着地球的原因是： (中级题) 月亮自转
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-03-31</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140329630091.html">
+<strong>浙商银行笔试题</strong>
+<span class="fr red">阅读数:200</span><br />
+										    	      					浙商银行笔试题分享：
+1. 举世瞩目的2008年诺贝尔奖落下了帷幕，钱永健是华裔化学家，祖籍中国浙江杭州，中国著名科学家钱学森的堂侄。他发明多色莹光蛋白标记技术，获得了：C
+A 2008年度诺贝尔
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-03-29</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140328630038.html">
+<strong>护士常见笔试题</strong>
+<span class="fr red">阅读数:104</span><br />
+										    	      					一、 单项选择题：30分
+1. 甲亢病人术后最危险的并发症是()
+A 喉返神经损伤 B 术后呼吸困难和窒息 C 手足抽搐 D 甲状腺危象
+2. 颅脑外伤的中间清醒期的临床意义为()
+A 判断有
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-03-28</span>
+</a>
+</li>
+</ul>
+<!---list info end--->
+<!---page--->
+<div class="paging">
+<a id="prev" href="/w/mianshitiku/list_28_0.html" class="prev"><i class="ico"></i>上一页</a>
+<span class="page_sel">
+<div class="selVal">
+<span class="sle_show sel_default">1</span> <span class="sle_ri"><span class="sel_xia"></span></span>
+</div>
+<select id="sel_page" class="select_item">
+<option value="1">第1页</option>
+<option value="2">第2页</option>
+<option value="3">第3页</option>
+<option value="4">第4页</option>
+<option value="5">第5页</option>
+<option value="6">第6页</option>
+<option value="7">第7页</option>
+<option value="8">第8页</option>
+<option value="9">第9页</option>
+<option value="10">第10页</option>
+<option value="11">第11页</option>
+<option value="12">第12页</option>
+<option value="13">第13页</option>
+<option value="14">第14页</option>
+<option value="15">第15页</option>
+<option value="16">第16页</option>
+<option value="17">第17页</option>
+<option value="18">第18页</option>
+<option value="19">第19页</option>
+<option value="20">第20页</option>
+<option value="21">第21页</option>
+<option value="22">第22页</option>
+<option value="23">第23页</option>
+<option value="24">第24页</option>
+<option value="25">第25页</option>
+<option value="26">第26页</option>
+<option value="27">第27页</option>
+<option value="28">第28页</option>
+<option value="29">第29页</option>
+<option value="30">第30页</option>
+<option value="31">第31页</option>
+<option value="32">第32页</option>
+<option value="33">第33页</option>
+<option value="34">第34页</option>
+<option value="35">第35页</option>
+<option value="36">第36页</option>
+<option value="37">第37页</option>
+<option value="38">第38页</option>
+<option value="39">第39页</option>
+<option value="40">第40页</option>
+<option value="41">第41页</option>
+<option value="42">第42页</option>
+<option value="43">第43页</option>
+<option value="44">第44页</option>
+<option value="45">第45页</option>
+<option value="46">第46页</option>
+<option value="47">第47页</option>
+<option value="48">第48页</option>
+<option value="49">第49页</option>
+<option value="50">第50页</option>
+<option value="51">第51页</option>
+<option value="52">第52页</option>
+<option value="53">第53页</option>
+<option value="54">第54页</option>
+<option value="55">第55页</option>
+<option value="56">第56页</option>
+<option value="57">第57页</option>
+<option value="58">第58页</option>
+<option value="59">第59页</option>
+<option value="60">第60页</option>
+<option value="61">第61页</option>
+<option value="62">第62页</option>
+<option value="63">第63页</option>
+<option value="64">第64页</option>
+<option value="65">第65页</option>
+<option value="66">第66页</option>
+<option value="67">第67页</option>
+<option value="68">第68页</option>
+<option value="69">第69页</option>
+<option value="70">第70页</option>
+<option value="71">第71页</option>
+<option value="72">第72页</option>
+<option value="73">第73页</option>
+<option value="74">第74页</option>
+<option value="75">第75页</option>
+<option value="76">第76页</option>
+<option value="77">第77页</option>
+<option value="78">第78页</option>
+<option value="79">第79页</option>
+<option value="80">第80页</option>
+<option value="81">第81页</option>
+<option value="82">第82页</option>
+</select>
+</span>
+<a id="next" href="/w/mianshitiku/list_28_2.html" class="next">下一页<i class="ico"></i></a>
+<script>
+        $(function () {
+            $("#sel_page").bind("change", function () {
+                $(".sel_default").html($(this).val());
+                var selectedPage = $(this).val();
+                var url = "/w/mianshitiku/list_28_pn.html" 
+                var reg = /_pn/;
+                url = url.replace(reg, "_" + selectedPage);
+                document.location.href = url ;
+            });
+        });
+    </script>
+</div>
+<!---page end--->
+<!---焦点资讯-->
+<div class="zixininfo">
+<div class="zixuntit"><strong>热门排行</strong></div>
+<ul class="zixunlist">
+<li>
+<a href="/w/mianshitiku/201211203851.html">通过自我评估了解应聘者能力面试题</a>
+</li>
+<li>
+<a href="/w/mianshitiku/2012103027752.html">笔试真题之网易游戏</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20130225126982.html">金融投资顾问常考笔试题目分享</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20130712140633.html">面试题：为什么离职</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20130407128424.html">泰鼎笔试题分享</a>
+</li>
+</ul>
+<div class="zixuntit bortop"><strong>推荐阅读</strong></div>
+<ul class="zixunlist">
+<li>
+<a href="/w/mianshitiku/20140425630701.html">销售员笔试题</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140423630683.html">嘉实基金笔试题目</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140422630656.html">Twitter面试中的麻辣问题</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140421630619.html">东软笔试常见的题目</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140418630581.html">索尼公司笔试题</a>
+</li>
+</ul>
+</div>
+<div class="footer">
+<p class="footer_01">
+<a class="footer_hover" rel="nofollow">触屏版</a>
+<a id="gotodownload" href="http://m.58.com/bj/down.shtml" rel="nofollow">客户端</a>
+</p>
+<p class="footer_02">手机58网：58.com&nbsp;&nbsp;&nbsp;&nbsp;京ICP证060405号</p>
+</div>
+<img class="googleanalyze" src="" style="display: none;" />
+<script type="text/javascript">
+	var prefix = "http://m.58.com/ga/?utmac=MO-35618414-1&amp;utmn=";
+	var suffix = new Date().getTime()+"&amp;utmr=-&amp;utmp=%2Flocal%2Fzixun%2F&amp;guid=ON";
+	var url = prefix+suffix;
+	$("img[class='googleanalyze']").attr("src",url);
+</script>
+<script type="text/javascript"> 
+var _gaq = _gaq || [],site_name = "M58",shop_count= "0",page_type = "list";
+var _trackURL = "{'cate':'6,9,28','area':'','pagetype':'list','actiontype':'zixun','pagesize':'25'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/m/mianshitiku/zixun/list/']);
+</script>
+<script src="http://www.google-analytics.com/ga.js" async="async"></script>
+<script src="http://tracklog.58.com/referrer_m.js" async="async"></script>
+</body>
+</html>
+<script type="text/javascript">
+
+	$(function() {
+		$("#navtxt li a[name='mianshizhinan']").removeClass().addClass("catspan select");
+		$("#mianshizhinan").attr('style','display: block;');
+		$("#mianshizhinan a[name='mianshitiku']").removeClass().addClass("select");
+	});
+	$(function() {
+		if(1 == 1 ){
+			$("#prev").attr("href","javascript:void();");
+			$("#prev").removeClass().addClass("prev disabled");
+		}
+		if(1 == 82){
+			$("#next").removeClass().addClass("next disabled").attr("href","javascript:void();");
+		}
+	});
+</script>

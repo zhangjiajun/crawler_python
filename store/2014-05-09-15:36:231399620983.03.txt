@@ -1,0 +1,362 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>用户登录-58同城</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link rel="Shortcut Icon" href="http://pic2.58.com/images/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">document.domain = '58.com';try{var ____json4fe = {catentry:{dispid:'',name:'',listname:''},locallist:{dispid:'',name:'',listname:''},modules:'passport'}}catch(e){}; </script>
+<script src="http://static.58.com/js/5_1/jquery1.3.2.js" type="text/javascript"></script>
+<script src="http://static.58.com/js/5_1/comm_js/boot_passport_version.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://static.58.com/ui6/my/css/login_6.css?2012217-2" type="text/css" /><script type="text/javascript" src="/rsa/ppt_security.js"></script>
+<style type="text/css">
+*:focus {outline: none}
+#conright{background:#fcfcfc; border-bottom:4px solid #f9f9f9; padding-bottom:0}
+.scrool-bg{border:1px solid #ddd; background:none; border-top:2px solid #e66a34; width:275px; padding-top:25px; overflow:hidden}
+.logintit{background:#fffdcc; border:1px solid #f2e2ad; padding:5px 10px; line-height:22px; overflow:hidden}
+.logintit .red{color:#f23f0f}
+.logintit input,.logintit label{margin:0;cursor:pointer; vertical-align:middle; display:inline-block}
+.logintit label{padding-left:6px; _margin-top:3px}
+#scrool1{margin-left:20px}
+
+.logpic{width:50px; color:#666; font-size:14px; float:left}
+#conright .loginbox{padding-bottom:15px}
+#conright .loginbox .inp{width:210px; height:22px; line-height:22px; border:1px solid #ddd; float:left; margin:0; padding:8px 0; padding-left:10px; background:url(http://pic2.58.com/ui6/my/images/loginpbg.gif) repeat-x 0 0 #fff}
+#conright .loginbox #validatecode{width:60px; margin-right:3px; _margin-right:0; padding-top:4px; padding-bottom:4px; float:inherit; *margin-top:3px; _margin-top:0}
+#conright .loginbox #validatetr td{*padding-top:12px; _padding-top:8px}
+#conright .loginbox input.wrong_color{border:1px solid #a7c0f1;height:22px; background-color:#fff}
+#conright .loginbox input.action_color{border:1px solid #a7c0f1;height:22px; background-color:#fff}
+#conright .loginbox .logpic.wrong_color,#conright .loginbox .logpic.action_color{background-color:#fff; border:1px solid #a7c0f1; height:38px; border-right:none}
+#conright .loginbox input.pw,#conright .loginbox input.pw_wc{background:url(http://pic2.58.com/ui6/my/images/passwordbg.png?20120814) no-repeat 0 0}
+
+#conright .mid{ background:none; border:none; color:#f23f0f; height:21px; line-height:21px; padding:0 10px 0 51px; width:235px; position:static;}
+#conright .mid .conn{line-height:20px; line-height:22px\9; _line-height:20px; overflow:hidden}
+.loginbox table td{padding:4px 0}
+#passwordtr td{padding-bottom:0; *padding-bottom:5px; _padding-bottom:0}
+.link-login{ border-top:1px solid #dfdfdf; padding-top:15px}
+/*weixin*/
+html{overflow-y: scroll;}
+.clearfix{ zoom: 1;}
+.clearfix:after{ content: '.'; font-size: 0; height: 0; visibility: hidden; display: block; clear: both;}
+.fb{font-weight: bold;}
+.logininfo{height: auto;}
+.login_weixin{overflow: hidden; margin-left: -20px; width: 315px;}
+div.zc{position: static; margin-top: 30px;}
+.login_weixin .line{width: 100%; height: 0; border-top: solid 1px #e5e5e5; border-bottom: solid 1px #fff;}
+
+.login_weixin .wx_login_dl{margin-top:15px; padding: 0 0 15px 20px; overflow: hidden; color: #666;}
+.login_weixin .wx_login_dl dt img{border: none;}
+.login_weixin .wx_login_dl dt{float: right; width: 87px; height: 87px; margin: 15px 20px 0 0; _display: inline;}
+.login_weixin .wx_login_dl dt .img_box{display:block; position: relative;}
+.login_weixin .wx_login_dl dt .img_box .bg{position: absolute; left: 0; top: 0; opacity: 0.7; filter:alpha(opacity=70); width: 100%; height: 100%; background: #000;}
+.login_weixin .wx_login_dl dt .img_box .text{position: absolute; width: 100%; height: 100%; color: #fff; left: 0; top: 0; text-align: center; padding-top: 25px; line-height: 20px;}
+.login_weixin .wx_login_dl dd{line-height: 24px;}
+.login_weixin .wx_login_dl dd.tit{margin-top: -5px; font-family: '宋体'; padding-top: 5px;}
+.login_name b{display: inline-block; padding: 0 8px; border: solid 1px #ccc; border-bottom: none; height: 30px; line-height: 30px; color: #ccc; margin-right: 3px; cursor: pointer;}
+.login_name b.cur{border: solid 1px #9b9b9b; border-bottom: none; color: #000;}
+.login_name{border-bottom: solid 1px #9b9b9b; margin-left: -20px; padding-left: 20px; width: 120%;}
+.scrool-bg{padding-top: 15px;}
+#conright .loginbox{margin-top: 10px;}
+</style>
+</head>
+<body>
+<form name="submitForm" method="post" action="/dounionlogin" id="submitForm" target="formSubmitFrame">
+<input type="hidden" name="isweak" id="isweak" value="0" />
+<input type="hidden" name="path" value="http://post.58.com/18/banjia/s1?pts=1399620965508" />
+<input type="hidden" name="p1" id="p1" />
+<input type="hidden" name="p2" id="p2" />
+<input type="hidden" name="p3" id="p3" />
+<input type="hidden" name="timesign" id="timesign" />
+<input type="hidden" id="ptk" name="ptk" id="ptk" value="68fa48c954fd4faabc98847d24d7acd1" />
+<input type="hidden" id="cd" name="cd" id="cd" value="6100" />
+<div id="login-header" class="win900">
+<a href="http://www.58.com" id="logo" style="left:20px;"><img src="http://pic2.58.com/ui6/my/images/logo-49h.gif" alt="中文最大生活信息门户" /></a>
+<div id="cityname" class="loginname" style="left:208px;"><span>用户登录</span></div>
+<div id="logintext" style="right:-10px;"><a href="http://www.58.com/">返回首页</a>|<a href="http://about.58.com/" target="_blank">帮助</a></div>
+</div>
+<div class="cb win900">
+<div id="conleft">
+<!-- &lt;div id="login-welcome-bg"&gt;&lt;/div&gt; -->
+<div id="2001"></div>
+</div>
+<div id="conright">
+<div class="scrool-bg">
+<div class="login_name" id="login_name"><b class="cur">会员登录</b><b>微信安全登录</b></div>
+<div id="logintit" class="logintit" style="display:none;">
+<span class="red">账号认证冲突！请选择账户类型</span><br />
+<input name="loginflag" type="radio" value="2" onclick="showSelectLoginFlag(false);" id="loginflag2" /><label for="loginflag2">手机号</label>
+<input name="loginflag" type="radio" value="1" onclick="showSelectLoginFlag(false);" id="loginflag1" /><label for="loginflag1">用户名</label>
+</div>
+<div class="loginbox">
+<div id="tipDiv"></div>
+<table>
+<tr id="usernametr">
+</tr>
+<tr id="passwordtr">
+</tr>
+<tr>
+<td></td>
+<td style="padding: 0pt;">
+<input type="checkbox" style="vertical-align: middle;" id="coks" value="on" name="remember" />
+<label class="logintip" for="coks">下次自动登录 (公共场所慎用)</label>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<span class="butt" style="line-height:34px;">
+<input type="submit" name="btnSubmit" value="登录" class="btns" accesskey="l" id="btnSubmit" />
+</span><span class="reg-a"><a href="/reg">免费注册</a>|<a href="/forgetpassword">找回密码</a> </span>
+</td>
+</tr>
+</table>
+</div>
+<!--weixin-->
+<div class="login_weixin">
+<div class="line"></div>
+<dl class="wx_login_dl clearfix">
+<dt><a href="javascript:;" class="img_box"><img id="wxqrcodeImg" width="87" height="87" />
+</a></dt>
+<dd class="fb">扫描右侧二维码</dd>
+<dd class="fb">使用微信安全登录</dd>
+<dd>1、防止木马窃取密码</dd>
+<dd>2、防止键盘录制类盗号</dd>
+<dd>3、绑定微信提高安全级别</dd>
+<dd class="tit fb">扫码&nbsp;-&gt;&nbsp;绑定&nbsp;-&gt;&nbsp;确认&nbsp;-&gt;&nbsp;安全登录成功</dd>
+</dl>
+</div>
+<!--//weixin-->
+<div class="link-login">
+<span class="lots">使用合作网站账号登录：</span>
+<a class="loico" id="lo_qq" title="QQ用户登录" href="/qqlogin?path=http://post.58.com/18/banjia/s1?pts=1399620965508">QQ</a>
+<a class="loico" id="lo_sina" title="新浪微博用户登录" href="/sinalogin_v2?path=http://post.58.com/18/banjia/s1?pts=1399620965508">新浪微博</a>
+<a class="loico loico-b" id="lo_pay" title="支付宝用户登录" href="/alipaylogin?path=http://post.58.com/18/banjia/s1?pts=1399620965508">支付宝</a>
+<a class="loico" id="lo_feixin" title="飞信用户登录" href="/feixinlogin?path=http://post.58.com/18/banjia/s1?pts=1399620965508">飞信</a>
+<a class="loico " id="lo_baidu" title="百度登录" href="/baidulogin?path=http://post.58.com/18/banjia/s1?pts=1399620965508">百度</a>
+<a class="loico loico-b" id="lo_renren" title="人人网用户登录" href="/renrenlogin?path=http://post.58.com/18/banjia/s1?pts=1399620965508">人人网</a>
+</div>
+</div><!--scrool bg-->
+<div class="clear"></div>
+</div>
+<div class="c"></div>
+</div>
+<div id="footer" class="win900">
+<p>&copy; 58.com <a class="fduihua" target="_blank" title="有问题请与58客服进行对话" href="http://about.58.com/">与58对话</a></p>
+</div>
+</form>
+<script type="text/javascript">
+	var timespan = 1399620965506 - new Date().getTime();
+	var passporttimeout;
+	var upwd="";
+	function clearPassportTimeout(){
+    	clearTimeout(passporttimeout);
+    }
+	$.fn.placeholder = function(){
+		var defaultValue = $(this).attr('placeholderval');
+		$(this).bind("focus",function(){
+			$(this).removeClass("c_ccc");
+			
+			if($(this).attr("id")=="password")
+				$(this).removeClass("pw").removeClass("pw_wc");
+			
+			if($(this).val()==defaultValue)
+				$(this).val(""); 
+			
+		}).bind("blur",function(){
+			if($(this).val()==""){
+				$(this).val(defaultValue);
+				$(this).addClass("c_ccc");
+				if($(this).attr("id")=="password")
+					$(this).addClass("pw_wc");
+			}
+		}).bind("change",function(){
+			if($(this).val()==""){
+				$(this).addClass("c_ccc");
+				if($(this).attr("id")=="password")
+					$(this).addClass("pw").addClass("pw_wc");
+			}else{
+				$(this).removeClass("c_ccc");
+				if($(this).attr("id")=="password")
+					$(this).removeClass("pw").removeClass("pw_wc");
+			}
+		});
+	}
+	
+    $(function() {
+    	$("#usernametr").html('&lt;td&gt;&lt;span class="logpic"&gt;账户名&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;input class="inp inw c_ccc useplaceholder" type="text" id="username" name="username" size="20" value="用户名/电子邮箱/手机号码" placeholderval="用户名/电子邮箱/手机号码" autocomplete="off"&gt;&lt;/td&gt;');
+    	$("#passwordtr").html('&lt;td&gt;&lt;span class="logpic"&gt;密码&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;input class="inp inw c_ccc pw useplaceholder" id="password" type="password" style="margin-bottom:7px;" name="password" size="20" onpaste="return false" placeholderval="" autocomplete="off" maxlength="16"&gt;&lt;/td&gt;');
+    	
+    	        $.formValidator.initConfig({ formid: "submitForm", errorfocus: false, forcevalid: true, btnid: 'btnSubmit', btnvalue: '登录', btnactionvalue: '登录中...', fun: function() {
+            var wrongTimes = 0;
+            if (GetCookieValue('wrongtimes') != null) {
+                wrongTimes = parseInt(GetCookieValue('wrongtimes'));
+            }
+            if (wrongTimes &gt; 4) {
+                alert("您密码输入错误次数太多,请过一段时间再试");
+                return false;
+            }
+            var timesign = new Date().getTime() + timespan;
+            if(timesign - 1399620965506 &gt; 1800000){
+            	alert("页面已过期，请刷新后再提交");
+            	window.location.href = window.location.href;
+            	return false;
+            }
+            if(passwordIsWeak($("#username").val(),$("#password").val()))
+            	$("#isweak").val("1");
+            else
+            	$("#isweak").val("0");
+            $("#timesign").val(timesign);
+            $("#p1").val(getm32str($("#password").val(),timesign+""));
+            $("#p2").val(getm16str($("#password").val(),timesign+""));
+            $("#p3").val(encryptString(timesign+encodeURIComponent($("#password").val()),"010001","008baf14121377fc76eaf7794b8a8af17085628c3590df47e6534574efcfd81ef8635fcdc67d141c15f51649a89533df0db839331e30b8f8e4440ebf7ccbcc494f4ba18e9f492534b8aafc1b1057429ac851d3d9eb66e86fce1b04527c7b95a2431b07ea277cde2365876e2733325df04389a9d891c5d36b7bc752140db74cb69f"));
+            $("#username").addClass("c_ccc").attr("readonly","readonly");
+            $("#password").val("password").addClass("c_ccc").attr("readonly","readonly");
+            passporttimeout = setTimeout(function(){
+            //	alert("服务器繁忙，请稍后再试");
+            	$("#password").val(upwd);
+            	$.formValidator.subfalse('submitForm', 'btnSubmit', '登录');
+            },10000);
+            return true;
+        }, errorclass: "sc", successclass: "hc", focusclass: "hc", tiphtml: '&lt;div class="mid mid-t1"&gt;&lt;div class="conn" id=""&gt;{0}&lt;/div&gt;&lt;/div&gt;'
+        });
+
+        $("#username").formValidator({ onfocus: "", tipid: 'tipDiv' }).inputValidator({ onerror: "您还没有输入账户名" }).functionValidator({ fun: function(val, elem) {
+			if(val=="用户名/电子邮箱/手机号码")
+				return "您还没有输入账户名";
+			return true;
+        }
+        }).regexValidator({ regexp: "^[\\w|\\u4e00-\\u9fa5|\@|\\.|\\-]{2,40}$", onerror: "用户名格式错误" });
+        $("#username").bind("change",function() {
+            $(this).val($.formValidator.QtoB(this.value));
+        });
+        $("#password").formValidator({ onfocus: "", tipid: 'tipDiv' }).inputValidator({ onerror: "您还没有输入密码" }).regexValidator({ regexp: "^[\\s\\S]{6,}$#^(.){6,16}$", onerror: "密码太短，最少为6位。#密码不应超过16个字符。" });
+        $("#password").bind("change",function() {
+            upwd = $(this).val();
+        });
+        $("#validatecode").formValidator({ onfocus: "", tipid: 'tipDiv' }).inputValidator({ onerror: "请输入验证码" }).regexValidator({ regexp: "^([a-zA-Z0-9]){5}$", onerror: "验证码输入不正确。" });
+        $("#validatecode").bind("blur",function() {
+            $(this).val($.formValidator.QtoB(this.value));
+        });
+
+        $('#username').placeholder();
+        $('#password').placeholder();
+        $("#submitForm").attr("target", "formSubmitFrame");
+        $("#formSubmitFrame").get(0).contentWindow.name = "formSubmitFrame";
+    });
+    
+    function clearform(){
+        $("#username").removeClass("c_ccc").removeAttr("readonly");
+        $("#password").removeClass("c_ccc").removeAttr("readonly").val(upwd);
+    }
+    
+    function showvalidcode(){
+    	var result;
+    	if(!$("#validatetr") || $("#validatetr").html()==null){
+	    	var html = '&lt;tr id="validatetr"&gt;&lt;td&gt;&lt;span class="logpic"&gt;验证码&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;input class="inp inw3" id="validatecode" maxlength="5" name="validatecode" size="2" type="text"&gt;&lt;img src="/validatecode" style="cursor: pointer; height: 32px;" id="vcodeImg" name="vcodeImg" onclick="document.getElementById(\'vcodeImg\').src=\'/validatecode?temp=123\'+ (new Date().getTime().toString(36)); _gaq.push([\'pageTracker._trackEvent\', \'58_my\', \'passport\', \'refresh\']); return false" align="absmiddle"&gt; &lt;a class="f12" href="javascript:void(0)" onclick="document.getElementById(\'vcodeImg\').src=\'/validatecode?temp=123\'+ (new Date().getTime().toString(36)); _gaq.push([\'pageTracker._trackEvent\', \'58_my\', \'passport\', \'refresh\']); return false"&gt;看不清？&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;';
+			$("#passwordtr").after(html);
+			result = true;
+    	}else{
+    		$("#vcodeImg").attr("src", "/validatecode?temp=123" + (new Date().getTime().toString(36)));
+    		result = false;
+    	}
+    	_gaq.push(['pageTracker._trackEvent', '58_my', 'passport', 'show']);
+    	return result;
+    }
+    
+    function passwordIsWeak(username,pwd){
+    	if(pwd.match("^[a-z|A-Z]+$") &amp;&amp; (isContinuousChar(pwd) || isSameChar(pwd))) return true;
+	    if(pwd.match("^[\\d]+$") &amp;&amp; (isContinuousChar(pwd) || isSameChar(pwd))) return true;
+	    if(pwd.match("^[_]+$")) return true;
+	    if(username==pwd) return true;
+	    return false;
+    }
+    
+    function isContinuousChar(str){
+    	var str = str.toLowerCase();
+        var flag = 0;
+        for(var i=0;i&lt;str.length&gt;&lt;str.length&gt;</script>
+<script type="text/javascript">
+function flushWxqrcode(login){
+	$.get("/wxqrcode?temp=1" + (new Date().getTime().toString(36)),
+		function(result){
+			if(result){
+				result = eval('('+result+')');
+				$("#wxqrcodeImg").attr("src", result.pic);
+				if(login)
+					flushWxqrcodeLogin();
+			}
+		}	
+	);
+}
+function flushWxqrcodeLogin(){
+	$.ajax({
+		url : "/wxqrcodelogin",
+		type : "post",
+		data : {"path":"http://post.58.com/18/banjia/s1?pts=1399620965508"},
+		dataType : "json",
+		success : function(result){
+			if(result.type=="success"){
+				window.location.href = result.path;
+			}else if(result.type=="warnusererror"){
+				window.location.href = "/login?wuid="+result.wuid;
+			}else{
+				flushWxqrcodeLogin();
+			}
+		},
+		error : function(XMLHttpRequest, textStatus, errorThrown) {
+			flushWxqrcodeLogin();
+        }
+	});
+}
+$(function() {
+	flushWxqrcode(true);
+	setInterval("flushWxqrcode(false)", 1800000);
+});
+(function($){
+    var login_name=$('.login_name')[0];
+    var login_name_b=login_name.getElementsByTagName('b');
+    for(var i=0;i&lt;login_name_b.length;i++){
+        login_name_b[i].index=i;
+        login_name_b[i].onclick=function(){
+            $(this).addClass('cur').siblings().removeClass('cur');
+            if(this.index == '1'){
+                $('.loginbox').slideUp();
+                $('.line').hide();
+            }else{
+                $('.loginbox').slideDown();
+                $('.line').show();
+            }
+        }
+    }
+})(jQuery);
+</script>
+<script type="text/javascript">
+var iqas_mcvalue = '1399620965483';var iqas_mcformula = 'function a(){var b="11096989445341399995766909";var c="";for(var d=0;d&lt;b.length;d++){if(b.charAt(d)==9) c+="0"; else c+=(parseInt(b.charAt(d))+1);}return "1"+c};try{a();}catch(e){}';$(function(){$("&lt;input name='mcresult' value='"+eval(iqas_mcformula.replace('checkValue', iqas_mcvalue))+"' / style='display:none'&gt;").appendTo($('#submitForm'));});
+</script>
+<script type="text/javascript">
+    document.write('&lt;scr' + 'ipt src="' + 'http://static.58.com' + '/js/loginAd.js?rand=' + Math.random() + '"&gt;&lt;/scr' + 'ipt&gt;');
+</script>
+<script type="text/javascript">
+	document.write('&lt;scr' + 'ipt src="' + 'http://usdtop.58.com' + '/advertising/echo.js?cityid=0&amp;cateid=0&amp;categorycode=2001&amp;rand=' + Math.random() + '"&gt;&lt;/scr' + 'ipt&gt;');
+</script>
+<iframe id="formSubmitFrame" name="formSubmitFrame" src="/submit" style="visibility: hidden; height: 0px; width: 0px;"></iframe>
+<div style="display:none">
+<script type="text/javascript">
+var _gaq = _gaq || []; var site_name = "58";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._trackPageview']);
+fe.init(function(){ 
+	js.append(('https:' == document.location.protocol ? ' https://ssl' : ' http://www') + '.google-analytics.com/ga.js'); 
+	js.append(' http://tracklog.58.com/referrer4.js');
+});
+</script>
+</div><div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1020842622/?label=TvbCCIKyoQIQ_qTj5gM&amp;guid=ON&amp;script=0" />
+</div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link href="http://static.58.com/ui7/about/css/help.css" rel="stylesheet" type="text/css" media="all" />
+<script src="http://about.58.com/js/jquery-1.4.1.min.js"></script>
+<script type="text/javascript">
+$(function(){
+	$(".qlist").hover(
+	  function () {
+		$(this).addClass("y");
+	  },
+	  function () {
+		$(this).removeClass("y");
+	  }
+	);  
+});
+</script>
+<base target="_blank" />
+<title>常见问题-帮助中心</title>
+</head>
+<body>
+<div class="header w1000">
+<div class="header-content">
+<a href="http://www.58.com" title="到58同城首页"><img src="http://pic2.58.com/ui6/my/images/logo.gif" alt="中文最大生活信息门户" /></a>
+<span class="helpCenter">帮助中心</span>
+</div>
+<div class="nav w1000 clearfix">
+<ul>
+<li><a href="index.html" target="_self">首页</a></li>
+<li class="active"><a href="help.html" target="_self">常见问题</a></li>
+<li><a href="customerservice.html" target="_self">联系客服</a></li>
+<li><a href="feedback.html" target="_self">网站建议</a></li>
+</ul>
+<a class="getting" href="http://about.58.com/fabu.htm">新手入门</a>
+</div>
+</div><!--header-->
+<div class="content p1 win1000">
+<dl class="qlist clearfix">
+<dt><i class="b-1"></i>新手导航</dt>
+<dd class="clearfix"><a href="http://about.58.com/14.html?cateid=1">注册成为用户</a><a href="http://about.58.com/fabu.htm">如何发布信息</a><a href="http://about.58.com/16.html?cateid=1">如何管理信息</a><a href="http://about.58.com/chazhao.htm?cateid=1">如何查找信息</a><a href="http://about.58.com/333.html">58信息审核规范</a></dd>
+</dl>
+<dl class="qlist clearfix">
+<dt><i class="b-2"></i>自助工具</dt>
+<dd class="clearfix"> <a href="http://about.58.com/info/del-menu.html "><font color="#ff0000">我要删除信息</font></a> <a href="http://about.58.com/info/deleteinfo.aspx "><font color="#ff0000">电话被冒用</font></a> <a href="http://about.58.com/LeaveWord.aspx?cateid=36">取消中介/职介/商家</a> <a href="http://passport.58.com/forgetpassword"> 找回密码</a><a href="http://paycenter.58.com/torecharge">账户余额充值</a><a href="http://about.58.com/yinsibaohu.html">58隐私保护助手</a> <a href="http://tousu.baidu.com/webmaster/add">删除百度快照</a><a href="http://about.58.com/253.html ">手机话费充值</a><a href="http://about.58.com/305.view#a">58帮帮</a><a href="http://t.58.com/help/index/">58团购</a><a href="http://about.58.com/338.html">获取语音验证码</a></dd>
+</dl>
+<dl class="qlist clearfix">
+<dt><i class="b-3"></i>信息发布与删除</dt>
+<dd class="clearfix"> <a href="http://about.58.com/27.html?cateid=1">信息被删除</a> <a href="http://about.58.com/info/deleteinfo.aspx"> 电话被冒用</a> <a href="http://about.58.com/28.html?cateid=1">信息无法发布</a> <a href="http://about.58.com/16.html?cateid=1"> 如何修改/删除信息</a> <a href="http://about.58.com/113.html?cateid=1">提示信息相似或重复</a> <a href="http://about.58.com/108.html?cateid=1">信息不显示</a> <a href="http://about.58.com/112.html?cateid=1"> 提示有非法词</a> <a href="http://wap.58.com/about.html">WAP58</a></dd>
+</dl>
+<dl class="qlist clearfix">
+<dt><i class="b-4"></i>余额,积分,精准推广,置顶,与刷新</dt>
+<dd class="clearfix"> <a href="http://about.58.com/LeaveWord.aspx?cateid=13">充值不到账</a><a href="http://about.58.com/55.html">交易宝余额介绍</a><a href="http://about.58.com/310.html">58账户余额介绍</a><a href="http://about.58.com/50.html">积分介绍</a><a href="http://about.58.com/32.html?cateid=1">置顶信息不显示</a> <a href="http://about.58.com/337.html?cateid=1">置顶与计划置顶</a><a href="http://about.58.com/60.html?cateid=1">刷新介绍</a><a href="http://about.58.com/344.html">优惠券</a> <a href="http://about.58.com/62.html?cateid=1"> 刷新相关问题</a><a href="http://about.58.com/325.html">余额充值操作步骤</a><a href="http://about.58.com/328.html">智能推广产品介绍</a><a href="http://about.58.com/329.html">智能推广常见问题 </a><a href="http://about.58.com/316.html">精准推广操作步骤 </a><a href="http://about.58.com/315.html#p">精准推广常见问题</a><a href="http://about.58.com/336.html">优先推送介绍</a></dd>
+</dl>
+<dl class="qlist clearfix" style="">
+<dt><i class="b-5"></i>用户注册与登录</dt>
+<dd class="clearfix"> <a href="http://about.58.com/14.html?cateid=1">账户注销</a> <a href="http://about.58.com/33.html?cateid=1"> 用户名修改</a> <a href="http://about.58.com/LeaveWord.aspx?cateid=28">账户丢失或被盗</a> <a href="http://about.58.com/34.html?cateid=1">无法登录</a> <a href="http://about.58.com/14.html?cateid=1"> 注册用户</a></dd>
+</dl>
+<dl class="qlist clearfix" style="">
+<dt><i class="b-6"></i>认证与取消认证</dt>
+<dd class="clearfix"> <a href="http://about.58.com/35.html?cateid=1">如何认证</a> <a href="http://my.58.com/authmail/?menu=15"> 更换认证</a> <a href="http://about.58.com/35.html?cateid=1#h">收不到认证码</a> <a href="http://about.58.com/252.html"> 收不到认证邮件</a> <a href="http://about.58.com/35.html?cateid=1">更多认证问题</a></dd>
+</dl>
+<dl class="qlist clearfix" style="">
+<dt><i class="b-7"></i>等级与信用</dt>
+<dd class="clearfix"> <a href="http://about.58.com/47.html?cateid=1">我能发多少条信息</a> <a href="http://about.58.com/48.html?cateid=1"> 信用的增加与减少</a> <a href="http://about.58.com/107.html?cateid=1">同一条信息刷新次数</a></dd>
+</dl>
+<dl class="qlist clearfix" style="">
+<dt><i class="b-8"></i>防骗常识</dt>
+<dd class="clearfix"> <a href="http://about.58.com/106.html?cateid=1">网络招聘防骗手册</a> <a href="http://about.58.com/109.html?cateid=1#a"> 宠物防骗手册</a><a href="http://about.58.com/109.html?cateid=1">二手交易防骗手册</a> <a href="http://about.58.com/292.html "><font color="#ff0000">火车票防骗指南</font></a> <a href="http://about.58.com/121.html"> 房产防骗常识</a> <a href="http://about.58.com/online-kefu.html" style="color: rgb(255, 0, 0);">举报与打假</a><a href="http://about.58.com/288.html"><font color="#ff0000">拼车防骗指南</font></a></dd>
+</dl>
+<dl class="qlist clearfix">
+<dt><i class="b-9"></i>付费产品专区</dt>
+<dd class="clearfix" style=""> <a href="http://e.58.com/fangchan/wanglintong.html">房产版网邻通</a> <a href="http://e.58.com/shenghuo/wanglintong.html">生活服务网邻通</a> <a href="http://e.58.com/zhaopin/wanglintong.html">招聘通</a><a href="http://e.58.com/cheliang/wanglintong.html">汽车网邻通</a><a href="http://e.58.com/all/zhiding.html">58信息置顶</a><a href="http://about.58.com/jinpu.html">网邻通金铺</a><a href="http://e.58.com/all/jingzhun.html">精准推广</a><a href="http://e.58.com/all/zhineng.html">智能推广</a></dd>
+</dl>
+</div><!--content-->
+<div class="footer clearfix">
+<p>© 58.com</p>
+</div>
+</body>
+</html>

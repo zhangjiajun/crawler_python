@@ -1,0 +1,716 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+            自我介绍_面试自我介绍范文_英文自我介绍 - 58同城
+        </title>
+<meta name="keywords" content="自我介绍,面试自我介绍范文,英文自我介绍" />
+<meta name="description" content="58同城自我介绍频道，为应届生、大学生、毕业生提供最全最新的面试自我介绍、自我介绍范文、英文自我介绍、应聘自我介绍等，找自我介绍就上58同城自我介绍频道。" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript">
+        function changeClass() {
+            var parentName = document.getElementById("pname").value;
+            var allLi = document.getElementsByName("pli");
+            if (typeof(allLi) !== 'undefined') {
+                for (i = 0; i &lt; allLi.length; i++) {
+                    var li = allLi[i];
+                    var liVal = li.firstChild.firstChild.innerHTML;
+                    if (liVal === parentName) {
+                        var attr = document.createAttribute("class");
+                        attr.value = "active";
+                        li.setAttributeNode(attr);
+                        break;
+                    }
+                }
+            }
+        }
+    </script>
+<body>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;mini=1&amp;pos=right&amp;uid=218186"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config={"bdTop":100};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left">
+<span id="ipconfig">
+</span>
+</div>
+<div class="bar_right">
+<div id="login">
+<a target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">
+                            登录
+                        </a>
+<span class="gap">
+                            |
+                        </span>
+<a target="_self" href="https://passport.58.com/reg/">
+                            注册
+                        </a>
+</div>
+</div>
+</div>
+</div>
+<div id="navlist">
+<div id="navlist"><ul><li id="navbln"><a target="_self" href="http://www.58.com/?path=job.shtml">全职招聘</a></li><li><a target="_self" href="http://www.58.com/?path=jianzhi.shtml">兼职招聘</a></li><li class="job_icon"><a target="_self" href="http://www.58.com/mingqi/">名企招聘</a></li><li>
+<a href="http://www.58.com/zhiwei/" target="_blank">
+                        职位库
+                    </a>
+</li>
+<li><a target="_self" href="http://www.58.com/top500/">世界500强企业</a></li>
+<li><a target="_self" href="http://www.58.com/china500/">中国500强企业</a></li>
+<li class="sel" id="navbrn"><a href="http://www.58.com/zp/">求职指南</a></li></ul></div>
+</div>
+<div id="header">
+<div id="headerinside">
+<div id="logo">
+<a target="_self" href="http://58.com/">
+<img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" />
+</a>
+<h1>
+                        自我介绍
+                    </h1>
+</div>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span></div>
+</div>
+
+<div id="nav">
+<div id="navin">
+<ul>
+<li>
+<a href="/zp/">
+                            首页
+                        </a>
+</li>
+<li name="pli" id="pli">
+<a href="/jianligonglue/" rel="dropmenu8">
+<span>
+                                简历攻略
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/mianshizhinan/" rel="dropmenu9">
+<span>
+                                面试指南
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/xinchoufuli/" rel="dropmenu10">
+<span>
+                                薪酬福利
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/shenzaizc/" rel="dropmenu11">
+<span>
+                                身在职场
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/laodongfayuan/" rel="dropmenu12">
+<span>
+                                劳动法苑
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/zhichangzixun/" rel="dropmenu7">
+<span>
+                                职场资讯
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/jianli/">
+<span>
+                                个人简历
+                            </span>
+</a>
+</li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="面试指南" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input name="word" size="19" maxlength="100" type="text" placeholder="如：应届生简历模板" onfocus="if(this.placeholder=='如：应届生简历模板'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='如：应届生简历模板';}" />
+<input type="submit" value="资讯搜索" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+</div>
+</div>
+<script type="text/javascript">
+            changeClass();
+        </script>
+<div class="content ej">
+<div class="erji">
+<a href="/mianshijiqiao/">
+                    面试技巧
+                </a>
+<a href="/ziwojieshao/" class="ac"> 自我介绍 </a>
+<a href="/mianshitiku/">
+                    面试题库
+                </a>
+</div>
+<div class="box">
+<div class="left fl">
+<h2>
+<span class="daohang">
+<a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/zp/">招聘</a> &gt; <a href="/mianshizhinan/">面试指南</a> &gt; <a href="/ziwojieshao/">自我介绍</a> &gt; 
+                        </span>
+</h2>
+<ul class="pdlist">
+<li>
+<p>
+<span>
+                                    2014-05-08 15:26:47 阅读(138)
+                                </span>
+<a href="/ziwojieshao/20140508630805.html" target="_blank">
+<strong>
+                                        金融保险求职面试自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                我是中央财经大学金融系金融(含保险)专业10届毕业生，在求学生涯的四年大学学习过程中，经历过失败和挫折，经历过成功与幸福，我孜孜以求，不惜奋斗，而正所谓一份耕耘，一份收获，我...
+                                <a rel="nofollow" href="/ziwojieshao/20140508630805.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-05-07 15:41:34 阅读(53)
+                                </span>
+<a href="/ziwojieshao/20140507630793.html" target="_blank">
+<strong>
+                                        通信工程毕业生面试自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                大家好!我叫五八同城。 本人在大学四年的学习中，熟练掌握了通信工程专业学科的各方面知识，并将所学的知识应用于实际生活中，同时，为提高视野和素质，利用课余时间自学和选修了法律...
+                                <a rel="nofollow" href="/ziwojieshao/20140507630793.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-05-05 19:19:31 阅读(76)
+                                </span>
+<a href="/ziwojieshao/20140505630777.html" target="_blank">
+<strong>
+                                        法务面试自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                我叫58.com，毕业于西北政法学院法律系。我相信凭借我扎实的专业背景和丰富的实践经验，足以使我胜任法务岗位的工作 学习上，本人学习了法理学、中国法制史、宪法、行政法与行政诉讼法...
+                                <a rel="nofollow" href="/ziwojieshao/20140505630777.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 11:25:59 阅读(76)
+                                </span>
+<a href="/ziwojieshao/20140430630755.html" target="_blank">
+<strong>
+                                        个人简介的自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                1、忠实诚信,讲原则，说到做到，决不推卸责任;有自制力，做事情始终坚持有始有终，从不半途而废;肯学习,有问题不逃避,愿意虚心向他人学习;自信但不自负,不以自我为中心;愿意以谦虚态度...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630755.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 11:15:27 阅读(75)
+                                </span>
+<a href="/ziwojieshao/20140430630754.html" target="_blank">
+<strong>
+<b>面试技巧自我介绍</b>
+</strong>
+</a>
+</p>
+<p class="f12">
+                                面试中自我介绍很重要，而在面试中自我介绍也是要掌握一定技巧的，下面就来看看58同城为您总结出的 面试技巧自我介绍 ： 1、第一印象很重要。自我介绍时要两眼平视主考官，注意和考官...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630754.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 11:12:32 阅读(175)
+                                </span>
+<a href="/ziwojieshao/20140430630753.html" target="_blank">
+<strong>
+                                        小学生英语口语自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                小学生英语口语自我介绍 范文： Hello, my name is Lee. I am 10 years old. Now I am studying in Changan Primary School. I am in Grade 3, Class4. I live in Shanghai. There are3 members in my familyfather, mother and me. My father is a worke...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630753.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 11:00:13 阅读(196)
+                                </span>
+<a href="/ziwojieshao/20140430630752.html" target="_blank">
+<strong>
+                                        英语自我介绍口语范文
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                面试时候,考官通常会要求应试者用英语进行口语自我介绍，以此来考验 英语自我介绍口语 能力，下面有一个英语 口语自我介绍 ,大家可以参考一下. Hello everyone, my name is Billie Joe. This is really...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630752.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 10:49:54 阅读(136)
+                                </span>
+<a href="/ziwojieshao/20140430630751.html" target="_blank">
+<strong>
+                                        简历自我介绍范文100字
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                简历自我介绍范文 1: 我具有较强的专业能力,专业知识非常的牢固,敢于创新,不断追求卓越;有很强的忍耐力、意志力和吃苦耐劳的品质,对工作认真负责,积极进取,个性乐观执着,敢于面对困难与...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630751.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 10:39:02 阅读(122)
+                                </span>
+<a href="/ziwojieshao/20140430630750.html" target="_blank">
+<strong>
+                                        英文面试自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                有许多求职者往往在职场失分的原因是没做好 英文面试自我介绍 ，因此看似简单的 自我介绍 也成为求职者最苦恼的部分。如何做好英文面试的自我介绍较为关键，以下为您提供一些英文面试...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630750.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 10:23:33 阅读(102)
+                                </span>
+<a href="/ziwojieshao/20140430630749.html" target="_blank">
+<strong>
+                                        面试英语自我介绍范文
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                外企其实并非都是那么重视口头的英文表达能力，但在 面试英语自我介绍 时一定要体现自己适应外企的process，能够teamwork，而且对书面的商务用词比较熟练，也就可以了。不用过于严谨，因为...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630749.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 10:21:11 阅读(191)
+                                </span>
+<a href="/ziwojieshao/20140430630748.html" target="_blank">
+<strong>
+                                        日语面试自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                你可能知道在面试中如何自我介绍，你也可能知道面试自我介绍的技巧，但你知道用日语介绍自己吗?下面是一则 日语自我介绍 范例 。 各位の尊敬する官：おはようございます。 今日はここ...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630748.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 09:53:18 阅读(127)
+                                </span>
+<a href="/ziwojieshao/20140430630747.html" target="_blank">
+<strong>
+                                        复试自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                各位导师早上好，我很荣幸有这次复试机会： 首先让我介绍一下我自己，我的名字叫宋月，出生于1988年2月13日。我性格开朗，容易融于集体，并乐于助人。我是一个女孩的热情，开朗并具有创...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630747.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-30 09:34:20 阅读(67)
+                                </span>
+<a href="/ziwojieshao/20140430630746.html" target="_blank">
+<strong>
+                                        银行面试自我介绍及注意事项
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                银行面试自我介绍 ： 大家好! 我叫58.com，来自苏州，2010年毕业于上海财经大学金融学院，我中央财经大学金融学院的学生，硕士研究生学历，在金融学院这4年的学习生活让我满载而归，4年里...
+                                <a rel="nofollow" href="/ziwojieshao/20140430630746.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-29 20:19:27 阅读(59)
+                                </span>
+<a href="/ziwojieshao/20140429630745.html" target="_blank">
+<strong>
+                                        考研复试自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                导师也能够拉关系 考研最重要的是选导师，复试能否经过的决定权更在导师手中，因而是复试进程中导师所起的作用是无足轻重的。许多同学会说，复试之前自动找导师会不会显得巴讨好导师...
+                                <a rel="nofollow" href="/ziwojieshao/20140429630745.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-29 20:10:49 阅读(142)
+                                </span>
+<a href="/ziwojieshao/20140429630744.html" target="_blank">
+<strong>
+                                        研究生复试自我介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                早上好，尊敬的教授!我很荣幸能参加研究生复试。非常感谢你给我这个机会! 我叫***，我来自广西，我22岁了。我是南京工业大学的一个本科生，信息管理与信息系统专业。南京工业大学具有悠...
+                                <a rel="nofollow" href="/ziwojieshao/20140429630744.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li>
+</ul>
+<p class="paging mar_t30">
+<ul class="paging mar_t30">
+                            首页
+1
+<a href="list_29_2.html">2</a>
+<a href="list_29_3.html">3</a>
+<a href="list_29_4.html">4</a>
+<a href="list_29_5.html">5</a>
+<a href="list_29_6.html">6</a>
+<a href="list_29_7.html">7</a>
+<a href="list_29_8.html">8</a>
+<a href="list_29_9.html">9</a>
+<a href="list_29_10.html">10</a>
+<a href="list_29_11.html">11</a>
+<a href="list_29_2.html">下一页</a>
+<a href="list_29_110.html">末页</a>
+<select name="sldd" style="width:54px" onchange="location.href=this.options[this.selectedIndex].value;">
+<option value="list_29_1.html" selected="selected">1</option>
+<option value="list_29_2.html">2</option>
+<option value="list_29_3.html">3</option>
+<option value="list_29_4.html">4</option>
+<option value="list_29_5.html">5</option>
+<option value="list_29_6.html">6</option>
+<option value="list_29_7.html">7</option>
+<option value="list_29_8.html">8</option>
+<option value="list_29_9.html">9</option>
+<option value="list_29_10.html">10</option>
+<option value="list_29_11.html">11</option>
+<option value="list_29_12.html">12</option>
+<option value="list_29_13.html">13</option>
+<option value="list_29_14.html">14</option>
+<option value="list_29_15.html">15</option>
+<option value="list_29_16.html">16</option>
+<option value="list_29_17.html">17</option>
+<option value="list_29_18.html">18</option>
+<option value="list_29_19.html">19</option>
+<option value="list_29_20.html">20</option>
+<option value="list_29_21.html">21</option>
+<option value="list_29_22.html">22</option>
+<option value="list_29_23.html">23</option>
+<option value="list_29_24.html">24</option>
+<option value="list_29_25.html">25</option>
+<option value="list_29_26.html">26</option>
+<option value="list_29_27.html">27</option>
+<option value="list_29_28.html">28</option>
+<option value="list_29_29.html">29</option>
+<option value="list_29_30.html">30</option>
+<option value="list_29_31.html">31</option>
+<option value="list_29_32.html">32</option>
+<option value="list_29_33.html">33</option>
+<option value="list_29_34.html">34</option>
+<option value="list_29_35.html">35</option>
+<option value="list_29_36.html">36</option>
+<option value="list_29_37.html">37</option>
+<option value="list_29_38.html">38</option>
+<option value="list_29_39.html">39</option>
+<option value="list_29_40.html">40</option>
+<option value="list_29_41.html">41</option>
+<option value="list_29_42.html">42</option>
+<option value="list_29_43.html">43</option>
+<option value="list_29_44.html">44</option>
+<option value="list_29_45.html">45</option>
+<option value="list_29_46.html">46</option>
+<option value="list_29_47.html">47</option>
+<option value="list_29_48.html">48</option>
+<option value="list_29_49.html">49</option>
+<option value="list_29_50.html">50</option>
+<option value="list_29_51.html">51</option>
+<option value="list_29_52.html">52</option>
+<option value="list_29_53.html">53</option>
+<option value="list_29_54.html">54</option>
+<option value="list_29_55.html">55</option>
+<option value="list_29_56.html">56</option>
+<option value="list_29_57.html">57</option>
+<option value="list_29_58.html">58</option>
+<option value="list_29_59.html">59</option>
+<option value="list_29_60.html">60</option>
+<option value="list_29_61.html">61</option>
+<option value="list_29_62.html">62</option>
+<option value="list_29_63.html">63</option>
+<option value="list_29_64.html">64</option>
+<option value="list_29_65.html">65</option>
+<option value="list_29_66.html">66</option>
+<option value="list_29_67.html">67</option>
+<option value="list_29_68.html">68</option>
+<option value="list_29_69.html">69</option>
+<option value="list_29_70.html">70</option>
+<option value="list_29_71.html">71</option>
+<option value="list_29_72.html">72</option>
+<option value="list_29_73.html">73</option>
+<option value="list_29_74.html">74</option>
+<option value="list_29_75.html">75</option>
+<option value="list_29_76.html">76</option>
+<option value="list_29_77.html">77</option>
+<option value="list_29_78.html">78</option>
+<option value="list_29_79.html">79</option>
+<option value="list_29_80.html">80</option>
+<option value="list_29_81.html">81</option>
+<option value="list_29_82.html">82</option>
+<option value="list_29_83.html">83</option>
+<option value="list_29_84.html">84</option>
+<option value="list_29_85.html">85</option>
+<option value="list_29_86.html">86</option>
+<option value="list_29_87.html">87</option>
+<option value="list_29_88.html">88</option>
+<option value="list_29_89.html">89</option>
+<option value="list_29_90.html">90</option>
+<option value="list_29_91.html">91</option>
+<option value="list_29_92.html">92</option>
+<option value="list_29_93.html">93</option>
+<option value="list_29_94.html">94</option>
+<option value="list_29_95.html">95</option>
+<option value="list_29_96.html">96</option>
+<option value="list_29_97.html">97</option>
+<option value="list_29_98.html">98</option>
+<option value="list_29_99.html">99</option>
+<option value="list_29_100.html">100</option>
+<option value="list_29_101.html">101</option>
+<option value="list_29_102.html">102</option>
+<option value="list_29_103.html">103</option>
+<option value="list_29_104.html">104</option>
+<option value="list_29_105.html">105</option>
+<option value="list_29_106.html">106</option>
+<option value="list_29_107.html">107</option>
+<option value="list_29_108.html">108</option>
+<option value="list_29_109.html">109</option>
+<option value="list_29_110.html">110</option>
+</select>
+<span class="pageinfo">共 <strong>110</strong>页<strong>1639</strong>条</span>
+</ul>
+</p>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt><strong>热门职位推荐</strong></dt>
+<dd class="hotpList">
+<a rel="nofollow" href="/yewu/">销售</a>
+<a rel="nofollow" href="/bianji/">编辑</a>
+<a rel="nofollow" href="/wenziluru/">文员</a>
+<a rel="nofollow" href="/sheji/">平面设计</a>
+<a rel="nofollow" href="/jiaoshi/">教师</a>
+<a rel="nofollow" href="/yiliao/">医生</a>
+<a rel="nofollow" href="/waimaozhuanyuan/">外贸专员</a>
+<a rel="nofollow" href="/kefu/">客服</a>
+<a rel="nofollow" href="/caiwu/">会计</a>
+<a rel="nofollow" href="/qiantai/">前台</a>
+<a rel="nofollow" href="/wangzhanmeigong/">网页制作</a>
+<a rel="nofollow" href="/youerjiaoshi/">幼教</a>
+<a rel="nofollow" href="/hushi/">护士</a>
+<a rel="nofollow" href="/shichang/">市场公关</a>
+<a rel="nofollow" href="/dyao/">导游</a>
+<a rel="nofollow" href="/fanyizhaopin/">翻译</a>
+<a rel="nofollow" href="/zhaopinjingli/">人事专员</a>
+<a rel="nofollow" href="/jishuzhichi/">技术支持</a>
+<a rel="nofollow" href="/jypeixunshi/">培训师</a>
+<a rel="nofollow" href="/lfawurenyuan/">法务专员</a>
+<a rel="nofollow" href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>
+                            栏目推荐
+                        </h2>
+<div class="tuijian"><a class="y1" href="/jianlimoban/">简历模板</a><a class="y2" href="/jianlifengmian/">简历封面</a><a class="y3" href="/qiuzhixin/">求职信</a><a class="y4" href="/ziwopingjia/">自我评价</a><a class="y5" href="/zhizuojiqiao/">制作技巧</a><a class="y6" href="/shenzaizc/">身在职场</a><a class="y7" href="/mianshitiku/">面试题库</a><a class="y1" href="/zijianxin/">自荐信</a><a class="y2" href="/ziwojianding/">自我鉴定</a><a class="y3" href="/ziwojieshao/">自我介绍</a><a class="y4" href="/mianshijiqiao/">面试技巧</a><a class="y5" href="/xinchoufuli/">薪酬福利</a><a class="y3" href="/zj/">总结范文</a><a class="y1" href="/gzzongjie/">工作总结</a><a class="y7" href="/zp/">求职指南</a><a class="y2" href="/sjbg/">社会实践报告</a><a class="y1" href="/zpzt/">求职资讯专题</a></div>
+</div>
+<div class="hot fl">
+<h2>58同城官方微信二维码</h2>
+<ul class="j">
+<a rel="nofollow" target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" height="220" width="220" src="http://www.58.com/zp_images/allimg/131014/qrcode_for_gh_e21b1c81eaab_258.jpg" /> </a>
+<li>功能：职位订阅 精准推送 </li>
+<li>公众号：58同城</li>
+<li>微信号：amazing58</li>
+<li>提示：打开微信，点击底部菜单</li>
+<li>"发现"，选择"扫一扫"功能对准上</li>
+<li>方二维码即可关注。</li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热点排行</h2>
+<ul class="j">
+<li><span class="z1"></span><a href="/ziwojieshao/201205264839.html">自我介绍时注意＂经验＂</a></li>
+<li><span class="z1"></span><a href="/ziwojieshao/201205264914.html">应届生求职面试自我介绍</a></li>
+<li><span class="z1"></span><a href="/ziwojieshao/201205264893.html">2012大学生求职简历自我评</a></li>
+<li><span class="z1"></span><a href="/ziwojieshao/201205267051.html">怎么做英文自我介绍让H</a></li>
+<li><span class="z1"></span><a href="/ziwojieshao/201205269028.html">管理培训生面试自我介绍</a></li>
+<li><span class="z1"></span><a href="/ziwojieshao/2012052612432.html">行政文员面试自我介绍技</a></li>
+<li><span class="z1"></span><a href="/ziwojieshao/2012052617159.html">新毕业生自我介绍</a></li>
+<li><span class="z1"></span><a href="/ziwojieshao/2012052620073.html">播音主持选手的自我介绍</a></li>
+<li><span class="z1"></span><a href="/ziwojieshao/2012052620963.html">自我介绍ppt</a></li>
+<li><span class="z1"></span><a href="/ziwojieshao/2012052651739.html">史上最有趣的自我介绍！</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>推荐阅读</h2>
+<ul class="j">
+<li><a href="/ziwojieshao/201205264841.html" title="" target="_self">专科大学生简历自我介绍</a></li>
+<li><a href="/ziwojieshao/2012052659318.html" title="" target="_self">系统开发毕业生面试的自我介绍</a></li>
+<li><a href="/ziwojieshao/2012052617339.html" title="" target="_self">中英文对照自我介绍的经典语句</a></li>
+<li><a href="/ziwojieshao/20121217125931.html" title="" target="_self">服装设计专业自我介绍范文</a></li>
+<li><a href="/ziwojieshao/20121226126494.html" title="" target="_self">新闻专业留学生自我介绍</a></li>
+<li><a href="/ziwojieshao/2012052610213.html" title="" target="_self">面试简短自我介绍范文</a></li>
+<li><a href="/ziwojieshao/20131209589152.html" title="" target="_self">入职第一次自我介绍</a></li>
+<li><a href="/ziwojieshao/2012052623327.html" title="" target="_self">如何在自我介绍中突出自己</a></li>
+<li><a href="/ziwojieshao/20140409630319.html" title="" target="_self">应聘销售代表自我介绍</a></li>
+<li><a href="/ziwojieshao/20120816124515.html" title="" target="_self">机械专业求职面试自我介绍</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>相关信息</h2>
+<ul class="j">
+<li><a class="red" href="http://www.58.com/ziwojieshao/20130508129919.html" target="_blank">外企面试英语自我介绍</a></li>
+<li><a href="http://www.58.com/ziwojieshao/20130128126831.html" target="_blank">面试时的自我介绍</a></li>
+<li><a href="http://www.58.com/ziwojieshao/201205269492.html" target="_blank">公务员面试自我介绍范文</a></li>
+<li><a href="http://www.58.com/ziwojianding/20130320127685.html" target="_blank">就业推荐表自我鉴定</a></li>
+<li><a href="http://www.58.com/ziwojianding/20130801145117.html" target="_blank">自我鉴定的范文</a></li>
+<li><a href="http://www.58.com/ziwopingjia/20131205578903.html" target="_blank">学生自我评价</a></li>
+<li><a href="http://www.58.com/ziwojianding/20130722144511.html" target="_blank">综合素质的自我鉴定</a></li>
+<li><a href="http://www.58.com/jianlimoban/20120526196.html" target="_blank">临床医学专业个人简历模板</a></li>
+<li><a href="http://www.58.com/jianlimoban/20140103624357.html" target="_blank">中英文个人简历模板</a></li>
+<li><a href="http://www.58.com/jianlimoban/20140106624587.html" target="_blank">实习生简历模板下载</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"> <b style="color:#666666">重点类别推荐：</b> <a href="/jianlimoban/">简历模版</a>|  <a href="/jianlifanwen/">简历范文</a>|  <a href="/qiuzhixin/">求职信</a>|  <a href="/ziwopingjia/">自我评价</a>|  <a href="/zijianxin/">自荐信</a>|  <a href="/ziwojianding/">自我鉴定</a>|  <a href="/ziwojieshao/">自我介绍</a>|  <a href="/zpzt/">求职资讯专题</a></p>
+<div id="flink">
+<strong>
+                            友情链接(qq:395714051)
+                        </strong>
+                        : <a target="_blank" href="http://www.58.com/jianlimoban/">个人简历模板</a> <a target="_blank" href="http://www.58.com/jianlifanwen/">个人简历范文</a>
+<a target="_blank" href="http://m.58.com/w/ziwojieshao/">自我介绍</a>
+<a target="_blank" href="http://www.hztbc.com/news/">职业素养</a> <a target="_blank" href="http://hlbe.offcn.com/">呼伦贝尔人事考试网</a>
+<a target="_blank" href="http://www.dajie.com/corp/">公司点评</a> <a target="_blank" href="http://www.gbs.cn/bangong/">办公文教网</a>
+<a target="_blank" href="http://www.hujiang.com/shixi_s/">实习报告</a> <a target="_blank" href="http://www.m161.cn">西安大象科技</a>
+<a target="_blank" href="http://chengdu.offcn.com/">成都中公教育</a> <a target="_blank" href="http://www.wangxiao.cn/jz1/">一级建造师</a>
+<a target="_blank" href="http://www.liebiao.com/peixun/">教育培训</a>
+</div>
+<div id="footer">
+                        © 58.com
+                        <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">
+                            帮助中心
+                        </a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fabfe72bfdaaf5f8020fded755b5146e4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info'+mod+'/list/';
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+<!--BAIDU_YUNTU_START-->
+<script>
+(function(d, t) {
+    var r = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    r.async = 1;
+    r.src = '//rp.baidu.com/rp3w/3w.js?sid=10275130415331873409&amp;t=' + Math.ceil(new Date/3600000)
+    s.parentNode.insertBefore(r, s);
+})(document, 'script');
+</script>
+<!--BAIDU_YUNTU_END-->
+</body>
+</html>

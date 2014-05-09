@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>联系客服</title>
+<link href="http://static.58.com/ui7/about/css/imgUpload.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://static.58.com/ui7/about/css/cs.css" rel="stylesheet" />
+<script src="http://static.58.com/ui7/about/js/jquery-1.10.2.min.js"></script>
+<script>
+			document.domain = '58.com';
+			function resizeFrame (height) {
+				var frm1 = document.getElementById('frm1');
+				if (frm1) {
+					frm1.style.height = height + 'px';
+				}
+			}			
+		</script>
+</head>
+<body>
+<form id="kefuForm" method="post" action="http://about.58.com/leavewordsubmit">
+<div class="w1000">
+<div class="header">
+<a hidefocus="hidefocus" href="http://www.58.com/"><img src="http://pic2.58.com/ui6/my/images/logo.gif" alt="58同城" height="45" width="160" /></a>
+<span>帮助中心</span>
+</div>
+<ul class="nav">
+<li><a hidefocus="hidefocus" href="http://about.58.com/">首页</a></li>
+<li><a hidefocus="hidefocus" href="http://about.58.com/help.html">常见问题</a></li>
+<li class="current"><a hidefocus="hidefocus" href="http://about.58.com/customerservice.html" style="font-weight:bold;">联系客服</a></li>
+<li><a hidefocus="hidefocus" href="http://about.58.com/feedback.html">网站建议</a></li>
+<li class="guide"><a hidefocus="hidefocus" href="http://about.58.com/fabu.htm">新手入门</a></li>
+</ul>
+</div>
+<div class="w998">
+<dl class="main">
+<dt class="question q1"></dt>
+<dd class="qc">
+<dl class="cate">
+<dt class="subcatetitle">信息问题</dt>
+<dd class="subcate">
+<ul class="subcatelist">
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="1" subcate="7">信息被删除</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="1" subcate="10">信息被返回修改</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="1" subcate="9">信息被判分类不当</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="1" subcate="8">信息不显示/无法刷新</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="4" subcate="18">投诉举报虚假信息</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="4" subcate="19">冒用手机号码</a></li>
+<li class="hint"><a hidefocus="hidefocus" href="javascript:;" ddlcate="4" subcate="20">其他信息冒用</a><div class="tip4"><span>冒用邮箱、账户、实名、营业执照等信息。</span></div></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="4" subcate="27">申诉被投诉</a></li>
+</ul>
+</dd>
+</dl>
+<dl class="cate">
+<dt class="subcatetitle">账户问题</dt>
+<dd class="subcate">
+<ul class="subcatelist">
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="3" subcate="14">账户被冻结</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="2" subcate="11">被判为房产中介</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="2" subcate="12">被判为二手商家</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="2" subcate="13">被判为职介</a></li>
+<li class="hint"><a hidefocus="hidefocus" href="javascript:;" ddlcate="3" subcate="16">更换认证</a><div class="tip4"><span>更换手机、邮箱、实名、营业执照等。</span></div></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="3" subcate="15">找回密码</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="3" subcate="17">账户被盗</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="5" subcate="23">充值问题</a></li>
+</ul>
+</dd>
+</dl>
+<dl class="cate">
+<dt class="subcatetitle">合作及其他</dt>
+<dd class="subcate">
+<ul class="subcatelist">
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="5" subcate="21">合作咨询</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="5" subcate="22">在线增值</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="6" subcate="24">系统问题</a></li>
+<li><a hidefocus="hidefocus" href="javascript:;" ddlcate="6" subcate="26">团购、二手、帮帮等</a></li>
+</ul>
+</dd>
+</dl>
+</dd>
+<dt class="question q2"><div class="tip1"><span></span><i class="x"></i></div><div class="tip2"><span></span><i class="x"></i></div></dt>
+<dd class="qc qc2">
+<table>
+<tr class="infotr">
+<td class="title"><span class="must">*</span>信息编号</td>
+<td class="infocode"><input class="regexp" name="inforid" id="inforid" reg="^\d{6,15}$" type="text" /><a hidefocus="hidefocus" href="http://about.58.com/335.html" target="_blank">如何查看信息编号？</a><span class="errmsg"><i></i>请输入正确的信息编号</span></td>
+</tr>
+<tr class="phonetr">
+<td class="title"><span class="must">*</span>被冒用手机号</td>
+<td class="infocode"><input class="regexp" name="txtPhone2" id="txtPhone2" reg="^\d{11}$" type="text" /><span class="phonetip"><i></i>请按照正确格式输入手机号码信息。</span></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td class="memo"><textarea class="regexp" name="txtContent" id="txtContent" reg="^(.|[\r\n]){15,380}$" maxlength="380" defaultdata="请具体描述您的问题，字数在15-400字" onfocus="if (this.value===this.getAttribute('defaultdata')) {this.value='';}" onblur="if (this.value==='') {this.value=this.getAttribute('defaultdata');}">请具体描述您的问题，字数在15-400字</textarea><span class="errmsg2"><i></i>请具体描述您的问题，字数在15-400字</span></td>
+</tr>
+<tr>
+<td class="title"><span class="must picmust">*</span>上传图片</td>
+<td class="photos">
+<div id="uploadImgcontainer" class="clearfix pre-z"></div>
+<div class="clearfix">
+<span><a hidefocus="hidefocus" class=" fl mr10 w_local" href="javascript:void(0)"><span id="flashContent"></span><span style="z-index:10;display:none!important;"><em></em>按住"Ctrl"可多选</span></a></span>
+<span id="imgUploadError" class="" style="display: none;">
+<span class="c2 f12">
+<span class="action_po">
+<span class="action_po_top">请上传包含相应信息的图片!</span>
+<span class="action_po_bot"></span>
+</span>
+</span>
+</span>
+<span id="upload_Tip" style="z-index:10;display: none;">
+<span class="c2 f12">
+<span class="action_po">
+<span class="action_po_top">上传的图片超过5张会选取前5张图片！</span>
+<span class="action_po_bot"></span>
+</span>
+</span>
+</span>
+<span class="fl f12 c_ccc mr10"><span id="hazupinfo">已上传图片<b class="green mlr2 upnum">0</b>/<b class="c_666 mlr2 maxnum">0</b>，</span>
+<span>最多可上传5张图片，支持：jpg/gif/png格式</span>
+</span>
+<div class="tip3"><span></span><i class="x"></i></div>
+<div class="tip6"><span></span><i class="x"></i></div>
+</div>
+<div style="display:none;" id="imglist">
+<input type="hidden" id="pic" name="pic" value="" />
+<input type="hidden" id="choose_cate_25" name="choose_cate_25" value="0" />
+<input type="hidden" id="select_type_10" name="select_type_10" value="0" />
+</div>
+</td>
+</tr>
+</table>
+</dd>
+<dt class="question q3"></dt>
+<dd class="qc qc3">
+<div class="reply">
+<ul class="tabs">
+<li class="tab1 sel">
+<span>站内信</span>
+<i class="line"></i>
+<i class="line2"></i>
+</li>
+<li class="tab2">
+<span>手机短信</span>
+<i class="line"></i>
+<i class="line2"></i>
+</li>
+</ul>
+<div class="contents">
+<div class="pm">
+<iframe id="frm1" src="login1.html" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="sms">
+<span class="phonetitle">手机号</span>
+<span class="phonetext"><input class="regexp" name="txtPhone" id="txtPhone" reg="^\d{11}$" type="text" /><span class="errmsg3 phonehint">请按照正确格式输入手机号码信息。</span></span>
+</div>
+</div>
+</div>
+</dd>
+</dl>
+<input class="submit" id="btnSubmit" type="button" value="" />
+</div>
+<div class="footer" style="font-size:12px;color:#333;">&copy; 58.com</div>
+<input id="ddlCate" name="ddlCate" type="hidden" value="-1" />
+<input id="subcateid" name="subcateid" type="hidden" value="0" />
+<input id="subCate" name="subCate" type="hidden" value="0" />
+<input id="replyType" name="replyType" type="hidden" value="message" />
+</form>
+<script src="http://static.58.com/ui7/about/js/upimg_.js"></script>
+<script src="http://static.58.com/ui7/about/js/cs.js"></script>
+</body>
+</html>

@@ -1,0 +1,2021 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/hk/zufang" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/hk/zufang" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/hk/zufang" />
+<!--meta部分-->
+<title>【香港租房|香港租房信息】- 香港58同城</title>
+<meta name="keywords" content="香港租房" />
+<meta name="description" content="香港租房网为您提供最新、最真实的香港租房个人信息、香港租房经纪人信息，欢迎您来到58同城香港租房网。" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/fang/list/list-fang.css?v=120140409" media="all" />
+<script type="text/javascript" src="http://pic2.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<script type="text/javascript">document.domain = '58.com';try{var ____json4fe = {"catentry":[{"dispid":"1","name":"房产信息","listname":"house"},{"dispid":"8","name":"租房","listname":"zufang"}],"locallist":[{"dispid":"2050","name":"香港","listname":"hk"}],"start":(new Date()).getTime(),"modules":"list"};____json4fe.version = 'A';____json4fe.smsc = '';____json4fe.modules = 'listpage';}catch(e){};</script>
+<script type="text/javascript" src="http://pic2.58.com/js/require_jquery_load.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/v8/boot/boot_house.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+</head>
+<body>
+<div id="topbar"></div><script type="text/javascript">boot.require('business.topbar', function(Frame, topbar){topbar.init();});</script>
+<header id="header">
+<div class="logo"><a href="http://www.58.com/" target="_blank"><img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" /></a></div>
+<span><a href="http://post.58.com/2050/8/s5" target="_blank" class="postBtn" rel="nofollow"></a></span>
+</header>
+<!-- =E header --><div id="ad_d22"></div>
+<!-- =S content -->
+<!--------------------------------------------------------筛选项------------------------------------------------->
+<!-- =S selection -->
+<section id="selection">
+<div class="nav">
+<a href="/">香港58同城</a><cite></cite><a href="/house.shtml">香港房产信息</a><cite></cite><a href="/zufang/">香港租房</a> </div>
+<script type="text/javascript">
+			function intscrbar(maxsize){
+			if($("#numsort li").length&gt;maxsize){
+				--maxsize;
+				$("#numsort").append($('&lt;a class="more" id="panelctr" href="javascript://" title="更多相关类别"&gt;&lt;/a&gt;'));
+				$("#numsort li:gt("+maxsize+")").each(function(){$(this).hide();});
+				$("#panelctr").toggle(function(){
+					$("#numsort li:gt("+maxsize+")").each(function(){
+						$(this).show();
+					});
+					$("#panelctr").removeClass("more");
+					$("#panelctr").addClass("less");
+					$("#panelctr").attr("title","收起相关类别");
+					$("#numsort li.cur").addClass("nobg")
+				}, function(){
+					$("#numsort li:gt("+maxsize+")").each(function(){
+						$(this).hide();
+					});
+					$("#panelctr").removeClass("less");
+					$("#numsort li.cur").removeClass("nobg")
+					$("#panelctr").addClass("more");
+					$("#panelctr").attr("title","更多相关类别");
+				});
+				}else{return false}
+			}
+			intscrbar(5);
+		</script>
+<script type="text/javascript">
+$(function(){
+	$("#searchtree span[name=cateswitch]").each(function(){
+   		$(this).toggle(function(){
+   			$(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+   		},function(){
+   			$(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+   		});
+   	});
+});
+</script>
+<div class="seltabs">
+<a href="http://hk.58.com/zufang/" class="select"><span>区域/地标</span></a>
+<!-- 
+                &lt;a href="http://hk.58.com/zufang/sub/" &gt;&lt;span&gt;地铁沿线&lt;/span&gt;&lt;/a&gt;
+                &lt;a href="http://hk.58.com/zufang/bus/" &gt;&lt;span&gt;公交线路&lt;/span&gt;&lt;/a&gt;
+                 -->
+</div>
+<div class="relative">
+<dl class="secitem" id="filter_quyu">
+<dt>区域：</dt>
+<dd><a href="/zufang/" class="select">全香港</a>
+<a href="/jiulongcheng/zufang/">九龙城</a>
+<a href="/zhongxi/zufang/">中西</a>
+<a href="/dongqu/zufang/">东区</a>
+<a href="/guantang/zufang/">观塘</a>
+<a href="/wanzai/zufang/">湾仔</a>
+<a href="/shatian/zufang/">沙田</a>
+<a href="/tunmen/zufang/">屯门</a>
+<a href="/quanwan/zufang/">荃湾</a>
+<a href="/huangdaxian/zufang/">黄大仙</a>
+<a href="/lidao/zufang/">离岛</a>
+<a href="/xianggang/zufang/">其它</a>
+</dd>
+</dl>
+<script type="text/javascript">
+$("#selection .subarea .nearsq input:checkbox").click(function(){
+    if(!this.checked)return;
+    var sc = $('#selection .subarea .nearsq input:checkbox[checked]');
+    var count =  sc.length;    
+    if(count &gt; 4) {
+        alert('最多选择4个商圈。');
+        return false;
+    }
+});
+var subsq = function(){
+    boot.require('util.uri', function(Frame, uri){
+		var sc = $('#selection .subarea .nearsq input:checkbox[checked]'),
+			url = new uri(),
+			local = url.path.local;
+		if(local) {
+			local = local.split('_').slice(0,1);
+		} else {
+			local = [];
+		}
+		
+		for(var i = 0, leni = sc.length; i &lt; leni; i ++) {
+			local.push(sc[i].value);
+		}
+		url.path.local = local.join('_');
+		location.href = url.toString();
+	});    
+};
+</script>
+<dl class="secitem"><dt>租金：</dt><dd><a href="http://hk.58.com/zufang/" class="select">不限</a>
+<a href="/zufang/b1/">500元以下</a>
+<a href="/zufang/b2/">500-1000元</a>
+<a href="/zufang/b3/">1000-1500元</a>
+<a href="/zufang/b4/">1500-2000元</a>
+<a href="/zufang/b5/">2000-3000元</a>
+<a href="/zufang/b6/">3000-4500元</a>
+<a href="/zufang/b7/">4500元以上</a>
+<span class="prifilter"><span class="text text2"><input type="text" para="minprice" muti="1" min="0" max="999999" onkeyup="cknum(this)" name="b_q" /></span><span class="dev"> - </span><span class="text text2"><input type="text" para="minprice" muti="1" min="0" max="999999" onkeyup="cknum(this)" name="b_q" /></span><span class="dev"> 元 </span><span class="btn btn2" style="display:none"><input type="button" value="价格筛选" onclick="b_query()" /></span></span></dd></dl>
+<script type="text/javascript">
+var mutexs = [{searchitem:/b\d+/, params:["minprice"], searthname:'租金'}];
+boot.require('util.uri', function(Frame, uri){
+for(var i = 0, leni = mutexs.length; i &lt; leni; i ++) {
+    var mutex = mutexs[i];
+    var pobj = {};
+    for(var j = 0, lenj = mutex.params.length; j &lt; lenj; j ++) {
+        pobj[mutex.params[j]] = null;
+    }
+    
+    for(var l = 0, lenl = mutex.params.length; l &lt; lenl; l ++) {
+        var pitem = $("#selection .secitem dt:contains("+mutex.searthname+")").parent();
+        if(window.location.search.indexOf(mutex.params[l]) != -1) {
+            pitem.find(".select").removeClass("select");
+        }
+        
+        pitem.find("a").each(function(){
+            var o = {};
+            o[mutex.params] = null;
+            this.href = (new uri(this.href)).setQuery(o);
+        });
+    }
+}
+});
+</script>
+<script type="text/javascript">
+jQuery(".prifilter input:text").click(function() {
+    jQuery(".prifilter input:button").parent().show();
+	return false;
+});
+jQuery(".prifilter input:button").click(function(){
+	return false;
+});
+jQuery(document.body).click(function(){
+	jQuery(".prifilter input:button").parent().hide();
+});
+</script>
+<dl class="secitem"><dt>厅室：</dt><dd><a href="http://hk.58.com/zufang/" class="select">不限</a>
+<a href="/zufang/j1/">一室</a>
+<a href="/zufang/j2/">两室</a>
+<a href="/zufang/j3/">三室</a>
+<a href="/zufang/j4/">四室</a>
+<a href="/zufang/j5/">四室以上</a>
+</dd></dl>
+<dl class="secitem" id="filter_fangshi">
+<dt>方式：</dt>
+<dd>
+<a href="/chuzu/">不限</a>
+<a class="select">整套出租</a>
+<a href="/hezu/">单间出租</a>
+<a href="/hezu/g2/">床位出租</a>
+</dd>
+</dl>
+<script type="text/javascript">
+	$(function(){
+		showpinpaihouse();
+		//品牌房源筛选
+		function showpinpaihouse(){    
+	        var showpinpai = $("#ispinpai");    
+	        if(showpinpai){    
+	            // 选中品牌房源 
+	            if(location.search.indexOf("param9310=1")&gt;-1){    
+	            	showpinpai.attr("checked","true");    
+	            }    
+	            showpinpai.click(function() {    
+	                var pinpai = "param9310=1",url = location.href;    
+	                if(showpinpai.attr("checked")) {    
+	                    var sUpara = "";    
+	                    if(url.indexOf(pinpai) == -1){    
+	                        sUpara = url.indexOf("?")== -1 ? "?" : "&amp;";    
+	                        location.href = url.replace(/pn\d+\//i,"")+sUpara+pinpai;    
+	                    }    
+	                }else{    
+	                    if (url.indexOf(pinpai) != -1) {    
+	                        if (url.indexOf("?param9310=1&amp;") != -1) {    
+	                            url = url.replace("param9310=1&amp;", "");    
+	                        }
+	                        url = url.replace("?param9310=1", "").replace("&amp;param9310=1", "").replace("param9310=1", "");
+	                        location.href = url.replace(/pn\d+\//i,"");    
+	                    }    
+	                }    
+	        
+	            });    
+	        }    
+	    }
+		
+	});
+</script>
+<div id="SearchForm">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<input class="keyword c_000" id="keyword1" onkeyup="win1.GetContentData();" value="" maxlength="40" name="b_q" para="key" autocomplete="off" />
+<span class="sbtn" onmouseover="this.className='sbtn hover'" onmouseout="this.className='sbtn'"><input id="searchbtn1" name="" type="submit" class="atcate" value="搜本类" /></span>
+<span class="sbtn" onmouseover="this.className='sbtn hover'" onmouseout="this.className='sbtn'"><input name="" type="button" class="global" value="搜全站" onclick="b_query_all()" /></span>
+</form>
+</div>
+</div>
+<div id="selected" class="bar"></div>
+<div class="line-x"> </div>
+</section>
+<!-- =E selection --> <!--------------------------------------------------------页面的主体部分，包括智能广告和信息列表等----------------------------->
+<!-- =S category -->
+<section id="category">
+<div class="tabsbar">
+<div class="list-tabs">
+<a onclick="javascript:clickLog('from=zufang_allTab&amp;local=2050&amp;url=http://hk.58.com/zufang/&amp;datetime=2014-05-09 15:42:09&amp;rand=0.6969856830285789');_gaq.push(['pageTracker._trackEvent', 'list', 'click','zufang_allTab_2050']);" title="香港租房" class="sel" href="/zufang/">
+<span>
+<h1>
+                            香港租房
+                        </h1>
+</span>
+</a>
+<a title="个人" onclick="javascript:clickLog('from=zufang_personalTab&amp;local=2050&amp;url=http://hk.58.com/zufang/&amp;datetime=2014-05-09 15:42:09&amp;rand=0.8035882998232587');_gaq.push(['pageTracker._trackEvent', 'list', 'click','zufang_personalTab_2050']);" href="/zufang/0/">
+<span>个人</span>
+</a>
+<a title="经纪人" onclick="javascript:clickLog('from=zufang_mediumTab&amp;local=2050&amp;url=http://hk.58.com/zufang/&amp;datetime=2014-05-09 15:42:09&amp;rand=0.35389554236605614');_gaq.push(['pageTracker._trackEvent', 'list', 'click','zufang_mediumTab_2050']);" href="/zufang/1/">
+<span>经纪人</span>
+</a>
+</div>
+<div class="cxfy-tc" style="display:none;margin-top:-6px;left:340px;">
+<i></i>
+<p>
+<b>诚信房源：</b>
+        房源待租、真实价格、实拍照片、如实描述，凡通过诚信房源找房，因为被骗而蒙受经济损失， 可申请获得58先行赔付的保证金。<a href="http://baozhang.58.com/" target="_blank">申请赔付 &gt;&gt;</a>
+</p>
+</div>
+</div>
+<!-- Start main-->
+<div class="main">
+<div id="infolist">
+<div class="filterbar">
+<table class="tbfilter" cellpadding="0" cellspacing="0">
+<col />
+<col class="wjg" />
+<col class="wdate" />
+<tr>
+<td>
+<span class="checkbox"><input name="" type="checkbox" value="" id="ispic" onclick="click_Ispic(this)" /><label for="ispic">只看有图</label></span>
+<span class="checkbox"><input type="checkbox" id="isonline" /><label for="isonline">帮帮在线</label></span>
+<div class="sortBlock">
+<p>
+<a class="sortDefault" href="javascript:void(0)">
+<span></span>
+<s></s>
+</a>
+</p>
+<div class="sortList"></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<style>
+    .no-result {
+    background: #ffc;
+    line-height: 20px;
+    padding: 10px 0 10px 20px;
+    font-size: 12px;
+    }
+</style>
+<!--在诚信房源专区下，搜索无结果后，显示以下内容 （ 诚信房源复用此commoninfonormal显示） http://list.58.com/bj/zufang/?final=1&amp;key=%E5%98%89%E9%93%AD%E6%A1%90%E5%9F%8E%E4%BD%BF%E5%BE%97%E5%99%B6%E8%BF%98%E6%98%AF.&amp;trace=20130730&amp;isreal=true-->
+<!--非诚信房源专区下，搜索无结果$allinfo-->
+<!----------------------------------------类别搜相关 结束------------------------------------------><div id="top_google_ad"></div>
+<table class="tbimg" cellpadding="0" cellspacing="0">
+<colgroup>
+<col class="wimg" />
+<col />
+<col class="wrentm" />
+</colgroup>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17864780962566_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17864780962566x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="香港九龙黄竹" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17864780962566x.shtml" target="_blank" class="t">香港九龙黄竹 1室0厅26平米 中等装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">香港九龙黄竹租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">7500</b> 元/月
+    	<br />
+<span class="showroom">1室0厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17825593418371_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17825593418371x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="太子近长沙湾" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17825593418371x.shtml" target="_blank" class="t">太子近长沙湾 1室0厅27平米 中等装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">太子近长沙湾租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">7500</b> 元/月
+    	<br />
+<span class="showroom">1室0厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_22989139817735_17824182800646_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>5 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17824182800646x.shtml" target="_blank">
+<img src="http://4.pic.58control.cn/p1/tiny/n_s02244217799036065104.jpg" alt="聚康山庄 2" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17824182800646x.shtml" target="_blank" class="t">聚康山庄 2室1厅430平米 精装修 押二付一</a>
+<span name="zaixian_22989139817735"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/tunmen/zufang/" class="a_xq1"> 屯门</a>
+                                                    - <span class="f12">聚康山庄租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">周先生</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">9300</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17853722431752_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17853722431752x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="香港九龙黄竹" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17853722431752x.shtml" target="_blank" class="t">香港九龙黄竹 2室1厅25平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">香港九龙黄竹租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">6500</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_22991413520390_17825260249991_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17825260249991x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="招淘宝员30" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17825260249991x.shtml" target="_blank" class="t">招淘宝员30-50元/小时.工姿即时结3d</a>
+<span name="zaixian_22991413520390"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/dongqu/zufang/" class="a_xq1"> 东区</a>
+                                                    - <span class="f12">建欣苑xp租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">卒先生</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">2000</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="p_0_23020414949382_17863906162825_0_0_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>10 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17863906162825x.shtml" target="_blank">
+<img src="http://2.pic.58control.cn/p1/tiny/n_s02249300736756361103.jpg" alt="上环舒适一室" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17863906162825x.shtml" target="_blank" class="t">上环舒适一室 1室1厅36平米 豪华装修 押一付一</a>
+<span class="qj-renttitgr">(个人)</span>
+<span name="zaixian_23020414949382"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">上环舒适一室租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>个人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">阿抱</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">4500</b> 元/月
+    	<br />
+<span class="showroom">1室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_15389499641351_17864290602502_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17864290602502x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="便宜出租,东" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17864290602502x.shtml" target="_blank" class="t">便宜出租,东利大厦 1室1厅35平米 精装修,求好房</a>
+<span name="zaixian_15389499641351"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">东利大厦租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">王小姐</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">8600</b> 元/月
+    	<br />
+<span class="showroom">1室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_8525167602694_17870401443846_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17870401443846x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="溱林 4室2" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17870401443846x.shtml" target="_blank" class="t">溱林 4室2厅72平米 精装修 押一付二</a>
+<span name="zaixian_8525167602694"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zufang/" class="a_xq1"> 香港</a>
+                                                    - <span class="f12">溱林租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">杨小姐</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">26000</b> 元/月
+    	<br />
+<span class="showroom">4室2厅3卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="p_0_9343530760455_17843165058951_0_0_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>9 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17843165058951x.shtml" target="_blank">
+<img src="http://4.pic.58control.cn/p1/tiny/n_s12246646604827622114.jpg" alt="香港岛西环水" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17843165058951x.shtml" target="_blank" class="t">香港岛西环水街 2室1厅海景电梯洋房 整租单间租皆可</a>
+<span class="qj-renttitgr">(个人)</span>
+<span name="zaixian_9343530760455"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">香港岛西环水租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>个人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">李小姐</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">11000</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17809680449925_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17809680449925x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="太子日本组合" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17809680449925x.shtml" target="_blank" class="t">太子日本组合 1室0厅25平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">太子日本组合租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">4900</b> 元/月
+    	<br />
+<span class="showroom">1室0厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17847398848769_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17847398848769x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="香港九黄竹街" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17847398848769x.shtml" target="_blank" class="t">香港九黄竹街 2室1厅26平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">香港九黄竹街租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">6200</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="p_0_23020414949382_17863951821827_0_0_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>15 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17863951821827x.shtml" target="_blank">
+<img src="http://3.pic.58control.cn/p1/tiny/n_s12249305384519255043.jpg" alt="湾仔不错的平" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17863951821827x.shtml" target="_blank" class="t">湾仔不错的平 1室1厅45平米 豪华装修 押一付一</a>
+<span class="qj-renttitgr">(个人)</span>
+<span name="zaixian_23020414949382"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zufang/" class="a_xq1"> 香港</a>
+                                                    - <span class="f12">湾仔不错的平租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>个人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">阿抱</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">6500</b> 元/月
+    	<br />
+<span class="showroom">1室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_22559984081926_17823649490435_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>1 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17823649490435x.shtml" target="_blank">
+<img src="http://2.pic.58control.cn/p1/tiny/n_s12244150012086252076.jpg" alt="香港 3室1" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17823649490435x.shtml" target="_blank" class="t">香港 3室110平米 押一付三</a>
+<span name="zaixian_22559984081926"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zufang/" class="a_xq1"> 香港</a>
+                                                    - <span class="f12">香港租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">李生</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">800</b> 元/月
+    	<br />
+<span class="showroom">3室2卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17836309224070_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17836309224070x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="荔枝角北河街" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17836309224070x.shtml" target="_blank" class="t">荔枝角北河街 1室1厅24平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">荔枝角北河街租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">5400</b> 元/月
+    	<br />
+<span class="showroom">1室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17864718121992_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17864718121992x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="香港九龙旺角" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17864718121992x.shtml" target="_blank" class="t">香港九龙旺角 1室0厅15平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">香港九龙旺角租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">5000</b> 元/月
+    	<br />
+<span class="showroom">1室0厅</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_22559984081926_17840552201353_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>1 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17840552201353x.shtml" target="_blank">
+<img src="http://1.pic.58control.cn/p1/tiny/n_s12246313432581283014.jpg" alt="香港 3室1" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17840552201353x.shtml" target="_blank" class="t">香港 3室1厅100平米 精装修 押一付一</a>
+<span name="zaixian_22559984081926"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/quanwan/zufang/" class="a_xq1"> 荃湾</a>
+                                                    - <span class="f12">香港租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">李生</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">1000</b> 元/月
+    	<br />
+<span class="showroom">3室1厅2卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17825667199362_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17825667199362x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="旺角弥敦道洋" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17825667199362x.shtml" target="_blank" class="t">旺角弥敦道洋 1室0厅12平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">旺角弥敦道洋租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">4600</b> 元/月
+    	<br />
+<span class="showroom">1室0厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="p_0_23020414949382_17853261556357_0_0_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>8 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17853261556357x.shtml" target="_blank">
+<img src="http://3.pic.58control.cn/p1/tiny/n_s12247926021046621013.jpg" alt="湾仔区 1室" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17853261556357x.shtml" target="_blank" class="t">湾仔区 1室1厅30平米 豪华装修 押一付一</a>
+<span class="qj-renttitgr">(个人)</span>
+<span name="zaixian_23020414949382"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/wanzai/zufang/" class="a_xq1"> 湾仔</a>
+                                                    - <span class="f12">湾仔区租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>个人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">阿抱</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">3600</b> 元/月
+    	<br />
+<span class="showroom">1室1厅</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17809640467202_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17809640467202x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="香港九龙太子" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17809640467202x.shtml" target="_blank" class="t">香港九龙太子 2室1厅34平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">香港九龙太子租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">9400</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_22559984081926_17858914791303_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>1 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17858914791303x.shtml" target="_blank">
+<img src="http://1.pic.58control.cn/p1/tiny/n_s02248663905421291063.jpg" alt="中西 3室1" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17858914791303x.shtml" target="_blank" class="t">中西 3室1厅100平米 精装修 押一付一</a>
+<span name="zaixian_22559984081926"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">中西租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">李生</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">800</b> 元/月
+    	<br />
+<span class="showroom">3室1厅2卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17809523830913_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17809523830913x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="香港九龙近南" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17809523830913x.shtml" target="_blank" class="t">香港九龙近南 2室1厅45平米 精装修 押二付三</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">香港九龙近南租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">14000</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17853759278218_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17853759278218x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="太子黄竹街平" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17853759278218x.shtml" target="_blank" class="t">太子黄竹街平 2室1厅23平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">太子黄竹街平租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">5500</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_10367192323846_17504771107713_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>12 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17504771107713x.shtml" target="_blank">
+<img src="http://3.pic.58control.cn/p1/tiny/n_s02214593659325291106.jpg" alt="特价短期租住" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17504771107713x.shtml" target="_blank" class="t">特价短期租住房 旅游待产读书办证首选</a>
+<span name="zaixian_10367192323846"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zufang/" class="a_xq1"> 香港</a>
+                                                    - <span class="f12">太子地铁站租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">红姐</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">5000</b> 元/月
+    	<br />
+<span class="showroom">1室1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17847499251843_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17847499251843x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="九龙南昌街荔" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17847499251843x.shtml" target="_blank" class="t">九龙南昌街荔 3室1厅49平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">九龙南昌街荔租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">12500</b> 元/月
+    	<br />
+<span class="showroom">3室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17825539775112_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17825539775112x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="旺角唐八楼2" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17825539775112x.shtml" target="_blank" class="t">旺角唐八楼2 2室1厅43平米 中等装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">旺角唐八楼2租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">8300</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_25895554_17822189460994_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17822189460994x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="2014年8" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17822189460994x.shtml" target="_blank" class="t">2014年8月份房屋预租</a>
+<span name="zaixian_25895554"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/jiulongcheng/zufang/" class="a_xq1"> 九龙城</a>
+                                                    - <span class="f12">香港 九龙 租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">郑先生</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">4500</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="p_0_12690690209542_15492647624326_0_0_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>23 图</span>
+</span>
+<a href="http://hk.58.com/zufang/15492647624326x.shtml" target="_blank">
+<img src="http://3.pic.58control.cn/p1/tiny/n_s11945787065517591.jpg" alt="酒店式公寓." />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/15492647624326x.shtml" target="_blank" class="t">酒店式公寓.特價賓館.香港怡家酒店長短租 200 元</a>
+<span class="qj-renttitgr">(个人)</span>
+<span name="zaixian_12690690209542"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zufang/" class="a_xq1"> 香港</a>
+                                                    - <span class="f12">九龙旺角弥道租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>个人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">王小姐</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">200</b> 元/月
+    	<br />
+<span class="showroom">2室1厅2卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="p_0_19102363329031_17748748298882_0_0_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>6 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17748748298882x.shtml" target="_blank">
+<img src="http://1.pic.58control.cn/p1/tiny/n_s02234560974327650143.jpg" alt="湾仔地铁口海" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17748748298882x.shtml" target="_blank" class="t">湾仔地铁口海源中心2室HKD13000家具电器齐全无</a>
+<span class="qj-renttitgr">(个人)</span>
+<span name="zaixian_19102363329031"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/wanzai/zufang/" class="a_xq1"> 湾仔</a>
+                                                    - <span class="f12">湾仔地铁站海租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>个人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">王国欢</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">13000</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17864883739914_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17864883739914x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="香港九龙南昌" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17864883739914x.shtml" target="_blank" class="t">香港九龙南昌 3室1厅59平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">香港九龙南昌租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">12500</b> 元/月
+    	<br />
+<span class="showroom">3室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17836237269765_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17836237269765x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="香港九龙深水" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17836237269765x.shtml" target="_blank" class="t">香港九龙深水 3室1厅71平米 中等装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">香港九龙深水租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">12800</b> 元/月
+    	<br />
+<span class="showroom">3室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="p_0_22282265093638_17847565362439_0_0_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>4 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17847565362439x.shtml" target="_blank">
+<img src="http://1.pic.58control.cn/p1/tiny/n_s02247201046970935013.jpg" alt="马鞍山海澄轩" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17847565362439x.shtml" target="_blank" class="t">马鞍山海澄轩 2室1厅80平米 押一付一</a>
+<span class="qj-renttitgr">(个人)</span>
+<span name="zaixian_22282265093638"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/shatian/zufang/" class="a_xq1"> 沙田</a>
+                                                    - <span class="f12">马鞍山海澄轩租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>个人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">刘先生</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">17500</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_2721113062150_17673318500097_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>11 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17673318500097x.shtml" target="_blank">
+<img src="http://2.pic.58control.cn/p1/tiny/n_s02224903725155212004.jpg" alt="大学生公寓," />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17673318500097x.shtml" target="_blank" class="t">大学生公寓, 到理大、城大、浸大只需5分钟</a>
+<span name="zaixian_2721113062150"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zufang/" class="a_xq1"> 香港</a>
+                                                    - <span class="f12">油麻地地铁B租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">尹先生</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">3800</b> 元/月
+    	<br />
+<span class="showroom">1室0厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17847423960201_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17847423960201x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="太子黄竹街平" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17847423960201x.shtml" target="_blank" class="t">太子黄竹街平 2室1厅23平米 精装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">太子黄竹街平租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">5300</b> 元/月
+    	<br />
+<span class="showroom">2室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13204284821766_17836281336967_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<a href="http://hk.58.com/zufang/17836281336967x.shtml" target="_blank">
+<img src="http://pic2.58.com/n/images/list/noimg.gif" alt="九龙太子唐八" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17836281336967x.shtml" target="_blank" class="t">九龙太子唐八 3室1厅71平米 中等装修 押二付一</a>
+<span name="zaixian_13204284821766"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/zhongxi/zufang/" class="a_xq1"> 中西</a>
+                                                    - <span class="f12">九龙太子唐八租房...</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">云云</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">8000</b> 元/月
+    	<br />
+<span class="showroom">3室1厅1卫</span>
+<br />
+</td>
+</tr>
+<!--诚信房源/推送信息(精品信息)/21天以内的补充信息-->
+<tr logr="j_1_13119599_17847486317448_3_1_ses^def^0">
+<td class="img">
+<div class="img_list">
+<span class="img_picCount">
+<span class="img_picCountOpacity"></span>
+<span>4 图</span>
+</span>
+<a href="http://hk.58.com/zufang/17847486317448x.shtml" target="_blank">
+<img src="http://2.pic.58control.cn/mobile/tiny/n_s12247200464863643014.jpg" alt="水电网全包，" />
+</a>
+</div>
+</td>
+<td class="t qj-rentd">
+<h1>
+<a href="http://hk.58.com/zufang/17847486317448x.shtml" target="_blank" class="t">水电网全包，太子 地铁拎包入住全新豪华装修1室0厅1</a>
+<span name="zaixian_13119599"></span>
+<i class="clear"></i>
+</h1>
+<p class="qj-renaddr">
+<a href="/jiulongcheng/zufang/" class="a_xq1"> 九龙城</a>
+                                                    - <span class="f12">太子租房</span>
+<span>/</span>
+							今天
+						    	</p>
+<p class="qj-rendp">
+<span class="qj-listjjr">
+<span class="geren"></span>
+<label>经纪人：</label>
+<a class="qj-lijjrname" target="_blank" onclick="javascript:clickLog('from=fc_list_pxjjr');">刘小姐</a>
+</span>
+</p>
+</td>
+<td>
+<b class="pri">6000</b> 元/月
+    	<br />
+<span class="showroom">1室0厅1卫</span>
+<br />
+</td>
+</tr>
+</table>
+<div id="bottom_google_ad"></div>
+<div class="pager"> <strong><span>1</span></strong><a href="/zufang/pn2/"><span>2</span></a><a href="/zufang/pn3/"><span>3</span></a><a href="/zufang/pn4/"><span>4</span></a><a href="/zufang/pn5/"><span>5</span></a><a href="/zufang/pn6/"><span>6</span></a><a href="/zufang/pn7/"><span>7</span></a><a href="/zufang/pn8/"><span>8</span></a><a href="/zufang/pn9/"><span>9</span></a><a href="/zufang/pn10/"><span>10</span></a><a href="/zufang/pn11/"><span>11</span></a><a href="/zufang/pn12/"><span>12</span></a><a class="next" href="/zufang/pn2/"><span>下一页</span></a></div>
+<div id="bottom_zhaoshangjiameng_ad"></div> </div>
+<div id="rightframe" class="cright">
+<div id="ad19"></div>
+</div>
+<div class="cl"></div>
+</div>
+<!--end main-->
+</section>
+<!-- =E category -->
+<!------------------------------------------------------底部的碎片-------------------------------------------------->
+<!-------------------------------诚信经纪人----------------------------------------------->
+<div id="direct_ad_bottom"></div>
+<!------------------------------频道页介绍------------------------------------------------>
+<section id="categorySearch">
+<div class="xb-all">
+<div class="box-xb">
+<div class="xb-xgxx-js">
+<div class="box-145">
+<h2>香港租房频道介绍：</h2>
+</div>
+<div class="box-813">
+                    58同城香港租房频道为您提供最新香港租房信息，每天有几十万条香港个人租房、经纪人租房信息更新，人工审核真实有效，欢迎您使用58同城香港租房频道。手机版请点击<a href="http://m.58.com/hk/zufang">香港租房</a>
+</div>
+<div class="cl"></div>
+</div>
+<!--------------------------热门小区----------------------------------------------------->
+<!-----------------------------------沿线相关的部分------------------------------------------------------->
+<div class="xb-xgxx" id="relate">
+<div class="box-145">
+<h2>香港租房相关：</h2>
+</div>
+<div class="box-813"> <span>
+<a href="/zufang/jh_%E9%A6%99%E6%B8%AF%E7%9F%AD%E7%A7%9F/" target="_blank">香港短租</a>
+</span>
+<span>
+<a href="/zufang/jh_%E9%A6%99%E6%B8%AF%E7%A7%9F%E6%88%BF%E5%8D%95%E9%97%B4/" target="_blank">香港租房单间</a>
+</span>
+<span>
+<a href="/zufang/jh_%E9%A6%99%E6%B8%AF%E5%87%BA%E7%A7%9F/" target="_blank">香港出租</a>
+</span>
+<span>
+<a href="/zufang/jh_%E7%AC%AC%E4%B8%80%E5%9F%8E%E7%A7%9F%E6%88%BF/" target="_blank">第一城租房</a>
+</span>
+<span>
+<a href="/zufang/jh_%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%BA%AD%E5%85%AC%E5%AF%93/" target="_blank">香港家庭公寓</a>
+</span>
+<span>
+<a href="/zufang/jh_%E9%A6%99%E6%B8%AF%E6%88%BF%E5%B1%8B%E5%87%BA%E7%A7%9F/" target="_blank">香港房屋出租</a>
+</span>
+<span>
+<a href="/zufang/jh_%E9%A6%99%E6%B8%AF%E6%88%BF%E5%B1%8B%E7%9F%AD%E7%A7%9F/" target="_blank">香港房屋短租</a>
+</span>
+<span>
+<a href="/zufang/jh_%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E7%A7%9F%E6%88%BF/" target="_blank">香港旺角租房</a>
+</span>
+<span>
+<a href="/zufang/jh_%E9%A6%99%E6%B8%AF%E6%9C%88%E7%A7%9F%E6%88%BF/" target="_blank">香港月租房</a>
+</span>
+<span>
+<a href="/zufang/jh_%E9%A6%99%E6%B8%AF%E9%85%92%E5%BA%97%E5%85%AC%E5%AF%93/" target="_blank">香港酒店公寓</a>
+</span>
+</div>
+<div class="cl"></div>
+</div>
+<!-------------------------------------周边城市---------------------------------------------->
+<div class="xb-xgxx-zb">
+<div class="box-145">
+<h2>香港租房周边城市：</h2>
+</div>
+<div class="box-813">
+<span>
+<a target="_blank" href="http://gz.58.com/zufang/">广州租房</a>
+</span>
+<span>
+<a target="_blank" href="http://zh.58.com/zufang/">珠海租房</a>
+</span>
+<span>
+<a target="_blank" href="http://dg.58.com/zufang/">东莞租房</a>
+</span>
+<span>
+<a target="_blank" href="http://st.58.com/zufang/">汕头租房</a>
+</span>
+<span>
+<a target="_blank" href="http://zs.58.com/zufang/">中山租房</a>
+</span>
+<span>
+<a target="_blank" href="http://huizhou.58.com/zufang/">惠州租房</a>
+</span>
+<span>
+<a target="_blank" href="http://jm.58.com/zufang/">江门租房</a>
+</span>
+<span>
+<a target="_blank" href="http://sg.58.com/zufang/">韶关租房</a>
+</span>
+<span>
+<a target="_blank" href="http://zhanjiang.58.com/zufang/">湛江租房</a>
+</span>
+</div>
+<div class="cl"></div>
+</div>
+<!-------------------------------------友情链接---------------------------------------------->
+<div class="xb-xgxx-link">
+<div class="box-145">
+<h2>友情链接：</h2>
+</div>
+<div class="box-813-link">
+<div style="display:block"><a href="http://hk.taofang.com/zufang/" target="_blank">香港租房</a>&nbsp;<a href="http://www.kuailezu.com/xianggang/" target="_blank">香港短租房</a>&nbsp;<a href="http://duanzu.zhuna.cn/xianggang/" target="_blank">香港日租房</a>&nbsp;<a href="http://www.bj-officerent.com/" target="_blank">北京写字楼信息大全网</a>&nbsp;<a href="http://www.youtx.com/hongkong/" target="_blank">香港日租房</a>&nbsp;<a href="http://fang.99fang.com/jiujiang/" target="_blank">九江租房</a>&nbsp;<a href="http://huaihua.liebiao.com/fang/" target="_blank">怀化房产网</a>&nbsp;<a href="http://guangzhou.qwjian.com/s" target="_blank">广州二手房</a>&nbsp;<a href="http://wh.newhouse.com.cn/" target="_blank">芜湖房地产</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></div>
+</div>
+<div class="cl"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- =E categorySearch --> <!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+</body>
+<script type="text/javascript">document.write('&lt;scri'+'pt src="http://track.58.com/adsys/ggafs?r=' + Math.random() + '"&gt;&lt;/scri'+'pt&gt;');</script>
+<!------------------------------------------------------底部的js-------------------------------------------------->
+<script type="text/javascript">
+	document.domain = '58.com';
+	win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '1|2','2050','');
+	win1.setSearchButton('searchbtn1');
+	boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'hk');}); 
+</script>
+<script type="text/javascript">
+//加载topbar
+boot.require('business.topbar', function(Frame, topbar){topbar.init();});
+
+//绑定搜索框输入提示
+win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '1|2','2050','');
+win1.setSearchButton('searchbtn1');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'hk');});
+
+$("#searchtree span[name=cateswitch]").each(function(){
+	$(this).toggle(function(){
+		$(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+	},function(){
+		$(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+	});
+});
+
+
+
+//附近商圈
+var alldt = $("#hotarea dt");
+function showNear(dt){
+    alldt.each(function(){
+        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+        else {$(this).next("dd").hide();$(this).removeClass("select");}
+    });
+}
+alldt.each(function(){
+    $(this).click(function(){showNear(this);}).hover(function(){showNear(this);});
+});
+showNear(alldt[0]);
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+$(".selector").each(function(){
+	$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+
+var mutexs = [{searchitem:/b\d+/, params:["minprice"], searthname:'租金'}];
+boot.require('util.uri', function(Frame, uri){
+for(var i = 0, leni = mutexs.length; i &lt; leni; i ++) {
+    var mutex = mutexs[i];
+    var pobj = {};
+    for(var j = 0, lenj = mutex.params.length; j &lt; lenj; j ++) {
+        pobj[mutex.params[j]] = null;
+    }
+    
+    for(var l = 0, lenl = mutex.params.length; l &lt; lenl; l ++) {
+        var pitem = $("#selection .secitem dt:contains("+mutex.searthname+")").parent();
+        if(window.location.search.indexOf(mutex.params[l]) != -1) {
+            pitem.find(".select").removeClass("select");
+        }
+        
+        pitem.find("a").each(function(){
+            var o = {};
+            o[mutex.params] = null;
+            this.href = (new uri(this.href)).setQuery(o);
+        });
+    }
+}
+});
+
+//事件绑定
+var dom_events = {
+	'.list-moshi .list-datu-on':{
+		fun:function(){_gaq.push(['pageTracker._trackEvent', 'list', 'tuwenzhanshi_btn_click', '/hk/house/zufang/']);}
+	}	
+	,'.list-moshi .list-wenben':{
+		fun:function(){_gaq.push(['pageTracker._trackEvent', 'list', 'wenbenzhanshi_btn_click', '/hk/house/zufang/']);}
+	}
+	,'#tosq .tosqa a':{
+		fun:function(){_gaq.push(['pageTracker._trackEvent', 'list', 'shangquanzhidan_btn_click', '/hk/house/zufang/']);}
+	}
+	,'#keyword1':{
+		evt:'keyup',
+		fun:function(){win1.GetContentData();}
+	}
+	,'.sbtn':{
+		evt:'mouseover',
+		fun:function(){$(this).addClass('hover');}
+	}
+	,'.sbtn':{
+		evt:'mouseout',
+		fun:function(){$(this).removeClass('hover');}
+	}
+	,'#searchsite':{
+		fun:b_query_all
+	}
+	,'#selection .subarea .nearsq input:checkbox':{
+		fun:function(){
+		    if(!this.checked)return;
+		    var sc = $('#selection .subarea .nearsq input:checkbox[checked]');
+			var maxsq = 4;  
+		    if(sc.length &gt; maxsq) {
+		        alert('最多选择'+maxsq+'个商圈。');
+		        return false;
+		    }
+		}
+	}
+	,'#queryconfirm':{
+		fun:function(){
+		    boot.require('util.uri', function(Frame, uri){
+				var sc = $('#selection .subarea .nearsq input:checkbox[checked]'),
+					url = new uri(),
+					local = url.path.local;
+				if(local) {
+					local = local.split('_').slice(0,1);
+				} else {
+					local = [];
+				}
+				
+				for(var i = 0, leni = sc.length; i &lt; leni; i ++) {
+					local.push(sc[i].value);
+				}
+				url.path.local = local.join('_');
+				location.href = url.toString();
+			});  
+		}
+	}
+	,'#tosq&gt;.tosqa':{
+		fun:function(event){
+		    if($("#tosq").hasClass('tosqhover')) $("#tosq").removeClass('tosqhover');
+		    else {
+		    	$("#tosq").addClass('tosqhover');
+		    	$("#areazf dd:gt(0)").hide();
+		    	$("#areazf dt").removeClass('select');
+		    	$("#areazf dt:eq(0)").addClass('select');
+		    }
+		    event.stopPropagation();
+		}
+	}
+	,'.prifilter input:text':{
+		fun:function(event){
+			$('#pricefilter').show();
+			$('#pricefilter input:button').bind('click', function(){b_query();});
+			event.stopPropagation();
+		}
+	}
+	,'.prifilter input[name="b_q"]':{
+		evt:'keyup',
+		fun:function(){cknum(this);}
+	}
+	,'#textshow':{
+		fun:function(){g2({selpic:1});return false;}
+	}
+	,'#ispic':{
+		fun:function(){click_Ispic(this);}
+	}
+			};
+
+$.each(dom_events, function(key, value){
+	if(!value.evt){
+		value.evt = 'click';
+	}
+	$(key).bind(value.evt, value.fun);
+});
+
+
+$(document.body).click(function(){
+	$("#tosq").removeClass('tosqhover');
+	$(".prifilter input:button").parent().hide();
+});
+
+$("#tosq dt").hover(function(){
+	    $("#tosq dd").hide();
+	    $("#tosq dt").removeClass("select");
+	    $(this).next("dd").show();
+	    $(this).addClass("select");
+	}, function(){}
+);
+
+
+
+var timeout=null;
+$(".qj-rentsh").hover(function(){
+		$(this).find('span').show();
+	},function(){
+		var that=this;
+		timeout=setTimeout(function(){
+			$(that).find('span').hide();
+		},100)
+});
+$(".qj-rentsh span").mouseenter(function(){
+	clearTimeout(timeout);
+	$(this).show();
+}).mouseleave(function(){
+	$(this).hide();
+});
+require(['house/fangdongzizheng'],function(zizheng){
+	$('.getbiaozhi').click(function(){
+		zizheng.pupup({
+			tpl:zizheng.tpl
+		});
+	});
+});
+
+</script>
+<script src="http://track.58.com/adsys/ggafs?rand=20140509"></script>
+<!------------------------------------------------------统计代码--------------------------------------------------->
+<div style="display:none">
+<!--基本统计代码begin(8,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {level1:'0', level2:'0', level3:'0', level4:'0', sortid:''};
+var _gaq = _gaq || [],site_name = "58",post_count = "381",page_type = "list";
+var _trackURL = "{'cate':'1,8','area':'2050','pagetype':'list','pagesize':'35','pagenum':'1','jiage':'','is_real':'false','is_biz':'false','GA_pageview':'/house/zufang/list/'}";
+        _gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+        _gaq.push(['pageTracker._setDomainName', '.58.com']);
+        _gaq.push(['pageTracker._setAllowLinker', true]);
+        _gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+        _gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+        _gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+        _gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+    	_gaq.push(['pageTracker._setCustomVar', 1, 'TabType', 'All', 3]);
+        _gaq.push(['pageTracker._setCustomVar', 2, 'PageNum', '1', 3]);
+    	_gaq.push(['pageTracker._trackPageview', "/house/zufang/list/"]);
+        _gaq.push(['pageTracker._trackPageLoadTime']);
+boot.require('util.js', function(Frame, js){
+    Frame.init(function(){ 
+        js.append( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js'); 
+        js.append('http://tracklog.58.com/referrer4.js'); });
+});
+</script>
+<!--基本统计代码end-->
+</div>
+<div class="bangbang_gdbg bangbang_none" id="bangbang_gdbg">
+<div class="bangbang_rela">
+<a target="_blank" href="http://bangbang.58.com/promo/msyl.html?source=185" class="bangbang_gdbgimg">
+</a>
+<span class="bangbang_gdbgimg" id="bangbang_close"></span>
+</div>
+</div>
+<script>
+
+require(['common/jQuery.cookie'],function(cookie){
+	if(!$.cookie('bangbangguoqi')){
+		$("#bangbang_gdbg").removeClass("bangbang_none");
+	}
+	$("#bangbang_close").bind("click",function(){
+		$("#bangbang_gdbg").addClass("bangbang_none");
+		$.cookie("bangbangguoqi",true,{expires:365,path:'/'});
+	});
+});
+
+
+require(['house/scrollele'],function(scroll){
+	scroll.init([{'obj':'#bangbang_gdbg','top':'50%','left':0}]);
+})
+</script>
+<!-- Google Code for RMK 2.0_58&#25151;&#20135; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+	/* &lt;![CDATA[ */
+	var google_conversion_id = 1020842622;
+	var google_conversion_label = "QLqyCOrQlQQQ_qTj5gM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]&gt; */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1020842622/?value=0&amp;label=QLqyCOrQlQQQ_qTj5gM&amp;guid=ON&amp;script=0" />
+</div>
+</noscript></html>

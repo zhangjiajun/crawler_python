@@ -1,0 +1,1998 @@
+<!Doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>EMBA_教育论坛_新浪网</title>
+<meta name="stencil" content="PGLS001624" /><meta name="keywords" content="EMBA菁菁校园，男生女生，小升初，幼升小，高考，大学生活，报考交流，成考，司法，公务员，远程教育" />
+<meta name="description" content="EMBA 教育论坛 教育时尚娱乐，幼儿园，小学教育，小升初，高中复习高考指南交流，出国留学，欧美，日韩，名校申请，奖学金，职场交流，人在职场。 - sina" />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<link rel="archives" title="教育论坛" href="http://club.edu.sina.com.cn/archiver/" />
+<link rel="alternate" type="application/rss+xml" title="教育论坛_EMBA" href="http://club.edu.sina.com.cn/rss.php?fid=222&amp;auth=0" />
+<script type="text/javascript">
+var MARK_JS = 'educlub';
+var IMGDIR = 'http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default';
+var SINA_IMG_SEVER_URL = 'http://www.sinaimg.cn/IT/deco/dzbbs/';
+var attackevasive = '0';var gid = 0;gid = parseInt('220');var fid = parseInt('222');var tid = parseInt('0');</script><link rel="stylesheet" type="text/css" href="http://news.sina.com.cn/deco/2010/1019/css/educlub_1.css?v=20100916" />
+<link rel="stylesheet" type="text/css" href="http://news.sina.com.cn/deco/2010/1019/css/allbbs_append.css?v=20100916" />
+<script src="http://news.sina.com.cn/js/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="http://i3.sinaimg.cn/home/sinaflash.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/common.js?v=20100916"></script>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/menu.js?v=20100916"></script>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/ajax.js?v=20100916"></script>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/jquery-ui-1.7.2.custom.min.js?v=20100916"></script><!--jquery官方插件定制JS-->
+</head>
+<body onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="wrap">
+<!-- 标准二级导航_教育 begin -->
+<style type="text/css">
+		.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+		.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+		.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+		.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+		.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+		.sHLogo span,.sHLogo span a,.sHLogo span a:link,.sHLogo span a:visited,.sHLogo span a:hover{display:block;*float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+		.sHLogo span,.sHLogo span a img,.sHLogo span a:link img,.sHLogo span a:visited img,.sHLogo span a:hover img{vertical-align:middle;}
+		.sHLinks{float:right;line-height:31px;}
+		</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://bbs.sina.com.cn/" target="_top"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" alt="新浪网" /></a><a href="http://bbs.sina.com.cn/"><img src="http://i1.sinaimg.cn/book/main/bbssitemap/xlltbbs_logo.gif" alt="新浪论坛" /></a></span></div>
+<div class="sHLinks"><a href="http://edu.sina.com.cn/" target="_top">教育首页</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/" target="_top">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/" target="_top">新浪导航</a></div>
+</div>
+</div>
+<!-- 标准二级导航_教育 end -->
+<style type="text/css">
+			.nav-t{background:url(http://www.sinaimg.cn/book/deco/2010/b_bg_01.png) repeat-x;  height:40px;border:1px solid #c7d4de;border-width: 0 1px; }
+			.nav-t ul{float:left; }
+			.nav-t ul li{float:left;line-height:36px;margin:4px 0 0 1px;text-align:center; display:inline;   padding:0 8px; *padding:0 5px;}
+			.nav-t ul li.selected{width:47px;height:36px;background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/edu.png) no-repeat;line-height:36px;padding:0; }
+			.nav-t ul li.selected a,.nav-t ul li.selected,.nav-t ul li.selected a:visited{color:#fff;}
+			.nav-t a.nav-map{float:right;width:63px;height:21px;text-indent:-10000px;  outline:none;background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/edu.png) -150px -150px;margin:9px 5px 0 0 ;display:inline;  }
+			.nav-t2{background:url(http://www.sinaimg.cn/book/club/common_banner_bg.png) 0 0 repeat-x;height:103px; width:950px; }
+			.nav-t2-in{background:url(http://www.sinaimg.cn/book/deco/2011/0526/banner/edu.jpg) 0 0 no-repeat;height:103px;  }
+			.nav-t2-in h1 {float:left;width:235px; height:103px;   }
+			.nav-t2-in h1 a{display:block;height:103px;text-indent:-10000px;outline:none; }
+			.nav-banner{float:right;margin:0px 7px 0 0 ;display:inline;}
+			.nav-banner img{display:block;}
+			.nav-t3{background:url(http://www.sinaimg.cn/book/deco/2010/b_bg_01.png) 0 -50px;height:34px;border:1px solid #cad9ea;border-width:0 1px;padding:0 2px 0 5px;  }
+			.nav-t3l{float:left;line-height:34px; color:#5d98c2; }
+			.nav-t3l a{padding:0 5px;}
+			.nav-t3r{float:right;padding:5px 0 0 0; }
+			.nav-t3r select{color:#999;}
+			.ipt-01{background:#fff;border:1px solid #ccc;padding:1px;line-height:16px;width:200px;  height:16px; color:#999; }
+			.ipt-sub{cursor:pointer;background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/edu.png) 0 -150px;width:78px;height:21px;text-indent:-1000px;border:none;padding:0;   }
+			#menu{zoom:1;_overflow:hidden;}
+			.ipt-login{background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/edu.png) -300px -150px;width:39px;height:21px;text-indent:-1000px;border:none;padding:0;   }
+			#menu{zoom:1;_overflow:hidden;}
+			.frameswitch{color:#999;}
+			.ipt-11{padding:2px;}
+		</style>
+<div class="nav-t">
+<ul>
+<li><a href="http://bbs.sina.com.cn">首页</a></li>
+<li><a href="http://club.ent.sina.com.cn">娱乐</a></li>
+<li><a href="http://forum.sports.sina.com.cn">体育</a></li>
+<li><a href="http://club.mil.news.sina.com.cn">军事</a></li>
+<li><a href="http://club.history.sina.com.cn">历史</a></li>
+<li><a href="http://eladies.sina.com.cn/bbs/">女性</a></li>
+<li><a href="http://club.life.sina.com.cn">生活</a></li>
+<li><a href="http://club.finance.sina.com.cn">财经</a></li>
+<li><a href="http://bbs.auto.sina.com.cn">汽车</a></li>
+<li><a href="http://bbs0.house.sina.com.cn">房产</a></li>
+<li><a href="http://bbs.jiaju.sina.com.cn">家居</a></li>
+<li><a href="http://club.news.sina.com.cn">百味</a></li>
+<li class="selected"><a href="http://club.edu.sina.com.cn">教育</a></li>
+<li><a href="http://club.baby.sina.com.cn">亲子</a></li>
+<li><a href="http://club.astro.sina.com.cn">星座</a></li>
+<li><a href="http://club.tech.sina.com.cn/index.php">数码</a></li>
+<li><a href="http://club.tour.sina.com.cn">旅游</a></li>
+<li><a href="http://bbs.games.sina.com.cn/">游戏</a></li>
+<li><a href="http://club.gongyi.sina.com.cn">绿丝带</a></li>
+<li><a href="http://club.show.sina.com.cn">新浪show</a></li>
+</ul>
+<a href="http://bbs.sina.com.cn/guide/index.shtml" target="_blank" class="nav-map">论坛地图</a>
+</div>
+<div class="nav-t2">
+<div class="nav-t2-in">
+<h1><a href="http://edu.sina.com.cn/bbs/">教育论坛</a></h1>
+<!-- &lt;div class="nav-banner" style="height:98%"&gt;&lt;table height="100%"&gt;&lt;tr &gt;&lt;td id="ad_up" style="vertical-align:middle;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt; -->
+<div class="nav-banner" style="height:98%">
+<table height="100%">
+<tr>
+<td id="ad_up" style="vertical-align:middle;">
+<script async="async" charset="utf-8" src="http://d4.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js"></script>
+<ins class="sinaads" data-ad-pdps="PDPS000000051260"></ins>
+<script>(sinaads = window.sinaads || []).push({});</script>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="nav-t3">
+<div class="nav-t3l">
+<a href="http://club.edu.sina.com.cn/bbs/forum-209-1.html">大话教育</a> | 
+				<a href="http://club.edu.sina.com.cn/y/forum-211-1.html">菁菁校园</a> | 
+				<a href="http://club.edu.sina.com.cn/gaokao/index.php?gid=1">高考论坛</a> | 
+				<a href="http://club.edu.sina.com.cn/a/index.php?gid=14">出国留学</a> | 
+				<a href="http://club.edu.sina.com.cn/j/index.php?gid=7">职场就业</a> | 
+				<a href="http://club.edu.sina.com.cn/bbs/forum-208-1.html">论坛公告</a>
+</div>
+<div class="nav-t3r">
+<form method="post" action="http://club.edu.sina.com.cn/search.php">
+<input type="text" name="srchtxt" value="输入关键字" id="headersearch" class="ipt-01" onfocus="chksearchvalue()" onblur="if(this.value == '') {this.value='输入关键字';}" /> <select name="srchtype"><option value="title" selected="selected">标题</option>
+<option value="fulltext">全文</option>
+<option value="srchuname">作者</option>
+</select>
+<input type="hidden" value="true" name="searchsubmit" />
+<input type="hidden" value="1" name="dpc" />
+<input type="submit" class="ipt-sub" onclick="return chksearch();" />
+</form>
+</div>
+</div>
+<script type="text/javascript">
+						function chksearchvalue(){
+							var searchvalue = $$('headersearch');
+							var valuetmp = searchvalue.value.replace('输入关键字','');
+							if(valuetmp){
+							}else{
+								searchvalue.value=searchvalue.value.replace('输入关键字','');
+							}
+						}
+						function chksearch(){
+							
+								var searchvalue = $$('headersearch').value;
+								searchvalue = searchvalue.replace('输入关键字', '');
+								if(searchvalue){
+									return true;
+								}else{
+									alert('请输入搜索的关键词');
+									return false
+								}
+							
+						}
+
+					
+						</script>
+<!-- 科技频道产品互动社区论坛顶部通栏_兰色 end -->
+<div id="menu">
+<span class="frameswitch">
+<a href="http://club.edu.sina.com.cn/index.php">教育论坛</a> &raquo;  			
+		 
+			</span>
+<ul>
+<li style="position:relative;">
+<p>
+<script type="text/javascript">
+					function chk_username(){
+						var username_id = $$('username');
+						var username_tmp = username_id.value.replace('会员名/邮箱/UC号','');
+						if(username_tmp){
+						}else{
+							username_id.value = username_id.value.replace('会员名/邮箱/UC号','');
+							
+						}
+						
+					}
+				</script>
+<form id="loginform" method="post" name="login" action="https://login.sina.com.cn/sso/login.php">
+<input type="hidden" name="referer" id="referer" value="http://club.edu.sina.com.cn/" />
+<input type="hidden" name="url" id="back_url" value="http://club.edu.sina.com.cn/logging.php?action=login&amp;loginsubmit=1&amp;loginsubmit=1&amp;referer=http%3A%2F%2Fclub.edu.sina.com.cn%2Fforum-222-1.html" />
+<input type="hidden" name="service" value="bbsclub" />
+<input type="hidden" name="entry" value="bbsclub" />
+<input type="hidden" name="useticket" value="0" />
+<input type="hidden" name="gateway" value="1" />
+						用户名：<input type="text" id="username" name="username" value="会员名/邮箱/UC号" onclick="chk_username();" onblur="checkUserMail();if(this.value == '') {this.value='会员名/邮箱/UC号';}" autocomplete="off" class="ipt-01 ipt-11" style="width:90px;" />
+						&nbsp;密码：<input type="password" id="password" name="password" class="ipt-01 ipt-11" style="width:90px;" />
+<button name="userlogin" type="submit" value="true" class="ipt-login"> </button>
+</form>
+<div style="opacity: 1; display: none;" id="username_tip" class="tipbox">
+<div class="box_top"></div>
+<div class="box_center" id="box_center">
+<span class="" id="username_tip_text"></span>
+<a onclick="document.getElementById('username_tip').style.display='none';" href="#" title="关闭"><em>关闭</em></a>
+</div>
+<div class="box_bottom"></div>
+</div>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/checkmail.js?v=20100916"></script>
+</p></li>
+<!--zhangshuo 090203-->
+<li><a href="http://club.edu.sina.com.cn/api/forward.php?action=register&amp;forward=http://club.edu.sina.com.cn/" class="notabs">注册账号</a></li>
+<!--zhangshuo 090203 end-->
+<li><a href="http://club.edu.sina.com.cn/search.php?srchfid=222">搜索</a></li>
+<li><a href="http://club.edu.sina.com.cn/faq.php">帮助</a></li>
+<!--zhangshuo 090203-->
+<!--zhangshuo 090203 end-->
+</ul>
+</div>
+<div id="foruminfo">
+<div id="headsearch">
+<p>
+<!--
+		&lt;a href="http://club.edu.sina.com.cn/forum-222-1.html"&gt;刷新本版&lt;/a&gt; |
+		&lt;a href="#" onclick="setcopy('http://club.edu.sina.com.cn/forum-222-1.html', '链接已经复制到剪贴板');" title="复制链接"&gt;复制链接&lt;/a&gt; |
+-->
+<a href="http://club.edu.sina.com.cn/my.php?item=favorites&amp;fid=222" id="ajax_favorite" onclick="ajaxmenu(event, this.id)">收藏本版</a> |
+		<a href="http://club.edu.sina.com.cn/my.php?item=threads&amp;srchfid=222">我的话题</a>
+<a href="http://club.edu.sina.com.cn/rss.php?fid=222&amp;auth=0" target="_blank"><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/common/xml.gif" border="0" class="absmiddle" alt="RSS 订阅全部版块" /></a> </p>
+</div>
+<div id="nav">
+<p><a id="forumlist" href="http://club.edu.sina.com.cn/" class="dropmenu" onmouseover="showMenu(this.id)">教育论坛</a> &raquo; EMBA</p>
+<p>版主: *空缺中*</p>
+</div>
+</div>
+<!--女性产品库横切-->
+<div id="ad_text"></div><div class="pages_btns">
+<div class="pages"><em>&nbsp;1553&nbsp;</em><strong>1</strong><a href="http://club.edu.sina.com.cn/forum-222-2.html">2</a><a href="http://club.edu.sina.com.cn/forum-222-3.html">3</a><a href="http://club.edu.sina.com.cn/forum-222-4.html">4</a><a href="http://club.edu.sina.com.cn/forum-222-5.html">5</a><a href="http://club.edu.sina.com.cn/forum-222-6.html">6</a><a href="http://club.edu.sina.com.cn/forum-222-7.html">7</a><a href="http://club.edu.sina.com.cn/forum-222-8.html">8</a><a href="http://club.edu.sina.com.cn/forum-222-9.html">9</a><a href="http://club.edu.sina.com.cn/forum-222-10.html">10</a><a href="http://club.edu.sina.com.cn/forum-222-2.html" class="next">&rsaquo;&rsaquo;</a><a href="http://club.edu.sina.com.cn/forum-222-32.html" class="last">... 32</a><kbd><input type="text" name="custompage" size="3" onkeydown="if(event.keyCode==13) {window.location='forumdisplay.php?fid=222&amp;page='+this.value+''; return false;}" /></kbd></div> <span class="postbtn" id="newspecial" onmouseover="$$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu(this.id)"><a href="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1" title="发新话题"><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/newtopic.gif" alt="发新话题" /></a></span>
+<!--tree modify 2009-5-19 11:16-->
+<span class="postbtn" id="newspecial" style="margin-right:10px;"><a href="/settree.php?t=1" title="切换为树状"><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/tr.gif" alt="切换为树状" /></a></span>
+</div>
+<ul class="popupmenu_popup newspecialmenu" id="newspecial_menu" style="display: none">
+<li><a href="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1">发新话题</a></li> <li class="poll"><a href="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1&amp;special=1">发布投票</a></li> <!--&lt;li class="trade"&gt;&lt;a href="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1&amp;special=2"&gt;发布商品&lt;/a&gt;&lt;/li&gt;暂时不支持商品贴--> <li class="reward"><a href="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1&amp;special=3">发布悬赏</a></li> <li class="activity"><a href="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1&amp;special=4">发布活动</a></li> <li class="debate"><a href="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1&amp;special=5">发表辩论</a></li> <!--&lt;li class="video"&gt;&lt;a href="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1&amp;special=6"&gt;发布视频&lt;/a&gt;&lt;/li&gt;--> </ul>
+<div id="headfilter">
+<ul class="tabs">
+<li class="current"><a href="http://club.edu.sina.com.cn/forum-222-1.html">全部</a></li>
+<li><a href="forumdisplay.php?fid=222&amp;filter=digest">精华</a></li>
+<li><a href="forumdisplay.php?fid=222&amp;filter=poll">投票</a></li> <!--&lt;li &gt;&lt;a href="forumdisplay.php?fid=222&amp;filter=trade"&gt;商品&lt;/a&gt;&lt;/li&gt;--> <li><a href="forumdisplay.php?fid=222&amp;filter=reward">悬赏</a></li> <li><a href="forumdisplay.php?fid=222&amp;filter=activity">活动</a></li> <li><a href="forumdisplay.php?fid=222&amp;filter=debate">辩论</a></li> </ul>
+</div>
+<div class="mainbox threadlist" id="data_list">
+<h1 style="text-align:right;">
+<a href="http://club.edu.sina.com.cn/forum-222-1.html" class="bold" style="float:left;">EMBA</a><span id="ad_mid" class="ad_mid" style="padding-right:10px;">&nbsp;</span>
+</h1>
+<form method="post" name="moderate" autocomplete="off" action="http://club.edu.sina.com.cn/topicadmin.php?action=moderate&amp;fid=222">
+<input type="hidden" name="formhash" value="3155699f" />
+<table summary="forum_222" cellspacing="0" cellpadding="0">
+<!--tree modify 2009-5-19 18:45-->
+<thead class="category">
+<tr>
+<td class="folder">&nbsp;</td>
+<td class="icon">&nbsp;</td>
+<th>标题</th>
+<td class="author">作者</td>
+<td class="nums">回复/查看</td>
+<td class="lastpost">最后发表</td>
+</tr>
+</thead>
+<!--tree modify end-->
+<tbody><tr>
+<td class="folder"><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/folder_common.gif" alt="announcement" /></td>
+<td class="icon">&nbsp;</td>
+<th>论坛公告: <a href="http://news.sina.com.cn/c/2011-03-01/103222031640.shtml" target="_blank">提示</a></th>
+<td class="author">
+<cite><a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=1604504047">edu_admin</a></cite>
+<em>2011-01-20 04:00:00</em>
+</td>
+<td class="nums">-</td>
+<td class="lastpost">-</td>
+</tr></tbody>
+</table>
+<table summary="forum_222" id="forum_222" cellspacing="0" cellpadding="0">
+<thead class="separation">
+<tr><td>&nbsp;</td><td>&nbsp;</td><td colspan="4">版块主题</td></tr>
+</thead>
+<tbody id="normalthread_3351660" class="author_thread_2482350715">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3351660" class="new">
+<label>
+																														&nbsp;</label>
+<span id="thread_3351660"><a href="http://club.edu.sina.com.cn/thread-3351660-1-1.html" target="_blank">北京大学网络新媒体运营企业EMBA研修班项目诚招代理商</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+<a href="http://club.edu.sina.com.cn/redirect.php?tid=3351660&amp;goto=newpost#newpost" class="new">New</a>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=2482350715">中道文化2013</a>
+</cite>
+<em>2014-5-9</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>11</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3351660&amp;goto=lastpost#lastpost">2014-5-9 09:42</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF2013">中道文化2013</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3351099" class="author_thread_3977813082">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3351099" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3351099"><a href="http://club.edu.sina.com.cn/thread-3351099-1-1.html" target="_blank">什么是该亚的道,术,器,场?</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3977813082">黄小铭258</a>
+</cite>
+<em>2014-5-8</em>
+</td>
+<td class="nums"><strong>1</strong> / <em>81</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3351099&amp;goto=lastpost#lastpost">2014-5-8 13:40</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=ggjghjkhg">ggjghjkhg</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3350138" class="author_thread_3228644482">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3350138" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3350138"><a href="http://club.edu.sina.com.cn/thread-3350138-1-1.html" target="_blank">北京大学网络新媒体EMBA总裁研修班诚招全国各省市营运伙伴</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3228644482">中道文化</a>
+</cite>
+<em>2014-5-6</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3350138&amp;goto=lastpost#lastpost">2014-5-6 17:11</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF">中道文化</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3348213" class="author_thread_3270739104">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3348213" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3348213"><a href="http://club.edu.sina.com.cn/thread-3348213-1-1.html" target="_blank">分享经济师考试过关必做习题集</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3270739104">琦行庶007</a>
+</cite>
+<em>2014-5-3</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>201</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3348213&amp;goto=lastpost#lastpost">2014-5-3 11:45</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%E7%F9%D0%D0%CA%FC007">琦行庶007</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3346673" class="author_thread_2482350715">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3346673" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3346673"><a href="http://club.edu.sina.com.cn/thread-3346673-1-1.html" target="_blank">专注才是王道</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=2482350715">中道文化2013</a>
+</cite>
+<em>2014-4-29</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3346673&amp;goto=lastpost#lastpost">2014-4-29 10:18</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF2013">中道文化2013</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3346152" class="author_thread_5119880448">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3346152" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3346152"><a href="http://club.edu.sina.com.cn/thread-3346152-1-1.html" target="_blank">实用苹果软件大搜罗 家长孩子们都是用的教育助手</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=5119880448">专业定制App</a>
+</cite>
+<em>2014-4-28</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>111</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3346152&amp;goto=lastpost#lastpost">2014-4-28 14:23</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D7%A8%D2%B5%B6%A8%D6%C6App">专业定制App</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3345352" class="author_thread_2482350715">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3345352" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3345352"><a href="http://club.edu.sina.com.cn/thread-3345352-1-1.html" target="_blank">宰相教子</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=2482350715">中道文化2013</a>
+</cite>
+<em>2014-4-26</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3345352&amp;goto=lastpost#lastpost">2014-4-26 08:58</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF2013">中道文化2013</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3344212" class="author_thread_3228644482">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3344212" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3344212"><a href="http://club.edu.sina.com.cn/thread-3344212-1-1.html" target="_blank">管理的艺术是宽容</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3228644482">中道文化</a>
+</cite>
+<em>2014-4-24</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>11</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3344212&amp;goto=lastpost#lastpost">2014-4-24 11:49</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF">中道文化</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3344209" class="author_thread_3228644482">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3344209" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3344209"><a href="http://club.edu.sina.com.cn/thread-3344209-1-1.html" target="_blank">管理的艺术是宽容</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3228644482">中道文化</a>
+</cite>
+<em>2014-4-24</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>361</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3344209&amp;goto=lastpost#lastpost">2014-4-24 11:46</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF">中道文化</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3341936" class="author_thread_2482350715">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3341936" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3341936"><a href="http://club.edu.sina.com.cn/thread-3341936-1-1.html" target="_blank">中国需要怎样的企业家？</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=2482350715">中道文化2013</a>
+</cite>
+<em>2014-4-21</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>391</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3341936&amp;goto=lastpost#lastpost">2014-4-21 11:37</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF2013">中道文化2013</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3341848" class="author_thread_2482350715">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3341848" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3341848"><a href="http://club.edu.sina.com.cn/thread-3341848-1-1.html" target="_blank">中国需要怎样的企业家？</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=2482350715">中道文化2013</a>
+</cite>
+<em>2014-4-21</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3341848&amp;goto=lastpost#lastpost">2014-4-21 10:23</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF2013">中道文化2013</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3341219" class="author_thread_1654033925">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3341219" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3341219"><a href="http://club.edu.sina.com.cn/thread-3341219-1-1.html" target="_blank">德隆健身培训学院—八大优势</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=1654033925">德隆健身培训学院</a>
+</cite>
+<em>2014-4-19</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>11</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3341219&amp;goto=lastpost#lastpost">2014-4-19 10:57</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%B5%C2%C2%A1%BD%A1%C9%ED%C5%E0%D1%B5%D1%A7%D4%BA">德隆健身培训学院</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3341218" class="author_thread_1654033925">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3341218" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3341218"><a href="http://club.edu.sina.com.cn/thread-3341218-1-1.html" target="_blank">德隆健身培训学院</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=1654033925">德隆健身培训学院</a>
+</cite>
+<em>2014-4-19</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>431</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3341218&amp;goto=lastpost#lastpost">2014-4-19 10:54</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%B5%C2%C2%A1%BD%A1%C9%ED%C5%E0%D1%B5%D1%A7%D4%BA">德隆健身培训学院</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3341054" class="author_thread_5116669042">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3341054" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3341054"><a href="http://club.edu.sina.com.cn/thread-3341054-1-1.html" target="_blank">重庆火车站订票电话是多少</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=5116669042">gfgfaa</a>
+</cite>
+<em>2014-4-18</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3341054&amp;goto=lastpost#lastpost">2014-4-18 17:50</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=gfgfaa">gfgfaa</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3340252" class="author_thread_3228644482">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3340252" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3340252"><a href="http://club.edu.sina.com.cn/thread-3340252-1-1.html" target="_blank">EMBA是什么？EMBA招生对象</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3228644482">中道文化</a>
+</cite>
+<em>2014-4-17</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>491</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3340252&amp;goto=lastpost#lastpost">2014-4-17 16:17</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF">中道文化</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3338890" class="author_thread_3984133513">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3338890" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3338890"><a href="http://club.edu.sina.com.cn/thread-3338890-1-1.html" target="_blank">3d字谜098期图谜总汇</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3984133513">yic002.cn</a>
+</cite>
+<em>2014-4-16</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3338890&amp;goto=lastpost#lastpost">2014-4-16 05:45</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=yic002.cn">yic002.cn</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3338729" class="author_thread_5081704409">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3338729" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3338729"><a href="http://club.edu.sina.com.cn/thread-3338729-1-1.html" target="_blank">开上海广告费发票业务QQ:1582407280 【百度官方推荐】</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=5081704409">lzudbosy</a>
+</cite>
+<em>2014-4-15</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>912</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3338729&amp;goto=lastpost#lastpost">2014-4-15 17:12</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=lzudbosy">lzudbosy</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3337900" class="author_thread_3228644482">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3337900" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3337900"><a href="http://club.edu.sina.com.cn/thread-3337900-1-1.html" target="_blank">北京大学网络新媒体运营企业总裁EMBA研修班</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3228644482">中道文化</a>
+</cite>
+<em>2014-4-14</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3337900&amp;goto=lastpost#lastpost">2014-4-14 16:48</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF">中道文化</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3337896" class="author_thread_3228644482">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3337896" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3337896"><a href="http://club.edu.sina.com.cn/thread-3337896-1-1.html" target="_blank">北京大学网络新媒体运营企业总裁EMBA研修班正在报名</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3228644482">中道文化</a>
+</cite>
+<em>2014-4-14</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>531</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3337896&amp;goto=lastpost#lastpost">2014-4-14 16:44</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF">中道文化</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3337830" class="author_thread_3228644482">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3337830" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3337830"><a href="http://club.edu.sina.com.cn/thread-3337830-1-1.html" target="_blank">中道微论坛-马到功成</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3228644482">中道文化</a>
+</cite>
+<em>2014-4-14</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>451</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3337830&amp;goto=lastpost#lastpost">2014-4-14 16:23</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D6%D0%B5%C0%CE%C4%BB%AF">中道文化</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3335910" class="author_thread_3979386170">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3335910" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3335910"><a href="http://club.edu.sina.com.cn/thread-3335910-1-1.html" target="_blank">盘点微信订阅号运营5大营销手段</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3979386170">paiwanj</a>
+</cite>
+<em>2014-4-11</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>861</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3335910&amp;goto=lastpost#lastpost">2014-4-11 13:38</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=paiwanj">paiwanj</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3335136" class="author_thread_3700752021">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3335136" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3335136"><a href="http://club.edu.sina.com.cn/thread-3335136-1-1.html" target="_blank">人教版、苏教版、北师大版、沪教版，汉字同步学习智能苹果软件</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3700752021">手势录音</a>
+</cite>
+<em>2014-4-10</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>11</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3335136&amp;goto=lastpost#lastpost">2014-4-10 14:33</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%CA%D6%CA%C6%C2%BC%D2%F4">手势录音</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3333465" class="author_thread_5102158879">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3333465" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3333465"><a href="http://club.edu.sina.com.cn/thread-3333465-1-1.html" target="_blank">招聘兼职每天在线1-2小时可以赚300-500元联系 Q ,Q: 776760966</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=5102158879">5t5y6</a>
+</cite>
+<em>2014-4-8</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3333465&amp;goto=lastpost#lastpost">2014-4-8 00:11</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=5t5y6">5t5y6</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3333095" class="author_thread_3270739104">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3333095" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3333095"><a href="http://club.edu.sina.com.cn/thread-3333095-1-1.html" target="_blank">经济师考试《运输专业》题库＋历年真题＋讲义</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3270739104">琦行庶007</a>
+</cite>
+<em>2014-4-6</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>11</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3333095&amp;goto=lastpost#lastpost">2014-4-6 14:08</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%E7%F9%D0%D0%CA%FC007">琦行庶007</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3327218" class="author_thread_1062185147">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3327218" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3327218"><a href="http://club.edu.sina.com.cn/thread-3327218-1-1.html" target="_blank">HULT霍特国际商学院MBA/国际贸易/国际行销/财务硕士/商学士</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=1062185147">iemba</a>
+</cite>
+<em>2014-3-25</em>
+</td>
+<td class="nums"><strong>3</strong> / <em>3</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3327218&amp;goto=lastpost#lastpost">2014-4-5 08:40</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=iemba">iemba</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3332683" class="author_thread_2402793905">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3332683" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3332683"><a href="http://club.edu.sina.com.cn/thread-3332683-1-1.html" target="_blank">商院案例：北京大势健身成功的启示</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=2402793905">北京大势</a>
+</cite>
+<em>2014-4-4</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>601</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3332683&amp;goto=lastpost#lastpost">2014-4-4 17:44</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%B1%B1%BE%A9%B4%F3%CA%C6">北京大势</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3332477" class="author_thread_3700752021">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3332477" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3332477"><a href="http://club.edu.sina.com.cn/thread-3332477-1-1.html" target="_blank">仅此一天免费下载 人教版、沪教版苹果软件下载 汉字学习 课本同步 听写助手</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3700752021">手势录音</a>
+</cite>
+<em>2014-4-4</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>11</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3332477&amp;goto=lastpost#lastpost">2014-4-4 13:38</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%CA%D6%CA%C6%C2%BC%D2%F4">手势录音</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3332236" class="author_thread_3700818832">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3332236" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3332236"><a href="http://club.edu.sina.com.cn/thread-3332236-1-1.html" target="_blank">暨南大学2014年高级管理人员工商管理硕士（EMBA）招生</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3700818832">泰山商学院</a>
+</cite>
+<em>2014-4-4</em>
+</td>
+<td class="nums"><strong>2</strong> / <em>1071</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3332236&amp;goto=lastpost#lastpost">2014-4-4 08:49</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%CC%A9%C9%BD%C9%CC%D1%A7%D4%BA">泰山商学院</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3229814" class="author_thread_3669316693">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3229814" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3229814"><a href="http://club.edu.sina.com.cn/thread-3229814-1-1.html" target="_blank">EMBA/MBA/MPA在职学习，周末上课【中南大学广州班】</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+<span class="threadpages"> &nbsp; <a href="http://club.edu.sina.com.cn/thread-3229814-1-1.html">1</a> <a href="http://club.edu.sina.com.cn/thread-3229814-2-1.html">2</a> </span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3669316693">中南广州</a>
+</cite>
+<em>2013-9-13</em>
+</td>
+<td class="nums"><strong>7</strong> / <em>215</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3229814&amp;goto=lastpost#lastpost">2014-4-2 20:03</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=kkki16">kkki16</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3330736" class="author_thread_3978731254">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3330736" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3330736"><a href="http://club.edu.sina.com.cn/thread-3330736-1-1.html" target="_blank">2014中国企业总裁集训营 --张冰老师主讲  正式开营</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3978731254">张冰品牌实战</a>
+</cite>
+<em>2014-4-1</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3330736&amp;goto=lastpost#lastpost">2014-4-1 15:44</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D5%C5%B1%F9%C6%B7%C5%C6%CA%B5%D5%BD">张冰品牌实战</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3329738" class="author_thread_3978671975">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3329738" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3329738"><a href="http://club.edu.sina.com.cn/thread-3329738-1-1.html" target="_blank">开防城港住宿定额|餐饮定额票据 业务QQ:1582407280【百度官方推荐】</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3978671975">nqwmbd</a>
+</cite>
+<em>2014-3-30</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>941</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3329738&amp;goto=lastpost#lastpost">2014-3-30 23:38</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=nqwmbd">nqwmbd</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3328616" class="author_thread_1644268822">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3328616" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3328616"><a href="http://club.edu.sina.com.cn/thread-3328616-1-1.html" target="_blank">南开大学2014年EMBA北京班</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=1644268822">南开大学EMBA北京</a>
+</cite>
+<em>2014-3-28</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>451</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3328616&amp;goto=lastpost#lastpost">2014-3-28 11:01</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%C4%CF%BF%AA%B4%F3%D1%A7EMBA%B1%B1%BE%A9">南开大学EMBA北京</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3328151" class="author_thread_3700752021">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3328151" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3328151"><a href="http://club.edu.sina.com.cn/thread-3328151-1-1.html" target="_blank">免费下载！苹果软件~小学各版本同步、汉字学习、拼音组词学习助手</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3700752021">手势录音</a>
+</cite>
+<em>2014-3-27</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>571</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3328151&amp;goto=lastpost#lastpost">2014-3-27 13:13</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%CA%D6%CA%C6%C2%BC%D2%F4">手势录音</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3206954" class="author_thread_3549522883">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3206954" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3206954"><a href="http://club.edu.sina.com.cn/thread-3206954-1-1.html" target="_blank">俄罗斯在职留学博士毕业可以办北京户口</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+<span class="threadpages"> &nbsp; <a href="http://club.edu.sina.com.cn/thread-3206954-1-1.html">1</a> <a href="http://club.edu.sina.com.cn/thread-3206954-2-1.html">2</a> </span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3549522883">最美不过初见1</a>
+</cite>
+<em>2013-8-8</em>
+</td>
+<td class="nums"><strong>6</strong> / <em>269</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3206954&amp;goto=lastpost#lastpost">2014-3-24 18:02</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%B7%BD%B9%E2%D3%EE%B1%A3%BB%A4">方光宇保护</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3326149" class="author_thread_3700752021">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3326149" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3326149"><a href="http://club.edu.sina.com.cn/thread-3326149-1-1.html" target="_blank">办公记录必备录音软件 苹果免费下载</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3700752021">手势录音</a>
+</cite>
+<em>2014-3-24</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>561</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3326149&amp;goto=lastpost#lastpost">2014-3-24 14:28</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%CA%D6%CA%C6%C2%BC%D2%F4">手势录音</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3325091" class="author_thread_3182409963">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3325091" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3325091"><a href="http://club.edu.sina.com.cn/thread-3325091-1-1.html" target="_blank">李嘉诚：有三种钱，你花得越多就赚得越多</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3182409963">叶落东方</a>
+</cite>
+<em>2014-3-21</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3325091&amp;goto=lastpost#lastpost">2014-3-21 15:53</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D2%B6%C2%E4%B6%AB%B7%BD">叶落东方</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3325003" class="author_thread_3973434377">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3325003" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3325003"><a href="http://club.edu.sina.com.cn/thread-3325003-1-1.html" target="_blank">英国读MBA雅思成绩要求</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3973434377">朗阁培训好</a>
+</cite>
+<em>2014-3-21</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>0</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3325003&amp;goto=lastpost#lastpost">2014-3-21 14:58</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%C0%CA%B8%F3%C5%E0%D1%B5%BA%C3">朗阁培训好</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3324935" class="author_thread_3700752021">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3324935" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3324935"><a href="http://club.edu.sina.com.cn/thread-3324935-1-1.html" target="_blank">小学课本同步六个年纪全部汉字集合软件 家长帮助听写利器 苹果软件</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3700752021">手势录音</a>
+</cite>
+<em>2014-3-21</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>541</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3324935&amp;goto=lastpost#lastpost">2014-3-21 14:23</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%CA%D6%CA%C6%C2%BC%D2%F4">手势录音</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3324135" class="author_thread_3700699313">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3324135" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3324135"><a href="http://club.edu.sina.com.cn/thread-3324135-1-1.html" target="_blank">家长帮助孩子学习听写汉字 必备苹果iPhone、iPad软件 免费版本</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3700699313">厉害大师</a>
+</cite>
+<em>2014-3-20</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>451</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3324135&amp;goto=lastpost#lastpost">2014-3-20 12:26</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%C0%F7%BA%A6%B4%F3%CA%A6">厉害大师</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3323800" class="author_thread_3791755455">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3323800" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3323800"><a href="http://club.edu.sina.com.cn/thread-3323800-1-1.html" target="_blank">商学院的未来在于发展全日制EMBA项目</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3791755455">WCY恒智商学院</a>
+</cite>
+<em>2014-3-19</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>471</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3323800&amp;goto=lastpost#lastpost">2014-3-19 17:24</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=WCY%BA%E3%D6%C7%C9%CC%D1%A7%D4%BA">WCY恒智商学院</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3322873" class="author_thread_3700699313">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3322873" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3322873"><a href="http://club.edu.sina.com.cn/thread-3322873-1-1.html" target="_blank">家长帮助孩子听写汉字必备苹果iPhone、iPad软件</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3700699313">厉害大师</a>
+</cite>
+<em>2014-3-18</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>11</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3322873&amp;goto=lastpost#lastpost">2014-3-18 12:55</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%C0%F7%BA%A6%B4%F3%CA%A6">厉害大师</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3322115" class="author_thread_3700699313">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3322115" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3322115"><a href="http://club.edu.sina.com.cn/thread-3322115-1-1.html" target="_blank">会议记录必备 苹果免费软件</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3700699313">厉害大师</a>
+</cite>
+<em>2014-3-17</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>31</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3322115&amp;goto=lastpost#lastpost">2014-3-17 13:37</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%C0%F7%BA%A6%B4%F3%CA%A6">厉害大师</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3322062" class="author_thread_3182409963">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3322062" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3322062"><a href="http://club.edu.sina.com.cn/thread-3322062-1-1.html" target="_blank">史宪文教授穿越2500年的演讲：《灵动的力量》</a></span>
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/attachicons/common.gif" alt="附件" class="attach" />
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3182409963">叶落东方</a>
+</cite>
+<em>2014-3-17</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>531</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3322062&amp;goto=lastpost#lastpost">2014-3-17 12:04</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D2%B6%C2%E4%B6%AB%B7%BD">叶落东方</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3321022" class="author_thread_2164658131">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-210px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3321022" class="common">
+<label>
+																														&nbsp;</label>
+<span id="thread_3321022"><a href="http://club.edu.sina.com.cn/thread-3321022-1-1.html" target="_blank">中山大学岭南学院EMBA研修班</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=2164658131">wall29</a>
+</cite>
+<em>2014-3-14</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>31</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3321022&amp;goto=lastpost#lastpost">2014-3-14 11:53</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=wall29">wall29</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3321013" class="author_thread_2164658131">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3321013" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3321013"><a href="http://club.edu.sina.com.cn/thread-3321013-1-1.html" target="_blank">政府补贴培训项目《中小企业成长训练营》</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=2164658131">wall29</a>
+</cite>
+<em>2014-3-14</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>581</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3321013&amp;goto=lastpost#lastpost">2014-3-14 11:46</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=wall29">wall29</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3320522" class="author_thread_3165335025">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3320522" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3320522"><a href="http://club.edu.sina.com.cn/thread-3320522-1-1.html" target="_blank">移动互联网解决方案-深圳站邀请</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3165335025">深圳一然</a>
+</cite>
+<em>2014-3-13</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>721</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3320522&amp;goto=lastpost#lastpost">2014-3-13 13:52</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%C9%EE%DB%DA%D2%BB%C8%BB">深圳一然</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3319857" class="author_thread_3182409963">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3319857" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3319857"><a href="http://club.edu.sina.com.cn/thread-3319857-1-1.html" target="_blank">中央党校教授于晓非与你一起解读佛教经典《金刚经》，3月29-30佛山不见不散！</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3182409963">叶落东方</a>
+</cite>
+<em>2014-3-12</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>792</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3319857&amp;goto=lastpost#lastpost">2014-3-12 11:29</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%D2%B6%C2%E4%B6%AB%B7%BD">叶落东方</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3319134" class="author_thread_3802615077">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3319134" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3319134"><a href="http://club.edu.sina.com.cn/thread-3319134-1-1.html" target="_blank">电子科技大学MBA特色班调剂预约报名</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3802615077">电子科技大学MBA</a>
+</cite>
+<em>2014-3-11</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>792</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3319134&amp;goto=lastpost#lastpost">2014-3-11 09:36</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%B5%E7%D7%D3%BF%C6%BC%BC%B4%F3%D1%A7MBA">电子科技大学MBA</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3319133" class="author_thread_3802615077">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3319133" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3319133"><a href="http://club.edu.sina.com.cn/thread-3319133-1-1.html" target="_blank">电子科技大学MBA特色班调剂预约报名</a></span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=3802615077">电子科技大学MBA</a>
+</cite>
+<em>2014-3-11</em>
+</td>
+<td class="nums"><strong>0</strong> / <em>631</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3319133&amp;goto=lastpost#lastpost">2014-3-11 09:34</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=%B5%E7%D7%D3%BF%C6%BC%BC%B4%F3%D1%A7MBA">电子科技大学MBA</a></cite>
+</td>
+</tr>
+</tbody> <tbody id="normalthread_3171541" class="author_thread_1062185147">
+<tr class="test">
+<td class="folder">
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/icon.gif" style="background-image:url(http://www.sinaimg.cn/book/deco/2010/dzbbs/club_icon1.png); background-position:-30px -103px;" width="21px;" height="24px;" />
+</td>
+<td class="icon">
+					                    	                        	&nbsp;
+                        
+					
+					</td>
+<th id="subject_3171541" class="hot">
+<label>
+																														&nbsp;</label>
+<span id="thread_3171541"><a href="http://club.edu.sina.com.cn/thread-3171541-1-1.html" target="_blank">推荐多所世界排名EMBA/IMBA/MBA/MBA/MA</a></span>
+<span class="threadpages"> &nbsp; <a href="http://club.edu.sina.com.cn/thread-3171541-1-1.html">1</a> <a href="http://club.edu.sina.com.cn/thread-3171541-2-1.html">2</a> </span>
+</th>
+<td class="author">
+<cite>
+<a href="http://club.edu.sina.com.cn/default.php?s=user&amp;a=profile&amp;uid=1062185147">iemba</a>
+</cite>
+<em>2013-6-3</em>
+</td>
+<td class="nums"><strong>9</strong> / <em>2332</em></td>
+<td class="lastpost">
+<em><a href="http://club.edu.sina.com.cn/redirect.php?tid=3171541&amp;goto=lastpost#lastpost">2014-3-9 17:50</a></em>
+<cite>by <a href="http://club.edu.sina.com.cn/space.php?action=viewpro&amp;username=iemba">iemba</a></cite>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+<div class="pages_btns">
+<div class="pages"><em>&nbsp;1553&nbsp;</em><strong>1</strong><a href="http://club.edu.sina.com.cn/forum-222-2.html">2</a><a href="http://club.edu.sina.com.cn/forum-222-3.html">3</a><a href="http://club.edu.sina.com.cn/forum-222-4.html">4</a><a href="http://club.edu.sina.com.cn/forum-222-5.html">5</a><a href="http://club.edu.sina.com.cn/forum-222-6.html">6</a><a href="http://club.edu.sina.com.cn/forum-222-7.html">7</a><a href="http://club.edu.sina.com.cn/forum-222-8.html">8</a><a href="http://club.edu.sina.com.cn/forum-222-9.html">9</a><a href="http://club.edu.sina.com.cn/forum-222-10.html">10</a><a href="http://club.edu.sina.com.cn/forum-222-2.html" class="next">&rsaquo;&rsaquo;</a><a href="http://club.edu.sina.com.cn/forum-222-32.html" class="last">... 32</a><kbd><input type="text" name="custompage" size="3" onkeydown="if(event.keyCode==13) {window.location='forumdisplay.php?fid=222&amp;page='+this.value+''; return false;}" /></kbd></div> <span class="postbtn" id="newspecialtmp" onmouseover="$$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu(this.id)"><a href="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1" title="发新话题"><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/newtopic.gif" alt="发新话题" /></a></span>
+<!--tree modify 2009-5-19 11:16-->
+<span class="postbtn" id="newspecial" style="margin-right:10px;"><a href="/settree.php?t=1" title="切换为树状"><img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/tr.gif" alt="切换为树状" /></a></span>
+</div>
+<script type="text/javascript" src="http://i.sso.sina.com.cn/js/sinaSSOManager.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://i.sso.sina.com.cn/js/sinaSSOUpdateCookie.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/post.js?v=20100916"></script>
+<script type="text/javascript">
+	var postminchars = parseInt('10');
+	var postmaxchars = parseInt('10000');
+	var disablepostctrl = parseInt('0');
+	var typerequired = parseInt('');
+	function validate(theform) {
+
+		if (jQuery("#_login_status").val() != "1") {
+			if (!processLogin()){
+				return false;
+			}
+		}
+		if (!checkNickname()){
+			return false;
+		}
+
+		if (theform.typeid &amp;&amp; theform.typeid.options[theform.typeid.selectedIndex].value == 0 &amp;&amp; typerequired) {
+			alert("请选择主题对应的分类。");
+			theform.typeid.focus();
+			return false;
+		} else if (theform.subject.value == "" || theform.message.value == "") {
+			alert("请完成标题或内容栏。");
+			theform.subject.focus();
+			return false;
+		} else if (theform.subject.value.length &gt; 80) {
+			alert("您的标题超过 80 个字符的限制。");
+			theform.subject.focus();
+			return false;
+		}
+		theform.subject.value = theform.subject.value+'		';//防止机器灌水做的校验 add by xiaobo
+		if (!disablepostctrl &amp;&amp; ((postminchars != 0 &amp;&amp; theform.message.value.length &lt; postminchars) || (postmaxchars != 0 &amp;&amp; theform.message.value.length &gt; postmaxchars))) {
+			alert("您的帖子长度不符合要求。\n\n当前长度: "+theform.message.value.length+" 字节\n系统限制: "+postminchars+" 到 "+postmaxchars+" 字节");
+			return false;
+		}
+		if(!fetchCheckbox('parseurloff')) {
+			theform.message.value = parseurl(theform.message.value, 'bbcode');
+		}
+		theform.topicsubmit.disabled = true;
+		return true;
+	}
+
+	</script>
+<form method="post" id="postform" action="http://club.edu.sina.com.cn/post.php?action=newthread&amp;fid=222&amp;extra=page%3D1&amp;topicsubmit=yes" onsubmit="return validate(this)">
+<input type="hidden" name="formhash" value="3155699f" />
+<div id="quickpost" class="box">
+<span class="headactions"><a href="http://club.edu.sina.com.cn/member.php?action=credits&amp;view=forum_post&amp;fid=222" target="_blank">查看积分策略说明</a></span>
+<h4>快速发新话题</h4>
+<div class="postoptions">
+<h5>选项</h5>
+<p><label><input class="checkbox" type="checkbox" name="parseurloff" id="parseurloff" value="1" /> 禁用 URL 识别</label></p>
+<p><label><input class="checkbox" type="checkbox" name="smileyoff" id="smileyoff" value="1" /> 禁用 </label>!smilies!</p>
+<p><label><input class="checkbox" type="checkbox" name="bbcodeoff" id="bbcodeoff" value="1" /> 禁用 </label><a href="/faq.php?action=message&amp;id=18" target="_blank">Discuz!代码</a></p>
+<p><label><input class="checkbox" type="checkbox" name="isanonymous" value="1" /> 使用匿名发帖</label></p> <p><label><input class="checkbox" type="checkbox" name="usesig" value="1" /> 使用个人签名</label></p>
+<p><label><input class="checkbox" type="checkbox" name="emailnotify" value="1" /> 接收新回复邮件通知</label></p>
+<p><label><input type="checkbox" name="disable_rate" value="1" /> 禁止评分</label></p>
+</div>
+<div class="postform">
+<div id="fastlogin" style="margin-left:44px;margin-top:5px"></div>
+<h5><label for="subject">标题</label>
+<input type="text" id="subject" name="subject" tabindex="1" /></h5>
+<div id="threadtypes"></div>
+<p><label>内容</label>
+<textarea rows="7" cols="80" class="autosave" name="message" id="message" onkeydown="ctlent(event);" tabindex="2"></textarea>
+</p>
+<p class="btns">
+<button type="submit" name="topicsubmit" id="postsubmit" tabindex="3">发表帖子</button>[完成后可按 Ctrl+Enter 发布]&nbsp;
+					<a href="###" id="previewpost" onclick="$$('postform').action=$$('postform').action + '&amp;previewpost=yes';$$('postform').submit();">预览帖子</a>&nbsp;
+					<a href="###" id="restoredata" title="恢复上次自动保存的数据" onclick="loadData()">恢复数据</a>&nbsp;
+					<a href="###" onclick="$$('postform').reset()">清空内容</a>
+</p>
+<div id="fastlogin" style="margin-left:36px;margin-top:5px">
+<table>
+<tr>
+<td style="color:#666666;border-top:0px;width:110px;display:none;" valign="center">
+<input type="checkbox" name="gilet_user" value="1" id="select_login_user_checkbox" onclick="set_user_input();" style="float:left;" tabindex="4" />
+<script language="javascript">
+									loginmessage = '登录成功';
+								</script>
+</td>
+<td id="login_user_input" style="color:#666666;border-top:0px" align="left">用户名：
+								<input type="text" name="ajax_login_name" id="ajax_login_name" value="会员名/邮箱/UC号" onclick="changeloginform(2)" style="color:#999" size="13" autocomplete="off" tabindex="5" onkeydown="ctlent(event);" /> 密码：
+								<input type="password" name="ajax_login_password" id="ajax_login_password" size="13" tabindex="6" onkeydown="ctlent(event);" /> &nbsp;&nbsp;
+								<a href="http://club.edu.sina.com.cn/api/forward.php?action=register&amp;forward=http://club.edu.sina.com.cn/" target="_blank" style="color:#226395" tabindex="7">注册新用户</a>&nbsp; <a href="http://login.sina.com.cn/cgi/getpwd/getpwd0.php?entry=sso" target="_blank" style="color:#226395" tabindex="8">找回密码 </a>&nbsp;
+							</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="smilies">
+<div id="smilieslist"></div>
+<script type="text/javascript">ajaxget('http://club.edu.sina.com.cn/post.php?action=smilies', 'smilieslist');</script>
+</div>
+<script type="text/javascript">
+				var textobj = $$('message');
+				window.onbeforeunload = function () {saveData(textobj.value)};
+				if(1 || is_ie &gt;= 5 || is_moz &gt;= 2) {
+					lang['post_autosave_none'] = "没有可以恢复的数据！";
+					lang['post_autosave_confirm'] = "此操作将覆盖当前帖子内容，确定要恢复数据吗？";
+				} else {
+					$$('restoredata').style.display = 'none';
+				}
+			</script>
+</div>
+</form>
+<link href="http://club.edu.sina.com.cn/app/admin/css/jquery.custom.css" rel="stylesheet" type="text/css" /><!--jquery定制CSS-->
+<!--昵称修改dialog-->
+<script>
+jQuery(document).ready(function(){
+    //昵称修改begin
+	Array.prototype.push = native_array_push;
+	jQuery("#change_nickname_dialog").dialog({ autoOpen: false,modal: true });
+	jQuery('#change_nickname_dialog').bind('dialogopen', function(event, ui) {
+		jQuery("select").hide();
+	});
+	jQuery('#change_nickname_dialog').bind('dialogclose', function(event, ui) {
+		jQuery("select").show();
+	});
+	$$('set_nickname_form_submit').onclick = function() {if( validate($$('postform'))) {$$('postform').submit();}};//将昵称确认按钮事件绑定到发帖上
+		jQuery("#select_login_user_checkbox").attr("checked", true);
+	    //昵称修改end
+});
+</script>
+<div id="change_nickname_dialog" title="填写论坛显示名" style="display:none">
+<div style="text-align:left;width:100%;">
+<div style="color:#8c8c8c;">
+		论坛显示名是您在论坛发言时显示的名字，<br />
+		不能与其他用户的显示名重复，提交后不能修改。
+		</div>
+<div style="padding-top:10px;padding-bottom:10px;">
+			填写显示名：<input type="text" name="nickname" value="" size="15" maxlength="16" id="nickname" />
+<input type="button" id="set_nickname_form_submit" value="确认" />
+</div>
+<div style="color:#8c8c8c;width: 285px;">
+			4到16个字符：中文，英文小写字母，数字或下划线
+		</div>
+</div>
+</div>
+<!--昵称修改dialog END-->
+<div id="footfilter" class="box">
+<form method="get" action="http://club.edu.sina.com.cn/forumdisplay.php">
+<input type="hidden" name="fid" value="222" />
+					查看 <select name="filter">
+<option value="0">全部主题</option>
+<option value="86400">1 天以来主题</option>
+<option value="172800">2 天以来主题</option>
+<option value="604800">1 周以来主题</option>
+<option value="2592000">1 个月以来主题</option>
+<option value="7948800">3 个月以来主题</option>
+<option value="15897600">6 个月以来主题</option>
+<option value="31536000">1 年以来主题</option>
+</select>
+				排序方式
+		<select name="orderby">
+<option value="lastpost" selected="selected">回复时间</option>
+<option value="dateline">发布时间</option>
+<!--&lt;option value="replies" &gt;回复数量&lt;/option&gt;-->
+<!--&lt;option value="views" &gt;浏览次数&lt;/option&gt;-->
+</select>
+<select name="ascdesc">
+<option value="DESC" selected="selected">按降序排列</option>
+<option value="ASC">按升序排列</option>
+</select>
+				&nbsp;<button type="submit">提交</button>
+</form>
+</div>
+<!--
+&lt;div class="legend"&gt;
+	&lt;label&gt;&lt;img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/folder_new.gif" alt="有新回复"  /&gt;有新回复&lt;/label&gt;
+	&lt;label&gt;&lt;img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/folder_common.gif" alt="无新回复"  /&gt;无新回复&lt;/label&gt;
+	&lt;label&gt;&lt;img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/folder_hot.gif" alt="热门主题"  /&gt;热门主题&lt;/label&gt;
+	&lt;label&gt;&lt;img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/edu_default/folder_lock.gif" alt="关闭主题"  /&gt;关闭主题&lt;/label&gt;
+&lt;/div&gt;-->
+<div class="popupmenu_popup" id="forumlist_menu" style="display: none">
+<dl><dt><a href="index.php?gid=67">坛友交流</a></dt><dd><ul><li><a href="http://club.edu.sina.com.cn/bbs/forum-209-1.html">大话教育</a></li><li><a href="http://club.edu.sina.com.cn/bbs/forum-69-1.html">灌水特区</a></li><li><a href="http://club.edu.sina.com.cn/bbs/forum-210-1.html">优惠活动</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=202">青春社区</a></dt><dd><ul><li><a href="http://club.edu.sina.com.cn/y/forum-211-1.html">菁菁校园</a></li><li><a href="http://club.edu.sina.com.cn/y/forum-212-1.html">男生女生</a></li><li><a href="http://club.edu.sina.com.cn/y/forum-213-1.html">时尚娱乐</a></li><li><a href="http://club.edu.sina.com.cn/y/forum-214-1.html">搞笑整蛊</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=1">高考论坛</a></dt><dd><ul><li><a href="http://club.edu.sina.com.cn/gaokao/forum-194-1.html">高考复读</a></li><li><a href="http://club.edu.sina.com.cn/gaokao/forum-54-1.html">报考交流</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-153-1.html">东北林业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-155-1.html">南京师范大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-156-1.html">中国药科大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-157-1.html">南京理工大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-158-1.html">江南大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-159-1.html">安徽大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-160-1.html">福州大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-161-1.html">中国海洋大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-162-1.html">武汉理工大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-163-1.html">华中农业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-164-1.html">湖南大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-152-1.html">哈尔滨工程大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-151-1.html">东北师范大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-150-1.html">中国刑事警察学院招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-139-1.html">合肥工业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-140-1.html">厦门大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-141-1.html">南昌大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-142-1.html">中国石油大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-143-1.html">郑州大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-144-1.html">中国地质大学(武汉)招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-145-1.html">华中师范大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-146-1.html">中南财经政法大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-147-1.html">西南大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-148-1.html">西南政法大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-149-1.html">大连海事大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-165-1.html">湖南师范大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-166-1.html">中山大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-167-1.html">华南理工大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-182-1.html">暨南大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-183-1.html">华南师范大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-184-1.html">电子科技大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-185-1.html">西南民族大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-186-1.html">西北大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-187-1.html">长安大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-188-1.html">西安电子科技大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-189-1.html">中国传媒大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-190-1.html">东北大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-191-1.html">东南大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-181-1.html">中南大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-180-1.html">新疆大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-168-1.html">广州中医药大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-169-1.html">广西大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-170-1.html">四川大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-171-1.html">西南交通大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-172-1.html">四川农业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-175-1.html">贵州大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-174-1.html">云南大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-176-1.html">西安交通大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-177-1.html">西北工业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-178-1.html">海南大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-179-1.html">兰州大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-86-1.html">南京大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-87-1.html">武汉大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-88-1.html">华中科技大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-89-1.html">山东大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-94-1.html">中国农业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-93-1.html">北京工业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-95-1.html">北京大学医学部招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-96-1.html">协和医科大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-97-1.html">北京语言大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-99-1.html">北京服装学院招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-100-1.html">中国人民公安大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-101-1.html">首都师范大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-102-1.html">北京交通大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-103-1.html">北京科技大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-85-1.html">哈尔滨工业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-84-1.html">上海交通大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-83-1.html">复旦大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-56-1.html">北京大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-58-1.html">中国政法大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-64-1.html">中国科学技术大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-65-1.html">吉林大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-70-1.html">西北农林科技大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-71-1.html">天津大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-75-1.html">清华大学招生信息发布及咨询会</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-77-1.html">北京邮电大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-78-1.html">北京理工大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-79-1.html">北京师范大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-80-1.html">中国人民大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-81-1.html">北京航空航天大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-82-1.html">南开大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-192-1.html">中国地质大学(北京)招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-105-1.html">中央民族大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-106-1.html">对外经贸大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-124-1.html">重庆邮电大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-125-1.html">河北工业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-126-1.html">太原理工大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-127-1.html">内蒙古大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-128-1.html">大连理工大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-129-1.html">辽宁大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-130-1.html">东北财经大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-131-1.html">延边大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-132-1.html">东北农业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-133-1.html">浙江大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-134-1.html">苏州大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-135-1.html">中国矿业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-136-1.html">河海大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-137-1.html">南京农业大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-123-1.html">四川外语学院招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-122-1.html">重庆大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-121-1.html">天津外国语学院招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-107-1.html">北京外国语大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-108-1.html">华北电力大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-109-1.html">中央财经大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-110-1.html">中国青年政治学院招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-111-1.html">北京第二外国语学院招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-112-1.html">国际关系学院招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-113-1.html">上海外国语大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-114-1.html">上海大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-115-1.html">上海财经大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-116-1.html">同济大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-117-1.html">华东师范大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-118-1.html">东华大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-119-1.html">华东理工大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-120-1.html">天津理工大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-138-1.html">南京航空航天大学招生政策交流答疑区</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-55-1.html">北京化工大学招生政策交流答疑区</a></li><li><a href="http://club.edu.sina.com.cn/gaokao/forum-5-1.html">学科辅导</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-193-1.html">全国高考分数线预测大讨论</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/gaokao/forum-76-1.html">全国高考各省试题大讨论</a></li><li><a href="http://club.edu.sina.com.cn/gaokao/forum-3-1.html">家长杂谈</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=218">中小学教育</a></dt><dd><ul><li><a href="http://club.edu.sina.com.cn/forum-24-1.html">初中·中考</a></li><li class="sub"><a href="http://club.edu.sina.com.cn/forum-224-1.html">初一家长杂谈</a></li><li><a href="http://club.edu.sina.com.cn/forum-219-1.html">小学·小升初</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=23">学习社区</a></dt><dd><ul><li><a href="http://club.edu.sina.com.cn/exam/forum-28-1.html">考研</a></li><li><a href="http://club.edu.sina.com.cn/exam/forum-45-1.html">公务员</a></li><li><a href="http://club.edu.sina.com.cn/exam/forum-46-1.html">司法</a></li><li><a href="http://club.edu.sina.com.cn/exam/forum-47-1.html">会计</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=14">出国留学</a></dt><dd><ul><li><a href="http://club.edu.sina.com.cn/a/forum-217-1.html">留学杂谈</a></li><li><a href="http://club.edu.sina.com.cn/a/forum-15-1.html">美国</a></li><li><a href="http://club.edu.sina.com.cn/a/forum-16-1.html">加拿大</a></li><li><a href="http://club.edu.sina.com.cn/a/forum-74-1.html">英国</a></li><li><a href="http://club.edu.sina.com.cn/a/forum-17-1.html">澳洲</a></li><li><a href="http://club.edu.sina.com.cn/a/forum-18-1.html">欧洲</a></li><li><a href="http://club.edu.sina.com.cn/a/forum-19-1.html">亚洲</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=72">外语论坛</a></dt><dd><ul><li><a href="http://club.edu.sina.com.cn/en/forum-40-1.html">雅思</a></li><li><a href="http://club.edu.sina.com.cn/en/forum-41-1.html">托福</a></li><li><a href="http://club.edu.sina.com.cn/en/forum-44-1.html">四六级</a></li><li><a href="http://club.edu.sina.com.cn/en/forum-43-1.html">GMAT</a></li><li><a href="http://club.edu.sina.com.cn/en/forum-42-1.html">GRE</a></li><li><a href="http://club.edu.sina.com.cn/en/forum-215-1.html">SAT</a></li><li><a href="http://club.edu.sina.com.cn/en/forum-196-1.html">英语杂谈</a></li><li><a href="http://club.edu.sina.com.cn/en/forum-216-1.html">秦苏姗英语</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=7">职场就业</a></dt><dd><ul><li><a href="http://club.edu.sina.com.cn/j/forum-9-1.html">求职交流</a></li><li><a href="http://club.edu.sina.com.cn/j/forum-8-1.html">人在职场</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=220">商学院论坛</a></dt><dd><ul><li><a href="http://club.edu.sina.com.cn/forum-221-1.html">MBA</a></li><li class="current"><a href="http://club.edu.sina.com.cn/forum-222-1.html">EMBA</a></li></ul></dd></dl> </div>
+<script type="text/javascript">
+var maxpage = 32;
+if(maxpage &gt; 1) {
+	document.onkeyup = function(e){
+		e = e ? e : window.event;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA') return;
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+				if(actualCode == 39) {
+			window.location = 'forumdisplay.php?fid=222&amp;page=2';
+		}
+					}
+}
+</script>
+<!--管理操作 start-->
+</div>
+<ul class="popupmenu_popup headermenu_popup" id="memcp_menu" style="display: none">
+<li><a href="http://club.edu.sina.com.cn/memcp.php">控制面板首页</a></li>
+<li><a href="http://club.edu.sina.com.cn/memcp.php?action=profile">编辑个人资料</a></li>
+<li><a href="http://club.edu.sina.com.cn/memcp.php?action=creditslog">积分记录</a></li>
+<li><a href="http://club.edu.sina.com.cn/memcp.php?action=usergroups">公众用户组</a></li>
+</ul>
+<ul class="popupmenu_popup headermenu_popup" id="stats_menu" style="display: none">
+<li><a href="http://club.edu.sina.com.cn/stats.php">基本概况</a></li>
+<li><a href="http://club.edu.sina.com.cn/stats.php?type=forumsrank">版块排行</a></li><li><a href="http://club.edu.sina.com.cn/stats.php?type=threadsrank">主题排行</a></li><li><a href="http://club.edu.sina.com.cn/stats.php?type=postsrank">发帖排行</a></li><li><a href="http://club.edu.sina.com.cn/stats.php?type=creditsrank">积分排行</a></li>
+<!--&lt;li&gt;&lt;a href="http://club.edu.sina.com.cn/stats.php?type=trade"&gt;交易排行&lt;/a&gt;&lt;/li&gt;暂时不支持此功能-->
+<li><a href="http://club.edu.sina.com.cn/stats.php?type=onlinetime">在线时间</a></li> <li><a href="http://club.edu.sina.com.cn/stats.php?type=team">管理团队</a></li>
+<li><a href="http://club.edu.sina.com.cn/stats.php?type=modworks">管理统计</a></li> </ul>
+<div class="ad_footerbanner" id="ad_down"></div>
+<!--登录框suggest开始-->
+<div id="SSOTipsContainer"></div>
+<link href="http://i.sso.sina.com.cn/css/cardtips.css" rel="stylesheet" type="text/css" media="all" />
+<script src="http://i.sso.sina.com.cn/js/cardtips.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+//可复制过去改下下面参数就可以了
+	function initUserName(){
+		passcardOBJ.init(
+			// FlashSoft 注意,最好这个input的autocomplete设定为off
+			// 需要有下拉框的input对象
+			document.getElementById("username"),
+			{
+				// 鼠标经过字体颜色
+				overfcolor: "#666",
+				// 鼠标经过背景颜色
+				overbgcolor: "#d6edfb",
+				// 鼠标离开字体颜色
+				outfcolor: "#000000",
+				// 鼠标离开背景颜色
+				outbgcolor: ""
+			},
+			// 输入完成后,自动需要跳到的input对象[备选]
+			document.getElementById("password"),
+			null,
+			document.getElementById("SSOTipsContainer")
+		);
+	}
+	var _usernameObj = document.getElementById("username");
+
+	if(_usernameObj != null) {
+		initUserName();
+	}
+</script>
+<!--登录框suggest结束--><div id="footer">
+<div class="wrap">
+<center>
+<!--标准尾-->
+<a href="http://comment4.news.sina.com.cn/comment/skin/feedback.html" target="_blank">教育频道意见反馈留言板</a> 电话：400-690-0000　欢迎批评指正<br />
+<a href="http://corp.sina.com.cn/chn">新浪简介</a> | <a href="http://corp.sina.com.cn/eng">About Sina</a> | <a href="http://emarketing.sina.com.cn">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="http://unipro.sina.com.cn/register.html">会员注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a>
+<br />
+		Copyright &copy; 1996 - 2014 SINA Corporation, All Rights Reserved<br />新浪公司 <a href="http://home.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a>
+<!--标准尾--> </center>
+</div>
+</div>
+<iframe id="test_iframe" src="" width="1" height="1" scrolling="NO" frameborder="0" style="display:none;"></iframe>
+<script>
+function ybbsup(data){
+	try{
+		if (/\.swf$/i.test(data.show) == false){
+			jQuery("#ad_up").html('&lt;a href="'+data.href+'" target="_blank"&gt;&lt;img src="'+data.show+'" &gt;&lt;/a&gt;');
+		}
+		else{
+            			var objFlash = new sinaFlash(data.show, "", "580", "102", "7", "", false,"high");
+            			objFlash.addParam("wmode", "opaque");
+			objFlash.write("ad_up");
+		}
+	}catch (e){
+	}
+}
+function ybbsmid(data){
+	try{
+		if (/\.swf$/i.test(data.show) == false){
+			jQuery("#ad_mid").html('&lt;a href="'+data.href+'" target="_blank"&gt;&lt;img src="'+data.show+'" width="300" height="31"&gt;&lt;/a&gt;');
+		}
+		else{
+			var objFlash = new sinaFlash(data.show, "", "300", "31", "7", "", false,"high");
+			objFlash.addParam("wmode", "opaque");
+			objFlash.write("ad_mid");
+		}
+	}catch (e){
+	}
+}
+function ybbsdown(data){
+	try{
+		if (/\.swf$/i.test(data.show) == false){
+			jQuery("#ad_down").html('&lt;a href="'+data.href+'" target="_blank"&gt;&lt;img src="'+data.show+'" width="950" height="90"&gt;&lt;/a&gt;');
+		}
+		else{
+			var objFlash = new sinaFlash(data.show, "", "950", "102", "7", "", false,"high");
+			objFlash.addParam("wmode", "opaque");
+			objFlash.write("ad_down");
+		}
+	}catch (e){
+	}
+}
+
+function ybbsfirstfloor(data) {//{"show":"文子内容","href":"广告链接"}
+	try{	
+		jQuery("#ad_thread1_0").html('&lt;a href="'+data.href+'" target="_blank"&gt;'+data.show+'&lt;/a&gt;');
+	}catch (e){
+	}
+}
+
+function ybbssecondfloor(data) {
+	try{
+		jQuery("#ad_thread1_1").html('&lt;a href="'+data.href+'" target="_blank"&gt;'+data.show+'&lt;/a&gt;');
+	}catch (e){
+	}
+}
+
+function ybbsthirdfloor(data) {
+	try{
+		jQuery("#ad_thread1_2").html('&lt;a href="'+data.href+'" target="_blank"&gt;'+data.show+'&lt;/a&gt;');
+	}catch (e){
+	}
+}
+
+
+function mygetscript(url) {
+		var s, c,  d = document, src = (url.indexOf("?") == "-1" ? url + "?" : url);
+		(s = d.createElement("script")).setAttribute("type", "text/javascript");
+		s.setAttribute("charset", "UTF-8");
+		d.getElementsByTagName("head")[0].appendChild(s).src = src;
+		
+		s.onload = s.onreadystatechange = function(){ s.readyState ? s.readyState.toLowerCase() == 'loaded'  : '' };
+	
+}
+
+jQuery(document).ready(function(){
+		mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsup_ads_call_back&site;=sina&ybbsgid;=educlub&ybbs1;=educlub_220&ybbs2;=educlub_220_222");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsmid_ads_call_back&site;=sina&ybbsgid;=educlub&ybbs1;=educlub_220&ybbs2;=educlub_220_222");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsdown_ads_call_back&site;=sina&ybbsgid;=educlub&ybbs1;=educlub_220&ybbs2;=educlub_220_222");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsfirstfloor_ads_call_back&site;=sina&ybbsgid;=educlub&ybbs1;=educlub_220&ybbs2;=educlub_220_222");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbssecondfloor_ads_call_back&site;=sina&ybbsgid;=educlub&ybbs1;=educlub_220&ybbs2;=educlub_220_222");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsthirdfloor_ads_call_back&site;=sina&ybbsgid;=educlub&ybbs1;=educlub_220&ybbs2;=educlub_220_222");
+	});
+</script>
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" charset="utf-8" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+<!-- SUDA_CODE_END -->
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://sina.wrating.com/a1.js"></script>
+<script type="text/javascript">
+try{
+var vjAcc="860010-0307020000"; 
+var wrUrl="http://sina.wrating.com/";
+vjTrack("");
+}catch(e){};
+</script>
+<noscript><img src="http://sina.wrating.com/a.gif?a=&amp;c=860010-0307020000" width="1" height="1" style="display: none;" /></noscript>
+<!-- END WRating v1.0 -->
+</body>
+</html>

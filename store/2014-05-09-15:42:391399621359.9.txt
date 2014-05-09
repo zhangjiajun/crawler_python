@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base target="_blank" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【香港宠物网|香港宠物市场】- 香港58同城</title>
+<meta name="mobile-agent" content="format=xhtml; url=http://m.58.com/hk/pets.shtml" />
+<meta name="mobile-agent" content="format=html5; url=http://m.58.com/hk/pets.shtml" />
+<meta name="mobile-agent" content="format=wml; url=http://m.58.com/hk/pets.shtml" />
+<meta name="keywords" content="香港宠物网,香港宠物市场" />
+<meta name="description" content="香港宠物网是香港地区最大的网上宠物交易市场，这里有大量的香港宠物市场信息供您查询，经过严格审核的香港宠物市场信息，是您查找香港宠物网的最佳选择。" />
+<link type="text/css" rel="stylesheet" href="http://pic2.58.com/ui6/index/s/categories.css" />
+<script type="text/javascript">try{var ____json4fe = {catentry:{dispid:'832',name:'宠物频道',listname:'pets'},locallist:{dispid:'2050',name:'香港',listname:'hk'},start:(new Date()).getTime(),version:'A',modules:'toplist'}}catch(e){};</script>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/comm_js/boot_toplist_version.js"></script>
+<script type="text/javascript">document.domain = '58.com'; var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3', '2050', '', true); win.setSearchButton('searchbtn'); boot.require('util.cookie', function (Frame, cookie) {cookie.set("city", "hk");})</script>
+</head>
+<body>
+<div id="topbar"></div><script type="text/javascript">boot.require('business.topbar', function (Frame, topbar, user) {topbar.init();});</script>
+<div id="header"><div id="headerinside"><div id="logo"><a href="/" target="_self"><img src="http://pic2.58.com/images/logonew.gif" alt="中文最大生活信息门户" /></a><span><a href="/pets.shtml" target="_self"><b>宠物频道</b></a></span></div><form onsubmit="b_query();return false;"><div id="searchbar"><i id="key"><input type="text" id="keyword" name="key" class="keyword" fdv="请输入宠物名称" onblur="win.closeToolTipWindow();" onkeyup="win.GetContentData();" autocomplete="off" /></i><i class="jobbtn"><input type="submit" name="button" class="btnall" id="searchbtn" value="搜索" onmousemove="this.className='btnal2'" onmouseout="this.className=''" /></i></div></form>
+<a href="http://post.58.com/2050/832/s2/" id="fabu">免费发布信息</a></div></div>
+<div class="wrap contop">
+<ul class="sixclass">
+<li><h2 class="n"><a href="/dog/">宠物狗</a></h2>
+<table class="sort" cellpadding="0" cellspacing="0">
+<tr>
+<td class="dogclass"><a href="/hashiqi/">哈士奇</a><cite>|</cite><a href="/zangao/">藏獒</a><cite>|</cite><a href="/ditaixiong/" class="redlink">泰迪熊</a><cite>|</cite><a href="/samoye/">萨摩耶</a><cite>|</cite><a href="/bixiong/">比熊</a><cite>|</cite><a href="/jianmao/">金毛</a><cite>|</cite><a href="/labuladuo/">拉布拉多</a><cite>|</cite><a href="/songshi/">松狮</a><br /><a href="/bomei/">博美犬</a><cite>|</cite><a href="/xuenaruei/">雪纳瑞</a><cite>|</cite><a href="/dmuyangquan/" class="redlink">德国牧羊犬</a><cite>|</cite><a href="/guibinquan/">贵宾</a><cite>|</cite><a href="/alasijia/">阿拉斯加</a><cite>|</cite><a href="/hudiequan/">蝴蝶犬</a><cite>|</cite><a href="/gaojiasuoquan/">高加索犬</a><br /><a href="/keka/">可卡</a><cite>|</cite><a href="/shapiquan/">沙皮犬</a><cite>|</cite><a href="/smuyangqua/">苏格兰牧羊犬</a><cite>|</cite><a href="/damaidingquan/">大麦町犬</a><cite>|</cite><a href="/shengbona/">圣伯纳</a><cite>|</cite><a href="/bage/">巴哥</a><cite>|</cite><a href="/luoweina/">罗威纳</a><br /><a href="/xiledi/">喜乐蒂</a><cite>|</cite><a href="/xishiquan/">西施犬</a><cite>|</cite><a href="/dabaixiong/" class="redlink">大白熊</a><cite>|</cite><a href="/lachang/">腊肠</a><cite>|</cite><a href="/douniuquan/">斗牛犬</a><cite>|</cite><a href="/jingba/">京巴</a><cite>|</cite><a href="/xigaodi/">西高地</a><cite>|</cite><a href="/yuekexia/">约克夏</a><br /><a href="/bigequan/">比格犬</a><cite>|</cite><a href="/yinhuquan/">银狐犬</a><cite>|</cite><a href="/kejiquan/">柯基犬</a><cite>|</cite><a href="/gumu/">古牧</a><cite>|</cite><a href="/bianjingmuyangquan/">边境牧羊犬</a><cite>|</cite><a href="/dubinquan/">杜宾犬</a><cite>|</cite><a href="/lingtiquan/">灵提</a><cite>|</cite><a href="/jiwawa">吉娃娃</a><br /><a href="/qitadog/">其他品种</a></td>
+</tr>
+</table></li>
+<li class="n"><h2 class="n"><a href="/cat/">猫</a>/<a href="/pet/">花鸟虫鱼</a></h2>
+<table class="sort" cellpadding="0" cellspacing="0">
+<tr>
+<td class="dogclass">
+<a href="/bosimao/">波斯猫</a><cite>|</cite><a href="/jiafeimao/">加菲猫</a><cite>|</cite><a href="/zeermao/">折耳猫</a><cite>|</cite><a href="/duanmaomao/" class="redlink">短毛猫</a><cite>|</cite><a href="/guanshangyu/">观赏鱼</a><cite>|</cite><a href="/wanshangniao/">玩赏鸟</a><cite>|</cite><a href="/qishipenjing/">奇石盆景</a><cite>|</cite><a href="/qitaxiaochong/">其他小宠</a>
+</td>
+</tr>
+</table></li>
+<li class="n"><h2 class="n"><a href="/shipin/">宠物用品/食品</a></h2>
+<table class="sort" cellpadding="0" cellspacing="0">
+<tr>
+<td class="dogclass"><a href="/gouliang/">狗粮</a><cite>|</cite><a href="/gouyongpin/">狗用品</a><cite>|</cite><a href="/maoliang/" class="redlink">猫粮</a><cite>|</cite><a href="/maoyongpin/">猫用品</a><cite>|</cite><a href="/chongwufushi/">宠物服饰</a><cite>|</cite><a href="/qitayongpin/">其它</a></td>
+</tr>
+</table></li>
+<li><h2 class="n"><a href="/chongwu/">宠物服务</a></h2>
+<table class="sort" cellpadding="0" cellspacing="0">
+<tr>
+<td class="dogclass"><a href="/chongwuyiyuan/">宠物医院</a><cite>|</cite><a href="/chongwujiyang/">宠物寄养</a><cite>|</cite><a href="/chongwumeirong/" class="redlink">宠物美容</a><cite>|</cite><a href="/chongwusheying/">宠物摄影</a><cite>|</cite><a href="/chongwupeizhong/">宠物配种</a><cite>|</cite><a href="/chongwutuoyun/" class="redlink">宠物托运</a><br /><a href="/qitacwfw/">其他宠物服务</a></td>
+</tr>
+</table></li>
+</ul><div class="clear"></div>
+</div>
+<div class="clear" id="jobgg"><span id="types"></span></div>
+<div class="wrap">
+<div class="wrapleft" id="global">
+<i class="lt"></i><i class="rt"></i>
+<div class="tabs"><p>
+<a href="/pets/" class="select"><span>全香港宠物频道</span></a>
+<a href="/jiulongcheng/pets/">九龙城</a><i class="gap">|</i><a href="/zhongxi/pets/">中西</a><i class="gap">|</i><a href="/dongqu/pets/">东区</a><i class="gap">|</i><a href="/guantang/pets/">观塘</a><i class="gap">|</i><a href="/wanzai/pets/">湾仔</a><i class="gap">|</i><a href="/shatian/pets/">沙田</a><i class="gap">|</i><a href="/tunmen/pets/">屯门</a><i class="gap">|</i><a href="/quanwan/pets/">荃湾</a><i class="gap">|</i><a href="/huangdaxian/pets/">黄大仙</a><i class="gap">|</i>
+<a href="/pets/">全部区域&raquo;</a>
+</p></div><div class="clear"></div>
+<div id="top_google_ad"></div>
+<div id="newc_inof">
+<table class="jiaoyoulist" cellpadding="0" cellspacing="0">
+<tr onmouseover="this.style.background='#fffee5'" onmouseout="this.style.background='#fff'">
+<td class="img">
+<a href="http://hk.58.com/dog/16675098232329x.shtml" target="_blank">
+<img src="http://pic.58.com/p1/tiny/n_s02097129349124464153.jpg" />
+</a>
+</td>
+<td class="price">
+<b>8800</b>元
+         	   </td>
+<td class="tm">
+<a href="http://hk.58.com/dog/16675098232329x.shtml" target="_blank" class="titlefont">
+                         来自约克夏世界冠军家族的约克夏(约瑟爹利)宝宝转让
+						</a>
+<br />性别：公
+					<span class="slash">/</span> 疫苗情况：
+					3针
+					 <span class="slash">/</span> 年龄：
+					 3
+                    </td>
+<td class="tc" style="width:100px">01-21</td>
+</tr>
+<tr onmouseover="this.style.background='#fffee5'" onmouseout="this.style.background='#fff'">
+<td class="img">
+<a href="http://hk.58.com/dog/16513589119880x.shtml" target="_blank">
+<img src="http://pic.58.com/p1/tiny/n_s12076444448460462115.jpg" />
+</a>
+</td>
+<td class="price">
+<b>6000</b>元
+         	   </td>
+<td class="tm">
+<a href="http://hk.58.com/dog/16513589119880x.shtml" target="_blank" class="titlefont">
+                         深圳出售纯种极品拉布拉多,1个月保健康,包疫苗驱虫
+						</a>
+<br />性别：公
+					<span class="slash">/</span> 疫苗情况：
+					2针
+					 <span class="slash">/</span> 年龄：
+					 2
+                    </td>
+<td class="tc" style="width:100px">01-06</td>
+</tr>
+<tr onmouseover="this.style.background='#fffee5'" onmouseout="this.style.background='#fff'">
+<td class="img">
+<a href="http://hk.58.com/dog/17404780897026x.shtml" target="_blank">
+<img src="http://pic.58.com/p1/tiny/n_s02190534725243868164.jpg" />
+</a>
+</td>
+<td class="price">
+<b>2000</b>元
+         	   </td>
+<td class="tm">
+<a href="http://hk.58.com/dog/17404780897026x.shtml" target="_blank" class="titlefont">
+                         家养法国斗牛犬幼犬出售公母均有可视频选狗
+						</a>
+<br />性别：公
+					<span class="slash">/</span> 疫苗情况：
+					3针
+					 <span class="slash">/</span> 年龄：
+					 3
+                    </td>
+<td class="tc" style="width:100px">03-28</td>
+</tr>
+</table>
+</div>
+<div id="bottom_google_ad"></div>
+<div class="lookmore"><a href="/dog/" target="_self">更多香港宠物狗信息&raquo;</a></div>
+</div>
+<div class="wrapright" id="rightAdframe" style="display:none;">
+<ul class="ads"><li id="ad1"></li></ul>
+<script language="javascript" type="text/javascript" src="http://service.58.com/rad.aspx?t=cate_default&amp;ids=2050,0,0,832,0,0"></script>
+</div><div class="clear"></div>
+</div>
+<div class="wrap">
+<h3></h3>
+<p class="tips">香港宠物频道-为您免费提供香港宠物信息发布及查询服务。如果您对香港宠物频道有任何意见和建议，欢迎 <a href="http://about.58.com/" target="_blank">联系客服</a></p>
+<div class="others"><ul>
+<li><a href="http://bj.58.com/pets.shtml">北京宠物网</a></li>
+<li><a href="http://sh.58.com/pets.shtml">上海宠物网</a></li>
+<li><a href="http://sz.58.com/pets.shtml">深圳宠物网</a></li>
+<li><a href="http://su.58.com/pets.shtml">苏州宠物网</a></li>
+<li><a href="http://gz.58.com/pets.shtml">广州宠物网</a></li>
+<li><a href="http://wh.58.com/pets.shtml">武汉宠物网</a></li>
+<li><a href="http://cd.58.com/pets.shtml">成都宠物网</a></li>
+<li><a href="http://tj.58.com/pets.shtml">天津宠物网</a></li>
+<li><a href="http://cc.58.com/pets.shtml">长春宠物网</a></li>
+<li><a href="http://sy.58.com/pets.shtml">沈阳宠物网</a></li>
+<li><a href="http://qd.58.com/pets.shtml">青岛宠物网</a></li>
+<li><a href="http://km.58.com/pets.shtml">昆明宠物网</a></li>
+<li><a href="http://fz.58.com/pets.shtml">福州宠物网</a></li>
+<li><a href="http://jn.58.com/pets.shtml">济南宠物网</a></li>
+<li><a href="http://hz.58.com/pets.shtml">杭州宠物网</a></li>
+<li><a href="http://wz.58.com/pets.shtml">温州宠物网</a></li>
+<li><a href="http://cs.58.com/pets.shtml">长沙宠物网</a></li>
+<li><a href="http://jl.58.com/pets.shtml">吉林宠物网</a></li>
+<li><a href="http://dl.58.com/pets.shtml">大连宠物网</a></li>
+<li><a href="http://hrb.58.com/pets.shtml">哈尔滨宠物网</a></li>
+</ul><div class="clear"></div></div>
+<div class="others">
+<ul class="friendlink">﻿&nbsp;<a href="http://link.58control.cn/AppLink.aspx?PlaceID=5&amp;CityID=2050&amp;CateID=832" target="_blank">自动申请链接</a></ul>
+<div class="clear"></div></div>
+</div>
+<div id="footer">&copy; 2010 58.com  <a href="http://about.58.com/" id="askicon">联系客服</a></div>
+<script type="text/javascript" src="http://pic2.58.com/js/track_alliance.js"></script>
+<script type="text/javascript">document.write('&lt;scri'+'pt src= http://track.58.com/adsys/catead?r='+Math.random()+'&gt;&lt;/scri'+'pt&gt;');</script>
+<div style="display:none;">
+<script type="text/javascript">
+var _gaq = _gaq || []; var site_name = "58";
+var _trackURL = "{'cate':'832','area':'2050','pagetype':'index'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']); 
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']); 
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']); 
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview', '/index/ershou/pets/']);
+boot.require('util.js', function(Frame, js){
+	Frame.init(function(){
+		js.append( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+		js.append('http://tracklog.58.com/referrer4.js');});});</script>
+</div></body></html>

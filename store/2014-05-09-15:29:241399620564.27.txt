@@ -1,0 +1,478 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[346,280,43] published at 2014-05-09 14:10:32 from #153 by system-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>房产每日博文排行_新浪博客_新浪网</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="房产每日博文排行,新浪博客" />
+<meta name="description" content="房产每日博文排行" />
+<!--
+房产
+107
+house
+day
+-->
+<style type="text/css">
+<!--
+/* CSS from lmy 2007-12-17*/
+/*CSS for all begin*/
+html, body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, td, img {margin:0; padding:0; border:0;}
+body,td,p,div,li,select,input,textarea {font-size:12px;}
+body { line-height:20px; color:#333;}
+ul {list-style-type:none;}
+select,input {vertical-align:middle;}
+#wrap { width:950px; margin:0 auto; color:#333;}
+.clearit { clear:both; font-size:0; line-height:0; height:0;}
+
+/*链接*/
+
+a:link,a:visited{ color:#646569; text-decoration:none;}
+a:hover,a:active{ color:#F00; text-decoration:none;}
+.link-ul a:link,.link-ul a:visited{ color:#646569; text-decoration:none;}
+.link-ul a:hover,.link-ul a:active{ color:#F00; text-decoration:underline;}
+.linkFFF a:link,.linkFFF a:visited{ color:#fff; text-decoration:none;}
+.linkFFF a:hover,.linkFFF a:active{ color:#fff; text-decoration:underline;}
+.link3164bf { color:#3164bf;}
+.link3164bf a:link,.link3164bf a:visited{ color:#3164bf; text-decoration:none;}
+.link3164bf a:hover,.link3164bf a:active{ color:#f00; text-decoration:underline;}
+.link335bbd a:link,.link335bbd a:visited{ color:#335bbd; text-decoration:none; font-size:14px;}
+.link335bbd a:hover,.link335bbd a:active{ color:#f00; text-decoration:underline;}
+
+/*列表*/
+ul.liNstyle { padding:5px 0 40px 0;}
+.liNstyle li { padding-left:3em; height:20px; line-height:20px; font-weight:bold; margin:3px 0;}
+.liNstyle li.selec { background:url(http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_022.gif) no-repeat;}
+.liNstyle a:link,.liNstyle a:visited{ color:#5d83b0; text-decoration:none;}
+.liNstyle a:hover,.liNstyle a:active{ color:#f00; text-decoration:underline;}
+/* sinanav */
+.sinanav{width:950px; height:40px; overflow:hidden; border:1px #e3e3e3 solid; border-left:none; border-right:none; clear:both; margin:0 0 5px 0; background:#fff;padding:3px 0 2px;}
+.sinanav li{width:59px; height:20px;overflow:hidden; text-align:center; background:url(http://i0.sinaimg.cn/IT/techshouye/images/tech_i_ws_001.gif) no-repeat 100% 35%; color:#353535; float:left;line-height:20px;}
+.sinanav li a:link,.sinanav li a:visited{color:#353535; text-decoration:none;}
+.sinanav li a:hover,.sinanav li a:active{color:#c00; text-decoration:underline;}
+.sinanav .sinanavnb{background:none;}
+li.linkRed02 a:link,li.linkRed02 a:visited{color:#f00;}
+li.linkRed02 a:hover,li.linkRed02 a:active{color:#c00;}
+
+/*共用样式*/
+.hScape { height:8px; line-height:0; font-size:0; overflow:hidden; clear:both; background:#fff;}
+
+/*banner*/
+#banner { width:950px; background:url(http://i0.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.jpg) no-repeat; height:90px;margin-top:5px}
+#banner h1 { color:#fff; font-size:32px; font-family:simhei; padding:35px 0 0 180px;}
+#banner span { display:block; color:#fff; font-weight:bold; padding:0 0 0 420px;}
+/*导航*/
+#nav1 { height:34px; text-align:right; line-height:34px;}
+#nav1 img { float:left;}
+
+/* 导航l1 */
+#nav_l1 {clear: both;height: 33px;width: 950px;margin-top:5px;}
+#nav_l1 #nav_l1_logo {float: left;height: 33px;width: 122px;text-align: left;}
+#nav_l1 #nav_l1_lnk {line-height: 23px;text-align: right;float: right;height: 23px;width: 470px;margin-top: 10px;padding-right: 4px;}
+#nav_l1 #nav_l1_lnk a:link,#nav_l1 #nav_l1_lnk a:visited {color: #000;text-decoration: none;}
+#nav_l1 #nav_l1_lnk a:active,#nav_l1 #nav_l1_lnk a:hover {color: #f00;text-decoration: none;}
+
+#nav2 { background:url(http://i0.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_003.gif) repeat-x; height:40px;}
+#nav2 #navTop { height:33px; padding-top:7px; overflow:hidden; display:inline-block; text-align:center;}
+#nav2 #navTop ul li { display:inline;}
+#nav2 #navTop img { vertical-align:middle;}
+#nav2 #navBot { height:30px;}
+#nav2{ text-align:center;}
+/*CSS for main begin*/
+.Cont { width:950px; overflow:hidden; display:inline-block; background:url(http://i3.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_028.gif) repeat-y right 0;}
+.Cont .le { float:left; width:126px; background:url(http://i0.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_021.gif) repeat-y; }
+.Cont .le h2 { background:url(http://i0.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_012.gif) no-repeat; height:25px; font-size:12px; line-height:28px; padding-left:2.7em; color:#2d5ca0;}
+.Cont .ri { float:left; width:824px; height:620px; border-bottom:1px solid #9ab3f3; padding-bottom:10px; }
+.Cont .ri h2 { background:url(http://i3.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_019.gif) no-repeat 8px 5px; color:#fff; font-size:12px; padding-left:2em;}
+.Cont .ri table { width:818px; margin:0 2px 0 3px;}
+.Cont .ri th { border-bottom:1px solid #92b5ef; background:#eef5ff; font-weight:normal; color:#5b5e65; font-size:12px; line-height:23px; height:23px;}
+.Cont .ri td { line-height:23px; text-align:center; color:#5f5f5f;}
+.Cont .ri td.textL { text-align:left;}
+.Cont .ri td span { width:40px; height:11px; line-height:11px; text-align:center; font-weight:bold; display:block; margin:0px 0 0 12px; _margin:0;}
+.botBg { background:url(http://i3.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_011.gif) no-repeat; height:7px; line-height:0; font-size:0; overflow:hidden; clear:both;}
+
+/*舌签样式*/
+ul.menuStyle { border-bottom:5px solid #4b76bb; height:27px;}
+.menuStyle li { float:left; background:url(http://i2.sinaimg.cn/blog/main/rank/bang_tab.gif) no-repeat; width:89px; height:27px; text-align:center; font-size:14px; font-weight:normal; cursor:pointer; line-height:27px; color:#335bb2; margin-right:5px;}
+.menuStyle li.selectd { color:#fff; background:url(http://i2.sinaimg.cn/blog/main/rank/bang_tab_on.gif) no-repeat;}
+
+ul.menuStyleIn { background:#96b3eb; height:28px;}
+.menuStyleIn li { float:left; background:url(http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_017.gif) no-repeat; width:22px; height:23px; text-align:center; cursor:pointer; line-height:23px; color:#0c3591; margin:5px 0 0 3px;}
+.menuStyleIn li.selectd { background:url(http://i0.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_016.gif) no-repeat;}
+.menuStyleIn li a:link { color:#0c3591;}
+.menuStyleIn li.new { float:left; background:url(http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_017_1.gif) no-repeat; width:30px; height:23px; text-align:center; cursor:pointer; line-height:23px; color:#0c3591; margin:5px 0 0 3px;}
+.menuStyleIn li.newselectd { background:url(http://i0.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_016_1.gif) no-repeat; width:30px; height:23px;}
+
+/*CSS for main end*/
+
+/*CSS for copyright begin*/
+#uni_footer{width:950px;line-height:28px;text-align:center;color:#000;font-size:12px; padding-top:10px;}
+#uni_footer a:link,#uni_footer a:visited {color:#00f;text-decoration:none;}
+#uni_footer a:hover,#uni_footer a:active {color:#f00;text-decoration:underline;}
+/*CSS for copyright end*/
+
+h1,h2,h3,h4,h5,h6 {font-weight:normal;}
+b,strong {font-weight:normal;}
+
+.menuStyleli {font-weight:normal;}
+.liNstyle li{font-weight:normal;}
+
+-->
+</style>
+<script>document.domain='sina.com.cn';</script>
+<script type="text/javascript" src="http://i.sso.sina.com.cn/js/genvisitor.js"></script>
+</head>
+<body>
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" src="http://i3.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+<script type="text/javascript"> 
+_S_pSt(""); 
+</script>
+<!-- SUDA_CODE_END -->
+<div id="wrap">
+<!-- 标准二级导航_博客 begin -->
+<div style="margin-bottom:6px;margin-top:4px;">
+<style type="text/css">
+.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+.sHLogo span{display:block;float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+.sHLogo span img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;font-family: "Microsoft YaHei","微软雅黑","SimSun","宋体","Arial Narrow";}
+</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://blog.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" alt="新浪博客" /></a><a href="http://blog.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_blog.gif" alt="新浪博客" /></a></span></div>
+<div class="sHLinks"><a href="http://blog.sina.com.cn/">博客首页</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/">新浪导航</a></div>
+</div>
+</div>
+</div>
+<!-- 标准二级导航_博客 end -->
+<div id="banner">
+<h1>房产每日博文排行</h1>
+</div>
+<div class="hScape"></div>
+<div id="nav2">
+<div id="navTop" class="linkFFF">
+<ul>
+<li><a href="http://blog.sina.com.cn/">首页</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/ent/">娱乐</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/sports/">体育</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/book/">文化</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/tech/">IT</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/finance/">财经</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/auto/">汽车</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/house/">房产</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/edu/">教育</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/games/">游戏</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/mil/">军事</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/astro/">星座</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/eatblog.html">美食</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/decor/">家居</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.baby.sina.com.cn/lm/baby/">育儿</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/pic/">图片</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://photo.sina.com.cn/">相册</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://q.blog.sina.com.cn/">圈子</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/search/media/">媒体</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/ruiblog/">草根名博</a></li>
+<li><img src="http://i1.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_004.gif" /></li>
+<li><a href="http://blog.sina.com.cn/lm/search/class/">博客名录</a></li>
+</ul>
+</div>
+</div>
+<!--nav end-->
+<!--主页面开始-->
+<div class="hScape"></div>
+<ul class="menuStyle link3164bf">
+<li><a href="http://blog.sina.com.cn/lm/rank/" style="font-weight:normal;">排行榜首页</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/rank/" style="font-weight:normal;">总流量排行</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/all/day.html" style="font-weight:normal;">每日排行榜</a></li>
+<!--
+&lt;li&gt;&lt;a href="http://blog.sina.com.cn/lm/rank/new/" style="font-weight:normal;"&gt;最新更新榜&lt;/a&gt;&lt;/li&gt;
+-->
+<li><a href="http://blog.sina.com.cn/lm/rank/zlbang/" style="font-weight:normal;">每周人气榜</a></li>
+<li><a href="http://blog.sina.com.cn/lm/rank/focusbang/">总关注度榜</a></li>
+<li><a href="http://blog.sina.com.cn/lm/rank/monthbang/">月关注度榜</a></li>
+<li style="width:373px; float:right; background:none; font-weight:normal; text-align:right;">
+<script type="text/javascript">
+
+function blogsearch(fn,strName){if(fn.q.value==""||fn.q.value=="请输入查询词"){fn.q.value="请输入查询词";fn.q.focus();return false}if(strName!="blog"){return false}fn.submit();return false};
+
+function blogsearch_change1(o){
+var bs_listvalue=o.value;
+if(bs_listvalue=="nick"){document.forms["blogsearch_f1"].range.value="author"}
+else{document.forms["blogsearch_f1"].range.value="article"}
+};
+
+function iask(fn,strName){
+        if(fn.k.value=="" || fn.k.value=="请输入查询词"){fn.k.value="请输入查询词";fn.k.focus();return false;}
+        if(strName == "blog"){
+			if(document.forms["iask_f"].t.selectedIndex==3){
+				fn.action="http://q.blog.sina.com.cn/group_search.php";
+			} else {
+				if(document.forms["iask_f"].t.selectedIndex==2){
+					document.getElementById("s").value=0;
+					fn.action="http://search.blog.sina.com.cn/blog/search";
+				} else {
+					fn.action="http://search.blog.sina.com.cn/blog/search";
+				}				//fn.action="http://search.blog.sina.com.cn/blog/search";
+			}
+		} else {
+			return false;
+		}
+        fn.submit();
+        return false;
+}
+function g(URL){window.location.href=URL;}
+</script>
+<script language="javascript">
+function changelocation(){
+var listvalue;
+var listt;
+listvalue=document.forms["iask_f"].t;
+listt=listvalue.options[listvalue.selectedIndex].value;
+//alert(listt);
+if(listt=="circle"){
+document.forms["iask_f"].action="http://q.blog.sina.com.cn/group_search.php";
+}else{
+document.forms["iask_f"].action="http://search.blog.sina.com.cn/blog/search";
+}
+}
+</script>
+<form id="blogsearch_f1" name="blogsearch_f1" onsubmit="return blogsearch(this,'blog')" action="http://search.sina.com.cn/" target="_blank">
+<a href="http://search.sina.com.cn/?t=blog" target="_blank" style="text-decoration:none;">博客搜索</a>：<input type="text" id="k" style="width:133px;" value="请输入查询词" name="q" onclick="javascript:if(this.value=='请输入查询词')this.value='';" /><input type="hidden" name="c" value="blog" /><input type="hidden" name="range" value="article" />
+<select style="width:77px;" onchange="blogsearch_change1(this);" size="1" name="by">
+<option value="all" selected="selected">博客全文</option>
+<option value="title">文章标题</option>
+<option value="nick">博客作者</option>
+<option value="tag">标签</option>
+</select>
+<input name="" type="image" src="http://i2.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_005.gif" />
+</form>
+</li>
+</ul>
+<div class="hScape"></div>
+<div class="Cont">
+<div class="le">
+<div><img src="http://i3.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_020.gif" width="116" height="11" /></div>
+<ul class="liNstyle link5d83b0">
+<!--
+hotrankdata
+-->
+<li><a href="http://blog.sina.com.cn/lm/top/all/day.html">总榜</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/ent/day.html">娱乐</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/finance/day.html">财经</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/stock/day.html">股票</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/sports/day.html">体育</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/it/day.html">I T</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/cul/day.html">文化</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/edu/day.html">教育</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/mil/day.html">军事</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/baby/day.html">育儿</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/astro/day.html">星座</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/auto/day.html">汽车</a></li>
+<li class="selec"><a href="http://blog.sina.com.cn/lm/top/house/day.html">房产</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/decor/day.html">家居</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/games/day.html">游戏</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/eat/day.html">美食</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/travel/day.html">旅游</a></li>
+<!-- &lt;li &gt;&lt;a href="http://blog.sina.com.cn/lm/top/gongyi/day.html"&gt;公益&lt;/a&gt;&lt;/li&gt; -->
+<li><a href="http://blog.sina.com.cn/lm/top/pet/day.html">宠物</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/zatan/day.html">杂谈</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/fashion/day.html">时尚</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/pic/day.html">图片</a></li>
+</ul>
+<div><img src="http://i2.sinaimg.cn/blog/deco/2007/1219/ph_blog_lmy_018.gif" width="116" height="12" /></div>
+</div>
+<div class="ri">
+<ul class="menuStyleIn">
+<li style="width:550px; background:none; text-align:left;"><h2><span id="title_105" title="房产 107">房产每日博文排行</span></h2></li>
+<li class="selectd">日</li>
+<li><a href="http://blog.sina.com.cn/lm/top/house/week.html">周</a></li>
+<li><a href="http://blog.sina.com.cn/lm/top/house/mon.html">月</a></li>
+<li style="width:140px; float:right; background:none; font-weight:normal;">
+<!--以下往日新闻的选择条-->
+<style>
+			.SinaCalendar_Cnl{width:140px; line-height:22px; padding:2px 0 0 0; text-align:center; color:#576379; background:url(http://i1.sinaimg.cn/dy/20061220_calendar/RLT_ws_001.gif) no-repeat; cursor: pointer; font-size:12px;}
+
+			</style>
+<script>
+
+			function SinaCalendar_GetObj(objName)
+			{
+				if(document.getElementById)
+				{
+					return eval('document.getElementById("' + objName + '")');
+				}else if(document.layers)
+				{
+					return eval("document.layers['" + objName +"']");
+				}else
+				{
+					return eval('document.all.' + objName);
+				}
+			}
+
+			function SinaCalendar_GetOffsetPos(element)
+			{
+				var posTop = 0, posLeft = 0;
+				do 
+				{
+					posTop += element.offsetTop || 0;
+					posLeft += element.offsetLeft || 0;
+					element = element.offsetParent;
+				} while (element);
+
+				return [posLeft, posTop];
+			 }
+
+			function SinaCalendar_ie()
+			{
+				var browser = navigator.appVersion;
+				if(browser.indexOf("MSIE") &gt;= 1)
+				{
+					return true;
+				}
+				else
+				{
+					return false;
+				}
+			}
+
+			function SinaCalendar_ChangeCnl(divIdOrder)
+			{
+				var divName = "SinaCalendar_CnlCon_" +  divIdOrder;
+				var topDivName = "SinaCalendar_Cnl_" +  divIdOrder;
+				if(SinaCalendar_GetObj(divName).style.display == 'block')
+				{
+					SinaCalendar_GetObj(divName).style.display = 'none';
+				}
+				else if(SinaCalendar_GetObj(divName).style.display == 'none')
+				{
+					var i = 0;
+
+					while(1)
+					{
+						if(document.getElementById("SinaCalendar_CnlCon_" + i))
+						{
+							document.getElementById("SinaCalendar_CnlCon_" + i).style.display = "none";
+						}
+						else
+						{
+							break;
+						}
+
+						i ++;
+					}
+
+					SinaCalendar_GetObj(divName).style.display = 'block';
+
+				}
+			}
+
+			function SinaCalendar_closeDiv(divIdOrder)
+			{
+				document.getElementById("SinaCalendar_CnlCon_" + divIdOrder).style.display	=	'none';
+			}
+
+			function CreateDiv(divIdOrder,title,url,defaultUrl,startdate,top,left,divZindex)//061221修改，增加divZindex参数，在CreateDiv时需递减
+			{
+				document.write("&lt;div style='width:140px; margin:0 auto;'&gt;");//增加宽度控制并居中
+				document.write("&lt;div style='position:relative; margin-top:-3px;' style='z-index:"+ divZindex + ";'&gt;");
+				document.write("	&lt;div class='SinaCalendar_Cnl' id='SinaCalendar_Cnl_" + divIdOrder + "' onclick='javascript:SinaCalendar_ChangeCnl(" + divIdOrder + ");'&gt;&nbsp;&nbsp;" + title + "&lt;/div&gt;");
+
+				document.write("	&lt;div name="SinaCalendar_CnlCon" id="SinaCalendar_CnlCon_" + divIdOrder + "" style="display:none;position:absolute;top:" + top + "px; left:" + left + "px;width:140px; height:176px;"&gt;");
+
+				document.write("		&lt;div style="background:#cde0f4; width:140px; height:15px;" align="right"&gt;&lt;img src="http://i2.sinaimg.cn/dy/20061220_calendar/RLT_ws_002.gif" width="15" height="15" alt="关闭" title="关闭" style="cursor:pointer;" onclick="SinaCalendar_closeDiv(" + divIdOrder +")"&gt;&lt;/div&gt;");
+
+				document.write("		&lt;iframe name="RL" frameborder="0" height="162" width="140" marginheight="0" marginwidth="0" scrolling="no" src="http://news.sina.com.cn/iframe/news/calender/?startDate=" + startdate + "&amp;url=" + url + "&amp;defaultUrl=" + defaultUrl + ""&gt;&lt;/iframe&gt;");
+				document.write("	&lt;/div&gt;");
+				document.write("&lt;/div&gt;");
+				document.write("&lt;/div&gt;");
+			}
+
+			CreateDiv(0,"查询往日排行","http://blog.sina.com.cn/lm/oldrank/yearmonthday/house.html","http://blog.sina.com.cn/lm/top/house/day.html","2012-06-13",25,0,99);
+		</script>
+</li>
+</ul>
+<div class="if">
+<div class="conn">
+<table width="593" border="0" cellspacing="0" cellpadding="0" class="table1" id="table_lit_bang_105">
+<tr>
+<th width="5%" align="center">序号</th>
+<th width="60%">标题</th>
+<th width="15%">作者</th>
+<th width="10%">时间</th>
+<th width="10%">文章点击</th>
+</tr>
+<tr><td><div class="num"><span>1</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_54efda420102ejsq.html?tj=1" target="_blank">救市的三足鼎立之势!&nbsp;原创</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1425005122">东方朝阳</a></div></td><td>05-02</td><td>1,747</td></tr>
+<tr><td><div class="num"><span>2</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_4db8fce80102elrt.html?tj=1" target="_blank">为什么中国房价不能跌</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1303969000">明天的天</a></div></td><td>04-30</td><td>404</td></tr>
+<tr><td><div class="num"><span>3</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_53ac84b70102epu8.html?tj=1" target="_blank">房地产泡沫将被刺破？</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1403815095">邓浩志</a></div></td><td>04-11</td><td>119</td></tr>
+<tr><td><div class="num"><span>4</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_534085000101ide3.html?tj=1" target="_blank">政府房地产救市已经启动</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1396737280">威途机构</a></div></td><td>04-11</td><td>115</td></tr>
+<tr><td><div class="num"><span>5</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_499739a40101r90d.html?tj=1" target="_blank">李小宁：自住型商品房户型的分类</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1234647460">李小宁</a></div></td><td>04-25</td><td>42</td></tr>
+<tr><td><div class="num"><span>6</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_4db8fce80102elib.html?tj=1" target="_blank">房地产理性产品是颗定时炸弹</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1303969000">明天的天</a></div></td><td>04-15</td><td>33</td></tr>
+<tr><td><div class="num"><span>7</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_49aafe2a0102eijh.html?tj=1" target="_blank">上市房企利润下滑，业绩增长难以持续</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1235942954">赵卓文</a></div></td><td>04-30</td><td>30</td></tr>
+<tr><td><div class="num"><span>8</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_63e054f80102e538.html?tj=1" target="_blank">【博议楼市第180期】房价由假摔变成真跌</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1675646200">上海乐居</a></div></td><td>04-18</td><td>27</td></tr>
+<tr><td><div class="num"><span>9</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_5dc141300101izsj.html?tj=1" target="_blank">黎友焕：当前房价房租变化新趋势</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1572946224">黎友焕</a></div></td><td>03-14</td><td>27</td></tr>
+<tr><td><div class="num"><span>10</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_63e054f80102e537.html?tj=1" target="_blank">【博议楼市第179期】上海库存虽重回千万平市场却已今非昔比</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1675646200">上海乐居</a></div></td><td>04-18</td><td>21</td></tr>
+<tr><td><div class="num"><span>11</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_49e561320101d8lc.html?tj=1" target="_blank">4月京个贷市场交易量下滑35%</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1239769394">伟嘉安捷房贷专家</a></div></td><td>04-29</td><td>21</td></tr>
+<tr><td><div class="num"><span>12</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_84f57ee80101rsr8.html?tj=1" target="_blank">上海库存虽重回千万平市场却已今非昔比</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/2230681320">吾童树</a></div></td><td>04-16</td><td>17</td></tr>
+<tr><td><div class="num"><span>13</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_53ac84b70102ejle.html?tj=1" target="_blank">今年黄金月还会量价齐升</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1403815095">邓浩志</a></div></td><td>09-05</td><td>10</td></tr>
+<tr><td><div class="num"><span>14</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_74cc40c80101rwc0.html?tj=1" target="_blank">南京市商品房每日成交统计2013年9月12日</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1959542984">njstyj</a></div></td><td>09-13</td><td>10</td></tr>
+<tr><td><div class="num"><span>15</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_5c46bd190102e9ek.html?tj=1" target="_blank">台北两个著名的酒店</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1548139801">老冯拍楼</a></div></td><td>04-16</td><td>10</td></tr>
+<tr><td><div class="num"><span>16</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_472293cd0101fhbs.html?tj=1" target="_blank">新房市场发力“金九银十”</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1193448397">刘英潮</a></div></td><td>09-06</td><td>9</td></tr>
+<tr><td><div class="num"><span>17</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_5b9e87620101ku7h.html?tj=1" target="_blank">离婚后&nbsp;房产怎么过户？</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1537116002">邓小华</a></div></td><td>04-25</td><td>8</td></tr>
+<tr><td><div class="num"><span>18</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_499887de0101f6y6.html?tj=1" target="_blank">“城中城”不仅是钢筋丛林</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1234733022">饶及人</a></div></td><td>09-10</td><td>7</td></tr>
+<tr><td><div class="num"><span>19</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_474898510101ktjt.html?tj=1" target="_blank">奥地利</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1195939921">李忠</a></div></td><td>04-16</td><td>7</td></tr>
+<tr><td><div class="num"><span>20</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_53ac84b70102eq9p.html?tj=1" target="_blank">分期首付后又现零首付，想有效除非降价</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1403815095">邓浩志</a></div></td><td>05-01</td><td>7</td></tr>
+<tr><td><div class="num"><span>21</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_49f229690102enh4.html?tj=1" target="_blank">【房产】房地产市场若主动调整，或三四线城请先！</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1240607081">韩文龙</a></div></td><td>09-08</td><td>7</td></tr>
+<tr><td><div class="num"><span>22</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_5c4f32bf0101nszz.html?tj=1" target="_blank">8月楼市点评</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1548694207">中原集团研究</a></div></td><td>09-06</td><td>6</td></tr>
+<tr><td><div class="num"><span>23</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_477a70710101urob.html?tj=1" target="_blank">蔡为民楼势说：限购松绑此其时？</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1199206513">卫民不动产策划智库</a></div></td><td>04-14</td><td>6</td></tr>
+<tr><td><div class="num"><span>24</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_5b9e87620101kxa3.html?tj=1" target="_blank">【专业知识】买房支付意向金的10大好处</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1537116002">邓小华</a></div></td><td>04-30</td><td>6</td></tr>
+<tr><td><div class="num"><span>25</span></div></td><td style="text-align: left;"><div class="link335bbd textL"><a href="http://blog.sina.com.cn/s/blog_521449d30102e8ib.html?tj=1" target="_blank">新型城镇化道路怎么走？</a></div></td><td><div class="link-ul"><a class="a02" target="_blank" href="http://blog.sina.com.cn/u/1377061331">蔡阳的博客</a></div></td><td>09-07</td><td>6</td></tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<!--主页面结束-->
+<div id="uni_footer">
+<!-- sina footer begin -->
+<script type="text/javascript" src="http://news.sina.com.cn/iframe/js/blog/sina_blog_foot.js"></script>
+<!-- sina footer end -->
+</div>
+</div>
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://sina.wrating.com/a1.js"></script>
+<script type="text/javascript">
+try{
+var vjAcc="860010-0328010000"; 
+var wrUrl="http://sina.wrating.com/";
+vjTrack("");
+}catch(e){};
+</script>
+<noscript><img src="http://sina.wrating.com/a.gif?a=&amp;c=860010-0328010000" width="1" height="1" /></noscript>
+<!-- END WRating v1.0 -->
+</body>
+</html>

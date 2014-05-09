@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>云南锡业股份有限公司2014年最新招聘信息 - 58同城</title>
+<meta name="keywords" content="云南锡业股份有限公司" />
+<meta name="description" content="云南锡业股份有限公司是云南锡业集团有限责任公司控股、国内锡行业唯一的一家上市公司，是中国最大的锡生产、加工、出口基地，2005以来，公司锡金属产量位居全球第一。2000年2月" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript"> 
+	function changeClass(){
+		var parentName = document.getElementById("pname").value;
+		var allLi = document.getElementsByName("pli");
+		if(typeof(allLi)!=='undefined'){
+			for(i=0;i&lt;allLi.length;i++){
+				var li = allLi[i];
+				var liVal = li.firstChild.firstChild.innerHTML;
+				if(liVal===parentName){
+					var attr = document.createAttribute("class");
+         	attr.value="active";
+         	li.setAttributeNode(attr);
+					break;
+				}
+			}		
+		}
+	}
+</script>
+<body>
+<!-- Baidu Button BEGIN 
+&lt;script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;pos=right&amp;uid=6862043" &gt;&lt;/script&gt;
+&lt;script type="text/javascript" id="bdshell_js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+var bds_config={"bdTop":140};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+&lt;/script&gt;
+ Baidu Button END -->
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left"><h2></h2> <span id="ipconfig"></span></div>
+<div class="bar_right">
+<div id="login"><a rel="nofollow" target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">登录</a><span class="gap">|</span><a rel="nofollow" target="_self" href="https://passport.58.com/reg/">注册</a></div>
+</div></div></div>
+<div id="header">
+<div id="headerinside"><div id="logo"><a target="_blank" href="http://58.com/"><img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" /></a><span>中国500强企业</span></div>
+<span><a rel="nofollow" style="background: url(http://pic2.58.com/ui6/index/newbg.png) no-repeat scroll 0 -147px transparent;color: #FFFFFF;cursor: pointer;display: inline-block;float: left;font-size: 14px;font-weight: bold;height: 34px;line-height: 34px;position: absolute;right: 10px;text-align: center;top: 11px;width: 117px;" target="_blank" href="http://post.58.com/1/">免费发布信息</a></span></div>
+</div>
+<div id="nav" class="active">
+<div id="navin" class="active">
+<ul>
+<li><a href="/qiye/">首页</a></li>
+<li name="pli" id="pli"><a href="/qiyezixun/"><span>企业最新资讯</span></a></li>
+<li name="pli" id="pli"><a href="/qiyewenhua/"><span>企业文化</span></a></li>
+<li name="pli" id="pli"><a href="/qiyezhaopin/"><span>企业招聘指南</span></a></li>
+<li name="pli" id="pli"><a href="/top500/"><span>世界500强企业</span></a></li>
+<li name="pli" id="pli"><a href="/china500/"><span>中国500强企业</span></a></li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="企业百科" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input name="word" size="21" maxlength="100" type="text" placeholder="58生活资讯" onfocus="if(this.placeholder=='58生活资讯'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='58生活资讯';}" />
+<input type="submit" value="资讯搜索" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+</div>
+</div>
+<script type="text/javascript">changeClass();</script>
+<div class="content ej">
+<div class="box">
+<div class="left fl">
+<div><a rel="nofollow" href="http://zp.58.com/yy/2014spring/" target="_blank"><img style="border:none;" src="http://www.58.com/zp_images/allimg/131128/yjsguanggao.jpg" alt="58招聘季" /></a></div>
+<h2><span class="daohang"><a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/qiye/">企业百科</a> &gt; <a href="/china500/">中国500强企业</a> &gt; </span></h2>
+<div class="wenzhang">
+<h1>云南锡业股份有限公司2014年最新招聘信息</h1>
+<div class="sm">来源：58.com     2013-10-30 15:42 </div>
+<table cellpadding="0" cellspacing="0" width="100%" id="content">
+<tr><td>
+<p>云南锡业股份有限公司是云南锡业集团有限责任公司控股、国内锡行业唯一的一家上市公司，是中国最大的锡生产、加工、出口基地，2005以来，公司锡金属产量位居全球第一。2000年2月，&ldquo;锡业股份&rdquo;A股在深圳证券交易所挂牌上市，股票代码：000960。公司自上市以来，生产规模和资产规模不断扩大，现有年产8万吨锡、2.4万吨铅、2.4万吨锡化工产品、2.5万吨锡材产品的生产能力。总资产由1999年的16.34亿元 增加到2010年的113.31亿元。公司主要产品有锡锭、铅锭、铟锭、银锭、铋锭、铜精矿、锡铅焊料及无铅焊料，锡材、锡基合金、有机锡及无机锡化工产品等40多个系列1470多个品种。主导产品&ldquo;云锡牌&rdquo;精锡是&ldquo;中国名牌产品&rdquo;、国家质量免检产品，公司&ldquo;云锡牌YT&rdquo;商标是&ldquo;中国驰名商标&rdquo;、国际知名品牌。公司产品国际市场占有率16.75%，国内市场份额占了41.59%左右。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 云南锡业股份有限公司拥有世界上最先进的采、选、冶、深加工成套技术，拥有世界上最完整的锡采选冶及深加工产业链，拥有矿山勘探、采掘、选冶、锡化工、锡、铜、铅及其他有色金属深加工纵向一体化的产业格局。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 云南锡业股份有限公司坚持走新型工业化道路，通过资本运作，不断稳步推进发展战略的实施，加快技术进步和产业升级，积极抢占技术制高点，在国内同行业中首家成功地引进了世界最先进的澳斯麦特技术，锡熔炼技术整体上领先世界先进水平。公司积极实施&ldquo;走出去&rdquo;战略，生产和经营范围不断发展，在湖南郴州形成采、选、冶一体的产业链，形成云南以外的另一生产基地，保证公司持续发展。云南锡业股份有限公司除在昆明、北京、上海和全国各地的经销机构以外，在美国、德国也有营销公司。目前，云南锡业股份有限公司有11下属分公司、7控股子公司、2全资子公司。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 云南锡业股份有限公司的产品以精锡、焊锡及锡材、锡化工系列为主，同时生产铜、铅、锌、镍、铟、银、铋、金、铂、钯、铑、铱、钌、锇、贵金属高纯材料、特种功能材料、信息功能材料、环境、催化功能材料及有色化工产品等共20个系列600多个品种。有41种产品和设备出口56个国家和地区，企业自营出口创汇连续多年居云南省第一。主导产品&ldquo;云锡牌&rdquo;精锡是&ldquo;中国名牌产品&rdquo;、国家质量免检产品，在伦敦金属交易所注册&ldquo;YT&rdquo;商标，是国际知名品牌，锡铅焊料在国内同类产品中唯一获国家质量金奖。公司通过了ISO10012.1计量检测体系认证、ISO9001质量管理体系认证和ISO14001环境管理体系认证。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 云南锡业股份有限公司形成了具有鲜明自身特色的管理优势和优良的企业文化，有很好的社会形象、企业信誉和融资渠道。先后被评为&ldquo;云南省文明单位&rdquo;、&ldquo;全国用户满意企业&rdquo;、 &ldquo;全国精神文明建设工作先进单位&rdquo;、&ldquo;上市公司竞争力百强企业&rdquo;等荣誉称号。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 云南锡业股份有限公司将以其雄厚的实力、稳健的经营、先进的技术、精湛的工艺、优异的质量、一流的业绩以及最好的服务，厚报社会，实现产业报国，再创中国锡工业的辉煌。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 云南锡业股份有限公司是我国主要的锡生产基地。多年来，公司重视污染源的防治和环境保护工作，严格执行国家环境保护有关法令法规和方针政策，新建项目按&quot;三同时&quot;的要求防止新污染源的产生，积极开展对现有污染源的治理，累计投资3035.6万元完成了污水闭路循环、烟化炉系统烟气SO2治理、渣场复土植被等一大批环保专项治理工程，实现了污水零排放，所有污染物达标排放，投资1.7亿元，引进澳大利亚澳斯麦特熔炼技术，对现有粗炼系统进行改造，通过工艺改造从根本上彻底消除末端治理难以解决的废气无组织污染，区域环境质量以明显提高，收到了良好的环境效益和社会效益。</p>
+<p>更多精彩文章推荐：</p>
+<p><a href="http://www.58.com/china500/20131031318919.html">广州东凌粮油股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031319046.html">歌尔声学股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031319045.html">上海外高桥保税区开发股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031319042.html">天虹纺织集团有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031319041.html">广州市广百股份有限公司</a></p>
+</td></tr>
+</table>
+<div class="n_p">
+<!-- 百度分享 横向 kong 2013.11.26 -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+<a class="bds_qzone"></a>
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+<span class="bds_more">更多</span>
+<a class="shareCount"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script><br /><br />
+<!-- 百度分享 横向 kong 2013.11.26 -->
+                上一篇：<a href="/china500/20131030315960.html">华润燃气控股有限公司2014年最新招聘信息</a> <br />
+
+
+
+                    下一篇：<a href="/china500/20131030316405.html">中国山水水泥集团有限公司2014年最新招聘信息</a>
+<center><tr><td>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span>
+</td></tr></center>
+</div>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt>
+<strong>热门职位推荐</strong>
+</dt>
+<dd class="hotpList">
+<a href="/yewu/">销售</a>
+<a href="/bianji/">编辑</a>
+<a href="/wenziluru/">文员</a>
+<a href="/sheji/">平面设计</a>
+<a href="/jiaoshi/">教师</a>
+<a href="/yiliao/">医生</a>
+<a href="/waimaozhuanyuan/">外贸专员</a>
+<a href="/kefu/">客服</a>
+<a href="/caiwu/">会计</a>
+<a href="/qiantai/">前台</a>
+<a href="/wangzhanmeigong/">网页制作</a>
+<a href="/youerjiaoshi/">幼教</a>
+<a href="/hushi/">护士</a>
+<a href="/shichang/">市场公关</a>
+<a href="/dyao/">导游</a>
+<a href="/fanyizhaopin/">翻译</a>
+<a href="/zhaopinjingli/">人事专员</a>
+<a href="/jishuzhichi/">技术支持</a>
+<a href="/jypeixunshi/">培训师</a>
+<a href="/lfawurenyuan/">法务专员</a>
+<a href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+<!--   相关资讯   -->
+<div class="n_p">
+<h3 class="about">云南锡业股份有限公司2014年最新招聘信息相关推荐</h3>
+<div class="ul2">
+<ul>
+<li><span>02-20</span><a href="/china500/20140220628352.html" title="" target="_self">上海隧道工程股份有限公司招聘</a></li>
+<li><span>02-20</span><a href="/china500/20140220628349.html" title="" target="_self">上海隧道工程股份有限公司怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628347.html" title="" target="_self">平顶山煤业集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628346.html" title="" target="_self">平顶山天安煤业</a></li>
+<li><span>02-20</span><a href="/china500/20140220628341.html" title="" target="_self">东部华侨城招聘信息</a></li>
+<li><span>02-20</span><a href="/china500/20140220628340.html" title="" target="_self">深圳华侨城集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628339.html" title="" target="_self">百度理财怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628337.html" title="" target="_self">百度公司地址</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<!--   相关资讯   -->
+</div>
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>栏目推荐</h2>
+<div class="tuijian"><a class="y5" href="/china500/20131107347109.html">2013中国企业500强排行榜</a><a class="y1" href="/qiyezixun/">企业最新资讯</a><a class="y4" href="/qiyezhaopin/">企业招聘信息</a><a class="y3" href="/qiyefazhan/">企业发展</a><a class="y2" href="/qiyewenhua/">企业文化</a><a class="y5" href="/qiyerenwu/">企业热点人物</a></div>
+</div>
+<div class="hot fl">
+<h2>58同城官方微信二维码</h2>
+<ul class="j">
+<a target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" height="220" width="220" src="http://www.58.com/zp_images/allimg/131014/qrcode_for_gh_e21b1c81eaab_258.jpg" /> </a>
+<li>功能：职位订阅 精准推送 </li>
+<li>公众号：58同城</li>
+<li>微信号：amazing58</li>
+<li>提示：打开微信，点击底部菜单</li>
+<li>"发现"，选择"扫一扫"功能对准上</li>
+<li>方二维码即可关注。</li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热点排行</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029296813.html" target="_blank">百丽国际控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297213.html" target="_blank">tcl多媒体科技控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297435.html" target="_blank">恒逸石化股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297612.html" target="_blank">天音通信控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297838.html" target="_blank">中海集装箱运输股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297959.html" target="_blank">芜湖港储运股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029300672.html" target="_blank">内蒙古伊泰煤炭股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301113.html" target="_blank">中航国际控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301281.html" target="_blank">山西西山煤电股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029302414.html" target="_blank">玖龙纸业(控股)有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>推荐阅读</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029303151.html" target="_blank">中国大冶有色金属矿业有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029303672.html" target="_blank">远洋地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304067.html" target="_blank">世茂房地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304254.html" target="_blank">上海国际港务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029306451.html" target="_blank">湖南有色金属股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309731.html" target="_blank">创维数码控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309992.html" target="_blank">永辉超市股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310044.html" target="_blank">中国船舶工业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310177.html" target="_blank">国投电力控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273084.html" target="_blank">荣盛石化股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>精彩专区</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131025273301.html" target="_blank">一汽轿车股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273513.html" target="_blank">中海油田服务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275447.html" target="_blank">深圳华侨城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275560.html" target="_blank">平顶山天安煤业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276242.html" target="_blank">国电科技环保集团股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276774.html" target="_blank">中国雨润食品集团有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293347.html" target="_blank">阳煤化工股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293999.html" target="_blank">安阳钢铁股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295331.html" target="_blank">上海豫园旅游商城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295574.html" target="_blank">山西潞安环保能源开发股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"><a href="/qiyezixun/">企业最新资讯</a>  |  <a href="/qiyewenhua/">企业文化</a>  |  <a href="/qiyefazhan/">企业发展</a>  |<a href="/qiyezhaopin/">企业招聘信息</a>|  <a href="/qiyerenwu/">企业热点人物</a></p>
+<div id="flink"><strong>友情链接</strong>:<a target="_blank" href="http://bj.kuche.com/"></a> <a rel="nofollow" target="_blank" href="/link.html">更多...</a> </div>
+<div id="footer">© 58.com <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">帮助中心</a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffef543bf67b8f904475a9ebf319ee80d' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+	var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info/qiye'+mod+'/detail/';
+
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+</body>
+</html>

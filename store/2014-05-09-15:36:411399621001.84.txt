@@ -1,0 +1,697 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+            述职报告_述职报告范文 - 58同城
+        </title>
+<meta name="keywords" content="述职报告,述职报告范文" />
+<meta name="description" content="58同城述职报告频道，为职场人提供最全最新的个人述职报告、述职报告范文、述职报告格式、述职报告模板等，找述职报告就上58同城述职报告频道。" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript">
+        function changeClass() {
+            var parentName = document.getElementById("pname").value;
+            var allLi = document.getElementsByName("pli");
+            if (typeof(allLi) !== 'undefined') {
+                for (i = 0; i &lt; allLi.length; i++) {
+                    var li = allLi[i];
+                    var liVal = li.firstChild.firstChild.innerHTML;
+                    if (liVal === parentName) {
+                        var attr = document.createAttribute("class");
+                        attr.value = "active";
+                        li.setAttributeNode(attr);
+                        break;
+                    }
+                }
+            }
+        }
+    </script>
+<body>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;mini=1&amp;pos=right&amp;uid=218186"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config={"bdTop":100};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left">
+<span id="ipconfig">
+</span>
+</div>
+<div class="bar_right">
+<div id="login">
+<a target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">
+                            登录
+                        </a>
+<span class="gap">
+                            |
+                        </span>
+<a target="_self" href="https://passport.58.com/reg/">
+                            注册
+                        </a>
+</div>
+</div>
+</div>
+</div>
+<div id="navlist">
+<div id="navlist"><ul><li id="navbln"><a target="_self" href="http://www.58.com/?path=job.shtml">全职招聘</a></li><li><a target="_self" href="http://www.58.com/?path=jianzhi.shtml">兼职招聘</a></li><li class="job_icon"><a target="_self" href="http://www.58.com/mingqi/">名企招聘</a></li><li>
+<a href="http://www.58.com/zhiwei/" target="_blank">
+                        职位库
+                    </a>
+</li>
+<li><a target="_self" href="http://www.58.com/top500/">世界500强企业</a></li>
+<li><a target="_self" href="http://www.58.com/china500/">中国500强企业</a></li>
+<li class="sel" id="navbrn"><a href="http://www.58.com/zp/">求职指南</a></li></ul></div>
+</div>
+<div id="header">
+<div id="headerinside">
+<div id="logo">
+<a target="_self" href="http://58.com/">
+<img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" />
+</a>
+<h1>
+                        述职报告
+                    </h1>
+</div>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span></div>
+</div>
+
+<div id="nav">
+<div id="navin">
+<ul>
+<li>
+<a href="/zp/">
+                            首页
+                        </a>
+</li>
+<li name="pli" id="pli">
+<a href="/jianligonglue/" rel="dropmenu8">
+<span>
+                                简历攻略
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/mianshizhinan/" rel="dropmenu9">
+<span>
+                                面试指南
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/xinchoufuli/" rel="dropmenu10">
+<span>
+                                薪酬福利
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/shenzaizc/" rel="dropmenu11">
+<span>
+                                身在职场
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/laodongfayuan/" rel="dropmenu12">
+<span>
+                                劳动法苑
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/zhichangzixun/" rel="dropmenu7">
+<span>
+                                职场资讯
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/jianli/">
+<span>
+                                个人简历
+                            </span>
+</a>
+</li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="身在职场" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input name="word" size="19" maxlength="100" type="text" placeholder="如：应届生简历模板" onfocus="if(this.placeholder=='如：应届生简历模板'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='如：应届生简历模板';}" />
+<input type="submit" value="资讯搜索" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+</div>
+</div>
+<script type="text/javascript">
+            changeClass();
+        </script>
+<div class="content ej">
+<div class="erji">
+<a href="/zcchongdian/">
+                    职场充电
+                </a>
+<a href="/tiaocaocelue/">
+                    跳槽策略
+                </a>
+<a href="/lehuozc/">
+                    乐活职场
+                </a>
+<a href="/shuzhibaogao/" class="ac"> 述职报告 </a>
+</div>
+<div class="box">
+<div class="left fl">
+<h2>
+<span class="daohang">
+<a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/zp/">招聘</a> &gt; <a href="/shenzaizc/">身在职场</a> &gt; <a href="/shuzhibaogao/">述职报告</a> &gt; 
+                        </span>
+</h2>
+<ul class="pdlist">
+<li>
+<p>
+<span>
+                                    2014-05-05 19:43:21 阅读(75)
+                                </span>
+<a href="/shuzhibaogao/20140505630781.html" target="_blank">
+<strong>
+                                        车间副主任述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                在这一年里，作为一名机修一车间的副主任，我严格落实岗位职责，全面协助车间主任落实相关工作。面对车间人员变动频繁、工作积极性不高、安全意识薄弱、技术力量不强等诸多不利因素...
+                                <a rel="nofollow" href="/shuzhibaogao/20140505630781.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-29 14:14:23 阅读(108)
+                                </span>
+<a href="/shuzhibaogao/20140429630736.html" target="_blank">
+<strong>
+                                        质监局员工个人述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                两年来，大理市局党组坚持以邓小平理论和三个代表重要思想为指导，牢固树立和落实科学发展观，较好地完成了各项目标任务，为推进质监事业的发展做出了积极努力， 一、思想政治建设进...
+                                <a rel="nofollow" href="/shuzhibaogao/20140429630736.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-25 14:20:26 阅读(200)
+                                </span>
+<a href="/shuzhibaogao/20140425630706.html" target="_blank">
+<strong>
+                                        仓储公司干部述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                暮然回首，往事溢满心头。在物资公司党委和物资公司的正确领导下，在机关部室和兄弟单位的支持配合下，我和班子成员一道，团结带领广大干部员工家属，以2010年度仓储公司总体工作思路...
+                                <a rel="nofollow" href="/shuzhibaogao/20140425630706.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-23 22:14:11 阅读(173)
+                                </span>
+<a href="/shuzhibaogao/20140423630686.html" target="_blank">
+<strong>
+                                        市场部经理述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                尊敬的领导: 承蒙领导信任，很荣幸能够加入到xxx智能设备有限公司这个欣欣向荣的大家庭!能够跟随公司，跟随智总来做一番事业。能够和xxx这么多优秀的员工共同进行创造性的工作。 自7月...
+                                <a rel="nofollow" href="/shuzhibaogao/20140423630686.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-23 10:05:25 阅读(185)
+                                </span>
+<a href="/shuzhibaogao/20140423630663.html" target="_blank">
+<strong>
+                                        银行柜员述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                我满怀着对金融事业的向往与追求走进了xxxx分行xx支行，在这里我将释放青春的能量，点燃事业的梦想。时光飞逝，来xx支行已经一个年头了，在这短短的一年中，我的人生经历了巨大的变化，...
+                                <a rel="nofollow" href="/shuzhibaogao/20140423630663.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-21 19:12:37 阅读(61)
+                                </span>
+<a href="/shuzhibaogao/20140421630626.html" target="_blank">
+<strong>
+                                        银行前台柜员个人述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                银行前台柜员个人述职报告。忙忙碌碌的一年又过去了，回顾一年来的所有工作令人欣慰。在支行各级领导的带领下和同事们的帮助下，我圆满顺利地完成了本年度的各项工作任务。现就一年...
+                                <a rel="nofollow" href="/shuzhibaogao/20140421630626.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-18 21:10:31 阅读(85)
+                                </span>
+<a href="/shuzhibaogao/20140418630588.html" target="_blank">
+<strong>
+                                        商场营业部长述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                在维修消防管道渗漏时，消防管道老化，出现渗漏，由于管道暗埋地下，给维修查漏带来了难度，领导要求一星期查出渗漏点，我们请来自来水公司专业听漏人员，商城地下家具有地台，不具...
+                                <a rel="nofollow" href="/shuzhibaogao/20140418630588.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-16 19:12:54 阅读(147)
+                                </span>
+<a href="/shuzhibaogao/20140416630525.html" target="_blank">
+<strong>
+                                        运输经理述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                一年来，在集团公司党委、行政的正确领导下，坚持以xxxx的重要思想为指导，认真贯彻落实党的xx届四中全会精神，与时俱进，开拓创新，迎战困难，增强意识，务实发展，在运输行业超吨限...
+                                <a rel="nofollow" href="/shuzhibaogao/20140416630525.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-15 17:44:18 阅读(90)
+                                </span>
+<a href="/shuzhibaogao/20140415630492.html" target="_blank">
+<strong>
+                                        活动中心主任述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                时光飞逝，来青少年学生校外活动中心工作已有一年。如果说，青少年校外教育是一门重要的当代课程，那么，这儿就是课堂。最难得的是，我融进了这里的文化，由陌生到熟悉，走进了这课...
+                                <a rel="nofollow" href="/shuzhibaogao/20140415630492.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-14 20:36:56 阅读(161)
+                                </span>
+<a href="/shuzhibaogao/20140414630422.html" target="_blank">
+<strong>
+                                        财务经理述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                各位领导、同志们; 岁月如梭，光阴似箭，又到一年金秋季节。一年时间对人类历史而言，只是一瞬，但对一个人的一生而言却不算短，特别是当年富力强的时侯，更具有十分重要的意义。过去...
+                                <a rel="nofollow" href="/shuzhibaogao/20140414630422.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-14 12:52:14 阅读(63)
+                                </span>
+<a href="/shuzhibaogao/20140414630392.html" target="_blank">
+<strong>
+                                        一线员工述职述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                时光飞逝，转眼XX年又开始了。还记得去年今时，刚刚入行的我甚至都没有机会来写这份述职报告，而现在我都算是行里的老员工了。虽然只是这短短的一年，却感觉我的人生经历了巨大的变化...
+                                <a rel="nofollow" href="/shuzhibaogao/20140414630392.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-10 19:41:23 阅读(52)
+                                </span>
+<a href="/shuzhibaogao/20140410630362.html" target="_blank">
+<strong>
+                                        中层干部述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                尊敬的各位领导、同事们： 你们好! 辉煌的20xx年即将过去,让我们迎来期待已久的2011年.回顾硕果累累的20xx.在公司的正确领导下,和管理处李主任、安全部董主管的辛勤带领下.我安全部三分队的...
+                                <a rel="nofollow" href="/shuzhibaogao/20140410630362.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-09 19:08:34 阅读(192)
+                                </span>
+<a href="/shuzhibaogao/20140409630327.html" target="_blank">
+<strong>
+                                        村支书述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                近年来，在镇党委政府关心和村班子成员的理解支持下，我本着多为群众办实事，办好事的理念，以人为本，忘我得工作，赢得了群众的首肯和信任，也取得了些许成绩。现将近一年来的工作...
+                                <a rel="nofollow" href="/shuzhibaogao/20140409630327.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-08 17:41:03 阅读(168)
+                                </span>
+<a href="/shuzhibaogao/20140408630298.html" target="_blank">
+<strong>
+                                        县烟草专卖局领导述职报告
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                一年来，商城县烟草专卖局在县委、县政府的正确领导和县委组织部的关心指导下，认真贯彻上级党建工作部署，以开展基层组织建设年活动为契机，深入落实科学发展观，积极开展创先争优...
+                                <a rel="nofollow" href="/shuzhibaogao/20140408630298.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-04 19:25:22 阅读(151)
+                                </span>
+<a href="/shuzhibaogao/20140404630263.html" target="_blank">
+<strong>
+                                        酒店保安述职报告范文
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                各位领导，各位同仁： 大家好! 回顾上半年的工作，在酒店领导的支持下及各部门的配合下，我们安保部加强安全防范管理，完善各种规章制度，严格落实消防四个能力提高绩效管理，为把太...
+                                <a rel="nofollow" href="/shuzhibaogao/20140404630263.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li>
+</ul>
+<p class="paging mar_t30">
+<ul class="paging mar_t30">
+                            首页
+1
+<a href="list_828_2.html">2</a>
+<a href="list_828_3.html">3</a>
+<a href="list_828_4.html">4</a>
+<a href="list_828_5.html">5</a>
+<a href="list_828_6.html">6</a>
+<a href="list_828_7.html">7</a>
+<a href="list_828_8.html">8</a>
+<a href="list_828_9.html">9</a>
+<a href="list_828_10.html">10</a>
+<a href="list_828_11.html">11</a>
+<a href="list_828_2.html">下一页</a>
+<a href="list_828_68.html">末页</a>
+<select name="sldd" style="width:42px" onchange="location.href=this.options[this.selectedIndex].value;">
+<option value="list_828_1.html" selected="selected">1</option>
+<option value="list_828_2.html">2</option>
+<option value="list_828_3.html">3</option>
+<option value="list_828_4.html">4</option>
+<option value="list_828_5.html">5</option>
+<option value="list_828_6.html">6</option>
+<option value="list_828_7.html">7</option>
+<option value="list_828_8.html">8</option>
+<option value="list_828_9.html">9</option>
+<option value="list_828_10.html">10</option>
+<option value="list_828_11.html">11</option>
+<option value="list_828_12.html">12</option>
+<option value="list_828_13.html">13</option>
+<option value="list_828_14.html">14</option>
+<option value="list_828_15.html">15</option>
+<option value="list_828_16.html">16</option>
+<option value="list_828_17.html">17</option>
+<option value="list_828_18.html">18</option>
+<option value="list_828_19.html">19</option>
+<option value="list_828_20.html">20</option>
+<option value="list_828_21.html">21</option>
+<option value="list_828_22.html">22</option>
+<option value="list_828_23.html">23</option>
+<option value="list_828_24.html">24</option>
+<option value="list_828_25.html">25</option>
+<option value="list_828_26.html">26</option>
+<option value="list_828_27.html">27</option>
+<option value="list_828_28.html">28</option>
+<option value="list_828_29.html">29</option>
+<option value="list_828_30.html">30</option>
+<option value="list_828_31.html">31</option>
+<option value="list_828_32.html">32</option>
+<option value="list_828_33.html">33</option>
+<option value="list_828_34.html">34</option>
+<option value="list_828_35.html">35</option>
+<option value="list_828_36.html">36</option>
+<option value="list_828_37.html">37</option>
+<option value="list_828_38.html">38</option>
+<option value="list_828_39.html">39</option>
+<option value="list_828_40.html">40</option>
+<option value="list_828_41.html">41</option>
+<option value="list_828_42.html">42</option>
+<option value="list_828_43.html">43</option>
+<option value="list_828_44.html">44</option>
+<option value="list_828_45.html">45</option>
+<option value="list_828_46.html">46</option>
+<option value="list_828_47.html">47</option>
+<option value="list_828_48.html">48</option>
+<option value="list_828_49.html">49</option>
+<option value="list_828_50.html">50</option>
+<option value="list_828_51.html">51</option>
+<option value="list_828_52.html">52</option>
+<option value="list_828_53.html">53</option>
+<option value="list_828_54.html">54</option>
+<option value="list_828_55.html">55</option>
+<option value="list_828_56.html">56</option>
+<option value="list_828_57.html">57</option>
+<option value="list_828_58.html">58</option>
+<option value="list_828_59.html">59</option>
+<option value="list_828_60.html">60</option>
+<option value="list_828_61.html">61</option>
+<option value="list_828_62.html">62</option>
+<option value="list_828_63.html">63</option>
+<option value="list_828_64.html">64</option>
+<option value="list_828_65.html">65</option>
+<option value="list_828_66.html">66</option>
+<option value="list_828_67.html">67</option>
+<option value="list_828_68.html">68</option>
+</select>
+<span class="pageinfo">共 <strong>68</strong>页<strong>1008</strong>条</span>
+</ul>
+</p>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt><strong>热门职位推荐</strong></dt>
+<dd class="hotpList">
+<a rel="nofollow" href="/yewu/">销售</a>
+<a rel="nofollow" href="/bianji/">编辑</a>
+<a rel="nofollow" href="/wenziluru/">文员</a>
+<a rel="nofollow" href="/sheji/">平面设计</a>
+<a rel="nofollow" href="/jiaoshi/">教师</a>
+<a rel="nofollow" href="/yiliao/">医生</a>
+<a rel="nofollow" href="/waimaozhuanyuan/">外贸专员</a>
+<a rel="nofollow" href="/kefu/">客服</a>
+<a rel="nofollow" href="/caiwu/">会计</a>
+<a rel="nofollow" href="/qiantai/">前台</a>
+<a rel="nofollow" href="/wangzhanmeigong/">网页制作</a>
+<a rel="nofollow" href="/youerjiaoshi/">幼教</a>
+<a rel="nofollow" href="/hushi/">护士</a>
+<a rel="nofollow" href="/shichang/">市场公关</a>
+<a rel="nofollow" href="/dyao/">导游</a>
+<a rel="nofollow" href="/fanyizhaopin/">翻译</a>
+<a rel="nofollow" href="/zhaopinjingli/">人事专员</a>
+<a rel="nofollow" href="/jishuzhichi/">技术支持</a>
+<a rel="nofollow" href="/jypeixunshi/">培训师</a>
+<a rel="nofollow" href="/lfawurenyuan/">法务专员</a>
+<a rel="nofollow" href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>
+                            栏目推荐
+                        </h2>
+<div class="tuijian"><a class="y7" href="http://zp.58.com/yy/2014spring/">58招聘季</a><a class="y1" href="/jianlimoban/">简历模板</a><a class="y2" href="/jianlifengmian/">简历封面</a><a class="y3" href="/qiuzhixin/">求职信</a><a class="y4" href="/ziwopingjia/">自我评价</a><a class="y5" href="/zhizuojiqiao/">制作技巧</a><a class="y6" href="/shenzaizc/">身在职场</a><a class="y7" href="/mianshitiku/">面试题库</a><a class="y1" href="/zijianxin/">自荐信</a><a class="y2" href="/ziwojianding/">自我鉴定</a><a class="y3" href="/ziwojieshao/">自我介绍</a><a class="y4" href="/mianshijiqiao/">面试技巧</a><a class="y5" href="/xinchoufuli/">薪酬福利</a><a class="y3" href="/zj/">总结范文</a><a class="y1" href="/gzzongjie/">工作总结</a><a class="y7" href="/zp/">求职指南</a><a class="y2" href="/sjbg/">社会实践报告</a><a class="y1" href="/zpzt/">求职资讯专题</a></div>
+</div>
+<div class="hot fl">
+<h2>58同城官方微信二维码</h2>
+<ul class="j">
+<a rel="nofollow" target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" height="220" width="220" src="http://www.58.com/zp_images/allimg/131014/qrcode_for_gh_e21b1c81eaab_258.jpg" /> </a>
+<li>功能：职位订阅 精准推送 </li>
+<li>公众号：58同城</li>
+<li>微信号：amazing58</li>
+<li>提示：打开微信，点击底部菜单</li>
+<li>"发现"，选择"扫一扫"功能对准上</li>
+<li>方二维码即可关注。</li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热点排行</h2>
+<ul class="j">
+<li><span class="z1"></span><a href="/shuzhibaogao/20130808145445.html">大学生村官述职报告</a></li>
+<li><span class="z1"></span><a href="/shuzhibaogao/20130809145611.html">音乐老师述职报告</a></li>
+<li><span class="z1"></span><a href="/shuzhibaogao/20130809145620.html">半年度述职报告</a></li>
+<li><span class="z1"></span><a href="/shuzhibaogao/20131012180190.html">文员述职报告怎么写</a></li>
+<li><span class="z1"></span><a href="/shuzhibaogao/20140425630706.html">仓储公司干部述职报告</a></li>
+<li><span class="z1"></span><a href="/shuzhibaogao/20130808145504.html">党员述职</a></li>
+<li><span class="z1"></span><a href="/shuzhibaogao/20130808145548.html">医生个人述职</a></li>
+<li><span class="z1"></span><a href="/shuzhibaogao/20130809145569.html">双拥工作述职报告</a></li>
+<li><span class="z1"></span><a href="/shuzhibaogao/20130809145583.html">员工述职报告范文</a></li>
+<li><span class="z1"></span><a href="/shuzhibaogao/20130812145755.html">采购述职报告</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热门企业招聘信息</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029305807.html" target="_blank">中国重汽集团济南卡车股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029296642.html" target="_blank">湖北宜化化工股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297654.html" target="_blank">厦门金龙汽车集团股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297885.html" target="_blank">开滦能源化工股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029300149.html" target="_blank">深圳市中金岭南有色金属股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029300278.html" target="_blank">桐昆集团股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029300462.html" target="_blank">保利协鑫能源控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301207.html" target="_blank">福建三钢闽光股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301422.html" target="_blank">北京王府井百货股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029302214.html" target="_blank">新奥能源控股有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>推荐企业招聘信息</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029303163.html" target="_blank">中石化冠德控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029303950.html" target="_blank">东风汽车股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029305308.html" target="_blank">厦门信达股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029306730.html" target="_blank">龙源电力集团股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029307524.html" target="_blank">大同煤业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030314588.html" target="_blank">神马实业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030314740.html" target="_blank">中国石化仪征化纤股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030314855.html" target="_blank">中国航空科技工业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030315138.html" target="_blank">安源煤业集团股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030315584.html" target="_blank">深圳长城开发科技股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030316152.html" target="_blank">云南锡业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030316405.html" target="_blank">中国山水水泥集团有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030316835.html" target="_blank">上海实业控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030317258.html" target="_blank">魏桥纺织股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030317927.html" target="_blank">中百控股集团股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl"><h2>手机专区</h2>
+<ul style="padding:5px; font-size:9px;">
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/zp/" target="_blank">跳蚤百科</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/jianlimoban/" target="_blank">简历模板</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/qiuzhixin/	" target="_blank">求职信</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/jianlifanwen/" target="_blank">简历范文</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/ziwojieshao/" target="_blank">自我介绍</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/ziwojianding/" target="_blank">自我鉴定</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/ziwopingjia/" target="_blank">自我评价</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/mianshitiku/" target="_blank">面试题库</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/zijianxin/	" target="_blank">自荐信</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/mianshizhinan/" target="_blank">面试指南</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/xinchoufuli/" target="_blank">薪酬福利</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/shenzaizc/	" target="_blank">身在职场</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/laodongfayuan/" target="_blank">劳动法苑</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/zhichangzixun/" target="_blank">职场资讯</a></li>
+<li style="float:left; margin-right:5px;"><a href="http://m.58.com/w/jiuyedongtai/" target="_blank">就业动态</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"> <b style="color:#666666">重点类别推荐：</b> <a href="/jianlimoban/">简历模版</a>|  <a href="/jianlifanwen/">简历范文</a>|  <a href="/qiuzhixin/">求职信</a>|  <a href="/ziwopingjia/">自我评价</a>|  <a href="/zijianxin/">自荐信</a>|  <a href="/ziwojianding/">自我鉴定</a>|  <a href="/ziwojieshao/">自我介绍</a>|  <a href="/zpzt/">求职资讯专题</a></p>
+<div id="flink">
+<strong>
+                            友情链接
+                        </strong>: 
+                        <a target="_blank" href="http://www.58.com/ziwopingjia/">自我评价</a>
+<a target="_blank" href="http://www.58.com/ziwojieshao/">自我介绍</a>
+<a target="_blank" href="http://www.58.com/ziwojianding/">自我鉴定</a>
+</div>
+<div id="footer">
+                        © 58.com
+                        <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">
+                            帮助中心
+                        </a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fabfe72bfdaaf5f8020fded755b5146e4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info'+mod+'/list/';
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+<!--BAIDU_YUNTU_START-->
+<script>
+(function(d, t) {
+    var r = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    r.async = 1;
+    r.src = '//rp.baidu.com/rp3w/3w.js?sid=10275130415331873409&amp;t=' + Math.ceil(new Date/3600000)
+    s.parentNode.insertBefore(r, s);
+})(document, 'script');
+</script>
+<!--BAIDU_YUNTU_END-->
+</body>
+</html>

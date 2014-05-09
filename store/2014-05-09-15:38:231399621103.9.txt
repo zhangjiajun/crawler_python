@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<title>用户注册 - 58游戏</title>
+<script src="http://pic2.58.com/ui6/kezhan/js/jquery-1.7.1.min.js"></script>
+<script src="http://pic2.58.com/pso/pcuc.js"></script>
+<link href="http://static.58.com/n/wan/base.css?v=2" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/n/wan/reg.css?v=2" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="header">
+<div class="wrap"><a href="javascript:void(0)" id="logo">58游戏</a>
+<ul id="nav">
+<li class="nav nav_1"><a href="http://wan.58.com/"><span>游戏首页</span></a></li>
+<li class="nav nav_2"><a href="http://wan.58.com/pay/index"><span>游戏充值</span></a></li>
+<li class="nav nav_3"><a href="http://about.58.com/leaveword2.aspx?cateid=185"><span>客服中心</span></a></li>
+<li class="nav nav_4"><a href="http://bbs.wan.58.com/forum.php"><span>游戏论坛</span></a></li>
+</ul>
+</div>
+</div>
+<div class="regbox">
+<h2 class="pageTit">用户注册</h2>
+<div class="porleft">
+<script src="http://passport.58.com/uiregscript?regSuccessFunction=regSuccessFunction" type="text/javascript"></script>
+</div>
+<div class="porright">
+<p>您已经是会员，请<a href="http://dxz.wan.58.com">登录</a></p>
+<div class="tel-tip">
+<strong>想免费更快速注册？</strong><br />
+					中国大陆手机用户<br />
+					编辑短信“<span class="red">zc</span>”发送到<br />
+<b class="red">1069015958</b><br />
+<span class="gray">根据短信提示操作，即可成功注册<br />
+				运营商收取短信费0.1元/条，无额外费用</span> </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="footer"><span><a target="_blank" href="http://about.58.com/index.html">联系客服</a><i>|</i><a target="_blank" href="http://about.58.com/home/">关于我们</a><i>|</i><a target="_blank" href="http://about.58.com/home/cooperation.html">合作洽谈</a><i>|</i><a target="_blank" href="http://e.58.com/">推广服务</a><i>|</i><a target="_blank" href="http://about.58.com/hr/">加入我们</a><i>|</i><a target="_blank" href="http://www.58.com/xiaoyuan/">校园招聘</a></span><span>京ICP证030609号  文网文[2012] 136号</span><span>北京五八信息技术有限公司 &copy;  58.com</span></div>
+<script type="text/javascript"> 
+var _gaq = _gaq || []; var site_name = "58"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', '360', 'q']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F858c7ca19007f1e952bf950d2d1b9d02' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html>
+<script type="text/javascript">
+
+    // 注册回调
+    function regSuccessFunction(){
+    	var backurl = 'http://wan.58.com/';
+    	if(backurl == ''){
+    		backurl = 'game.58.com';
+    	}
+       location.href = backurl;
+    }
+</script>

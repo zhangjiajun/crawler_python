@@ -1,0 +1,1045 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<title>军师官兵卫_电视资料_互动资料库_新浪娱乐_新浪网-</title>
+<meta name="keywords" content="大片 婚恋伦理 爱情 青春偶像 武侠 古装 军事战争 职业 医学 悬疑 刑侦 栏目剧 都市题材 农村题材 神话戏说 科幻奇幻 红色经典 古典文学 情景喜剧 剧情类 真人秀 动画 动作冒险 家庭 喜剧 纪实传记 年代剧 剧照海报  高清 图集 欧洲 美剧 日剧 韩剧 内地" />
+<meta name="description" content="新浪娱乐互动资料库产品是吸引每一名网友参与编辑的以wiki技术为基础的大型影视、音乐及明星资料数据库，及其衍生出的用户互动社区服务。它是基于web2.0概念的产品创新尝试。" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>电视资料_娱乐频道_新浪网</title>
+<link type="text/css" rel="stylesheet" href="/css/mainstyle.css" />
+<style type="text/css"></style>
+<script src="/iframe/counter.php?type=tv&amp;id=13671"></script>
+<script type="text/javascript">
+//&lt;![CDATA[
+function changeTab(btnName,dataName,clickId,count,classname,objEvent){objEvent=typeof(objEvent)=="string"?objEvent:"mouseover";function addEvent(obj,evType,fn,useCapture){if(!useCapture)useCapture=false;if(obj.addEventListener){obj.addEventListener(evType,fn,useCapture)}else{if(useCapture){alert('This browser does not support event capturing!')}else{var evTypeRef='__'+evType;if(!obj[evTypeRef]){obj[evTypeRef]=[];var orgEvent=obj['on'+evType];if(orgEvent)obj[evTypeRef][0]=orgEvent;obj['on'+evType]=IEEventHandler}else{for(var ref in obj[evTypeRef]){if(obj[evTypeRef][ref]===fn)return}}
+obj[evTypeRef][obj[evTypeRef].length]=fn}}}
+function IEEventHandler(e){e=e||window.event;var evTypeRef='__'+e.type;if(this[evTypeRef]){for(var ref in this[evTypeRef]){if(Function.call){this[evTypeRef][ref].call(this,e)}else{this.__fn=this[evTypeRef][ref];this.__fn(e);this.__fn=null}}}}
+function doChange(obj){var curId=obj.id.substr(btnName.length,obj.id.length-btnName.length);changeTab(btnName,dataName,curId,count,classname,curId,objEvent)}
+var $o=function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}}
+for(b=0;b&lt;count;b++){$o(btnName+b).style.cursor="pointer";$o(btnName+b).className=$o(btnName+b).className.replace(classname,"");$o(dataName+b).style.display="none";addEvent($o(btnName+b),objEvent,function(){doChange(this)})}
+$o(btnName+clickId).className+=" "+classname;$o(btnName+clickId).blur();$o(dataName+clickId).style.display="";}
+
+//]]&gt;
+</script>
+<script src="/js/global_function.js"></script>
+<script src="/js/md5.js"></script>
+<script src="/js/jq/jquery-1.2.6.js"></script>
+<script src="/js/jq/jquery.cookie.js"></script>
+<script src="/js/jq/jquery.json.js"></script>
+<script src="/js/jq/jquery.form.js"></script>
+<script src="/js/jq/ajaxfileupload.js"></script>
+<script src="/js/data/function.js"></script>
+<script src="/js/IO.Script.js"></script>
+<script src="/iframe/ndata.php?&amp;dpc=1"></script>
+<script type="text/javascript" charset="GB2312" src="http://i.sso.sina.com.cn/js/sinaSSOManager.js"></script>
+</head>
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+<script type="text/javascript"> 
+_S_pSt(); 
+</script>
+<!-- SUDA_CODE_END -->
+<body>
+<div id="wrap">
+<!-- 标准二级导航_娱乐 begin -->
+<style type="text/css">
+.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+.sHLogo span,.sHLogo span a,.sHLogo span a:link,.sHLogo span a:visited,.sHLogo span a:hover{display:block;*float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+.sHLogo span,.sHLogo span a img,.sHLogo span a:link img,.sHLogo span a:visited img,.sHLogo span a:hover img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;}
+</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://ent.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" alt="新浪网" /></a><a href="http://ent.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_ent.gif" alt="新浪娱乐" /></a></span></div>
+<div class="sHLinks"><a href="http://ent.sina.com.cn/">新浪娱乐</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/">新浪导航</a></div>
+</div>
+</div>
+<!-- 标准二级导航_娱乐 end -->
+<div class="nav"><a href="http://video.sina.com.cn/movie/" target="_blank"><img src="http://www.sinaimg.cn/ent/data/title/950x90.gif" width="950" height="90" alt="新浪大片" border="0" style="border:0;" /></a> </div>
+<div class="nav"> <img src="http://www.sinaimg.cn/ent/data/a/hdzlk.png" width="227" height="30" alt="" border="0" style="border:0;" /> </div>
+<div class="nav1">
+<ul class="listNav">
+<li><a href="/index.html">首页</a></li>
+<li><a href="/star/index.html">明星库</a></li>
+<li><a href="/movie/index.html">电影库</a></li>
+<li class="cur"><a href="/tv/index.html">电视库</a></li>
+<li><a href="/music/index.html">音乐库</a></li>
+<li><a href="/top/index.html">排行榜</a></li>
+</ul>
+<div class="nav1R fwhite"> <a href="/user/">个人中心</a> </div>
+</div><script>
+splitchar=String.fromCharCode(7);
+theId=13671;
+theName='军师官兵卫';
+thePicture='http://sinastorage.com/data.ent.sina.com.cn/tv/posters/13671/29533e323a9ad15456aa66b3bcba1e84.jpg';
+</script>
+<script>
+flashData.onload = function(){
+
+    if(flashData.read("recent_tv"))
+    {
+        recent_tv = flashData.read("recent_tv")+"|";
+    }else
+    {
+        recent_tv = '';
+    }
+    thisdata=theId+splitchar+theName+splitchar+thePicture+splitchar+window.location.href;
+    recent_tv=recent_tv.replace(/&amp;/g,"&amp;").replace(thisdata+'|','');
+    recent_tv+=thisdata;
+    var arr=recent_tv.split("|");
+    while(arr.length&gt;16)
+    {
+        arr.shift();
+    }
+    flashData.write("recent_tv",arr.join("|"),360000);
+
+    init_show();
+}
+function init_show()
+{
+    //历史记录
+    recent_tv=flashData.read("recent_tv");
+    var arr=recent_tv.split("|");
+    var d;
+    var html='';
+    var loopn=0;
+    for(var i=arr.length-1;i&gt;=0;i--)
+    {
+        loopn++;
+        d=arr[i].split(splitchar);
+        html+='&lt;div class="boxS5"&gt; &lt;a href="'
+        +d[3]+'"  class="aImgS1"&gt;&lt;img src="'
+        +ndata(d[2],'94_134')+'" width="50" height="67" alt="'
+        +d[1].cn_substr(0,16,'..')
+        +'"'
+        +'onerror='
+        +'"this.src=\'http://www.sinaimg.cn/ent/data/act/s.gif\'"'
+        +'  /&gt;&lt;/a&gt;&lt;p&gt;&lt;a href="'+d[3]+'" title="'+d[1]+'"&gt;'+d[1].cn_substr(0,14,'..')+'&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;';
+        if (loopn == 8)
+        {
+            break;
+        }
+    }
+    document.getElementById("recent_view").innerHTML=html;
+
+}
+</script>
+<!-- partA begin-->
+<div class="partA detail">
+<div class="aL">
+<!-- search begin -->
+<div class="blkSearch">
+<script>
+function deletewhitespace()
+{
+    var inputvalue = document.getElementById('inputkeyword').value;
+    //这里直接输入空格作为替换
+    inputvalue = inputvalue.replace(/　/g," ");
+    var objvar = document.getElementById('inputkeyword');
+    objvar.value = inputvalue;
+}
+</script>
+<form action="/search.php" method="get" target="_self" onsubmit="if(this.keyword.value=='请输入搜索关键字'||this.keyword.value.trim()==''){alert('请输入搜索关键字');this.keyword.focus();return false;}">
+<p><span class="fred">搜索：</span>
+<input name="keyword" id="inputkeyword" value="请输入搜索关键字" class="iptS1" style="width:300px;" onfocus="if(this.value=='请输入搜索关键字')this.value='';" onblur="deletewhitespace();if(this.value.trim()=='')this.value='请输入搜索关键字';" maxlength="100" />
+<input type="submit" value="搜索" class="iptS2" />
+	  　<span class="fred">热门搜索：<script src="/iframe/hotsearch.php?type=tv&amp;dpc=1"></script></span><input type="hidden" name="dpc" value="1" />
+</p>
+</form> </div>
+<!-- search end -->
+<!-- iframe begin -->
+<div class="blk_detail">
+<iframe src="tvone.php?id=13671&amp;dpc=1" width="100%" height="1500" frameborder="0" scrolling="no" allowtransparency="no"></iframe>
+<!-- iframe05.html iframe06.html -->
+</div>
+<!-- iframe end -->
+</div>
+<!-- left end-->
+<div class="aR">
+<div class="titleS1">
+<h2 style="background:none;">登录</h2>
+</div>
+<iframe src="/iframe/login/login.php" id="iframelogin" width="293" height="51" frameborder="0" scrolling="no" allowtransparency="no" style="margin:0 1px;"></iframe>
+<div class="titleS1">
+<h2 style="background:none;">我要贡献</h2>
+<span class="more"><a href="http://ent.sina.com.cn/x/2009-06-24/22312580566.shtml" target="_blank">创建有奖</a>　<a href="http://ent.sina.com.cn/x/2009-07-30/12152631225.shtml" target="_blank">积分规则</a></span> </div>
+<ul class="listS1">
+<li><a href="/star/staradd1.php" target="_blank">添加一位明星</a></li>
+<li><a href="/movie/movieadd1.php" target="_blank">添加一部电影</a></li>
+<li><a href="/music/musicadd1.php" target="_blank">添加一部音乐</a></li>
+<li><a href="/tv/tvadd1.php" target="_blank">添加一部电视剧</a></li>
+</ul> <!--	排行聚焦	-->
+<div class="titleS1">
+<h2><a href="url" target="_blank">排行聚焦</a></h2>
+</div>
+<div class="blkS1 click">
+<!-- 点击排名 begin -->
+<div class="blkS1_">
+<div class="titleS2 noarr">
+<h2>点击排名</h2>
+<span class="more"><a href="/top/index.html?glb1=1&amp;glb2=3&amp;glb3=1&amp;dpc=1" target="_blank">全部&gt;&gt;</a></span> </div>
+<table cellspacing="0" class="tblS1">
+<tr>
+<td width="40"><span class="num">4650</span></td>
+<td width="170"><a href="/tv/11841.html" title="诅布">诅布</a></td>
+<td class="last" width="70" title="984">984次</td>
+</tr>
+<tr>
+<td width="40"><span class="num">4651</span></td>
+<td width="170"><a href="/tv/7166.html" title="开盘">开盘</a></td>
+<td class="last" width="70" title="983">983次</td>
+</tr>
+<tr class="cur">
+<td width="40"><span class="num">4652</span></td>
+<td width="170"><a href="/tv/13671.html" title="军师官兵卫">军师官兵卫</a></td>
+<td class="last" width="70" title="983">983次</td>
+</tr>
+<tr>
+<td width="40"><span class="num">4653</span></td>
+<td width="170"><a href="/tv/9833.html" title="少年宝亲王">少年宝亲王</a></td>
+<td class="last" width="70" title="981">981次</td>
+</tr>
+<tr class="total">
+<td colspan="2" class="total_txt">目前排名第一:<a href="/tv/11043.html" title="回家的诱惑">回家的诱惑</a></td>
+<td class="last">361243次</td>
+</tr>
+</table>
+</div>
+<!--	点击排名	end	-->
+<!-- 搜索排名 begin -->
+<div class="blkS1_">
+<div class="titleS2 noarr">
+<h2>搜索排名</h2>
+<span class="more"><a href="/top/index.html?glb1=1&amp;glb2=3&amp;glb3=2&amp;dpc=1" target="_blank">全部&gt;&gt;</a></span> </div>
+<table cellspacing="0" class="tblS1">
+<tr>
+<td width="40"><span class="num">5949</span></td>
+<td width="170"><a href="/tv/13669.html" title="Specialist">Specialist..</a></td>
+<td class="last" width="70" title="0">0次</td>
+</tr>
+<tr>
+<td width="40"><span class="num">5950</span></td>
+<td width="170"><a href="/tv/13670.html" title="Specialist 2">Specialist..</a></td>
+<td class="last" width="70" title="0">0次</td>
+</tr>
+<tr class="cur">
+<td width="40"><span class="num">5951</span></td>
+<td width="170"><a href="/tv/13671.html" title="军师官兵卫">军师官兵卫</a></td>
+<td class="last" width="70" title="0">0次</td>
+</tr>
+<tr>
+<td width="40"><span class="num">5952</span></td>
+<td width="170"><a href="/tv/13672.html" title="医龙">医龙</a></td>
+<td class="last" width="70" title="0">0次</td>
+</tr>
+<tr class="total">
+<td colspan="2" class="total_txt">目前排名第一:<a href="/tv/8940.html" title="">暂无</a></td>
+<td class="last">10859次</td>
+</tr>
+</table>
+</div>
+<!--	搜索排名	end	-->
+<!-- 收藏排名 begin -->
+<div class="blkS1_">
+<div class="titleS2 noarr">
+<h2>收藏排名</h2>
+<span class="more"><a href="/top/index.html?glb1=1&amp;glb2=3&amp;glb3=3&amp;dpc=1" target="_blank">全部&gt;&gt;</a></span> </div>
+<table cellspacing="0" class="tblS1">
+<tr>
+<td width="40"><span class="num">5949</span></td>
+<td width="170"><a href="/tv/13669.html" title="Specialist">Specialist..</a></td>
+<td class="last" width="70" title="0">0次</td>
+</tr>
+<tr>
+<td width="40"><span class="num">5950</span></td>
+<td width="170"><a href="/tv/13670.html" title="Specialist 2">Specialist..</a></td>
+<td class="last" width="70" title="0">0次</td>
+</tr>
+<tr class="cur">
+<td width="40"><span class="num">5951</span></td>
+<td width="170"><a href="/tv/13671.html" title="军师官兵卫">军师官兵卫</a></td>
+<td class="last" width="70" title="0">0次</td>
+</tr>
+<tr>
+<td width="40"><span class="num">5952</span></td>
+<td width="170"><a href="/tv/13672.html" title="医龙">医龙</a></td>
+<td class="last" width="70" title="0">0次</td>
+</tr>
+<tr class="total">
+<td colspan="2" class="total_txt">目前排名第一:
+              <a href="/tv/3950.html" title="半路夫妻">半路夫妻</a></td>
+<td class="last" title="4688">4688次</td>
+</tr>
+</table>
+</div>
+<!--	收藏排名	end	-->
+<!-- 外形排名 begin -->
+<div class="blkS1_">
+<div class="titleS2 noarr">
+<h2>评分排名</h2>
+<span class="more"><a href="/top/index.html?glb1=1&amp;glb2=3&amp;glb3=4&amp;dpc=1" target="_blank">全部&gt;&gt;</a></span> </div>
+<table cellspacing="0" class="tblS1">
+<tr>
+<td width="40"><span class="num">5949</span></td>
+<td width="200"><a href="/tv/13669.html">Specialist..</a></td>
+<td class="last" width="40">0分</td>
+</tr>
+<tr>
+<td width="40"><span class="num">5950</span></td>
+<td width="200"><a href="/tv/13670.html">Specialist..</a></td>
+<td class="last" width="40">0分</td>
+</tr>
+<tr class="cur">
+<td width="40"><span class="num">5951</span></td>
+<td width="200"><a href="/tv/13671.html">军师官兵卫</a></td>
+<td class="last" width="40">0分</td>
+</tr>
+<tr>
+<td width="40"><span class="num">5952</span></td>
+<td width="200"><a href="/tv/13672.html">医龙</a></td>
+<td class="last" width="40">0分</td>
+</tr>
+<tr class="total">
+<td colspan="2" class="total_txt">目前排名第一:<a href="/tv/13223.html" title="熟男有惑">熟男有惑</a></td>
+<td class="last">0分</td>
+</tr>
+</table>
+</div>
+<!--	外形排名	end	-->
+<!-- 实力排名 begin -->
+<!--	实力排名	end	-->
+</div>
+<!--	相关明星	-->
+<div class="titleS1">
+<h2><a href="url" target="_blank">相关电视</a></h2>
+</div>
+<div class="blkS1 relative">
+<!--	同生日明星	-->
+<div class="blkS1_">
+<div class="titleS2">
+<h2>与“军师官兵卫..”同类型的电视</h2>
+<span class="more">
+<a href="/tv" onclick="return searchurl('class','古装,军事战争,剧情类');">更多&gt;&gt;</a></span> </div>
+<div class="content"> <em><a href="/tv" onclick="return searchurl('class','古装,军事战争,剧情类');">关键词：古装,军事战争,剧情类</a></em>
+<p>
+<a href="/tv/6129.html">新龙门客栈</a>
+<a href="/tv/8801.html">扬州八怪</a>
+<a href="/tv/7291.html">怀玉传奇千金妈祖</a>
+<a href="/tv/7556.html">皇后驾到</a>
+</p>
+</div>
+</div>
+<!--	同生日明星 end-->
+<!--	同爱好明星	-->
+<!--	同爱好明星 end-->
+</div>
+<!--相关明星 end-->
+<!-- 块 begin -->
+<div class="titleS1">
+<h2><a href="url" target="_blank">浏览记录</a></h2>
+</div>
+<div class="blkS1 browse">
+<!--我浏览-->
+<div class="blkS1_">
+<!-- box begin -->
+<div class="titleS2">
+<h2>我最近浏览的电视</h2>
+<span class="more"><a href="/user/index.php?mpindex=6&amp;mcindex=2" target="_blank">更多&gt;&gt;</a></span> </div>
+<div class="list_wrap" id="recent_view">
+</div>
+</div>
+<!--我浏览    end-->
+<!--网友收藏-->
+<div class="blkS1_">
+<!-- box begin -->
+<div class="titleS2">
+<h2>收藏该电视的网友</h2>
+</div>
+<div class="list_wrap">
+</div> </div>
+<!--网友收藏	end-->
+</div>
+<!-- 块 end -->
+<!--	票房排行 begin	-->
+<div class="titleS1">
+<h2>收视排行榜</h2>
+<span class="more"></span> </div>
+<div class="blkS3_">
+<ul class="listS33">
+<li id="b0_0">内地</li>
+<li id="b0_1">日剧</li>
+<li id="b0_2"><span>韩剧</span></li>
+<li id="b0_3">美剧</li>
+</ul>
+<div class="blkS5" id="d0_0">
+<table cellpadding="0" cellspacing="0" class="tblS2">
+<tr>
+<td>
+<span class="oldpaiming_1">
+                            1</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://dafen.ent.sina.com.cn/tv/13689" title="宫锁连城" target="_blank">宫锁连城</a>
+</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/hunanws/" target="_blank">湖南卫视</a></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            2</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13746.html" title="大当家" target="_blank">大当家</a>
+</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/dfaws/" target="_blank">东方卫视</a></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            3</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://ent.sina.com.cn/f/v/bbjq/" title="步步惊情" target="_blank">步步惊情</a>
+</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/zjws/" target="_blank">浙江卫视</a></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            4</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13631.html" title="樱桃红之袖珍妈妈" target="_blank">樱桃红之袖珍妈妈</a>
+</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/sdws/" target="_blank">山东卫视</a></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            5</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://dafen.ent.sina.com.cn/tv/13835" title="大村官" target="_blank">大村官</a>
+</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/hljws/" target="_blank">黑龙江卫视</a></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            6</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://ent.sina.com.cn/f/v/jyly/" title="金玉良缘" target="_blank">金玉良缘</a>
+</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/jsws" target="_blank">江苏卫视</a></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            7</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://dafen.ent.sina.com.cn/tv/13646" title="我的儿子是奇葩" target="_blank">我的儿子是奇葩</a>
+</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/tjws/" target="_blank">天津卫视</a></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            8</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://dafen.ent.sina.com.cn/tv/13830" title="老爸回家" target="_blank">老爸回家</a>
+</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/jxws/" target="_blank">江西卫视</a></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            9</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								狙击部队
+								</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/scws/" target="_blank">四川卫视</a></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            10</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://ent.sina.com.cn/f/v/jyly/" title="金玉良缘" target="_blank">金玉良缘</a>
+</span>
+<span style="float:right;"><a href="http://tvguide.ent.sina.com.cn/channel/1/szws/" target="_blank">深圳卫视</a></span>
+</td>
+</tr>
+</table>
+</div>
+<div class="blkS5" id="d0_1">
+<table cellpadding="0" cellspacing="0" class="tblS2">
+<tr>
+<td>
+<span class="oldpaiming_1">
+                            1</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								花咲舞无法沉默
+								</span>
+<span style="float:right;">日本台</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            2</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13671.html" title="军师官兵卫" target="_blank">军师官兵卫</a>
+</span>
+<span style="float:right;">NHK</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            3</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								续&#8226;倒数第
+								</span>
+<span style="float:right;">富士台</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            4</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								BORDER
+								</span>
+<span style="float:right;">朝日</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            5</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								罗斯福游戏
+								</span>
+<span style="float:right;">TBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            6</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13758.html" title="爱丽丝之棘" target="_blank">爱丽丝之棘</a>
+</span>
+<span style="float:right;">TBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            7</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								MOZU 第一季 百舌
+								</span>
+<span style="float:right;">TBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            8</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								TEAM 警视厅特别
+								</span>
+<span style="float:right;">朝日台</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            9</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								Bitter Blood
+								</span>
+<span style="float:right;">富士台</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            10</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								死神君
+								</span>
+<span style="float:right;">朝日台</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="blkS5" id="d0_2">
+<table cellpadding="0" cellspacing="0" class="tblS2">
+<tr>
+<td>
+<span class="oldpaiming_1">
+                            1</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13477.html" title="爱情乘歌而来" target="_blank">爱情乘歌而来</a>
+</span>
+<span style="float:right;">KBS1</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            2</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13470.html" title="奇皇后" target="_blank">奇皇后</a>
+</span>
+<span style="float:right;">MBC</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            3</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13622.html" title="真是好时节" target="_blank">真是好时节</a>
+</span>
+<span style="float:right;">KBS2</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            4</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13544.html" title="天上女人" target="_blank">天上女人</a>
+</span>
+<span style="float:right;">KBS2</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            5</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13560.html" title="郑道传" target="_blank">郑道传</a>
+</span>
+<span style="float:right;">KBS1</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            6</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/index.html" title="只属于我的你" target="_blank">只属于我的你</a>
+</span>
+<span style="float:right;">SBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            7</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13653.html" title="危情三日" target="_blank">危情三日</a>
+</span>
+<span style="float:right;">SBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            8</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13627.html" title="纯金的地" target="_blank">纯金的地</a>
+</span>
+<span style="float:right;">KBS2</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            9</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13520.html" title="闪耀的罗曼史" target="_blank">闪耀的罗曼史</a>
+</span>
+<span style="float:right;">MBC</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            10</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/index.html" title="来了张宝利" target="_blank">来了张宝利</a>
+</span>
+<span style="float:right;">MBC</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="blkS5" id="d0_3">
+<table cellpadding="0" cellspacing="0" class="tblS2">
+<tr>
+<td>
+<span class="oldpaiming_1">
+                            1</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13621.html" title="《生活大爆炸》第7季" target="_blank">《生活大爆炸》第</a>
+</span>
+<span style="float:right;">CBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            2</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								《与星共舞》第18
+								</span>
+<span style="float:right;">ABC</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            3</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								《美国之声》周一
+								</span>
+<span style="float:right;">NBC</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            4</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13447.html" title="《黑名单》第1季" target="_blank">《黑名单》第1季</a>
+</span>
+<span style="float:right;">NBC</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            5</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								《美国之声》周二
+								</span>
+<span style="float:right;">NBC</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            6</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13581.html" title="《警察世家》第4季" target="_blank">《警察世家》第4</a>
+</span>
+<span style="float:right;">CBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            7</span>
+</td>
+<td class="left">
+<span style="float:left;">
+								《时事杂志60分》
+								</span>
+<span style="float:right;">CBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            8</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13559.html" title="《海军罪案调查处》第11季重播" target="_blank">《海军罪案调查处</a>
+</span>
+<span style="float:right;">CBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            9</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/12561.html" title="《海军罪案：洛杉矶》第5季重播" target="_blank">《海军罪案：洛杉</a>
+</span>
+<span style="float:right;">CBS</span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="oldpaiming_other">
+                            10</span>
+</td>
+<td class="left">
+<span style="float:left;">
+<a href="http://data.ent.sina.com.cn/tv/13517.html" title="《米勒一家》第1季" target="_blank">《米勒一家》第1</a>
+</span>
+<span style="float:right;">CBS</span>
+</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+		//&lt;![CDATA[
+			changeTab('b0_','d0_',1,4,'cur');
+		//]]&gt;
+	    </script>
+</div>
+<!--	票房排行 end	-->
+<!--	最新上映 begin	-->
+<!--	检索 begin	-->
+<script>
+function searchurl(p,v)
+{
+	if(p!='')
+	{
+		url="index.html?"+p+"="+v+"&amp;tpl="+$.cookie("tvtpl")+"&amp;dpc=1";
+	}else
+	{
+		url="index.html?&amp;tpl="+$.cookie("tvtpl")+"&amp;dpc=1";
+	}
+	document.location.href=url;
+	return false;
+}
+</script>
+<div class="titleS1">
+<h2><a href="url" target="_blank">电视检索</a></h2>
+<span class="more"><a href="#" onclick="return searchurl('','')">查看全部电视&gt;&gt;</a></span> </div>
+<div class="blkS1">
+<div class="blkS1_">
+<!-- 地域 begin -->
+<div class="titleS2">
+<h2>地域</h2>
+</div>
+<div class="blkS2">
+<p>
+<a href="#" onclick="return searchurl('area','内地');">内地</a>
+<a href="#" onclick="return searchurl('area','港台');">港台</a>
+<a href="#" onclick="return searchurl('area','欧美');">欧美</a>
+<a href="#" onclick="return searchurl('area','亚洲');">亚洲</a>
+</p>
+</div>
+<!-- end begin -->
+<!-- 地域 begin -->
+<div class="titleS2">
+<h2>国家</h2>
+</div>
+<div class="blkS2">
+<p>
+<a href="#" onclick="return searchurl('nationality','中国');">中国</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','日本');">日本</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','韩国');">韩国</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','美国');">美国</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','英国');">英国</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','德国');">德国</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','法国');">法国</a>&nbsp;
+                                                                        <br />
+<a href="#" onclick="return searchurl('nationality','印度');">印度</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','瑞典');">瑞典</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','挪威');">挪威</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','朝鲜');">朝鲜</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','越南');">越南</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','伊朗');">伊朗</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','古巴');">古巴</a>&nbsp;
+                                                                        <br />
+<a href="#" onclick="return searchurl('nationality','希腊');">希腊</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','巴西');">巴西</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','捷克');">捷克</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','泰国');">泰国</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','波兰');">波兰</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','荷兰');">荷兰</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','南非');">南非</a>&nbsp;
+                                                                        <br />
+<a href="#" onclick="return searchurl('nationality','意大利');">意大利</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','奥地利');">奥地利</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','新西兰');">新西兰</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','墨西哥');">墨西哥</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('nationality','俄罗斯');">俄罗斯</a>&nbsp;
+                                                                                                                                                                                              		  </p>
+</div>
+<!-- end begin -->
+<!-- 地域 begin -->
+<div class="titleS2">
+<h2>类型</h2>
+</div>
+<div class="blkS2">
+<p>
+<a href="#" onclick="return searchurl('class','婚恋伦理');">婚恋伦理</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','爱情');">爱情</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','青春偶像');">青春偶像</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','武侠');">武侠</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','古装');">古装</a>&nbsp;
+                                                                        <br />
+<a href="#" onclick="return searchurl('class','军事战争');">军事战争</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','职业');">职业</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','医学');">医学</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','悬疑');">悬疑</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','刑侦');">刑侦</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','栏目剧');">栏目剧</a>&nbsp;
+                                                                        <br />
+<a href="#" onclick="return searchurl('class','都市题材');">都市题材</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','农村题材');">农村题材</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','神话戏说');">神话戏说</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','科幻奇幻');">科幻奇幻</a>&nbsp;
+                                                                        <br />
+<a href="#" onclick="return searchurl('class','红色经典');">红色经典</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','古典文学');">古典文学</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','情景喜剧');">情景喜剧</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','剧情类');">剧情类</a>&nbsp;
+                                                                        <br />
+<a href="#" onclick="return searchurl('class','真人秀');">真人秀</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','动画');">动画</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','动作冒险');">动作冒险</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','家庭');">家庭</a>&nbsp;
+                                                                        <a href="#" onclick="return searchurl('class','喜剧');">喜剧</a>&nbsp;
+                      
+		  </p>
+</div>
+<!-- 首字母 begin -->
+<div class="titleS2">
+<h2>首字母</h2>
+</div>
+<div class="blkS2">
+<ul class="listS2">
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','A');">A</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','B');">B</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','C');">C</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','D');">D</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','E');">E</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','F');">F</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','G');">G</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','H');">H</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','I');">I</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','J');">J</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','K');">K</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','L');">L</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','M');">M</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','N');">N</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','O');">O</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','P');">P</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','Q');">Q</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','R');">R</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','S');">S</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','T');">T</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','U');">U</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','V');">V</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','W');">W</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','X');">X</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','Y');">Y</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','Z');">Z</a></li>
+<li><a href="#" target="searchiframe" onclick="return searchurl('initial','1');">0-9</a></li>
+</ul>
+</div>
+<!-- 首字母 end -->
+<!-- end begin -->
+</div>
+</div> <!--	检索 end	-->
+</div>
+<!-- right end-->
+<div class="aBot"></div>
+</div>
+<!-- partA end-->
+<!-- sina footer begin -->
+<iframe src="/iframe/fdata/data.html" id="dataFrame" style="height:0px;width:1px;overflow:hidden;" frameborder="0" scrolling="no"></iframe>
+<div id="uni_footer"> <a href="http://ent.sina.com.cn/guest.html" target="_blank">新浪娱乐意见反馈留言板</a> 电话：010-62647003 欢迎批评指正<br />
+<a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://ads.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="http://members.sina.com.cn/apply/">通行证注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a><br />
+    Copyright &copy; 1996-2014 SINA Corporation, All Rights Reserved<br />
+    新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a><br />
+    北京网通提供网络宽带 </div>
+<!-- sina footer end -->
+</div>
+<!-- -->
+</body></html>

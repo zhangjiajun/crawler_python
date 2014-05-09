@@ -1,0 +1,536 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>注册会员-58同城</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link rel="Shortcut Icon" href="http://pic2.58.com/images/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">document.domain = '58.com';try{var ____json4fe = {catentry:{dispid:'',name:'',listname:''},locallist:{dispid:'',name:'',listname:''},modules:'passport'}}catch(e){}; </script>
+<script src="http://static.58.com/js/5_1/jquery1.3.2.js" type="text/javascript"></script>
+<script src="http://static.58.com/js/5_1/comm_js/boot_passport_version.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://static.58.com/ui6/my/css/login_6.css?2012217-2" type="text/css" /><link rel="stylesheet" href="http://static.58.com/ppt/ui6/my/css/login_6.css" type="text/css" />
+<style>
+.porleft p {
+ height: 35px;
+}
+.fb{ font-weight:bold;}
+.link-login{font-family: '宋体';}
+</style>
+</head>
+<body>
+<div id="header" class="win1000">
+<a id="logo" href="http://www.58.com"><img alt="中文最大生活信息门户" src="http://pic2.58.com/ui6/my/images/logo-49h.gif" /></a>
+<div id="cityname" class="regname"><span>用户注册</span></div>
+<div id="logintext"><a href="http://www.58.com/">返回首页</a>|<a target="_blank" href="http://about.58.com/">帮助</a></div>
+</div>
+<div class="cb win1000">
+<form id="submitForm" action="/domobileregister" method="post" name="submitForm" target="formSubmit">
+<div class="porleft">
+<input type="hidden" name="ptk" id="ptk" value="f9e9ff57f59f47ba86632a008179390d" />
+<input type="hidden" name="cd" id="cd" value="9101" />
+<div class="regMenu">
+<span id="mobileRegTab" class="active"><a href="javascript:void(0);">手机注册</a></span><span id="regTab"><a href="javascript:void(0);">邮箱注册</a></span>
+</div>
+<div class="pd-20">
+<!-- 邮箱注册 -->
+<div id="regCon" style="display:none;">
+<p>
+<span class="regtlx">用　户　名</span>
+<input type="text" size="20" value="" class="inp inw" id="nickName" maxlength="20" name="nickName" style="display: none;" />
+<span id="nickName_Tip"></span>
+</p>
+<div id="reg-keyword-username" class="w234-ui2" style="display:none">
+<i></i>
+<p class="ui2-key-t"><a title="关闭" href="javascript:clearSug('username');">×</a>选择推荐用户名：</p>
+<ul id="username_comp">
+</ul>
+</div>
+<p>
+<span class="regtlx">电&nbsp;子&nbsp;邮&nbsp;箱</span>
+<input type="text" size="20" value="" class="inp inw" id="txtemail" name="txtemail" style="display: none;" />
+<span id="txtemail_Tip"></span>
+</p>
+<div id="reg-keyword-email" class="w234-ui2" style="display:none">
+<i></i>
+<p class="ui2-key-t"><a title="关闭" href="javascript:clearSug('email');">×</a>请选择你的邮箱类型：</p>
+<ul id="email_comp">
+</ul>
+</div>
+</div>
+<!-- 手机注册 -->
+<div id="mobileRegCon">
+<p>
+<span class="regtlx">手　机　号</span>
+<input type="text" size="20" value="" class="inp inw" id="mobile" maxlength="20" name="mobile" />
+<span id="mobile_Tip"></span>
+</p>
+<p id="sendbtnp" class="p2 f12 ">
+<span class="regtlx">&nbsp;</span>
+<label class="fs-btn-h btnGray"><input type="button" name="resendbtn" onclick="resendcode()" id="resendbtn" value="获取手机确认码" /></label>
+<span id="resendcode_Tip"></span>
+</p>
+<p>
+<span class="regtlx">手机确认码</span>
+<input type="text" size="20" value="" class="inp inw" id="mobilecode" name="mobilecode" />
+<span id="mobilecode_Tip"></span>
+</p>
+</div>
+<p>
+<span class="regtlx">密　　　码</span>
+<input type="password" size="30" name="password" id="password" class="inp inw" onkeyup="$.c.user.reg.CheckPasswordStrength(this)" onpaste="return false" maxlength="16" />
+<span id="password_Tip" style="z-index: 100;"></span>
+</p>
+<p id="cpp">
+<span class="regtlx">确&nbsp;认&nbsp;密&nbsp;码</span>
+<input type="password" size="30" name="cpassword" id="cpassword" class="inp inw" maxlength="16" onpaste="return false" />
+<span id="cpassword_Tip"></span>
+</p>
+<p class="agreement">
+<span class="regtlx">&nbsp;</span>
+<input type="checkbox" checked="checked" /> <span>我已阅读并同意</span><a target="_blank" href="http://about.58.com/home/announcement.html">《58同城使用协议》</a><span id="chkagreement_Tip"></span></p>
+<p>
+<span class="regtlx">&nbsp;</span>
+<label id="butt" class="butt"><input type="submit" class="btns" value="立即注册" checked="checked" id="btnSubmit" style="width:110px;" /></label>
+</p>
+</div>
+</div>
+</form>
+<div class="porright">
+<p>您已经是会员，请<a href="/login">登录</a></p>
+<div class="link-login icon-login">
+<!--weixin-->
+<p style="padding-bottom: 0;" class="fb">微信扫描二维码快速注册</p>
+<div class="code_img"><img id="wxqrcodeImg" width="146" height="146" /></div>
+<p class="fb">扫码-&gt;绑定-&gt;确认-&gt;安全登录成功</p>
+<!--//weixin-->
+<span class="lots">使用合作网站账号登录：</span>
+<a href="/qqlogin?path=http://my.58.com/" title="QQ用户登录" class="loico co_qq">QQ</a>
+<a href="/sinalogin_v2?path=http://my.58.com/" title="新浪微博用户登录" class="loico co_sina">新浪微博</a>
+<a href="/alipaylogin?path=http://my.58.com/" title="支付宝用户登录" class="loico co_pay">支付宝</a>
+<a href="/feixinlogin?path=http://my.58.com/" title="飞信用户登录" class="loico co_feixin">飞信</a>
+<a href="/baidulogin?path=http://my.58.com/" title="百度登录" class="loico loico-b co_baidu">百度</a>
+<a href="/renrenlogin?path=http://my.58.com/" title="人人网用户登录" class="loico co_renren">人人网</a>
+</div>
+</div>
+</div>
+<div id="footer" class="win1000">
+<p>&copy; 58.com <a class="fduihua" target="_blank" title="有问题请与58客服进行对话" href="http://about.58.com/">与58对话</a></p>
+</div>
+<script>
+var needValidMobile =  false ;
+$(function(){
+    $("#mobileRegTab").click(function(){
+    	$(this).addClass('active').siblings().removeClass('active');
+    	$("#mobileRegCon").show();
+    	$("#regCon").hide();
+    	$("#nickName").hide();
+    	$("#txtemail").hide();
+    	$("#mobile").show();
+    	$("#mobilecode").show();
+    	$("#submitForm").attr("action", "/domobileregister");
+    });
+    $("#regTab").click(function(){
+    	$(this).addClass('active').siblings().removeClass('active');
+    	$("#regCon").show();
+    	$("#nickName").show();
+    	$("#txtemail").show();
+    	if(!needValidMobile){
+	    	$("#mobileRegCon").hide();
+	    	$("#mobile").hide();
+	    	$("#mobilecode").hide();
+    	}
+    	$("#submitForm").attr("action", "/doregister");
+    });
+})
+</script>
+<iframe name="formSubmit" id="formSubmit" src="/submit" style="display: none;"></iframe>
+<script type="text/javascript">
+	var showSugTime;
+	var timespan = 1399621130072 - new Date().getTime();
+	var passporttimeout;
+	function clearPassportTimeout(){
+    	clearTimeout(passporttimeout);
+    }
+	
+	$(function() {
+        $.formValidator.initConfig({ formid: "submitForm", errorfocus: true, btnid: 'btnSubmit', btnvalue: '同意以下协议，并注册', btnactionvalue: '注册中....', fun: function() {
+        	passporttimeout = setTimeout(function(){
+            //	alert("服务器繁忙，请稍后再试");
+            	$.formValidator.subfalse('submitForm', 'btnSubmit', '注册');
+            },5000);
+        	return true;
+        }
+        });
+        $("#nickName").formValidator({ onfocus: "4-20位，可由汉字、数字、字母和“_”组成，注册成功后用户名不可修改" }).inputValidator({ onerror: "您还没有输入用户名" }).functionValidator({ fun: function(val, elem) {
+        	if (val.match("^[\\d]+$")) { return "用户名不能全为数字"; }
+        	
+        	var msg = $.c.user.reg.checknickname(val);
+            if (msg == "") { return true; }
+            msg = "用户名需为4-20个字符（包括汉字、数字、字母、下划线，每个汉字为2字符）";
+            return msg;
+        },
+            onerror: "您还没有输入用户名"
+        }).ajaxValidator({ checkfun: function(val, elem, fun) {
+            $.c.user.reg.checknameexist(val, fun, function(e){$.formValidator.setTipState(null, "clear", ' ', 'nickName_Tip');});
+        }
+        });
+        $("#nickName").blur(function() {
+            $(this).val($.formValidator.QtoB(this.value));
+        }).keyup(function() {
+        	clearSug();
+        });
+        var _txtemail__suffix = "";
+        $("#txtemail").formValidator({ onfocus: "请输入有效的电子邮箱，可用于登录和找回密码" }).inputValidator({ onerror: "您还没有输入电子邮箱" }).functionValidator({ fun: function(val, elem) {
+        	var _suffix = val.substring(val.length-3,val.length);
+			if(/.co|.ne|.or/.test(_suffix)){
+				switch(_suffix){
+					case ".co":
+						val += "m";
+						_txtemail__suffix = "com";
+						break;
+					case ".ne":
+						val += "t";
+						_txtemail__suffix = "net";
+						break;
+					case ".or":
+						val += "g";
+						_txtemail__suffix = "org";
+						break;
+				}
+				$("#txtemail").val(val);
+			}else{
+				_txtemail__suffix = "";
+			}
+
+        	var msg = $.c.user.reg.checkemail(val);
+            if (msg == "") { clearSug();return true; }
+       
+            return msg;
+        }
+        }).ajaxValidator({ checkfun: function(val, elem, fun) {
+        	$.c.user.reg.checkemailexist(val, function(a){
+        		fun(a);
+        		if(_txtemail__suffix != "" &amp;&amp; a == 1){
+	    			$("#txtemail_Tip").attr("class","chenggong").empty().append("&lt;span style='font-size:12px;color:#666;margin-top:-4px;'&gt;已经自动帮你补全为."+_txtemail__suffix +"的邮箱&lt;/span&gt;");
+	   			}
+        	}, function(e){
+        		$.formValidator.setTipState(null, "clear", ' ', 'txtemail_Tip');
+
+        	});
+        	
+        }
+        });
+        $("#txtemail").keyup(function(e) {
+        	if(e.keyCode==40 || e.keyCode==38 || e.keyCode==13){return;}
+            var sugEmail = ["@163.com","@qq.com","@126.com","@hotmail.com","@gmail.com","@sohu.com","@sina.com","@sina.cn","@yahoo.com","@139.com.cn","@189.cn"];
+            var email = $("#txtemail").val().trim();
+            clearSug();
+            if(email.indexOf("@")==0 || email.length==0 || email.indexOf("&lt;")&gt;-1 || email.indexOf("&gt;")&gt;-1){
+            	return;
+            }
+           	var sugEmail1=[];
+           	var perfix = (email.indexOf("@")==-1)?email:email.substring(0,email.indexOf("@"));
+            $.each(sugEmail,function(i,n){
+            	if((perfix+sugEmail[i]).indexOf(email)==0){
+            		sugEmail1[sugEmail1.length] = perfix+sugEmail[i];
+            	}
+        	});
+            if(sugEmail1.length&gt;0){
+            	showSug(sugEmail1,"txtemail");
+            }
+        }).keydown(function(e){
+        	var $regkeylist=$("#reg-keyword");
+        	if($regkeylist &amp;&amp; $regkeylist.is(":visible")){
+        		
+        		if(e.keyCode==40){//向下
+        			var $list=$regkeylist.find("li.reg-keyahover");
+        			if($list &amp;&amp; $list.length&gt;0){
+        				if($list.next()){
+        					$list.removeClass("reg-keyahover");
+        					$list.next().addClass("reg-keyahover");
+        				}else{
+        					$list.removeClass("reg-keyahover");
+        					$($regkeylist.find("li")[0]).addClass("reg-keyahover");
+        				}
+        				
+        			}else{
+        				$($regkeylist.find("li")[0]).addClass("reg-keyahover");
+        				
+        			}
+        			
+        			e.stopPropagation(); 
+        			return false;
+        		}else if(e.keyCode==38){//向上
+        			var $list=$regkeylist.find("li.reg-keyahover");
+        			if($list &amp;&amp; $list.length&gt;0){
+        				if($list.prev()){
+        					$list.removeClass("reg-keyahover");
+        					$list.prev().addClass("reg-keyahover");
+        				}else{
+        					$list.removeClass("reg-keyahover");
+        					$regkeylist.find("li:last").addClass("reg-keyahover");
+        				}
+        				
+        			}else{
+        				$regkeylist.find("li:last").addClass("reg-keyahover");
+        				
+        			}
+        			e.stopPropagation(); 
+        			return false;
+        		}else if(e.keyCode==13){//回车
+        			var $list=$regkeylist.find("li.reg-keyahover");
+        			if($list &amp;&amp; $list.length&gt;0){
+        					fillText('txtemail',$list[0])
+        			
+        				}
+        			e.stopPropagation(); 
+        			return false;
+        		}
+        	
+        	}
+        });
+        $("#password").formValidator({ onfocus: "密码需由6-16个字母、数字和符号组成，区分大小写；不能使用重复、连续的字母、数字或符号" }).inputValidator({ onerror: "您还没有输入密码" }).regexValidator({ regexp: "^(.){6,}$#^(.){6,16}$", onerror: "密码太短，最少为6位。#密码不应超过16个字符。" }).functionValidator({ fun: function(val, elem) {
+        	var pwd = val.toLowerCase();
+            if(pwd.match("^[a-z|A-Z]+$") &amp;&amp; (isContinuousChar(pwd) || isSameChar(pwd))){
+            	return "为了您的账户安全，密码不能为重复数字和连续字母";
+            }
+            if(pwd.match("^[\\d]+$") &amp;&amp; (isContinuousChar(pwd) || isSameChar(pwd))){
+            	return "为了您的账户安全，密码不能为重复数字和连续数字";
+            }
+            if(isSameChar(pwd)){
+            	return "密码不能全为相同的字符";
+            }
+        	return true;
+        }
+        }).compareValidator({
+            desid: "nickName", operateor: "!=", onerror: "密码不能与用户名一样", datatype: "string"
+        });
+        $("#cpassword").formValidator({ onfocus: "请再次输入您的密码" }).inputValidator({ onerror: "密码不一致，请再次确认" }).regexValidator({ regexp: "^[\\s\\S]{6,}$#^(.){6,16}$", onerror: "密码太短，最少为6位。#密码不应超过16个字符。" }).functionValidator({ fun: function(val, elem) {
+
+        }
+        }).compareValidator({
+            desid: "password", operateor: "=", onerror: "密码不一致，请再次确认", datatype: "string"
+        });
+        $("#mobile").formValidator({ onfocus: "请输入您的手机号码" }).inputValidator({ onerror: "请输入您的手机号码" }).functionValidator({ fun: function(val, elem) {
+        	if(validMobileFormat(val)){
+            	return true;
+            }else{
+            	return '手机号码格式错误';
+            }
+        },
+            onerror: "手机号码格式错误"
+        });
+        $("#mobilecode").formValidator({ onfocus: "请输入您的手机确认码" }).inputValidator({ onerror: "请输入您的手机确认码" });
+        var resendtime = 0;                
+        if(resendtime&gt;=0){
+        	countresent(resendtime);
+        }
+        $("#chkagreement").formValidator({ tipid: 'chkagreement_Tip', onfocus: '' }).functionValidator({ fun: function(val, elem) {
+            var result = $("#chkagreement:checked").size();
+            if (result &gt; 0) return true;
+            return "请查看58同城使用协议，并选择！";
+        }
+        });
+        $("#txtemail").val("");
+        $("#password").val("");
+        $("body").click(function(){
+        	if(new Date().getTime()-showSugTime&gt;1000){
+        		clearSug();
+        		clearSug("username");
+        	}
+        });
+    });
+	
+	function countresent(resendtime){
+		var sel = setInterval(function(){
+           if(resendtime==0){
+             $("#resendbtn").attr("disabled",false);
+             $("#resendbtn").val("获取手机确认码");
+             clearInterval(sel);
+             return;
+           }
+           $("#resendbtn").attr("disabled","disabled");
+           $("#resendbtn").val(resendtime+" 重发手机确认码");
+           resendtime--;
+          },1000);
+	}
+	
+    function isContinuousChar(str){
+    	var str = str.toLowerCase();
+        var flag = 0;
+        for(var i=0;i&lt;str.length&gt;&lt;str.length&gt;&lt;1){
+    		return;
+    	}
+    	var isUserName = textid=="nickName";
+    	if(isUserName){
+    		var usernameCompContent = "";
+            $.each(arr,function(i,n){
+            	if(arr.length&gt;0)
+            		usernameCompContent += '&lt;li onclick="fillUsername(\''+arr[i]+'\')"&gt;&lt;label&gt;&lt;input name="usernameSugRadio" type="radio"&gt;'+arr[i]+'&lt;/label&gt;&lt;/li&gt;';
+        	});
+            if(arr.length&gt;0){
+          		$("#username_comp").html(usernameCompContent);
+            	$("#reg-keyword-username").show(500);
+            	$("#username_comp").unbind("click").bind("click",function(e){e.stopPropagation();})
+            }
+            showSugTime = new Date().getTime();
+    		return;
+    	}
+    	var obj = $("#"+textid); 
+    	var left = obj.offset().left;
+    	var top = obj.offset().top + obj.height();
+
+    	var content = '&lt;div class="w234-ui2" id="reg-keyword" style="position: absolute; z-index: 999; top: '+top+'px; left: '+left+'px;"&gt;&lt;p&gt;'+(isUserName?'选择推荐用户名':'请选择您的邮箱类型')+'：&lt;/p&gt;&lt;ul&gt;';
+    	$.each(arr,function(i,n){
+    		content += '&lt;li onclick="fillText(\''+textid+'\',this)"&gt;'+n+'&lt;/li&gt;';
+    	});
+    	content += '&lt;/ul&gt;&lt;/div&gt;';
+    	$(content).insertAfter("form");
+    	
+    	$("#reg-keyword").mouseover(function(){
+    		//$(this).find("li.reg-keyahover").removeClass("reg-keyahover");
+    	});
+    	$("#reg-keyword li").mouseover(function(){
+    		$(this).siblings().removeClass("reg-keyahover");
+    		$(this).addClass("reg-keyahover");
+    		
+    	}).mouseout(function(){
+    		$(this).removeClass("reg-keyahover");
+    		
+    	})
+
+
+    	showSugTime = new Date().getTime();
+    }
+    
+    function fillText(textId,selectObj){
+    	_txtemail__suffix = "";
+    	$(selectObj).parent().parent().remove();
+    	$("#"+textId).val(selectObj.innerHTML);
+    	$("#"+textId).focus();
+    }
+
+    function validMobileFormat(mobile){
+	    var numberRegStr = /^\d{11}$/;
+	    var regNum = new RegExp(numberRegStr);
+	    if (regNum.test(mobile)) {
+	        var telRegStr = /^(13|14|15|17|18)\d{9}$/;
+	        var reg = new RegExp(telRegStr);
+	        if (reg.test(mobile)) {
+	            return true;
+	        }
+	        else {
+	            return false;
+	        }
+	    }
+	    else {
+	        return false;
+	    }
+    }
+    
+    function resendcode(){
+    	var timesign = new Date().getTime() + timespan;
+    	var mobile = $("#mobile").val();
+    	if(mobile==null || mobile.length==0){
+    		$.formValidator.setTipState(null, "onError", '请填写手机号码', 'mobile_Tip');
+    		return;
+    	}
+    	if(!validMobileFormat(mobile)){
+    		$.formValidator.setTipState(null, "onError", '手机号码格式错误', 'mobile_Tip');
+    		return;
+    	}
+    	$.get("/sendregmobilecode",
+				{
+					"mobile":mobile,
+					"timesign":timesign,
+					"p":getm32str(mobile,timesign+"")
+				},
+				function(result){
+					if(result=="1"){
+						$("#resendcode_Tip").addClass("chenggong");
+						$("#resendcode_Tip").html("确认码短信已发送到您的手机，请查收");
+						resendtime = 180;
+						countresent(resendtime);
+					}else{
+						$("#resendcode_Tip").removeClass("chenggong");
+						$("#resendcode_Tip").html("");
+						if(result=="5"){
+							$.formValidator.setTipState(null, "onError", '该手机号码已被注册。您可以使用该手机号码&lt;a href="/login"&gt;登录&lt;/a&gt;，如果您忘记密码请点击&lt;a href="/forgetpassword"&gt;找回密码&lt;/a&gt;。', 'mobile_Tip');
+						}else{
+							$.formValidator.setTipState(null, "onError", '手机号码格式错误', 'mobile_Tip');
+						}
+					}
+				},"html");
+    }
+    
+    function isEmpty(str){
+    	return str==null || str.length==0;
+    }
+    
+    function isMobileRegister(){
+    	return $("#submitForm").attr("action") == "/domobileregister";
+    }
+    
+</script>
+<script type="text/javascript">
+function flushWxqrcode(login){
+	$.get("/wxqrcode?isreg=1&amp;temp=1" + (new Date().getTime().toString(36)),
+		function(result){
+			if(result){
+				result = eval('('+result+')');
+				$("#wxqrcodeImg").attr("src", result.pic);
+				if(login)
+					flushWxqrcodeLogin();
+			}
+		}	
+	);
+}
+function flushWxqrcodeLogin(){
+	$.ajax({
+		url : "/wxqrcodelogin",
+		type : "post",
+		data : {"path":"http://my.58.com/"},
+		dataType : "json",
+		success : function(result){
+			if(result.type=="success"){
+				window.location.href = result.path;
+			}else if(result.type=="warnusererror"){
+				window.location.href = "/login?wuid="+result.wuid;
+			}else{
+				flushWxqrcodeLogin();
+			}
+		},
+		error : function(XMLHttpRequest, textStatus, errorThrown) {
+			flushWxqrcodeLogin();
+        }
+	});
+}
+$(function() {
+	flushWxqrcode(true);
+	setInterval("flushWxqrcode(false)", 1800000);
+});
+</script>
+<script type="text/javascript">
+var iqas_mcvalue = '1399621130630';var iqas_mcformula = 'function a(){var b="11096989445341399995930000";var c="";for(var d=0;d&lt;b.length;d++){if(b.charAt(d)==9) c+="0"; else c+=(parseInt(b.charAt(d))+1);}return "1"+c};try{a();}catch(e){}';$(function(){$("&lt;input name='mcresult' value='"+eval(iqas_mcformula.replace('checkValue', iqas_mcvalue))+"' / style='display:none'&gt;").appendTo($('#submitForm'));});
+</script>
+<div style="display:none">
+<script type="text/javascript">
+var _trackURL = '/reg/';var _gaq = _gaq || []; var site_name = "58"; var page_type = "reg"; 
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._trackPageview',_trackURL]);
+fe.init(function(){ 
+	js.append(('https:' == document.location.protocol ? ' https://ssl' : ' http://www') + '.google-analytics.com/ga.js'); 
+	js.append(' http://track.58.com/referrer2.js'); 
+});
+</script>
+</div>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1020842622/?label=KoYtCPqyoQIQ_qTj5gM&amp;guid=ON&amp;script=0" />
+</div>
+</body>
+</html>

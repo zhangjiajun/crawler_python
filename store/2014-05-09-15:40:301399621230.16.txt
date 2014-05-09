@@ -1,0 +1,762 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【北京手机充值卡|北京手机充值卡转让信息】- 北京58同城</title>
+<meta name="description" content="58同城北京手机充值卡频道,为您提供大量北京手机充值卡求购、北京手机充值卡转让信息,在这里您可以查看并免费发布北京手机充值卡求购、北京手机充值卡转让信息,手机充值卡信息查询就来58同城北京手机充值卡频道." />
+<meta name="keywords" content="北京手机充值卡|北京手机充值卡转让" />
+<meta http-equiv="mobile-agent" content="format=wml;url=http://wap.58.com/bj_chongzhika/" /><meta http-equiv="mobile-agent" content="format=xhtml;url=http://wap.58.com/bj_chongzhika/" />
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/bj/chongzhika" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/bj/chongzhika" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/bj/chongzhika" />
+<link href="http://static.58.com/ds/v1/base-v1.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/ds/v1/common-v1.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/ds/v1/list/default-list-v1.css" rel="stylesheet" type="text/css" />
+<script src="http://static.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://static.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<script type="text/javascript">
+function toggle(classname){
+	$(classname).hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+}
+
+$(document).ready(function(){	
+	toggle(".haschild");
+	toggle(".sec-time span");
+	toggle(".prifilter span");
+	toggle(".header-search input");
+	toggle(".filterRange");
+	toggle(".header-search input");
+	toggle(".p-help");
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".tblist tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+});
+</script>
+<script type="text/javascript">try{var ____json4fe = {"catentry":[{"dispid":"833","name":"票务","listname":"piaowu"},{"dispid":"254","name":"消费卡/优惠券","listname":"kaquan"},{"dispid":"37367","name":"手机充值卡","listname":"chongzhika"}],"locallist":[{"dispid":"1","name":"北京","listname":"bj"}],"start":(new Date()).getTime(),"modules":"list"};____json4fe.version = 'A';____json4fe.modules = 'listpage';____json4fe.smsc = 'ce882233f1f0d86eeb06e5869de64e68136be77d51fd0fe90728ec08e679db83b429d14d7bc87d41027d1f17981a7bda616726aa8b55e6966f40d94b5b3848c2a3374f5f98b0c893cff9bbe57d233afa1df9ad133c1be0e395ac4d52c2d2faf0'; }catch(e){};</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','1','');win1.setSearchButton('searchbtn1');boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'bj');});</script>
+</head>
+<body>
+<div id="topbar"></div>
+<!-- =S header -->
+<header id="header">
+<span class="logo"><a href="/" target="_blank">58同城</a></span>
+<div class="nav" id="crumbs" style="display: none;">
+<span><a href="/">北京58同城</a></span>
+<span class="crb_i"><a href="/piaowu.shtml">北京票务</a></span>
+<span class="crb_i">
+<a href="/kaquan/" itemprop="url">北京消费卡/优惠券</a>
+</span>
+<span class="crb_i">
+<a href="/chongzhika/" itemprop="url">北京手机充值卡</a>
+</span>
+</div> <div class="header-search">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<input lang="zh-CN" x-webkit-grammar="builtin:translate" x-webkit-speech="" class="search-input c_000" id="keyword1" name="b_q" para="key" autocomplete="off" value="" onkeyup="win1.GetContentData();" />
+<span onmouseout="this.className='sbtn'" onmouseover="this.className='sbtn hover'" class="sbtn">
+<input type="submit" value="搜本类" class="but-bl" name="" id="searchbtn1" /></span>
+<span onmouseout="this.className='sbtn'" onmouseover="this.className='sbtn hover'" class="sbtn">
+<input type="button" onclick="b_query_all();" value="搜全站" class="but-qz" name="" />
+</span>
+<div class="clear"></div>
+</form>
+</div>
+<a href="http://post.58.com/1/254/s5" target="_blank" class="postbtn"><i></i>免费发布信息</a>
+</header>
+<!-- =E header -->
+<div id="ad_mdlbdb" class="tuibox_top_ad"> </div>
+<!-- =S allSiteSearch 全站搜索 -->
+<script type="text/javascript">    
+	$("#selectbar span[name=cateswitch]").each(function(){
+		$(this).toggle(function(){
+		$(this).removeClass('b1').addClass('b2').text('收起').prev('.s_ul').children().slice(5).show();
+		},function(){
+			$(this).removeClass('b2').addClass('b1').text('展开').prev('.s_ul').children().slice(5).hide();
+		});
+	});
+</script>
+<script type="text/javascript">
+$(".sousuo span[name=cateswitch]").each(function(){
+$(this).toggle(function(){
+$(this).removeClass('b1').addClass('b4').text('收起').prev('.s_ul').children().slice(5).show();
+},function(){
+$(this).removeClass('b4').addClass('b1').text('展开').prev('.s_ul').children().slice(5).hide();
+});
+});
+</script>
+<!-- =E allSiteSearch 全站搜索 -->
+<!-- =S SELECTION -->
+<section id="selection">
+<!-- =S CMCSPARAMETERS -->
+<dl class="secitem">
+<dt class="secitem_brand">类别：</dt>
+<dd>
+<a href="/kaquan/">全部</a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/gouwuka/">
+	              购物卡/超市卡
+	        </a>
+<a class="select" name="b_link" para="custom" cl="/kaquan/" href="http://bj.58.com/chongzhika/">
+	              手机充值卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/wanggouka/">
+	              网购卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/jianshenka/">
+	              健身卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/gongjiaoka/">
+	              公交卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/dangaoka/">
+	              蛋糕卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xicheka/">
+	              洗车卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/youyongka/">
+	              游泳卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/jiayouka/">
+	              加油卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiyuka/">
+	              洗浴卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/zhaojiaoka/">
+	              亲子早教卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/tushuka/">
+	              图书卡
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/xiaofeika/">
+	              优惠券/代金券
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/kqqita/">
+	              其他
+	        </a>
+<div class="subarea">
+<a href="/kaquan/" class="select">全部</a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/yidong/">
+		              中国移动
+		        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/liantong/">
+		              中国联通
+		        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/dianxin/">
+		              中国电信
+		        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/qtchongzhika/">
+		              其它充值卡
+		        </a>
+</div>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>区域：</dt>
+<dd class="fanwei" id="selArea">
+<a href="/chongzhika/" class="select">全北京</a>
+<a href="/chaoyang/chongzhika/">朝阳</a>
+<a href="/haidian/chongzhika/">海淀</a>
+<a href="/dongcheng/chongzhika/">东城</a>
+<a href="/xicheng/chongzhika/">西城</a>
+<a href="/chongwen/chongzhika/">崇文</a>
+<a href="/xuanwu/chongzhika/">宣武</a>
+<a href="/fengtai/chongzhika/">丰台</a>
+<a href="/tongzhouqu/chongzhika/">通州</a>
+<a href="/shijingshan/chongzhika/">石景山</a>
+<a href="/fangshan/chongzhika/">房山</a>
+<a href="/changping/chongzhika/">昌平</a>
+<a href="/daxing/chongzhika/">大兴</a>
+<a href="/shunyi/chongzhika/">顺义</a>
+<a href="/miyun/chongzhika/">密云</a>
+<a href="/huairou/chongzhika/">怀柔</a>
+<a href="/yanqing/chongzhika/">延庆</a>
+<a href="/pinggu/chongzhika/">平谷</a>
+<a href="/mentougou/chongzhika/">门头沟</a>
+<a href="/bjyanjiao/chongzhika/">燕郊</a>
+<a href="/beijingzhoubian/chongzhika/">北京周边</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>价格：</dt>
+<dd>
+<a href="http://bj.58.com/chongzhika/pve_1485_0/" class="select">全部</a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/chongzhika/pve_1485_0_pve_5912_0_100/">
+              100元以下
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/chongzhika/pve_1485_0_pve_5912_101_150/">
+              100-150元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/chongzhika/pve_1485_0_pve_5912_151_300/">
+              150-300元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/chongzhika/pve_1485_0_pve_5912_301_500/">
+              300-500元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/chongzhika/pve_1485_0_pve_5912_501_1000/">
+              500-1000元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/chongzhika/pve_1485_0_pve_5912_1001_2000/">
+              1000-2000元
+        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/chongzhika/pve_1485_0_pve_5912_2001_999999/">
+              2000元以上
+        </a>
+<span class="prifilter"><span class="text text2"><input type="text" para="minprice" muti="1" size="3" onkeyup="cknum(this)" min="0" name="b_q" /> -  <input type="text" muti="1" para="minprice" size="3" onkeyup="cknum(this)" min="0" name="b_q" />  元 </span><span class="btn btn2"><input type="button" value="价格筛选" onclick="b_query()" /></span></span>
+</dd>
+</dl>
+<dl class="secitem"><dt>供需：</dt>
+<dd class="fanwei">
+<a class="select" name="b_link" para="custom" cl="http://bj.58.com/chongzhika/" href="http://bj.58.com/chongzhika/pve_1485_0/">
+	              转让
+	        </a>
+<a name="b_link" para="custom" cl="" href="http://bj.58.com/chongzhika/pve_1485_1/">
+	              求购
+	        </a>
+</dd></dl>
+<!-- =E CMCSPARAMETERS -->
+<div id="selected" class="bar"></div>
+</section>
+<!-- =E SELECTION -->
+<!-- =S tabsbar -->
+<div class="tabsbar">
+<div class="list-tabs">
+<a class="sel" href="/chongzhika/"><h1>北京手机充值卡信息</h1></a>
+</div>
+</div> <!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix pr">
+<!-- =S filterbar -->
+<div class="filterbar h28">
+<div class="filterbar-l">
+<div class="filterup" id="filterup">
+<a class="m1 sel" rel="nofollow" href="javascript:void(0)" onclick="g2({sort:null,postdate:null,minprice:null});return false"><span>默认排序<em></em></span></a>
+<a class="m1" title="发布时间" href="javascript:void(0)" rel="nofollow" para="sort" cv="posttime" onclick="g2({sort:'posttime',postdate:null,minprice:null});return false">
+<span>发布时间<em class="ico-miarr-d"></em></span>
+</a>
+</div>
+<span class="checkbox-ico" id="isonline"><a href="javascript:void(0);">帮帮在线</a></span>
+<span class="checkbox-ico" id="indivOnly"><a href="javascript:void(0);">只看个人</a></span>
+</div>
+<div class="filterbar-md">
+<a class="mdtj" rel="nofollow" target="_blank" href="http://e.58.com/pas_zizhutuiguang">名店推荐隆重招商</a>
+</div>
+</div>
+<!-- =E filterbar -->
+<!-- =S infolist -->
+<div id="infolist" class="cleft">
+<table class="tblist" cellpadding="0" cellspacing="0">
+<col width="100" />
+<col width="840" />
+<col width="60" />
+<tr><td colspan="3" class="google"><div id="top_google_ad"></div></td></tr>
+<tr logr="p_1_28191791_17870475079946_0">
+<td class="tc">
+<b class="pri">9789</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17870475079946x.shtml" target="_blank" class="t">超高价收卡,手机充值卡,超市购物卡,公交卡京东网卡</a><span class="ico area">
+<a href="/dawanglu/chongzhika/">大望路</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_28191791"></span> </td>
+<td class="pd">2小时</td>
+</tr>
+<tr logr="p_1_24995669_16023513690377_0">
+<td class="tc">
+<b class="pri">10000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/16023513690377x.shtml" target="_blank" class="t">最高价、上门收、购物卡、加油卡、充值卡、公交卡</a><span class="ico area">
+<a href="/chongzhika/">北京</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_24995669"></span> </td>
+<td class="pd">4小时</td>
+</tr>
+<tr logr="p_2_9834340489479_17868875917450_0">
+<td class="tc">
+<b class="pri">9998</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17868875917450x.shtml" target="_blank" class="t">高价、上门收卡、购物卡、加油卡、充值卡、公交卡</a><span class="ico area">
+<a href="/jianguomen/chongzhika/">建国门</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt2"></span>
+<span name="zaixian_9834340489479"></span> </td>
+<td class="pd">5小时</td>
+</tr>
+<tr logr="p_1_5147226433798_17857728434568_0">
+<td class="tc">
+<b class="pri">99999</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17857728434568x.shtml" target="_blank" class="t">顺义购物卡回收公司</a><span class="ico area">
+<a href="/shiyuan/chongzhika/">石园</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_5147226433798"></span> </td>
+<td class="pd">5小时</td>
+</tr>
+<tr logr="p_2_17597014554887_17261048421123_0">
+<td class="tc">
+<b class="pri">99999</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17261048421123x.shtml" target="_blank" class="t">北京回收商场购物卡 加油卡 手机充值卡 数码产品</a><span class="ico area">
+<a href="/zhongguancun/chongzhika/">中关村</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt1"></span><span class="ico tu"></span>
+<span name="zaixian_17597014554887"></span> </td>
+<td class="pd">6小时</td>
+</tr>
+<tr logr="p_2_17597014554887_17383746394887_0">
+<td class="tc">
+<b class="pri">999</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17383746394887x.shtml" target="_blank" class="t">北京收购购物卡 收购手机充值卡 收购加油卡</a><span class="ico area">
+<a href="/jinsong/chongzhika/">劲松</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt1"></span><span class="ico tu"></span>
+<span name="zaixian_17597014554887"></span> </td>
+<td class="pd">19小时</td>
+</tr>
+<tr logr="p_1_13817109987334_17858253721859_0">
+<td class="tc">
+<b class="pri">88888</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17858253721859x.shtml" target="_blank" class="t">回收购物卡购物卡回收加油卡回收手机充值卡回收</a><span class="ico area">
+<a href="/dawanglu/chongzhika/">大望路</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_13817109987334"></span> </td>
+<td class="pd">05-08</td>
+</tr>
+<tr logr="p_1_31011928_17858241336834_0">
+<td class="tc">
+<b class="pri">9000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17858241336834x.shtml" target="_blank" class="t">回收中欣卡 北京收购购物卡 回收礼品卡 收购加油卡</a><span class="ico area">
+<a href="/shenglibj/chongzhika/">胜利</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_31011928"></span> </td>
+<td class="pd">05-08</td>
+</tr>
+<tr logr="p_1_31011928_17858116683014_0">
+<td class="tc">
+<b class="pri">9000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17858116683014x.shtml" target="_blank" class="t">北京回收礼品卡 回收购物卡 回收加油卡 收充值卡</a><span class="ico area">
+<a href="/huangcunbj/chongzhika/">黄村</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_31011928"></span> </td>
+<td class="pd">05-08</td>
+</tr>
+<tr logr="p_1_28191791_17857347466888_0">
+<td class="tc">
+<b class="pri">9093</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17857347466888x.shtml" target="_blank" class="t">回收华润万家、家乐福、欧尚、沃尔玛、易初莲花莲花卡</a><span class="ico area">
+<a href="/guomao/chongzhika/">国贸</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_28191791"></span> </td>
+<td class="pd">05-08</td>
+</tr>
+<tr logr="p_2_16486970719494_17850757663238_0">
+<td class="tc">
+<b class="pri">88888</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17850757663238x.shtml" target="_blank" class="t">上门高价收、各商场、超市购物卡、加油卡、手机充值卡</a><span class="ico area">
+<a href="/sanlitun/chongzhika/">三里屯</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt1"></span>
+<span name="zaixian_16486970719494"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_1_14091555_17849521315720_0">
+<td class="tc">
+<b class="pri">80</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17849521315720x.shtml" target="_blank" class="t">80元转让价值100元星通讯手机充值卡</a><span class="ico area">
+<a href="/xidan/chongzhika/">西单</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_14091555"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_2_17597014554887_17194802417283_0">
+<td class="tc">
+<b class="pri">99999</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17194802417283x.shtml" target="_blank" class="t">北京回收购物卡收购购物卡收购手机充值卡回收京东卡</a><span class="ico area">
+<a href="/hepingli/chongzhika/">和平里</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt1"></span><span class="ico tu"></span>
+<span name="zaixian_17597014554887"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_2_6093182918150_15669756532615_0">
+<td class="tc">
+<b class="pri">99999</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/15669756532615x.shtml" target="_blank" class="t">高价收售、美通卡、家乐福、充值卡、奥斯卡、智惠卡</a><span class="ico area">
+<a href="/chongwen/chongzhika/">崇文</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt3"></span>
+<span name="zaixian_6093182918150"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_2_6093182918150_15823420118403_0">
+<td class="tc">
+<b class="pri">99999</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/15823420118403x.shtml" target="_blank" class="t">高价收售、美通卡、家乐福、充值卡、奥斯卡、智惠卡</a><span class="ico area">
+<a href="/chongwen/chongzhika/">崇文</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt3"></span>
+<span name="zaixian_6093182918150"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_2_9834340489479_17846715742211_0">
+<td class="tc">
+<b class="pri">8888</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17846715742211x.shtml" target="_blank" class="t">上门收、购物卡、加油卡、充值卡、公交卡、蛋糕卡</a><span class="ico area">
+<a href="/haidian/chongzhika/">海淀</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt2"></span>
+<span name="zaixian_9834340489479"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_1_31011928_17846545964681_0">
+<td class="tc">
+<b class="pri">9000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17846545964681x.shtml" target="_blank" class="t">购物卡北京回收 加油卡 收购北京消费卡 收购网购卡</a><span class="ico area">
+<a href="/changpingxiancheng/chongzhika/">昌平县城</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_31011928"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_1_31011928_17846361474435_0">
+<td class="tc">
+<b class="pri">9000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17846361474435x.shtml" target="_blank" class="t">北京购物卡回收 加油卡 收购翠微卡雅高卡福卡京客隆</a><span class="ico area">
+<a href="/longze/chongzhika/">龙泽</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_31011928"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_1_52266989_17842360323209_0">
+<td class="tc">
+<b class="pri">77777</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17842360323209x.shtml" target="_blank" class="t">求购EBC七彩云南卡、智惠卡、得仕卡、加油卡、中石</a><span class="ico area">
+<a href="/xicheng/chongzhika/">西城</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_52266989"></span> </td>
+<td class="pd">05-07</td>
+</tr>
+<tr logr="p_0_18134141114118_17839415685512_0">
+<td class="tc">
+<b class="pri">500</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17839415685512x.shtml" target="_blank" class="t">500移动充值卡1.可出售2.可换等值联通</a><span class="ico area">
+<a href="/taoranting/chongzhika/">陶然亭</a>
+</span>
+<span name="zaixian_18134141114118"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_0_25817372_17837608925061_0">
+<td class="tc">
+<b class="pri">100</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17837608925061x.shtml" target="_blank" class="t">电信充值卡交换移动充值卡</a><span class="ico area">
+<a href="/changyangbj/chongzhika/">长阳</a>
+</span>
+<span name="zaixian_25817372"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_0_5147226433798_17836582369670_0">
+<td class="tc">
+<b class="pri">9999</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17836582369670x.shtml" target="_blank" class="t">回收电话充值卡</a><span class="ico area">
+<a href="/shunyi/chongzhika/">顺义</a>
+</span>
+<span name="zaixian_5147226433798"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_2_17597014554887_17836187962499_0">
+<td class="tc">
+<b class="pri">9868</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17836187962499x.shtml" target="_blank" class="t">上门收北京购物卡 回收网购卡 收购福卡 收雅高卡</a><span class="ico area">
+<a href="/chegongzhuang/chongzhika/">车公庄</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt1"></span><span class="ico tu"></span>
+<span name="zaixian_17597014554887"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_1_12617748059654_17835627737221_0">
+<td class="tc">
+<b class="pri">95678</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17835627737221x.shtml" target="_blank" class="t">上门购物卡图书卡加油卡电影卡135206每时每刻</a><span class="ico area">
+<a href="/shunyi/chongzhika/">顺义</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_12617748059654"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_1_28191791_17835483209350_0">
+<td class="tc">
+<b class="pri">9888</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17835483209350x.shtml" target="_blank" class="t">上门收购商通卡,回收手机充值卡,收购记名加油卡</a><span class="ico area">
+<a href="/bjsihui/chongzhika/">四惠</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_28191791"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_1_31011928_17835434399752_0">
+<td class="tc">
+<b class="pri">9000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17835434399752x.shtml" target="_blank" class="t">回收购物卡收购礼品卡收购网购卡收购加油卡收福卡</a><span class="ico area">
+<a href="/yanshanfs/chongzhika/">燕山</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_31011928"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_1_31011928_17835295762309_0">
+<td class="tc">
+<b class="pri">9000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17835295762309x.shtml" target="_blank" class="t">北京购物卡回收 加油卡 收购翠微卡雅高卡福卡京客隆</a><span class="ico area">
+<a href="/pingguoyuan/chongzhika/">苹果园</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_31011928"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_1_52266989_17835132508170_0">
+<td class="tc">
+<b class="pri">77777</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17835132508170x.shtml" target="_blank" class="t">回收购物卡、加油卡、中石化、中石油、中国石化、中国</a><span class="ico area">
+<a href="/haidian/chongzhika/">海淀</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_52266989"></span> </td>
+<td class="pd">05-06</td>
+</tr>
+<tr logr="p_1_506191107334_17826923813763_0">
+<td class="tc">
+<b class="pri">999</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17826923813763x.shtml" target="_blank" class="t">高价 高折扣 上门 收购话费充值卡 量大价更高</a><span class="ico area">
+<a href="/xicheng/chongzhika/">西城</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_506191107334"></span> </td>
+<td class="pd">05-05</td>
+</tr>
+<tr logr="p_1_52266989_17823696353282_0">
+<td class="tc">
+<b class="pri">22222</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17823696353282x.shtml" target="_blank" class="t">回收购物卡、加油卡、中石化、中石油、中国石化、中国</a><span class="ico area">
+<a href="/fengtai/chongzhika/">丰台</a>
+</span><span class="ico biz">商家</span>
+<span name="zaixian_52266989"></span> </td>
+<td class="pd">05-05</td>
+</tr>
+<tr logr="p_2_17597014554887_17815826009478_0">
+<td class="tc">
+<b class="pri">99999</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17815826009478x.shtml" target="_blank" class="t">北京购物卡回收 加油卡 收购翠微卡雅高卡福卡京客隆</a><span class="ico area">
+<a href="/yongdinglu/chongzhika/">永定路</a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt1"></span><span class="ico tu"></span>
+<span name="zaixian_17597014554887"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr logr="p_1_31011928_17814548192898_0">
+<td class="tc">
+<b class="pri">9000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17814548192898x.shtml" target="_blank" class="t">购物卡北京回收加油卡 收充值卡 收雅高卡福卡京客隆</a><span class="ico area">
+<a href="/bgbeiguan/chongzhika/">北关</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_31011928"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr logr="p_1_31011928_17814210499210_0">
+<td class="tc">
+<b class="pri">9000</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17814210499210x.shtml" target="_blank" class="t">北京购物卡回收 加油卡 收购翠微卡雅高卡福卡京客隆</a><span class="ico area">
+<a href="/xinfadi/chongzhika/">新发地</a>
+</span><span class="ico biz">商家</span><span class="ico tu"></span>
+<span name="zaixian_31011928"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr logr="p_2_9834340489479_17813687509638_0">
+<td class="tc">
+<b class="pri">88889</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17813687509638x.shtml" target="_blank" class="t">北高价收卡-福卡--商通卡-加油卡-充值卡-礼品卡</a><span class="ico area">
+<a href="/cbd/chongzhika/">CBD </a>
+</span><span title="58.com建议您优先选择网邻通商家" class="wlt2"></span>
+<span name="zaixian_9834340489479"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr logr="p_0_25973456_17661758524801_0">
+<td class="tc">
+<b class="pri">800</b>元</td>
+<td class="t"><a href="http://bj.58.com/kaquan/17661758524801x.shtml" target="_blank" class="t">7-8折出1万到3万电信话费</a><span class="ico area">
+<a href="/junbo/chongzhika/">军博</a>
+</span>
+<span name="zaixian_25973456"></span> </td>
+<td class="pd">05-04</td>
+</tr>
+<tr><td colspan="3" class="google"><div id="taobao"></div></td></tr>
+<tr><td colspan="3" class="google"><div id="bottom_google_ad"></div></td></tr>
+</table><div class="pager">
+<strong><span>1</span></strong><a href="/chongzhika/pn2/"><span>2</span></a><a href="/chongzhika/pn3/"><span>3</span></a><a href="/chongzhika/pn4/"><span>4</span></a><a href="/chongzhika/pn5/"><span>5</span></a><a href="/chongzhika/pn6/"><span>6</span></a><a href="/chongzhika/pn7/"><span>7</span></a><a href="/chongzhika/pn8/"><span>8</span></a><a href="/chongzhika/pn9/"><span>9</span></a><a href="/chongzhika/pn10/"><span>10</span></a><a href="/chongzhika/pn11/"><span>11</span></a><a href="/chongzhika/pn12/"><span>12</span></a><a class="next" href="/chongzhika/pn2/"><span>下一页</span></a>
+</div>
+<div id="infocont"><a target="_blank" rel="nofollow" href="http://post.58.com/1/254/s5">马上发布一条手机充值卡信息&raquo;</a></div>
+<div id="bottom_zhaoshangjiameng_ad"></div>
+<div id="direct_ad_bottom"></div>
+</div>
+<!-- =E infolist -->
+<!-- =S rightframe -->
+<div id="rightframe">
+<div style="margin-bottom:10px">
+<a href="http://static.58.com/ui7/help/pf_xx.html" target="_blank">
+<img src="http://pic2.58.com/ds/other/bannerz_03.png" />
+</a>
+</div>
+<div id="ad19"></div></div>
+<!-- =E rightframe -->
+</section>
+<!-- =E mainlist -->
+<!-- =S links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S friendtips -->
+<dl id="friendtips" class="linksItem friendtips">
+<dt class="b-left">北京手机充值卡介绍</dt>
+<dd class="b-right">北京手机充值卡频道为您提供北京手机充值卡查询,北京手机充值卡转让信息供您选择，您可以免费查看和发布北京手机充值卡求购信息,北京手机充值卡转让信息。感谢您选择北京手机充值卡信息平台。手机版请访问<a href="http://m.58.com/bj/chongzhika">北京手机充值卡</a></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S relate 相关信息 -->
+<!-- =E relate 相关信息 -->
+<!-- =S META A~Z -->
+<dl id="relatelink" class="linksItem relatelink">
+<dt class="b-left">热门手机充值卡：</dt>
+<dd class="b-right">
+<dl class="relateSelect" id="relateSelect">
+<dt><span>中国电信充值卡</span></dt>
+<dd>
+<a href="http://bj.58.com/dianxin/" target="_blank">北京电信充值卡</a>
+<a href="http://tj.58.com/dianxin/" target="_blank">天津电信充值卡</a>
+<a href="http://sh.58.com/dianxin/" target="_blank">上海电信充值卡</a>
+<a href="http://cq.58.com/dianxin/" target="_blank">重庆电信充值卡</a>
+<a href="http://sjz.58.com/dianxin/" target="_blank">河北电信充值卡</a>
+<a href="http://zz.58.com/dianxin/" target="_blank">河南电信充值卡</a>
+<a href="http://km.58.com/dianxin/" target="_blank">昆明电信充值卡</a>
+<a href="http://sy.58.com/dianxin/" target="_blank">辽宁电信充值卡</a>
+<a href="http://hrb.58.com/dianxin/" target="_blank">黑龙江电信充值卡</a>
+<a href="http://cs.58.com/dianxin/" target="_blank">湖南电信充值卡</a>
+<a href="http://hf.58.com/dianxin/" target="_blank">安徽电信充值卡</a>
+</dd>
+<dt><span>中国移动充值卡</span></dt>
+<dd>
+<a href="http://bj.58.com/yidong/" target="_blank">北京移动充值卡</a>
+<a href="http://tj.58.com/yidong/" target="_blank">天津移动充值卡</a>
+<a href="http://sh.58.com/yidong/" target="_blank">上海移动充值卡</a>
+<a href="http://cq.58.com/yidong/" target="_blank">重庆移动充值卡</a>
+<a href="http://sjz.58.com/yidong/" target="_blank">河北移动充值卡</a>
+<a href="http://zz.58.com/yidong/" target="_blank">河南移动充值卡</a>
+<a href="http://km.58.com/yidong/" target="_blank">昆明移动充值卡</a>
+<a href="http://sy.58.com/yidong/" target="_blank">辽宁移动充值卡</a>
+<a href="http://hrb.58.com/yidong/" target="_blank">黑龙江移动充值卡</a>
+<a href="http://cs.58.com/yidong/" target="_blank">湖南移动充值卡</a>
+<a href="http://hf.58.com/yidong/" target="_blank">安徽移动充值卡</a>
+</dd>
+<dt><span>中国联通充值卡</span></dt>
+<dd>
+<a href="http://bj.58.com/liantong/" target="_blank">北京联通充值卡</a>
+<a href="http://tj.58.com/liantong/" target="_blank">天津联通充值卡</a>
+<a href="http://sh.58.com/liantong/" target="_blank">上海联通充值卡</a>
+<a href="http://cq.58.com/liantong/" target="_blank">重庆联通充值卡</a>
+<a href="http://sjz.58.com/liantong/" target="_blank">河北联通充值卡</a>
+<a href="http://zz.58.com/liantong/" target="_blank">河南联通充值卡</a>
+<a href="http://km.58.com/liantong/" target="_blank">昆明联通充值卡</a>
+<a href="http://sy.58.com/liantong/" target="_blank">辽宁联通充值卡</a>
+<a href="http://hrb.58.com/liantong/" target="_blank">黑龙江联通充值卡</a>
+<a href="http://cs.58.com/liantong/" target="_blank">湖南联通充值卡</a>
+<a href="http://hf.58.com/liantong/" target="_blank">安徽联通充值卡</a>
+</dd>
+<dt><span>运营商</span></dt>
+<dd>
+<a href="http://bj.58.com/yidong/" target="_blank">北京中国移动充值卡</a>
+<a href="http://bj.58.com/liantong/" target="_blank">北京中国联通充值卡</a>
+<a href="http://bj.58.com/yidong/" target="_blank">北京中国移动充值卡</a>
+</dd>
+</dl>
+</dd>
+</dl>
+<script>
+	////附近商圈
+	var alldt1 = $("#relateSelect&gt;dt");
+	function showNear1(dt){
+	    alldt1.each(function(){
+	        if(this == dt) {$(this).next("dd").show();$(this).addClass("select");}
+	        else {$(this).next("dd").hide();$(this).removeClass("select");}
+	    });
+	}
+	alldt1.each(function(){
+	    $(this).click(function(){showNear1(this);}).hover(function(){showNear1(this);});
+	});
+			showNear1(alldt[0]);
+		</script>
+<!-- =E META A~Z -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">北京手机充值卡周边城市：</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://tj.58.com/chongzhika">天津手机充值卡</a></li>
+<li><a href="http://sjz.58.com/chongzhika">石家庄手机充值卡</a></li>
+<li><a href="http://zjk.58.com/chongzhika">张家口手机充值卡</a></li>
+<li><a href="http://bd.58.com/chongzhika">保定手机充值卡</a></li>
+<li><a href="http://lf.58.com/chongzhika">廊坊手机充值卡</a></li>
+<li><a href="http://ts.58.com/chongzhika">唐山手机充值卡</a></li>
+<li><a href="http://chengde.58.com/chongzhika">承德手机充值卡</a></li>
+<li><a href="http://qhd.58.com/chongzhika">秦皇岛手机充值卡</a></li>
+<li><a href="http://cangzhou.58.com/chongzhika">沧州手机充值卡</a></li>
+<li><a href="http://hs.58.com/chongzhika">衡水手机充值卡</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S friendlink -->
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!--  
+&lt;script type="text/javascript"&gt;
+boot.require('util.uri', function(Frame, uri){
+	var mutexs_par = "c1c2c3c4c5c6c7".substring(0,1);
+	var re = new RegExp(mutexs_par + '\\d+', 'ig')
+	mutexs = [{searchitem:re, params:["minprice"], searthname:'价格'}];
+	for(var i = 0, leni = mutexs.length; i &lt; leni; i ++) {
+		var mutex = mutexs[i];
+		var pobj = {};
+		for(var j = 0, lenj = mutex.params.length; j &lt; lenj; j ++) {
+			pobj[mutex.params[j]] = null;
+		}
+		for(var l = 0, lenl = mutex.params.length; l &lt; lenl; l ++) {
+			var pitem = $("#selection&gt;.secitem dt:contains("+mutex.searthname+")").parent();
+			pitem.find("a").each(function(){
+				var o = {};
+				o[mutex.params] = null;
+				this.href = (new uri(this.href)).setQuery(o);
+			});
+		}
+	}
+});
+&lt;/script&gt;
+-->
+<script type="text/javascript">document.write("&lt;sc"+"ript src='http://track.58.com/adsys/ggafs?r="+Math.random()+"'&gt;&lt;/scri"+"pt&gt;");</script>
+<script>
+//信息hover
+boot.require('dom, anim.hover', function(Frame, dom, hover){
+	var cc = dom.get('infolist'),
+	    trs = cc.getElementsByTagName('tr');
+	Frame.each(trs, function(item){
+		hover.bind(item, 'bg');
+	});
+});
+
+
+///////标红////	
+boot.require('business.highlight', function (Frame, highlight) {
+            highlight.init($("#infolist a.t"), '');
+    });
+</script>
+<script type="text/javascript">boot.require('huangye.topbar', function(Frame, topbar){topbar.init();});</script>
+<div style="display:none">
+<!--基本统计代码begin(254,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {sortid:'-1'};
+var _gaq = _gaq || [],site_name = "58",post_count = "551",shop_count= "",page_type = "list";
+var _trackURL = "{'cate':'833,254,37367','area':'1','pagetype':'list','pagesize':'35','pagenum':'1','level1':'0','level2':'0','level3':'0','level4':'0','level5':'0','level6':'0'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/bj/piaowu/kaquan/chongzhika/list/']);
+$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<!--基本统计代码end-->
+</div>
+<script src="http://static.58.com/js/5_1/comm_js/hylist.js"></script>
+</body>
+</html>

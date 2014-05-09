@@ -1,0 +1,649 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>会议室 (486797)_新浪SHOW</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="新浪show,视频聊天,视频聊天室,新浪聊天室,uc聊天室" id="meta_keywords" />
+<meta name="description" content="新浪show是由新浪网推出的中国最大的视频聊天室，免费提供交友、视频KTV、股票财经、网络视频教学、视频游戏等多元化视频聊天互动平台" />
+<link href="http://show.sina.com.cn/images/SinaShow.ico" rel="shortcut icon" />
+<link href="http://vroom.show.sina.com.cn/css/base.css" type="text/css" rel="stylesheet" />
+<link href="http://vroom.show.sina.com.cn/css/common.css" type="text/css" rel="stylesheet" />
+<link href="http://vroom.show.sina.com.cn/css/face.css" type="text/css" rel="stylesheet" />
+<link id="linkCssBig" type="text/css" rel="stylesheet" />
+<link id="linkCssBase" type="text/css" rel="stylesheet" />
+<link id="linkCssSkin" type="text/css" rel="stylesheet" href="http://vroom.show.sina.com.cn/css/page.css" />
+<link rev="stylesheet" rel="stylesheet" href="http://show.sina.com.cn/show6.0/css/general_login.css" />
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/jquery-1.8.0.min.js"></script>
+<!--登录相关js-->
+<script type="text/javascript" src="http://show.sina.com.cn/show6.0/script/login_weibo_html.js" charset="gb2312"></script>
+<script type="text/javascript">
+var myLogin=new login();
+myLogin.init({
+	login_type:2,
+	closecallback:function(){}
+});
+
+sinaSSOConfig = new function() {
+	//本产品的标识
+	this.entry = 'sinashow';
+	this.domain='show.sina.com.cn';
+	this.version='webshow';
+	//登出回调
+	this.customLogoutCallBack = function (status) {
+		// 登出回调代码，如果不使用该js登出，则不需要实现该函数
+		if(status.result==true){
+			window.location.reload();
+		}
+	}
+	this.customLoginCallBack=function(t){
+		if(t.code==1){
+			window.location.reload();
+		}else{
+			myLogin.showbox(myLogin);
+		}
+	}	
+}
+</script>
+<script src="http://show.sina.com.cn/show5.0/script/showssologin_weibo_html.js" type="text/javascript" charset="gb2312"></script>
+</head>
+<body>
+<div id="header">
+<div class="nav" style="display:none;">
+<div class="nav_c">
+<div class="fl" style="height:30px; overflow:hidden"><a href="http://show.sina.com.cn"><img src="http://i2.sinaimg.cn/uc/flashchat/logo.gif" border="0" /></a></div>
+<ul class="nav_cl">
+<li class="nav_r_border"><a href="http://show.sina.com.cn/">首页</a></li>
+<li class="nav_r_border"><a href="http://show.sina.com.cn/arts.html">综艺</a></li>
+<li class="nav_r_border"><a href="http://show.sina.com.cn/sinashowfinance.html">财经</a></li>
+<li class="nav_r_border"><a href="http://show.sina.com.cn/sinashow_edu.html">教育</a></li>
+<li class="nav_r_border"><a href="http://show.sina.com.cn/emotion.html">情感</a></li>
+<li class="nav_r_border"><a href="http://u.show.sina.com.cn/">充值</a></li>
+<li class="nav_r_border"><a href="http://v.show.sina.com.cn/">房间大厅</a></li>
+<li class="nav_r_border"><a href="http://dy.show.sina.com.cn/">订阅高手</a></li>
+<li class="nav_moreLi"><span id="nav_more" class="nav_more" onmouseover="tool.showNavMoreBox();">更多<img src="http://i2.sinaimg.cn/uc/flashchat/icon_3.gif" /></span></li>
+<div id="nav_moreBox" class="nav_moreBox" style="display:none">
+<div class="navMB_list"><a href="http://show.sina.com.cn/down.html" target="_blank">下载</a></div>
+<div class="navMB_list"><a href="http://show.sina.com.cn/huodong.html" target="_blank">精彩专题</a></div>
+<div class="navMB_list"><a href="http://passport.show.sina.com.cn/" target="_blank">账户安全</a></div>
+<div class="navMB_list" style="border-bottom:0"><a href="http://mall.show.sina.com.cn/" target="_blank">道具商城</a></div>
+</div>
+</ul>
+<ul class="nav_cr" id="nav_cr">
+<li class="nav_r_border" id="register"><a href="#">注册</a></li>
+<li class="nav_r_border" id="login"><a href="javascript:;" onclick="myLogin.showbox(myLogin)">登录</a></li>
+<li class="nav_userInfo" id="logout"></li>
+<li class="cookieBtnLi">
+<div id="cookieBtn" class="cookieBtn" onmouseover="bindHistory();">
+						浏览记录<img src="http://i2.sinaimg.cn/uc/flashchat/icon_3.gif" />
+</div>
+<div class="box_collect" id="box_collect"></div>
+</li>
+<li><input class="text_search" type="text" id="text_search" /><input class="bt_search" type="button" onclick="tool.searchRoom()" /></li>
+<div id="mySetBox" class="mySetBox" style="display:none"></div>
+<div id="historyBox" class="dialog" style="display:none">
+<div class="historyList" id="historyList">
+<ul>
+<li>
+<p>
+									目前没有浏览记录
+								</p>
+</li>
+</ul>
+</div>
+</div>
+</ul>
+</div>
+</div>
+<div class="tool" style="display:none;">
+<div class="tool_c">
+<div class="tool_cl">
+<a href="http://v.show.sina.com.cn/?tid=2" id="room_area">情感</a> &gt; <span class="room_name" id="room_name">会议室(486797)</span>
+</div>
+<ul class="tool_cr" id="tool_cr">
+<li><a href="javascript:;" onclick="skin.showSkin();">换肤</a></li>
+<li><a href="javascript:;" id="bt_nightDay">关灯</a></li>
+<li><a href="javascript:;" onclick="tool.addFavorite()">收藏</a></li>
+<li style="padding-right:0"><a href="http://client.show.sina.com.cn/url.php"><img src="http://i2.sinaimg.cn/uc/flashchat/desk.gif" /></a></li>
+</ul>
+<div id="sharelist">
+<ul>
+<li class="title">分享到</li>
+<li><a href="http://v.t.sina.com.cn/share/share.php?appkey=2844920245&amp;url=http://v.show.sina.com.cn/486797&amp;title=%22%CE%D2%CF%D6%D4%DA%D5%FD%D4%DA%D6%D0%B9%FA%D7%EE%B4%F3%CA%D3%C6%B5%BB%A5%B6%AF%C9%E7%C7%F8%D0%C2%C0%CBSHOW%A3%AC%C7%E9%B8%D0%A3%AC%CD%DB%C5%B6%21%BA%C3%B6%E0%BE%AB%B2%CA%B5%C4%BD%DA%C4%BF%D2%AE%7E%22&amp;content=utf-8&amp;source=&amp;sourceUrl=&amp;pic=http://i2.sinaimg.cn/uc/sinashow4.0/logo.gif" target="_blank" id="share_tsina" title="新浪微博"><span class="ico_tsina">新浪微博</span></a></li>
+<li><a href="http://v.t.qq.com/share/share.php?url=http://v.show.sina.com.cn/486797&amp;appkey=&amp;site=http://v.show.sina.com.cn&amp;title=%22%CE%D2%CF%D6%D4%DA%D5%FD%D4%DA%D6%D0%B9%FA%D7%EE%B4%F3%CA%D3%C6%B5%BB%A5%B6%AF%C9%E7%C7%F8%D0%C2%C0%CBSHOW%A3%AC%C7%E9%B8%D0%A3%AC%CD%DB%C5%B6%21%BA%C3%B6%E0%BE%AB%B2%CA%B5%C4%BD%DA%C4%BF%D2%AE%7E%22" target="_blank" id="share_tqq" title="腾讯微博"><span class="ico_tqq">腾讯微博</span></a></li>
+<li><a href="http://t.163.com/article/user/checkLogin.do?info=%22%CE%D2%CF%D6%D4%DA%D5%FD%D4%DA%D6%D0%B9%FA%D7%EE%B4%F3%CA%D3%C6%B5%BB%A5%B6%AF%C9%E7%C7%F8%D0%C2%C0%CBSHOW%A3%AC%C7%E9%B8%D0%A3%AC%CD%DB%C5%B6%21%BA%C3%B6%E0%BE%AB%B2%CA%B5%C4%BD%DA%C4%BF%D2%AE%7E%22+http://v.show.sina.com.cn/486797" target="_blank" id="share_t163" title="网易微博"> <span class="ico_t163">网易微博</span></a></li>
+<li><a href="http://t.sohu.com/third/post.jsp?url=http://v.show.sina.com.cn/486797&amp;title=%22%CE%D2%CF%D6%D4%DA%D5%FD%D4%DA%D6%D0%B9%FA%D7%EE%B4%F3%CA%D3%C6%B5%BB%A5%B6%AF%C9%E7%C7%F8%D0%C2%C0%CBSHOW%A3%AC%C7%E9%B8%D0%A3%AC%CD%DB%C5%B6%21%BA%C3%B6%E0%BE%AB%B2%CA%B5%C4%BD%DA%C4%BF%D2%AE%7E%22&amp;content=utf-8&amp;pic=http://i2.sinaimg.cn/uc/sinashow4.0/logo.gif" target="_blank" id="share_tsouhu" title="搜狐微博"><span class="ico_tsouhu">搜狐微博</span></a></li>
+<li><a href="http://share.renren.com/share/buttonshare.do?link=http://v.show.sina.com.cn/486797&amp;uid=0&amp;s=1&amp;title=%22%CE%D2%CF%D6%D4%DA%D5%FD%D4%DA%D6%D0%B9%FA%D7%EE%B4%F3%CA%D3%C6%B5%BB%A5%B6%AF%C9%E7%C7%F8%D0%C2%C0%CBSHOW%A3%AC%C7%E9%B8%D0%A3%AC%CD%DB%C5%B6%21%BA%C3%B6%E0%BE%AB%B2%CA%B5%C4%BD%DA%C4%BF%D2%AE%7E%22" target="_blank" id="share_renren" title="人人网"><span class="ico_renren">人人网</span></a></li>
+<li><a href="http://www.kaixin001.com/repaste/share.php?rurl=http://v.show.sina.com.cn/486797&amp;rtitle=%22%CE%D2%CF%D6%D4%DA%D5%FD%D4%DA%D6%D0%B9%FA%D7%EE%B4%F3%CA%D3%C6%B5%BB%A5%B6%AF%C9%E7%C7%F8%D0%C2%C0%CBSHOW%A3%AC%C7%E9%B8%D0%A3%AC%CD%DB%C5%B6%21%BA%C3%B6%E0%BE%AB%B2%CA%B5%C4%BD%DA%C4%BF%D2%AE%7E%22&amp;rcontent=%D0%C2%C0%CBSHOW" target="_blank" id="share_kaixin001" title="开心网"><span class="ico_kaixin001">开心网</span></a></li>
+<li><a href="http://cang.baidu.com/do/add?it=%22%CE%D2%CF%D6%D4%DA%D5%FD%D4%DA%D6%D0%B9%FA%D7%EE%B4%F3%CA%D3%C6%B5%BB%A5%B6%AF%C9%E7%C7%F8%D0%C2%C0%CBSHOW%A3%AC%C7%E9%B8%D0%A3%AC%CD%DB%C5%B6%21%BA%C3%B6%E0%BE%AB%B2%CA%B5%C4%BD%DA%C4%BF%D2%AE%7E%22&amp;iu=http://v.show.sina.com.cn/486797" target="_blank" id="share_baidu" title="百度空间"><span class="ico_baidu">百度空间</span></a></li>
+<li><a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://v.show.sina.com.cn/486797" target="_blank" id="share_qzone" title="QQ空间"><span class="ico_qzone">QQ空间</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<script type="">
+	function queryString(key){  
+		var svalue = window.location.search.match( new RegExp( "[\?\&amp;]" + key + "=([^\&amp;]*)(\&amp;?)", "i" ) ); 
+		return svalue ? svalue[1] : svalue;   
+	}
+	var product=queryString("product");	
+	if(product!="1"){
+		$(".nav").css("display","");
+		$(".tool").css("display","");
+	}	
+	</script>
+<div class="header_m" id="header_m">
+<div class="bg_header_m">
+<div class="bg_header_c" style="position:relative;">
+<div id="runwaybox" class="runway">
+<div id="runway" style="padding-left:3px;">
+</div>
+<span class="bt_runway" id="btn_runway" title="我要上跑道" style="display:none">我要上跑道</span>
+<div id="gift_runway_box">
+<div id="gift_runway" style="display:none" class="gift_runway">
+<div class="gift_runway_t"></div>
+<div class="chat_gift_send">
+<ul>
+<li class="pl10">
+<span class="fl">送给：</span>
+<select class="fl" id="dst_id1">
+</select>
+</li>
+<li class="cgs_count">
+<span class="fl">数量：</span>
+<iframe frameborder="0" scrolling="no" class="fl">
+</iframe>
+<select class="fl" id="giftCount1">
+<option value="9">9(长久)</option>
+<option value="13">13(一生)</option>
+<option value="14">14(一世)</option>
+<option value="21">21(爱你)</option>
+<option value="66">66(一切顺利)</option>
+<option value="88">88(发发)</option>
+<option value="99">99(爱你久久)</option>
+<option value="521">521(我爱你)</option>
+<option value="666">666(六六大顺)</option>
+<option value="888">888(发大财)</option>
+<option value="999">999(天长地久)</option>
+<option value="1314">1314(一生一世)</option>
+</select>
+<input type="text" id="props_count1" value="1" class="fl" _moz_resizing="false" />
+</li>
+</ul>
+<div class="runway_close" id="runway_close"><img src="http://www.sinaimg.cn/uc/flashchat/icon_6.gif" /></div>
+</div>
+<div class="chat_gift_img">
+<div class="grw_bt"><a class="grw_bt_l" href="javascript:;" onclick="grwPageMove(0)"></a></div>
+<div class="chat_gift_img_c">
+<div class="chat_gift_img_t"></div>
+<div class="chat_gift_img_m" id="giftBox1"></div>
+<div class="chat_gift_img_b"></div>
+</div>
+<div class="grw_bt"><a class="grw_bt_r" href="javascript:;" onclick="grwPageMove(1)"></a></div>
+</div>
+<div class="chat_gift_tips">
+<span>单击以上礼物即可赠送，并出现在道具跑道上&nbsp;&nbsp;</span>
+<span><span id="grw_page">1/1</span> 页</span>
+</div>
+</div>
+</div>
+</div>
+<div class="ranking ranking_left" style="display:none;">
+<div class="ranking_title"></div>
+<ul>
+					正在获取数据列表
+				</ul>
+</div>
+<div class="ranking ranking_right" style="display:none;">
+<div class="ranking_title"></div>
+<ul>
+					正在获取数据列表
+				</ul>
+</div>
+<div class="video" id="video" style="height:330px;overflow:hidden;">
+<!--&lt;div class="videoLoadding" id="videoloadding"&gt;&lt;/div&gt;-->
+<!--[if !IE]&gt;-->
+<!--
+				&lt;div style="position:absolute;top:0;left:0;z-index:100"&gt;	
+					&lt;object id="myId" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1" height="1"  wmode="transparent"&gt;
+							&lt;param name="movie" value="http://v.show.sina.com.cn/flashchat/expressInstall.swf"  /&gt;
+							&lt;object type="application/x-shockwave-flash" data="http://v.show.sina.com.cn/flashchat/expressInstall.swf" width="1" height="1" wmode="transparent"&gt;
+							&lt;div&gt;
+								&lt;p&gt;&lt;a href="http://www.adobe.com/go/getflashplayer"&gt;下载flash播放器&lt;/a&gt;&lt;/p&gt;
+							&lt;/div&gt;
+							&lt;/object&gt;
+					&lt;/object&gt;
+				&lt;/div&gt;
+				-->
+<!--&lt;![endif]-->
+<ul id="videobox" style="position:absolute; left:0px;">
+<li><div id="flashvideo0" class="flashvideo0"></div></li>
+<li><div id="flashvideo1" class="flashvideo1"></div></li>
+<li><div id="flashvideo2" class="flashvideo2"></div></li>
+<!--
+					&lt;li&gt;&lt;div id="flashvideo0" class="flashvideo0"&gt;&lt;embed width="100%" height="100%" flashvars="roomid=486797&amp;local=0" allowscriptaccess="always" wmode="transparent" allowfullscreen="true" salign="t" quality="high" name="video1" id="video1" style="undefined" src="swf/chatvideo_middle.swf" type="application/x-shockwave-flash"&gt;&lt;/div&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;div id="flashvideo1" class="flashvideo1" &gt;&lt;embed width="100%" height="100%" flashvars="roomid=486797&amp;local=1" allowscriptaccess="always" wmode="transparent" allowfullscreen="true" salign="t" quality="high" name="video2" id="video2" style="undefined" src="swf/chatvideo_middle.swf" type="application/x-shockwave-flash"&gt;&lt;/div&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;div id="flashvideo2" class="flashvideo2" &gt;&lt;embed width="100%" height="100%" flashvars="roomid=486797&amp;local=2" allowscriptaccess="always" wmode="transparent" allowfullscreen="true" salign="t" quality="high" name="video3" id="video3" style="undefined" src="swf/chatvideo_middle.swf" type="application/x-shockwave-flash"&gt;&lt;/div&gt;&lt;/li&gt;
+					-->
+</ul>
+<a href="javascript:;" class="bt_manor" style="display:none"><span>庄园 玩家(<font>0</font>人)</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="main" class="main">
+<div class="main_h"></div>
+<div class="main_m">
+<div class="userList">
+<div id="userList_header" class="userList_header">
+<div class="userList_nav">
+<ul id="userNav">
+<li class="userList_nav_out" id="userNav_1">麦序/<span id="userNav_count_1">0</span></li>
+<li class="userList_nav_out" id="userNav_2">管理员/<span id="userNav_count_2">0</span></li>
+<li class="userList_nav_on" id="userNav_3">全部/<span id="userNav_count_3">0</span></li>
+</ul>
+</div>
+<div class="userList_search cb">
+<input type="text" class="uls_input fl" id="uls_input" value="请输入昵称或者ID" style="color:#989898" />
+<span class="icon_2"></span>
+<!--&lt;input type="button" class="uls_bt fl" value="我在哪" /&gt;-->
+</div>
+</div>
+<div class="userList_mem" id="userList_mem">
+<ul id="userList_1" style="display:none"></ul>
+<ul id="userList_2" style="display:none"><li class="userLoadding">列表加载中...</li></ul>
+<ul id="userList_3"><li class="userLoadding">列表加载中...</li></ul>
+<ul id="searchUserList_1" style="display:none"></ul>
+<ul id="searchUserList_2" style="display:none"></ul>
+<ul id="searchUserList_3" style="display:none"></ul>
+</div>
+<div class="micro_set">
+<a id="microqRequestBt" class="microqRequestBt" href="javascript:;">我要上麦</a>
+<a id="cameraSetBt" class="cameraSetBt" href="javascript:;"></a>
+</div>
+</div>
+<div class="chat">
+<div id="yanhua"></div>
+<div class="chat_public" id="chat_public">
+<ul>
+</ul>
+</div>
+<div class="chat_middleLine" id="chat_middleLine"></div>
+<div class="chat_private" id="chat_private">
+<ul>
+</ul>
+</div>
+<div class="chat_tool" id="chat_tool">
+<ul class="chat_tool_l">
+<li id="bt_pubPri" class="chat_tool_l1"><span class="icon_1">公聊</span></li>
+<li class="chat_tool_l2">
+<select id="select_chat">
+<option value="0" selected="selected">大家</option>
+</select>
+</li>
+<li class="chat_tool_l3" id="bt_font"><span class="icon_1">字体</span></li>
+<li class="chat_tool_l4" id="bt_face"><span class="icon_1">表情</span></li>
+<li class="chat_tool_l5" id="bt_cheers"><span class="icon_1">喝彩</span></li>
+<li class="chat_tool_l6" id="bt_clear"><span class="icon_1">清屏</span></li>
+<li class="chat_tool_l7_v" id="bt_invisible" style="display:none"><span class="icon_1">显身</span></li>
+</ul>
+<ul class="chat_tool_r">
+<li class="chat_tool_r_l1" id="balance"></li>
+<li class="bt_1 chat_tool_r_l2" onclick="window.open('http://u.show.sina.com.cn/')"></li>
+</ul>
+<div class="fontbox" id="fontbox" style="display:none">
+<div class="fontbox_color" id="fontbox_color">
+<ul>
+<li class="fontbox_color_on"><a href="javascript:;" style="background:#707070;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#ffccc9;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#ffce93;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#fffc9e;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#ffffc7;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#9aff99;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#96fffb;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#cdffff;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#cbcefb;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#cfcfcf;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#fd6864;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#fe996b;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#fffe65;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#fcff2f;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#67fd9a;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#38fff8;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#68fdff;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#9698ed;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#c0c0c0;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#fe0000;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#f8a102;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#ffcc67;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#f8ff00;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#34ff34;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#68cbd0;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#34cdf9;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#6665cd;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#9b9b9b;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#cb0000;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#f56b00;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#ffcb2f;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#ffc702;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#32cb00;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#00d2cb;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#3166ff;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#6434fc;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#656565;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#9a0000;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#ce6301;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#cd9934;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#999903;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#009901;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#329a9d;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#3531ff;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#6200c9;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#343434;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#680100;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#963400;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#986536;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#646809;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#036400;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#34696d;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#00009b;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#303498;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#000000;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#330001;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#643403;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#663234;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#343300;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#013300;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#003532;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#010066;"></a></li>
+<li class="fontbox_color_out"><a href="javascript:;" style="background:#340096;"></a></li>
+</ul>
+</div>
+<div class="fontbox_tool">
+<ul>
+<li>
+<select class="fontbox_tool_1" id="select_fontFamily">
+<option value="1">宋体</option>
+<option value="2">微软雅黑</option>
+</select>
+</li>
+<li>
+<select class="fontbox_tool_2" id="select_fontSize">
+<option value="8">8</option>
+<option selected="selected" value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+</select>
+</li>
+<li>
+<a class="icon_font fontbox_tool_3" id="bt_fontWeight" href="javascript:;"></a>
+</li>
+<li>
+<a class="icon_font fontbox_tool_4" id="bt_fontStyle" href="javascript:;"></a>
+</li>
+<li>
+<a class="icon_font fontbox_tool_5" id="bt_textDecoration" href="javascript:;"></a>
+</li>
+<li>
+<a class="icon_font fontbox_tool_6" id="bt_fontColor" href="javascript:;"></a>
+</li>
+</ul>
+</div>
+</div>
+<div id="facebox" class="facebox" style="display:none">
+<div id="tag_a" class="tag_a">
+</div>
+<div class="group_a">
+<div id="navsbox">
+</div>
+<div id="imgbox" class="group_b">
+</div>
+<div id="previewbox" class="image_b image_b_left"><div class="boxin"><p><img src="" /></p></div></div>
+</div>
+</div>
+</div>
+<div class="chat_text" id="chat_text">
+<div contenteditable="true" class="textarea" id="chat_textarea" onkeydown="chat.cMaxlen();" onfocus="chat.cMaxlen();" onpaste="chat.cMaxlen();"></div>
+<div class="loginintro" id="login_intro" style="display:none"></div>
+<!--&lt;input id="bt_sendChat" type="button" value="发 送" /&gt;-->
+<a href="javascript:;" class="bt_sendChat" id="bt_sendChat">发 送</a>
+</div>
+<div class="chat_gift" id="chat_gift" style="display:none">
+<div class="chat_gift_r"><span class="bt_1 bt_gift" id="bt_gift"></span></div>
+<div class="chat_gift_l" id="chat_gift_l" style="display:none;">
+<div class="chat_gift_nav">
+<ul id="giftNav">
+<li class="chat_gift_nav_on">热门</li>
+<li class="chat_gift_nav_out">友谊</li>
+<li class="chat_gift_nav_out">爱情</li>
+<li class="chat_gift_nav_out">奢华</li>
+</ul>
+</div>
+<div class="chat_gift_send">
+<ul>
+<li>
+<span class="fl">送给：</span>
+<select id="dst_id" class="fl">
+</select>
+</li>
+<li class="cgs_count" id="cgs_count">
+<span class="fl">数量：</span>
+<iframe class="fl" frameborder="0" scrolling="no">
+</iframe>
+<select id="giftCount" class="fl">
+<option value="9">9(长久)</option>
+<option value="13">13(一生)</option>
+<option value="14">14(一世)</option>
+<option value="21">21(爱你)</option>
+<option value="66">66(一切顺利)</option>
+<option value="88">88(发发)</option>
+<option value="99">99(爱你久久)</option>
+<option value="521">521(我爱你)</option>
+<option value="666">666(六六大顺)</option>
+<option value="888">888(发大财)</option>
+<option value="999">999(天长地久)</option>
+<option value="1314">1314(一生一世)</option>
+</select>
+<input type="text" _moz_resizing="false" class="fl" value="1" id="props_count" />
+</li>
+</ul>
+</div>
+<div class="chat_gift_img" id="giftBox">
+</div>
+</div>
+</div>
+<div class="speaker_box" id="speaker_box" style="display:none">
+<div class="speaker_box_c">
+<div class="speaker_header">
+<ul class="speaker_nav" id="speaker_nav">
+<li class="speaker_nav_on"><span>全区发送</span></li>
+<li class="cp"><span>全站发送</span></li>
+</ul>
+<span class="icon_1 bt_close" onclick="speaker.hiddenSpeakerBox();"></span>
+<div class="cb"></div>
+</div>
+<div class="speaker_c" contenteditable="true" id="speaker_content">
+</div>
+<div class="speaker_b">
+<ul>
+<li class="speaker_b_1"><span class="icon_1 speaker_btFace" id="speaker_btFace"></span></li>
+<li class="speaker_b_2"><span id="speaker_price">5000</span>U点/条，贵族八折</li>
+<li class="speaker_b_3"><input type="button" class="bt_1 cp" id="bt_sendSpeaker" /></li>
+</ul>
+</div>
+</div>
+<div class="speaker_face" id="speaker_face" style="display:none">
+<div class="border_1 speaker_face_top"></div>
+<div class="speaker_face_middle">
+<div class="speaker_face_middle_header"><span class="icon_1 bt_close" id="bt_closeSpeakerFace"></span></div>
+<div class="speaker_img_box">
+<div class="speaker_img_box_c" id="speaker_face_img">
+</div>
+</div>
+</div>
+<div></div>
+</div>
+<div id="speaker_facebox" class="speaker_face" style="display:none">
+<div id="speaker_tag_a" class="tag_a">
+</div>
+<div class="group_a">
+<div id="speaker_navsbox">
+</div>
+<div id="speaker_imgbox" class="group_b">
+</div>
+<div id="speaker_previewbox" class="image_b image_b_left"><div class="boxin"><p><img src="" /></p></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="cb"></div>
+</div>
+<div class="main_b"></div>
+</div>
+<div class="guess">
+<div class="box">
+<h2>猜你喜欢</h2>
+<ul id="yourFavList">
+<li>
+<span><a href="/431689"><img src="http://game.51uc.com/upload/activities/431689.jpg" width="115" height="90" title="老年征婚俱乐部" /></a></span>
+<p><a href="#">老年征婚俱乐部</a></p>
+</li>
+<li>
+<span><a href="/426960"><img src="http://game.51uc.com/upload/activities/426960.jpg" width="115" height="90" title="青春二十" /></a></span>
+<p><a href="#">青春二十</a></p>
+</li>
+<li>
+<span><a href="/434529"><img src="http://game.51uc.com/upload/activities/434529.jpg" width="115" height="90" title="真爱音乐小屋" /></a></span>
+<p><a href="#">真爱音乐小屋</a></p>
+</li>
+<li>
+<span><a href="/409083"><img src="http://game.51uc.com/upload/activities/409083.jpg" width="115" height="90" title="纯休闲吧" /></a></span>
+<p><a href="#">纯休闲吧</a></p>
+</li>
+<li>
+<span><a href="/417383"><img src="http://game.51uc.com/upload/activities/417383.jpg" width="115" height="90" title="浪漫俏夕阳" /></a></span>
+<p><a href="#">浪漫俏夕阳</a></p>
+</li>
+<li>
+<span><a href="/423905"><img src="http://game.51uc.com/upload/activities/423905.jpg" width="115" height="90" title="中年征婚俱乐部" /></a></span>
+<p><a href="#">中年征婚俱乐部</a></p>
+</li>
+<li>
+<span><a href="/412062"><img src="http://game.51uc.com/upload/activities/412062.jpg" width="115" height="90" title="五十岁的聚会" /></a></span>
+<p><a href="#">五十岁的聚会</a></p>
+</li>
+</ul>
+</div>
+<div class="bott"><a href="javascript:;" onclick="testYourFav()">换一组</a></div>
+</div>
+<div class="bottomTool" id="bottomTool">
+<div class="bottomTool_l">
+<a href="http://dl.uc.sina.com/sina_show/sinashow_setup.exe" class="icon_bottom">
+			客户端下载
+		</a>
+<span class="bottomTool_l_4"></span>
+</div>
+<div class="icon_bottom bottomTool_r" onclick="speaker.showSpeakerBox();"><span>发送喇叭</span></div>
+<div class="bottomTool_c">
+<div id="bottomTool_c">
+<ul id="bottomTool_c_ul">
+</ul>
+<span class="bottomTool_bt">
+<a class="bBt_up" onclick="speaker.bBtUp();"></a>
+<a class="bBt_down" onclick="speaker.bBtDown();"></a>
+</span>
+</div>
+</div>
+</div>
+<div id="flashcontent1" align="center" style="font-size:0;overflow:hidden;height:1px;"> </div>
+</body>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/base.js"></script>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/swfobject.js"></script>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/md5.js"></script>
+<script type="text/javascript">
+var  interFace={
+    sizeType:2
+}
+
+    interFace.typeSize=2;
+
+</script>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/cookie.js"></script>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/page.js?v=20120203"></script>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/interface.js"></script>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/face.js"></script>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/drag.js"></script>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/gift.js"></script>
+<script type="text/javascript" src="http://vroom.show.sina.com.cn/script/room.js"></script>
+<link href="http://show.sina.com.cn/webim/style/css/webim.css" rel="stylesheet" type="text/css" />
+<script src="http://show.sina.com.cn/webim/scripts/strophe.min.js"></script>
+<script src="http://show.sina.com.cn/webim/scripts/plugins/flXHR.js" type="text/javascript"></script>
+<script src="http://show.sina.com.cn/webim/scripts/plugins/strophe.flxhr.min.js" type="text/javascript"></script>
+<script src="http://show.sina.com.cn/webim/scripts/sinashow.im.min.js"></script>
+<script type="text/javascript">
+
+
+
+//php判断，如果没有cookies信息，则执行检测
+var userInfo=sinaSSOController.getshowcookie();
+if(userInfo==null){
+	document.getElementById('logout').style.display='none';
+	document.getElementById('register').style.display='';	
+	document.getElementById('login').style.display='';
+	user.user_id=0;
+	user.isLogin=false;
+	//Y.get("chat_textarea").setAttribute("contenteditable","false");
+	Y.get("login_intro").style.display="";
+	Y.get("chat_textarea").style.display="none"
+	Y.get("login_intro").innerHTML="如果你想发言，请&lt;a href='javascript:;' onclick='myLogin.showbox(myLogin)' style='color:#019094'&gt;登录&lt;/a&gt;没有账号请&lt;a href="http://passport.show.sina.com.cn/reg.php" target="_blank" style="color:#019094"&gt;注册&lt;/a&gt;";
+}else{
+	document.getElementById('logout').innerHTML='&lt;span class="welcome"&gt;欢迎，&lt;/span&gt;&lt;span class="nav_nickname" id="nickname" onmouseover="user.showMySetBox()" title="'+decodeURIComponent(userInfo.snick)+'"&gt;'+Y.autoAddEllipsis(decodeURIComponent(userInfo.snick),14)+'&lt;img src="http://i2.sinaimg.cn/uc/flashchat/icon_3.gif"&gt;&lt;/span&gt;';
+	document.getElementById('register').style.display='none';
+	document.getElementById('login').style.display='none';
+	Y.get("login_intro").innerHTML="";
+	Y.get("login_intro").style.display="none";
+	Y.get("chat_textarea").style.display=""
+	
+	user.isLogin=true;
+	user.user_id=userInfo.suid;
+	user.user_nick=decodeURIComponent(userInfo.snick);
+	if(myLogin.getcookie("ticket")){
+		user.user_pwd=myLogin.getcookie("ticket")
+	}
+	user.account=myLogin.getcookie("money");
+
+	var num=chat.formatNum(user.account)+"";
+	num=num.substring(0,num.length-3)
+	Y.get("balance").innerHTML="余额：&lt;strong&gt;"+num+"&lt;/strong&gt;";
+}
+
+
+saveCookie("486797|会议室");
+//user.callback_getVisitor('');
+//room.callback_getRoomStatus('{"486797":{"online":4,"property":1}}');
+ micro.svInfo.frame_per_second=10;
+
+
+
+</script>
+<!--登录相关结束-->
+<!--ff的flash下载提示-->
+<!--
+&lt;script type="text/javascript" src="http://show.sina.com.cn/flashchat/swfobject_2.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+swfobject.registerObject("myId", "9.0.0", "http://show.sina.com.cn/flashchat/expressInstall.swf");
+&lt;/script&gt;
+-->
+<!--统计代码-->
+<div style="display:none">
+<!--&lt;script src="http://s24.cnzz.com/stat.php?id=3608089&amp;web_id=3608089&amp;show=pic" language="JavaScript"&gt;&lt;/script&gt;-->
+<script src="http://s24.cnzz.com/stat.php?id=3722708&amp;web_id=3722708&amp;show=pic" language="JavaScript"></script>
+</div>
+</html>

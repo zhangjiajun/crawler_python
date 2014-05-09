@@ -1,0 +1,868 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>水乡高尔夫球队_新浪博客</title>
+<meta name="keywords" content="水乡高尔夫球队_新浪博客,水乡高尔夫球队,杂谈" />
+<meta name="description" content="水乡高尔夫球队_新浪博客,水乡高尔夫球队,水乡球队会员手册,水乡GOLF球队第三届第七次月例赛,水乡GOLF球队第三届第二次季度赛,水乡GOLF球队第三届第五次月例赛,水乡GOLF球队第三届第四次月例赛,水乡GOLF球队第三届第二次月例赛、第一次季度赛,水乡GOLF球队第三届第一次月例赛,水乡GOLF球队第二届队长杯,水乡GOLF球队第二届第十二次月例赛,水乡GOLF球队第二届第十一次月例赛,水乡GOLF球队第二届第八、九次外地赛" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+&lt;!–[if lte IE 6]&gt;
+&lt;script type="text/javascript"&gt;
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+&lt;/script&gt;
+&lt;![endif]–&gt;
+&lt;script type="text/javascript"&gt;
+window.staticTime=new Date().getTime();
+&lt;/script&gt;
+&lt;link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php"  /&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd"  /&gt;
+&lt;link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest"  /&gt;
+&lt;link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1373803695.xml" title="RSS"  /&gt;
+&lt;link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet"  /&gt;&lt;style id="tplstyle" type="text/css"&gt;@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/6/6_8/t.css");
+&lt;/style&gt;
+&lt;style id="positionstyle"  type="text/css"&gt;
+.sinabloghead .blogtoparea{ left:131px;top:35%;}
+.sinabloghead .blognav{ left:120px;top:61%;}
+&lt;/style&gt;
+&lt;style id="bgtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="headtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="navtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--$sinatopbar--&gt;
+&lt;div style="z-index:512;" class="nsinatopbar"&gt;
+  &lt;div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"&gt;&lt;/div&gt;
+  &lt;div class="ntopbar_main"&gt; 
+    &lt;a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"&gt;&lt;img class="ntopbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"&gt;&lt;/a&gt;
+    &lt;div class="ntopbar_floatL"&gt;
+      &lt;div class="ntopbar_search" id="traySearchBar"&gt;&lt;/div&gt;
+	  &lt;div class="ntopbar_ad" id="loginBarActivity" style="display:none;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="ntopbar_loading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"&gt;加载中…&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--$end sinatopbar--&gt;
+
+&lt;div class="sinabloga" id="sinabloga"&gt;
+	&lt;div id="sinablogb" class="sinablogb"&gt;
+
+	   
+ &lt;div id="sinablogHead" class="sinabloghead"&gt;
+     &lt;div style="display: none;" id="headflash" class="headflash"&gt;&lt;/div&gt;
+	   &lt;div id="headarea" class="headarea"&gt;
+      &lt;div id="blogTitle" class="blogtoparea"&gt;
+      &lt;h1 id="blogname" class="blogtitle"&gt;&lt;a href="http://blog.sina.com.cn/venicegolf"&gt;&lt;span id="blognamespan"&gt;venicegolf的博客&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;
+	  		
+					&lt;div id="bloglink" class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/venicegolf"&gt;http://blog.sina.com.cn/venicegolf&lt;/a&gt;  &lt;a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss"&gt;[&lt;cite&gt;订阅&lt;/cite&gt;]&lt;/a&gt;&lt;a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1373803695'));"&gt;[&lt;cite&gt;手机订阅&lt;/cite&gt;]&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="blognav" id="blognav"&gt;
+      			  &lt;div id="blognavBg" class="blognavBg"&gt;&lt;/div&gt; &lt;div class="blognavInfo"&gt; 
+		&lt;span&gt;&lt;a  class="on" href="http://blog.sina.com.cn/venicegolf"&gt;首页&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a  href="http://blog.sina.com.cn/s/articlelist_1373803695_0_1.html"&gt;博文目录&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a href="http://photo.blog.sina.com.cn/venicegolf"&gt;图片&lt;/a&gt;&lt;/span&gt;
+      &lt;span class="last"&gt;&lt;a  href="http://blog.sina.com.cn/s/profile_1373803695.html"&gt;关于我&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;      		      		 	
+      
+             &lt;div class="autoskin" id="auto_skin"&gt;
+       &lt;/div&gt;
+
+&lt;div class="adsarea"&gt;
+     &lt;a href="#"&gt;&lt;div id="template_clone_pic" class="pic"&gt;&lt;/div&gt;&lt;/a&gt;
+     &lt;div id="template_clone_link" class="link wdc_HInf"&gt;&lt;/div&gt;
+     &lt;div id="template_clone_other" class="other"&gt;&lt;/div&gt;        
+&lt;/div&gt;
+    &lt;/div&gt;
+    	    	    &lt;/div&gt;
+    
+    &lt;!--主题内容开始 --&gt;
+    &lt;div class="sinablogbody" id="sinablogbody"&gt;
+		
+	&lt;!--第一列start--&gt;
+    &lt;div id="column_1" class="SG_colW21 SG_colFirst"&gt;&lt;div class="SG_conn" id="module_901"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="个人资料"&gt;个人资料&lt;/span&gt;
+            &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="info"&gt;
+                            
+            &lt;div class="info_img" id="comp_901_head"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://p8.sinaimg.cn/1373803695/180/02001264658834" id="comp_901_head_image" width="180" height="180" alt="水乡高尔夫球队" title="水乡高尔夫球队"  /&gt;&lt;/div&gt;
+            
+            &lt;div class="info_txt"&gt;
+              &lt;div class="info_nm"&gt;
+                &lt;img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;
+                &lt;span class="SG_txtb"&gt;&lt;strong id="ownernick"&gt;水乡高尔夫球队                                &lt;/strong&gt;&lt;/span&gt;
+                
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class="info_btn1"&gt;
+              &lt;!--user['qing_url'] --&gt;
+                &lt;a target="_blank" href="http://qing.blog.sina.com.cn/fancy.html" onclick="v7sendLog &amp;&amp; v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;Qing&lt;/cite&gt;&lt;/a&gt;
+                &lt;a target="_blank" href="http://weibo.com/u/1373803695?source=blog" class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;微博&lt;/cite&gt;&lt;/a&gt;
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class="SG_j_linedot"&gt;&lt;/div&gt;        &lt;div class="info_locate" id = "info_locate_id"&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;div class="info_btn2"&gt;
+    &lt;p&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"&gt;&lt;cite &gt;加好友&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"&gt;&lt;cite &gt;发纸条&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;a href="http://blog.sina.com.cn/s/profile_1373803695.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"&gt;&lt;cite&gt;写留言&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"&gt;&lt;cite onclick="Module.SeeState.add()"&gt;加关注&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+                  &lt;div class="info_list"&gt;     
+                                   &lt;ul class="info_list1"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客等级：&lt;/span&gt;&lt;span id="comp_901_grade"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/9.gif"   /&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客积分：&lt;/span&gt;&lt;span id="comp_901_score"&gt;&lt;strong&gt;30&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;ul class="info_list2"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客访问：&lt;/span&gt;&lt;span id="comp_901_pv"&gt;&lt;strong&gt;3,957&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;关注人气：&lt;/span&gt;&lt;span id="comp_901_attention"&gt;&lt;strong&gt;11&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/div&gt;
+&lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_conn" id="module_2"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="留言"&gt;留言&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_12"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="访客"&gt;访客&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="评论"&gt;评论&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第一列end--&gt;
+	
+	&lt;!--第二列start--&gt;
+	&lt;div id="column_2" class="SG_colW51"&gt;&lt;div id="module_10001" class="SG_conn"&gt;
+	&lt;div class="SG_connHead"&gt;
+		&lt;span comp_title="博文" class="title"&gt;博文&lt;/span&gt;
+		&lt;span class="edit"&gt;
+        		&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class="SG_connBody"&gt;
+															&lt;div class="bloglist"&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;em&gt;置顶：&lt;/em&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af01009430" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af01009430.html" target="_blank"&gt;水乡球队会员手册&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2008-04-26 12:01)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af01009430'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af01009430');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p align='center'&gt;&lt;span style=
+'FONT-SIZE: 16pt; FONT-FAMILY: 楷体_GB2312; mso-bidi-font-size: 12.0pt; mso-hansi-font-family: 华文细黑'&gt;
+&lt;b&gt;会员手册&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;一&gt;东莞水乡高尔夫联谊会会章&lt;/p&gt;
+&lt;p&gt;&lt;二&gt;组织&lt;/p&gt;
+&lt;p&gt;&lt;三&gt;守则&lt;/p&gt;
+&lt;p&gt;1、&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 准时赴会&lt;/p&gt;
+&lt;p&gt;2、&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 注意安全&lt;/p&gt;
+&lt;p&gt;3、&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 保持风度&lt;/p&gt;
+&lt;p&gt;4、&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 服装整洁&lt;/p&gt;
+&lt;p&gt;5、&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 遵守规则&lt;/p&gt;
+&lt;p&gt;6、&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 热情参与&lt;/p&gt;
+&lt;p&gt;&lt;四&gt;会员资料&lt;/p&gt;
+&lt;p&gt;&lt;五&gt;会员差点调整及月赛得分方法&lt;/p&gt;
+&lt;p&gt;&lt;六&gt;年度比赛场地及时间内容&lt;/p&gt;
+&lt;p&gt;&lt;七&gt;会员赞助及刊登广告办法&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;东莞水乡高尔夫会章&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;第一条 名称：&lt;/p&gt;
+&lt;p&gt;本球队定名为东莞水乡高尔夫&lt;/p&gt;
+&lt;p&gt;第二条 宗旨：&lt;/p&gt;
+&lt;p&gt;集各志同道合者研究磋商球艺，以球会友，推广高尔夫球运动。&lt;/p&gt;
+&lt;p&gt;第三条 地址:&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 本球队管理机构地址设于长荣高尔夫俱乐部。&lt;/p&gt;
+&lt;p&gt;第四条 队员资格及申请入会：&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 凡品行端&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af01009430" href="http://blog.sina.com.cn/s/blog_51e294af01009430.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af01009430.html#comment" id="c_10001_51e294af01009430"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af01009430');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af01009430" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af01009430');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af01009430" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af01009430.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af01009430"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100kjqg" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100kjqg.html" target="_blank"&gt;水乡GOLF球队第三届第七次月例赛&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-07-29 12:21)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100kjqg'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100kjqg');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;span style=
+'FonT-siZe: 12pt; CoLor: black; FonT-FAMiLY: 楷体_GB2312; mso-hansi-font-family: 华文中宋'&gt;
+各位队友： &lt;/span&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 24pt; mso-char-indent-count: 2.0'&gt;
+&lt;span style=
+'FonT-siZe: 12pt; CoLor: black; FonT-FAMiLY: 楷体_GB2312; mso-hansi-font-family: 华文中宋'&gt;
+大家好！&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'LAYoUT-GriD-MoDe: char; TexT-inDenT: 24pt; MArGin-riGHT: 8.9pt; mso-char-indent-count: 2.0; mso-para-margin-right: .85gd; mso-layout-grid-align: none'&gt;
+&lt;span style='FonT-siZe: 12pt; FonT-FAMiLY: 楷体_GB2312'&gt;水乡&lt;span lang=
+'EN-US' xml:lang='EN-US'&gt;GOLF&lt;/span&gt;球队第三届第二次季度赛于 &lt;span lang='EN-US'
+xml:lang='EN-US'&gt;6&lt;/span&gt;月&lt;span lang='EN-US' xml:lang=
+'EN-US'&gt;10&lt;/span&gt;日在深圳九龙山高尔夫球会顺利举行。&lt;/span&gt;&lt;span style=
+'FonT-siZe: 12pt; CoLor: black; FonT-FAMiLY: 楷体_GB2312; mso-hansi-font-family: 华文中宋'&gt;本次&lt;/span&gt;&lt;span style='FonT-siZe: 12pt; FonT-FAMiLY: 楷体_GB2312'&gt;总冠由黄柱良先生夺得，净冠由陈淦洪先生夺得。一早&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100kjqg" href="http://blog.sina.com.cn/s/blog_51e294af0100kjqg.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100kjqg.html#comment" id="c_10001_51e294af0100kjqg"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100kjqg');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100kjqg" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100kjqg');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100kjqg" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100kjqg.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100kjqg"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100kjmt" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100kjmt.html" target="_blank"&gt;水乡GOLF球队第三届第二次季度赛&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-07-29 11:07)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100kjmt'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100kjmt');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;span style=
+'FonT-siZe: 12pt; CoLor: black; FonT-FAMiLY: 楷体_GB2312; mso-hansi-font-family: 华文中宋'&gt;
+各位队友： &lt;/span&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 24pt; mso-char-indent-count: 2.0'&gt;
+&lt;span style=
+'FonT-siZe: 12pt; CoLor: black; FonT-FAMiLY: 楷体_GB2312; mso-hansi-font-family: 华文中宋'&gt;
+大家好！&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'LAYoUT-GriD-MoDe: char; TexT-inDenT: 24pt; MArGin-riGHT: 8.9pt; mso-char-indent-count: 2.0; mso-para-margin-right: .85gd; mso-layout-grid-align: none'&gt;
+&lt;span style='FonT-siZe: 12pt; FonT-FAMiLY: 楷体_GB2312'&gt;水乡&lt;span lang=
+'EN-US' xml:lang='EN-US'&gt;GOLF&lt;/span&gt;球队第三届第五次月例赛于 &lt;span lang='EN-US'
+xml:lang='EN-US'&gt;5&lt;/span&gt;月&lt;span lang='EN-US' xml:lang=
+'EN-US'&gt;25&lt;/span&gt;日在观澜湖利百特高尔夫球会顺利举行。共计三十余人参加，总冠由罗成国先生夺得，净冠由陈新华先生夺得。天气晴朗，太阳公公用它独特的热情欢迎着我们的队员们，队员们也以同样的热情回报它，即使大家挥杆都挥的汗如雨下。值得表样的是，很多队员都早早的到了球场，让比赛更加顺&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100kjmt" href="http://blog.sina.com.cn/s/blog_51e294af0100kjmt.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100kjmt.html#comment" id="c_10001_51e294af0100kjmt"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100kjmt');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100kjmt" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100kjmt');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100kjmt" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100kjmt.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100kjmt"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100ii4v" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100ii4v.html" target="_blank"&gt;水乡GOLF球队第三届第五次月例赛&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-05-13 12:38)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100ii4v'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100ii4v');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;各位队友：&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 大家好！&lt;/p&gt;
+&lt;p&gt;
+水乡GOLF球队第三届第四次月例赛于4月23日在南沙高尔夫球会举行。第四次月例赛总冠由邓甲青先生夺得，净冠由陈建军先生夺得。天公作美，万里无云，春风吹在脸上，痒痒的，真是最佳打球日！队员们个个兴致勃勃，享受这一场春的比赛！考虑到夏天即将来临，球队贴心的为队员们准备了防晒组合，让队员们打完整个夏天也不会晒黑，依然帅的一塌糊涂。晚宴在会长张溢林先生的精心安排下，品尝了当地美食，配着队长卢光宇先生带来的美酒，好不享受！大家齐杯庆祝，热闹非凡！&lt;/p&gt;
+&lt;p&gt;
+第三届第五次月例赛于5月25日在观澜湖利百特高尔夫球会举行，球场是大卫利百特在这里创作的第一个球场。他将独创的高球教学思想体现在球场上，希望球手在打完18洞後，用尽球包里所有的球杆，从而考验球手的全面能力和技术水平。而要在这里取得标准杆成绩，必须要有精确的短击技巧来应付大起伏的果岭。整个球场布置了传统的大形沙坑在球道周围。不同的发球区巧妙地布局在每个球洞，保证不同水平的打球者既能享受挥杆的乐趣，又能体会挑战的激励。利百特把所有的球场要素集为一体，为打球者创造了一个优越的挥杆环境。望大家踊跃参加！&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100ii4v" href="http://blog.sina.com.cn/s/blog_51e294af0100ii4v.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100ii4v.html#comment" id="c_10001_51e294af0100ii4v"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100ii4v');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100ii4v" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100ii4v');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100ii4v" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100ii4v.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100ii4v"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100hx77" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100hx77.html" target="_blank"&gt;水乡GOLF球队第三届第四次月例赛&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-04-15 16:13)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100hx77'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100hx77');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-ALiGn: center' align='center'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+'FonT-siZe: 12pt; CoLor: black; FonT-FAMiLY: 楷体_GB2312; mso-hansi-font-family: 华文中宋'&gt;
+各位队友：&lt;/span&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 24pt; mso-char-indent-count: 2.0'&gt;
+&lt;span style=
+'FonT-siZe: 12pt; CoLor: black; FonT-FAMiLY: 楷体_GB2312; mso-hansi-font-family: 华文中宋'&gt;
+大家好！&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'LAYoUT-GriD-MoDe: char; TexT-inDenT: 24pt; MArGin-riGHT: 8.9pt; mso-char-indent-count: 2.0; mso-para-margin-right: .85gd; mso-layout-grid-align: none'&gt;
+&lt;span style='FonT-siZe: 12pt; FonT-FAMiLY: 楷体_GB2312'&gt;水乡&lt;span lang=
+'EN-US' xml:lang='EN-US'&gt;GOLF&lt;/span&gt;球队第三届第二次月例赛和第一次季度赛于&lt;span lang=
+'EN-US' xml:lang='EN-US'&gt;3&lt;/span&gt;月&lt;span lang='EN-US' xml:lang=
+'EN-US'&gt;17&lt;/span&gt;、&lt;span lang='EN-US' xml:lang=
+'EN-US'&gt;18&lt;/span&gt;日在中山雅居乐、珠海金湾球会举行。第二次月例赛总冠由佘洪清先生夺得，净冠由刘杰先生夺得。第一次季度赛总冠由吴妙根先生夺得，净冠由钟海亮先生夺得。晚宴在张溢林会张的安排下，我们尝尽当地最鲜甜&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100hx77" href="http://blog.sina.com.cn/s/blog_51e294af0100hx77.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100hx77.html#comment" id="c_10001_51e294af0100hx77"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100hx77');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100hx77" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100hx77');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100hx77" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100hx77.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100hx77"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100hjqd" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100hjqd.html" target="_blank"&gt;水乡GOLF球队第三届第二次月例赛、第一次…&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-03-25 11:23)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100hjqd'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100hjqd');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;span style=
+'FonT-siZe: 12pt; CoLor: black; FonT-FAMiLY: 楷体_GB2312; mso-bidi-font-size: 5.0pt; mso-hansi-font-family: 华文中宋'&gt;
+各位队友：&lt;/span&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 24pt; mso-char-indent-count: 2.0'&gt;
+&lt;span style=
+'FonT-siZe: 12pt; CoLor: black; FonT-FAMiLY: 楷体_GB2312; mso-bidi-font-size: 5.0pt; mso-hansi-font-family: 华文中宋'&gt;
+大家好！&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'LAYoUT-GriD-MoDe: char; TexT-inDenT: 24pt; MArGin-riGHT: 8.9pt; mso-char-indent-count: 2.0; mso-para-margin-right: .85gd; mso-layout-grid-align: none'&gt;
+&lt;span style='FonT-siZe: 12pt; FonT-FAMiLY: 楷体_GB2312'&gt;水乡&lt;span lang=
+'EN-US' xml:lang='EN-US'&gt;GOLF&lt;/span&gt;球队第三届第一次月例赛于 &lt;span lang='EN-US'
+xml:lang='EN-US'&gt;1&lt;/span&gt;月&lt;span lang='EN-US' xml:lang=
+'EN-US'&gt;21&lt;/span&gt;日在山水云东海高尔夫球会举行。本次总冠由黎志刚先生夺得，净冠由麦俊鹏先生夺得。大家齐杯庆祝，热闹非凡！&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'LAYoUT-GriD-MoDe: char; TexT-inDenT: 24pt; MArGin-riGHT: 8.9pt; TexT-ALiGn: left; mso-char-indent-count: 2.0; mso-para-margin'&gt;
+&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100hjqd" href="http://blog.sina.com.cn/s/blog_51e294af0100hjqd.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100hjqd.html#comment" id="c_10001_51e294af0100hjqd"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100hjqd');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100hjqd" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100hjqd');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100hjqd" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100hjqd.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100hjqd"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100gue9" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gue9.html" target="_blank"&gt;水乡GOLF球队第三届第一次月例赛&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-01-27 13:20)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100gue9'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gue9');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;各位队友：&lt;/p&gt;
+&lt;p&gt;大家好！&lt;/p&gt;
+&lt;p&gt;
+水乡GOLF球队第二届“队长杯”赛于12月8日在东莞峰景高尔夫球会举行。共计50余人参加。本次总冠由罗成国先生夺得，净冠则由邓昶兴先生夺得。当晚另设有抽奖，嘉宾队员人人有奖，皆大欢喜！大家齐杯庆祝，热闹非凡。并有新队友钟伟波先生加入球队，新旧队友举杯同贺好不热闹。在此代表：张溢林会长、卢光宇队长、全体会务干部及队员表示热烈欢迎。&lt;/p&gt;
+&lt;p align='left'&gt;
+第三届第一次月例赛于1月21日在云东海球会举行，球会是一个十八洞的城市森林球场，球道全长7136码，标准杆72杆，球场占地面积为2500亩，由美国J.F.O高尔夫球场设计公司的首席设计师JOE
+F.
+OBRINGER先生规划设计，将蜿蜒起伏的山地球道与原生态森林环境巧妙融合为一体，打造出这座华南地区目前拥有最多茂密森林覆盖的高尔夫球场。望大家踊跃参加！&lt;/p&gt;
+&lt;p align='left'&gt;（十二月份“队长杯”赛成绩表、财务收支表见附件。）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;东莞水乡球队第二届会务干部：&lt;/b&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;b&gt;会&nbsp;&lt;wbr&gt; 长：张溢林&lt;/b&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;b&gt;队&nbsp;&lt;wbr&gt; 长：卢光宇&lt;/b&gt;&lt;/p&gt;
+&lt;p align='left'&gt;&lt;b&gt;副队长：钟海亮&nbsp;&lt;wbr&gt; 陈建军&nbsp;&lt;wbr&gt; 莫镜钦&nbsp;&lt;wbr&gt; 钟洪辉&lt;/b&gt;&lt;/p&gt;
+&lt;p a=""&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100gue9" href="http://blog.sina.com.cn/s/blog_51e294af0100gue9.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100gue9.html#comment" id="c_10001_51e294af0100gue9"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gue9');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100gue9" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100gue9');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100gue9" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gue9.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100gue9"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100gue1" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gue1.html" target="_blank"&gt;水乡GOLF球队第二届队长杯&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-01-27 13:03)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100gue1'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gue1');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;各位队友：&lt;/p&gt;
+&lt;p&gt;大家好！&lt;/p&gt;
+&lt;p&gt;
+水乡GOLF球队第二届第十二次月例赛于11月11日在清远狮子湖高尔夫球场举行。本次总冠由黎志刚先生夺得，净冠由卢光宇先生夺得。大家齐杯共举，热闹不凡！新球场以石点缀，让在大家在打球的同时领略到不一样的球场风光。值得一提的是球僮部的热情服务，让您感到丝丝暖意。似乎这一刻比赛变的不重要了，重要的是用心去感受整个过程。&lt;/p&gt;
+&lt;p&gt;第二届队长杯赛于12
+月8日在东莞峰景高尔夫球会举行。球会毗邻虎英湖渡假区，依傍旗峰山麓，四处林木苍翠，36洞高尔夫球场环绕于群山之中，湖光山色，美不胜收。集36洞锦标高尔夫球场、度假酒店及社交会所于一身，以完备的设施及殷勤的服务为会员提供一个远离烦嚣、休闲写意的私人活动场所。望大家踊跃参加！&lt;/p&gt;
+&lt;p align='left'&gt;（十一月份第二届第十二次月例赛成绩表、财务收支表见附件。）&lt;/p&gt;
+&lt;p align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;第二届队长杯赛程明细：&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;时&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 间：2009
+年12月8日(周二)（11：00签到午餐12：00开球）&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;球&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 会: 东莞峰景高尔夫球会（0769-22209998）&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;地&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 址：广东省东莞市东城区迎&lt;/b&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100gue1" href="http://blog.sina.com.cn/s/blog_51e294af0100gue1.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100gue1.html#comment" id="c_10001_51e294af0100gue1"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gue1');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100gue1" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100gue1');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100gue1" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gue1.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100gue1"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100gudz" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gudz.html" target="_blank"&gt;水乡GOLF球队第二届第十二次月例赛&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-01-27 13:02)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100gudz'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gudz');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;各位队友：&lt;/p&gt;
+&lt;p&gt;大家好！&lt;/p&gt;
+&lt;p&gt;
+水乡GOLF球队第二届第十一次月例赛于10月21日在惠州涛景高尔夫球场举行。水乡队本次总冠由罗念跃先生夺得，净冠由吴妙根先生夺得。又有新队员黄柏行、林钟龙先生参加。在此代表：张溢林会长、陈淦洪队长、全体会务干部及队员对新队友表示热烈欢迎。比赛开始后，队员们在享受着球场不同风光的同时也越战越勇，挥出一道道漂亮的风景线。并而在激烈的比赛之后，又品尝了当地的客家美食，美味无穷啊！新老队员齐杯庆祝，热闹非凡。&lt;/p&gt;
+&lt;p&gt;第二届第十二次月例赛于11月11日在清远狮子湖高尔夫球会举行。球会由美国高尔夫球明星LARRY
+NELSON为设计指导，香港职业高尔夫球好手丘水明先生为顾问，台湾著名高尔夫球场设计师林真荣先生设计的狮子湖高尔夫球场。球道设计更是精彩：跨过丘陵，涉过湖水或抱着山、绕着湖。50％狗腿型球道，令挑战与趣味性大增。独步高坛，集成了“人”的智慧精华与在自然的鬼斧神工，令众多无论职业的还是业余的高尔夫球手又惊又喜。面积广阔的天然湖泊，占整场面积的三分之一，珊瑚状地分布于青山绿草之间，无论从眼睛的视野或心灵的感觉，都会从中体会到在大自然清新的气息和心旷神怡的感觉。望大家踊跃参加！&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100gudz" href="http://blog.sina.com.cn/s/blog_51e294af0100gudz.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100gudz.html#comment" id="c_10001_51e294af0100gudz"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gudz');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100gudz" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100gudz');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100gudz" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gudz.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100gudz"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100gudy" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gudy.html" target="_blank"&gt;水乡GOLF球队第二届第十一次月例赛&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-01-27 13:00)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100gudy'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gudy');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;各位队友：&lt;/p&gt;
+&lt;p&gt;大家好！&lt;/p&gt;
+&lt;p&gt;
+水乡GOLF球队9月外地赛于17日在大连金石高尔夫和西郊高尔夫举行。此次大连行让大家体会到“浪漫之都，时尚大连”魅力。金石三面环海，眼前金石滩海面八大怪石，脚下神奇的九龙壁，天然奇观，可称为绝美，西郊翠绿起伏的球道，雪白的交错的球车道在蓝天白云的陪衬下，如诗如画，可谓之为惊艳，柔和的风伴着丝丝秋意，大连让我们“享受高尔夫”。季度赛总冠由徐红军先生夺得，净冠由邓景辉先生夺得。月例赛总冠由吴伟斌先生夺得，净冠由麦俊鹏先生夺得。套用总干事麦俊鹏先生的一句话“天气好，风景好，球场好，球打得好，心情更是好”&lt;/p&gt;
+&lt;p&gt;
+第二届第十一次月例赛于10月21日在惠州涛景高尔夫球会举行。高尔夫球球场全长7013码，共18洞，后9洞的灯光球场不受时间限制，即使在夜晚，也可以让阁下潇洒挥杆。球道设计融合了独特的天然地势，集优美的自然环境与巧妙的球道构思于一体，新颖别致。在山间起伏，球场的秀丽景色，江湖美景尽收眼底。果岭起伏较大，对球手的耐心和判断极具考验。望大家踊跃参加！&lt;/p&gt;
+&lt;p align='left'&gt;（九月份外地赛成绩表、财务收支表见附件。）&lt;/p&gt;
+&lt;p align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;第二届第十一次月例赛程&lt;/b&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100gudy" href="http://blog.sina.com.cn/s/blog_51e294af0100gudy.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100gudy.html#comment" id="c_10001_51e294af0100gudy"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gudy');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100gudy" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100gudy');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100gudy" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gudy.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100gudy"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_51e294af0100gudx" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gudx.html" target="_blank"&gt;水乡GOLF球队第二届第八、九次外地赛&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-01-27 12:57)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'51e294af0100gudx'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gudx');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-inDenT: 66.05pt; mso-char-indent-count: 2.99'&gt;
+&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-inDenT: 52.35pt; Line-HeiGHT: 12pt; MArGin-riGHT: -17.95pt; mso-char-indent-count: 4.98; mso-para-margin-right: -1.71gd'&gt;
+&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;大连高尔夫之旅&lt;/b&gt;—&lt;b&gt;3&lt;/b&gt;&lt;b&gt;天&lt;/b&gt;&lt;b&gt;2&lt;/b&gt;&lt;b&gt;夜&lt;/b&gt;&lt;b&gt;3&lt;/b&gt;&lt;b&gt;场球&lt;/b&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-inDenT: 52.35pt; Line-HeiGHT: 12pt; MArGin-riGHT: -17.95pt; mso-char-indent-count: 4.98; mso-para-margin-right: -1.71gd'&gt;
+&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;table cellspacing='0' cellpadding='0' width='732' border='1'&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width='80%' rowspan='4'&gt;
+&lt;p&gt;&lt;b&gt;球场简介：&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;大连西郊高尔夫俱乐部：&lt;/b&gt;地处于大连西郊国家森林公园，地处大连著名的“肺叶”与“氧吧”之中，唯一集山&lt;/p&gt;
+&lt;p&gt;地、湖泊与森林浑然天成于一体的西郊乡村体育俱乐部，18洞国际锦标赛级标准球场和9洞灯光球场，&lt;/p&gt;
+&lt;p&gt;球道设计与原有地形地貌贴切融合，完美兼顾，相配的天衣无缝，无论球手身处何处，于任何角度淡&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_51e294af0100gudx" href="http://blog.sina.com.cn/s/blog_51e294af0100gudx.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_51e294af0100gudx.html#comment" id="c_10001_51e294af0100gudx"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('51e294af0100gudx');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_51e294af0100gudx" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('51e294af0100gudx');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_51e294af0100gudx" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_51e294af0100gudx.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_51e294af0100gudx"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div favmd5='{"51e294af01009430":"b04435937ccf617a3f92e9df4c8f0f30","51e294af0100kjqg":"4213943cfb6ca3f8528b0dde14a9e83b","51e294af0100kjmt":"b74dc06f6f79f5fea57889c0e7ede234","51e294af0100ii4v":"2a384e93734ed671bd1acb54e7037044","51e294af0100hx77":"40344deeac6ad8d12417051b74601fc6","51e294af0100hjqd":"942984bd3ce2dd961a0fa7fdf00fa2b5","51e294af0100gue9":"582d63eb540e27a0ded72741ca643a3c","51e294af0100gue1":"83dffacd1a34cd4b003f0802b3083730","51e294af0100gudz":"3f69e8753a5e1a02ca7632ed1643c7e9","51e294af0100gudy":"b2953d0acffe8d64b48a1b69cbf3b870","51e294af0100gudx":"b49698bb1f4f74c31aabb2e53e037347"}' classid="0" pagesize="10" total="22" id="pagination_10001" class="SG_page"&gt;&lt;/div&gt;
+					&lt;/div&gt;
+							  
+				&lt;/div&gt;  
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第二列start--&gt;
+	
+	&lt;!--第三列start--&gt;
+	&lt;div id="column_3" class="SG_colW21"&gt;&lt;div class="SG_conn" id="module_10004"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="图片播放器"&gt;图片播放器&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="cloneWidget"&gt;&lt;div class="diywidget"&gt;&lt;div align=center&gt;&lt;embed FlashVars="delay=-1" type="application/x-shockwave-flash" src="http://sjs.sinajs.cn/blog7swf/loader.swf?p=sina&amp;uid=1373803695&amp;app=slide" allowScriptAccess="always" width="190" height="28" wmode="transparent" /&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class="cloneLink"&gt;&lt;a href="javascript:;" onclick="return false;" class="SG_comClone"&gt;&lt;img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif"  /&gt;添加到我的博客&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1003"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="水乡球队会员"&gt;水乡球队会员&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget" style="position:relative"&gt;&lt;P&gt;1、吴妙根&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;2、陈淋池&lt;/P&gt;&lt;P&gt;3、薛海文&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;4、罗念跃&lt;/P&gt;&lt;P&gt;5、吴清治&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;6、陈建军&nbsp;&lt;wbr&gt;&lt;/P&gt;&lt;P&gt;7、简福生&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;8、陈庆添&lt;/P&gt;&lt;P&gt;9、钟海祥&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;10、陈尚文&lt;/P&gt;&lt;P&gt;11、邓甲青&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt; 12、罗成国&lt;/P&gt;&lt;P&gt;13、梁世坤 &nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;14、郭天泉&lt;/P&gt;&lt;P&gt;15、杨志刚&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;16、尹炽坚&lt;/P&gt;&lt;P&gt;17、陈淦洪&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;18、胡建平&lt;/P&gt;&lt;P&gt;19、麦俊鹏&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;20、莫镜钦&lt;/P&gt;&lt;P&gt;21、刘&nbsp;&lt;wbr&gt; 杰&nbsp;&lt;wbr&gt; &nbsp;&lt;wbr&gt;22、徐鸣翔&lt;/P&gt;&lt;P&gt;23、陶&nbsp;&lt;wbr&gt; 显 &nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;24、佘洪清&lt;/P&gt;&lt;P&gt;25、苏朝明&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;26、卢光宇&lt;/P&gt;&lt;P&gt;27、陈彦甫&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;28、何玉堂&lt;/P&gt;&lt;P&gt;29、李逢俭&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;30、黄志光&lt;/P&gt;&lt;P&gt;31、马志平&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;32、徐红军&lt;/P&gt;&lt;P&gt;33、钟海亮&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;34、钟洪辉&lt;/P&gt;&lt;P&gt;35、吴伟斌&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;36、张溢林&lt;/P&gt;&lt;P&gt;37、曾松威&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;38、黄沛光&lt;/P&gt;&lt;P&gt;39、王伟新&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;40、何淦森&lt;/P&gt;&lt;P&gt;41、卢煜光&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;42、吉南文&lt;/P&gt;&lt;P&gt;43、禹玄泽&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;44、佐藤八郎&lt;/P&gt;&lt;P&gt;45、刘天明&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;46、李林东&lt;/P&gt;&lt;P&gt;47、黄志彪&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;48、祝汝培&lt;/P&gt;&lt;P&gt;49、林伯实&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;50、袁政军&lt;/P&gt;&lt;P&gt;51、孔应佳&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;52、温卫东&lt;/P&gt;&lt;P&gt;53、黎耀棠&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;54、吴锦满&lt;/P&gt;&lt;P&gt;55、刘剑锋&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;56、周彦宏&lt;/P&gt;&lt;P&gt;57、黎志刚&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;58、谢美发&lt;/P&gt;&lt;P&gt;59、方志宏&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;60、梁永赐&lt;/P&gt;&lt;P&gt;61、卢锡芳&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;62、杨炳球&lt;/P&gt;&lt;P&gt;63、吴智雄&lt;/P&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第三列end--&gt;
+
+	
+    &lt;/div&gt;
+   &lt;!--主题内容结束 --&gt;
+  
+
+	&lt;div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"&gt;&lt;/div&gt;
+    &lt;div class="sinablogfooter" id="sinablogfooter"  style="position:relative;"&gt;
+      
+      &lt;p class="SG_linka"&gt;&lt;a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank"&gt;新浪BLOG意见反馈留言板&lt;/a&gt;　&lt;a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');"&gt;不良信息反馈&lt;/a&gt;　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正&lt;/p&gt;
+   
+      &lt;p class="SG_linka"&gt;&lt;a href="http://corp.sina.com.cn/chn/" target="_blank"&gt;新浪简介&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/eng/" target="_blank"&gt;About Sina&lt;/a&gt; | &lt;a href="http://emarketing.sina.com.cn/" target="_blank"&gt;广告服务&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/contactus.html" target="_blank"&gt;联系我们&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank"&gt;招聘信息&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank"&gt;网站律师&lt;/a&gt; | &lt;a href="http://english.sina.com" target="_blank"&gt;SINA English&lt;/a&gt; | &lt;a href="http://members.sina.com.cn/apply/" target="_blank"&gt;会员注册&lt;/a&gt; | &lt;a href="http://help.sina.com.cn/" target="_blank"&gt;产品答疑&lt;/a&gt; &lt;/p&gt;
+      &lt;p class="copyright SG_linka"&gt; Copyright &copy; 1996 - 2014 SINA Corporation,  All Rights Reserved&lt;/p&gt;
+      &lt;p class="SG_linka"&gt; 新浪公司 &lt;a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank"&gt;版权所有&lt;/a&gt;&lt;/p&gt;
+	  &lt;a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="swfbox"&gt;&lt;/div&gt;
+&lt;script id="PVCOUNTER_FORIE" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;script type="text/javascript"&gt;
+var scope = {
+    $newTray : 1,
+    $setDomain : true,
+    $uid : "1373803695",
+    $PRODUCT_NAME : "blog7",      //blog7photo,blog7icp
+    $pageid : "index",
+    $key :  "845f55b68f9f978eede7967acad4cd18",
+    $uhost : "venicegolf",
+    $ownerWTtype :"",
+    $private: {"cms":0,"hidecms":0,"blogsize":0,"ad":0,"sms":0,"adver":0,"tj":0,"p4p":0,"spamcms":0,"topblogid":"51e294af01009430","pageset":0,"invitationset":0,"top":"51e294af01009430","active":"4"},
+    $playids :{"10004":0},
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,    component_lists:{"3":{"size":210,"list":[10004,1003]},"2":{"size":510,"list":[10001]},"1":{"size":210,"list":[901,2,12,1]}},
+    formatInfo:3,
+    UserPic:[{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"}],
+    UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
+    UserColor:1,
+    backgroundcolor:"#528a15",
+    tpl:"6_8",
+    reclist:0    };
+var $encrypt_code = "0c43b1ec9f7db08f284e61a1b7906a4c";
+&lt;/script&gt;
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__load_js();&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__render_page();&lt;/script&gt;
+
+
+&lt;!-- ALL CODE START--&gt;&lt;!-- SUDA_CODE_START --&gt; 
+&lt;noScript&gt; 
+&lt;div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'&gt;&lt;img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt=''  /&gt;&lt;/div&gt; 
+
+&lt;/noScript&gt; 
+&lt;!-- SUDA_CODE_END --&gt; 
+
+
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/xblogtheme/js/blog680-min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+        var slotArr = ['atcTitLi_SLOT_41', 'atcTitLi_SLOT_42','loginBarActivity']; //广告位id
+        var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
+        SinaBlog680.staticBox(slotArr, sourceArr);
+&lt;/script&gt;
+&lt;/html&gt;
+</head></html>

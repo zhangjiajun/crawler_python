@@ -1,0 +1,503 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<title>华为 荣耀X1手机软件列表_手机软件下载_科技频道_新浪网</title>
+<meta name="keywords" content="," />
+<meta name="description" content="此页面的说明" />
+<style type="text/css">
+/* ================== css reset ================== */
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; }
+fieldset, img { border:none; }
+address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
+ul, ol, li { list-style:none; }
+select, input { vertical-align:middle; }
+select, input, textarea { font-size:12px; margin:0; }
+table { border-collapse:collapse; }
+body { background:#fff; color:#333; padding:5px 0; font:12px/20px "宋体"; }
+.clearfix:after { content:"."; display:block; height:0; visibility:hidden; clear:both; }
+.clearfix { zoom:1; }
+.clearit { clear:both; height:0; font-size:0; overflow:hidden; }
+a { color:#009; text-decoration:none; }
+a:visited { color:#800080; }
+a:hover, a:active, a:focus { color:#f00; text-decoration:underline; }
+/*  Add by zhuxuehua    */
+.isLine { text-decoration:underline; }
+.fred { color:#f00 !important }
+.space { height:10px; overflow:hidden; background:#fff; }
+.f12 { font-size:12px !important }
+.f14 { font-size:14px !important }
+.lh23 { line-height:23px }
+.lh24 { line-height:24px }
+.lh30 { line-height:30px }
+.left { float:left }
+.right { float:right }
+h1, h2, h3, h4, h5, strong { font-weight:normal; }
+.wrap { width:950px; margin:0 auto; }
+/* 导航 */
+.navTop { background:url(/images/3gsoft/mobile_zxh_nav.png) no-repeat; height:50px; padding:20px 0 0 240px; overflow:hidden; color:#666 }
+.navTop .search_01 { float:left }
+.navTop .search_02 { float:left; padding-left:130px; }
+.navTop .keyword { width:168px; border:solid 1px #3c89bc; height:20px; line-height:20px; padding:3px; }
+.navTop select { width:150px; }
+/* ============== 横切定义 ============== */
+.part_01 {zoom:1; }
+.part_01 .p_left { float:left; width:690px; }
+.part_01 .p_right { float:right; overflow:hidden; width:250px; }
+.part_01 .pr_c { border:solid 1px #b1d8f1;border-width:1px 0;padding:9px 0 13px 9px;background:url(/images/3gsoft/mobile_wzc37.png) repeat-y; }
+.part_01 .p_bot { clear:both; background:url(/images/3gsoft/mobile_zxh_10.png) no-repeat -950px 0; height:10px; overflow:hidden; }
+/* ================== block define ================== */
+.blkBreadcrumb { background:#fff; color:#999; font-size:14px; padding:10px 0 }
+.blkBreadcrumb a, .blkBreadcrumb a:visited{ color:#000;}
+.blkBreadcrumb a:hover{ color:#f00;}
+/* 板块单独定义 */
+.blk_02 { padding-top:15px;}
+.blk a:visited { color:#800080; }
+.blk a:hover { color:#c00; }
+/* ================= commen define ================ */
+/* 标题 */
+.tit_01 { background:url(/images/3gsoft/mobile_wzc34.png) no-repeat; height:40px; overflow:hidden; zoom:1}
+.tit_01 h2 { text-indent:-999em; float:left;  height:40px; width:200px;}
+.tit_03 { background:url(/images/3gsoft/mobile_wzc35.png) no-repeat; height:40px; overflow:hidden; zoom:1}
+.tit_03 h2 { text-indent:-999em; float:left;  height:40px; width:200px;}
+.tit_02 { height:30px; line-height:30px; background:url(/images/3gsoft/mobile_wzc28.png) no-repeat 0 0; }
+.tit_02 h2 { float:left;  text-indent:-999em; }
+.tit_02 .more {float:right;padding-right:20px; }
+.tit_02 .more a {color:#006699;}
+
+.tit_04 { height:35px; line-height:35px; background:url(/images/3gsoft/mobile_wzc38.png) no-repeat 0 0; }
+.tit_04 h2 {font-size:16px;padding-left:13px; font-family:"微软雅黑","宋体";color:#006699;}
+
+/* 登陆后样式 */
+.logined {padding:14px 0 0 5px;}
+.login_tw{ overflow:hidden; zoom:1; padding:0 10px;}
+.login_tw .twpic{ float:left;}
+.login_tw .b_txt{margin-left:90px; font-size:14px; line-height:25px;}
+.chongxuan, .chongxuan:visited{font-size:12px; color:#069; border:solid 1px #b1d8f1; padding:3px 7px;}
+.chongxuan:hover{color:#f00}
+.logined img { margin:0 auto; }
+.logined p { font-size:14px; padding:34px 0 }
+.logined .btn { text-align:center; padding:5px 0 20px}
+
+/* 图文 */
+.blk_tw:after { content:"."; display:block; height:0; visibility:hidden; clear:both; }
+.blk_tw { zoom:1; }
+.blk_tw .twpic { float:left; text-align:center; }
+.blk_tw .twpic img { display:block; border:solid 1px #ddd; background:#fff; }
+.blk_tw .twpic img.b0 { border-width:0 }
+.blk_tw .twpic img.p2 { padding:2px; }
+.blk_tw .twpic img.p4 { padding:4px; }
+.blk_tw a:hover img { border-color:#f00; }
+.blk_tw .twpic span { display:block; text-align:center; padding-top:5px; cursor:pointer }
+.blk_tw .b_txt { margin-left:100px; }
+.blk_tw .b_txt p { color:#979797 }
+.blk_tw h3 { }
+.blk_tw h3 a { }
+.blk_tw a { color:#343434; }
+.blk_tw a:visited { color:#800080; }
+.blk_tw a:hover { color:#c00; }
+/* 图文之上图下文 */
+.blk_tw_pic { zoom:1; text-align:center; }
+.blk_tw_pic img { border:solid 1px #ddd; margin:0 auto; background:#fff; display:block; }
+.blk_tw_pic img.p2 { padding:2px }
+.blk_tw_pic img.p4 { padding:4px }
+.blk_tw_pic a:hover img { border-color:#f00; }
+.blk_tw_pic a span { color:#545454; }
+.blk_tw_pic a:visited span { color:#800080; }
+.blk_tw_pic a:hover span { color:#c00; }
+.r5 { width:19.9%; float:left; }
+/* BOX */
+.box{ float:left; width:16.66%; text-align:center;padding-bottom:5px;}
+.box img{ margin:0 auto;padding:2px;border:1px solid #ccc;}
+.box a:hover img { border:solid 1px #09f; }
+.box p{ text-align:center; line-height:36px; height:36px;}
+.box p a{ color:#000;}
+.box p a:visited{ color:#800080;}
+.box p a:hover{ color:#f00;}
+
+/* 列表 */
+.list_03 { overflow:hidden; zoom:1 }
+.list_03 li { float:left; margin:0 0 10px 15px; display:inline }
+.list_03 li a, .list_03 li a:visited { display:block; text-align:center; width:88px; height:22px; line-height:22px; border:solid 1px #b1d8f1; background:#e5f2fa; color:#000; }
+.list_03 li a:hover { background:#cde6f5; border-color:#86c1ea; color:#000; text-decoration:none }
+ul.pot li { background:url(/images/3gsoft/mobile_zxh_pot.png) no-repeat 0 10px; padding-left:8px; }
+ul.f12 li { font-size:12px }
+ul.bg01 { background:url(/images/3gsoft/mobile_zxh_title.png) no-repeat 0 -153px; padding-left:28px; }
+ul.bg02 { background:url(/images/3gsoft/mobile_zxh_title.png) no-repeat 0 -450px; padding-left:28px; }
+ul.bg03 { background:url(/images/3gsoft/mobile_zxh_title.png) no-repeat 0 -750px; padding-left:28px; }
+ul.bg04 { background:url(/images/3gsoft/mobile_wzc40.png) no-repeat 0 0; padding-left:28px; }
+ul.lh24 li { line-height:24px; height:24px; }
+ul.f14 li { font-size:14px; line-height:24px; height:24px; background-position:0 10px }
+.list a { color:#000; }
+.list a:visited { color:800080; }
+.list a:hover { color:#c00; }
+/* footer */
+#footer { width:950px; text-align:center; line-height:33px; color:#000; margin-top:20px; float:left; }
+#footer p { text-align:center; line-height:25px; }
+#footer a:link, #footer a:visited { color:#009; }
+#footer a:hover { color:#f00; }
+
+
+.zcbox {line-height:20px;padding:15px 0 35px 0;}
+.zcbox .zch {font-size:14px;color:#000;}
+.zcbox .zch a {font-size:14px;color:#000;}
+.zcbox .zcimg {float:left;margin-right:40px; }
+.zcbox .zcimg img {display:block;padding:5px;border:1px solid #ccc;}
+.zcbox .zcwords {width:250px; float:left;color:#666;line-height:20px;  }
+.zcbox .zcsp {margin-top:110px;}
+.zcbox a:visited {color:#800080  !important;}
+.zcbox a:hover {color:#f00  !important;}
+
+.zcspace {height:10px;font-size:0px;background:#fff;overflow:hidden;clear:both;}
+.zcbottom {height:10px;clear:both;font-size:0px;background:url(/images/3gsoft/mobile_wzc25.png) no-repeat;}
+
+.blk_02 {padding:15px 15px 0;border-left:1px solid #ccc;border-right:1px solid #ccc;width:658px;overflow:hidden;  }
+.blk_03 {padding:15px 10px 10px;border-left:1px solid #ccc;border-right:1px solid #ccc;}
+
+.zcblk01 {}
+.zcblk01 .zccont {border:1px solid #b1d8f1;border-top:0;padding:0 10px;}
+.zcblk01_1 {background:url(/images/3gsoft/mobile_wzc29.png) repeat-x left bottom;padding:15px 0 20px;}
+.zcblk01_1 img {margin:0 auto;display:block;  }
+.zcblk01_1 h3 {color:#006699;font-size:14px;padding-bottom:10px;}
+.zcblk01_1 dl dt {float:left; }
+.zcblk01_1 dl dd {float:left; }
+
+.zcblk01_2 {background:none; }
+.zcbkl01_2 h3 {padding-bottom:0;}
+
+</style>
+</head>
+<body>
+<script type="text/javascript" src="/js/jquery-1.6.2.min.js"></script>
+<script>
+function initPhoneSelect(manu)
+{
+	var dltObj = document.getElementById('phoneselect');
+	dltObj.innerHTML=''; 
+	$.ajax({
+         	url: '/interface/3g/3gsoftphone.php?m='+encodeURIComponent(manu),
+         	type: 'get',
+         	dataType: 'json',
+         	timeout: 61000,
+         	error: function(){
+         		alert('Please check web status');
+         	},
+         	success: function(data){
+         		//alert(data);
+         		
+         		for ( var i in data )
+				{
+				    var opt=document.createElement("OPTION"); 
+					dltObj.options.add(opt); 
+					opt.value = data[i].d_id; 
+					opt.text = data[i].name; 
+				}
+         	}
+         });
+}
+</script>
+<div class="wrap">
+<!-- 标准二级导航_数码 begin -->
+<style type="text/css">
+.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;margin-bottom:5px;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+.sHLogo span{display:block;float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+.sHLogo span img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;}
+</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://digi.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" alt="新浪网" /></a><a href="http://digi.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_digi.gif" alt="新浪数码" /></a></span></div>
+<div class="sHLinks"><a href="http://digi.sina.com.cn/">数码首页</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/">新浪导航</a></div>
+</div>
+</div>
+<!-- 标准二级导航_数码 end -->
+<!-- 导航 begin -->
+<div class="navTop">
+<div class="search_01">
+<form name="form1" action="/3gsoft/softlist.php" method="get">
+<select name="select" id="select" onchange="initPhoneSelect(this.value)">
+<option value="">选择品牌</option>
+<option value="诺基亚">诺基亚</option>
+<option value="HTC">HTC</option>
+<option value="索尼爱立信">索尼爱立信</option>
+<option value="摩托罗拉">摩托罗拉</option>
+<option value="苹果">苹果</option>
+<option value="三星">三星</option>
+<option value="LG">LG</option>
+<option value="谷歌">谷歌</option>
+<option value="黑莓">黑莓</option>
+<option value="多普达">多普达</option>
+<option value="夏普">夏普</option>
+<option value="联想">联想</option>
+<option value="天语">天语</option>
+<option value="金立">金立</option>
+<option value="酷派">酷派</option>
+<option value="OPPO">OPPO</option>
+<option value="步步高">步步高</option>
+<option value="魅族">魅族</option>
+<option value="华硕">华硕</option>
+<option value="宏碁">宏碁</option>
+<option value="Acer">Acer</option>
+<option value="CECT">CECT</option>
+<option value="中兴">中兴</option>
+<option value="华为">华为</option>
+<option value="夏新">夏新</option>
+<option value="阿尔卡特">阿尔卡特</option>
+<option value="飞利浦">飞利浦</option>
+<option value="TCL">TCL</option>
+<option value="爱国者">爱国者</option>
+<option value="海尔">海尔</option>
+<option value="纽曼">纽曼</option>
+<option value="东芝">东芝</option>
+<option value="惠普">惠普</option>
+<option value="富士通">富士通</option>
+<option value="Palm">Palm</option>
+<option value="明基">明基</option>
+<option value="明基西门子">明基西门子</option>
+<option value="ZTE中兴">ZTE中兴</option>
+<option value="琦基">琦基</option>
+<option value="西门子">西门子</option>
+<option value="altek">altek</option>
+<option value="技嘉">技嘉</option>
+<option value="新邮通">新邮通</option>
+<option value="熊猫">熊猫</option>
+<option value="神达">神达</option>
+<option value="三洋">三洋</option>
+<option value="桑达">桑达</option>
+<option value="权智">权智</option>
+<option value="首信">首信</option>
+<option value="首派">首派</option>
+<option value="萨基姆">萨基姆</option>
+<option value="HKC">HKC</option>
+<option value="HTO">HTO</option>
+<option value="i-mate">i-mate</option>
+<option value="天时达">天时达</option>
+<option value="INQ">INQ</option>
+<option value="万利达">万利达</option>
+<option value="现代">现代</option>
+<option value="微软">微软</option>
+<option value="唯开">唯开</option>
+<option value="中恒">中恒</option>
+<option value="mobiado">mobiado</option>
+<option value="NEC">NEC</option>
+<option value="O2">O2</option>
+<option value="倚天">倚天</option>
+<option value="OKWAP">OKWAP</option>
+<option value="OQO">OQO</option>
+<option value="优派">优派</option>
+<option value="Puma">Puma</option>
+<option value="SK">SK</option>
+<option value="TCL 潘多拉">TCL 潘多拉</option>
+<option value="TSD">TSD</option>
+<option value="UT斯达康">UT斯达康</option>
+<option value="Vertu">Vertu</option>
+<option value="南方高科">南方高科</option>
+<option value="普天">普天</option>
+<option value="波导">波导</option>
+<option value="长虹">长虹</option>
+<option value="大显">大显</option>
+<option value="大唐">大唐</option>
+<option value="创维">创维</option>
+<option value="戴尔">戴尔</option>
+<option value="迪士尼">迪士尼</option>
+<option value="朵唯">朵唯</option>
+<option value="东信">东信</option>
+<option value="泛泰">泛泰</option>
+<option value="海信">海信</option>
+<option value="汉泰">汉泰</option>
+<option value="金鹏">金鹏</option>
+<option value="康佳">康佳</option>
+<option value="紫光UNIS">紫光UNIS</option>
+</select>
+<select name="phoneselect" id="phoneselect">
+<option value="">手机型号</option>
+</select>
+<input type="image" src="/images/3gsoft/mobile_zxh_01.png" name="submit" />
+</form>
+</div>
+<div class="search_02">
+<form name="form2" action="/3gsoft/softlist.php" method="get" style="width:220px;">
+<input type="text" name="keyword" class="keyword" />
+<input type="image" src="/images/3gsoft/mobile_zxh_01.png" name="submit" />
+</form>
+</div>
+</div>
+<!-- 导航 end --> <!-- main -->
+<div class="blkBreadcrumb"><a href="http://tech.sina.com.cn/3gsoft/" target="_blank">手机软件</a>&nbsp;&gt;&nbsp;<a href="/3gsoft/softlist.php?osid=4">Android</a>&nbsp;&gt;&nbsp;
+  <a href="/3gsoft/phone.php?m=华为">华为</a>&nbsp;&gt;&nbsp;
+  华为 荣耀X1</div>
+<div class="part_01">
+<div class="p_left">
+<div class="blk_01">
+<div class="tit_01"><h2>优视浏览器</h2></div>
+<div class="blk_02 clearfix">
+<div class="box">
+<div class="pic">
+<a href="/3gsoft/download.php?id=2269" target="_blank">
+<img src="http://www.sinaimg.cn/download//72/2010-07-31/U2485P176T72D1494F1409DT20100731082542.jpg" title="三国杀" width="49" height="48" alt="" />
+</a>
+</div>
+<p>
+<a href="/3gsoft/download.php?id=2269" title="三国杀" target="_blank">
+				 	三国杀</a></p>
+</div>
+<div class="box">
+<div class="pic">
+<a href="/3gsoft/download.php?id=1359" target="_blank">
+<img src="http://www.sinaimg.cn/download//72/2010-06-28/U4373P176T72D745F1409DT20110311172340.jpg" title="开开 k.ai" width="49" height="48" alt="" />
+</a>
+</div>
+<p>
+<a href="/3gsoft/download.php?id=1359" title="开开 k.ai" target="_blank">
+				 	开开 k.ai</a></p>
+</div>
+<div class="box">
+<div class="pic">
+<a href="/3gsoft/download.php?id=102" target="_blank">
+<img src="http://www.sinaimg.cn/download//72/2010-05-11/U4373P176T72D21F1409DT20100805144711.jpg" title="金山词霸手机版" width="49" height="48" alt="" />
+</a>
+</div>
+<p>
+<a href="/3gsoft/download.php?id=102" title="金山词霸手机版" target="_blank">
+				 	金山词霸手机版</a></p>
+</div>
+<div class="box">
+<div class="pic">
+<a href="/3gsoft/download.php?id=80" target="_blank">
+<img src="http://www.sinaimg.cn/download//72/2010-05-11/U4373P176T72D17F1409DT20100715105110.jpg" title="搜狗手机输入法" width="49" height="48" alt="" />
+</a>
+</div>
+<p>
+<a href="/3gsoft/download.php?id=80" title="搜狗手机输入法" target="_blank">
+				 	搜狗手机输入法</a></p>
+</div>
+<div class="box">
+<div class="pic">
+<a href="/3gsoft/download.php?id=12" target="_blank">
+<img src="http://www.sinaimg.cn/download//72/2010-05-11/U2485P176T72D3F1409DT20100813154129.jpg" title="手机QQ" width="49" height="48" alt="" />
+</a>
+</div>
+<p>
+<a href="/3gsoft/download.php?id=12" title="手机QQ" target="_blank">
+				 	手机QQ</a></p>
+</div>
+</div>
+<div class="zcbottom">
+</div>
+</div>
+<div class="zcspace">
+</div>
+<div class="blk_01">
+<div class="tit_03"><h2>优视浏览器下载</h2></div>
+<div class="blk_03 clearfix">
+<iframe src="/3gsoft/iframelist.php?classid=&amp;phoneselect=17483&amp;keyword=&amp;osid=4&amp;vid=" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+</div>
+</div>
+<div class="p_bot"></div>
+</div>
+<div class="p_right">
+<div class="zcblk01">
+<div class="tit_04">
+<h2><a href="http://tech.sina.com.cn/mobile/models/17483.html" target="_blank">华为 荣耀X1</a></h2>
+</div>
+<div class="zccont">
+<div class="zcblk01_1">
+<a href="http://tech.sina.com.cn/mobile/models/17483.html" target="_blank"><img src="http://www.sinaimg.cn/IT/mobile/models/idx/2014/0224/U1734P2T136D17483F3244DT20140224104614.jpg" height="220" alt="" /></a>
+</div>
+<div class="zcblk01_1 clearfix">
+<h3>系统信息</h3>
+<span>主屏参数：  <br /></span>
+<span>操作系统：OS 4.2</span>
+</div>
+<div class="zcblk01_1 clearfix">
+<h3>软件信息</h3>
+<p>
+				     总软件数：5200个 <br />
+					 总下载数：48714016个 <br />
+</p>
+</div>
+<div class="zcblk01_1 zcblk01_2">
+<h3>相近机型</h3>
+<ul class="list lh24 bg04">
+<li><a href="/3gsoft/softlist.php?phoneselect=17512" target="_blank">ZTE中兴 星星1号</a></li>
+<li><a href="/3gsoft/softlist.php?phoneselect=17559" target="_blank">小米 红米Note</a></li>
+<li><a href="/3gsoft/softlist.php?phoneselect=17572" target="_blank">华为 荣耀3X畅玩版</a></li>
+<li><a href="/3gsoft/softlist.php?phoneselect=14074" target="_blank">三星 GALAXY S5</a></li>
+<li><a href="/3gsoft/softlist.php?phoneselect=14275" target="_blank">小米 3 移动版</a></li>
+<li><a href="/3gsoft/softlist.php?phoneselect=17571" target="_blank">小米 红米Note 增强版</a></li>
+<li><a href="/3gsoft/softlist.php?phoneselect=14272" target="_blank">三星 GALAXY Note 3</a></li>
+<li><a href="/3gsoft/softlist.php?phoneselect=13887" target="_blank">魅族 MX3</a></li>
+<li><a href="/3gsoft/softlist.php?phoneselect=15091" target="_blank">vivo Xplay3S</a></li>
+<li><a href="/3gsoft/softlist.php?phoneselect=16720" target="_blank">三星 N9008V</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="space"></div>
+<div class="pr_c">
+<div class="tit_02"><img src="/images/3gsoft/mobile_wzc36.png" width="233" height="28" alt="" /></div>
+<ul class="list lh24 bg01" style="margin:10px 0;">
+<li><a href="/3gsoft/download.php?id=1045" title="CorePlayer全能播放器 0.72 RC1" target="_blank">CorePlayer全能播放器 0.72 RC</a></li>
+<li><a href="/3gsoft/download.php?id=4303" title="书旗免费小说 7.3.5" target="_blank">书旗免费小说 7.3.5</a></li>
+<li><a href="/3gsoft/download.php?id=9501" title="兔子桌面 1.0.03" target="_blank">兔子桌面 1.0.03</a></li>
+<li><a href="/3gsoft/download.php?id=678" title="Windows Mobile设备中心(64位) 6.1.6965" target="_blank">Windows Mobile设备中心(64位)</a></li>
+<li><a href="/3gsoft/download.php?id=7522" title="WiFi万能钥匙 2.9.20" target="_blank">WiFi万能钥匙 2.9.20</a></li>
+<li><a href="/3gsoft/download.php?id=303" title="LG手机PC套件 LG PC Suite 4.1.0.6" target="_blank">LG手机PC套件 LG PC Suite 4.1</a></li>
+<li><a href="/3gsoft/download.php?id=6126" title="应用宝 1.3.2" target="_blank">应用宝 1.3.2</a></li>
+<li><a href="/3gsoft/download.php?id=2943" title="蘑菇新闻 2.4.4" target="_blank">蘑菇新闻 2.4.4</a></li>
+<li><a href="/3gsoft/download.php?id=4415" title="Google Play Store 4.6.17" target="_blank">Google Play Store 4.6.17</a></li>
+<li><a href="/3gsoft/download.php?id=5425" title="高德导航公众版 7.4.8803.1927" target="_blank">高德导航公众版 7.4.8803.1927</a></li>
+</ul>
+<div class="tit_02"><img src="/images/3gsoft/mobile_zxh_title11.png" width="233" height="28" alt="" /></div>
+<ul class="list_03" style="padding:10px 0 0;">
+<li><a href="/3gsoft/softlist.php?classid=8" target="_blank">上网浏览</a></li>
+<li><a href="/3gsoft/softlist.php?classid=9" target="_blank">手机聊天</a></li>
+<li><a href="/3gsoft/softlist.php?classid=10" target="_blank">手机炒股</a></li>
+<li><a href="/3gsoft/softlist.php?classid=13" target="_blank">手机影音</a></li>
+<li><a href="/3gsoft/softlist.php?classid=40" target="_blank">系统工具</a></li>
+<li><a href="/3gsoft/softlist.php?classid=42" target="_blank">办公应用</a></li>
+<li><a href="/3gsoft/softlist.php?classid=39" target="_blank">理财记账</a></li>
+<li><a href="/3gsoft/softlist.php?classid=37" target="_blank">图形图像</a></li>
+<li><a href="/3gsoft/softlist.php?classid=33" target="_blank">名片备忘</a></li>
+<li><a href="/3gsoft/softlist.php?classid=34" target="_blank">外语学习</a></li>
+<li><a href="/3gsoft/softlist.php?classid=21" target="_blank">微博客户端</a></li>
+<li><a href="/3gsoft/softlist.php?classid=19" target="_blank">管理工具</a></li>
+<li><a href="/3gsoft/softlist.php?classid=14" target="_blank">手机词典</a></li>
+<li><a href="/3gsoft/softlist.php?classid=15" target="_blank">订阅查询</a></li> </ul>
+</div>
+</div>
+</div>
+<!-- end main -->
+<!-- footer begin -->
+<div id="footer">
+<p><a href="http://comment4.news.sina.com.cn/comment/skin/feedback.html" target="_blank">新浪科技意见反馈留言板</a>　电话：010-82628888-5595　　欢迎批评指正</p>
+<p><a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://emarketing.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="http://members.sina.com.cn/apply/">通行证注册</a> | <a href="http://help.sina.com.cn/">产品答疑</a></p>
+<p>Copyright &copy; 1996 - 2012 SINA Corporation, All Rights Reserved</p>
+<p>新浪公司　<a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a></p>
+</div>
+<!-- footer end -->
+</div>
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" src="http://i3.sinaimg.cn/unipro/pub/suda_s_v851c.js "></script>
+<script type="text/javascript">_S_pSt(_S_PID_);</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden"><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></div>
+</noscript>
+<!-- SUDA_CODE_END -->
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://sina.wrating.com/a1.js"></script>
+<script type="text/javascript">
+try{
+var vjAcc="860010-0313010000";
+var wrUrl="http://sina.wrating.com/";
+vjTrack("");
+}catch(e){};
+</script>
+<noscript><img src="http://sina.wrating.com/a.gif?a=&amp;c=860010-0313010000" width="1" height="1" style="display: none;" /></noscript>
+<!-- END WRating v1.0 -->
+</body>
+</html>

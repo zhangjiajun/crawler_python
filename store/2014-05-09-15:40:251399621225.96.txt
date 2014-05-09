@@ -1,0 +1,2363 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【香港二手手机转让|香港二手手机交易市场】 - 香港58同城</title>
+<meta name="description" content="香港二手手机交易网为您提供大量香港二手手机报价、交易等信息，在这里您可以免费查看和发布香港二手手机转让、求购、价格、图片等信息，买卖香港二手手机请到58同城香港二手手机交易市场。" />
+<meta name="keywords" content="香港二手手机转让,香港二手手机交易市场" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css?v=20130910" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/ershou/list-eui7.css?version=20130530" media="all" />
+<!-- =S 脚本这个由 脚本组负责 这个路径为暂时的 -->
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<!-- createElement-lte-IE8.js 该脚本只针对IE8及以下版本浏览器 -->
+<!-- =E -->
+<script type="text/javascript">try {
+        var ____json4fe = {"catentry":[{"dispid":"5","name":"二手市场","listname":"sale"},{"dispid":"36","name":"二手手机","listname":"shouji"}],"locallist":[{"dispid":"2050","name":"香港","listname":"hk"}],"start":(new Date()).getTime(),"modules":"list"};
+        ____json4fe.version = 'A';
+        ____json4fe.modules = 'listpage';
+        ____json4fe.smsc = 'ce882233f1f0d86e170bbf3bdd14f977a292cf48542fd692432b3b01ae327a996789ec197b9256d3331afe11044b4a33ba870331d3796adb8222bb3d23f7d8ec6a6a4344710a5c1d';
+    } catch (e) {
+    }
+    ;</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';
+    var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2', '2050', '');
+    win1.setSearchButton('searchbtn1');
+    boot.require('util.cookie', function (Frame, cookie) {
+        cookie.set('city', 'hk');
+    });</script>
+<style>
+	    /*2014-1-16 相关搜索 by hezc*/
+		.RelatedSearch{ border:1px solid #E1E1E1; font-size:14px; padding:10px 5px;line-height:25px;  margin-bottom:15px;}
+		.RelatedSearch dt{ float:left; width:88px; text-align:right;font-weight:700;line-height:25px;}
+		.RelatedSearch dd{ float:right; width:720px;}.RelatedSearch dd a{ display:inline-block;width:140px;line-height:25px;}
+		#list_left_zhuti{border:1px solid #E1E1E1; margin-bottom:10px; padding:15px;}
+		#list_left_zhuti div{ margin-left:-55px; height:110px;}
+    </style>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/hk/shouji" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/hk/shouji" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/hk/shouji" />
+</head>
+<body>
+<div id="topbar"></div>
+<!-- =S header -->
+<header id="header">
+<span class="logo">
+<a href="/" target="_blank"><img src="http://pic2.58.com/images/logonew.gif" title="到58同城首页" alt="58同城" /></a>
+</span>
+<!-- =S 面包屑导航 -->
+<div class="nav">
+<a href="/">香港58同城</a>
+<cite></cite><a href="/sale.shtml">香港二手市场</a>
+<cite></cite><a href="/shouji/">香港二手手机</a>
+</div>
+<!-- =E 面包屑导航 -->
+<span class="fr mt10">
+<a href="http://post.58.com/2050/36/s5" class="postBtn" target="_blank" rel="nofollow"></a>
+</span>
+</header>
+<!-- =E header -->
+<!-- S 推广广告 -->
+<div id="ad_d12" class="cripic"></div>
+<!-- E 推广广告 -->
+<!-- =S selection -->
+<section id="selection">
+<!-- =S 搜索结果 -->
+<div>
+<dl class="secitem secitemp clearfix">
+<dt>类别 ：</dt>
+<dd zwname="类别" zwnameid="1229">
+<div class="clearfix secitem_p" name="pinpai">
+<a class="all_brand select" href="/shouji/" data-finalurl="/shouji/">全部</a>
+<a class="iphonesj" name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/iphonesj/" href="http://hk.58.com/iphonesj/">苹果</a>
+<a class="sanxing" name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/sanxing/" href="http://hk.58.com/sanxing/">三星</a>
+<a class="xiaomi" name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/xiaomi/" href="http://hk.58.com/xiaomi/">小米</a>
+<a class="htc" name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/htc/" href="http://hk.58.com/htc/">HTC</a>
+<a class="nuojiya" name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/nuojiya/" href="http://hk.58.com/nuojiya/">诺基亚</a>
+<a class="ailixin" name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/ailixin/" href="http://hk.58.com/ailixin/">索尼</a>
+<a class="shoujipeijian" name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/shoujipeijian/" href="http://hk.58.com/shoujipeijian/">手机配件</a>
+<a class="morebrand" href="javascript://">更多品牌<i></i></a>
+<script>
+                    $('.morebrand').click(function () {
+                        var objBrandct = document.getElementById('moreBrandct');
+                        if (objBrandct.style.display == "none") {
+                            objBrandct.style.display = "block";
+                            this.innerHTML = "收起品牌&lt;i class='morebrand_up'&gt;&lt;/i&gt;";
+                        }
+                        else {
+                            objBrandct.style.display = "none";
+                            this.innerHTML = "更多品牌&lt;i&gt;&lt;/i&gt;";
+                        }
+                    })
+                </script>
+</div>
+<div class="clearfix secitem_p_m" style="display:none" id="moreBrandct">
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zhongxingshouji/" href="http://hk.58.com/zhongxingshouji/" class="zhongxingshouji">中兴</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/lgsj/" href="http://hk.58.com/lgsj/" class="lgsj">LG</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/tianyushouji/" href="http://hk.58.com/tianyushouji/" class="tianyushouji">天语</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/kupaisj/" href="http://hk.58.com/kupaisj/" class="kupaisj">酷派</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/huaweisj/" href="http://hk.58.com/huaweisj/" class="huaweisj">华为</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/lianxiang/" href="http://hk.58.com/lianxiang/" class="lianxiang">联想</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/motuoluola/" href="http://hk.58.com/motuoluola/" class="motuoluola">摩托罗拉</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/heimei/" href="http://hk.58.com/heimei/" class="heimei">黑莓</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/jinlisj/" href="http://hk.58.com/jinlisj/" class="jinlisj">金立</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/meizu/" href="http://hk.58.com/meizu/" class="meizu">魅族</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/xiapushouji/" href="http://hk.58.com/xiapushouji/" class="xiapushouji">夏普</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/duopudashouji/" href="http://hk.58.com/duopudashouji/" class="duopudashouji">多普达</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/qitasj/" href="http://hk.58.com/qitasj/" class="qitasj">其他品牌</a>
+</div>
+</dd>
+</dl>
+<dl class="secitem clearfix">
+<dt>价格 ：</dt>
+<dd zwname="价格" zwnameid="5537">
+<a class="select" href="/shouji/" data-finalurl="/shouji/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/shouji/pve_5537_201_500/" href="http://hk.58.com/shouji/pve_5537_201_500/">200-500元</a>
+<span class="prifilter">
+<span class="text text2"><input type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /></span>
+<span class="dev"> - </span>
+<span class="dev text text2"><input class="mr5" type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /> 元   </span>
+<span class="btn btn2" style="display:none"><input type="button" value="价格筛选" onclick="b_query_minprice()" /></span>
+</span>
+<script type="text/javascript">
+                    $(document).ready(function () {
+                        //text控件事件
+                        $(".prifilter input:text").click(function () {
+                            $(".prifilter input:button").parent().show();
+                            return false;
+                        });
+
+                        //button控件事件
+                        $(".prifilter input:button").click(function () {
+                            return false;
+                        });
+
+                        //body控件事件
+                        $(document.body).click(function () {
+                            $(".prifilter input:button").parent().hide();
+                        });
+                    });
+                </script>
+</dd>
+</dl>
+<dl class="secitem clearfix">
+<dt>新旧 ：</dt>
+<dd zwname="新旧" zwnameid="1230">
+<a class="select" href="/shouji/" data-finalurl="/shouji/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/shouji/pve_1230_7/" href="http://hk.58.com/shouji/pve_1230_7/">全新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/shouji/pve_1230_2/" href="http://hk.58.com/shouji/pve_1230_2/">95成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/shouji/pve_1230_3/" href="http://hk.58.com/shouji/pve_1230_3/">9成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/shouji/pve_1230_4/" href="http://hk.58.com/shouji/pve_1230_4/">8成新</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/shouji/pve_1230_5/" href="http://hk.58.com/shouji/pve_1230_5/">7成新及以下</a>
+</dd>
+</dl>
+<!--S 显示区域 -->
+<dl class="secitem secitem_area clearfix">
+<dt>区域 ：</dt>
+<dd zwnameid="quyu" zwname="区域">
+<a href="/shouji/" data-finalurl="/shouji/" class="select">全香港</a>
+<a href="/jiulongcheng/shouji/" data-finalurl="/jiulongcheng/shouji/">九龙城</a>
+<a href="/zhongxi/shouji/" data-finalurl="/zhongxi/shouji/">中西</a>
+<a href="/dongqu/shouji/" data-finalurl="/dongqu/shouji/">东区</a>
+<a href="/guantang/shouji/" data-finalurl="/guantang/shouji/">观塘</a>
+<a href="/wanzai/shouji/" data-finalurl="/wanzai/shouji/">湾仔</a>
+<a href="/shatian/shouji/" data-finalurl="/shatian/shouji/">沙田</a>
+<a href="/tunmen/shouji/" data-finalurl="/tunmen/shouji/">屯门</a>
+<a href="/quanwan/shouji/" data-finalurl="/quanwan/shouji/">荃湾</a>
+<a href="/huangdaxian/shouji/" data-finalurl="/huangdaxian/shouji/">黄大仙</a>
+<a href="/lidao/shouji/" data-finalurl="/lidao/shouji/">离岛</a>
+<a href="/xianggang/shouji/" data-finalurl="/xianggang/shouji/">其它</a>
+<div class="fl clearfix recent_div" id="shangquan" style=" display: none;">
+</div>
+</dd>
+</dl>
+<!--E 显示区域 -->
+<!-- =S 特色 -->
+<!-- =E 特色 -->
+<!-- =S header-search -->
+<div class="sale_search clearfix_z" id="SearchForm">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<span class="search_input"><input class="but-wd" value="输入类别或关键字" maxlength="40" onkeyup="win1.GetContentData();" onclick="if(this.value=='输入类别或关键字')this.value=''" onblur="if(this.value=='')this.value='输入类别或关键字'" fdv="" id="keyword1" name="b_q" para="key" autocomplete="off" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="submit" id="searchbtn1" class="search_on" value="搜本类" onclick="return searchword_filter();" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="button" value="搜全站" onclick="if(searchword_filter())b_query_all();" /></span>
+</form>
+<div class="entrance_quanguo">
+<a target="_blank" rel="nofollow" href="http://quanguo.58.com/shouji/?fromlocalid=2050" title="点击查看全国所有城市二手手机" onclick="clickLog('from=ToQuanguo_list_shouji_hk');">
+<i></i>
+			                                          全国二手手机			        </a>
+</div>
+</div>
+<!-- =E header-search -->
+<!-- =S 热门机型 -->
+<!-- =E 热门机型 -->
+<dl id="tuijianA" class="secitem secitem_70 clearfix tj10" style="display:none;"></dl>
+<dl id="tuijianB" class="secitem secitem_70 clearfix tj10" style="display:none;"></dl>
+</div>
+<!-- =S 底部搜索结果 -->
+<!--  &lt;dl class="secitem"&gt;&lt;div id ="highlightline" class="line highlight"&gt;&lt;div id="selected" class="bar"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/dl&gt; -->
+<div class="selectResult clearfix" id="selected" style="display: none;"></div>
+</section>
+<!-- =E selection -->
+<!--S 百强县 -->
+<!--E 百强县 -->
+<!-- =S tabsbar -->
+<div class="pr tabsbar_pop_wrap">
+<div class="pop lamp fang_01 tabsbar_pop" id="tabsbar"><span></span><font class="close"></font><font class="arr_btm"></font>
+</div>
+</div>
+<div class="tabsbar" id="xgtjtab">
+<a class="sel" href="http://hk.58.com/shouji/"><h1>香港二手手机</h1></a>
+<a id="es-tg" rel="nofollow" class="pubtopright" target="_blank" href="http://dingyue.58.com/ershou/shenqing">二手市场推广，加入会员即送1000元！</a>
+</div>
+<!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix">
+<!-- =S infolist 左侧列表主体 -->
+<div id="infolist" class="cleft">
+<!-- =S filterbar -->
+<div class="filterbar">
+<table cellspacing="0" cellpadding="0" class="tbfilter">
+<colgroup>
+<col />
+<col class="w100" />
+</colgroup>
+<tr class="bg">
+<td>
+<div class="caty">
+<a class="geren active" name="b_link" para="custom" cl="/shouji/?rb=1" data-finalurl="/shouji/" href="/shouji/">
+                            全部
+                        </a>
+<a class="geren" data-finalurl="/shouji/0/" href="/shouji/0/">
+                        个人
+                    </a>
+<a class="shangjia" data-finalurl="/shouji/1/" href="/shouji/1/">
+                        商家
+                    </a>
+</div>
+<span class="checkbox"><input name="" type="checkbox" value="" id="ispic" onclick="click_Ispic(this)" /><label for="ispic">只看有图</label></span>
+<span class="checkbox"><input type="checkbox" id="isonline" /><label for="isonline" class="isonline">帮帮在线</label></span>
+</td>
+<!-- =S 排序功能 -->
+<td class="tc"><a class="a_2words_none" href="#" rel="nofollow" name="b_s" para="sort" cv="minprice_asc" onclick="g2({sort:'minprice_asc'});return false">价格</a></td>
+<!-- =E 排序功能 -->
+</tr>
+</table>
+</div>
+<!-- =E filterbar -->
+<!-- =S 查询搜索无结果补充信息  -->
+<!-- =E 查询搜索无结果补充信息  -->
+<!-- =S top_google_ad -->
+<div id="top_google_ad"></div>
+<!-- =E top_google_ad  -->
+<!-- =S 头部精准推广显示 -->
+<div class="pr">
+<table class="tbimg tbimg_jz" cellspacing="0" cellpadding="0" id="jingzhun">
+<col class="" />
+<col />
+<col class="w100" />
+<tr logr="b_1_17548647142918_17819185653514_11_1_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5iubpgPGujYdP1D3PWP6mzY3rjcdsHEdmvmVmW6hnzYQP1cQuAmQuyEkuymh0vQfIjd_pgPYUARhIaubpgPYUHYQn1bOPWcQnWTdPWTdFMF-uWdCIZwkrBtfpA_8PH98mvqVs1Tf0v6fIyGGFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYznjn8nHbzsWDdPB3OFhR8IZwk5HTh0A7zmyYqFh-1ug6YuyOb5yu6UZP-FMK_uWYVniuGUyRG5iudpyEqnH0dPj9vPj0QPjcOnH9hmvQopyEqmWcLnANduWNVm1cdriYYmhmvsH-WuAcVPhw6rjTLnjNdnhEzFMKGujYYFhR8IA-b5HDLrjDOnH9dPWN1PHDYFhR8IZwk5HTh0ZFGmvNqn1Dh0hRbpgcqpZwY0jCfsvIlsWN3shPfUiq1pAqdphbfnH03nHbQrjNvPHndnHw3sMPCIAd_FhwG0LKf01YQFMPdmh-b5HmznjN1P1EhmLF-mgw-ujYvnWTQn10LFMK60h7VpyEqFhwG0vP65HnvFMP-UAuWmHY1PBubpgP_U1YznjNkFMP-UAu_U1YznjNkFMDqnHnOFh7BIjd6" target="_blank" data-addtype="level2"><img src="http://img5.58.com/bidding/tiny/n_s12243579986806278046.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5iubpgPGujYdP1D3PWP6mzY3rjcdsHEdmvmVmW6hnzYQP1cQuAmQuyEkuymh0vQfIjd_pgPYUARhIaubpgPYUHYQn1bOPWcQnWTdPWTdFMF-uWdCIZwkrBtfpA_8PH98mvqVs1Tf0v6fIyGGFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYznjn8nHbzsWDdPB3OFhR8IZwk5HTh0A7zmyYqFh-1ug6YuyOb5yu6UZP-FMK_uWYVniuGUyRG5iudpyEqnH0dPj9vPj0QPjcOnH9hmvQopyEqmWcLnANduWNVm1cdriYYmhmvsH-WuAcVPhw6rjTLnjNdnhEzFMKGujYYFhR8IA-b5HDLrjDOnH9dPWN1PHDYFhR8IZwk5HTh0ZFGmvNqn1Dh0hRbpgcqpZwY0jCfsvIlsWN3shPfUiq1pAqdphbfnH03nHbQrjNvPHndnHw3sMPCIAd_FhwG0LKf01YQFMPdmh-b5HmznjN1P1EhmLF-mgw-ujYvnWTQn10LFMK60h7VpyEqFhwG0vP65HnvFMP-UAuWmHY1PBubpgP_U1YznjNkFMP-UAu_U1YznjNkFMDqnHnOFh7BIjd6" data-addtype="level2" target="_blank" class="t">
+                Apple苹果iPhone5S港版移动电信联通完美</a><span class="ico area">
+</span><span class="ico ntu" title="">[17图]</span>
+<a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+            基本信息新旧程度：全新（正品发票|保修期内|原装配件齐全）详
+            <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="fl">
+<a class="c_666" href="#">广州</a>
+                	                
+                &nbsp;/ 今天
+	              </span>
+<span name="zaixian_17548647142918"></span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1300</b> 元         </td>
+</tr>
+</table>
+</div>
+<!-- =E 头部精准推广显示 -->
+<div id="hoverinfo">
+<!-- =S 显示搜索无结果补充信息  -->
+<!-- =E 显示搜索无结果补充信息  -->
+<!-- =S tbimg/tbtxt -->
+<table class="tbimg" cellpadding="0" cellspacing="0">
+<col class="" />
+<col />
+<col class="w100" />
+<tr logr="p_0_22468429994759_17563773331591_0_0_0">
+<td class="img"><a href="http://hk.58.com/shouji/17563773331591x.shtml" target="_blank"><img src="http://4.pic.58control.cn/mobile/tiny/n_s12210885905385128054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/17563773331591x.shtml" target="_blank" class="t">                Sony Xperia Z</a><span class="ico area">
+</span><span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                                                9成新自用手机，购买不到一年，无拆无摔，原装配件，正版港行。
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/shouji/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/shouji/">元朗</a>
+                
+                &nbsp;/ 04-26
+		              </span>
+<span name="zaixian_22468429994759"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1800</b> 元         </td>
+</tr>
+<tr logr="p_0_36614415_17582012026245_0_0_0">
+<td class="img"><a href="http://hk.58.com/shouji/17582012026245x.shtml" target="_blank"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/17582012026245x.shtml" target="_blank" class="t">                出讓98新港行MOTO G + 藍色原裝機背殼</a><span class="ico area">
+</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/guantang/shouji/">观塘</a>
+                
+                &nbsp;/ 04-13
+		              </span>
+<span name="zaixian_36614415"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1250</b> 元         </td>
+</tr>
+<tr logr="p_0_22001945586439_17330658067464_0_0_0">
+<td class="img"><a href="http://hk.58.com/shouji/17330658067464x.shtml" target="_blank"><img src="http://4.pic.58control.cn/mobile/tiny/n_s12181044615464741055.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/17330658067464x.shtml" target="_blank" class="t">                高仿samsung galaxy note 3九成</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zhongxi/shouji/">中西</a>
+                
+                &nbsp;/ 03-21
+		              </span>
+<span name="zaixian_22001945586439"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1000</b> 元         </td>
+</tr>
+<tr logr="p_0_15877362955527_17278047878026_0_0_0">
+<td class="img"><a href="http://hk.58.com/shouji/17278047878026x.shtml" target="_blank"><img src="http://4.pic.58control.cn/mobile/tiny/n_s12174312305316782164.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/17278047878026x.shtml" target="_blank" class="t">                全新港版galaxy s4紫色粉色機，少量現貨</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/shatian/shouji/">沙田</a>
+                
+                &nbsp;/ 03-16
+		              </span>
+<span name="zaixian_15877362955527"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">4300</b> 元         </td>
+</tr>
+<tr logr="p_0_27268081_17175506788230_0_0_0">
+<td class="img"><a href="http://hk.58.com/shouji/17175506788230x.shtml" target="_blank"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/17175506788230x.shtml" target="_blank" class="t">                小米3 现货 全新港版未開封</a><span class="ico area">
+</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/jiulongcheng/shouji/">九龙城</a>
+                
+                &nbsp;/ 03-07
+		              </span>
+<span name="zaixian_27268081"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">3000</b> 元         </td>
+</tr>
+<tr logr="p_0_21290504862214_16974852075397_0_0_0">
+<td class="img"><a href="http://hk.58.com/shouji/16974852075397x.shtml" target="_blank"><img src="http://1.pic.58control.cn/mobile/tiny/n_s02135504132915365005.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/16974852075397x.shtml" target="_blank" class="t">                iphone 4s</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/shouji/">其它</a><span> - </span>
+<a class="c_666" href="/kuiqing/shouji/">葵青</a>
+                
+                &nbsp;/ 02-17
+		              </span>
+<span name="zaixian_21290504862214"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1800</b> 元         </td>
+</tr>
+<tr logr="p_0_19655719361799_16475975446145_0_0_0">
+<td class="img"><a href="http://hk.58.com/shouji/16475975446145x.shtml" target="_blank"><img src="http://1.pic.58control.cn/mobile/tiny/n_s02071643863599910094.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/16475975446145x.shtml" target="_blank" class="t">                Songericsson</a><span class="ico area">
+</span><span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tunmen/shouji/">屯门</a>
+                
+                &nbsp;/ 02-10
+		              </span>
+<span name="zaixian_19655719361799"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">900</b> 元         </td>
+</tr>
+<tr logr="p_0_20824291568390_16757236516098_0_0_0">
+<td class="img"><a href="http://hk.58.com/shouji/16757236516098x.shtml" target="_blank"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/16757236516098x.shtml" target="_blank" class="t">[9成新]                华为 U8825D 原装主配 无拆无修</a><span class="ico area">
+</span>
+<i class="clear"></i>
+                                                换手机换下来的，手机完好状态
+                                        <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tunmen/shouji/">屯门</a>
+                
+                &nbsp;/ 01-28
+		              </span>
+<span name="zaixian_20824291568390"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">400</b> 元         </td>
+</tr>
+<tr logr="p_1_18111686774534_15762023400586_0_1_0">
+<td class="img"><a href="http://hk.58.com/shouji/15762023400586x.shtml" target="_blank"><img src="http://3.pic.58control.cn/mobile/tiny/n_s11980261854117912154.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/15762023400586x.shtml" target="_blank" class="t">                全新 苹果 iPhone5c 16GB</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tunmen/shouji/">屯门</a>
+                
+                &nbsp;/ 01-15
+		              </span>
+<span name="zaixian_18111686774534"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						                     </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">4000</b> 元         </td>
+</tr>
+<tr logr="p_1_18111686774534_16702120153478_0_1_0">
+<td class="img"><a href="http://hk.58.com/shouji/16702120153478x.shtml" target="_blank"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/shouji/16702120153478x.shtml" target="_blank" class="t">                香港代购苹果5S金色白色黑色</a><span class="ico area">
+</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/tunmen/shouji/">屯门</a>
+                
+                &nbsp;/ 01-23
+		              </span>
+<span name="zaixian_18111686774534"></span>
+<span class="fl ml5 biz">
+												  						    [普通商家]
+						  						                     </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">4600</b> 元         </td>
+</tr>
+<tr>
+<td class="dev" colspan="5">周边地区相关信息</td>
+</tr>
+<tr logr="b_0_22305540108550_17769465294594_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17769465294594x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s02237209821366468076.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17769465294594x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 32GB 港版 iPhone4s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                                        诚心诚意转卖自己的iphone4s白色的，32G港版在保，全国联保，有…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/szlhxq/shouji/">龙华新区</a>
+                                                &nbsp;/ 1分钟
+            		</span>
+<span name="zaixian_22305540108550"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1650</b> 元                 </td>
+</tr>
+<tr logr="b_0_17681570984711_17871509671816_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17871509671816x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/mobile/tiny/n_s12250271885709963156.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17871509671816x.shtml" target="_blank" class="t" data-addtype="level4">                        魅族MX 双核16G，账号可退，出或者换机！有意发</a><span class="ico area">
+</span><span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/longgang/shouji/">龙岗区</a>
+                                                &nbsp;/ 1分钟
+            		</span>
+<span name="zaixian_17681570984711"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">350</b> 元                 </td>
+</tr>
+<tr logr="b_0_22783706316294_17831823735683_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17831823735683x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s02245194484943299074.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17831823735683x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        HTC四核机OneX九五成低价转让</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                                        成色九五成，四核智能机，没拆没修无问题，4.7寸1280*720显示屏…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/szlhxq/shouji/">龙华新区</a>
+                                                &nbsp;/ 1分钟
+            		</span>
+<span name="zaixian_22783706316294"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">650</b> 元                 </td>
+</tr>
+<tr logr="b_0_22305863529479_17482528213381_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17482528213381x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12248597218214038005.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17482528213381x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 32GB 港版 iPhone4s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        手机是去年在香港专卖店购买的还有保，原装港行32G正品；可以查序列号看…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/szlhxq/shouji/">龙华新区</a>
+                                                &nbsp;/ 1分钟
+            		</span>
+<span name="zaixian_22305863529479"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1580</b> 元                 </td>
+</tr>
+<tr logr="b_0_1657476625927_17871502865923_11_0_0">
+<td class="img"><a href="http://dg.58.com/shouji/17871502865923x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250271912117954056.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17871502865923x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 16GB 电信版 iPhone4s 保</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                                        保修期还有11个月，几乎全新，接受任何方式验货，图片中有机型信息也可上…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/nancheng/shouji/">南城</a>
+                                                &nbsp;/ 1分钟
+            		</span>
+<span name="zaixian_1657476625927"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">2600</b> 元                 </td>
+</tr>
+<tr logr="b_1_21808028449798_17871498950406_11_1_0">
+<td class="img"><a href="http://sz.58.com/shouji/17871498950406x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/mobile/tiny/n_s12250274446266346156.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17871498950406x.shtml" target="_blank" class="t" data-addtype="level4">                        99成新正品华为3C！急转！非诚勿扰！！</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/shouji/">罗湖</a>
+                                                &nbsp;/ 2分钟
+            		</span>
+<span name="zaixian_21808028449798"></span>
+<span class="fl ml5 biz">
+    						    						      						    [普通商家]
+    						      						                        </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">650</b> 元                 </td>
+</tr>
+<tr logr="b_0_22863142978823_17761217109766_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17761217109766x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12236154759465559094.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17761217109766x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 16GB 港版 iPhone4s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        成色真的很完美，女孩子用的保养超好，手机是港版 16G 白色95成新金…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/baoan/shouji/">宝安</a>
+                                                &nbsp;/ 2分钟
+            		</span>
+<span name="zaixian_22863142978823"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1690</b> 元                 </td>
+</tr>
+<tr logr="b_0_22990727301127_17837095440385_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17837095440385x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/mobile/tiny/n_s12245855018126064085.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17837095440385x.shtml" target="_blank" class="t" data-addtype="level4">                        便宜转台白色iphone4s在保机子</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/longgang/shouji/">龙岗区</a>
+                                                &nbsp;/ 2分钟
+            		</span>
+<span name="zaixian_22990727301127"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1640</b> 元                 </td>
+</tr>
+<tr logr="b_0_19146629981191_17831746414857_11_0_0">
+<td class="img"><a href="http://zh.58.com/shouji/17831746414857x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/mobile/tiny/n_s12245186208976774155.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://zh.58.com/shouji/17831746414857x.shtml" target="_blank" class="t" data-addtype="level4">                        苹果4无锁不用卡贴</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://zh.58.com/shouji/">珠海</a><span> - </span>
+<a class="c_666" href="http://zh.58.com/doumen/shouji/">斗门</a>
+                                                &nbsp;/ 2分钟
+            		</span>
+<span name="zaixian_19146629981191"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1600</b> 元                 </td>
+</tr>
+<tr logr="b_1_22860452264711_17759892439816_11_1_0">
+<td class="img"><a href="http://dg.58.com/shouji/17759892439816x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/mobile/tiny/n_s02245852835020966006.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17759892439816x.shtml" target="_blank" class="t" data-addtype="level4">                        出售官网红米Note</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        出售在官网抢购的红米Note，4月29号抢购到的全新未拆封的，有发票，…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/guanchengshi/shouji/">莞城</a>
+                                                &nbsp;/ 2分钟
+            		</span>
+<span name="zaixian_22860452264711"></span>
+<span class="fl ml5 biz">
+    						    						      						    [普通商家]
+    						      						                        </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">850</b> 元                 </td>
+</tr>
+<tr logr="b_0_23083578760198_17871487152777_11_0_0">
+<td class="img"><a href="http://dg.58.com/shouji/17871487152777x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250255330919581023.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17871487152777x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        三星 Galaxy Note3</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        朋友给了我一个意外的惊喜送了一台全新的三星国行note3给我，配件齐全…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/shijie/shouji/">石碣</a>
+                                                &nbsp;/ 3分钟
+            		</span>
+<span name="zaixian_23083578760198"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">2300</b> 元                 </td>
+</tr>
+<tr logr="b_0_22990923264774_17836999682314_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17836999682314x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/mobile/tiny/n_s12245850294947327116.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17836999682314x.shtml" target="_blank" class="t" data-addtype="level4">                        自用爱机iphone4s港版在保九五新手机</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/buji/shouji/">布吉</a>
+                                                &nbsp;/ 3分钟
+            		</span>
+<span name="zaixian_22990923264774"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1620</b> 元                 </td>
+</tr>
+<tr logr="b_0_22706164838919_17682726532353_11_0_0">
+<td class="img"><a href="http://dg.58.com/shouji/17682726532353x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/mobile/tiny/n_s12245847287286337094.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17682726532353x.shtml" target="_blank" class="t" data-addtype="level4">                        全新红米和红米Note</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        转让在官网抢购的红米Note全新未拆封的，带发票，4月29号抢购到的只…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/guanchengshi/shouji/">莞城</a>
+                                                &nbsp;/ 3分钟
+            		</span>
+<span name="zaixian_22706164838919"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">850</b> 元                 </td>
+</tr>
+<tr logr="b_0_22924175289607_17802960064390_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17802960064390x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12241492483147628053.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17802960064390x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 32GB 港版 iPhone4s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        经典的6系统，运行顺畅无比，内存是32G的，已经换了5所以转让这台自己…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/baoan/shouji/">宝安</a>
+                                                &nbsp;/ 3分钟
+            		</span>
+<span name="zaixian_22924175289607"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1750</b> 元                 </td>
+</tr>
+<tr logr="b_0_23015271130887_17837245479937_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17837245479937x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12248906436398953133.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17837245479937x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        黑色 苹果 16GB 港版 iPhone4s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                                        成色95成新有实拍图，女生自用黑色4S是去年买的手机，一直都是自己在用…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/baoan/shouji/">宝安</a>
+                                                &nbsp;/ 4分钟
+            		</span>
+<span name="zaixian_23015271130887"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1680</b> 元                 </td>
+</tr>
+<tr logr="b_0_23083857394694_17871478215945_11_0_0">
+<td class="img"><a href="http://dg.58.com/shouji/17871478215945x.shtml" target="_blank" data-addtype="level4"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17871478215945x.shtml" target="_blank" class="t" data-addtype="level4">                        红米 移动版 双卡双待</a><span class="ico area">
+</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/changanqv/shouji/">长安</a>
+                                                &nbsp;/ 4分钟
+            		</span>
+<span name="zaixian_23083857394694"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">450</b> 元                 </td>
+</tr>
+<tr logr="b_0_1580153960196_17829137782019_11_0_0">
+<td class="img"><a href="http://dg.58.com/shouji/17829137782019x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/mobile/tiny/n_s12244847500805017034.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17829137782019x.shtml" target="_blank" class="t" data-addtype="level4">                        索尼LT22i 16G机身内存，因换手机出手一部</a><span class="ico area">
+</span><span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                                                                        85新，谢绝议价，只限当面交易。
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/dongchengqv/shouji/">东城</a>
+                                                &nbsp;/ 5分钟
+            		</span>
+<span name="zaixian_1580153960196"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">800</b> 元                 </td>
+</tr>
+<tr logr="b_0_23060324254470_17859821677322_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17859821677322x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s02248767465113948073.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17859821677322x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 32GB 港版 iPhone4s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        女生自己用的一部4S手机32G容量超大内存保养比较好95成新，去年买的…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/baoan/shouji/">宝安</a>
+                                                &nbsp;/ 5分钟
+            		</span>
+<span name="zaixian_23060324254470"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1720</b> 元                 </td>
+</tr>
+<tr logr="b_0_22644365480199_17764817884675_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17764817884675x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12236616024900492034.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17764817884675x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 32GB 港版 iPhone4s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                                        自己用的iPhone4S，发票配件都有，没有磕碰，港版32G，还在保修…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/szlhxq/shouji/">龙华新区</a>
+                                                &nbsp;/ 5分钟
+            		</span>
+<span name="zaixian_22644365480199"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1720</b> 元                 </td>
+</tr>
+<tr logr="b_0_21491427530758_17849047341831_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17849047341831x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/mobile/tiny/n_s02247421564046816116.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17849047341831x.shtml" target="_blank" class="t" data-addtype="level4">                        黑色 苹果4S 16G港行正品 急卖！</a><span class="ico area">
+</span><span class="ico ntu" title="">[6图]</span>
+<i class="clear"></i>
+                                                                        手机是是港行正品去年5月买的！因为想换个大屏手机！手机有9.5成新，边…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/pingshanxinqu/shouji/">坪山新区</a>
+                                                &nbsp;/ 5分钟
+            		</span>
+<span name="zaixian_21491427530758"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1750</b> 元                 </td>
+</tr>
+<tr logr="b_0_22902161423623_17780713502721_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17780713502721x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12238807269985407104.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17780713502721x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 16GB 港版 iPhone4s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        还剩有几个月的保修，一直是自己在用的，因现在己换5所以放这里转让，手机…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/baoan/shouji/">宝安</a>
+                                                &nbsp;/ 5分钟
+            		</span>
+<span name="zaixian_22902161423623"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1690</b> 元                 </td>
+</tr>
+<tr logr="b_0_21915834639879_17729846887048_11_0_0">
+<td class="img"><a href="http://dg.58.com/shouji/17729846887048x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12232140757353194003.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17729846887048x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        小米   红米Note 正品发票 在保修期内</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                                        4月份抢到的红米note，3G移动TD版的，因自己一直用联通合约机，现…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/dongguan/shouji/">东莞周边</a>
+                                                &nbsp;/ 5分钟
+            		</span>
+<span name="zaixian_21915834639879"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">850</b> 元                 </td>
+</tr>
+<tr logr="b_0_23057851247878_17858650764673_11_0_0">
+<td class="img"><a href="http://dg.58.com/shouji/17858650764673x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12248628410746271046.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17858650764673x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        小米   红米Note 正品发票 在保修期内</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        上个星期在小米官方网抢购到的一部红米Note，没有拆包装，有正品发票，…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/zhangmutou/shouji/">樟木头</a>
+                                                &nbsp;/ 5分钟
+            		</span>
+<span name="zaixian_23057851247878"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">830</b> 元                 </td>
+</tr>
+<tr logr="b_0_21915834639879_17729811770373_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17729811770373x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12232132427649138135.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17729811770373x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        小米   红米Note 正品发票 在保修期内</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                                        全新未开封的红米Note转让给有缘的朋友。4月份抢到的红米note，3…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/shenzhenzhoubian/shouji/">深圳周边</a>
+                                                &nbsp;/ 5分钟
+            		</span>
+<span name="zaixian_21915834639879"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">850</b> 元                 </td>
+</tr>
+<tr logr="b_0_22452942895110_17852454873097_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17852454873097x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12247829846082383014.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17852454873097x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 16GB 港版 iPhone4s 原装</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                                        白色16g,因为现在本人换了新手机现在转让出去，手机很新，都是买回就贴…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/longgang/shouji/">龙岗区</a>
+                                                &nbsp;/ 6分钟
+            		</span>
+<span name="zaixian_22452942895110"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1750</b> 元                 </td>
+</tr>
+<tr logr="b_0_23083670257159_17871466691073_11_0_0">
+<td class="img"><a href="http://zs.58.com/shouji/17871466691073x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/mobile/tiny/n_s02250268726510628046.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://zs.58.com/shouji/17871466691073x.shtml" target="_blank" class="t" data-addtype="level4">                        转卖红米note特别版</a><span class="ico area">
+</span><span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://zs.58.com/shouji/">中山</a><span> - </span>
+<a class="c_666" href="http://zs.58.com/zsdayong/shouji/">大涌</a>
+                                                &nbsp;/ 6分钟
+            		</span>
+<span name="zaixian_23083670257159"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1099</b> 元                 </td>
+</tr>
+<tr logr="b_1_22093856983814_17869672512258_11_1_0">
+<td class="img"><a href="http://sz.58.com/shouji/17869672512258x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/mobile/tiny/n_s12250034307764004125.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17869672512258x.shtml" target="_blank" class="t" data-addtype="level4">                        个人转让 95新白色32GiPhone4s！！！</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+<i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/nanshan/shouji/">南山</a>
+                                                &nbsp;/ 6分钟
+            		</span>
+<span name="zaixian_22093856983814"></span>
+<span class="fl ml5 biz">
+    						    						      						    [普通商家]
+    						      						                        </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1600</b> 元                 </td>
+</tr>
+<tr logr="b_1_22245025546759_17572653250694_11_1_0">
+<td class="img"><a href="http://dg.58.com/shouji/17572653250694x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s02212016580447799144.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17572653250694x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        小米   红米Note 在保修期内</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                                        上个星期在官网抢购的，有发票，未拆封配件齐全，官网标配799的，因为是…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/fenggang/shouji/">凤岗</a>
+                                                &nbsp;/ 6分钟
+            		</span>
+<span name="zaixian_22245025546759"></span>
+<span class="fl ml5 biz">
+    						    						      						    [普通商家]
+    						      						                        </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">850</b> 元                 </td>
+</tr>
+<tr logr="b_0_23083809683206_17871464142729_11_0_0">
+<td class="img"><a href="http://zh.58.com/shouji/17871464142729x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250264254563795043.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://zh.58.com/shouji/17871464142729x.shtml" target="_blank" class="t" data-addtype="level4">[9成新]                        白色 苹果 8GB 港版 iPhone4 无拆无修</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                                        基本状况苹果 iPhone4 8GB 港版 白色购买时间超过一年，无保…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://zh.58.com/shouji/">珠海</a><span> - </span>
+<a class="c_666" href="http://zh.58.com/xiangzhou/shouji/">香洲</a>
+                                                &nbsp;/ 6分钟
+            		</span>
+<span name="zaixian_23083809683206"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">999</b> 元                 </td>
+</tr>
+<tr logr="b_0_23033858147335_17846537895431_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17846537895431x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12247075225291058083.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17846537895431x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        黑色 三星 I9000 无拆无修 自带内存8G</a><span class="ico area">
+</span><span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                                        没有任何问题 换了手机 一直闲置家里 配件齐全 有4块电池 都很耐用 …
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/nanshan/shouji/">南山</a>
+                                                &nbsp;/ 6分钟
+            		</span>
+<span name="zaixian_23033858147335"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">320</b> 元                 </td>
+</tr>
+<tr logr="b_0_23056640098567_17857956898055_11_0_0">
+<td class="img"><a href="http://zs.58.com/shouji/17857956898055x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12248531275597823054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://zs.58.com/shouji/17857956898055x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        小米   红米Note 正品发票 在保修期内</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        手机是上个星期在官方网站抢购的，有正品发票配件齐全，没有拆封的，本来是…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://zs.58.com/shouji/">中山</a><span> - </span>
+<a class="c_666" href="http://zs.58.com/zsshaxi/shouji/">沙溪</a>
+                                                &nbsp;/ 7分钟
+            		</span>
+<span name="zaixian_23056640098567"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">850</b> 元                 </td>
+</tr>
+<tr logr="b_0_22705669178375_17705785593478_11_0_0">
+<td class="img"><a href="http://zs.58.com/shouji/17705785593478x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12229061032937313043.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://zs.58.com/shouji/17705785593478x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        小米   红米Note 正品发票 在保修期内</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        因为之前有用红米，出二代了就想换，但是之前的红米买来才两个星期左右，媳…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://zs.58.com/shouji/">中山</a><span> - </span>
+<a class="c_666" href="http://zs.58.com/shiqi/shouji/">石岐</a>
+                                                &nbsp;/ 7分钟
+            		</span>
+<span name="zaixian_22705669178375"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">840</b> 元                 </td>
+</tr>
+<tr logr="b_0_22293387828742_17685530223877_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17685530223877x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s02226467738453919075.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17685530223877x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        白色 苹果 32GB 国行 iPhone4s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                                                                        白色 16G 国行在保的 手机之前是女朋友再用，爱护的很好 前后都贴有…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/baoan/shouji/">宝安</a>
+                                                &nbsp;/ 8分钟
+            		</span>
+<span name="zaixian_22293387828742"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1800</b> 元                 </td>
+</tr>
+<tr logr="b_0_22998300698375_17828758615689_11_0_0">
+<td class="img"><a href="http://zs.58.com/shouji/17828758615689x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12244797059648035074.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://zs.58.com/shouji/17828758615689x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        小米   红米Note 正品发票 在保修期内</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                                        官网抢购的红米Note，全新没有开封，有官网发票，移动版，白色，真八核…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://zs.58.com/shouji/">中山</a><span> - </span>
+<a class="c_666" href="http://zs.58.com/zsxiaolan/shouji/">小榄</a>
+                                                &nbsp;/ 8分钟
+            		</span>
+<span name="zaixian_22998300698375"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">850</b> 元                 </td>
+</tr>
+<tr logr="b_0_22705669178375_17705842670854_11_0_0">
+<td class="img"><a href="http://zs.58.com/shouji/17705842670854x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12229070299810630105.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://zs.58.com/shouji/17705842670854x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        小米   红米Note 正品发票</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        因为之前有用红米，出note了就想换，但是之前的红米买来才1个星期左右…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://zs.58.com/shouji/">中山</a><span> - </span>
+<a class="c_666" href="http://zs.58.com/wuguishan/shouji/">五桂山</a>
+                                                &nbsp;/ 8分钟
+            		</span>
+<span name="zaixian_22705669178375"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">840</b> 元                 </td>
+</tr>
+<tr logr="b_0_23042353885959_17850803031811_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17850803031811x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12247619143078165144.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17850803031811x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        黑莓9530智能手机,95成新</a><span class="ico area">
+</span><span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                                                                        显示屏为3.25英寸高清电容触摸屏（支持手写功能）；内置GPS，蓝牙；…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/nanshan/shouji/">南山</a>
+                                                &nbsp;/ 9分钟
+            		</span>
+<span name="zaixian_23042353885959"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">150</b> 元                 </td>
+</tr>
+<tr logr="b_1_22864677628934_17806732322698_11_1_0">
+<td class="img"><a href="http://sz.58.com/shouji/17806732322698x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12241994050536668044.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17806732322698x.shtml" target="_blank" class="t" data-addtype="level4">[95成新]                        转让女友98新 国行 iPhone 4s 32g原</a><span class="ico area">
+</span><span class="ico ntu" title="">[6图]</span>
+<i class="clear"></i>
+                                                                        个人转让女朋友用了半年的苹果4s，国行白色32G，女朋友想换最近新出的…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/baoan/shouji/">宝安</a>
+                                                &nbsp;/ 9分钟
+            		</span>
+<span name="zaixian_22864677628934"></span>
+<span class="fl ml5 biz">
+    						    						      						    [普通商家]
+    						      						                        </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1700</b> 元                 </td>
+</tr>
+<tr logr="b_0_22284828001798_17759719894793_11_0_0">
+<td class="img"><a href="http://dg.58.com/shouji/17759719894793x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12235965866593584103.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://dg.58.com/shouji/17759719894793x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        银色 苹果 16GB 港版 iPhone5s 正品</a><span class="ico area">
+</span><span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                                                                        正品银白色5S，16G苹果手机，我还用不是的是全新机，我个人转让的，手…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://dg.58.com/shouji/">东莞</a><span> - </span>
+<a class="c_666" href="http://dg.58.com/changanqv/shouji/">长安</a>
+                                                &nbsp;/ 9分钟
+            		</span>
+<span name="zaixian_22284828001798"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">4200</b> 元                 </td>
+</tr>
+<tr logr="b_1_22859346388999_17870609635337_11_1_0">
+<td class="img"><a href="http://sz.58.com/shouji/17870609635337x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250191012610401015.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17870609635337x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        小米   红米Note 正品发票 在保修期内</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                                                                        转让几台红米note移动标准版，官网抢购的，未拆封，有发票跟出货单。需…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/shenzhenzhoubian/shouji/">深圳周边</a>
+                                                &nbsp;/ 9分钟
+            		</span>
+<span name="zaixian_22859346388999"></span>
+<span class="fl ml5 biz">
+    						    						      						    [普通商家]
+    						      						                        </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">835</b> 元                 </td>
+</tr>
+<tr logr="b_0_20173533_17835621466121_11_0_0">
+<td class="img"><a href="http://sz.58.com/shouji/17835621466121x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s02245680326592378064.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/shouji/17835621466121x.shtml" target="_blank" class="t" data-addtype="level4">[全新]                        酷派大神F1 正品发票 全国联保 原装未拆封</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                                                                        酷派官网抢到的大神F1,酷派正品!全国联保需要者速来!
+网络模式：移…
+                                                                <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/shouji/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/nanshan/shouji/">南山</a>
+                                                &nbsp;/ 9分钟
+            		</span>
+<span name="zaixian_20173533"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">968</b> 元                 </td>
+</tr>
+</table>
+<!-- =E tbimg/tbtxt -->
+<!-- =S 底部精准推广显示 -->
+<div class="pr">
+<table id="jingzhunzhineng" jingzhun="0" zhineng="0" class="tbimg tbimg_jz" cellspacing="0" cellpadding="0">
+<col class="" />
+<col />
+<col class="w100" />
+<tr logr="b_1_17548647142918_17819185653514_11_1_0">
+<td class="img"><a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5iubpgPGujYdP1D3PWP6mzY3rjcdsHEdmvmVmW6hnzYQP1cQuAmQuyEkuymh0vQfIjd_pgPYUARhIaubpgPYUHYQn1bOPWcQnWTdPWTdFMF-uWdCIZwkrBtfpA_8PH98mvqVs1Tf0v6fIyGGFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYznjn8nHbzsWDdPB3OFhR8IZwk5HTh0A7zmyYqFh-1ug6YuyOb5yu6UZP-FMK_uWYVniuGUyRG5iudpyEqnH0dPj9vPj0QPjcOnH9hmvQopyEqmWcLnANduWNVm1cdriYYmhmvsH-WuAcVPhw6rjTLnjNdnhEzFMKGujYYFhR8IA-b5HDLrjDOnH9dPWN1PHDYFhR8IZwk5HTh0ZFGmvNqn1Dh0hRbpgcqpZwY0jCfsvIlsWN3shPfUiq1pAqdphbfnH03nHbQrjNvPHndnHw3sMPCIAd_FhwG0LKf01YQFMPdmh-b5HmznjN1P1EhmLF-mgw-ujYvnWTQn10LFMK60h7VpyEqFhwG0vP65HnvFMP-UAuWmHY1PBubpgP_U1YznjNkFMP-UAu_U1YznjNkFMDqnHnOFh7BIjd6&amp;pageLocation=1" target="_blank" data-addtype="level4"><img src="http://img5.58.com/bidding/tiny/n_s12243579986806278046.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://jump.zhineng.58.com/clk?target=mv7V0A-b5HThmvqfpv--5iubpgPGujYdP1D3PWP6mzY3rjcdsHEdmvmVmW6hnzYQP1cQuAmQuyEkuymh0vQfIjd_pgPYUARhIaubpgPYUHYQn1bOPWcQnWTdPWTdFMF-uWdCIZwkrBtfpA_8PH98mvqVs1Tf0v6fIyGGFMPfIgFWuHYQFMuG0LRGujYkFMuG0LRG0jYznjn8nHbzsWDdPB3OFhR8IZwk5HTh0A7zmyYqFh-1ug6YuyOb5yu6UZP-FMK_uWYVniuGUyRG5iudpyEqnH0dPj9vPj0QPjcOnH9hmvQopyEqmWcLnANduWNVm1cdriYYmhmvsH-WuAcVPhw6rjTLnjNdnhEzFMKGujYYFhR8IA-b5HDLrjDOnH9dPWN1PHDYFhR8IZwk5HTh0ZFGmvNqn1Dh0hRbpgcqpZwY0jCfsvIlsWN3shPfUiq1pAqdphbfnH03nHbQrjNvPHndnHw3sMPCIAd_FhwG0LKf01YQFMPdmh-b5HmznjN1P1EhmLF-mgw-ujYvnWTQn10LFMK60h7VpyEqFhwG0vP65HnvFMP-UAuWmHY1PBubpgP_U1YznjNkFMP-UAu_U1YznjNkFMDqnHnOFh7BIjd6&amp;pageLocation=1" target="_blank" class="t" data-addtype="level4">
+                        Apple苹果iPhone5S港版移动电信联通完美</a><span class="ico area">
+</span><span class="ico ntu" title="">[17图]</span>
+<a class="ico accurate" href="http://e.58.com/pas_zizhutuiguang" target="_blank" rel="nofollow"></a> <i class="clear"></i>
+                      基本信息新旧程度：全新（正品发票|保修期内|原装配件齐全）详
+                    <i class="clear"></i>
+<span class="fl mr5 white sjgr">商家推广</span>
+<span class="fl">
+<a class="c_666" href="#">广州</a>
+                
+                &nbsp;/ 今天
+	              </span>
+<span name="zaixian_17548647142918"></span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1300</b> 元                 </td>
+</tr>
+</table>
+</div>
+<!-- =E 底部精准推广显示 -->
+<!-- =S bottom_google_ad -->
+<div id="guanggao"> <div id="taobao"></div>
+<div id="bottom_google_ad"></div>
+</div>
+<!-- =E bottom_google_ad -->
+<iframe src="about:blank" id="searchResult" name="searchResult" frameborder="0" width="100%" scrolling="no" height="40"></iframe>
+</div>
+<!-- =S pager -->
+<div class="pager">
+<strong><span>1</span></strong>
+</div>
+<!-- =E pager -->
+<!-- =S infocont -->
+<div id="infocont" class="infocont">
+   		共 <span style="color: red"><b>10</b></span> 条信息，
+       <a href="http://post.58.com/2050/36/s5" target="_blank" class="pubbtn" rel="nofollow">马上发布一条香港二手手机信息&raquo;</a>
+</div>
+<!-- =E infocont -->
+<!-- =S RelatedSearch 相关搜索 -->
+<!-- =E RelatedSearch 相关搜索 -->
+<!--商业产品 广告-->
+<div id="bottom_zhaoshangjiameng_ad"></div>
+</div>
+<!-- =E infolist 左侧列表主体 -->
+<!-- =S rightframe 右侧广告   class="cright"  -->
+<div id="rightframe">
+<!--见面交易 E-->
+<div id="ad19"></div>
+</div>
+<!-- =E rightframe 右侧广告 -->
+</section>
+<!-- =E main -->
+<!-- =S 智能推广 -->
+<div id="direct_ad_bottom"></div>
+<!-- =E 智能推广 -->
+<!-- =S 底部广告 -->
+<div id="ad_b12"></div>
+<!-- =E 底部广告 -->
+<!-- =S #links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S relate 相关信息 -->
+<!-- =E relate 相关信息 -->
+<!-- =S relatelink -->
+<dl class="linksItem relatelink" id="relatelink">
+<dt class="b-left">
+<h2>
+    香港二手手机品牌导航
+</h2>
+</dt>
+<dd class="b-right">
+<dl id="relateSelect" class="relateSelect">
+<dt><span>HTC</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手htc evo 4g/" target="_blank">二手htc evo 4g</a>
+<a href="http://hk.58.com/shouji/jh_二手g11 htc/" target="_blank">二手g11 htc</a>
+<a href="http://hk.58.com/shouji/jh_二手htc evo 3d/" target="_blank">二手htc evo 3d</a>
+<a href="http://hk.58.com/shouji/jh_二手htc sync/" target="_blank">二手htc sync</a>
+<a href="http://hk.58.com/shouji/jh_二手htc g16/" target="_blank">二手htc g16</a>
+<a href="http://hk.58.com/shouji/jh_二手htc s710e/" target="_blank">二手htc s710e</a>
+<a href="http://hk.58.com/shouji/jh_二手htc evo design 4g/" target="_blank">二手htc evo design 4g</a>
+<a href="http://hk.58.com/shouji/jh_二手htc g2/" target="_blank">二手htc g2</a>
+<a href="http://hk.58.com/shouji/jh_二手htc desire s/" target="_blank">二手htc desire s</a>
+<a href="http://hk.58.com/shouji/jh_二手htc chacha/" target="_blank">二手htc chacha</a>
+<a href="http://hk.58.com/shouji/jh_二手htc sensation/" target="_blank">二手htc sensation</a>
+<a href="http://hk.58.com/shouji/jh_二手htc s510e/" target="_blank">二手htc s510e</a>
+<a href="http://hk.58.com/shouji/jh_二手htc sense/" target="_blank">二手htc sense</a>
+<a href="http://hk.58.com/shouji/jh_二手htc desire hd/" target="_blank">二手htc desire hd</a>
+<a href="http://hk.58.com/shouji/jh_二手htc desire/" target="_blank">二手htc desire</a>
+<a href="http://hk.58.com/shouji/jh_二手htc rezound/" target="_blank">二手htc rezound</a>
+<a href="http://hk.58.com/shouji/jh_二手htc g1/" target="_blank">二手htc g1</a>
+<a href="http://hk.58.com/shouji/jh_二手htc t9199/" target="_blank">二手htc t9199</a>
+</dd>
+<dt><span>LG</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手LG P970/" target="_blank">二手LG P970</a>
+<a href="http://hk.58.com/shouji/jh_二手LG LU6200/" target="_blank">二手LG LU6200</a>
+<a href="http://hk.58.com/shouji/jh_二手LG S310/" target="_blank">二手LG S310</a>
+<a href="http://hk.58.com/shouji/jh_二手LG P990/" target="_blank">二手LG P990</a>
+<a href="http://hk.58.com/shouji/jh_二手lg g2/" target="_blank">二手lg g2</a>
+<a href="http://hk.58.com/shouji/jh_二手lg ls970/" target="_blank">二手lg ls970</a>
+<a href="http://hk.58.com/shouji/jh_二手lg vs920/" target="_blank">二手lg vs920</a>
+<a href="http://hk.58.com/shouji/jh_二手lg e970/" target="_blank">二手lg e970</a>
+<a href="http://hk.58.com/shouji/jh_二手lg f160/" target="_blank">二手lg f160</a>
+<a href="http://hk.58.com/shouji/jh_二手lg手机/" target="_blank">二手lg手机</a>
+</dd>
+<dt><span>OPPO</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手OPPO A520 /" target="_blank">二手OPPO A520 </a>
+<a href="http://hk.58.com/shouji/jh_二手OPPO A100/" target="_blank">二手OPPO A100</a>
+<a href="http://hk.58.com/shouji/jh_二手OPPO U525/" target="_blank">二手OPPO U525</a>
+<a href="http://hk.58.com/shouji/jh_二手OPPO U529 /" target="_blank">二手OPPO U529 </a>
+<a href="http://hk.58.com/shouji/jh_二手OPPO A201/" target="_blank">二手OPPO A201</a>
+<a href="http://hk.58.com/shouji/jh_二手OPPO A115/" target="_blank">二手OPPO A115</a>
+</dd>
+<dt><span>三星</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手三星5320xm/" target="_blank">二手三星5320xm</a>
+<a href="http://hk.58.com/shouji/jh_二手三星i509/" target="_blank">二手三星i509</a>
+<a href="http://hk.58.com/shouji/jh_二手三星i9023/" target="_blank">二手三星i9023</a>
+<a href="http://hk.58.com/shouji/jh_二手三星9100/" target="_blank">二手三星9100</a>
+<a href="http://hk.58.com/shouji/jh_二手三星s5570/" target="_blank">二手三星s5570</a>
+<a href="http://hk.58.com/shouji/jh_二手三星p1000/" target="_blank">二手三星p1000</a>
+<a href="http://hk.58.com/shouji/jh_二手三星w899/" target="_blank">二手三星w899</a>
+<a href="http://hk.58.com/shouji/jh_二手三星s5830/" target="_blank">二手三星s5830</a>
+<a href="http://hk.58.com/shouji/jh_二手三星i9008l/" target="_blank">二手三星i9008l</a>
+<a href="http://hk.58.com/shouji/jh_二手三星s5660/" target="_blank">二手三星s5660</a>
+<a href="http://hk.58.com/shouji/jh_二手三星5570/" target="_blank">二手三星5570</a>
+<a href="http://hk.58.com/shouji/jh_二手三星i579/" target="_blank">二手三星i579</a>
+<a href="http://hk.58.com/shouji/jh_二手三星i9000/" target="_blank">二手三星i9000</a>
+<a href="http://hk.58.com/shouji/jh_二手三星i809/" target="_blank">二手三星i809</a>
+<a href="http://hk.58.com/shouji/jh_二手三星i9100g/" target="_blank">二手三星i9100g</a>
+<a href="http://hk.58.com/shouji/jh_二手三星5660/" target="_blank">二手三星5660</a>
+<a href="http://hk.58.com/shouji/jh_二手三星i9250/" target="_blank">二手三星i9250</a>
+<a href="http://hk.58.com/shouji/jh_二手三星s5230c/" target="_blank">二手三星s5230c</a>
+</dd>
+<dt><span>中兴</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手中兴V880/" target="_blank">二手中兴V880</a>
+<a href="http://hk.58.com/shouji/jh_二手中兴U960S/" target="_blank">二手中兴U960S</a>
+<a href="http://hk.58.com/shouji/jh_二手中兴S302/" target="_blank">二手中兴S302</a>
+<a href="http://hk.58.com/shouji/jh_二手中兴S202/" target="_blank">二手中兴S202</a>
+<a href="http://hk.58.com/shouji/jh_二手中兴N600/" target="_blank">二手中兴N600</a>
+<a href="http://hk.58.com/shouji/jh_二手中兴U830/" target="_blank">二手中兴U830</a>
+<a href="http://hk.58.com/shouji/jh_二手中兴N880S/" target="_blank">二手中兴N880S</a>
+</dd>
+<dt><span>夏普</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手夏普SH7218U/" target="_blank">二手夏普SH7218U</a>
+<a href="http://hk.58.com/shouji/jh_二手夏普SH9020C/" target="_blank">二手夏普SH9020C</a>
+<a href="http://hk.58.com/shouji/jh_二手夏普SH5010C/" target="_blank">二手夏普SH5010C</a>
+<a href="http://hk.58.com/shouji/jh_二手夏普V903SH/" target="_blank">二手夏普V903SH</a>
+<a href="http://hk.58.com/shouji/jh_二手夏普SH9110C/" target="_blank">二手夏普SH9110C</a>
+<a href="http://hk.58.com/shouji/jh_二手夏普SH7118C/" target="_blank">二手夏普SH7118C</a>
+<a href="http://hk.58.com/shouji/jh_二手夏普SH9010C/" target="_blank">二手夏普SH9010C</a>
+</dd>
+<dt><span>天语</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手天语S810/" target="_blank">二手天语S810</a>
+<a href="http://hk.58.com/shouji/jh_二手天语Q10/" target="_blank">二手天语Q10</a>
+<a href="http://hk.58.com/shouji/jh_二手天语X90/" target="_blank">二手天语X90</a>
+<a href="http://hk.58.com/shouji/jh_二手天语X9/" target="_blank">二手天语X9</a>
+<a href="http://hk.58.com/shouji/jh_二手天语M610/" target="_blank">二手天语M610</a>
+<a href="http://hk.58.com/shouji/jh_二手天语W700/" target="_blank">二手天语W700</a>
+<a href="http://hk.58.com/shouji/jh_二手天语W366/" target="_blank">二手天语W366</a>
+</dd>
+<dt><span>摩托罗拉</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉xt531/" target="_blank">二手摩托罗拉xt531</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉me865/" target="_blank">二手摩托罗拉me865</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉mb525/" target="_blank">二手摩托罗拉mb525</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉xt319/" target="_blank">二手摩托罗拉xt319</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉me525 defy/" target="_blank">二手摩托罗拉me525 defy</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉defy/" target="_blank">二手摩托罗拉defy</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉mb200/" target="_blank">二手摩托罗拉mb200</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉mt810/" target="_blank">二手摩托罗拉mt810</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉ex128/" target="_blank">二手摩托罗拉ex128</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉atrix 4g/" target="_blank">二手摩托罗拉atrix 4g</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉xt711/" target="_blank">二手摩托罗拉xt711</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉a1200/" target="_blank">二手摩托罗拉a1200</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉mt720/" target="_blank">二手摩托罗拉mt720</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉xt502/" target="_blank">二手摩托罗拉xt502</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉ex212/" target="_blank">二手摩托罗拉ex212</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉e6/" target="_blank">二手摩托罗拉e6</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉ex211/" target="_blank">二手摩托罗拉ex211</a>
+<a href="http://hk.58.com/shouji/jh_二手摩托罗拉v3/" target="_blank">二手摩托罗拉v3</a>
+</dd>
+<dt><span>步步高</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手步步高I518 /" target="_blank">二手步步高I518 </a>
+<a href="http://hk.58.com/shouji/jh_二手步步高i531 /" target="_blank">二手步步高i531 </a>
+<a href="http://hk.58.com/shouji/jh_二手步步高i508/" target="_blank">二手步步高i508</a>
+<a href="http://hk.58.com/shouji/jh_二手步步高V205/" target="_blank">二手步步高V205</a>
+<a href="http://hk.58.com/shouji/jh_二手步步高i606 /" target="_blank">二手步步高i606 </a>
+<a href="http://hk.58.com/shouji/jh_二手步步高i6/" target="_blank">二手步步高i6</a>
+<a href="http://hk.58.com/shouji/jh_二手步步高K203M/" target="_blank">二手步步高K203M</a>
+</dd>
+<dt><span>索爱</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手索爱mt15i/" target="_blank">二手索爱mt15i</a>
+<a href="http://hk.58.com/shouji/jh_二手索爱x8/" target="_blank">二手索爱x8</a>
+<a href="http://hk.58.com/shouji/jh_二手索爱st18i/" target="_blank">二手索爱st18i</a>
+<a href="http://hk.58.com/shouji/jh_二手索爱wt18i/" target="_blank">二手索爱wt18i</a>
+<a href="http://hk.58.com/shouji/jh_二手索爱u1/" target="_blank">二手索爱u1</a>
+<a href="http://hk.58.com/shouji/jh_二手索爱u5i/" target="_blank">二手索爱u5i</a>
+<a href="http://hk.58.com/shouji/jh_二手索爱e15i/" target="_blank">二手索爱e15i</a>
+</dd>
+<dt><span>联想</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手联想A500/" target="_blank">二手联想A500</a>
+<a href="http://hk.58.com/shouji/jh_二手联想S630/" target="_blank">二手联想S630</a>
+<a href="http://hk.58.com/shouji/jh_二手联想37AH0/" target="_blank">二手联想37AH0</a>
+<a href="http://hk.58.com/shouji/jh_二手联想S500/" target="_blank">二手联想S500</a>
+<a href="http://hk.58.com/shouji/jh_二手联想S800/" target="_blank">二手联想S800</a>
+<a href="http://hk.58.com/shouji/jh_二手联想A336/" target="_blank">二手联想A336</a>
+</dd>
+<dt><span>苹果</span></dt>
+<dd>
+<a href="http://hk.58.com/iphone4/" target="_blank">二手iphone4 </a>
+<a href="http://hk.58.com/iphone4s/" target="_blank">二手iphone4s </a>
+<a href="http://hk.58.com/iphone3gs/" target="_blank">二手iphone 3gs</a>
+<a href="http://hk.58.com/iphone3g/" target="_blank">二手iphone 3g</a>
+<a href="http://hk.58.com/iphone4s/" target="_blank">二手苹果4s </a>
+<a href="http://hk.58.com/iphonesj/" target="_blank">二手苹果手机</a>
+<a href="http://hk.58.com/shouji/jh_二手苹果3/" target="_blank">二手苹果3</a>
+</dd>
+<dt><span>诺基亚</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚5320xm/" target="_blank">二手诺基亚5320xm</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚c1-02/" target="_blank">二手诺基亚c1-02</a>
+<a href="http://hk.58.com/shouji/jh_诺基亚/" target="_blank">诺基亚</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚1100/" target="_blank">二手诺基亚1100</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚5000/" target="_blank">二手诺基亚5000</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚5238/" target="_blank">二手诺基亚5238</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚c5-04/" target="_blank">二手诺基亚c5-04</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚700/" target="_blank">二手诺基亚700</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚702t/" target="_blank">二手诺基亚702t</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚5235/" target="_blank">二手诺基亚5235</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚5800w/" target="_blank">二手诺基亚5800w</a>
+<a href="http://hk.58.com/nuojiyac503/" target="_blank">二手诺基亚c5-03</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚6120/" target="_blank">二手诺基亚6120</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚3208c/" target="_blank">二手诺基亚3208c</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚5700/" target="_blank">二手诺基亚5700</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚500/" target="_blank">二手诺基亚500</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚5233/" target="_blank">二手诺基亚5233</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚5236/" target="_blank">二手诺基亚5236</a>
+<a href="http://hk.58.com/shouji/jh_二手诺基亚c1-01/" target="_blank">二手诺基亚c1-01</a>
+</dd>
+<dt><span>金立</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手金立V109/" target="_blank">二手金立V109</a>
+<a href="http://hk.58.com/shouji/jh_二手金立A350/" target="_blank">二手金立A350</a>
+<a href="http://hk.58.com/shouji/jh_二手金立A320/" target="_blank">二手金立A320</a>
+<a href="http://hk.58.com/shouji/jh_二手金立GN205/" target="_blank">二手金立GN205</a>
+<a href="http://hk.58.com/shouji/jh_二手金立V303/" target="_blank">二手金立V303</a>
+<a href="http://hk.58.com/shouji/jh_二手金立M508/" target="_blank">二手金立M508</a>
+<a href="http://hk.58.com/shouji/jh_二手金立W100/" target="_blank">二手金立W100</a>
+</dd>
+<dt><span>飞利浦</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手飞利浦X100 /" target="_blank">二手飞利浦X100 </a>
+<a href="http://hk.58.com/shouji/jh_二手飞利浦X513 /" target="_blank">二手飞利浦X513 </a>
+<a href="http://hk.58.com/shouji/jh_二手飞利浦X216/" target="_blank">二手飞利浦X216</a>
+<a href="http://hk.58.com/shouji/jh_二手飞利浦D613/" target="_blank">二手飞利浦D613</a>
+<a href="http://hk.58.com/shouji/jh_二手飞利浦W727 /" target="_blank">二手飞利浦W727 </a>
+<a href="http://hk.58.com/shouji/jh_二手飞利浦X518/" target="_blank">二手飞利浦X518</a>
+<a href="http://hk.58.com/shouji/jh_二手飞利浦X622/" target="_blank">二手飞利浦X622</a>
+</dd>
+<dt><span>魅族</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手魅族m8 se/" target="_blank">二手魅族m8 se</a>
+<a href="http://hk.58.com/shouji/jh_二手魅族i509/" target="_blank">二手魅族i509</a>
+<a href="http://hk.58.com/shouji/jh_二手魅族m8 wifi/" target="_blank">二手魅族m8 wifi</a>
+<a href="http://hk.58.com/shouji/jh_二手魅族m9白色/" target="_blank">二手魅族m9白色</a>
+</dd>
+<dt><span>黑莓</span></dt>
+<dd>
+<a href="http://hk.58.com/shouji/jh_二手黑莓9900/" target="_blank">二手黑莓9900</a>
+<a href="http://hk.58.com/shouji/jh_二手黑莓9000/" target="_blank">二手黑莓9000</a>
+<a href="http://hk.58.com/shouji/jh_二手黑莓9530/" target="_blank">二手黑莓9530</a>
+<a href="http://hk.58.com/shouji/jh_二手黑莓9780/" target="_blank">二手黑莓9780</a>
+<a href="http://hk.58.com/shouji/jh_二手黑莓8310/" target="_blank">二手黑莓8310</a>
+<a href="http://hk.58.com/shouji/jh_二手黑莓8830/" target="_blank">二手黑莓8830</a>
+<a href="http://hk.58.com/shouji/jh_二手黑莓9800/" target="_blank">二手黑莓9800</a>
+</dd>
+</dl>
+</dd>
+</dl>
+<!-- =E relatelink -->
+<!-- =S friendtips -->
+<dl class="linksItem friendtips" id="friendtips">
+<dt class="b-left"><h2>香港二手手机转让频道介绍</h2></dt>
+<dd class="b-right"><p>香港二手手机频道为您提供香港二手手机转让/出售信息，在此有大量香港二手手机报价/图片/价格信息供您选择，您可以免费查看香港<a href="http://www.58.com/shoujijiagelist/" target="_blank">手机价格大全</a>并发布香港二手手机信息。亦可用手机便捷访问<a href="http://m.58.com/hk/shouji/" target="_blank">香港二手手机</a>信息。</p></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left"><h2>香港二手手机转让相关城市</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://sh.58.com/shouji/">上海二手手机</a></li>
+<li><a href="http://bj.58.com/shouji/">北京二手手机</a></li>
+<li><a href="http://sz.58.com/shouji/">深圳二手手机</a></li>
+<li><a href="http://gz.58.com/shouji/">广州二手手机</a></li>
+<li><a href="http://tj.58.com/shouji/">天津二手手机</a></li>
+<li><a href="http://nj.58.com/shouji/">南京二手手机</a></li>
+<li><a href="http://dl.58.com/shouji/">大连二手手机</a></li>
+<li><a href="http://hz.58.com/shouji/">杭州二手手机</a></li>
+<li><a href="http://sy.58.com/shouji/">沈阳二手手机</a></li>
+<li><a href="http://hrb.58.com/shouji/">哈尔滨二手手机</a></li>
+<li><a href="http://cd.58.com/shouji/">成都二手手机</a></li>
+<li><a href="http://dg.58.com/shouji/">东莞二手手机</a></li>
+<li><a href="http://jn.58.com/shouji/">济南二手手机</a></li>
+<li><a href="http://fs.58.com/shouji/">佛山二手手机</a></li>
+<li><a href="http://wx.58.com/shouji/">无锡二手手机</a></li>
+<li><a href="http://cs.58.com/shouji/">长沙二手手机</a></li>
+<li><a href="http://wh.58.com/shouji/">武汉二手手机</a></li>
+<li><a href="http://nb.58.com/shouji/">宁波二手手机</a></li>
+<li><a href="http://cc.58.com/shouji/">长春二手手机</a></li>
+<li><a href="http://su.58.com/shouji/">苏州二手手机</a></li>
+<li><a href="http://qd.58.com/shouji/">青岛二手手机</a></li>
+<li><a href="http://zh.58.com/shouji/">珠海二手手机</a></li>
+<li><a href="http://cq.58.com/shouji/">重庆二手手机</a></li>
+<li><a href="http://fz.58.com/shouji/">福州二手手机</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S 底部链接分类 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				香港二手手机相关分类			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a href="http://hk.58.com/shouji/">香港二手手机</a>
+</li>
+<li>
+<a href="http://hk.58.com/diannao/">香港二手电脑</a>
+</li>
+<li>
+<a href="http://hk.58.com/shuma/">香港二手数码产品</a>
+</li>
+<li>
+<a href="http://hk.58.com/jiadian/">香港二手家电</a>
+</li>
+<li>
+<a href="http://hk.58.com/ershoujiaju/">香港二手家具</a>
+</li>
+<li>
+<a href="http://hk.58.com/shoujihao/">
+香港手机号码转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/tongxunyw/">香港通讯业务</a>
+</li>
+<li>
+<a href="http://hk.58.com/yingyou/">香港母婴玩具转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/fushi/">香港服装箱包转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/meirong/">香港美容化妆品转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/tushu/">
+香港图书音像转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/bangong/">香港办公设备转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/ershoushebei/">香港二手设备</a>
+</li>
+<li>
+<a href="http://hk.58.com/yishu/">香港艺术收藏品转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/wenti/">香港户外体育用品转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/danche/">香港二手摩托车</a>
+</li>
+<li>
+<a href="http://hk.58.com/fzixingche/">香港二手自行车</a>
+</li>
+<li>
+<a href="http://hk.58.com/diandongche/">香港二手电动车</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 底部链接分类 -->
+<!-- =S 周边城市 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				香港二手手机周边城市
+			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a target="_blank" href="http://gz.58.com/shouji/">广州二手手机</a>
+</li>
+<li>
+<a target="_blank" href="http://zh.58.com/shouji/">珠海二手手机</a>
+</li>
+<li>
+<a target="_blank" href="http://dg.58.com/shouji/">东莞二手手机</a>
+</li>
+<li>
+<a target="_blank" href="http://st.58.com/shouji/">汕头二手手机</a>
+</li>
+<li>
+<a target="_blank" href="http://zs.58.com/shouji/">中山二手手机</a>
+</li>
+<li>
+<a target="_blank" href="http://huizhou.58.com/shouji/">惠州二手手机</a>
+</li>
+<li>
+<a target="_blank" href="http://jm.58.com/shouji/">江门二手手机</a>
+</li>
+<li>
+<a target="_blank" href="http://sg.58.com/shouji/">韶关二手手机</a>
+</li>
+<li>
+<a target="_blank" href="http://zhanjiang.58.com/shouji/">湛江二手手机</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 周边城市 -->
+<!-- =S friendlink -->
+<dl class="linksItem friendlink" id="friendlink">
+<dt class="b-left">
+<h2>友情链接</h2></dt>
+<dd class="b-right"><a href="http://www.58.com/xiaomisjzmy/" target="_blank">小米手机怎么样</a>&nbsp;  <a href="/link.html" target="_blank">更多...</a></dd>
+</dl>
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!-- =S 筛选保存个数 -->
+<ul id="localInfo" class="lso-hide" style="left: 1198.5px; top: 578px;">
+<li class="item"><a class="item-left" href="http://bj.58.com/dongcheng/shouji/pve_5595_300242/?v=1">东城二手手机300万像素</a><a class="off-button" href="#localInfo"></a></li>
+</ul>
+<!-- =E 筛选保存个数 -->
+<!-- =S 辨真假 by yjc -->
+<div class="manhua">
+<img src="http://pic2.58.com/ui7/ershou/list/manhua.jpg" />
+<span></span>
+<a href="http://static.58.com/ui7/help/safesj.shtml?from=list-left-safesj" target="_blank" oncilck="clcikLog('from=list-left-safesj');"></a>
+</div>
+<!-- =E -->
+<script type="text/javascript">
+    var hasXiaobao = ""
+</script>
+<!-- =S topbar -->
+<script type="text/javascript">boot.require('business.topbar', function (Frame, topbar) {
+    topbar.init();
+});</script>
+<!-- =E topbar -->
+<script type="text/javascript">
+    $("#searchtree .selectbar1 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+
+    $("#searchtree .selectbar2 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+</script>
+<!-- =E 搜索结果 -->
+<!-- =S 搜索框事件 by yjc -->
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#keyword1").keydown(function () {
+            $("#keyword1").attr("style", "color: rgb(0, 0, 0);"); //黑色
+        });
+    });
+
+    function searchword_filter() {
+        if ($("#keyword1").attr("value") == "输入类别或关键字") {
+            $("#keyword1").attr("style", "color: rgb(153, 153, 153);"); //灰色
+            //$("#keyword1").focus(); $("#keyword1").select();
+            return false;
+        }
+
+        return true;
+    }
+</script>
+<!-- =E -->
+<!-- =S tabsbar及cookie(presentation)相关 by yjc -->
+<script>
+    function setCookie(name, value, iDay) {
+        var oDate = new Date();
+
+        oDate.setDate(oDate.getDate() + iDay);
+
+        document.cookie = name + "=" + value + ";expires=" + oDate;
+    }
+
+    function getCookie(name) {
+        var arr = document.cookie.split("; ");
+        var i = 0;
+        for (i = 0; i &lt; arr.length; i++) {
+            var arr2 = arr[i].split('=');
+            if (arr2[0] == name) {
+                return arr2[1];
+            }
+        }
+        return '';
+    }
+    (function () {
+        var cookieName = getCookie("presentation");
+        var bFalse = false;
+        var xgtjxinghao = "false";
+        var xgtjtese = "false";
+        var xgtjzk = "false";
+        if (cookieName) {
+            return false;
+        }
+        var presentation = "";
+        if ($("div[name='pinpai'] .select").length &gt;= 1 &amp;&amp; $(".tabsbar a").length &gt; 1 &amp;&amp; xgtjxinghao == "true") {
+            presentation = $("div[name='pinpai'] .select").html();
+            bFalse = true;
+        }
+        if ($("dd[name='xinghao'] .select").length &gt;= 1 &amp;&amp; $(".tabsbar a").length &gt; 1 &amp;&amp; xgtjzk == "true") {
+            presentation = $("div[name='pinpai'] .select").html() + " " + $("dd[name='xinghao'] .select").html();
+            bFalse = true;
+        }
+        if ($("dd[name='tese'] .select").length &gt;= 1 &amp;&amp; xgtjtese == "true") {
+            presentation = $("dd[name='tese'] .select").html();
+            bFalse = true;
+        }
+        if (bFalse == true) {
+		    document.getElementById('es-tg').style.display = 'none';
+            $("#tabsbar").css('display', "block");
+            $("#tabsbar span").html("Hi，这些是“" + presentation + "”中大家比较关注的，看看吧！");
+            $("#tabsbar .close").click(function () {
+                $("#tabsbar").css('display', "none");
+                setCookie("presentation", 1);
+            });
+        }
+    })();
+</script>
+<!-- =E -->
+<!-- =S 北京二手手机品牌导航 by yjc -->
+<script>
+    var alldt = $("#relateSelect&gt;dt");
+    function showNear(dt) {
+        alldt.each(function () {
+            if (this == dt) {
+                $(this).next("dd").show();
+                $(this).addClass("select");
+            }
+            else {
+                $(this).next("dd").hide();
+                $(this).removeClass("select");
+            }
+        });
+    }
+    alldt.each(function () {
+        $(this).click(function () {
+            showNear(this);
+        }).hover(function () {
+                    showNear(this);
+                });
+    });
+    showNear(alldt[0]);
+</script>
+<!-- =E -->
+<script type="text/javascript">
+    boot.require('util.uri', function (Frame, uri) {
+        var mutexs_par = "".substring(0, 1);
+        var re = new RegExp(mutexs_par + '\\d+', 'ig')
+        mutexs = [
+            {searchitem: re, params: ["minprice"], searthname: '价格'}
+        ];
+        for (var i = 0, leni = mutexs.length; i &lt; leni; i++) {
+            var mutex = mutexs[i];
+            var pobj = {};
+            for (var j = 0, lenj = mutex.params.length; j &lt; lenj; j++) {
+                pobj[mutex.params[j]] = null;
+            }
+            for (var l = 0, lenl = mutex.params.length; l &lt; lenl; l++) {
+                var pitem = $("#selection&gt;.secitem dt:contains(" + mutex.searthname + ")").parent();
+                pitem.find("a").each(function () {
+                    var o = {};
+                    o[mutex.params] = null;
+                    this.href = (new uri(this.href)).setQuery(o);
+                });
+            }
+        }
+    });
+</script>
+<script>
+    //信息hover
+    boot.require('dom, anim.hover', function (Frame, dom, hover) {
+        var isPersonal = false;
+        var cc;
+        if (isPersonal) {
+            cc = dom.get('hoverinfo');
+        }
+        else {
+            cc = dom.get('infolist');
+        }
+        trs = cc.getElementsByTagName('tr');
+        Frame.each(trs, function (item) {
+            hover.bind(item, 'bg');
+        });
+    });
+
+    $(".selector").each(function () {
+        $(this).hover(function () {
+            $(this).addClass("hover")
+        }, function () {
+            $(this).removeClass("hover")
+        });
+    });
+    ////导航
+    var navs = [];
+    navs.push(['香港58同城', 'http://hk.58.com/sou/']);
+    navs.push(['香港二手市场', '/sale.shtml']);
+            navs.push(['香港二手手机信息', '/shouji/']);
+                    boot.require('business.navbar', function (Frame, navbar) {
+        navbar.init(navs);
+    });
+    ///////标红////
+    boot.require('business.highlight', function (Frame, highlight) {
+                        highlight.init($("#infolist a.t"), '');
+            });
+</script>
+<script type="text/javascript">document.write("&lt;sc"+"ript src='http://track.58.com/adsys/ggafs?r="+Math.random()+"'&gt;&lt;/scri"+"pt&gt;");</script>
+<div style="display:none">
+<!--基本统计代码begin(5,0)--by:zhanghao06-->
+<script type="text/javascript">
+____json4fe.supplycount = {level1:'0', level2:'0', level3:'0',  level4:'40', level5:'0', sortid: '452900028'};
+var _gaq = _gaq || [], site_name = "58", post_count = "13", page_type = "list";
+ _trackURL = "{'cate':'5,36','area':'2050','pagetype':'list','pagesize':'50','pagenum':'1','jiage':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+boot.require('business.gaq, util.js', function (Frame, gaq, js) {
+	_gaq.push(['pageTracker._trackPageview', gaq("sale", "/hk/sale/shouji/list/")]);
+	_gaq.push(['pageTracker._trackPageLoadTime']);
+	Frame.init(function () {
+		js.append(('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+		js.append('http://tracklog.58.com/referrer4.js');
+	});
+});
+</script>
+<!--基本统计代码end-->
+</div>
+<script type="text/javascript">
+    var keyword = "";
+    if (keyword != "") {
+        var hrefStr = "http://pingjia.house.58.com/feedback/feedback/sousuo?zq_url=" + document.location.href + "&amp;zq_antistop=" + keyword;
+        $("#searchResult").attr("src", encodeURI(hrefStr));
+    }
+</script>
+<!-- =S js相关性推荐功能-->
+<script id="bojScript">
+//jquery-cookie、json
+
+(function () {  //非消保隐藏热门推荐
+    var hasXiaobaoInfo = "";
+    if (hasXiaobaoInfo != "true") {
+        $('#SearchForm').css('border-bottom', '0px');
+        return;
+    }
+})();
+
+function shoujiList_flash_callback() {
+    var hasXiaobaoInfo = "";
+    if (hasXiaobaoInfo == false) {
+        $('#SearchForm').css('border-bottom', '0px');
+        return;
+    }
+    var flash = get_flash("myFlash");
+    if (!flash) {
+        return;
+    }
+    var json = flash.readCookie();
+    if (!json) {
+        flash.writeCookie('{}')
+    }
+    var ls = $.evalJSON(json);
+    if (!ls.browse) {
+        ls.browse = [];
+    }
+    if (!ls.place) {
+        ls.place = [];
+    }
+	/**
+    if (ls.place.length &gt; 0) {   //展示最近浏览商圈逻辑
+        $('#shangquan').css('display', 'block');
+        shangquan(ls.place);
+    }
+    if (ls.place.length == 1) {
+        $('.recent_view_m').css('display', 'none');
+        $('#shangquan a:first').attr('class', 'recent_show');
+        $('#shangquan a:first').css('background', 'none');
+    }
+    else if (ls.place.length &gt;= 1) {
+        var Timer = null;
+        $('.recent_view_m').css('display', 'none');
+        $('#shangquan a:first').attr('class', 'recent_show');
+        $('#shangquan a').mouseover(function () {
+            clearTimeout(Timer);
+            $('.recent_view_m').css('display', 'block');
+            $('#shangquan a:first').attr('class', 'recent_show_up');
+        });
+        $('#shangquan a').mouseout(function () {
+            Timer = setTimeout(function () {
+                $('.recent_view_m').css('display', 'none');
+                $('#shangquan a:first').attr('class', 'recent_show');
+            }, 200);
+        });
+    }
+	**/
+    if ($("dd[name='xinghao'] .select").length &gt;= 1 &amp;&amp; $("dd[name='xinghao'] .select").html() != '全部') // 选中手机型号记录cookie:browse
+    {
+        var title = $("div[name='pinpai'] .select").html();
+        var title_A = $("dd[name='xinghao'] .select").html();
+        var _url = window.location.href;
+        var attr = {title: title, title_A: title_A, url: _url};
+        show(ls, attr, 0, 6);
+    }
+	/**
+    if ($("div[name='diqu_xian'] .select").length == 1) // 选中商圈区域记录cookie:place
+    {
+        var quyu_xian = $("div[name='diqu_xian'] .select").html();
+        var _url = window.location.href;
+        var attr = {title: quyu_xian, title_A: quyu_xian, url: _url};
+        show(ls, attr, 1, 4);
+    }
+	**/
+    AjaxBrowse(ls.browse);
+}
+function AjaxBrowse(Browse) {
+    if ($("dd[name='xinghao'] .select").length &gt;= 1 &amp;&amp; $("dd[name='xinghao'] .select").html() != "全部") {
+        var title = escape(escape($("div[name='pinpai'] .select").html()));
+        var title_A = $("dd[name='xinghao'] .select").html();
+        window.callbackC = function (data)  //同价位手机推荐
+        {
+            showData(data, 'tuijianB');
+        }
+        window.callbackD = function (data)  //手机最终购买:
+        {
+            showData(data, 'tuijianA');
+        }
+
+        Ajax('http://ershoutuijian.58.com/inferController/samePriceNewType?type=type_list_price&amp;brandcaseid=' + title + '&amp;typecaseid=' + title_A);
+        Ajax('http://ershoutuijian.58.com/inferController/finaBuyNewType?type=type_list_browse&amp;brandcaseid=' + title + '&amp;typecaseid=' + title_A);
+    }
+    else if ($("div[name='pinpai'] .select").length &gt;= 1 &amp;&amp; $("div[name='pinpai'] .select").html() == "全部") {
+        window.callbackE = function (data)  //热门推荐
+        {
+            //showJson(data,'tuijianA');
+        }
+        window.callbackF = function (data)  //最近浏览
+        {
+            showJson(data, 'tuijianB');
+        }
+
+        Ajax('http://ershoutuijian.58.com/inferController/hotInfer?type=type_list_hot');
+        if (Browse.length &gt; 1) {
+            Ajax('http://ershoutuijian.58.com/inferController/record?type=type_list_browserecord&amp;sentTiltes=' + encodeURI(encodeURI($.toJSONString(Browse))));
+        }
+    } else {
+        $('#SearchForm').css('border-bottom', '0px');
+    }
+    function Ajax(srcXiaoliu) {
+        var objScript = document.getElementById('bojScript');
+        var oScript = document.createElement("script");
+        var strCityurl = "shouji";
+        var city = "hk"
+        var url = srcXiaoliu + '&amp;category=0,5,36&amp;cityurl=' + city + '&amp;brandid=1229&amp;typeid=5463';
+        oScript.setAttribute('src', url);
+        document.body.appendChild(oScript);
+    }
+}
+
+function showJson(json, obj) {
+    if (json.length &gt; 1) {
+        var jsonhtml = '';
+        if (obj == "tuijianA") {
+            $('#tuijianA').css('display', 'block');
+            jsonhtml = "&lt;dt&gt;热门机型 ：&lt;/dt&gt;";
+
+            for (var i = 0; i &lt; json.length; i++) {
+                jsonhtml += '&lt;dd&gt;&lt;a href="' + json[i].jumpurl + '" place="list_hot" index="' + i + '"&gt;' + json[i].picture + '&lt;/a&gt;&lt;span&gt;（二手价￥' + json[i].averageprice + '）&lt;/span&gt;&lt;/dd&gt;';
+            }
+        } else {
+            $('#tuijianB').css('display', 'block');
+            jsonhtml = "&lt;dt&gt;最近浏览 ：&lt;/dt&gt;";
+            for (var i = 0; i &lt; json.length; i++) {
+                jsonhtml += '&lt;dd&gt;&lt;a infodex="1" href="' + json[i].jumpurl + '" place="list_browserec" index="' + i + '"&gt;' + json[i].picture + '&lt;/a&gt;&lt;span&gt;（二手价￥' + json[i].averageprice + '）&lt;/span&gt;&lt;/dd&gt;';
+            }
+        }
+        $('#' + obj).html(jsonhtml);
+        $('#tuijianC dt').css("width", "70");
+        $('#' + obj + " dt").css("width", "70");
+        editCell(obj);
+    }
+    if ($('#tuijianA').css('display') == "none" &amp;&amp; $('#tuijianB').css('display') == "none") {
+        $('#SearchForm').css('border-bottom', '0px');
+    }
+}
+function showData(json, obj) {
+    if (json.length &gt; 1) {
+        var jsonhtml = '';
+        if (obj == "tuijianA") {
+            $('#tuijianA').css('display', 'block');
+            jsonhtml = "&lt;dt&gt;浏览此手机还关注了 ：&lt;/dt&gt;";
+
+            for (var i = 0; i &lt; json.length; i++) {
+                jsonhtml += '&lt;dd&gt;&lt;a infodex="2" href="' + json[i].jumpurl + '" place="list_browse" index="' + i + '"&gt;' + json[i].picture + '&lt;/a&gt;&lt;span&gt;（' + json[i].averageprice + '买了）&lt;/span&gt;&lt;/dd&gt;';
+            }
+        } else {
+            $('#tuijianB').css('display', 'block');
+            jsonhtml = "&lt;dt&gt;同价位手机 ：&lt;/dt&gt;";
+            for (var i = 0; i &lt; json.length; i++) {
+                jsonhtml += '&lt;dd&gt;&lt;a infodex="3" href="' + json[i].jumpurl + '" place="list_price" index="' + i + '"&gt;' + json[i].picture + '&lt;/a&gt;&lt;span&gt;（二手价￥' + json[i].averageprice + '）&lt;/span&gt;&lt;/dd&gt;';
+            }
+        }
+        $('#' + obj).html(jsonhtml);
+        editCell(obj);
+    }
+    if ($('#tuijianA').css('display') == "none" &amp;&amp; $('#tuijianB').css('display') == "none") {
+        $('#SearchForm').css('border-bottom', '0px');
+    }
+}
+
+function shangquan(json)  //  展示最近浏览商圈cookie记录
+{
+    var shangquanTxte = "";
+    if (json.length &gt; 0) {
+        $('#shangquan').html('&lt;span class="recent_span"&gt;|&nbsp;&nbsp;&lt;i class="recent_view"&gt;&lt;/i&gt;&nbsp;最近浏览：&lt;/span&gt;&lt;a href="' + json[0].url + '" place="list_distictrec"&gt;' + json[0].title + '&lt;/a&gt;&lt;div class="recent_view_m"&gt;&lt;/div&gt;');
+    }
+    if (json.length &gt; 1) {
+        $(json).each(function (e, n) {
+            //$('#shangquan a:eq('+e+')').attr('href',json[e].url);
+            //$('#shangquan a:eq('+e+')').attr('place','"list_distictrec"');
+            //$('#shangquan a:eq('+e+')').html(json[e].title);
+            if (e &gt; 0) {
+                shangquanTxte += '&lt;a href="' + json[e].url + '" place="list_distictrec"&gt;' + json[e].title + '&lt;/a&gt;'
+            }
+        });
+    }
+    $('.recent_view_m').html(shangquanTxte);
+    editCellSQ('shangquan');
+}
+;
+
+function show(ls, attr, index, jsonLength)  //  记录flashCookie
+{
+    var flash = get_flash("myFlash");
+    var ls_obj = null;
+
+    if (index == 0) {
+        ls_obj = ls.browse;
+    }
+    else if (index == 1) {
+        ls_obj = ls.place;
+    } else {
+        return;
+    }
+    if (ls_obj.length == 0) {
+        ls_obj.splice(0, 0, attr);
+        flash.writeCookie($.toJSONString(ls))
+    } else {
+        if (ls_obj.length &gt;= jsonLength) {
+            ls_obj.length = jsonLength;
+        }
+        for (var i = 0; i &lt; ls_obj.length; i++) {
+            if (ls_obj[i].title_A == attr.title_A) {
+                attr = ls_obj.splice(i, 1)[0];
+            }
+        }
+        ls_obj.splice(0, 0, attr);
+        flash.writeCookie($.toJSONString(ls))
+    }
+}
+function getEventTarget(ev) {
+    var oEvent = ev || event;
+    if (oEvent.target) {
+        return oEvent.target
+    }
+    else {
+        return oEvent.srcElement;
+    }
+}
+function editCell(o) {
+    var obj = document.getElementById(o);
+    var pn = 0;
+    var rebrandid = "";
+    var typeCase = '';
+    var typeid = "";
+    var brandid = "";
+    var cate = '5,36';
+    var city = '2050';
+    var showtype = "show";
+    var logCase = "";
+    if ($("div[name='pinpai'] .select").html() != '全部') {
+        typeid = $("dd[name='xinghao'] .select").html();
+        brandid = $("div[name='pinpai'] .select").html();
+    }
+    obj.onclick = function (e) {
+        var goal = getEventTarget(e);
+        if (goal.tagName.toLowerCase() == "a") {
+            pn = goal.getAttribute('index');
+            typeCase = goal.getAttribute('place');
+            rebrandid = goal.innerHTML;
+
+            showtype = "click";
+            logCase = "place=" + typeCase + "&pn;=" + pn + "&cate;=" + cate + "&city;=" + city + "&rebrandid;=" + rebrandid + "&typeid;=" + typeid + "&brandid;=" + brandid + "&showtype;=" + showtype;
+
+            clickLog(logCase)
+        }
+    };
+    if (obj.style.display == 'block' &amp;&amp; obj.innerHTML != "") {
+        typeCase = obj.getElementsByTagName('a')[0].getAttribute('place');
+        logCase = "place=" + typeCase + "&pn;=" + pn + "&cate;=" + cate + "&city;=" + city + "&rebrandid;=" + rebrandid + "&typeid;=" + typeid + "&brandid;=" + brandid + "&showtype;=" + showtype;
+
+        setTimeout(function () {
+            clickLog(logCase);
+        }, 1000);
+    }
+
+}
+function editCellSQ(o) {
+    var obj = document.getElementById(o);
+    var rebrandid = "";
+    var typeCase = '';
+    var typeid = "";
+    var brandid = "";
+    var cate = '5,36';
+    var city = '2050';
+    var showtype = "show";
+    var logCase = "";
+    if ($(obj).css('display') == 'block' &amp;&amp; $(obj).html() != "") {
+        typeCase = obj.getElementsByTagName("a")[0].getAttribute('place');
+        logCase = "place=" + typeCase + "&cate;=" + cate + "&city;=" + city + "&showtype;=" + showtype;
+        setTimeout(function () {
+            clickLog(logCase);
+        }, 2000);
+    }
+    obj.onclick = function (e) {
+        var goal = getEventTarget(e);
+        if (goal.tagName.toLowerCase() == "a") {
+            typeCase = goal.getAttribute('place');
+            showtype = "click";
+        }
+        logCase = "place=" + typeCase + "&cate;=" + cate + "&city;=" + city + "&showtype;=" + showtype;
+
+        clickLog(logCase)
+    };
+}
+var timerAAA=null;
+if ($(".tabsbar a").length &gt; 1) {
+	timerAAA=setInterval(function(){
+		if(window.clickLog){
+			editCellTabs("xgtjtab");
+			clearInterval(timerAAA);
+		}
+	}, 1000);
+}
+function editCellTabs(o) {
+    var obj = document.getElementById(o);
+    var showtype = "show";
+    var logCase = name;
+    var cate = '5,36';
+    var city = '2050';
+    var typeCase = '';
+    var pn = 0;
+    var retypeid = "";
+    obj.onclick = function (e) {
+        var goal = getEventTarget(e);
+        if (goal.tagName.toLowerCase("font") &amp;&amp; goal.parentNode.tagName.toLowerCase() == "a") {
+            pn = goal.parentNode.getAttribute('index');
+            retypeid = goal.innerHTML;
+            showtype = "click";
+        }
+        if (goal.tagName.toLowerCase("span") &amp;&amp; goal.parentNode.tagName.toLowerCase() == "a") {
+            pn = goal.parentNode.getAttribute('index');
+            retypeid = goal.parentNode.getElementsByTagName("font")[0].innerHTML;
+            showtype = "click";
+        }
+        if (goal.tagName.toLowerCase("span") &amp;&amp; goal.parentNode.parentNode.tagName.toLowerCase() == "a") {
+            pn = goal.parentNode.parentNode.getAttribute('index');
+            retypeid = goal.parentNode.parentNode.getElementsByTagName("font")[0].innerHTML;
+            showtype = "click";
+        }
+        logCase = "place=type_list_hottype&pn;=" + pn + "&cate;=" + cate + "&city;=" + city + "&retypeid;=" + retypeid + "&rebrandid;=name&typeid;=name&brandid;=name&showtype;=" + showtype;
+        clickLog(logCase);
+    };
+    logCase = "place=type_list_hottype&pn;=" + pn + "&cate;=" + cate + "&city;=" + city + "&retypeid;=" + retypeid + "&rebrandid;=name&typeid;=name&brandid;=name&showtype;=" + showtype;
+   
+	clickLog(logCase);
+
+}
+window.onload=function ()
+{
+    $(".secitem_70 a").click(function(i,n){
+		if($(this).attr("infoDex") == 1)
+		{
+			_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/shouji/zuijinliulan/']);
+		}else if($(this).attr("infoDex") == 2)
+		{
+			_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/shouji/haiguanzhule/']);
+		
+		}else if($(this).attr("infoDex") == 3)
+		{
+			_gaq.push(['pageTracker._trackEvent', 'list', ' filter_click', '/sale/shouji/tongjiawei/']);
+		}
+	});
+};
+
+
+
+</script>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" name="myTest" align="middle">
+<param name="allowScriptAccess" value="always">
+</param><param name="movie" value="http://list.house.58.com/kanfangdan.swf">
+</param><param name="quality" value="high">
+<embed src="http://list.house.58.com/kanfangdan.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true" allowscriptaccess="always"></embed>
+</param></object>
+<!-- =E js相关性推荐功能-->
+<!--漫画专题页入口-->
+<script>		
+	$(window).resize(function(){
+		if($(document.body).width()&lt;1200){
+			$(".manhua").hide();
+		}else{
+			$(".manhua").show();
+		}
+	});
+	$(function (){
+		$(".manhua span").click(function (){
+		$(".manhua").hide();
+		});
+	});
+</script>
+</body>
+</html>

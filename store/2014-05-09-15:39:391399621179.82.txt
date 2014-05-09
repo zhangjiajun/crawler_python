@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中国航空科技工业股份有限公司2014年最新招聘信 - 58同城</title>
+<meta name="keywords" content="中国航空科技工业股份有限公司" />
+<meta name="description" content="中国航空科技工业股份有限公司（简称中航科工或中航科）于2003年4月30日在中国北京正式注册成立，注册资本46亿元人民币。2003年10月30日，中航科工在香港联交所主板上市。 中国航空" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript"> 
+	function changeClass(){
+		var parentName = document.getElementById("pname").value;
+		var allLi = document.getElementsByName("pli");
+		if(typeof(allLi)!=='undefined'){
+			for(i=0;i&lt;allLi.length;i++){
+				var li = allLi[i];
+				var liVal = li.firstChild.firstChild.innerHTML;
+				if(liVal===parentName){
+					var attr = document.createAttribute("class");
+         	attr.value="active";
+         	li.setAttributeNode(attr);
+					break;
+				}
+			}		
+		}
+	}
+</script>
+<body>
+<!-- Baidu Button BEGIN 
+&lt;script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;pos=right&amp;uid=6862043" &gt;&lt;/script&gt;
+&lt;script type="text/javascript" id="bdshell_js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+var bds_config={"bdTop":140};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+&lt;/script&gt;
+ Baidu Button END -->
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left"><h2></h2> <span id="ipconfig"></span></div>
+<div class="bar_right">
+<div id="login"><a rel="nofollow" target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">登录</a><span class="gap">|</span><a rel="nofollow" target="_self" href="https://passport.58.com/reg/">注册</a></div>
+</div></div></div>
+<div id="header">
+<div id="headerinside"><div id="logo"><a target="_blank" href="http://58.com/"><img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" /></a><span>中国500强企业</span></div>
+<span><a rel="nofollow" style="background: url(http://pic2.58.com/ui6/index/newbg.png) no-repeat scroll 0 -147px transparent;color: #FFFFFF;cursor: pointer;display: inline-block;float: left;font-size: 14px;font-weight: bold;height: 34px;line-height: 34px;position: absolute;right: 10px;text-align: center;top: 11px;width: 117px;" target="_blank" href="http://post.58.com/1/">免费发布信息</a></span></div>
+</div>
+<div id="nav" class="active">
+<div id="navin" class="active">
+<ul>
+<li><a href="/qiye/">首页</a></li>
+<li name="pli" id="pli"><a href="/qiyezixun/"><span>企业最新资讯</span></a></li>
+<li name="pli" id="pli"><a href="/qiyewenhua/"><span>企业文化</span></a></li>
+<li name="pli" id="pli"><a href="/qiyezhaopin/"><span>企业招聘指南</span></a></li>
+<li name="pli" id="pli"><a href="/top500/"><span>世界500强企业</span></a></li>
+<li name="pli" id="pli"><a href="/china500/"><span>中国500强企业</span></a></li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="企业百科" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input name="word" size="21" maxlength="100" type="text" placeholder="58生活资讯" onfocus="if(this.placeholder=='58生活资讯'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='58生活资讯';}" />
+<input type="submit" value="资讯搜索" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+</div>
+</div>
+<script type="text/javascript">changeClass();</script>
+<div class="content ej">
+<div class="box">
+<div class="left fl">
+<div><a rel="nofollow" href="http://zp.58.com/yy/2014spring/" target="_blank"><img style="border:none;" src="http://www.58.com/zp_images/allimg/131128/yjsguanggao.jpg" alt="58招聘季" /></a></div>
+<h2><span class="daohang"><a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/qiye/">企业百科</a> &gt; <a href="/china500/">中国500强企业</a> &gt; </span></h2>
+<div class="wenzhang">
+<h1>中国航空科技工业股份有限公司2014年最新招聘信</h1>
+<div class="sm">来源：58.com     2013-10-30 14:51 </div>
+<table cellpadding="0" cellspacing="0" width="100%" id="content">
+<tr><td>
+<p>中国航空科技工业股份有限公司（简称&ldquo;中航科工&rdquo;或&ldquo;中航科&rdquo;）于2003年4月30日在中国北京正式注册成立，注册资本46亿元人民币。2003年10月30日，中航科工在香港联交所主板上市。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国航空科技工业股份有限公司主要股东为中国航空工业集团公司、欧洲宇航防务集团(EADS)、中国华融资产管理公司、中国信达资产管理公司、中国东方资产管理公司。中航科工总资产约200亿元人民币，总股本49.49亿股，H股股数20.14亿股。欧洲宇航防务集团(EADS)是中航科工的战略合作伙伴，持有中航科工股份总数的5.03%。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;中国航空科技工业股份有限公司的主要航空产品包括各种类型的直升机、支线飞机、教练机、通用飞机、飞机零部件和航空机电产品。直升机有：直-8系列、直-9系列、直-11系列、H425、HC120。与欧洲直升机公司合作生产EC120系列直升机，与意大利阿古斯特公司合资生产CA109系列直升机以及与美国西科斯基公司合作生产S-92系列直升机零部件。中航科工亦是中国领先的教练机与通用飞机制造商。产品有：L-15高级教练机、K-8系列教练机、CJ-6初级教练机、Y-12系列运输机以及N-5型农林飞机。主要研发生产基地在哈尔滨、南昌、景德镇。中航科工与世界一流的航空产品制造商有广泛的合作，与空客公司合资的项目有：空客A320系列飞机天津总装线项目（投资额占中方投资的20%）、哈尔滨哈飞空客复合材料制造中心有限公司（中航科工合计拥有20%的股权）。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;中国航空科技工业股份有限公司主要经营范围：直升机、支线飞机、教练机、通用飞机、飞机零部件、航空电子产品、其它航空产品的设计、研究、开发、生产和销售；汽车、汽车发动机、变速器、汽车零部件的设计、研究、开发、生产；汽车（不含小轿车）的销售；汽车、飞机、机械电子设备的租赁；医药包装机械、纺织机械、食品加工机械及其它机械及机电设备的设计、开发、生产、销售；上述产品的安装调试、维修及其它售后服务；实业项目的投资及经营管理；自营和代理各类商品和技术的进出口（国家限定公司经营或禁止进出口的商品和技术除外）业务。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;中国航空科技工业股份有限公司目前注册资金640亿元人民币，具有完整的航空工业科研、生产、营销、服务产业链，技术和人才优势处于国内领先地位，总资产规模3000多亿元。2008年实现总收入1660亿元人民币。中航工业的发展战略是&ldquo;两融、三新、五化、万亿&rdquo;，&ldquo;两融&rdquo;即融入世界航空产业链，融入区域发展经济圈；&ldquo;三新&rdquo;即打造品牌价值、创新商业模式、形成集成网络；&ldquo;五化&rdquo;即推进市场化改革、专业化整合、资本化运作、国际化开拓、产业化发展；&ldquo;万亿&rdquo;，努力挑战 2020年经济规模一万亿元人民币的奋斗目标。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国航空科技工业股份有限公司的目标是在中航工业的鼎力支持下，通过国际合作不断强化技术和管理；通过国际化资本运作不断扩大资本实力，提高市值规模，将公司打造成中航工业全价值链民用航空产品制造业务的旗舰公司和中航工业国际化融资并购平台。中国航空科技工业股份有限公司秉承&ldquo;敬业诚信，创新超越&rdquo;的理念，不断完善管控模式，加强管理，规范运作，提高效益，回报股东，回报社会。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;中国航空科技工业股份有限公司旗下企业：<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>哈航集团<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哈尔滨航空工业(集团)有限公司（简称：哈航集团）位于黑龙江省哈尔滨市。主要从事通用飞机及直升机的制造及销售。主要产品有Z9、H425系列民用直升机、HCl20（EC120）直升机、Y12系列轻型多用途飞机、航空复合材料零部件和转包国外航空产品大部件等系列产品，是波音、空客等国际知名航空企业的部件供应商，是国家重要的航空骨干企业。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>哈飞股份<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 哈飞航空工业股份有限公司（简称：哈飞股份）位于黑龙江省哈尔滨市。成立于1999年，2000年在上海证券交易所上市（股票简称：哈飞股份，股票代码：600038）。主要从事航空产品（包括零部件）的开发、设计、制造及销售。主要产品有Z9、H425系列民用直升机、HCl20（EC120）直升机、Y12系列轻型多用途飞机、航空复合材料零部件和转包国外航空产品大部件等系列产品。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>昌河航空<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 江西昌河航空工业有限公司(简称：昌河航空)位于江西省景德镇市，主要从事直升机的制造及销售。主要产品有直8、直11系列直升机及其他转包生产产品。直8运输型直升机是我国也是亚洲目前最大吨位的多用途直升机，直11型机是我国第一个自行研制，拥有自主知识产权的两吨级通用型直升机。公司与美国西科斯基公司、意大利阿古斯特公司、欧洲直升机公司等国外知名企业都开展了广泛的技术合作，与美国西科斯基公司合作生产的S-92型直升机尾斜梁已形成批量生产能力。2005年9月19日，与意大利阿古斯特公司共同投资成立的江西昌河阿古斯特直升机有限公司。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>洪都航空<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 江西洪都航空工业股份有限公司（简称：洪都航空）位于江西省南昌市。成立于1999年，2000年在上海证券交易所上市（股票简称：洪都航空，股票代码：600316）。主要从事教练机、通用飞机及其他航空产品（包括零部件）的设计、开发、制造及销售。主要产品K8系列喷气教练机、初教六螺旋桨教练机已远销亚洲、非洲和美洲等多个国家和地区，在国际市场上享有较高的知名度。该公司是我国教练机、农林飞机科研、生产基地和航空外贸的主要出口基地之一。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>中航电子<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中航航空电子设备股份有限公司（简称：中航电子）位于江西省景德镇市。前身为江西昌河汽车股份有限公司，于2001年在上海证券交易所上市（股票简称：ST昌河，股票代码：600372）。主要从事航空机电成品及附件制造。下属：上海航空电器有限公司、兰州万里航空机电有限责任公司。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>上航电器<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上海航空电器有限公司（简称：上航电器）位于上海。创建于1954年，是承担国家航空电器、电子产品研制、生产的专业化重点企业。公司主要为航空、航天、舰船、坦克、轨道交通等领域提供照明系统、告警系统、操控板组件及调光系统（CPA）、智能配电等四大类系统产品，并已被广泛应用于国家多个重点型号上。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>兰航机电<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 兰州万里航空机电有限责任公司(简称：兰航机电)位于甘肃省兰州市。创建于1956年。2008年改制更名为&ldquo;兰州万里航空机电有限责任公司&rdquo;。主营业务为：航空航天专用电机电器、电动机构、机载计算机的开发和制造，以及工业缝纫机械、食品机械、电动代步车及轮椅车等业务。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>中航凯天<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 成都凯天电子股份有限公司(简称：中航凯天)位于四川省成都市。于2008年经国资委批准改制变更为股份有限公司。主要从事大气数据采集及测量系统及相关专业航空仪器仪表之研究、制造及销售，是飞机大气数据系统、飞机集成数据系统、仪表及传感器、无线数据传输系统研发与制造的航空机载设备骨干企业。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>中航兰飞<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 兰州飞行控制有限责任公司（简称：中航兰飞）位于甘肃省兰州市。1956年成立，是我国第一座自动驾驶仪研制和生产企业。于2003年重组为有限责任公司。主要从事航空自动控制器件及仪表之研究、制造及销售。</p>
+<p>更多精彩文章推荐：</p>
+<p><a href="http://www.58.com/china500/20131031318947.html">浙江东方集团股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031318946.html">中粮地产股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031318942.html">信义玻璃控股有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031318941.html">合生创展集团有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131031318940.html">上海紫江企业集团股份有限公司</a></p>
+</td></tr>
+</table>
+<div class="n_p">
+<!-- 百度分享 横向 kong 2013.11.26 -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+<a class="bds_qzone"></a>
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+<span class="bds_more">更多</span>
+<a class="shareCount"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script><br /><br />
+<!-- 百度分享 横向 kong 2013.11.26 -->
+                上一篇：<a href="/china500/20131030314821.html">超威动力控股有限公司2014年最新招聘信息</a> <br />
+
+
+
+                    下一篇：<a href="/china500/20131030314877.html">上海美特斯邦威服饰股份有限公司2014年最新招聘</a>
+<center><tr><td>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span>
+</td></tr></center>
+</div>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt>
+<strong>热门职位推荐</strong>
+</dt>
+<dd class="hotpList">
+<a href="/yewu/">销售</a>
+<a href="/bianji/">编辑</a>
+<a href="/wenziluru/">文员</a>
+<a href="/sheji/">平面设计</a>
+<a href="/jiaoshi/">教师</a>
+<a href="/yiliao/">医生</a>
+<a href="/waimaozhuanyuan/">外贸专员</a>
+<a href="/kefu/">客服</a>
+<a href="/caiwu/">会计</a>
+<a href="/qiantai/">前台</a>
+<a href="/wangzhanmeigong/">网页制作</a>
+<a href="/youerjiaoshi/">幼教</a>
+<a href="/hushi/">护士</a>
+<a href="/shichang/">市场公关</a>
+<a href="/dyao/">导游</a>
+<a href="/fanyizhaopin/">翻译</a>
+<a href="/zhaopinjingli/">人事专员</a>
+<a href="/jishuzhichi/">技术支持</a>
+<a href="/jypeixunshi/">培训师</a>
+<a href="/lfawurenyuan/">法务专员</a>
+<a href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+<!--   相关资讯   -->
+<div class="n_p">
+<h3 class="about">中国航空科技工业股份有限公司2014年最新招聘信相关推荐</h3>
+<div class="ul2">
+<ul>
+<li><span>02-20</span><a href="/china500/20140220628352.html" title="" target="_self">上海隧道工程股份有限公司招聘</a></li>
+<li><span>02-20</span><a href="/china500/20140220628349.html" title="" target="_self">上海隧道工程股份有限公司怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628347.html" title="" target="_self">平顶山煤业集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628346.html" title="" target="_self">平顶山天安煤业</a></li>
+<li><span>02-20</span><a href="/china500/20140220628341.html" title="" target="_self">东部华侨城招聘信息</a></li>
+<li><span>02-20</span><a href="/china500/20140220628340.html" title="" target="_self">深圳华侨城集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628339.html" title="" target="_self">百度理财怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628337.html" title="" target="_self">百度公司地址</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<!--   相关资讯   -->
+</div>
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>栏目推荐</h2>
+<div class="tuijian"><a class="y5" href="/china500/20131107347109.html">2013中国企业500强排行榜</a><a class="y1" href="/qiyezixun/">企业最新资讯</a><a class="y4" href="/qiyezhaopin/">企业招聘信息</a><a class="y3" href="/qiyefazhan/">企业发展</a><a class="y2" href="/qiyewenhua/">企业文化</a><a class="y5" href="/qiyerenwu/">企业热点人物</a></div>
+</div>
+<div class="hot fl">
+<h2>58同城官方微信二维码</h2>
+<ul class="j">
+<a target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" height="220" width="220" src="http://www.58.com/zp_images/allimg/131014/qrcode_for_gh_e21b1c81eaab_258.jpg" /> </a>
+<li>功能：职位订阅 精准推送 </li>
+<li>公众号：58同城</li>
+<li>微信号：amazing58</li>
+<li>提示：打开微信，点击底部菜单</li>
+<li>"发现"，选择"扫一扫"功能对准上</li>
+<li>方二维码即可关注。</li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热点排行</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029296813.html" target="_blank">百丽国际控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297213.html" target="_blank">tcl多媒体科技控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297435.html" target="_blank">恒逸石化股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297612.html" target="_blank">天音通信控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297838.html" target="_blank">中海集装箱运输股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297959.html" target="_blank">芜湖港储运股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029300672.html" target="_blank">内蒙古伊泰煤炭股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301113.html" target="_blank">中航国际控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301281.html" target="_blank">山西西山煤电股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029302414.html" target="_blank">玖龙纸业(控股)有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>推荐阅读</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029303151.html" target="_blank">中国大冶有色金属矿业有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029303672.html" target="_blank">远洋地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304067.html" target="_blank">世茂房地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304254.html" target="_blank">上海国际港务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029306451.html" target="_blank">湖南有色金属股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309731.html" target="_blank">创维数码控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309992.html" target="_blank">永辉超市股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310044.html" target="_blank">中国船舶工业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310177.html" target="_blank">国投电力控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273084.html" target="_blank">荣盛石化股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>精彩专区</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131025273301.html" target="_blank">一汽轿车股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273513.html" target="_blank">中海油田服务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275447.html" target="_blank">深圳华侨城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275560.html" target="_blank">平顶山天安煤业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276242.html" target="_blank">国电科技环保集团股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276774.html" target="_blank">中国雨润食品集团有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293347.html" target="_blank">阳煤化工股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293999.html" target="_blank">安阳钢铁股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295331.html" target="_blank">上海豫园旅游商城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295574.html" target="_blank">山西潞安环保能源开发股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"><a href="/qiyezixun/">企业最新资讯</a>  |  <a href="/qiyewenhua/">企业文化</a>  |  <a href="/qiyefazhan/">企业发展</a>  |<a href="/qiyezhaopin/">企业招聘信息</a>|  <a href="/qiyerenwu/">企业热点人物</a></p>
+<div id="flink"><strong>友情链接</strong>:<a target="_blank" href="http://bj.kuche.com/"></a> <a rel="nofollow" target="_blank" href="/link.html">更多...</a> </div>
+<div id="footer">© 58.com <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">帮助中心</a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffef543bf67b8f904475a9ebf319ee80d' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+	var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info/qiye'+mod+'/detail/';
+
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+</body>
+</html>

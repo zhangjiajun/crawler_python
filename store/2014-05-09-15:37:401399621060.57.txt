@@ -1,0 +1,526 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>旅游景点大全|旅游景点介绍 - 58同城</title>
+<link href="http://static.58.com/ds/v1/base.css" rel="stylesheet" type="text/css" />
+<link href="http://static.58.com/lvxing/css/dstopbar.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://static.58.com/lvxing/css/ly-top.css" type="text/css" />
+<link rel="stylesheet" href="http://static.58.com/lvxing/css/dl_lx.css" type="text/css" />
+<script type="text/javascript" src="http://static.58.com/ui6/yp/dalei/js/jquery-1.7.1.min.js"></script>
+<link rel="stylesheet" href="http://static.58.com/ui6/lx/new_mdd.css" type="text/css" />
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.4&amp;ak="></script>
+<script src="http://static.58.com/bangbang/website/swfobject.js"></script>
+<script type="text/javascript">
+		function onloadHandler()
+		{		
+			var swfVersionStr = "10.2.0";
+			var xiSwfUrlStr = "";
+			var flashvars = {configXml: "http://static.58.com/ecom/jingdian/map/config/chinaData.xml"};
+			var params = {};
+			params.allowscriptaccess = "always";
+			params.allowfullscreen = "false";
+			params.wmode= "opaque";
+			var attributes = {};
+			attributes.id = "Main";
+			attributes.name = "Main";
+			attributes.align = "middle";
+			swfobject.embedSWF(
+			"http://static.58.com/ecom/jingdian/map/Main.swf", "altContent", 
+			"835", "359", 
+			swfVersionStr, xiSwfUrlStr, 
+			flashvars, params, attributes);
+		}
+</script>
+</head>
+<body>
+<!-- topbar -->
+<!-- =S topbar -->
+<div id="dstopbar">
+<div class="w pos">
+<div id="navlist"><ul><li><a href="http://wap.58.com/wap.html" rel="nofollow"><i class="phone"></i>手机客户端</a><span class="gap">|</span></li><li><a href="http://bangbang.58.com/?source=64" title="58同城刷帖工具，商家免费营销利器！" rel="nofollow">58帮帮</a><span class="gap">|</span></li><li><a class="on" href="http://wan.58.com/?utm_source=58.com_home_top" rel="nofollow">游戏中心</a></li></ul></div>
+<div class="bar_right">
+<div id="login">
+<a target="_self" id="denglu" href="" rel="nofollow">登录</a>
+<span class="gap">|</span>
+<a target="_self" href="https://passport.58.com/reg/" rel="nofollow">注册</a>
+</div>
+<div class="haschild" id="my58menu" onmouseover="$(this).addClass('hover')" onmouseout="$(this).removeClass('hover')">
+<a href="http://my.58.com/" target="_self" id="tomy58" rel="nofollow">我的58</a>
+<span class="arrow"></span>
+<div id="loginbox" class="hc">
+<a href="http://my.58.com/index/" id="tomypost" rel="nofollow">我的发布</a>
+<a href="http://my.58.com/buyordermgr/" id="tomytrade" rel="nofollow">买家交易</a>
+<a href="http://my.58.com/saleordermgr/" id="tomytrade" rel="nofollow">个人卖家</a>
+<a href="http://vip.shop.58.com/my/" id="tomyshop" rel="nofollow">我的店铺</a>
+<a href="http://my.58.com/zhaopinqiuzhi/" id="tozhaopinqiuzhi" rel="nofollow">招聘/简历</a>
+</div>
+</div>
+<div class="haschild" id="sitemap" onmouseover="$(this).addClass('hover')" onmouseout="$(this).removeClass('hover')">
+				导航<span class="arrow"></span>
+<div class="hc" id="sitemapBox"><div class="maplist"><ul class="maplist01">
+<li class="nline"><h3 class="nmt"><a href="http://hk.58.com/house.shtml" rel="nofollow">房产</a></h3><a href="http://hk.58.com/zufang/" rel="nofollow">租房</a><a href="http://hk.58.com/ershoufang/" rel="nofollow">二手房</a><a href="http://hk.58.com/shangpu/" rel="nofollow">商铺</a><a href="http://hk.58.com/zhaozu/" rel="nofollow">写字楼</a><h3><a href="http://hk.58.com/sale.shtml" rel="nofollow">二手</a></h3><a href="http://hk.58.com/shouji/" rel="nofollow">手机</a><a href="http://hk.58.com/bijiben/" rel="nofollow">笔记本</a><a href="http://hk.58.com/ershoujiaju/" rel="nofollow">家具</a><a href="http://hk.58.com/jiadian/" rel="nofollow">家电</a><h3><a href="http://hk.58.com/piaowu.shtml" rel="nofollow">票务</a></h3><a href="http://hk.58.com/piao/" rel="nofollow">演出票</a><a href="http://hk.58.com/dianyingpiao/" rel="nofollow">电影票</a></li>
+<li><h3 class="noa nmt">招聘</h3><a href="http://hk.58.com/job.shtml" rel="nofollow">全职</a><a href="http://hk.58.com/jianzhi.shtml" rel="nofollow">兼职</a><a href="http://hk.58.com/searchjob.shtml" rel="nofollow">简历库</a><h3><a href="http://hk.58.com/car.shtml" rel="nofollow">车辆买卖</a></h3><a href="http://hk.58.com/ershouche/" rel="nofollow">二手车</a><a href="http://hk.58.com/danche/" rel="nofollow">摩托车</a><a href="http://hk.58.com/zixingche/" rel="nofollow">自行车 </a><a href="http://hk.58.com/pinche/" rel="nofollow">拼车</a><h3><a href="http://hk.58.com/huangye/" rel="nofollow">商街</a></h3><p><a href="http://hk.58.com/shenghuo.shtml" rel="nofollow">家政 </a><a href="http://hk.58.com/hunjiehunqing.shtml" rel="nofollow">婚庆</a><a href="http://hk.58.com/zhuangxiujc.shtml" rel="nofollow">装修</a><a href="http://hk.58.com/shangwu.shtml" rel="nofollow">商务</a><a href="http://hk.58.com/xiuxianyl.shtml" rel="nofollow">休闲</a><a href="http://hk.58.com/canyin.shtml" rel="nofollow">餐饮</a></p></li>
+<li><h3 class="noa nmt">其它</h3><a href="http://t.58.com/hk/?utm_source=58.com_homeheader" rel="nofollow">团购<i class="tg_h"></i></a><a href="http://lvxing.58.com/" rel="nofollow">旅游<i class="ly_n"></i></a><a href="http://hk.58.com/pets.shtml" rel="nofollow">宠物</a><a href="http://jiaoyou.58.com/" rel="nofollow">交友</a><a href="http://wan.58.com/?utm_source=58.com_daohang" rel="nofollow">游戏</a><a href="http://wap.58.com/wap.html" rel="nofollow">无线</a><a href="http://apply.vip.58.com/" rel="nofollow">网邻通</a><a href="http://static.58.com/ui7/help/index.html" rel="nofollow">消费者保障<i class="xb_n"></i></a><a href="http://bangbang.58.com/?source=11" title="58同城刷帖工具，商家免费营销利器！" rel="nofollow">58帮帮 </a><a href="http://about.58.com/" rel="nofollow">帮助中心</a><a href="http://about.58.com/yinsibaohu.html" rel="nofollow">隐私保护</a></li></ul></div><i class="shadow"></i></div>
+</div>
+</div>
+</div>
+<script src="http://static.58.com/bangbang/webim2/interface.js"></script>
+<script type="text/javascript">
+	var IM_ON=true;
+	var IM_TYPE='lvyouxiuxian,';
+	&lt;!--
+		function GetCookieValue(name) {    
+		    var arr = document.cookie.match(new RegExp(name + "=([^&amp;;]+)"));    
+		    if (arr != null) return decodeURI(arr[1]);    
+		    else return "";
+		} 
+		$(document).ready(function() {
+			var url=window.location.href;
+			if(url.indexOf('?')&gt;-1)
+				url=url.substring(0,url.indexOf('?'));
+			var dl="https://passport.58.com/login/?path="+escape(url)+"&amp;pts="+new Date().getTime();
+			$("#denglu").attr('href',dl);
+			var str = GetCookieValue("UserName");
+			if(str){
+							   str='&lt;a href="http://hk.58.com/"&gt;58同城首页&lt;/a&gt;&lt;span class="gap"&gt;|&lt;/span&gt;'+str;
+	            			str=str+'&lt;a target="_self" style="margin-left: 10px" href="https://passport.58.com/logout?path='+escape(url)+'&amp;back=now"&gt;退出&lt;/a&gt;';
+							$("#dstopbar").find("#login").html(str);
+						}
+			var uid=GetCookieValue("UserID");
+			var sitekey=GetCookieValue("SiteKey");
+			if(uid==""){IM_Init(" ",IM_TYPE);}
+			else{IM_Init(uid+";"+sitekey,IM_TYPE);}
+		});
+	//--&gt;
+	</script>
+</div>
+<!-- =E topbar -->
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".haschild").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+		$(".sec-time span").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+		$(".prifilter span").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+		$(".prifilter span").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+		$(".header-search input").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+		$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+		$(".filterRange").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+		$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	});
+	</script>
+<!-- =S header -->
+<div id="header">
+<a target="_blank" id="logo" href="http://hk.58.com/">58同城</a><a id="logotxt"><span>旅行</span></a>
+</div>
+<!-- =E header -->
+<div id="ad_mdlbdb" class="tuibox_top_ad"> </div>
+<!-- =S nav -->
+<div id="nav">
+<div class="nav-c">
+<ul>
+<li><a href="http://hk.58.com/lvyouxiuxian.shtml" target="_top">首页</a></li>
+<li><a href="http://hk.58.com/zhoubianyou/" target="_top">周边游</a></li>
+<li><a href="http://hk.58.com/lvyouxianlu/" target="_top">国内游</a></li>
+<li><a href="http://hk.58.com/guojilvyou/" target="_top">出境游</a></li>
+<li class="cur"><a href="http://lvxing.58.com/" target="_top">目的地</a></li>
+<li><a href="http://hk.58.com/lvyou/" target="_top">旅行社</a></li>
+<li><a href="http://kezhan.58.com/hk" target="_blank">短租日租</a></li>
+<li><a href="http://hk.58.com/zuche/" target="_blank">租车</a></li>
+</ul>
+</div>
+</div>
+<!-- =E nav -->
+<div class="md_main">
+<div class="cg_map">
+<div class="map_nav">
+<ul>
+<li><a class="nav_a">当季推荐</a>
+<div class="nav_1" style="display: none;">
+<p>当季推荐</p>
+<div class="cs"> <a href="http://lvxing.58.com/hanguo/">韩国</a><a href="http://xm.58.com/jingdian/gulangyu/">鼓浪屿</a><a href="http://lj.58.com/jingdian/">丽江</a><a href="http://gz.58.com/lvxing/">广州</a><a href="http://sanya.58.com/lvxing/">三亚</a><a href="http://hrb.58.com/lvxing/">哈尔滨</a><a href="http://sh.58.com/lvxing/">上海</a><a href="http://lvxing.58.com/beihaidao/">北海道</a><a href="http://hk.58.com/lvxing/">香港</a><a href="http://lvxing.58.com/jingdian/jizhoudao/">济州岛</a><a href="http://lvxing.58.com/taiguo/">泰国</a> </div>
+</div>
+</li>
+<li><a class="nav_a">西南</a>
+<div class="nav_1" style="display: none;">
+<p>西南</p>
+<div class="cs"> <a href="http://lasa.58.com/lvxing/">拉萨</a><a href="http://lj.58.com/jingdian/">丽江</a><a href="http://cd.58.com/lvxing/">成都</a><a href="http://ab.58.com/jingdian/jiuzhaigou/">九寨沟</a><a href="http://bn.58.com/lvxing/">西双版纳</a><a href="http://qdn.58.com/lvxing/">黔东南</a><a href="http://cq.58.com/lvxing/">重庆</a><a href="http://lvxing.58.com/xianggelila/">香格里拉</a><a href="http://lvxing.58.com/daocheng/">稻城</a> </div>
+</div>
+</li>
+<li><a class="nav_a">西北</a>
+<div class="nav_1" style="display: none;">
+<p>西北</p>
+<div class="cs"> <a href="http://xa.58.com/lvxing/">西安</a><a href="http://lvxing.58.com/jingdian/qinghaihu/">青海湖</a><a href="http://lvxing.58.com/dunhuang/">敦煌</a><a href="http://yinchuan.58.com/lvxing/">银川</a><a href="http://xj.58.com/lvxing/">乌鲁木齐</a><a href="http://gn.58.com/jingdian/">甘南</a><a href="http://lvxing.58.com/jingdian/kanasi/">喀纳斯</a><a href="http://yili.58.com/lvxing/">伊犁</a> </div>
+</div>
+</li>
+<li><a class="nav_a">华东</a>
+<div class="nav_1" style="display: none;">
+<p>华东</p>
+<div class="cs"> <a href="http://xm.58.com/lvxing/">厦门</a><a href="http://hz.58.com/lvxing/">杭州</a><a href="http://sh.58.com/lvxing/">上海</a><a href="http://jx.58.com/jingdian/xitang/">西塘</a><a href="http://su.58.com/lvxing/">苏州</a><a href="http://qd.58.com/lvxing/">青岛</a><a href="http://nj.58.com/lvxing/">南京</a><a href="http://wx.58.com/lvxing/">无锡</a><a href="http://yz.58.com/lvxing/">扬州</a><a href="http://jx.58.com/jingdian/wuzhen/">乌镇</a> </div>
+</div>
+</li>
+<li><a class="nav_a">华南</a>
+<div class="nav_1" style="display: none;">
+<p>华南</p>
+<div class="cs"> <a href="http://sanya.58.com/lvxing/">三亚</a><a href="http://gl.58.com/lvxing/">桂林</a><a href="http://gz.58.com/lvxing/">广州</a><a href="http://sz.58.com/lvxing/">深圳</a><a href="http://bh.58.com/jingdian/">北海</a><a href="http://haikou.58.com/lvxing/">海口</a><a href="http://nn.58.com/lvxing/">南宁</a><a href="http://zh.58.com/lvxing/">珠海</a><a href="http://lvxing.58.com/yangshuo/">阳朔</a> </div>
+</div>
+</li>
+<li><a class="nav_a">华北</a>
+<div class="nav_1" style="display: none;">
+<p>华北</p>
+<div class="cs"> <a href="http://bj.58.com/lvxing/">北京</a><a href="http://tj.58.com/lvxing/">天津</a><a href="http://qhd.58.com/lvxing/">秦皇岛</a><a href="http://lvxing.58.com/jingdian/wutaishan/">五台山</a><a href="http://chengde.58.com/lvxing/">承德</a><a href="http://jz.58.com/jingdian/pingyao/">平遥</a><a href="http://ts.58.com/lvxing/">唐山</a><a href="http://dt.58.com/lvxing/">大同</a> </div>
+</div>
+</li>
+<li><a class="nav_a">东北</a>
+<div class="nav_1" style="display: none;">
+<p>东北</p>
+<div class="cs"> <a href="http://hrb.58.com/lvxing/">哈尔滨</a><a href="http://jl.58.com/jingdian/zhangbaishan/">长白山</a><a href="http://dl.58.com/lvxing/">大连</a><a href="http://sy.58.com/lvxing/">沈阳</a><a href="http://mdj.58.com/lvxing/">牡丹江</a><a href="http://lvxing.58.com/mohe/">漠河</a><a href="http://hlbe.58.com/lvxing/">呼伦贝尔</a> </div>
+</div>
+</li>
+<li><a class="nav_a">港澳台</a>
+<div class="nav_1" style="display: none;">
+<p>港澳台</p>
+<div class="cs"> <a href="http://hk.58.com/lvxing/">香港</a><a href="http://am.58.com/lvxing/">澳门</a><a href="http://lvxing.58.com/taibei/">台北</a><a href="http://lvxing.58.com/kending/">垦丁</a><a href="http://lvxing.58.com/jingdian/alishan/">阿里山</a><a href="http://lvxing.58.com/tainan/">台南</a><a href="http://lvxing.58.com/taizhong/">台中</a> </div>
+</div>
+</li>
+<li><a class="nav_a a_end">国外</a>
+<div class="nav_1" style="display: none;">
+<p>国外</p>
+<div class="cs"> <a href="http://lvxing.58.com/meiguo/">美国</a><a href="http://lvxing.58.com/taiguo/">泰国</a><a href="http://lvxing.58.com/hanguo/">韩国</a><a href="http://lvxing.58.com/faguo/">法国</a><a href="http://lvxing.58.com/jingdian/balidao/">巴厘岛</a><a href="http://lvxing.58.com/riben/">日本</a><a href="http://lvxing.58.com/helan/">荷兰</a><a href="http://lvxing.58.com/feizhou/">非洲</a><a href="http://lvxing.58.com/yuenan/">越南</a><a href="http://lvxing.58.com/xinjiapo/">新加坡</a> </div>
+</div>
+</li></ul>
+</div>
+<script type="text/javascript">
+        	(function (){
+        		$('.nav_a').bind('mouseenter',function(){
+        			$('.nav_1').hide();
+        			$(this).parent().children('.nav_1').show();	
+       		 	});
+        		$('.nav_a').bind('mouseleave',function(){
+        			$('.nav_1').hide();
+       		 	});
+        		$('.nav_1').bind('mouseenter',function(){
+        			$(this).show();
+        		});
+        		$('.nav_1').bind('mouseleave',function(){
+        			$('.nav_1').hide();
+        		});
+        		
+        	}()); 
+        </script>
+<div class="map_flash">
+<div id="altContent" style="z-index: -1">
+<p><a href="http://www.adobe.com/go/getflashplayer">Get Adobe Flash player</a></p>
+</div>
+<script type="text/javascript">
+			onloadHandler();	
+		  </script>
+</div>
+</div>
+<div class="clear"></div>
+<div class="jd_column">
+<p class="r_bt"><b>当季国内景点</b></p>
+<div class="lyjd">
+<div class="jd_left">
+<div class="jd_px">
+<p class="jd_01"><a href="http://bj.58.com/lvxing/"><img src="http://img1.58.com/lvyou/jingdian/n_s12043361628164196155_300_194.jpg" width="300px" height="194px" />
+<span class="s_z"><img src="http://pic2.58.com/ui6/lx/c_jd_img_01.png" /><b>北京</b>表面上它是现代大都会,但内心却有抹不去的古朴和怀旧。闲庭信步在逐渐少去的胡同里,走进那热气腾腾的涮肉店,那才是真正的北京。</span>
+<span class="s_b"></span></a></p>
+<ul class="jd_02">
+<li><a href="http://xm.58.com/lvxing/"><b>厦门</b>厦门适合无主题的城市徒步，路旁群...</a><span><i class="i_icon"></i><em>9078</em></span></li>
+<li><a href="http://gz.58.com/lvxing/"><b>广州</b>铺天盖地的粤语、大街小巷的鲜花、...</a><span><i class="i_icon"></i><em>2786</em></span></li>
+<li><a href="http://cd.58.com/lvxing/"><b>成都</b>一座来了就不想走的城市，一个让时...</a><span><i class="i_icon"></i><em>4874</em></span></li>
+<li><a href="http://tj.58.com/lvxing/"><b>天津</b>海河之畔的一颗渤海明珠，这座中国...</a><span><i class="i_icon"></i><em>3353</em></span></li>
+</ul>
+</div>
+<div class="clear"></div>
+<div class="qtjd">
+<ul>
+<li>
+<i><a href="http://lvxing.58.com/yunnan/">[云南]</a></i>
+<a href="http://lj.58.com/jingdian/">丽江</a></li>
+<li>
+<i><a href="http://hainan.58.com/lvxing/">[海南]</a></i>
+<a href="http://sanya.58.com/lvxing/">三亚</a></li>
+<li>
+<i><a href="http://xm.58.com/lvxing/">[厦门]</a></i>
+<a href="http://xm.58.com/jingdian/gulangyu/">鼓浪屿</a></li>
+<li>
+<i><a href="http://lvxing.58.com/zhongguo/">[中国]</a></i>
+<a href="http://hk.58.com/lvxing/">香港</a></li>
+<li>
+<i><a href="http://lvxing.58.com/guangxi/">[广西]</a></i>
+<a href="http://gl.58.com/lvxing/">桂林</a></li>
+<li>
+<i><a href="http://jx.58.com/lvxing/">[嘉兴]</a></i>
+<a href="http://jx.58.com/jingdian/wuzhen/">乌镇</a></li>
+<li>
+<i><a href="http://lvxing.58.com/zhongguo/">[中国]</a></i>
+<a href="http://cq.58.com/lvxing/">重庆</a></li>
+<li>
+<i><a href="http://lvxing.58.com/heilongjiang/">[黑龙江]</a></i>
+<a href="http://hrb.58.com/lvxing/">哈尔滨</a></li>
+<li>
+<i><a href="http://lvxing.58.com/yunnan/">[云南]</a></i>
+<a href="http://dali.58.com/lvxing/">大理</a></li>
+<li>
+<i><a href="http://lvxing.58.com/liaoning/">[辽宁]</a></i>
+<a href="http://sy.58.com/lvxing/">沈阳</a></li>
+<li>
+<i><a href="http://ab.58.com/lvxing/">[阿坝]</a></i>
+<a href="http://ab.58.com/jingdian/jiuzhaigou/">九寨沟</a></li>
+<li>
+<i><a href="http://xiangxi.58.com/lvxing/">[湘西]</a></i>
+<a href="http://xiangxi.58.com/jingdian/fenghuang/">凤凰</a></li>
+<li>
+<i><a href="http://gl.58.com/lvxing/">[桂林]</a></i>
+<a href="http://lvxing.58.com/yangshuo/">阳朔</a></li>
+<li>
+<i><a href="http://jl.58.com/lvxing/">[吉林]</a></i>
+<a href="http://jl.58.com/jingdian/zhangbaishan/">长白山</a></li>
+<li>
+<i><a href="http://jl.58.com/lvxing/">[吉林]</a></i>
+<a href="http://cc.58.com/lvxing/">长春</a></li>
+<li>
+<i><a href="http://lvxing.58.com/zhongguo/">[中国]</a></i>
+<a href="http://am.58.com/lvxing/">澳门</a></li>
+<li>
+<i><a href="http://lvxing.58.com/xizang/">[西藏]</a></i>
+<a href="http://lasa.58.com/lvxing/">拉萨</a></li>
+<li>
+<i><a href="http://tw.58.com/lvxing/">[台湾]</a></i>
+<a href="http://lvxing.58.com/taibei/">台北</a></li>
+<li>
+<i><a href="http://mdj.58.com/lvxing/">[牡丹江]</a></i>
+<a href="http://mdj.58.com/jingdian/xuexiang/">雪乡</a></li>
+<li>
+<i><a href="http://lvxing.58.com/jilinshi/">[吉林市]</a></i>
+<a href="http://lvxing.58.com/jingdian/wusongdao/">雾凇岛</a></li>
+</ul>
+</div>
+</div>
+<div class="youji">
+<p>热门国内旅游线路</p>
+<dl><dt><a href="http://hk.58.com/guojilvyou/17575980306435x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p2/tiny/n_s12212446960681516004.jpg" /></a><i class="i_y1"></i></dt>
+<dd><span><a href="http://hk.58.com/guojilvyou/17575980306435x.shtml" target="_blank">西峡谷-玻璃桥一天游</a></span>
+<span>价格：535元</span></dd></dl>
+<ul>
+<li><a href="http://hk.58.com/guojilvyou/17575953358979x.shtml" target="_blank">黄石公园四天团盐湖城进出</a></li>
+<li><a href="http://hk.58.com/guojilvyou/17575929195399x.shtml" target="_blank">黃石公園、總統巨石 丹佛進 / 鹽湖城 出五天四夜(夏季行程)</a></li>
+<li><a href="http://hk.58.com/guojilvyou/13219109566209x.shtml" target="_blank">香港租车一天遊 香港包车 香港机场租车 香港租商務车</a></li>
+<li><a href="http://hk.58.com/guojilvyou/16691515214729x.shtml" target="_blank">美国黄石公园冬季美景五天四夜豪華游[冬季首推]</a></li>
+<li><a href="http://hk.58.com/guojilvyou/16691469610632x.shtml" target="_blank">黄石公园冬季美景六天五夜特惠遊</a></li>
+<li><a href="http://hk.58.com/guojilvyou/16691432402049x.shtml" target="_blank">美国黄石公园冬季五天四夜VIP游(零自費純玩团)</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="jd_column">
+<p class="r_bt"><b>当季境外景点</b></p>
+<div class="lyjd">
+<!-- jingwai -->
+<div class="jd_left">
+<div class="jd_px">
+<p class="jd_01"><a href="http://lvxing.58.com/mangu/"><img src="http://img3.58.com/lvyou/jingdian/n_s02043357108982298155_300_194.jpg" width="300px" height="194px" />
+<span class="s_z"><img src="http://pic2.58.com/ui6/lx/c_jd_img_01.png" /><b>曼谷</b>泰国的“佛教之都”，融合东西方文化、包罗万有的“天使之城”。</span>
+<span class="s_b"></span></a></p>
+<ul class="jd_02">
+<li><a href="http://lvxing.58.com/jingdian/pujidao/"><b>普吉岛</b>这里水色纯净、天色蔚蓝，有自成一...</a><span><i class="i_icon"></i><em>1942</em></span></li>
+<li><a href="http://lvxing.58.com/mosike/"><b>莫斯科</b>莫斯科郊外的晚上，夜色多么好，令...</a><span><i class="i_icon"></i><em>410</em></span></li>
+<li><a href="http://lvxing.58.com/wengehua/"><b>温哥华</b>浩瀚海洋和美丽山峦环抱之中的温哥...</a><span><i class="i_icon"></i><em>381</em></span></li>
+<li><a href="http://lvxing.58.com/yintelaken/"><b>因特拉肯</b>坐拥少女峰和雪朗峰的因特拉肯，有...</a><span><i class="i_icon"></i><em>273</em></span></li>
+</ul>
+</div>
+<div class="clear"></div>
+<div class="qtjd">
+<ul>
+<li>
+<i><a href="http://lvxing.58.com/dayangzhou/">[大洋洲]</a></i>
+<a href="http://lvxing.58.com/xinxilan/">新西兰</a></li>
+<li>
+<i><a href="http://lvxing.58.com/ouzhou/">[欧洲]</a></i>
+<a href="http://lvxing.58.com/jingdian/aerbeisishanmai/">阿尔卑斯山脉</a></li>
+<li>
+<i><a href="http://lvxing.58.com/yazhou/">[亚洲]</a></i>
+<a href="http://lvxing.58.com/jianpuzhai/">柬埔寨</a></li>
+<li>
+<i><a href="http://lvxing.58.com/beihaidao/">[北海道]</a></i>
+<a href="http://lvxing.58.com/zhahuang/">札幌</a></li>
+<li>
+<i><a href="http://lvxing.58.com/feizhou/">[非洲]</a></i>
+<a href="http://lvxing.58.com/aiji/">埃及</a></li>
+<li>
+<i><a href="http://lvxing.58.com/alianqiu/">[阿联酋]</a></i>
+<a href="http://lvxing.58.com/dibai/">迪拜</a></li>
+<li>
+<i><a href="http://lvxing.58.com/faguo/">[法国]</a></i>
+<a href="http://lvxing.58.com/balaaiqiang/">巴黎</a></li>
+<li>
+<i><a href="http://lvxing.58.com/beimaliyana/">[北马里亚纳]</a></i>
+<a href="http://lvxing.58.com/saibandao/">塞班岛</a></li>
+<li>
+<i><a href="http://lvxing.58.com/yazhou/">[亚洲]</a></i>
+<a href="http://lvxing.58.com/maerdaifu/">马尔代夫</a></li>
+<li>
+<i><a href="http://lvxing.58.com/nanmeizhou/">[南美洲]</a></i>
+<a href="http://lvxing.58.com/zhili/">智利</a></li>
+<li>
+<i><a href="http://lvxing.58.com/yazhou/">[亚洲]</a></i>
+<a href="http://lvxing.58.com/yuenan/">越南</a></li>
+<li>
+<i><a href="http://lvxing.58.com/yazhou/">[亚洲]</a></i>
+<a href="http://lvxing.58.com/taiguo/">泰国</a></li>
+<li>
+<i><a href="http://lvxing.58.com/feizhou/">[非洲]</a></i>
+<a href="http://lvxing.58.com/kenniya/">肯尼亚</a></li>
+<li>
+<i><a href="http://lvxing.58.com/yazhou/">[亚洲]</a></i>
+<a href="http://lvxing.58.com/yindu/">印度</a></li>
+<li>
+<i><a href="http://lvxing.58.com/ouzhou/">[欧洲]</a></i>
+<a href="http://lvxing.58.com/ruishi/">瑞士</a></li>
+<li>
+<i><a href="http://lvxing.58.com/ouzhou/">[欧洲]</a></i>
+<a href="http://lvxing.58.com/faguo/">法国</a></li>
+<li>
+<i><a href="http://lvxing.58.com/yazhou/">[亚洲]</a></i>
+<a href="http://lvxing.58.com/wenlai/">文莱</a></li>
+<li>
+<i><a href="http://lvxing.58.com/yazhou/">[亚洲]</a></i>
+<a href="http://lvxing.58.com/feilvbin/">菲律宾</a></li>
+<li>
+<i><a href="http://lvxing.58.com/riben/">[日本]</a></i>
+<a href="http://lvxing.58.com/beihaidao/">北海道</a></li>
+<li>
+<i><a href="http://lvxing.58.com/ouzhou/">[欧洲]</a></i>
+<a href="http://lvxing.58.com/jieke/">捷克</a></li>
+</ul>
+</div>
+</div>
+<div class="youji">
+<p>热门出境旅游线路</p>
+<dl><dt><a href="http://hk.58.com/guojilvyou/17575980306435x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p2/tiny/n_s12212446960681516004.jpg" /></a><i class="i_y1"></i></dt>
+<dd><span><a href="http://hk.58.com/guojilvyou/17575980306435x.shtml" target="_blank">西峡谷-玻璃桥一天游</a></span>
+<span>价格：535元</span></dd></dl>
+<ul>
+<li><a href="http://hk.58.com/guojilvyou/17575953358979x.shtml" target="_blank">黄石公园四天团盐湖城进出</a></li>
+<li><a href="http://hk.58.com/guojilvyou/17575929195399x.shtml" target="_blank">黃石公園、總統巨石 丹佛進 / 鹽湖城 出五天四夜(夏季行程)</a></li>
+<li><a href="http://hk.58.com/guojilvyou/13219109566209x.shtml" target="_blank">香港租车一天遊 香港包车 香港机场租车 香港租商務车</a></li>
+<li><a href="http://hk.58.com/guojilvyou/16691515214729x.shtml" target="_blank">美国黄石公园冬季美景五天四夜豪華游[冬季首推]</a></li>
+<li><a href="http://hk.58.com/guojilvyou/16691469610632x.shtml" target="_blank">黄石公园冬季美景六天五夜特惠遊</a></li>
+<li><a href="http://hk.58.com/guojilvyou/16691432402049x.shtml" target="_blank">美国黄石公园冬季五天四夜VIP游(零自費純玩团)</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+      
+      		$('p.jd_01').bind('mouseover mouseout',function(){
+      			$(this).find('span.s_z').toggleClass('s_cur');
+      			$(this).find('span.s_b').toggleClass('bj_cur');
+      		});
+       
+      </script>
+</div>
+<div class="clear"></div>
+<div class="md_bottom">
+<p class="p_link"><i>热门国内游目的地：</i>
+<a href="http://bj.58.com/lvxing/">北京</a>
+<a href="http://sh.58.com/lvxing/">上海</a>
+<a href="http://tj.58.com/lvxing/">天津</a>
+<a href="http://cq.58.com/lvxing/">重庆</a>
+<a href="http://hk.58.com/lvxing/">香港</a>
+<a href="http://am.58.com/lvxing/">澳门</a>
+<a href="http://tw.58.com/lvxing/">台湾</a>
+<a href="http://hz.58.com/lvxing/">杭州</a>
+<a href="http://nj.58.com/lvxing/">南京</a>
+<a href="http://qd.58.com/lvxing/">青岛</a>
+<a href="http://su.58.com/lvxing/">苏州</a>
+<a href="http://xm.58.com/lvxing/">厦门</a>
+<a href="http://huangshan.58.com/jingdian/">黄山</a>
+<a href="http://nb.58.com/lvxing/">宁波</a>
+<a href="http://wx.58.com/lvxing/">无锡</a>
+<a href="http://jn.58.com/lvxing/">济南</a>
+<a href="http://fz.58.com/lvxing/">福州</a>
+<a href="http://dl.58.com/lvxing/">大连</a>
+<a href="http://hrb.58.com/lvxing/">哈尔滨</a>
+<a href="http://sy.58.com/lvxing/">沈阳</a>
+<a href="http://ty.58.com/lvxing/">太原</a>
+<a href="http://cc.58.com/lvxing/">长春</a>
+<a href="http://sjz.58.com/lvxing/">石家庄</a>
+<a href="http://qhd.58.com/lvxing/">秦皇岛</a>
+<a href="http://chengde.58.com/lvxing/">承德</a>
+<a href="http://gz.58.com/lvxing/">广州</a>
+<a href="http://sz.58.com/lvxing/">深圳</a>
+<a href="http://sanya.58.com/lvxing/">三亚</a>
+<a href="http://gl.58.com/lvxing/">桂林</a>
+<a href="http://wh.58.com/lvxing/">武汉</a>
+<a href="http://cs.58.com/lvxing/">长沙</a>
+<a href="http://zjj.58.com/lvxing/">张家界</a>
+<a href="http://zh.58.com/lvxing/">珠海</a>
+<a href="http://zz.58.com/lvxing/">郑州</a>
+<a href="http://haikou.58.com/lvxing/">海口</a>
+<a href="http://cd.58.com/lvxing/">成都</a>
+<a href="http://xa.58.com/lvxing/">西安</a>
+<a href="http://lj.58.com/jingdian/">丽江</a>
+<a href="http://km.58.com/lvxing/">昆明</a>
+<a href="http://lasa.58.com/lvxing/">拉萨</a>
+<a href="http://dali.58.com/lvxing/">大理</a>
+<a href="http://gy.58.com/lvxing/">贵阳</a>
+<a href="http://lz.58.com/lvxing/">兰州</a>
+<a href="http://lvxing.58.com/yunnan/">云南</a>
+<a href="http://lvxing.58.com/zhejiang/">浙江</a>
+<a href="http://lvxing.58.com/guangdong/">广东</a>
+<a href="http://hainan.58.com/lvxing/">海南</a>
+<a href="http://lvxing.58.com/sichuan/">四川</a>
+<a href="http://lvxing.58.com/xizang/">西藏</a>
+<a href="http://lvxing.58.com/neimenggu/">内蒙古</a>
+</p>
+<p class="p_link"><i>热门出境游目的地：</i>
+<a href="http://lvxing.58.com/niboer/">尼泊尔</a>
+<a href="http://lvxing.58.com/maerdaifu/">马尔代夫</a>
+<a href="http://lvxing.58.com/xila/">希腊</a>
+<a href="http://lvxing.58.com/yingguo/">英国</a>
+<a href="http://lvxing.58.com/faguo/">法国</a>
+<a href="http://lvxing.58.com/yidali/">意大利</a>
+<a href="http://lvxing.58.com/deguo/">德国</a>
+<a href="http://lvxing.58.com/ruidian/">瑞典</a>
+<a href="http://lvxing.58.com/ruishi/">瑞士</a>
+<a href="http://lvxing.58.com/xibanya/">西班牙</a>
+<a href="http://lvxing.58.com/jieke/">捷克</a>
+<a href="http://lvxing.58.com/aodili/">奥地利</a>
+<a href="http://lvxing.58.com/helan/">荷兰</a>
+<a href="http://lvxing.58.com/putaoya/">葡萄牙</a>
+<a href="http://lvxing.58.com/nanfei/">南非</a>
+<a href="http://lvxing.58.com/aiji/">埃及</a>
+<a href="http://lvxing.58.com/jianada/">加拿大</a>
+<a href="http://lvxing.58.com/baxi/">巴西</a>
+<a href="http://lvxing.58.com/xinxilan/">新西兰</a>
+<a href="http://lvxing.58.com/jingdian/daxidi/">大溪地</a>
+<a href="http://lvxing.58.com/saibandao/">塞班岛</a>
+<a href="http://lvxing.58.com/niuyue/">纽约</a>
+<a href="http://lvxing.58.com/jiujinshan/">旧金山</a>
+<a href="http://lvxing.58.com/jingdian/xiaweiyi/">夏威夷</a>
+<a href="http://lvxing.58.com/guandao/">关岛</a>
+<a href="http://lvxing.58.com/meiguo/">美国</a>
+<a href="http://lvxing.58.com/aodaliya/">澳大利亚</a>
+</p>
+</div>
+<div class="footer">&copy; 58.com 帮助中心</div><!-- Ga -->
+<script type="text/javascript"> 
+var _gaq = _gaq || [],site_name = "58",page_type = "jingdian"; 
+var _trackURL = "{'cate':'8640','area':'','pagetype':'jingdian','page':'mudidi_quanguo'}"; 
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']); 
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']); 
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']); 
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']); 
+_gaq.push(['pageTracker._trackPageview', "/quanguo/lvyouxiuxian/jingdian/mudidi_quanguo/"]); 
+_gaq.push(['pageTracker._trackPageLoadTime']); 
+$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'); 
+$.getScript('http://tracklog.58.com/referrer4.js'); 
+</script>
+</body>
+</html>

@@ -1,0 +1,569 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Language" content="zh-cn" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>《黑金》探秘测试新浪独家礼包_黑金激活码_黑金激活码领取_黑金好玩吗_黑金官网_黑金职业_黑金礼包_黑金新手卡_黑金激活码怎么用_新浪新手卡中心_最大最全最方便快捷的新手卡、激活码发放基地</title>
+<meta name="keywords" content="黑金激活码,《黑金》探秘测试新浪独家礼包,黑金激活码领取,黑金礼包_黑金新手卡,黑金激活码预订,黑金好玩吗,黑金官网,黑金职业,新浪新手卡中心,新浪游戏,新浪网" />
+<meta name="description" content="新浪新手卡中心为您免费提供黑金激活码、黑金礼包_黑金新手卡、《黑金》探秘测试新浪独家礼包以及《黑金》探秘测试新浪独家礼包的淘号,发号服务,欢迎领取《黑金》探秘测试新浪独家礼包" />
+<meta name="stencil" content="PGLS001814" />
+<meta property="qc:admins" content="242161636631616375636" />
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<link type="text/css" href="http://ka.sina.com.cn/js/new_style.css?v=121230" rel="stylesheet" />
+<script type="text/javascript" src="http://ka.sina.com.cn/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="http://ka.sina.com.cn/js/temp_ka_sso.js"></script>
+<script type="text/javascript" src="http://ka.sina.com.cn/js/temp_scroll.js"></script>
+<script type="text/javascript" src="http://ka.sina.com.cn/js/temp_ka_common.js?v=030301"></script>
+<script type="text/javascript">
+    var app = 'index.php';
+    var hotKeyword = '问道';
+</script>
+</head>
+<body>
+<div id="WrapAll">
+<!-- 标准头 begin -->
+<div class="GHead" style="top:0;right:0;z-index:999999;position:fixed;width:100%;">
+<div class="GHeadBor">
+<div class="sHLogo">
+<span>
+<a href="http://www.sina.com.cn/"><img src="http://i0.sinaimg.cn/gm/hd/hpct/20090723_sina_logo.gif" alt="新浪网" border="0" width="40" height="27" /></a><a href="http://games.sina.com.cn/"><img src="http://i1.sinaimg.cn/gm/hd/hpct/20090723_sinagames_logo.gif" border="0" alt="新浪游戏" /></a></span>
+</div>
+<!-- 公告 begin -->
+<div class="GongGao">
+<div id="ScrTop_3">
+            公告：<a href="http://games.sina.com.cn/o/n/2010-12-08/1849458523.shtml" target="_blank" class="FBlue">新手卡中心新版功能介绍</a><br />
+公告：<a href="http://games.sina.com.cn/n/2008-11-27/1450283072.shtml" target="_blank" class="FBlue">新浪新手卡中心FAQ</a><br />
+公告：<a href="http://ka.sina.com.cn/index.php/store/shuoming" target="_blank" class="FBlue">新手卡积分可以在积分商城使用了，少年们，赶紧去换苹果、换Q币吧！</a><br />
+公告：<a href="http://games.sina.com.cn/m/n/2013-05-13/1554705606.shtml" target="_blank" class="FBlue">新手卡中心推出手游发卡 热门手游新手卡等你来拿！</a><br />
+公告：<font color="#FF0000"><a href="http://e.weibo.com/2972442925/z2ZKOw3fK" target="_blank">发微博“游戏名称@微发卡 ”新手卡会以评论方式发送给您。边刷微博边领卡好方便有木有！</a></font><br />
+</div>
+</div>
+<script language="javascript" type="text/javascript"> 
+        var sinaScrTopObj3 = new SinaScrTop('ScrTop_3',30,5,30,true);
+        sinaScrTopObj3.play();
+    </script>
+<!-- 公告 end -->
+<div class="sHLinks"><a href="javascript:void(0)" onclick="goToUrl('index.php');return false;">登录</a> | <a href="http://login.sina.com.cn/signup/signup.php?entry=igame&amp;r=http%3A%2F%2Fka%2Esina%2Ecom%2Ecn%2F" target="_blank">注册</a> | <a href="https://login.sina.com.cn/getpass.html" style="color:#FF8400" target="_blank">忘记密码？</a></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<!-- 标准头 end -->
+<div style="height:20px;width:100%;"></div>
+<!-- 头部 begin -->
+<div class="Head">
+<div class="Logo"><a href="http://ka.sina.com.cn/"></a></div>
+<div class="Search">
+<form onsubmit="checkWords();return false;" action="index.php/index/search" method="post" id="search">
+<ul>
+<li class="Text">
+<input type="text" value="问道" id="q_search_input" name="keyword" autocomplete="off" />
+<div id="sina_games_get_suggest"></div>
+</li>
+<li class="Button">
+<input type="submit" value="" />
+</li>
+</ul>
+</form>
+</div>
+<div class="Keyword FBlue2">热门游戏：    
+        <a href="http://ka.sina.com.cn/12019" target="_blank" title="黑金">黑金</a>
+<a href="http://ka.sina.com.cn/12069" target="_blank" title="武魂">武魂</a>
+<a href="http://ka.sina.com.cn/11484" target="_blank" title="传世三国">传世三国</a>
+<a href="http://ka.sina.com.cn/11360" target="_blank" title="魔域">魔域</a>
+<a href="http://ka.sina.com.cn/12307" target="_blank" title="问道">问道</a>
+<a href="http://ka.sina.com.cn/11391" target="_blank" title="英雄年代3">英雄年代3</a>
+<a href="http://ka.sina.com.cn/10682" target="_blank" title="天龙八部">新天龙八部</a>
+</div>
+</div>
+<!-- 头部 end -->
+<!-- 导航 begin -->
+<div class="Nav">
+<span>
+<em class="BitA"><a href="javascript:void(0)" onclick="goToUrl('index.php/store/storeKa');return false;">存卡箱</a></em>
+<em class="BitB"><a href="javascript:void(0)" onclick="goToUrl('index.php/store/storeNotice');return false;" class="BitB">通知</a></em>
+<em class="BitC"><a href="http://weibo.com/sinaka" target="_blank">官方微博</a></em>
+</span>
+<ul>
+<li class=""><a href="index.php" class="AA" title="新浪新手卡中心首页">首页</a></li>
+<li class="yes"><a href="index.php/index/mmoPic" class="BB" title="网游新手卡">网游新手卡</a></li>
+<li class=""><a href="index.php/index/wgPic" class="CC" title="页游新手卡">页游新手卡</a></li>
+<li class=""><a href="index.php/index/mobPic" class="DD" title="手游新手卡">手游新手卡</a></li>
+<li class=""><a href="index.php/index/activePic" class="EE" title="激活码">激活码</a></li>
+<li class=""><a href="index.php/index/bookPic" class="FF" title="新手卡预订">预订</a></li>
+<li class=""><a href="http://games.sina.com.cn/cardapp.shtml" class="GG" title="APP下载">APP下载</a></li>
+</ul>
+</div>
+<!-- 导航 end --> <style type="text/css">
+.txt_alert{color:red;}
+.txt_999{color:#999;}
+.mt10{margin-top:10px;}
+.a38{clear:both; overflow:hidden;_zoom:1; margin-top:10px;}
+.a38 input{outline-style:none;-webkit-appearance:none;}
+.a38 .TextC{padding:0;line-height:18px;height:18px; padding:2px 0;}
+.a38 .BuTA{margin:0;}.a39 .BuTA{margin:0 0 0 10px;}
+.a38 b{font-weight:normal; float:left; padding-left:10px; line-height:24px; text-align:right;width:84px;display:inline-block;}
+.a38 span{margin-left:10px;line-height:24px;}
+.a38 img{border:1px solid #666; vertical-align:middle; height:22px; margin-left:10px; cursor:pointer;}
+.a39 b{width:96px;}
+.a40{margin-top:5px;}.a40 b{width:100px; padding:0;}
+.a40 .txt_alert{clear:both; display:block;margin-top:5px; margin-left:100px;}
+
+.fix{_zoom:1;display:block; content:"clear"; height:0; clear:both; overflow:hidden; visibility:hidden;}
+.t20 {padding-left:6px;margin-top:10px;padding-bottom:10px;}
+.t20 a{margin-left:4px;}
+.t20code{float:right; text-align:center;}
+.t20code span{display:block; text-align:center; line-height:24px;}
+.t20inp{background:#fff;width:326px;line-height:18px;height:18px;margin-bottom:10px; padding:4px 0; overflow:hidden;}
+.t20inp .TextC{text-align:center;width:260px;font-size:14px; border:0; padding:0; margin:0;}
+.t20inp span{display:inline-block; float:left; padding-left:10px; width:50px; color:#596387;}
+.ContCTH .t20inp{width:240px; float:left;margin:0;}
+.ContCTH .t20inp span{width:30px;}
+.ContCTH .t20inp .TextC{width:200px;_float:left;}
+.ContCTH .BuTA{margin-top:1px;_float:left;}
+.ContCTH_left {background:url('http://i3.sinaimg.cn/gm/hd/hpct/2012/0806/ka/x_21.gif') 0 0 no-repeat; padding-top:16px;}
+
+.YJYD {display:block;width:98px; margin:0 auto; background: url(http://www.sinaimg.cn/gm/xz/bit.png) 0 -84px no-repeat; height:42px;text-indent:-2000px;}
+a.YJYD:hover {background: url(http://www.sinaimg.cn/gm/xz/bit.png) -98px -84px no-repeat;}
+
+
+.BoxG H1{margin-top:0;}
+
+.ContA ul{margin-top:-36px;_position:relative;}
+.ContA li{margin-top:40px;display:inline;}
+.ContA .ifyd{float:right;margin-top:3px;margin-right:0;text-align:center; width:100px;height:58px; overflow:hidden;}
+.ContA .Line {margin-top:0; padding:0;height:21px;border:1px solid #d5e1e9; background:#fff; position:relative;}
+.ContA .Line span{background:#d5e1e9;height:21px;}
+.ContA .Line em{display:block;position:absolute;top:0;left:0;line-height:22px;width:100%;text-align:center;font-style:normal;color:##48576b;}
+.ContA .ydtime{margin-top:13px;margin-right:0;float:right;width:180px; text-align:center; border:1px solid #d5e1e9;}
+.ContA .ydtime h4{background:#d5e1e9;line-height:24px; font-weight:normal; font-size:12px;}
+.ContA .ydtime p{line-height:24px;}
+.ContA .ydtime span{margin:0 1px; color:red;}
+.ContB li{display:inline;line-height:40px;}
+.ContB .thnum,.ContB .FX{line-height:20px; padding-top:20px; overflow:hidden;}
+.ContB .FX{float:right;}
+.QR_img{width:217px;height:240px;padding:0px;border:1px solid #EEE;margin:10px 0 10px 0;background-color:#fff;}
+.QR_img .aPic{display:block;margin:15px auto;width:180px;}
+.QR_img .aTit{display:block;width:219px;font-size:14px;text-align:center;}
+
+</style>
+<script type="text/javascript">
+    var app = 'index.php';
+    var ka = '《黑金》探秘测试新浪独家礼包';
+    var gid ='3315';
+    var itemId = '10989';
+    var gcty_num = '6';
+    var gtype = '2';
+    var gstyle_num = '20';
+</script>
+<script type="text/javascript" src="http://ka.sina.com.cn/js/temp_ka_gameinfo.js?v=123001"></script>
+<script type="text/javascript" src="http://ka.sina.com.cn/js/temp_ka_cardgo.js?218092384"></script>
+<script type="text/javascript" src="http://www.sinaimg.cn/gm/news/2013/0301/ZeroClipboard.js"></script>
+<script language="JavaScript"> 
+function copythis(id,val){
+	ZeroClipboard.setMoviePath("http://www.sinaimg.cn/gm/news/2013/0301/ZeroClipboard10.swf");
+		var clip = new ZeroClipboard.Client(); 	
+		clip.setHandCursor(true); 		
+		clip.setText(val);  
+		clip.glue(id);
+		//这个是复制成功后的提示  
+		clip.addEventListener( "complete", function(){  
+			alert('复制成功！')  
+		}); 
+}
+
+
+startclock()  
+var timerID = null;  
+var timerRunning = false;  
+function showtime() {  
+	Today = new Date();  
+	var NowHour = Today.getHours();  
+	var NowMinute = Today.getMinutes();  
+	var NowMonth = Today.getMonth();  
+	var NowDate = Today.getDate();  
+	var NowYear = Today.getYear();  
+	var NowSecond = Today.getSeconds();  
+	
+	if (NowYear &lt;2000)  
+	NowYear=1900+NowYear;  
+	Today = null;  
+	Hourleft =  - NowHour  
+	Minuteleft = parseInt('') - NowMinute  
+	Secondleft = parseInt('') - NowSecond  
+	Yearleft = - NowYear  
+	Monthleft =  - NowMonth - 1
+	Dateleft =  - NowDate  
+	if (Secondleft&lt;0)  
+	{  
+		Secondleft=60+Secondleft;  
+		Minuteleft=Minuteleft-1;  
+	}  
+	if (Minuteleft&lt;0)  
+	{   
+		Minuteleft=60+Minuteleft;  
+		Hourleft=Hourleft-1;  
+	}  
+	if (Hourleft&lt;0)  
+	{  
+		Hourleft=24+Hourleft;  
+		Dateleft=Dateleft-1;  
+	}  
+	if (Dateleft&lt;0)  
+	{  
+		Dateleft=31+Dateleft;  
+		Monthleft=Monthleft-1;  
+	} 
+	if (Monthleft&lt;0)  
+	{  
+		Monthleft=12+Monthleft;  
+		Yearleft=Yearleft-1;  
+	}  
+	if(Yearleft &gt;=0){
+		Monthleft = Monthleft + 12*Yearleft;
+	}
+	if(Monthleft == 0){
+		Temp= Dateleft+'天'+Hourleft+'小时'+Minuteleft+'分'+Secondleft+'秒'
+	}else{
+		Temp= Monthleft+'月'+Dateleft+'天'+Hourleft+'小时'+Minuteleft+'分'+Secondleft+'秒'
+	}
+	
+	$('#countdown').html(Temp)
+	//document.getElementById('countdown').innerHTML = Temp;
+
+	timerID = setTimeout("showtime()",100);  
+	timerRunning = true;  
+}  
+var timerID = null;  
+var timerRunning = false;  
+function stopclock () {  
+	if(timerRunning)  
+	clearTimeout(timerID);  
+	timerRunning = false;  
+}  
+function startclock () {  
+	stopclock();  
+	showtime();  
+} 
+function qqClockShow(){
+    var __qqClockShare = {
+       content: "新浪新手卡中心提醒您：《黑金》探秘测试新浪独家礼包抢号即将开始，赶紧点击抢号！",
+       advance: 0,
+       url: window.location.href,
+       icon: "2_1"
+    };
+    var ahref = 'http://qzs.qq.com/snsapp/app/bee/widget/open.htm#content=' + encodeURIComponent(__qqClockShare.content) +'&amp;time=' + encodeURIComponent(__qqClockShare.time) +'&amp;advance=' + __qqClockShare.advance +'&amp;url=' + encodeURIComponent(__qqClockShare.url);
+    window.open (ahref,'QQ提醒','height=500,width=730,top=130,left=330,toolbar=no,menubar=no,location=no, status=no');
+}
+</script>
+<div class="PartA">
+<div class="TopA">
+<div class="LeftA">
+<!-- 左侧 begin -->
+<div class="TitleA Top5"><strong>黑金</strong></div>
+<div class="BoxA FBlue2">
+<a href="http://games.sina.com.cn/o/c/2011-08-24/9586.shtml" target="_blank" title="黑金_新浪新手卡中心">
+<img src="http://www.sinaimg.cn/gm/o/c/2011-08-24/U3711P115T59D9586F8874DT20130514140138.jpg" class="PH02" alt="黑金" />
+</a>
+<p class="BB">
+                    类型：<a href="index.php/index/search/gcty/6" target="_blank">角色扮演</a><br />                    风格：<a href="index.php/index/search/gstyle/20" target="_blank">奇幻</a><br />                    画面：<a href="index.php/index/search/scty/17" target="_blank">3D</a><br />                    状态：<a href="index.php/index/search/status/30" target="_blank">内测</a><br />                    分类：
+                        <a href="index.php/index/mmoPic" target="_blank">网络游戏</a><br />
+                                         运营：<a href="###" style="cursor:none">蜗牛公司</a><br />                    研发：<a href="###" style="cursor:none">蜗牛公司</a> </p>
+<div class="clearit" style="height:0;"></div>
+<ul>
+<li><a href="http://games.sina.com.cn/o/c/2011-08-24/9586.shtml" target="_blank">专区/产品库</a></li> <li><a href="http://hj.woniu.com/main.html" target="_blank">官方网站</a></li> <li><a href="http://games.sina.com.cn/z/hj/download.shtml" target="_blank">下载客户端</a></li> <li><a href="http://kan.games.sina.com.cn/" target="_blank">看游戏</a></li> <li><a href="http://weibo.com/sinaka" target="_blank">官方微博</a></li> <li><a href="http://k.5173.com/home/search?searchText=%E9%BB%91%E9%87%91" target="_blank">推荐交易</a></li>
+<li><a href="http://tan.weibo.com/" target="_blank">游戏微坛</a></li> </ul>
+</div>
+<!--&lt;div class="GZBox"&gt;
+	                &lt;div&gt;
+                        &lt;div onmouseover="this.className='GZBoxShow'" class="GZBoxClose" onmouseout="this.className='GZBoxClose'"&gt;
+                        什么是关注？&lt;span class="GZBoxTiShi"&gt;成功关注游戏后，您将在第一时间收到该游戏所有发号通知信息，避免迷茫的等待，请您留意通知系统的消息提示。&lt;/span&gt;
+                    &lt;/div&gt;
+                    &lt;a href="javascript:void(0)" onclick="bookGame();return false;" class="WYYD"&gt;关注游戏&lt;/a&gt;
+                    &lt;/div&gt;
+	                &lt;p&gt;关注人数：6261&lt;/p&gt;
+                &lt;/div&gt;-->
+<div class="CGWR">
+<strong class="TT"> CGWS得分</strong>
+<div class="L">
+<a href="http://games.sina.com.cn/top" target="_blank"><img src="http://www.sinaimg.cn/gm/ka/2012/trans.gif" /></a>
+<em>CGWR：<span>59</span>位</em>
+<a href="http://slide.games.sina.com.cn/o/slide_21_2105_31174.html?img=486536" class="JT FBlue4" target="_blank">游戏截图</a>
+</div>
+<div class="R">
+<span class="GD">CGWS</span>
+<a href="http://games.sina.com.cn/r/2013-06-08/2388.html" target="_blank"><strong class="NB">8.0</strong></a>
+<span class="PJ">瑕不掩瑜</span>
+</div>
+</div>
+<!--昨日发卡排行 begin-->
+<div class="TitleA Top5"><strong>昨日网游领卡排行</strong></div>
+<div class="AddListA">
+<ul>
+<li>
+<span><a href="http://ka.sina.com.cn/12244" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/12244" target="_blank" title="《极乐空间》技术首测激活码">《极乐空间》技术首测激活码</a></li>
+<li>
+<span><a href="http://ka.sina.com.cn/9753" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/9753" target="_blank" title="《桃花源记》新浪特权礼包">《桃花源记》新浪特权礼包</a></li>
+<li>
+<span><a href="http://ka.sina.com.cn/12246" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/12246" target="_blank" title="《极光世界》白虎神兽礼包">《极光世界》白虎神兽礼包</a></li>
+<li>
+<span><a href="http://ka.sina.com.cn/12491" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/12491" target="_blank" title="《赤壁之战》新浪特权礼包">《赤壁之战》新浪特权礼包</a></li>
+<li>
+<span><a href="http://ka.sina.com.cn/12297" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/12297" target="_blank" title="《梦幻西游2》专属特权卡">《梦幻西游2》专属特权卡</a></li>
+<li>
+<span><a href="http://ka.sina.com.cn/11075" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/11075" target="_blank" title="《傲神传》新浪特供礼包">《傲神传》新浪特供礼包</a></li>
+<li>
+<span><a href="http://ka.sina.com.cn/10680" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/10680" target="_blank" title="《梦想猎人》新浪猎人礼包">《梦想猎人》新浪猎人礼包</a></li>
+<li>
+<span><a href="http://ka.sina.com.cn/12360" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/12360" target="_blank" title="《魔域》新浪龙骑宝盒">《魔域》新浪龙骑宝盒</a></li>
+<li>
+<span><a href="http://ka.sina.com.cn/12307" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/12307" target="_blank" title="《问道》八周年至尊特权礼包">《问道》八周年至尊特权礼包</a></li>
+<li>
+<span><a href="http://ka.sina.com.cn/12583" class="LK" style="color:black" target="_blank">领</a></span>
+<a href="http://ka.sina.com.cn/12583" target="_blank" title="《奇迹世界SUN》三区新浪独">《奇迹世界SUN》三区新浪独</a></li>
+</ul></div>
+
+<!--昨日发卡排行 end --> <!-- 网络游戏测试表 begin -->
+<div class="TitleA Top10"><strong>网络游戏测试表</strong></div>
+<ul class="ListA">
+<li><span><a href="http://ka.sina.com.cn/12493" target="_blank">内测</a><a href="http://ka.sina.com.cn/12493" class="LH" target="_blank">预订</a></span>05.10  <a href="http://games.sina.com.cn/zsg/index.shtml" target="_blank">征三国</a></li>
+<li><span><a href="http://ka.sina.com.cn/12491" target="_blank">封测</a><a href="http://ka.sina.com.cn/12491" class="LH" target="_blank">领号</a></span>05.09  <a href="http://games.sina.com.cn/cbzz/index.shtml" target="_blank">赤壁之战</a></li>
+<li><span><a href="http://ka.sina.com.cn/12209" target="_blank">封测</a><a href="http://ka.sina.com.cn/12209" class="LH" target="_blank">领号</a></span>05.09  <a href="http://games.sina.com.cn/mhjx/index.shtml" target="_blank">梦幻剑侠</a></li>
+<li><span><a href="http://ka.sina.com.cn/12546" target="_blank">内测</a><a href="http://ka.sina.com.cn/12546" class="LH" target="_blank">领号</a></span>05.09  <a href="http://games.sina.com.cn/hazg/index.shtml" target="_blank">黑暗之光</a></li>
+<li><span><a href="http://ka.sina.com.cn/12030" target="_blank">内测</a><a href="http://ka.sina.com.cn/12030" class="LH" target="_blank">领号</a></span>05.09  <a href="http://games.sina.com.cn/gqcq/index.shtml" target="_blank">古羌传奇</a></li>
+<li><span><a href="http://ka.sina.com.cn/12457" target="_blank">封测</a><a href="http://ka.sina.com.cn/12457" class="LH" target="_blank">领号</a></span>05.09  <a href="http://games.sina.com.cn/tpol/index.shtml" target="_blank">突破Online</a></li>
+<li><span><a href="http://ka.sina.com.cn/12479" target="_blank">封测</a><a href="http://ka.sina.com.cn/12479" class="LH" target="_blank">领号</a></span>05.09  <a href="http://games.sina.com.cn/xzzw/index.shtml" target="_blank">血战之王</a></li>
+<li><span><a href="http://ka.sina.com.cn/12031" target="_blank">公测</a><a href="http://ka.sina.com.cn/12031" class="LH" target="_blank">领号</a></span>05.08  <a href="http://games.sina.com.cn/sdxl/index.shtml" target="_blank">神雕侠侣</a></li>
+<li><span><a href="http://ka.sina.com.cn/12548" target="_blank">内测</a><a href="http://ka.sina.com.cn/12548" class="LH" target="_blank">领号</a></span>05.08  <a href="http://games.sina.com.cn/fsf/index.shtml" target="_blank">自由足球</a></li>
+<li><span><a href="http://ka.sina.com.cn/12485" target="_blank">内测</a><a href="http://ka.sina.com.cn/12485" class="LH" target="_blank">领号</a></span>05.08  <a href="http://games.sina.com.cn/knight/index.shtml" target="_blank">骑士3.0</a></li>
+<li><span><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/2637" target="_blank">内测</a><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/2637" class="LH" target="_blank">领号</a></span>05.08  <a href="http://games.sina.com.cn/sg/index.shtml" target="_blank">上古世纪</a></li>
+<li><span><a href="http://ka.sina.com.cn/12533" target="_blank">封测</a><a href="http://ka.sina.com.cn/12533" class="LH" target="_blank">领号</a></span>05.08  <a href="http://games.sina.com.cn/jpt/index.shtml" target="_blank">劲跑团</a></li>
+<li><span><a href="http://ka.sina.com.cn/12436" target="_blank">封测</a><a href="http://ka.sina.com.cn/12436" class="LH" target="_blank">领号</a></span>05.08  <a href="http://games.sina.com.cn/chaoshen/index.shtml" target="_blank">超神OL</a></li>
+<li><span><a href="http://ka.sina.com.cn/12553" target="_blank">公测</a><a href="http://ka.sina.com.cn/12553" class="LH" target="_blank">领号</a></span>05.06  <a href="http://games.sina.com.cn/lsdl/index.shtml" target="_blank">龙神大陆</a></li>
+<li><span><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/7233" target="_blank">内测</a><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/7233" class="LH" target="_blank">领号</a></span>05.05  <a href="http://games.sina.com.cn/mqn/index.shtml" target="_blank">梦千年Online</a></li>
+</ul>
+<!-- 网络游戏测试表 end --> <!-- 左侧 end -->
+</div>
+<div class="RightA">
+<!-- 右侧 begin -->
+<!-- AD begin -->
+<div style="margin:5px 0 0 30px;">
+<!-- AD begin --><div><script async="async" charset="utf-8" src="http://d4.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js"></script><ins class="sinaads" data-ad-pdps="PDPS000000021211"></ins><script>(sinaads = window.sinaads || []).push({});</script><!--$$ 李晨/2013-2-1 ~ 2014-1-31/B $--></div><!--ADS:end-->
+</div>
+<!--Adforward Begin:-->
+<iframe marginheight="0" marginwidth="0" frameborder="0" width="1" height="1" scrolling="NO" src="http://1103.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|games|kaPV&amp;db=sina&amp;border=0&amp;local=yes">
+<script language="JavaScript1.1" src="http://1103.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|games|kaPV&amp;db=sina&amp;local=yes&amp;js=on"></script>
+</iframe><noscript><a href="http://1103.adsina.allyes.com/main/adfclick?user=AFP6_for_SINA|games|kaPV&amp;db=sina"><img src="http://1103.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|games|kaPV&amp;db=sina" width="1" height="1" border="0" /></a></noscript>
+<!--Adforward End-->
+<!-- AD end -->
+<!-- 列表 begin -->
+<div class="TitleF">
+<ul>
+<li class=""><span><a href="http://ka.sina.com.cn/12019">黑丝至尊礼包</a></span></li>
+<li class=""><span><a href="http://ka.sina.com.cn/11609">新浪迎新特权礼包</a></span></li>
+<li class=""><span><a href="http://ka.sina.com.cn/11230">不删档测试激活码礼包</a></span></li>
+<li class="On"><span>《黑金》探秘测试新浪独家礼包</span></li>
+</ul>
+</div>
+<div class="BoxG">
+<h1>《黑金》探秘测试新浪独家礼包<a href="javascript:void(0)" onclick="qqClockShow()"><img class="n-clock" src="http://www.sinaimg.cn/gm/t_img/newcard/images/clock.png" style="border:0px;margin-left:25px" /></a></h1>
+<div class="ContA" id="takejump">
+<ul>
+<li><div class="Line"><span style="width:0%" title="剩余 0%"></span><em>剩余 0%</em></div></li>
+<li class="BT">
+<a href="http://hj.woniu.com/main.html" target="_blank" class="">官网</a>
+<a href="http://hj.woniu.com/main.html" target="_blank">注册</a>
+<a onclick="activeCode('http://sg.hj.woniu.com/static/hd/201310/discovery/');return false;" href="javascript:void(0)">激活</a>
+</li>
+<li class="ifyd">
+<a href="javascript:void(0);" class="LJYD" title="预订后将在通知里，第一时间收到《黑金》的相关发卡信息" onclick="bookGame();return false;">立即预订</a><br /><span class="FRed">6261</span>人预订
+                        </li>
+</ul>
+<p>本物品已经发放完毕，当前可以进行淘号操作</p>
+</div>
+<div class="ContB">
+<ul>
+<li><a href="javascript:;" class="BigTH" title="淘号" onclick="taohao();location.hash='takejump';window.location=window.location;"></a></li><li class="thnum"><span class="FRed2">16600</span>次淘号</li>
+<li class="FX">
+<span class="FRed2">分享到</span>：
+                        <a href="javascript:void(0)" onclick="share('weibo')" class="Bit_C" title="新浪微博"></a>
+<a href="javascript:void(0)" class="Bit_B" onclick="share('qweibo');return false;" title="腾迅微博"></a>
+<a href="javascript:void(0)" onclick="share('kaixin');return false;" class="Bit_D" title="开心网"></a>
+<a href="javascript:void(0)" onclick="share('renren');return false;" class="Bit_E" title="人人网"></a>
+<a href="javascript:void(0)" onclick="share('qzone');return false;" class="Bit_F" title="QQ空间"></a>
+</li>
+</ul>
+</div>
+<!--edit by zhiyong -->
+<div class="ContC ContCLH" id="fetch" style="display:none;">
+<div class="Box">
+</div>
+</div>
+<script type="text/javascript">
+                        //$("#back").click(function(){ $("#fetch").hide();});
+                        $("#back").live('click', function(){ $("#fetch").hide();});
+                </script>
+<!--edit by zhiyong -->
+<div class="ContC ContCTH" id="pick" style="display:none">
+<div class="Box"></div>
+</div>
+<div class="TitleG">激活说明</div>
+<div class="ContD">
+<p>
+	A.本次&ldquo;探秘测试&rdquo;激活码礼包将以CDK形式发放。<br />
+<strong>B.新浪独家礼包内容：激活码*1；游戏道具：卡比貂*1，蓝洋三轮车*1，青羽陆行鸟*1，时之沙（绿）*1。</strong><br />
+	C.礼包使用说明：玩家成功激活并领取礼包后，可在首次登陆游戏接收到通知邮件，领取道具。<br />
+	D.《黑金》&ldquo;探秘测试&rdquo;激活码仅限用于此次测试，有效期至2013年12月13日24:00。当您用CDK激活账号后，可直接参与游戏。<br />
+	E.每1枚激活码只限激活1个蜗牛通行证，当通行证被激活后，激活码作废。所以请您在激活前确认通行证帐号无误。<br />
+<a href="http://sg.hj.woniu.com/static/hd/201310/discovery/" target="_blank"><strong><span style="color:#0000ff;">点击进入激活地址&gt;&gt;&gt;</span></strong></a></p>
+</div>
+<div class="TitleG">道具奖励</div>
+<div class="ContD">
+<!-- jhm begin -->
+<p>
+	《黑金》12月5日开启探秘测试</p>
+<!-- jhm end -->
+<p>
+<img alt="" src="http://i1.sinaimg.cn/gm/2013/1118/U7232P115DT20131118103808.jpg" style="width: 300px; height: 152px;" /></p>
+</div>
+</div>
+<!-- 列表 end -->
+<!-- 游戏介绍 begin -->
+<div class="TitleC Top10" style="margin-top:10px"><strong class="Bit_A">游戏介绍</strong></div>
+<div class="BoxF"><p></p><p>
+	《黑金》是蜗牛最新推出的朋克魔幻题材3D动态网游。游戏使用西方蒸汽与奇幻相结合的全新元素，除了强化经典的魔幻网游PVE玩法外，还创新的加入了多人载具对抗和类DOTA战场等众多新颖的PVP特色。</p></div>
+<!-- 游戏介绍 end -->
+<!-- 您可能喜欢的游戏 begin -->
+<div class="TitleC FBlue3"><a href="javascript:;" class="More">换一换</a><strong>您可能喜欢的游戏</strong></div>
+<div class="BoxB">
+<ul class="ListI">
+<li><a href="http://ka.sina.com.cn/12307" target="_blank"><img src="http://www.sinaimg.cn/gm/o/c/2006-01-13/U3711P115T59D3335F8874DT20131216114143.jpg" width="105" height="150" alt="《问道》八周年至尊特权礼包" title="《问道》八周年至尊特权礼包" /></a><span><a href="http://ka.sina.com.cn/12307" target="_blank">问道</a></span></li><li><a href="index.php/index/gameInfo/gid/5510" target="_blank"><img src="http://store.games.sina.com.cn/newcard/guild/2014032011480454728092.jpg" width="105" height="150" alt="赤壁" /></a><span><a href="">赤壁</a></span></li><li><a href="index.php/index/gameInfo/gid/2898" target="_blank"><img src="http://www.sinaimg.cn/gm/lw/U4507P115T59D9436F8874DT20110615133849.jpg" width="105" height="150" alt="龙纹" /></a><span><a href="">龙纹</a></span></li><li><a href="index.php/index/gameInfo/gid/1209" target="_blank"><img src="http://www.sinaimg.cn/gm/sxft/U4507P115T59D6625F8874DT20100714174058.jpg" width="105" height="150" alt="兽血沸腾" /></a><span><a href="">兽血沸腾</a></span></li><li><a href="index.php/index/gameInfo/gid/1328" target="_blank"><img src="http://store.games.sina.com.cn/newcard/game/1328.jpg" width="105" height="150" alt="诺亚传说" /></a><span><a href="">诺亚传说</a></span></li>
+</ul>
+</div>
+<!-- 您可能喜欢的游戏 end -->
+<!-- 发卡日志 begin -->
+<div class="TitleB FBlue3">
+<a href="index.php/index/showLog" class="More">更多</a>
+<strong>发卡日志</strong>
+<div class="T_Menu_01" id="SubShow_01" style="width:300px;">
+<span id="Label_01_01" class="selected">网络游戏</span>
+<span id="Label_01_02">网页游戏</span>
+<span id="Label_01_03">手机游戏</span>
+</div>
+</div>
+<div id="Tab1_1" class="BoxB">
+<!-- 网络游戏 begin -->
+<ul class="ListB">
+<!--	&lt;li&gt;&lt;span&gt;03-07 18:00&lt;/span&gt;&lt;a href=""&gt;《龙纹》新浪特权礼包&lt;/a&gt;已上架&lt;/li&gt;-->
+<li><span>[新手卡] 05-09 15:17</span><a href="http://ka.sina.com.cn/12605" target="_blank" title="《狐狸三国》新浪悍将礼包">《狐狸三国》新浪悍将礼包</a>已上架</li>
+<li><span>[新手卡] 05-09 15:08</span><a href="http://ka.sina.com.cn/12603" target="_blank" title="《醉逍遥》巅峰大礼包">《醉逍遥》巅峰大礼包</a>已上架</li>
+<li><span>[新手卡] 05-09 14:57</span><a href="http://ka.sina.com.cn/12602" target="_blank" title="《麻辣江湖》新浪心动礼物卡">《麻辣江湖》新浪心动礼物卡</a>已上架</li>
+<li><span>[激活码] 05-09 14:15</span><a href="http://ka.sina.com.cn/12423" target="_blank" title="《TERA》真致特权礼包">《TERA》真致特权礼包</a>已补仓</li>
+<li><span>[新手卡] 05-09 14:07</span><a href="http://ka.sina.com.cn/10425" target="_blank" title="《洛神》新浪独家礼包">《洛神》新浪独家礼包</a>已补仓</li>
+<li><span>[新手卡] 05-09 14:06</span><a href="http://ka.sina.com.cn/10319" target="_blank" title="《洛神》新手礼包">《洛神》新手礼包</a>已补仓</li>
+<li><span>[新手卡] 05-09 11:49</span><a href="http://ka.sina.com.cn/12598" target="_blank" title="《封天》舌尖上的礼包">《封天》舌尖上的礼包</a>已上架</li>
+<li><span>[新手卡] 05-09 11:45</span><a href="http://ka.sina.com.cn/12597" target="_blank" title="《大侠Q传》首测激活码礼包">《大侠Q传》首测激活码礼包</a>已上架</li>
+<li><span>[激活码] 05-09 10:37</span><a href="http://ka.sina.com.cn/12517" target="_blank" title="《TERA》二次封闭测试码">《TERA》二次封闭测试码</a>已补仓</li>
+<li><span>[新手卡] 05-08 18:35</span><a href="http://ka.sina.com.cn/12356" target="_blank" title="《成吉思汗3》新浪战神礼包">《成吉思汗3》新浪战神礼包</a>已补仓</li>
+<li><span>[新手卡] 05-08 17:53</span><a href="http://ka.sina.com.cn/12592" target="_blank" title="《降魔》内测新手礼包">《降魔》内测新手礼包</a>已上架</li>
+<li><span>[新手卡] 05-08 16:38</span><a href="http://ka.sina.com.cn/12031" target="_blank" title="《神雕侠侣》跨服助战卡">《神雕侠侣》跨服助战卡</a>已补仓</li>
+<li><span>[新手卡] 05-08 16:38</span><a href="http://ka.sina.com.cn/12318" target="_blank" title="《笑傲江湖OL》初入江湖礼包">《笑傲江湖OL》初入江湖礼包</a>已补仓</li>
+<li><span>[新手卡] 05-08 13:48</span><a href="http://ka.sina.com.cn/12485" target="_blank" title="《骑士3.0》公测特权礼包">《骑士3.0》公测特权礼包</a>已补仓</li>
+<li><span>[新手卡] 05-08 13:45</span><a href="http://ka.sina.com.cn/12554" target="_blank" title="《108将星录》公测新服特权卡">《108将星录》公测新服特权卡</a>已补仓</li>
+<li><span>[新手卡] 05-08 12:04</span><a href="http://ka.sina.com.cn/12583" target="_blank" title="《奇迹世界SUN》三区新浪独家卡">《奇迹世界SUN》三区新浪</a>已上架</li>
+</ul>
+<!-- 网络游戏 end -->
+</div>
+<div id="Tab1_2" style="display:none" class="BoxB">
+<!-- 网页游戏 begin -->
+<ul class="ListB">
+<li><span>[新手卡] 05-09 14:25</span><a href="http://ka.sina.com.cn/12600" target="_blank" title="《梦回江湖》玩玩通服新手卡">《梦回江湖》玩玩通服新手卡</a>已上架</li>
+<li><span>[新手卡] 05-09 14:16</span><a href="http://ka.sina.com.cn/12599" target="_blank" title="《三国全明星》玩玩新手礼包">《三国全明星》玩玩新手礼包</a>已上架</li>
+<li><span>[新手卡] 05-09 13:41</span><a href="http://ka.sina.com.cn/12552" target="_blank" title="《黑暗之光》不删档内测穿越">《黑暗之光》不删档内测穿越</a>已补仓</li>
+<li><span>[新手卡] 05-09 13:39</span><a href="http://ka.sina.com.cn/11958" target="_blank" title="《傲世封神》新手化神礼包">《傲世封神》新手化神礼包</a>已补仓</li>
+<li><span>[新手卡] 05-08 17:58</span><a href="http://ka.sina.com.cn/12594" target="_blank" title="《赤月传说》庆典豪华礼包">《赤月传说》庆典豪华礼包</a>已上架</li>
+<li><span>[新手卡] 05-08 17:53</span><a href="http://ka.sina.com.cn/12593" target="_blank" title="《赤月传说》91wan天魂礼包">《赤月传说》91wan天魂礼包</a>已上架</li>
+<li><span>[新手卡] 05-08 16:14</span><a href="http://ka.sina.com.cn/12589" target="_blank" title="《天下足球》新浪新手礼包">《天下足球》新浪新手礼包</a>已上架</li>
+<li><span>[新手卡] 05-08 13:43</span><a href="http://ka.sina.com.cn/12584" target="_blank" title="《仙剑炼妖录》要玩123服">《仙剑炼妖录》要玩123服</a>已上架</li>
+<li><span>[新手卡] 05-08 09:57</span><a href="http://ka.sina.com.cn/12557" target="_blank" title="《战神》49you封测独家礼包">《战神》49you封测独家礼包</a>已补仓</li>
+<li><span>[激活码] 05-08 09:56</span><a href="http://ka.sina.com.cn/12567" target="_blank" title="《天书》首测限量激活码">《天书》首测限量激活码</a>已补仓</li>
+<li><span>[新手卡] 05-07 17:59</span><a href="http://ka.sina.com.cn/12016" target="_blank" title="《风云无双》9787豪华礼包">《风云无双》9787豪华礼包</a>已补仓</li>
+<li><span>[新手卡] 05-07 16:58</span><a href="http://ka.sina.com.cn/12576" target="_blank" title="《暗黑修仙》g361独家火礼包">《暗黑修仙》g361独家火礼包</a>已上架</li>
+<li><span>[新手卡] 05-07 16:51</span><a href="http://ka.sina.com.cn/12575" target="_blank" title="《御仙缘》魔幻礼包">《御仙缘》魔幻礼包</a>已上架</li>
+<li><span>[新手卡] 05-07 15:49</span><a href="http://ka.sina.com.cn/12570" target="_blank" title="《攻城掠地》要玩双线通服礼">《攻城掠地》要玩双线通服礼</a>已上架</li>
+<li><span>[新手卡] 05-07 09:46</span><a href="http://ka.sina.com.cn/12258" target="_blank" title="《快打西游》新手礼包">《快打西游》新手礼包</a>已补仓</li>
+<li><span>[新手卡] 05-07 09:44</span><a href="http://ka.sina.com.cn/11828" target="_blank" title="《仙侠道》玩玩新手礼包">《仙侠道》玩玩新手礼包</a>已补仓</li>
+</ul>
+<!-- 网页游戏 end -->
+</div>
+<div id="Tab1_3" style="display:none" class="BoxB">
+<!-- 手机游戏 begin -->
+<ul class="ListB">
+<li><span>[新手卡] 05-09 15:16</span><a href="http://ka.sina.com.cn/12604" target="_blank" title="《新金瓶梅OL》iOS版母亲节礼包">《新金瓶梅OL》iOS版母亲节礼包</a>已上架</li>
+<li><span>[新手卡] 05-09 14:46</span><a href="http://ka.sina.com.cn/12579" target="_blank" title="《神与神》独家尊享礼包">《神与神》独家尊享礼包</a>已补仓</li>
+<li><span>[新手卡] 05-09 14:36</span><a href="http://ka.sina.com.cn/12601" target="_blank" title="《新金瓶梅OL》安卓版母亲节礼包">《新金瓶梅OL》安卓版母亲节礼包</a>已上架</li>
+<li><span>[激活码] 05-09 14:16</span><a href="http://ka.sina.com.cn/12578" target="_blank" title="《实况俱乐部》精英测试激活码">《实况俱乐部》精英测试激活码</a>已补仓</li>
+<li><span>[新手卡] 05-09 11:34</span><a href="http://ka.sina.com.cn/12572" target="_blank" title="《主公娶亲》新手卡">《主公娶亲》新手卡</a>已补仓</li>
+<li><span>[新手卡] 05-09 11:32</span><a href="http://ka.sina.com.cn/12573" target="_blank" title="《主公娶亲》小乔特权卡">《主公娶亲》小乔特权卡</a>已补仓</li>
+<li><span>[新手卡] 05-09 11:02</span><a href="http://ka.sina.com.cn/12389" target="_blank" title="《迷你西游》公测尊享礼包">《迷你西游》公测尊享礼包</a>已补仓</li>
+<li><span>[新手卡] 05-09 10:42</span><a href="http://ka.sina.com.cn/12596" target="_blank" title="《霸气江湖》40-41区霸气礼包">《霸气江湖》40-41区霸气礼包</a>已上架</li>
+<li><span>[新手卡] 05-09 10:24</span><a href="http://ka.sina.com.cn/12595" target="_blank" title="《魔力宝贝》手游版独家激活码">《魔力宝贝》手游版独家激活码</a>已上架</li>
+<li><span>[新手卡] 05-08 18:34</span><a href="http://ka.sina.com.cn/12430" target="_blank" title="《我叫MT》周年庆礼包">《我叫MT》周年庆礼包</a>已补仓</li>
+<li><span>[新手卡] 05-08 16:50</span><a href="http://ka.sina.com.cn/12590" target="_blank" title="《魂斗士》新版豪华礼包">《魂斗士》新版豪华礼包</a>已上架</li>
+<li><span>[新手卡] 05-08 15:40</span><a href="http://ka.sina.com.cn/12586" target="_blank" title="《呆兵萌将》天地之萌媒体特权卡">《呆兵萌将》天地之萌媒体特权卡</a>已上架</li>
+<li><span>[新手卡] 05-08 14:35</span><a href="http://ka.sina.com.cn/12243" target="_blank" title="《东邪西毒》新浪特权礼包">《东邪西毒》新浪特权礼包</a>已补仓</li>
+<li><span>[激活码] 05-08 13:32</span><a href="http://ka.sina.com.cn/12560" target="_blank" title="《锁链战记》首测激活码">《锁链战记》首测激活码</a>已补仓</li>
+<li><span>[新手卡] 05-08 11:46</span><a href="http://ka.sina.com.cn/12582" target="_blank" title="《马上踢足球》内测独家礼包">《马上踢足球》内测独家礼包</a>已上架</li>
+<li><span>[新手卡] 05-08 10:27</span><a href="http://ka.sina.com.cn/12580" target="_blank" title="《天天来取经》新浪独家礼包">《天天来取经》新浪独家礼包</a>已上架</li>
+</ul>
+<!-- 手机游戏 end -->
+</div>
+<script language="javascript" type="text/javascript">
+&lt;!--//--&gt;&lt;![CDATA[/ /&gt;&lt;!--
+var SubShow_01 = new SubShowClass("SubShow_01","onmouseover",0);
+SubShow_01.addLabel("Label_01_01","Tab1_1");
+SubShow_01.addLabel("Label_01_02","Tab1_2");
+SubShow_01.addLabel("Label_01_03","Tab1_3");
+//--&gt;&lt;!]]&gt;
+</script>
+<!-- 发卡日志 end -->
+<!-- 右侧 end -->
+</div>
+</div>
+</div>
+<!-- 标题尾 begin -->
+<div id="Trail"><script language="javascript" src="http://ka.sina.com.cn/js/temp_footer.js?v=2014010301"></script></div>
+<!-- 标题尾 end -->
+</div>
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+<script type="text/javascript"> 
+_S_pSt(); 
+</script>
+<!-- SUDA_CODE_END -->
+<!--二维码 begin-->
+<div class="j-n">
+<a class="j-n-img" target="_blank" href="http://games.sina.com.cn/cardapp.shtml" title="点击下载手游百宝箱客户端" suda-uatrack="key=qr_code&amp;value=sports_index_qrcode"><em>手游百宝箱客户端</em> <img src="http://image2.sina.com.cn/gm/t_img/newcard/images/U4662P115DT20131122115028.png" width="90" /> <span>点击或扫描下载</span> </a>
+<a href="javascript:void(0)" class="j-n-close" title="关闭" onclick="$(this).parent('.j-n').hide();">关闭</a>
+</div>
+<!--二维码end-->
+</body>
+</html>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36926878-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

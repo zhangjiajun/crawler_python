@@ -1,0 +1,785 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>汪嵩_新浪博客</title>
+<meta name="keywords" content="汪嵩_新浪博客,汪嵩,体育,博客五周年,足球,体育" />
+<meta name="description" content="汪嵩_新浪博客,汪嵩,更新更新,假期贵阳游,我的博客今天4岁23天啦！,我的卡通纪念T恤,总结得失，再接再励,胜利是需要加倍付出的,调整心态，改变现状,大雨快来吧,我在杭州的日子,新年要更新，新年新气象！" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+&lt;!–[if lte IE 6]&gt;
+&lt;script type="text/javascript"&gt;
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+&lt;/script&gt;
+&lt;![endif]–&gt;
+&lt;script type="text/javascript"&gt;
+window.staticTime=new Date().getTime();
+&lt;/script&gt;
+&lt;link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php"  /&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd"  /&gt;
+&lt;link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest"  /&gt;
+&lt;link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1249622393.xml" title="RSS"  /&gt;
+&lt;link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet"  /&gt;&lt;style id="tplstyle" type="text/css"&gt;@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/11/11_39/t.css");
+&lt;/style&gt;
+&lt;style id="positionstyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="bgtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="headtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="navtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--$sinatopbar--&gt;
+&lt;div style="z-index:512;" class="nsinatopbar"&gt;
+  &lt;div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"&gt;&lt;/div&gt;
+  &lt;div class="ntopbar_main"&gt; 
+    &lt;a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"&gt;&lt;img class="ntopbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"&gt;&lt;/a&gt;
+    &lt;div class="ntopbar_floatL"&gt;
+      &lt;div class="ntopbar_search" id="traySearchBar"&gt;&lt;/div&gt;
+	  &lt;div class="ntopbar_ad" id="loginBarActivity" style="display:none;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="ntopbar_loading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"&gt;加载中…&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--$end sinatopbar--&gt;
+
+&lt;div class="sinabloga" id="sinabloga"&gt;
+	&lt;div id="sinablogb" class="sinablogb"&gt;
+
+	   
+ &lt;div id="sinablogHead" class="sinabloghead"&gt;
+     &lt;div style="display: none;" id="headflash" class="headflash"&gt;&lt;/div&gt;
+	   &lt;div id="headarea" class="headarea"&gt;
+      &lt;div id="blogTitle" class="blogtoparea"&gt;
+      &lt;h1 id="blogname" class="blogtitle"&gt;&lt;a href="http://blog.sina.com.cn/wangsong1012"&gt;&lt;span id="blognamespan"&gt;汪嵩的BLOG&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;
+	  		
+					&lt;div id="bloglink" class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/wangsong1012"&gt;http://blog.sina.com.cn/wangsong1012&lt;/a&gt;  &lt;a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss"&gt;[&lt;cite&gt;订阅&lt;/cite&gt;]&lt;/a&gt;&lt;a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1249622393'));"&gt;[&lt;cite&gt;手机订阅&lt;/cite&gt;]&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="blognav" id="blognav"&gt;
+      			  &lt;div id="blognavBg" class="blognavBg"&gt;&lt;/div&gt; &lt;div class="blognavInfo"&gt; 
+		&lt;span&gt;&lt;a  class="on" href="http://blog.sina.com.cn/wangsong1012"&gt;首页&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a  href="http://blog.sina.com.cn/s/articlelist_1249622393_0_1.html"&gt;博文目录&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a href="http://photo.blog.sina.com.cn/wangsong1012"&gt;图片&lt;/a&gt;&lt;/span&gt;
+      &lt;span class="last"&gt;&lt;a  href="http://blog.sina.com.cn/s/profile_1249622393.html"&gt;关于我&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;      		      		 	
+      
+             &lt;div class="autoskin" id="auto_skin"&gt;
+       &lt;/div&gt;
+
+&lt;div class="adsarea"&gt;
+     &lt;a href="#"&gt;&lt;div id="template_clone_pic" class="pic"&gt;&lt;/div&gt;&lt;/a&gt;
+     &lt;div id="template_clone_link" class="link wdc_HInf"&gt;&lt;/div&gt;
+     &lt;div id="template_clone_other" class="other"&gt;&lt;/div&gt;        
+&lt;/div&gt;
+    &lt;/div&gt;
+    	    	    &lt;/div&gt;
+    
+    &lt;!--主题内容开始 --&gt;
+    &lt;div class="sinablogbody" id="sinablogbody"&gt;
+		
+	&lt;!--第一列start--&gt;
+    &lt;div id="column_1" class="SG_colW21 SG_colFirst"&gt;&lt;div class="SG_conn" id="module_901"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="个人资料"&gt;个人资料&lt;/span&gt;
+            &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="info"&gt;
+                            
+            &lt;div class="info_img" id="comp_901_head"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://p2.sinaimg.cn/1249622393/180/52941286263614" id="comp_901_head_image" width="180" height="180" alt="汪嵩" title="汪嵩"  /&gt;&lt;/div&gt;
+            
+            &lt;div class="info_txt"&gt;
+              &lt;div class="info_nm"&gt;
+                &lt;img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;
+                &lt;span class="SG_txtb"&gt;&lt;strong id="ownernick"&gt;汪嵩                                &lt;/strong&gt;&lt;/span&gt;
+                
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class="info_btn1"&gt;
+              &lt;!--user['qing_url'] --&gt;
+                &lt;a target="_blank" href="http://qing.blog.sina.com.cn/u/1249622393" onclick="v7sendLog &amp;&amp; v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;Qing&lt;/cite&gt;&lt;/a&gt;
+                &lt;a target="_blank" href="http://weibo.com/u/1249622393?source=blog" class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;微博&lt;/cite&gt;&lt;/a&gt;
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class="SG_j_linedot"&gt;&lt;/div&gt;        &lt;div class="info_locate" id = "info_locate_id"&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;div class="info_btn2"&gt;
+    &lt;p&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"&gt;&lt;cite &gt;加好友&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"&gt;&lt;cite &gt;发纸条&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;a href="http://blog.sina.com.cn/s/profile_1249622393.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"&gt;&lt;cite&gt;写留言&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"&gt;&lt;cite onclick="Module.SeeState.add()"&gt;加关注&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+                  &lt;div class="info_list"&gt;     
+                                   &lt;ul class="info_list1"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客等级：&lt;/span&gt;&lt;span id="comp_901_grade"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/1.gif"   /&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/9.gif"   /&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客积分：&lt;/span&gt;&lt;span id="comp_901_score"&gt;&lt;strong&gt;375&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;ul class="info_list2"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客访问：&lt;/span&gt;&lt;span id="comp_901_pv"&gt;&lt;strong&gt;682,965&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;关注人气：&lt;/span&gt;&lt;span id="comp_901_attention"&gt;&lt;strong&gt;232&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/div&gt;
+&lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_conn" id="module_81"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="玩玩小游戏"&gt;玩玩小游戏&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="cloneWidget"&gt;&lt;div class="widgetcen"&gt;
+&lt;div class="widgetconn"&gt;&lt;textarea lazyload="true" style="display:none;"&gt;&lt;iframe scrolling="no" frameborder="0" style="overflow: hidden; width: 190px; height: 395px;" allowtransparency="" src="http://wanwan.sina.com.cn/kb/201007282.html?dpc=1&amp;uid=1249622393"&gt;&lt;/iframe&gt;&lt;/textarea&gt;&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class="cloneLink"&gt;&lt;a href="javascript:;" onclick="return false;" class="SG_comClone"&gt;&lt;img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif"  /&gt;添加到我的博客&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_43"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="草根名博"&gt;草根名博&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="cloneWidget"&gt;&lt;div class="widgetcen"&gt;
+&lt;div class="widgetconn"&gt;&lt;textarea lazyload="true" style="display:none;"&gt;&lt;iframe scrolling="no" frameborder="0" style="overflow: hidden; width: 190px; height: 366px;" allowtransparency="" src="http://blog.sina.com.cn/lm/iframe/xhtml/2008/0909/81.html"&gt;&lt;/iframe&gt;&lt;/textarea&gt;&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class="cloneLink"&gt;&lt;a href="javascript:;" onclick="return false;" class="SG_comClone"&gt;&lt;img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif"  /&gt;添加到我的博客&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div id="module_3" class="SG_conn"&gt;
+  &lt;div class="SG_connHead"&gt;
+  &lt;span comp_title="分类" class="title"&gt;分类&lt;/span&gt;
+  &lt;span class="edit"&gt;
+	   &lt;/span&gt; 
+  &lt;/div&gt;
+  &lt;div class="SG_connBody"&gt;
+  		&lt;div class="classList"&gt;
+		&lt;ul&gt;
+		&lt;li class="SG_dot"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1249622393_0_1.html"&gt;全部博文&lt;/a&gt;&lt;em class="count SG_txtb"&gt;(58)&lt;/em&gt;&lt;/li&gt;
+				 &lt;/ul&gt;
+		&lt;/div&gt;
+     &lt;/div&gt;
+  &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第一列end--&gt;
+	
+	&lt;!--第二列start--&gt;
+	&lt;div id="column_2" class="SG_colW73"&gt;&lt;div id="module_10001" class="SG_conn"&gt;
+	&lt;div class="SG_connHead"&gt;
+		&lt;span comp_title="博文" class="title"&gt;博文&lt;/span&gt;
+		&lt;span class="edit"&gt;
+        		&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class="SG_connBody"&gt;
+															&lt;div class="bloglist"&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/lm/sports/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到体育博客，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_4a7bb9790100u61h" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100u61h.html" target="_blank"&gt;更新更新&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2011-04-28 12:52)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100u61h'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100u61h');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+看来微博时代的到来，直接把原来的博客挤到了无人的角落，偶然想起，进来才发现都已经半年没有更新过了，对自己的博客表示十分歉意，但是真要写点什么记录点什么，还真不知道从何开始，那就随便说说吧。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+这段时间发生了一些事情，感变了一些，现在的自己是这几年来一个全新的自己，新的生活模式，也要为未来自己想要的生活状态去追逐去努力，既然自己选择了，那就一定要保持着自己那份执着，乐观，积极，坚韧的态度去走好每一步，足球，家人，朋友，是我不可缺少的，我也会好好规划一下自己的人生，让自己在有限的生命力，活的更精彩更快乐，也会让自己身边的人一起分享！&lt;a href='http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100u61h&amp;url=http://s12.sinaimg.cn/orignal/4a7bb979ga1f37cca77ab'
+target='_blank'&gt;&lt;img height='446' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s12.sinaimg.cn/middle/4a7bb979ga1f37cca77ab&amp;690" width=
+'670' alt='' title=''  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100u61h&amp;url=http://s15.sinaimg.cn/orignal/4a7bb979ga1f38285e10e'
+target='_blank'&gt;&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100u61h" href="http://blog.sina.com.cn/s/blog_4a7bb9790100u61h.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100u61h');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100u61h" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100u61h');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100u61h" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100u61h.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100u61h"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/lm/sports/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到体育博客，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_4a7bb9790100mk8w" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100mk8w.html" target="_blank"&gt;假期贵阳游&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-10-05 16:16)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100mk8w'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100mk8w');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&nbsp;&lt;wbr&gt;
+利用联赛间歇的三天假期回了一下家乡贵阳，因为时间有限，所以没有怎么离开市区，本来想到附近的原生态地区去看看，只能下次了，见到慢慢变老的家人，越来越成熟的朋友们感慨万千，觉得时光飞逝如电，转眼我已离开家乡已经整整15个年头了，我追逐着我的足球梦想这么多年来，得到了许多，也失去了许多和家人在一起的时光，这就是生活，得失与取舍时刻相伴！祝福我的长辈们身体健康，老去的速度再慢一点，我的朋友们能事业成功，家庭幸福！
+&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100mk8w&amp;url=http://s9.sinaimg.cn/orignal/4a7bb979g91da92c958a8'
+target='_blank'&gt;&lt;img height='690' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s9.sinaimg.cn/middle/4a7bb979g91da92c958a8&amp;690"
+width='453' alt='' title=''  /&gt;&lt;/a&gt;21年的友情，希望你们一切都好！&lt;br  /&gt;
+&lt;br  /&gt;
+&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100mk8w&amp;url=http://s8.sinaimg.cn/orignal/4a7bb979g91da9bdcbb47'
+target='_blank'&gt;&lt;img height='690' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s8.sinaimg.cn/middle/4a7bb979g91da9bdcbb47&amp;690"
+width='680' alt='' title=''  /&gt;&lt;/a&gt;						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100mk8w" href="http://blog.sina.com.cn/s/blog_4a7bb9790100mk8w.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100mk8w');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100mk8w" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100mk8w');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100mk8w" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100mk8w.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100mk8w"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4a7bb9790100lwrz" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100lwrz.html" target="_blank"&gt;我的博客今天4岁23天啦！&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-09-04 20:41)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100lwrz'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100lwrz');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B2%A9%BF%CD%CE%E5%D6%DC%C4%EA&amp;by=tag" target="_blank"&gt;博客五周年&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;div style=
+'margin:0; padding:34px 0 20px 0; padding-top:33px\9; border:1px solid #fede88; background:#fcf8e7 url(http://simg.sinajs.cn/blog7actstyle/images/special/fiveyears/bg4.jpg) no-repeat center top; position:relative; text-align:center; font-family:'&gt;
+&lt;div style=
+'margin:0; padding:0; position:absolute; right:36px; top:26px;'&gt;
+&lt;/div&gt;
+&lt;div style=
+'margin:0 auto; padding:0 0 24px 0; min-height:257px; _height:257px; background:url(http://simg.sinajs.cn/blog7actstyle/images/special/fiveyears/bg_conn.png) no-repeat center top; width:433px; font-size:12px; text-align:left;'&gt;
+&lt;h3 style=
+'margin: 0pt; padding: 0pt 0pt 0pt 30px; height: 32px; line-height: 32px; overflow: hidden; color: rgb(125, 80, 0); font-family:'
+font-size:=""&gt;我的博客今天&lt;span style=
+'color: rgb(255, 54, 0);'&gt;4&lt;/span&gt;岁&lt;span style=
+'color: rgb(255, 54, 0);'&gt;23&lt;/span&gt;天啦！&lt;/h3&gt;
+&lt;div style=
+'margin:0; padding:0 52px 0 30px; line-height:150%; color:#7d5000;'&gt;
+&lt;p style='margin:0; padding:18px 0 0; padding-top:15px\9;'&gt;
+2006年08月13日，在新浪博客安家。&lt;/p&gt;
+&lt;p style='margin:0; padding:0;'&gt;2006年08月13日，写下了第一篇博文：&lt;a href=
+"http://blog.sina.com.cn/s/blog_4a7bb97901000553.html" target=
+"_blank"&gt;《我也开博了》&lt;/a&gt;。&lt;/p&gt;
+&lt;p style='margin:0; padding:0;'&gt;2006年09月09日，上传了第一张图片到相册。&lt;/p&gt;
+&lt;p style='margin:0; padding:0 0 8px 0;'&gt;这些年来，新浪博客，陪伴着我一点一点谱写生活。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=
+'margin:0 0 0 30px; padding:10px 0 0 10px; height:80px; height:85px\9; border:1px solid #cacaca; width:351px; overflow:hidden;'&gt;
+&lt;div style='margin:0; padding:0 0 8px 0; overflow:hidden; zoom:1;'&gt;
+&lt;span style='float:left;'&gt;文&nbsp;&lt;wbr&gt;章&nbsp;&lt;wbr&gt;数&lt;/span&gt;&lt;span style=
+'float:left; height:10px; border:1px solid #cecece; margin:2px 10px 0 7px; overflow:hidden;'&gt;&lt;cite style='display:inline-block; width:132px; background:url(http://simg.sinajs.cn/blog7actstyle/images/special/fiveyears/img_long.png) repeat-x left top; height:10px;overflow: hidden;'&gt;&nbsp;&lt;wbr&gt;&lt;/cite&gt;&lt;/span&gt;&lt;span style='float:left;'&gt;55篇&lt;/span&gt;&lt;/div&gt;
+&lt;div style='margin:0; padding:0 0 8px 0; overflow:hidden; zoom:1;'&gt;
+&lt;span style='float:left;'&gt;图&nbsp;&lt;wbr&gt;片&nbsp;&lt;wbr&gt;数&lt;/span&gt;&lt;span style=
+'float:left; height:10px; border:1px solid #cecece; margin:2px 10px 0 7px; overflow:hidden;'&gt;&lt;cite style='display:inline-block; width:66px; background:url(http://simg.sinajs.cn/blog7actstyle/images/special/fiveyears/img_long.png) repeat-x left -10px; height:10px;overflow: hidden;'&gt;&nbsp;&lt;wbr&gt;&lt;/cite&gt;&lt;/span&gt;&lt;span style='float:left;'&gt;2张&lt;/span&gt;&lt;/div&gt;
+&lt;div style='margin:0; padding:0 0 8px 0; overflow:hidden; zoom:1;'&gt;
+&lt;span style='float:left;'&gt;访问人数&lt;/span&gt;&lt;span style=
+'float:left; height:10px; border:1px solid #cecece; margin:2px 10px 0 7px; overflow:hidden;'&gt;&lt;cite style='display:inline-block; width:198px; background:url(http://simg.sinajs.cn/blog7actstyle/images/special/fiveyears/img_long.png) repeat-x left -20px; height:10px;overflow: hidden;'&gt;&nbsp;&lt;wbr&gt;&lt;/cite&gt;&lt;/span&gt;&lt;span style='float:left;'&gt;640091次&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100lwrz" href="http://blog.sina.com.cn/s/blog_4a7bb9790100lwrz.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100lwrz');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100lwrz" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100lwrz');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100lwrz" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100lwrz.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100lwrz"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4a7bb9790100kmne" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100kmne.html" target="_blank"&gt;我的卡通纪念T恤&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-07-06 19:45)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100kmne'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100kmne');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100kmne&amp;url=http://s16.sinaimg.cn/orignal/4a7bb979g8ab716bb1c5f'
+target='_blank'&gt;&lt;img height='690' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s16.sinaimg.cn/middle/4a7bb979g8ab716bb1c5f&amp;690"
+width='586' alt='' title=''  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;
+经过兔兔，杨星宇，还有我很多的球迷朋友的共同努力，我的Q版纪念T恤终于面世了，也算是面试，欢迎大家提出宝贵意见。我迫不及待的要了一件来穿，真的很喜欢，也很感谢喜欢我的朋友们为我做的一切！在这里也给大家看看男款和女款的大概样子吧！我准备穿着它看世界杯咯！&lt;/p&gt;
+&lt;p&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100kmne&amp;url=http://s15.sinaimg.cn/orignal/4a7bb979g8ab71d13f92e'
+target='_blank'&gt;&lt;img height='690' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s15.sinaimg.cn/middle/4a7bb979g8ab71d13f92e&amp;690"
+width='581' alt='' title=''  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100kmne&amp;url=http://static10.photo.sina.com.cn/origna'&gt;
+&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100kmne" href="http://blog.sina.com.cn/s/blog_4a7bb9790100kmne.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100kmne');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100kmne" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100kmne');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100kmne" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100kmne.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100kmne"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4a7bb9790100jcnq" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100jcnq.html" target="_blank"&gt;总结得失，再接再励&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-05-14 14:29)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100jcnq'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100jcnq');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&nbsp;&lt;wbr&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100jcnq&amp;url=http://s12.sinaimg.cn/orignal/4a7bb979g868840e829cb'
+target='_blank'&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s12.sinaimg.cn/middle/4a7bb979g868840e829cb&amp;690"
+alt='' title=''  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;马上就要出发去沈阳，这周的对手辽宁是一支不容小视的对手，他们拥有顽强的意志和超强的团队意识，我们刚刚迎来了两场胜利，球队的士气正也得到了很大的提升，面对这场困难的比赛我们更需要一颗平常心，和比对手更加积极地态度才能把困难降到最低，我们在教练的领导下，以及俱乐部和球迷的支持下已经逐渐找回状态，我相信这场比赛将是一场艰苦的对决，但是不管面对如何的对手，如何的局面，全力取胜是我们的唯一目标！						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100jcnq" href="http://blog.sina.com.cn/s/blog_4a7bb9790100jcnq.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100jcnq');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100jcnq" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100jcnq');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100jcnq" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100jcnq.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100jcnq"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://www.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到新浪首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_4a7bb9790100j5qa" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100j5qa.html" target="_blank"&gt;胜利是需要加倍付出的&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-05-05 09:15)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100j5qa'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100j5qa');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100j5qa&amp;url=http://s3.sinaimg.cn/orignal/4a7bb979g85cf0eb64cf2'
+target='_blank'&gt;&lt;img height='517' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s3.sinaimg.cn/middle/4a7bb979g85cf0eb64cf2&amp;690"
+width='690' alt='' title=''  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;客场对重庆我们经过90分钟激战最终艰难的拿到了对我们来说足以改变接下来形式的宝贵三分。赛前从俱乐部到教练以及球员都承受着不同的压力，我不敢去想客场不能拿分后果有多严重，只是随时提醒自己要把心态和身体都调整好，用一种顽强的精神去力拼对手，我也相信所有队友也是这么想的，因为有了大家在场上对教练安排的战术的严格执行，比赛中体现出来的精神面貌以及强大的凝聚力，所以才会有赛后大家享受胜利的喜悦！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;
+在名次上的拉近对大家来说也减轻了很大的压力，这样一来可以在以后的比赛中更好的去发挥球队的一些东西，所以希望我们球队可以利用这次胜利，把自己的东西更好的体现出来，让大家更清晰的认识绿城！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 最后我也要感谢从贵阳和成都赶到重庆的家人以及成都过来的球迷朋友，一场胜利让关心我&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100j5qa" href="http://blog.sina.com.cn/s/blog_4a7bb9790100j5qa.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100j5qa');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100j5qa" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100j5qa');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100j5qa" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100j5qa.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100j5qa"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://www.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到新浪首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_4a7bb9790100j0pz" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100j0pz.html" target="_blank"&gt;调整心态，改变现状&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-04-27 19:06)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100j0pz'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100j0pz');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt; &lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100j0pz&amp;url=http://s5.sinaimg.cn/orignal/4a7bb979g853668c2e994'
+target='_blank'&gt;&lt;img height='690' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s5.sinaimg.cn/middle/4a7bb979g853668c2e994&amp;690"
+width='517' name='image_operate_63781272368643859' alt='' title=''
+id="image_operate_63781272368643859"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;
+联赛进行了5轮了，我们只得到了两分，要不是由于一些误判的话，我们的积分和排名不会这么尴尬。（发生错误也是足球的魅力之一）但是5轮过后的结果还是和联赛开始的预想还是有一定的差距，确实让很多领导还有球迷朋友感到些许的失望，但是困难是暂时的，我们这个集体有勇气去改变现状，目前大家都在积极的训练着，调整着，积蓄着能量，在等待它爆发的时刻，现在我也感到前所未有的压力，但是在重压之下，我相信我能并发出更强的斗志，与球队一起携手并进，取得一场能唤醒大家的一场胜利，更希望各位朋友给我们更多的支持和耐心，继续与我们绿城风雨同舟，一起迎接走出阴霾的时刻！&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100j0pz&amp;url=ht'&gt;&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100j0pz" href="http://blog.sina.com.cn/s/blog_4a7bb9790100j0pz.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100j0pz');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100j0pz" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100j0pz');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100j0pz" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100j0pz.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100j0pz"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4a7bb9790100ig28" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100ig28.html" target="_blank"&gt;大雨快来吧&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-03-31 20:35)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100ig28'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100ig28');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;
+记得小时候在家乡除了学习踢球玩耍以外，给我记忆最深刻的就是，贵州秀丽的风景，美丽的山河，常常雨水的浇灌也是美丽风景清新空气形成的必要条件，可是如今家乡的旱情时刻牵动着我，美丽壮观的黄果树瀑布都快要枯竭，农民的田地都已干裂，持续的干旱给灾区人民带来了太多太多太多的苦难，给国家也带来了严重损失，我真诚的祝福灾区的人们，希望他们能早日摆脱困境，更希望雨水能快点降临在这些需要您的土地上，让他们恢复往日的美丽与平静吧！我的心与灾区人民以及家乡受灾人民在一起，我为你们祈祷！&lt;a href='http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100ig28&amp;url=http://s14.sinaimg.cn/orignal/4a7bb979g831985c5e8dd'
+target='_blank'&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s14.sinaimg.cn/middle/4a7bb979g831985c5e8dd&amp;690"
+alt='' title=''  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100ig28&amp;url=http://s10.sinaimg.cn/orignal/4a7bb979g831987180559'
+target='_blank'&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s10.sinaimg.cn/middle/4a7bb979g831987180559&amp;690"
+alt='' title=''  /&gt;&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100ig28" href="http://blog.sina.com.cn/s/blog_4a7bb9790100ig28.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100ig28');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100ig28" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100ig28');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100ig28" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100ig28.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100ig28"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_4a7bb9790100i9x8" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100i9x8.html" target="_blank"&gt;我在杭州的日子&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-03-21 20:05)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100i9x8'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100i9x8');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4a7bb9790100i9x8&amp;url=http://s6.sinaimg.cn/orignal/4a7bb979g82518e172875'
+target='_blank'&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s6.sinaimg.cn/middle/4a7bb979g82518e172875&amp;690"
+alt='' title=''  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;到绿城足球俱乐部已经有两月了，随着转会的成功，和球队的顺利磨合，我已经非常愉快的融入到了这个将与我携手共创崭新未来的新家，俱乐部的软硬件都相当的优越，这给队员的生活训练起到了很关键的作用，更重要的是教练的人性化管理，有针对性的科学训练，以及球队内部融洽的气氛，这让我深深的感受到这个新环境给我带来的快乐和对未来的憧憬！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;
+很多朋友也很关心这段时间我的状况，谢谢大家的关心，我真的很好，虽然有离别的不舍，但是这里领导，教练，队友球迷都给予我很多帮助和信任，让我有一种亲切的感觉，我很幸运能加盟这样一个俱乐部，请关心我的朋友们放一千万个心，我会继续全力以赴为你们献上精彩的表现，也会在这边好好的照顾自己，前段时间的训练和比赛，都是在为马上开始的联赛做着准备，请大家拭目以待吧，也希望大家能在不同的途&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100i9x8" href="http://blog.sina.com.cn/s/blog_4a7bb9790100i9x8.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100i9x8');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100i9x8" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100i9x8');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100i9x8" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100i9x8.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100i9x8"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4a7bb9790100hmov" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100hmov.html" target="_blank"&gt;新年要更新，新年新气象！&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-01-29 00:00)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4a7bb9790100hmov'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100hmov');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D7%E3%C7%F2&amp;by=tag" target="_blank"&gt;足球&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+发现好久没有来更新了，确实前段时间的思绪很乱，也就没有什么心情和时间来这里更新，虽然当下的足球环境尚不明朗，但是我坚信一切会很快好起来的。我更会像从前一样坚定的，努力的，乐观的继续自己的足球事业，只有每个人对足球认真的付出，坚守职责，中国足球才会见到真正的彩虹！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+当我得知自己被挂牌的时候，真的，百感交集！当自己要面临离开自己生活，工作了12年的城市，真的舍不得，领导，长辈，球迷，同事，朋友，家人你们都是我这12年在成都最大的收获和财富，也谢谢大家这么多年来给与我的帮助和厚爱，我目前所拥有的一切是和你们的帮助分不开的，虽然我舍不得这12年来所拥有的一切，但是现实又是残酷的，我必须抹干眼泪继续往前走，一旦停下来，会让自己后悔，会让关心我支持我的朋友们失望，所以我要在一个新的环境中继续去创造一个属于自己的未来！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;
+请大家放心，现在的我已经调整好了心态，很快乐，很健康，我心中会一直惦记着你们，特别要感谢的是这么多年给我无限支持和厚爱的球迷朋友们，你们对我的支持是那么无怨无悔，不论我走到哪里都会记得你们给与我的一切。最后我衷心希望我四川的每个朋友都能事事顺&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4a7bb9790100hmov" href="http://blog.sina.com.cn/s/blog_4a7bb9790100hmov.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+																																														┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4a7bb9790100hmov');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4a7bb9790100hmov" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4a7bb9790100hmov');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4a7bb9790100hmov" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4a7bb9790100hmov.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4a7bb9790100hmov"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div favmd5='{"4a7bb9790100u61h":"9165094cf1ddd74a47683ea057cdbb82","4a7bb9790100mk8w":"3efa3d7c9aca8d77b5ff30b30bd48756","4a7bb9790100lwrz":"431c7a18b761e197f4fc12d92510143c","4a7bb9790100kmne":"d8cf3065c512918cb9467e2ce86350aa","4a7bb9790100jcnq":"ab9efb495787dae42ee6664b3390ecab","4a7bb9790100j5qa":"19d141bc24d4ef7386f1b1e57f27be8b","4a7bb9790100j0pz":"347fed9973654b1ed5298d310a8a70c4","4a7bb9790100ig28":"5d24e0603544a1d100f63feda54c960b","4a7bb9790100i9x8":"06d569cfb663c997e8be294cafb1a4d8","4a7bb9790100hmov":"8106cdf73cb3832bb956107a71e9b1a6"}' classid="0" pagesize="10" total="58" id="pagination_10001" class="SG_page"&gt;&lt;/div&gt;
+					&lt;/div&gt;
+							  
+				&lt;/div&gt;  
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第二列start--&gt;
+	
+	&lt;!--第三列start--&gt;
+	&lt;div id="column_3" class="SG_colWnone"&gt;&lt;div style="width:0px;height:0.1px;margin:0px;"&gt;&nbsp;&nbsp;&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第三列end--&gt;
+
+	
+    &lt;/div&gt;
+   &lt;!--主题内容结束 --&gt;
+  
+
+	&lt;div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"&gt;&lt;/div&gt;
+    &lt;div class="sinablogfooter" id="sinablogfooter"  style="position:relative;"&gt;
+      
+      &lt;p class="SG_linka"&gt;&lt;a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank"&gt;新浪BLOG意见反馈留言板&lt;/a&gt;　&lt;a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');"&gt;不良信息反馈&lt;/a&gt;　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正&lt;/p&gt;
+   
+      &lt;p class="SG_linka"&gt;&lt;a href="http://corp.sina.com.cn/chn/" target="_blank"&gt;新浪简介&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/eng/" target="_blank"&gt;About Sina&lt;/a&gt; | &lt;a href="http://emarketing.sina.com.cn/" target="_blank"&gt;广告服务&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/contactus.html" target="_blank"&gt;联系我们&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank"&gt;招聘信息&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank"&gt;网站律师&lt;/a&gt; | &lt;a href="http://english.sina.com" target="_blank"&gt;SINA English&lt;/a&gt; | &lt;a href="http://members.sina.com.cn/apply/" target="_blank"&gt;会员注册&lt;/a&gt; | &lt;a href="http://help.sina.com.cn/" target="_blank"&gt;产品答疑&lt;/a&gt; &lt;/p&gt;
+      &lt;p class="copyright SG_linka"&gt; Copyright &copy; 1996 - 2014 SINA Corporation,  All Rights Reserved&lt;/p&gt;
+      &lt;p class="SG_linka"&gt; 新浪公司 &lt;a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank"&gt;版权所有&lt;/a&gt;&lt;/p&gt;
+	  &lt;a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="swfbox"&gt;&lt;/div&gt;
+&lt;script id="PVCOUNTER_FORIE" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;script type="text/javascript"&gt;
+var scope = {
+    $newTray : 1,
+    $setDomain : true,
+    $uid : "1249622393",
+    $PRODUCT_NAME : "blog7",      //blog7photo,blog7icp
+    $pageid : "index",
+    $key :  "799c691c9cbaf50beada14152a3ca4a4",
+    $uhost : "wangsong1012",
+    $ownerWTtype :"",
+    $private: {"cms":1,"hidecms":0,"blogsize":0,"ad":0,"sms":0,"adver":0,"tj":1,"p4p":0,"spamcms":1,"pageset":0,"invitationset":0,"top":0,"active":"4","medal":4,"headpic":1},
+    $playids :"",
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,    component_lists:{"2":{"size":730,"list":[10001]},"1":{"size":210,"list":[105,901,81,43,3]}},
+    formatInfo:1,
+    UserPic:[{"pid":null,"repeat":"no-repeat","align-h":"top","align-v":"top","apply":0},{"pid":null,"repeat":null,"align-h":null,"align-v":null,"apply":0},{"pid":null,"repeat":"no-repeat","align-h":"top","align-v":"top","apply":0}],
+    UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
+    UserColor:"",
+    backgroundcolor:"",
+    tpl:"11_39",
+    reclist:0    };
+var $encrypt_code = "953cf6f4a9cd0986ad0621ba1684eeca";
+&lt;/script&gt;
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__load_js();&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__render_page();&lt;/script&gt;
+
+
+&lt;!-- ALL CODE START--&gt;&lt;!-- SUDA_CODE_START --&gt; 
+&lt;noScript&gt; 
+&lt;div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'&gt;&lt;img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt=''  /&gt;&lt;/div&gt; 
+
+&lt;/noScript&gt; 
+&lt;!-- SUDA_CODE_END --&gt; 
+
+
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/xblogtheme/js/blog680-min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+        var slotArr = ['atcTitLi_SLOT_41', 'atcTitLi_SLOT_42','loginBarActivity']; //广告位id
+        var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
+        SinaBlog680.staticBox(slotArr, sourceArr);
+&lt;/script&gt;
+&lt;/html&gt;
+</head></html>

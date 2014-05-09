@@ -1,0 +1,803 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>徐阳_新浪博客</title>
+<meta name="keywords" content="徐阳_新浪博客,徐阳,体育,杂谈,世界杯,体育" />
+<meta name="description" content="徐阳_新浪博客,徐阳,走在独木桥上的贝尼特斯,世界杯随想(1)_再谈世界杯的精彩,一句话评点三十二强,季军争夺战的几个关键词,亚洲骄傲,老马&nbsp;请不要放弃,吉安&nbsp;你是爷们&nbsp;纯的,博斯克“换手如换刀”&nbsp;西班牙“换”进八强,值得期待的“橙色郁金香”,英格兰我不会为你哭泣&nbsp;墨西哥今天起我做你的球迷" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+&lt;!–[if lte IE 6]&gt;
+&lt;script type="text/javascript"&gt;
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+&lt;/script&gt;
+&lt;![endif]–&gt;
+&lt;script type="text/javascript"&gt;
+window.staticTime=new Date().getTime();
+&lt;/script&gt;
+&lt;link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php"  /&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd"  /&gt;
+&lt;link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest"  /&gt;
+&lt;link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1211173944.xml" title="RSS"  /&gt;
+&lt;link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet"  /&gt;&lt;style id="tplstyle" type="text/css"&gt;@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/5/5_12/t.css");
+&lt;/style&gt;
+&lt;style id="positionstyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="bgtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="headtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="navtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--$sinatopbar--&gt;
+&lt;div style="z-index:512;" class="nsinatopbar"&gt;
+  &lt;div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"&gt;&lt;/div&gt;
+  &lt;div class="ntopbar_main"&gt; 
+    &lt;a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"&gt;&lt;img class="ntopbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"&gt;&lt;/a&gt;
+    &lt;div class="ntopbar_floatL"&gt;
+      &lt;div class="ntopbar_search" id="traySearchBar"&gt;&lt;/div&gt;
+	  &lt;div class="ntopbar_ad" id="loginBarActivity" style="display:none;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="ntopbar_loading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"&gt;加载中…&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--$end sinatopbar--&gt;
+
+&lt;div class="sinabloga" id="sinabloga"&gt;
+	&lt;div id="sinablogb" class="sinablogb"&gt;
+
+	   
+ &lt;div id="sinablogHead" class="sinabloghead"&gt;
+     &lt;div style="display: none;" id="headflash" class="headflash"&gt;&lt;/div&gt;
+	   &lt;div id="headarea" class="headarea"&gt;
+      &lt;div id="blogTitle" class="blogtoparea"&gt;
+      &lt;h1 id="blogname" class="blogtitle"&gt;&lt;a href="http://blog.sina.com.cn/xuyangblog"&gt;&lt;span id="blognamespan"&gt;徐阳的BLOG&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;
+	  		
+					&lt;div id="bloglink" class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/xuyangblog"&gt;http://blog.sina.com.cn/xuyangblog&lt;/a&gt;  &lt;a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss"&gt;[&lt;cite&gt;订阅&lt;/cite&gt;]&lt;/a&gt;&lt;a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1211173944'));"&gt;[&lt;cite&gt;手机订阅&lt;/cite&gt;]&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="blognav" id="blognav"&gt;
+      			  &lt;div id="blognavBg" class="blognavBg"&gt;&lt;/div&gt; &lt;div class="blognavInfo"&gt; 
+		&lt;span&gt;&lt;a  class="on" href="http://blog.sina.com.cn/xuyangblog"&gt;首页&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a  href="http://blog.sina.com.cn/s/articlelist_1211173944_0_1.html"&gt;博文目录&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a href="http://photo.blog.sina.com.cn/xuyangblog"&gt;图片&lt;/a&gt;&lt;/span&gt;
+      &lt;span class="last"&gt;&lt;a  href="http://blog.sina.com.cn/s/profile_1211173944.html"&gt;关于我&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;      		      		 	
+      
+             &lt;div class="autoskin" id="auto_skin"&gt;
+       &lt;/div&gt;
+
+&lt;div class="adsarea"&gt;
+     &lt;a href="#"&gt;&lt;div id="template_clone_pic" class="pic"&gt;&lt;/div&gt;&lt;/a&gt;
+     &lt;div id="template_clone_link" class="link wdc_HInf"&gt;&lt;/div&gt;
+     &lt;div id="template_clone_other" class="other"&gt;&lt;/div&gt;        
+&lt;/div&gt;
+    &lt;/div&gt;
+    	    	    &lt;/div&gt;
+    
+    &lt;!--主题内容开始 --&gt;
+    &lt;div class="sinablogbody" id="sinablogbody"&gt;
+	    &lt;div id="blogads" style="display: none;" class="blogads" uid="1211173944" formatInfo="3"&gt;&lt;div class="ad_head"&gt;&lt;/div&gt;&lt;div class="ad_body"&gt;&lt;div id="adversite_top" class="adsle"&gt;
+	&lt;/div&gt;&lt;div class="adsrig"&gt;新浪广告共享计划&gt;&lt;/div&gt;&lt;div class="clearit"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="ad_foot"&gt;&lt;/div&gt;&lt;/div&gt;
+		
+	&lt;!--第一列start--&gt;
+    &lt;div id="column_1" class="SG_colW21 SG_colFirst"&gt;&lt;div class="SG_conn" id="module_901"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="个人资料"&gt;个人资料&lt;/span&gt;
+            &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="info"&gt;
+                            
+            &lt;div class="info_img" id="comp_901_head"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://portrait1.sinaimg.cn/1211173944/blog/180" id="comp_901_head_image" width="180" height="180" alt="徐阳" title="徐阳"  /&gt;&lt;/div&gt;
+            
+            &lt;div class="info_txt"&gt;
+              &lt;div class="info_nm"&gt;
+                &lt;img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;
+                &lt;span class="SG_txtb"&gt;&lt;strong id="ownernick"&gt;徐阳                                &lt;/strong&gt;&lt;/span&gt;
+                
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class="info_btn1"&gt;
+              &lt;!--user['qing_url'] --&gt;
+                &lt;a target="_blank" href="http://qing.blog.sina.com.cn/u/1211173944" onclick="v7sendLog &amp;&amp; v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;Qing&lt;/cite&gt;&lt;/a&gt;
+                &lt;a target="_blank" href="http://weibo.com/u/1211173944?source=blog" class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;微博&lt;/cite&gt;&lt;/a&gt;
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class="SG_j_linedot"&gt;&lt;/div&gt;        &lt;div class="info_locate" id = "info_locate_id"&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;div class="info_btn2"&gt;
+    &lt;p&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"&gt;&lt;cite &gt;加好友&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"&gt;&lt;cite &gt;发纸条&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;a href="http://blog.sina.com.cn/s/profile_1211173944.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"&gt;&lt;cite&gt;写留言&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"&gt;&lt;cite onclick="Module.SeeState.add()"&gt;加关注&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+                  &lt;div class="info_list"&gt;     
+                                   &lt;ul class="info_list1"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客等级：&lt;/span&gt;&lt;span id="comp_901_grade"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/2.gif"   /&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/0.gif"   /&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客积分：&lt;/span&gt;&lt;span id="comp_901_score"&gt;&lt;strong&gt;310&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;ul class="info_list2"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客访问：&lt;/span&gt;&lt;span id="comp_901_pv"&gt;&lt;strong&gt;1,765,760&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;关注人气：&lt;/span&gt;&lt;span id="comp_901_attention"&gt;&lt;strong&gt;536&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/div&gt;
+&lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="adps_person" style="display:none"&gt;
+&lt;div class="SG_conn" id="module_946"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="广告共享计划"&gt;广告共享计划&lt;/span&gt;
+            &lt;span class="edit"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+                    &lt;!--广告容器 --&gt; 
+           &lt;div class="widgetcen"&gt; 
+           &lt;div class="widgetconn" id="adps000001" &gt; 
+            广告共享计划&lt;!--广告内容 --&gt; 
+           &lt;/div&gt; 
+           &lt;/div&gt; 
+            &lt;!--广告容器结束 --&gt; 
+         &lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;       
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="SG_conn" id="module_1"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="评论"&gt;评论&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1001"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="友情链接"&gt;友情链接&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget"&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/yangtz" target="_blank"&gt;小羊儿&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://lijinyublog.blog.sohu.com/" target="_blank"&gt;李金羽&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://liujianhong.blog.sohu.com/" target="_blank"&gt;刘建宏&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://tomjianxiang.blog.tom.com" target="_blank"&gt;黄健翔&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_10004"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="图片播放器"&gt;图片播放器&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="cloneWidget"&gt;&lt;div class="diywidget"&gt;&lt;div align=center&gt;&lt;embed FlashVars="delay=-1" type="application/x-shockwave-flash" src="http://sjs.sinajs.cn/blog7swf/loader.swf?p=sina&amp;uid=1211173944&amp;app=slide" allowScriptAccess="always" width="190" height="28" wmode="transparent" /&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class="cloneLink"&gt;&lt;a href="javascript:;" onclick="return false;" class="SG_comClone"&gt;&lt;img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif"  /&gt;添加到我的博客&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1003"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="音乐背景"&gt;音乐背景&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget" style="position:relative"&gt;&lt;EMBED SRC="http://www.pingyin.net/music/sound/jdlg/012.mp3" WIDTH="280" HEIGHT="30" TYPE="audio/mpeg" LOOP="true"&gt;&lt;/EMBED&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第一列end--&gt;
+	
+	&lt;!--第二列start--&gt;
+	&lt;div id="column_2" class="SG_colW51"&gt;&lt;div id="module_10001" class="SG_conn"&gt;
+	&lt;div class="SG_connHead"&gt;
+		&lt;span comp_title="博文" class="title"&gt;博文&lt;/span&gt;
+		&lt;span class="edit"&gt;
+        		&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class="SG_connBody"&gt;
+															&lt;div class="bloglist"&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://www.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到新浪首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100muwp" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100muwp.html" target="_blank"&gt;走在独木桥上的贝尼特斯&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-11-20 00:54)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100muwp'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100muwp');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; &lt;font style=
+'FonT-siZe: 18px'&gt;&nbsp;&lt;wbr&gt;欧冠完败热刺，联赛两平弱旅，在输掉米兰德比之后，贝尼特斯的国米已经距离榜首的同城对手ac米兰相差6分。这支半年之前欧洲最疯狂的球队究竟怎么了？难道远在马德里的穆里尼奥仍然在精神上控制着这支球队？难道出自马德里的贝尼特斯注定只是时装之都的过客？&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font style='FonT-siZe: 18px'&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+米兰德比之前贝尼特斯呼吁球迷媒体忘记穆里尼奥，他的想法或许没有错，因为现在的这支球队“姓贝”，但要让球迷忘记一个曾经为俱乐部带来至高荣誉的教练谈何容易。贝尼特斯错就错在太急于改变穆里尼奥留下的一切印记。从接手球队开始，贝尼特斯要求俱乐部撤下所有穆里尼奥的照片。在技战术风格方面，贝帅一改穆里尼奥时期国米沉稳老练的风格，而是采用了对体能要求强度更大的中前场紧逼防守，这对年龄普遍偏大又面临几线作战的国米来说，无异于走上了一条艰险之路。我们知道穆里尼奥时期的国米平均48%的控球率杀进欧冠决赛，30%的控球率击败拜仁夺得冠军杯。球队防守稳健，反击犀利。三冠王不是偶然，而是穆里尼奥根据球员的特点制定出了适合国米风格的打法。&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100muwp" href="http://blog.sina.com.cn/s/blog_48310c380100muwp.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100muwp.html#comment" id="c_10001_48310c380100muwp"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100muwp');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100muwp" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100muwp');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100muwp" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100muwp.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100muwp"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://www.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到新浪首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100k2ii" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100k2ii.html" target="_blank"&gt;世界杯随想(1)_再谈世界杯的精彩&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-07-17 23:13)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100k2ii'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100k2ii');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D4%D3%CC%B8&amp;by=tag" target="_blank"&gt;杂谈&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;span style='FonT-siZe: 7.5pt'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;&lt;font style='FonT-siZe: 14px'&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+昨天段暄发来短信“西班牙夺冠，败给徐指，回头请吃饭”&lt;span lang='EN-US' xml:lang=
+'EN-US'&gt;.&lt;/span&gt;我才记起那是世界杯抽签的时候，我和段暄在演播室打的一个赌。转眼世界杯结束了，从来没觉得一个月过的如此之快。&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang='EN-US' style='FonT-siZe: 7.5pt' xml:lang=
+'EN-US'&gt;&lt;font style='FonT-siZe: 16px'&gt;&lt;font style=
+'FonT-siZe: 14px'&gt;&nbsp;&lt;wbr&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font style='FonT-siZe: 16px'&gt;&lt;span lang='EN-US' style=
+'FonT-siZe: 7.5pt' xml:lang='EN-US'&gt;&nbsp;&lt;wbr&gt;&lt;/span&gt; &lt;span style=
+'FonT-siZe: 7.5pt'&gt;现&lt;font style=
+'FonT-siZe: 14px'&gt;在的印象还是世界杯第一天去演播室被“赶走”的场景，由于嗓子发炎失声已经说不出话来，所以导播只能让我先回去休息。记得还有一次北京下大雨，我打着伞跑到演播室，由于感冒咳嗽坐在演播室就已经大汗淋漓，又流眼泪又流汗，还好张斌老师看到后中场休息没有问我任何问题，而是直接转到了下半场&lt;span lang='EN-US'
+xml:lang='EN-US'&gt;,&lt;/span&gt;至今还心存感激&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100k2ii" href="http://blog.sina.com.cn/s/blog_48310c380100k2ii.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100k2ii.html#comment" id="c_10001_48310c380100k2ii"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100k2ii');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100k2ii" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100k2ii');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100k2ii" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100k2ii.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100k2ii"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://www.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到新浪首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100k0er" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100k0er.html" target="_blank"&gt;一句话评点三十二强&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-07-13 23:30)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100k0er'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100k0er');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt; A组&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 南非——“呜呜祖拉”比东道主要出名。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 乌拉圭——最黑的一匹马。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 墨西哥——如果“FIFA”道歉管用，还要警察干吗？&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 法国——人心散了，队伍不好带了。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; B组&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 韩国——朴智星不是一个人在战斗，青龙、周永们都在他身边。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 尼日利亚——险些出线，也险些被总统禁赛。天堂和地狱其实并不遥远。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 希腊——“碾子是碾子，缸是缸”希腊基本还是04欧洲杯的人马。“老雷”老了，球员也老了。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 阿根廷——马拉多纳哭了，梅西哭了，男人哭吧哭吧不是罪。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; C组&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 阿尔及利亚——“法国二队”比法国一队表现稍好。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 美国——“上尉”多诺万“生死时速”拯救“美国大兵”。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 斯洛文尼亚——第二次参加世界杯，进一球、拿一分、赢一场，齐活。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 英格兰——千万别把英超和英格兰国家队混为一谈。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;D组&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 澳大利亚——科威尔们的告别演出。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 加纳——吉安的勇气，非洲的奇迹。&lt;/p&gt;
+&lt;p&gt;&amp;n&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100k0er" href="http://blog.sina.com.cn/s/blog_48310c380100k0er.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100k0er.html#comment" id="c_10001_48310c380100k0er"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100k0er');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100k0er" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100k0er');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100k0er" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100k0er.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100k0er"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100jxwy" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jxwy.html" target="_blank"&gt;季军争夺战的几个关键词&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-07-11 06:56)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100jxwy'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jxwy');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;
+季军——我们还需要“季军”吗？看看今天的季军之战，回答只有两个字：需要！四个字：当然需要！这是世界杯精彩组成的一部分，必须的！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 大雨——雨一直下，气氛还算融洽。大雨也许影响了双方技战术发挥，但却没有浇灭球员对胜利的那份渴望。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 德国——季军对你们来说只是开始，年轻没有失败，你们拥有的是未来。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 乌拉圭——虽然穿着蓝色的球衣，但你们是世界杯上最黑的一匹马。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 托马斯.穆勒——“老马”终于认识了这个“球童”。而超过前辈“盖德.穆勒”对你来说只是迟早的事。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;
+迭戈.弗兰——感谢当年网球教练没把你带到罗兰加洛斯、温布尔顿的赛场，否则足球场上我们就看不到这样一位无所不能的射手。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;
+勒夫——留下来吧，是你让我们看到了完全不一样的德国队。蓝色的T恤虽然很帅，但未必一直带给你好运。也许早一点系上那条帅气的围脖，不仅能帮你抵御流感的侵袭，没准还能让你带领球队走的更远。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt; 克洛泽——虽然没有出场，虽然距离罗纳尔多还差一个进球&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100jxwy" href="http://blog.sina.com.cn/s/blog_48310c380100jxwy.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100jxwy.html#comment" id="c_10001_48310c380100jxwy"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jxwy');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100jxwy" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100jxwy');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100jxwy" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jxwy.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100jxwy"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100jwaa" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jwaa.html" target="_blank"&gt;亚洲骄傲&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-07-09 01:16)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100jwaa'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jwaa');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&lt;span style='FonT-siZe: 7.5pt'&gt;&lt;font style=
+'FonT-siZe: 20px'&gt;&lt;font style='FonT-siZe: 18px'&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+&lt;font style='FonT-siZe: 16px'&gt;&lt;font style=
+'FonT-siZe: 18px'&gt;世界杯的精彩还在继续，代表亚洲的四支球队虽然没有取得令人振奋的成绩，但每支球队的表现却是可圈可点。
+&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang='EN-US' style='FonT-siZe: 7.5pt' xml:lang=
+'EN-US'&gt;&lt;font style='FonT-siZe: 20px'&gt;&lt;font style=
+'FonT-siZe: 18px'&gt;&lt;font style='FonT-siZe: 16px'&gt;&lt;font style=
+'FonT-siZe: 18px'&gt;&nbsp;&lt;wbr&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font style='FonT-siZe: 16px'&gt;&lt;font style=
+'FonT-siZe: 18px'&gt;&lt;span lang='EN-US' style='FonT-siZe: 7.5pt'
+xml:lang='EN-US'&gt;&nbsp;&lt;wbr&gt; &lt;font style=
+'FonT-siZe: 18px'&gt;朝&lt;/font&gt;&lt;/span&gt;&lt;span style=
+'FonT-siZe: 7.5pt'&gt;&lt;font style=
+'FonT-siZe: 18px'&gt;鲜队——朝鲜队踢的不是足球，朝鲜队踢的是精神。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100jwaa" href="http://blog.sina.com.cn/s/blog_48310c380100jwaa.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100jwaa.html#comment" id="c_10001_48310c380100jwaa"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jwaa');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100jwaa" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100jwaa');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100jwaa" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jwaa.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100jwaa"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/lm/z/2010worldcup/index.html" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到2010南非世界杯专题，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100js4m" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100js4m.html" target="_blank"&gt;老马&nbsp;请不要放弃&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-07-04 22:09)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100js4m'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100js4m');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;老马，请不要哭泣，你只是输掉了一场比赛而已。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，请不要离去！因为你仍然是足球场的标志之一。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，请不要放弃，为了你曾经带给我们无限美好的回忆。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，请继续带领阿根廷前进，因为是你才选择了蓝白，而不是因为梅西。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，请不要在意场外的人身攻击，也不要因为一场失利而迷失自己！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，卡佩罗也输了一个大的？但他拒绝辞职，所以你要向他老人家学习，在教练席上重新证明自己！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，足球场上你所向披靡，但教练席上，毕竟你只是一名学徒而已。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，球场内外你经历了那么多的风雨，请你也不必在意一次世界杯失败的洗礼。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，请你不要理会全世界的闲言碎语，你只需要在教练岗位上专注的做好你自己。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，你输掉的只是一场比赛，而不应该失去继续执教蓝白的勇气！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，请收回你的辞职，为了支持你的亿万球迷。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;老马，请重新站起，不要放弃，因为那不是你做人的风格和属于你的骨气！&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100js4m" href="http://blog.sina.com.cn/s/blog_48310c380100js4m.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100js4m.html#comment" id="c_10001_48310c380100js4m"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100js4m');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100js4m" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100js4m');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100js4m" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100js4m.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100js4m"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100jqqx" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jqqx.html" target="_blank"&gt;吉安&nbsp;你是爷们&nbsp;纯的&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-07-03 06:05)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100jqqx'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jqqx');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+乌拉圭同加纳的比赛结束已经快半个多小时了，却很难平复我内心的激动。当比赛打到最后跌宕起伏的那个时刻，我感觉这已经不是一场足球比赛了，它更像是一出扣人心弦的“好莱坞”大片。这部大片没有导演，但演员却把角色演绎的如此悲情如此精彩。从120分钟到点球决战，不，是120分钟的最后一分钟到点球决战。那短短几分钟时间所涵盖的远远已经超出足球所能代表的一切，两支球队不是比赛足球，而是在向我们讲述人生！那一刻，我真的被他们感动了.....&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+坦白的说这称不上是一场技战术含量很高的比赛,但这却是一场伟大的比赛，这是一场可以载入世界杯史册的经典之战。就是这两支球迷最不看好的八强球队向我们展示了什么才是真正的足球！坚持、信任、绝望、失望、希望、大喜、大悲、光荣、梦想，乌拉圭和加纳在短短几分钟的时间里，将这一切演绎的淋漓尽致。当乌拉圭的前锋苏亚雷斯将加纳人的头球用手挡出球门的时候，我没有看到他的不道德行为，我看到的是他为球队生存所用尽的最后一丝气力，不要放弃，即使只有那么一点点生的希望！当加纳队的吉安罚失那个可以改变非洲球队历史的点球之后，我看到的是身边的队友在一旁的安慰与&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100jqqx" href="http://blog.sina.com.cn/s/blog_48310c380100jqqx.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100jqqx.html#comment" id="c_10001_48310c380100jqqx"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jqqx');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100jqqx" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100jqqx');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100jqqx" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jqqx.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100jqqx"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100jnuh" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jnuh.html" target="_blank"&gt;博斯克“换手如换刀”&nbsp;西班牙“换”进八强…&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-06-30 05:19)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100jnuh'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jnuh');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+伊比利亚半岛之战进行到下半场58分钟，双方教练同时做出了换人调整。奎罗斯用丹尼换下了状态正佳的阿尔梅达，而博斯克却用此前比赛一分钟没有出过场的小将略论特换下状态一般的“金童”托雷斯。&nbsp;&lt;wbr&gt;正是这次换人成为了本场比赛的转折。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+我们无法质疑奎罗斯的换人，因为每个教练员都有自己的想法，而一个前锋的调整或许不能左右比赛最终的胜负，但换下状态正佳的阿尔梅达却多少显得有些牵强。下半场开始阶段葡萄牙最有威胁的进攻都是来自这位身材高大冲击力极强的前锋，被换下的那一瞬间，阿尔梅达的表情显然是无法理解主教练的意图。丹尼上场之后不仅没有很快的进入状态，相反阿尔梅达在场期间防守已有些吃紧的西班牙右路，却成了西班牙进攻的发起点。拉莫斯在阿尔梅达下场之后显得尤为活跃，几乎每次进攻都可以看到这位来自“皇马”的热血青年。换前锋的目的不仅是要为球队摧城拔寨，即使不能进球也要给对方防守带来足够大的压力。但显然今天奎罗斯的换人并没有起到预期的目的和效果。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;
+我们再来分析一下博斯克的换人。略论特，身高195CM，此前仅有7场国家队比赛的经验，三场小组赛更是一分钟都没有出场，博斯克是在最后&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100jnuh" href="http://blog.sina.com.cn/s/blog_48310c380100jnuh.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100jnuh.html#comment" id="c_10001_48310c380100jnuh"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jnuh');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100jnuh" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100jnuh');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100jnuh" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jnuh.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100jnuh"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100jmy7" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jmy7.html" target="_blank"&gt;值得期待的“橙色郁金香”&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-06-29 04:55)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100jmy7'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jmy7');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+荷兰有惊无险的挺进八强，从小组赛到淘汰赛阶段的比赛，荷兰一改往日小组赛过热的状态，而是选择了更加务实的足球。虽然进攻不如以往犀利，配合不如以往精彩，但稳扎稳打的荷兰队恰恰是荷兰队足球的“可怕之处”。“无冕之王”一直是压在橙衣军团身上的一座大山，“全攻全守”也只不过是球迷对以往荷兰足球的一种怀念。荷兰队之所以总差那么一点点的距离到达顶峰，不是因为他们的进攻不力，而恰恰是因为他们太喜欢进攻而忽视了球队的防守和整体的均衡。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;
+目前所打的四场比赛，球迷们并没有看到那支进攻行云流水场面大开大和的荷兰队。在结果和过程的追求上，显然范.马尔维克选择了务实也更加注重结果的足球。其实在巴斯滕时期的国家队，已经开始采用了两名防守型后腰加强球队的防守。而以往荷兰足球是宁要“漂亮”的进攻也不要“难看”的防守，这也直接导致了荷兰足球“看上去很美”。但大赛成绩却总是和荷兰人开着一次又一次的玩笑，巴斯滕所采用的双后腰的战术，甚至一度成为“荷兰足球捍卫者”攻击的目标。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;
+在荷兰足球4-3-3的理念当中，可以有防守型的后腰，但只能是一名，另外两名前卫则必须是攻击型的前腰。是坚持荷兰&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100jmy7" href="http://blog.sina.com.cn/s/blog_48310c380100jmy7.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100jmy7.html#comment" id="c_10001_48310c380100jmy7"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jmy7');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100jmy7" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100jmy7');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100jmy7" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jmy7.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100jmy7"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_48310c380100jm2k" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jm2k.html" target="_blank"&gt;英格兰我不会为你哭泣&nbsp;墨西哥今天起我…&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2010-06-28 06:10)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48310c380100jm2k'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jm2k');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CA%C0%BD%E7%B1%AD&amp;by=tag" target="_blank"&gt;世界杯&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%E5%D3%FD&amp;by=tag" target="_blank"&gt;体育&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p&gt;&nbsp;&lt;wbr&gt;
+今夜告别了英格兰和墨西哥，但两支球队却用不同的方式向我们诠释离开的含义。两支球队同样遭到了误判，但在我眼里，墨西哥更可以高昂着头骄傲的离开南非！&lt;/p&gt;
+&lt;p&gt;
+&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;坦白的说与三场小组赛相比，英格兰今天踢出了世界杯最精彩的一场比赛，但即使这样他们仍然没有表现出与英超和大牌球星身价相符的水平。杰拉德、鲁尼们尽力了，但他们也的确无能为力。在球队的打法方面，在新老交替方面，在球队的凝聚力和战斗力方面，都使得他们很难再向前更进一步。我们没有理由去埋怨卡佩罗和某一名球员，这是一个整体，这是一个团队。输球的不是卡佩罗，输球的是英格兰代表队。在俱乐部杰拉德的身前是托雷斯，兰帕德的身前是德罗巴，特里的搭档是卡瓦略.....英格兰代表队是不能和英超划等号的一支球队.而一支为冠军而来的球队却配备了三流的门将,在小组连平两场之后，球队大佬们又逼宫主教练，试问这样一支球队怎么能取得胜利？没错，今天的那个误判可能会成为输球的理由，但即使没有哪个误判，即使闯过了德国这一关，英格兰又可以走多远？&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt; 今晚的英迷可能会为裁判的那个判罚愤愤不平，今晚的英迷可能会流下伤心的眼泪。但如果英格兰不能彻&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_48310c380100jm2k" href="http://blog.sina.com.cn/s/blog_48310c380100jm2k.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_48310c380100jm2k.html#comment" id="c_10001_48310c380100jm2k"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('48310c380100jm2k');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_48310c380100jm2k" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('48310c380100jm2k');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_48310c380100jm2k" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_48310c380100jm2k.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_48310c380100jm2k"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div favmd5='{"48310c380100muwp":"f34ee733de38fdbfb475ebc662b7a043","48310c380100k2ii":"b182c56e074c7d7e740aaf31949c64c8","48310c380100k0er":"3a8cbe4b37fbe8a61da24507941eea5f","48310c380100jxwy":"997702140ed4c45986deb8519908a8f1","48310c380100jwaa":"241dd45179b60b858c553c160ead96d2","48310c380100js4m":"95ca238e14ab316e641825282a23b5ec","48310c380100jqqx":"deb5122adf6300333c661c13187b75c8","48310c380100jnuh":"6b24faf4e1ecb3feabc627e027d99b4f","48310c380100jmy7":"24f560f0c00468922d3952cf42e22ada","48310c380100jm2k":"c6a61c70e6858ed7cf9685c2f79780ce"}' classid="0" pagesize="10" total="82" id="pagination_10001" class="SG_page"&gt;&lt;/div&gt;
+					&lt;/div&gt;
+							  
+				&lt;/div&gt;  
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第二列start--&gt;
+	
+	&lt;!--第三列start--&gt;
+	&lt;div id="column_3" class="SG_colW21"&gt;&lt;div style="width:210px;height:0.1px;margin:0px;"&gt;&nbsp;&nbsp;&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第三列end--&gt;
+
+	
+    &lt;/div&gt;
+   &lt;!--主题内容结束 --&gt;
+  
+
+	&lt;div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"&gt;&lt;/div&gt;
+    &lt;div class="sinablogfooter" id="sinablogfooter"  style="position:relative;"&gt;
+      
+      &lt;p class="SG_linka"&gt;&lt;a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank"&gt;新浪BLOG意见反馈留言板&lt;/a&gt;　&lt;a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');"&gt;不良信息反馈&lt;/a&gt;　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正&lt;/p&gt;
+   
+      &lt;p class="SG_linka"&gt;&lt;a href="http://corp.sina.com.cn/chn/" target="_blank"&gt;新浪简介&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/eng/" target="_blank"&gt;About Sina&lt;/a&gt; | &lt;a href="http://emarketing.sina.com.cn/" target="_blank"&gt;广告服务&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/contactus.html" target="_blank"&gt;联系我们&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank"&gt;招聘信息&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank"&gt;网站律师&lt;/a&gt; | &lt;a href="http://english.sina.com" target="_blank"&gt;SINA English&lt;/a&gt; | &lt;a href="http://members.sina.com.cn/apply/" target="_blank"&gt;会员注册&lt;/a&gt; | &lt;a href="http://help.sina.com.cn/" target="_blank"&gt;产品答疑&lt;/a&gt; &lt;/p&gt;
+      &lt;p class="copyright SG_linka"&gt; Copyright &copy; 1996 - 2014 SINA Corporation,  All Rights Reserved&lt;/p&gt;
+      &lt;p class="SG_linka"&gt; 新浪公司 &lt;a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank"&gt;版权所有&lt;/a&gt;&lt;/p&gt;
+	  &lt;a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="swfbox"&gt;&lt;/div&gt;
+&lt;script id="PVCOUNTER_FORIE" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;script type="text/javascript"&gt;
+var scope = {
+    $newTray : 1,
+    $setDomain : true,
+    $uid : "1211173944",
+    $PRODUCT_NAME : "blog7",      //blog7photo,blog7icp
+    $pageid : "index",
+    $key :  "c0d5f44db4ca9bbb751cf3dff84a8f6a",
+    $uhost : "xuyangblog",
+    $ownerWTtype :"",
+    $private: {"cms":0,"hidecms":0,"blogsize":0,"ad":1,"sms":0,"adver":0,"tj":1,"p4p":0,"spamcms":1,"topblogid":0,"pageset":0,"invitationset":0,"top":0},
+    $playids :{"10004":0},
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,    component_lists:{"2":{"size":510,"list":[10001]},"1":{"size":210,"list":[901,946,1,1001,10004,1003]}},
+    formatInfo:3,
+    UserPic:[{"pid":null,"repeat":"no-repeat","align-h":"top","align-v":"top","apply":0},{"pid":null,"repeat":null,"align-h":null,"align-v":null,"apply":null},{"pid":null,"repeat":"no-repeat","align-h":"top","align-v":"top","apply":0}],
+    UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
+    UserColor:"",
+    backgroundcolor:"",
+    tpl:"5_12",
+    reclist:0    };
+var $encrypt_code = "cbeadf679db15efa4516c35ab8e258db";
+&lt;/script&gt;
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__load_js();&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__render_page();&lt;/script&gt;
+
+
+&lt;!-- ALL CODE START--&gt;&lt;!-- SUDA_CODE_START --&gt; 
+&lt;noScript&gt; 
+&lt;div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'&gt;&lt;img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt=''  /&gt;&lt;/div&gt; 
+
+&lt;/noScript&gt; 
+&lt;!-- SUDA_CODE_END --&gt; 
+
+
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/xblogtheme/js/blog680-min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+        var slotArr = ['atcTitLi_SLOT_41', 'atcTitLi_SLOT_42','loginBarActivity']; //广告位id
+        var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
+        SinaBlog680.staticBox(slotArr, sourceArr);
+&lt;/script&gt;
+&lt;/html&gt;
+</head></html>

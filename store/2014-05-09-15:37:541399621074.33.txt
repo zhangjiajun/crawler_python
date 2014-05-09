@@ -1,0 +1,613 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>面试自我介绍 - 58同城</title>
+<meta name="keywords" content="面试,自我介绍" />
+<meta name="description" content="面试自我介绍专题为广大求职者提供丰富的面试自我介绍及相关内容。" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript">
+        function changeClass() {
+            var parentName = document.getElementById("pname").value;
+            var allLi = document.getElementsByName("pli");
+            if (typeof(allLi) !== 'undefined') {
+                for (i = 0; i &lt; allLi.length; i++) {
+                    var li = allLi[i];
+                    var liVal = li.firstChild.firstChild.innerHTML;
+                    if (liVal === parentName) {
+                        var attr = document.createAttribute("class");
+                        attr.value = "active";
+                        li.setAttributeNode(attr);
+                        break;
+                    }
+                }
+            }
+        }
+    </script>
+<body>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;mini=1&amp;pos=right&amp;uid=218186"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config={"bdTop":100};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left">
+<span id="ipconfig">
+</span>
+</div>
+<div class="bar_right">
+<div id="login">
+<a target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">
+                            登录
+                        </a>
+<span class="gap">
+                            |
+                        </span>
+<a target="_self" href="https://passport.58.com/reg/">
+                            注册
+                        </a>
+</div>
+</div>
+</div>
+</div>
+<div id="navlist">
+<div id="navlist"><ul><li id="navbln"><a target="_self" href="http://www.58.com/?path=job.shtml">全职招聘</a></li><li><a target="_self" href="http://www.58.com/?path=jianzhi.shtml">兼职招聘</a></li><li class="job_icon"><a target="_self" href="http://www.58.com/mingqi/">名企招聘</a></li><li class="job_icon"><a target="_blank" href="http://www.58.com/zhiwei/">职位库</a></li><li class="sel" id="navbrn"><a href="http://www.58.com/zp/">求职指南</a></li></ul></div>
+</div>
+<div id="header">
+<div id="headerinside">
+<div id="logo">
+<a target="_self" href="http://58.com/">
+<img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" />
+</a>
+<h1>
+                        求职资讯专题
+                    </h1>
+</div>
+<span class="rele"><a id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span></div>
+</div>
+
+<div id="nav">
+<div id="navin">
+<ul>
+<li>
+<a href="/zp/">
+                            首页
+                        </a>
+</li>
+<li name="pli" id="pli">
+<a href="/jianligonglue/" rel="dropmenu8">
+<span>
+                                简历攻略
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/mianshizhinan/" rel="dropmenu9">
+<span>
+                                面试指南
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/xinchoufuli/" rel="dropmenu10">
+<span>
+                                薪酬福利
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/shenzaizc/" rel="dropmenu11">
+<span>
+                                身在职场
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/laodongfayuan/" rel="dropmenu12">
+<span>
+                                劳动法苑
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/zhichangzixun/" rel="dropmenu7">
+<span>
+                                职场资讯
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/jianli/">
+<span>
+                                个人简历
+                            </span>
+</a>
+</li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="招聘" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input name="word" size="19" maxlength="100" type="text" placeholder="58生活资讯" onfocus="if(this.placeholder=='58生活资讯'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='58生活资讯';}" />
+<input type="submit" value="资讯搜索" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+</div>
+</div>
+<script type="text/javascript">
+            changeClass();
+        </script>
+<div class="content ej">
+<div class="erji">
+<a href="/zpzt/">
+                    求职资讯专题
+                </a>
+<a href="/jianlimoban/">
+                    简历模板
+                </a>
+<a href="/shuzhibaogao/">
+                    述职报告
+                </a>
+<a href="/qiuzhixin/">
+                    求职信
+                </a>
+<a href="/mianshitiku/">
+                    面试题库
+                </a>
+<a href="/tiaocaocelue/">
+                    跳槽策略
+                </a>
+</div>
+<div class="box">
+<div class="left fl">
+<h2>
+<span class="daohang">
+<a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/zp/">招聘</a> &gt; <a href="/zpzt/">求职资讯专题</a> &gt; 
+                        </span>
+</h2>
+<ul class="pdlist">
+<dl class="tbox">
+<dt><strong>面试自我介绍</strong></dt>
+<dd>
+<ul class="d1 ico3">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%">
+</td></tr></table><li><a href="/ziwojieshao/20140402630188.html" target="_blank">网络技术员面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20140402630187.html" target="_blank">园艺专业面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20140401630152.html" target="_blank">美术教师面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20140327629996.html" target="_blank">面试中如何去说自己的缺点</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20140326629958.html" target="_blank">四个实例讲解面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20140325629919.html" target="_blank">声乐专业面试自我介绍范文</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20140324629855.html" target="_blank">面试成功自我介绍三步骤</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20140320629756.html" target="_blank">邮储银行面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20140317629639.html" target="_blank">简单面试自我介绍之宝典</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20140314629551.html" target="_blank">面试时自我介绍禁忌</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20140307629279.html" target="_blank">2014年应聘面试自我介绍30秒</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20140306629224.html" target="_blank">日企面试如何自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20140306629223.html" target="_blank">应聘空乘面试英语自我介绍范文</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20140224628554.html" target="_blank">IT行业面试如何自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20140212627508.html" target="_blank">面试自我介绍需要注意的</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20140111625444.html" target="_blank">国有银行面试宝典</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20140110625305.html" target="_blank">面试自我介绍的四大原则</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20140108625014.html" target="_blank">优秀公务员面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20140107624803.html" target="_blank">声乐系学生面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131225623014.html" target="_blank">学生会面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131223617858.html" target="_blank">简短的英语面试自我介绍范文</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131220613460.html" target="_blank">企业面试的自我介绍建议</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131217606165.html" target="_blank">舞蹈演员面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131217606162.html" target="_blank">动漫设计面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131213601930.html" target="_blank">空乘面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131125485595.html" target="_blank">简短的英文面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131125485587.html" target="_blank">英文面试自我介绍开场白</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131125485579.html" target="_blank">十分自信的英文面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131125485574.html" target="_blank">电子专业英文面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131125485571.html" target="_blank">英文面试自我介绍针对性要强</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131125485566.html" target="_blank">英文版面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131125485565.html" target="_blank">面试官喜欢怎样的英文自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131125485563.html" target="_blank">面试自我介绍英文</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131125485560.html" target="_blank">求职面试英文自我介绍范文</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131125485562.html" target="_blank">学生英文面试自我介绍范文</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131125485555.html" target="_blank">英文专业学生面试自我介绍范文</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131121453047.html" target="_blank">面试自我介绍的通用技巧</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131121453042.html" target="_blank">如何提高面试自我介绍成功率</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131121453029.html" target="_blank">面试时如何进行自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131114407697.html" target="_blank">英文自我介绍 面试</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20131114407275.html" target="_blank">面试自我介绍范文</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20131023245113.html" target="_blank">应聘面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20130819146051.html" target="_blank">行政面试者自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20130731145042.html" target="_blank">志愿者面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20130731145036.html" target="_blank">面试自我介绍英文</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20130730144925.html" target="_blank">银行面试的自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20130729144814.html" target="_blank">航空面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20130729144808.html" target="_blank">编导面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20130729144805.html" target="_blank">面试自我介绍英语</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20130719144470.html" target="_blank">兼职面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20130719144468.html" target="_blank">职场面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20130719144466.html" target="_blank">空姐英文面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20130719144465.html" target="_blank">法学毕业生面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20130719144463.html" target="_blank">经贸英语面试自我介绍</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20130718143251.html" target="_blank">空姐面试自我介绍</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20130715142820.html" target="_blank">面试自我介绍要注意什么？</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20130715142814.html" target="_blank">面试自我介绍的12点要求</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20130715142811.html" target="_blank">面试自我介绍的分寸</a></li>
+
+
+<tr>
+<td width="50%">
+</td></tr><li><a href="/ziwojieshao/20130712140496.html" target="_blank">面试自我介绍的注意事项</a></li>
+
+<td width="50%">
+</td><li><a href="/ziwojieshao/20130712140494.html" target="_blank">面试自我介绍如何做</a></li>
+
+
+
+</ul>
+</dd>
+</dl>
+</ul>
+<!-- 新加 start -->
+<div class="n_p">
+
+
+
+                上一篇：<a href="/zpzt/20131204569683.html">述职报告范文</a> <br />
+
+
+
+                    下一篇：<a href="/zpzt/20131204569820.html">英语自我介绍</a>
+<center><tr><td>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span>
+</td></tr></center>
+</div>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt>
+<strong>热门职位推荐</strong>
+</dt>
+<dd class="hotpList">
+<a href="/yewu/">销售</a>
+<a href="/bianji/">编辑</a>
+<a href="/wenziluru/">文员</a>
+<a href="/sheji/">平面设计</a>
+<a href="/jiaoshi/">教师</a>
+<a href="/yiliao/">医生</a>
+<a href="/waimaozhuanyuan/">外贸专员</a>
+<a href="/kefu/">客服</a>
+<a href="/caiwu/">会计</a>
+<a href="/qiantai/">前台</a>
+<a href="/wangzhanmeigong/">网页制作</a>
+<a href="/youerjiaoshi/">幼教</a>
+<a href="/hushi/">护士</a>
+<a href="/shichang/">市场公关</a>
+<a href="/dyao/">导游</a>
+<a href="/fanyizhaopin/">翻译</a>
+<a href="/zhaopinjingli/">人事专员</a>
+<a href="/jishuzhichi/">技术支持</a>
+<a href="/jypeixunshi/">培训师</a>
+<a href="/lfawurenyuan/">法务专员</a>
+<a href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+<!--   相关资讯   -->
+<div class="n_p">
+<h3 class="about">面试自我介绍相关推荐</h3>
+<div class="ul2">
+<ul>
+<li><span>01-02</span><a href="/zpzt/20140102624260.html" title="" target="_self">求职信模板</a></li>
+<li><span>01-02</span><a href="/zpzt/20140102624253.html" title="" target="_self">英语求职信</a></li>
+<li><span>01-02</span><a href="/zpzt/20140102624248.html" title="" target="_self">个人简历模板</a></li>
+<li><span>12-28</span><a href="/zpzt/20131228623473.html" title="" target="_self">教师个人述职报告</a></li>
+<li><span>12-28</span><a href="/zpzt/20131228623470.html" title="" target="_self">简历自我介绍</a></li>
+<li><span>12-28</span><a href="/zpzt/20131228623466.html" title="" target="_self">实习自我鉴定</a></li>
+<li><span>12-19</span><a href="/zpzt/20131219612782.html" title="" target="_self">自荐信范文</a></li>
+<li><span>12-19</span><a href="/zpzt/20131219612771.html" title="" target="_self">转正述职报告</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<!--   相关资讯   -->
+<!-- 新加 end -->
+<p class="paging mar_t30">
+<ul class="paging mar_t30">
+</ul>
+</p>
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>
+                            栏目推荐
+                        </h2>
+<div class="tuijian"><a class="y1" href="/jianlimoban/">简历模板</a><a class="y2" href="/jianlifengmian/">简历封面</a><a class="y3" href="/qiuzhixin/">求职信</a><a class="y4" href="/ziwopingjia/">自我评价</a><a class="y5" href="/zhizuojiqiao/">制作技巧</a><a class="y6" href="/shenzaizc/">身在职场</a><a class="y7" href="/mianshitiku/">面试题库</a><a class="y1" href="/zijianxin/">自荐信</a><a class="y2" href="/ziwojianding/">自我鉴定</a><a class="y3" href="/ziwojieshao/">自我介绍</a><a class="y4" href="/mianshijiqiao/">面试技巧</a><a class="y5" href="/xinchoufuli/">薪酬福利</a><a class="y3" href="/zj/">总结范文</a><a class="y1" href="/gzzongjie/">工作总结</a><a class="y2" href="/sjbg/">社会实践报告</a><a class="y1" href="/zpzt/">求职资讯专题</a></div>
+</div>
+<div class="hot fl">
+<h2>58同城官方微信二维码</h2>
+<ul class="j">
+<a target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" height="220" width="220" src="http://www.58.com/zp_images/allimg/131014/qrcode_for_gh_e21b1c81eaab_258.jpg" /> </a>
+<li>功能：职位订阅 精准推送 </li>
+<li>公众号：58同城</li>
+<li>微信号：amazing58</li>
+<li>提示：打开微信，点击底部菜单</li>
+<li>"发现"，选择"扫一扫"功能对准上</li>
+<li>方二维码即可关注。</li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热点排行</h2>
+<ul class="j">
+<li><span class="z1"></span><a href="/zpzt/20140102624248.html">个人简历模板</a></li>
+<li><span class="z1"></span><a href="/zpzt/20131219612230.html">应聘自我介绍</a></li>
+<li><span class="z1"></span><a href="/zpzt/20131228623466.html">实习自我鉴定</a></li>
+<li><span class="z1"></span><a href="/zpzt/20131127512180.html">java面试题</a></li>
+<li><span class="z1"></span><a href="/zpzt/20131207586687.html">银行述职报告</a></li>
+<li><span class="z1"></span><a href="/zpzt/20131228623470.html">简历自我介绍</a></li>
+<li><span class="z1"></span><a href="/zpzt/20131219612369.html">求职自我介绍</a></li>
+<li><span class="z1"></span><a href="/zpzt/20131219612771.html">转正述职报告</a></li>
+<li><span class="z1"></span><a href="/zpzt/20131204569141.html">自荐书格式</a></li>
+<li><span class="z1"></span><a href="/zpzt/20131204569254.html">银行自荐信</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>推荐阅读</h2>
+<ul class="j">
+<li><a href="/zpzt/20131212599552.html" title="" target="_self">毕业生自我鉴定</a></li>
+<li><a href="/zpzt/20131204569016.html" title="" target="_self">转正自我鉴定</a></li>
+<li><a href="/zpzt/20131213602991.html" title="" target="_self">个人自我鉴定</a></li>
+<li><a href="/zpzt/20131204564297.html" title="" target="_self">教师个人简历范文</a></li>
+<li><a href="/zpzt/20131206584903.html" title="" target="_self">述职述廉报告2013</a></li>
+<li><a href="/zpzt/20131219612301.html" title="" target="_self">银行面试自我介绍</a></li>
+<li><a href="/zpzt/20131219612369.html" title="" target="_self">求职自我介绍</a></li>
+<li><a href="/zpzt/20131204569744.html" title="" target="_self">面试自我介绍</a></li>
+<li><a href="/zpzt/20140102624260.html" title="" target="_self">求职信模板</a></li>
+<li><a href="/zpzt/20131212599312.html" title="" target="_self">护士自荐信</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>相关信息</h2>
+<ul class="j">
+<li><a class="red" href="http://www.58.com/zpzt/20131204569547.html" target="_blank">应届生简历模板</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569379.html" target="_blank">简历模板下载</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569744.html" target="_blank">面试自我介绍</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569820.html" target="_blank">英语自我介绍</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569016.html" target="_blank">转正自我鉴定</a></li>
+<li><a href="http://www.58.com/zpzt/20131204568198.html" target="_blank">2013年中国大学生就业报告专题</a></li>
+<li><a href="http://www.58.com/zpzt/20131204563853.html" target="_blank">求职信格式</a></li>
+<li><a href="http://www.58.com/zpzt/20131127512180.html" target="_blank">java面试题</a></li>
+<li><a href="http://www.58.com/zpzt/20131204564435.html" target="_blank">自我评价怎么写</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569254.html" target="_blank">银行自荐信</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"> <b style="color:#666666">重点类别推荐：</b> <a href="/jianlimoban/">简历模版</a>|  <a href="/jianlifanwen/">简历范文</a>|  <a href="/qiuzhixin/">求职信</a>|  <a href="/ziwopingjia/">自我评价</a>|  <a href="/zijianxin/">自荐信</a>|  <a href="/ziwojianding/">自我鉴定</a>|  <a href="/ziwojieshao/">自我介绍</a>|  <a href="/zpzt/">求职资讯专题</a></p>
+<div id="flink">
+<strong>
+                            友情链接
+                        </strong>
+                        : <a target="_blank" href="http://www.58.com/jianlimoban/">个人简历模板</a> <a target="_blank" href="http://www.58.com/jianlifanwen/">个人简历范文</a>
+</div>
+<div id="footer">
+                        © 58.com
+                        <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">
+                            帮助中心
+                        </a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fabfe72bfdaaf5f8020fded755b5146e4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info'+mod+'/list/';
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+<!--BAIDU_YUNTU_START-->
+<script>
+(function(d, t) {
+    var r = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    r.async = 1;
+    r.src = '//rp.baidu.com/rp3w/3w.js?sid=10275130415331873409&amp;t=' + Math.ceil(new Date/3600000)
+    s.parentNode.insertBefore(r, s);
+})(document, 'script');
+</script>
+<!--BAIDU_YUNTU_END-->
+</body>
+</html>

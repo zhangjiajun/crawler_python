@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>帮助中心---用户最新提问</title>
+<script src="js/helputils.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="js/feedadvice.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery-1.4.1.js"></script>
+<link href="http://pic2.58.com/ui6/about/css/about6.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div id="container" class="win1000">
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/72/43.js"></script>
+<div id="header" class="win1000">
+<script src="/js/head.js" type="text/javascript"></script>
+</div>
+<div id="bar">
+<div id="divnavname">
+<div>
+<a href="/">帮助中心首页</a>信息无法发布
+				</div>
+</div>
+<i class="shadow"></i>
+</div>
+<div class="bo_width win1000">
+<div id="right" class="rwpdiv">
+<div id="divcontent"><div id="divcontent">
+<h2><a name="l"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" /></a></span>为什么我发布不了帖子（账户被冻结怎么办）？</h2>
+<dl class="txt">
+<dt>1、我们根据信用值划分出了不同的用户等级，每个等级拥有不同的发帖量。等级越高可免费发布的信息越多。 
+</dt><dd>了解<a href="http://about.58.com/47.html">用户等级与发帖规则</a> </dd></dl>
+<dl class="txt">
+<dt>2、信用为0或账户、手机被冻结后都将无法发布信息。 
+</dt><dd><a href="http://about.58.com/89.html#d">查看冻结原因</a> </dd></dl>
+<dl class="txt">
+<dt>3、为什么发布信息时提示我“发布信息太过频繁”？ 
+</dt><dd>为了防止部分用户的恶意发帖行为，我们对发帖速度进行了限制，这时建议大家稍微休息一下再发布^_^。 </dd></dl>
+<dl class="txt">
+<dt>4、为什么发布信息时提示我“信息里包含非法词”？ 
+</dt><dd>非法词是指由司法机关、主管部门、网监提供的词汇表，请大家不要发布违法信息，填写完后检查一下发布内容避免无意行为。 </dd></dl>
+<dl class="txt">
+<dt>5、为什么信息发布成功后显示“审核中”？ 
+</dt><dd>疑似违法或者违反版规的信息需要审核后才会显示，并在个人中心标记为“审核中”，58审核人员在24小时内会提供给您审核结果。 </dd></dl>
+<dl class="txt">
+<dt>6、为什么发布信息时提示我“信息太过相似”或“信息重复”？ 
+</dt><dd>相同的信息不允许重复发布，建议您在发布时对信息进行修改。您还可以选择<a href="http://my.58.com/infoall/">用户中心</a>中的“刷新”来代替发布。 </dd></dl>
+<dl class="txt">
+<dt>7、提示“正确输入规定内容”： 
+</dt><dd>您是否在非规定位置输入联系方式或您的浏览器需要清除缓存，清除方法见下文。 </dd></dl>
+<dl class="txt">
+<dt>8、为什么发布信息时提示我“违反《58信息质量控制规定》，暂不允许发布”？ 
+</dt><dd>在严重违反《<a href="http://about.58.com/89.html">58信息质量控制规定</a>》的情况下，账户会被冻结。账户被冻结后禁止发布和评论信息。 </dd></dl>
+<dl class="txt">
+<dt>9、为什么我评论成功后不能立即看到我的评论？ 
+</dt><dd>疑似违法或者违反版规的评论需要审核后才会显示，58审核人员在24小时内会提供给您审核结果。 </dd></dl>
+<h2><a name="q"></a><span><a href="#top">顶部<img src="http://pic2.58.com/n/images/about58/top.gif" /></a></span>为什么我发布不了帖子（怎么清除浏览器缓存）？</h2>
+<h3>当您遇到以下问题时，可以尝试清除浏览器IE临时文件或重置浏览器选项后重试:</h3>
+<p>1. 点击“发布”按钮无反应；<br />2. 点击“发布”按钮后，按钮为灰色，页面不跳转；<br />3. 提示可以发布0条信息；<br />4. 无法上传图片，导致发布不了信息<br /></p>
+<h3>清理IE的流程图如下：</h3>
+<p><b>第一步：打开IE浏览器页面后，左上方找到“工具”，点击下拉菜单“Internet选项”</b> <img src="http://pic.58.com/images/helppic/201009/F201009070304359810.jpg " temp_src="http://pic.58.com/images/helppic/201009/F201009070304359810.jpg " /><br /><b>第二步：在弹出的“Internet选项”窗口，删除以下红色箭头指向，最后点击“确定”</b> <img src="http://pic.58.com/images/helppic/201009/F201009070305559028.jpg " temp_src="http://pic.58.com/images/helppic/201009/F201009070305559028.jpg " /><br /><b>第三步：重新打开浏览器，登录账号发布信息</b> <img src="http://pic.58.com/images/helppic/201009/F201009070306467935.jpg" /><br /></p>
+<h3>重置浏览器选项的流程图如下：</h3>
+<p><b>第一步：打开IE浏览器页面后，左上方找到“工具”，点击下拉菜单“Internet选项”</b> <img src="http://pic.58.com/images/helppic/201009/F201009070307169341.jpg" /><br /><b>第二步：在弹出的“Internet选项”窗口，选择“高级”后点击后面的“还原默认设置”</b> <img src="http://pic.58.com/images/helppic/201009/F201009070307537622.jpg" /><br /><b>第三步：重新打开浏览器，登录账号发布信息</b> <img src="http://pic.58.com/images/helppic/201009/F201009070308349810.jpg " temp_src="http://pic.58.com/images/helppic/201009/F201009070308349810.jpg " /></p>
+<p id="zxtwbut" class="zxtwut"><label class="butt"><input class="btns" onclick="SubMitNoAtBrowse(6)" value="联系客服" type="button" /></label></p></div></div>
+</div>
+</div>
+<div class="c"></div>
+<div id="footer" class="footer-border">
+<script src="/js/bottom.js" type="text/javascript"></script>
+</div>
+<input type="hidden" id="cateId" name="cateId" value="28" />
+</div>
+</body>
+<script type="text/javascript">
+	var cateId = $("#cateId").val();
+	var _gaq = _gaq || [], site_name = "58", page_type = "about";
+	var _trackURL = "{'cate':'','area':'','pagetype':'about','page':'"+cateId+"'}";
+	_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+	_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+	_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+	_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+	_gaq.push([ 'pageTracker._trackPageview', "/about/"+cateId+"/" ]);
+	_gaq.push([ 'pageTracker._trackPageLoadTime' ]);
+	$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+			: 'http://www')
+			+ '.google-analytics.com/ga.js');
+	$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+</html>

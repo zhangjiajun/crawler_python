@@ -1,0 +1,2017 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[1,191,3717,29] published at 2014-05-09 14:12:07 by 543501804--><html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<title>长春房地产门户_长春房价_楼盘_买房_长春新浪乐居</title>
+<meta name="Keywords" content="房产家居,房地产新闻,装修,写字楼" />
+<meta name="Description" content="新浪房产是专业的房地产网站，致力于为房地产业界、主力购房人群、装修人群提供各类服务与咨讯。主要栏目有：房产新闻、楼盘展示、新盘中心、写字楼、商铺、地产圈、家居装修、家居图库、业主社区论坛等内容。房地产,房产,买房,租房,二手房,家居,装修,写字楼" />
+<meta name="baidu-site-verification" content="itiLsUm0VF" />
+<meta name="360-site-verification" content="1ca82ca8e4b30c1c20a79f597b597e24" />
+<link href="http://cache.house.sina.com.cn/css/house/css/index/base.css" rel="stylesheet" type="text/css" />
+<!-- link href="http://cache.house.sina.com.cn/css/house/css/index/header.css" rel="stylesheet" type="text/css"-->
+<style type="text/css"> 
+.of_h{overflow:hidden;}
+.u, .u10, .u11, .u12, .u13{background:url(http://cache.house.sina.com.cn/css/house/images/index/all_icon.png) no-repeat;}
+.pop_up .pop_up_t, .pop_up .pop_up_c, .pop_up .pop_up_b { background:url(http://cache.house.sina.com.cn/css/house/images/index/location_bg.png) no-repeat;}
+.top_nav, .headlines, .search_con, .super_input{background:url(http://cache.house.sina.com.cn/css/house/images/index/all_bg.png) repeat-x;} 
+.top_nav_line, .sina_logo, .leju_logo, .headlines_t, .hl_line,  .top_nav_l .current, .search_nav .tab_active, .search_nav li, .search_con_l, .search_con_r, .super_select, .super_input_l, .super_input_icon, .search_btn,.eju_menu, .pop_up .pop_up_c .sub1{background:url(http://cache.house.sina.com.cn/css/house/images/index/all_img.png) no-repeat;}
+/*Cut Font*/
+.cut_text, .cut_text p, .cut_text li, .headlines_list li, .headlines_h, .headlines_p, .search_word, .artlist li, .k01_l{overflow:hidden;white-space:nowrap;}
+/*Wrap */
+#wrap{z-index:1;}
+.wrap { width:950px; margin:0 auto; }
+/*Header_Common*/
+.out_bor{border:1px solid #ccc;}
+.in_bor{border-bottom:2px solid #e8e8e8; }
+.bort_none{ border-top: none;}
+/*top_nav*/
+.top_nav { height:31px; line-height:31px; padding-left:23px; background-position:0 -213px;}
+.top_nav_l {width:131px;}
+.top_nav_l li{ float:left; width:58px;}
+.top_nav_l .current{background-position:20px -262px;}
+.top_nav_line{width:2px; height:31px; background-position:-15px -84px; font-size:1px;}
+/*Eju_Menu*/
+.eju_menu{ display:block;width:78px; padding-left:15px; height:31px; line-height:31px; background-position:-7px -262px;cursor: pointer;}
+.eju_menu.hover{width: 77px; background-color:#ae0e14; border-left:1px solid #920006; border-right:1px solid #ea121c; background-position:-88px -262px; text-decoration:none;}
+/*mini_nav*/
+.mini_nav {border-top:none;}
+.mini_nav_bor{ padding:3px 0 8px 24px;}
+/*search*/
+.sina_logo { display:block; width:108px; height:53px; background-position:0 0; margin-right:18px; text-indent:-999%;}
+.nav_city{width:775px; padding-top:5px;}
+.nav_city a { display:inline-block; margin:3px 7px 0 0;}
+.leju_logo {width:157px; height:54px; background-position:-111px 0; margin:20px 0 0 8px;}
+.location{width:60px; padding:0 25px 0 15px; height:39px; margin-top:31px; border-left:1px solid #c4c4c4;cursor: pointer;}
+.search {width:684px;}
+.search_nav{padding-left:1px;height:26px;}
+.search_nav li{float:left; width:56px; height:26px; line-height:26px; background-position:-184px -107px; cursor:pointer; text-align:center;font-size:12px}
+.search_nav li.last{ background:none;}
+.search_nav .tab_active{ background-position: -113px -55px; font-size:14px; margin-left:-1px; font-weight:700; color:#fff;}
+.search_nav .tab_active a:link, .search_nav .tab_active a:visited { color:#fff;}
+.search_con{ height:66px; background-position:0 0;}
+.search_con_l, .search_con_r{width:4px; height:66px; background-position:0 -55px;}
+.search_con_r{ background-position:-5px -55px;}
+.search_con_c{width:671px; padding-left:5px;}
+.search_input li { float:left; margin-right:5px; }
+.search_input li.mr0{ margin-right:0;}
+.super_select { float:left; width:98px; height:28px; line-height:28px; background-position:-10px -55px; position:relative; z-index:9999;cursor:pointer;}
+.super_select ul { width:96px; line-height:24px; border:1px solid #ccc; background:#FFF; padding:10px 0; position:absolute; left:0; top:29px; z-index:9999 }
+.super_select ul li{ margin-right:0;}
+.super_select ul li a{ display:block; width:76px; padding:0 10px;}
+.super_select ul li a:hover { background-color:#ededed;}
+.super_select span { float:left; padding-left:8px; width:70px; height:28px; line-height:28px; white-space:nowrap; overflow:hidden }
+.super_select span.current { color:#CD3111; cursor:pointer }
+.super_input { width:200px; height:28px; line-height:28px; background-position:0 -324px; overflow:hidden }
+.super_input_l{ float:left; width:3px; height:28px; background-position:-109px -55px; margin-right:5px;}
+.super_input_icon {float:left; width:15px; height:26px; border:1px solid #ccc; border-left:none; border-right:none;  background-position:-271px -153px; margin-right:5px;}
+.super_input input { width:85%; border:0; background:none; height:27px; line-height:27px; }
+.search_btn { width:89px; height:28px; border:none; cursor:pointer; background-position:-170px -55px;}
+a.search_adv:link, a.search_adv:visited {text-decoration:underline; height:28px; line-height:28px; padding-left:1px; }
+.search_word{width:670px; height:25px; line-height:25px;}
+.search_word a{ margin-right:5px;}
+.search_fb .search_t{height: 22px;}
+.search_fb .search_t a{float: right; display: inline-block; width: 73px; height: 22px; background-position: 0 -341px; line-height: 20px; text-align: center; color: #fff;}
+.search_fb .search_t a:hover{float: right; display: inline-block; width: 73px; height: 22px; background-position: -74px -341px; line-height: 20px; text-align: center; color: #fff; text-decoration: none;}
+.search_tlist a{margin-right: 8px; line-height: 24px;}
+.search_xx{border:1px solid #e7e6e6; background: #f8f8f8; border-bottom: 2px solid #e7e6e6; padding: 10px;}
+.search_xx .in1{width: 178px; height: 17px; border: 1px solid #bebebe; background: #fff; padding: 0 5px; line-height: 17px;}
+.search_xx p{height: 20px;}
+.search_xx span{float: left;}
+.inbtn2{width: 56px; height: 20px; background-position: 0 -364px; text-align: center; border: 0; color: #fff; cursor: pointer;}
+.inbtn2:hover{width: 56px; height: 20px; background-position: -57px -364px; text-align: center; border: 0; color: #fff;}
+/*main nav*/
+.main_nav{ height:60px; padding:4px 0;}
+.main{width:112px; height:54px; border-right:1px dotted #999; padding:4px 0 0 6px;}
+.main li{ float:left; padding:0 5px; line-height:25px; height:25px;}
+.main_long1 li{ padding:0 4px;}
+.main_long2 li{ padding:0 3px;}
+.main_nobor{ border-right:none;}
+/*Brand*/
+.brand {border: 1px solid #C2C2C2;padding: 0 14px 6px;width: 588px;}
+.brand p{height:24px; line-height:24px;}
+.brand p a{ margin-right:10px;}
+.brand_c{width:550px; height:40px;}
+/*headlines*/
+.headlines { background-position:0 -71px;}
+.headlines_t{width:102px; height:88px; background-position:0 -122px; border-right:1px solid #f7f7f7; text-indent:-999%; }
+.hl_line{width:4px; height:88px; background-position:-98px -122px; border-right:1px solid #f7f7f7;}
+.headlines_list{width:162px;}
+.headlines_list li{ float:left; width:162px; height:20px;}
+.headlines_h{height:54px; line-height:54px; font-size:28px;}
+.headlines_p{ height:20px;}
+/*icon*/
+.u{ display:inline-block; width:20px; height:20px; background-position:0 0; margin-top:-6px; margin-bottom:-6px;}
+.u01{background-position:0 -40px;}
+.u02{ background-position:0 0;}
+.u03{ background-position:0 -20px;}
+.u08{ background-position:0 -140px;}
+.u09{ background-position:0 -160px;}
+.u10, .u11{width:12px; height:13px; background-position:-4px -104px; line-height:10px; margin-top:7px; font-size:9px;}
+.u11{ height:10px; background-position:-4px -125px;}
+.u12, .u13{width:14px; height:14px; line-height:12px; font-size:10px; margin-top:6px; background-position:-3px -63px;}
+.u13{background-position:-3px -83px;}
+/*POSITION*/
+.vm img{ vertical-align:middle;}
+.vn{ vertical-align:-2px;}
+/*Input*/
+.input01{width:180px; height:24px; line-height:24px; padding-top:0; border:none;}
+
+.show_scroll_1 .con{height:60px;}
+
+.mb10 .leju-ads,.row-2 .leju-ads,.row-3 .leju-ads {
+  margin-bottom: 0;
+}
+.row-2,.row-3{
+margin-bottom:10px;
+}
+.mb{margin-bottom:8px;}
+.mt2{margin-top:2px;}
+.mt3{margin-top:3px;}
+.mt4{margin-top:4px;}
+.bor{border:1px solid #cccccc;}
+.mar_auto {margin:0 auto;text-align:center}
+.mar_auto .banner-192 {margin:0 auto;}
+/*400 phone*/
+.c_hotline{ padding-left:41px; color:#666666; border-bottom:1px solid #CCC; border-right:1px solid #CCC; overflow:hidden; line-height:16px; font-weight:bold; background:url(http://src.house.sina.com.cn/imp/imp/deal/cb/2b/a/7fcf57cf1aab7b5218561e49e45_p1_mk1.png) no-repeat 0 0;}
+.c_hotline p{ height:33px; padding-left:10px; background-color:#FFF;}
+.c_hotline p span{ display:block;font-size:16px;padding-right: 10px;text-align: right;}
+.hmin {min-height:90px;height:auto !important;height:90px;overflow:visible;}
+.mt3 {margin-top:3px;}
+</style>
+<link href="http://cache.house.sina.com.cn/css/house/css/index/common.css?20131113" rel="stylesheet" type="text/css" />
+<style>
+.show_scroll_1 .box{_padding-top:1px;}
+
+/* touziwuye 商业地产补充样式*/
+.wysearch, .wybtn {
+    background: url("http://cache.house.sina.com.cn/css/house/images/index/all_img.png") no-repeat scroll 0 0 transparent;
+}
+.titlename3{ font-weight: bold; text-align: center; overflow: hidden;}
+.titlename3 span{font-weight: normal;}
+.wyp{position: relative; width: 137px; height: 27px; display: inline-block;}
+.wysearch{width: 114px; height: 27px; line-height: 27px; background-position: 0 -385px; border: 0; padding: 0 20px 0 3px;}
+.wybtn{width: 15px; height: 15px; background-position: -271px -158px; border: 0; cursor: pointer; position: absolute; top: 6px; right: 3px;}
+.tagsm a{margin-right: 5px;}
+.wylist li{width: 80px; float: left; margin: 0 3px; text-align: center; display: inline;}
+.wylist li p{height: 20px; line-height: 20px; overflow: hidden;}
+.wyimg img{border: 1px solid #ccc; padding: 1px;}
+.w135{width: 135px;}
+
+/*新闻排行榜*/
+.rtph li a{
+width:auto;
+display:inline;
+}
+.rtph li{
+height:26px;
+_height:23px;
+}
+.rtph, .rtph p, .rtph li{
+word-wrap: break-word; word-break: normal;white-space:normal;
+}
+.mb8{margin-bottom:8px;}
+.rdlp{width:77px;_width:75px;height:24px;display:inline;overflow:hidden;float:left;white-space:normal;}
+.dzlp{width:90px;height:22px;white-space:normal;overflow:hidden;display:inline;}
+
+.super_input input {border:0; background:none; height:22px; line-height:22px; margin-top:2px;}
+
+.artlist li a{display:inline;white-space:nowrap;}
+#combobox ul li:hover, #combobox ul li.hover {
+   cursor: pointer;
+}
+.zfks{height:83px;}
+.zfks_list dt{height:22px;line-height:22px;}
+.zfks_list dd{height:22px;line-height:22px;}
+.zn_20121115_fix li{ height:22px; overflow:hidden;}
+.close_btn {
+  background: url("http://www.sinaimg.cn/hs/sinahouse/images/adb.png") no-repeat scroll -25px -110px transparent;
+  height: 20px;
+  width: 20px;
+}
+.search_word a {*margin-right:2px;}
+.h24{ height:24px;}
+.h200{ height:200px;}
+
+
+.h_box{ float:left; width:182px; height:88px; overflow:hidden;}
+.h_tit{ width:100%; line-height:24px; padding:5px 0 4px 0; overflow:hidden; text-indent:20px; font-weight:bold; color:#c21119; background:url(http://src.house.sina.com.cn/imp/imp/deal/7d/56/9/2f82fd82a128eef36583f98e070_p1_mk1.png) left 12px no-repeat; white-space:nowrap;}
+.h_tit a{color:#c21119;}
+.h_list li{ float:left; width:100%; height:18px; line-height:18px; color:#09548b; overflow:hidden; color:#09548b; font-family:"宋体"}
+.h_list a{ color:#09548b; margin:0 3px; text-decoration:none;}
+.h_list a:link{ color:#09548b;}
+.h_list a:hover{ text-decoration:underline;}
+.h_list a:visited{ color:#09548b;}
+/* 免费热线 */
+.hotline_1{ width:229px; height:33px; background:url(http://src.house.sina.com.cn/imp/imp/deal/cb/2b/a/7fcf57cf1aab7b5218561e49e45_p1_mk1.png) left top no-repeat; border-bottom: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; text-indent: -999%;}
+.lh21{ line-height:21px;}
+.h375{ height:370px;}
+.h_more{ position:relative; height:18px; clear:both;}
+.h_more a{ position:absolute; right:22px; top:10px; background:url(http://src.house.sina.com.cn/imp/imp/deal/f7/54/1/df7ad9387d1fc52677002e74d03_p1_mk1.png) left 2px no-repeat; line-height:18px; padding-left:22px; color:#c21119; text-decoration:underline;}
+.h_more a:link{ color:#c21119; text-decoration:underline;}
+.h_more a:hover{ text-decoration:underline;}
+.h_more a:visited{ color:#c21119; text-decoration:underline;}
+
+.w70{width:70px;}
+.w85{width:85px;}
+.w232{width:232px}
+.w88{width:88px}
+.w36{width:36px}
+
+/* 二维码 box */
+.s_mob_z{ position:relative; z-index:99999;}
+.h_ewm_box{ position: absolute; left:-20px; top:20px; z-index:10; width:192px; height:212px; webkit-box-shadow:3px 3px rgba(0,0,0,.09);box-shadow:3px 3px rgba(0,0,0,.09); z-index:99999;}
+.h_ewm_box .sj{ position:absolute; left:63px; top:-5px; width:10px; height:6px; background:url(http://src.house.sina.com.cn/imp/imp/deal/9f/97/c/063a5949b2492d35076bb6b3df7_p1_mk1.png) left top no-repeat;}
+/* 页脚 box */
+.h_ewm_footbox{ width:192px; height:212px; margin:70px auto 20px; clear:both; webkit-box-shadow:3px 3px rgba(0,0,0,.09);box-shadow:3px 3px rgba(0,0,0,.09);}
+/* 找房快搜 */
+.h_adv{ position: absolute; right:13px; top:5px; width:170px; height:155px; overflow:hidden;}
+.h_adv img{ vertical-align:top;}
+/* 二维码新增 */
+.u15{ background-position:0 -180px;}
+/*20130416买房结构*/
+.zfkw {
+    border-right: 1px solid #DEDEDE;
+    color: #4C4C4C;
+    height: 95px;
+    line-height: 110%;
+    width: 47px;
+}
+.zfkw{height:117px;}
+.smobile_col .w530, .smobile_col .w350{ clear:both;}
+.smobile_col .w530{ margin-bottom:10px;}
+
+/*20130701*/
+.w235{width:242px;}
+.main li{ white-space:nowrap;}
+
+/*New headlines*/
+.headlines_t, .h_box .btn_ker, .h_list li a, .h_box .btn_ker .eye{background:url(http://src.house.sina.com.cn/imp/imp/deal/78/9a/1/7338d24b998ab11be928aa1ceea_p1_mk1.png) no-repeat;}
+.headlines_t{width:99px; background-position:0 -50px; text-indent:-999%; border:0; }
+.headlines_h{ font-size:24px; font-weight:700;}
+.hl_line{ border-right:0;}
+.w620{width:620px;}
+.h_box{width:215px; padding-left:5px;}
+.h_box .btn_ker{ display:block; width:204px; padding-left:8px; height:24px; line-height:22px; *line-height:24px; background-position:0 0; margin:4px 0 3px 0; font-weight:700; color:#fff; overflow:hidden;}
+.h_box .btn_ker:link, .h_box .btn_ker:visited{color:#fff;}
+.h_box .btn_ker:hover{ background-position:0 -25px; text-decoration:none;}
+.h_box .btn_ker .eye{float:left; width:26px; height:24px; margin-right:5px; background-position:-186px -119px;}
+.h_list{width:212px;}
+.h_list li{  margin-right:3px; line-height:18px;}
+.h_list li a{padding-left:8px; background-position:-209px -53px; color:#09548b;}
+/*20131108*/
+.n_over {overflow:hidden;}
+</style>
+<base target="_blank" />
+<script type="text/javascript">
+var sinaTool = {
+		readCookie : function(l){var i="",I=l+"=";if(document.cookie.length&gt;0){offset=document.cookie.indexOf(I);if(offset!=-1){offset+=I.length;end=document.cookie.indexOf(";",offset);if(end==-1)end=document.cookie.length;i=unescape(document.cookie.substring(offset,end))}};return i},
+		writeCookie : function(O,o,l,I){var i="",c="";if(l!=null){i=new Date((new Date).getTime()+l*3600000);i="; expires="+i.toGMTString()};if(I!=null){c=";domain="+I};document.cookie=O+"="+escape(o)+i+c}
+};
+sinaTool.writeCookie("wapparam","wap2web",1,"house.sina.com.cn;path=/");
+</script>
+</head>
+<body><div id="wrap" style="background:#fff;position:relative;"><div style="background:#fff;position:absolute;width:950px;top:0;left:0;">
+<div id="t00"></div>
+<div id="t01"></div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[1,191,3717,] published at 2014-04-01 00:22:52 by --><!--top nav star-->
+<div class="top_nav col_1 clearfix">
+<div class="fr top_nav_r clearfix">
+<div class="fl" id="eju">
+<span class="pr eju_menu " id="ejumenu">易居旗下</span>
+<div class="pa eju_menu_bd none" id="eju_menu_bd">
+<ul>
+<li><a href="http://esf.sina.com.cn">乐居二手房</a></li>
+<li class="nav_icon02"><a href="http://zufang.sina.com.cn">乐居租房</a></li>
+<li class="nav_icon03"><a href="http://www.leju.com">乐居购房网</a></li>
+<li class="nav_icon04"><a href="http://jiaju.sina.com.cn">装修家居</a></li>
+<li class="nav_icon05"><a href="http://www.jiaju.com">家居就</a></li>
+<li class="nav_icon06"><a href="http://dichan.sina.com.cn">地产</a></li>
+<li class="nav_icon07"><a href="http://sydc.sina.com.cn">商业地产</a></li>
+<li class="nav_icon08"><a href="http://zst.house.sina.com.cn">商业地产<em class="f_simsun">·</em>租售通</a></li>
+<li class="nav_icon09"><a href="http://trip.house.sina.com.cn">旅游地产</a></li>
+<li class="nav_icon10"><a href="http://haiwai.house.sina.com.cn">海外地产</a></li>
+<li class="nav_icon11"><a href="http://www.fangchan.com/">中房网</a></li>
+<li class="nav_icon12"><a href="http://dichanren.fangchan.com/">地产人</a></li>
+<li class="nav_icon13"><a href="http://house.baidu.com/">百度乐居</a></li>
+<li class="nav_icon14"><a href="http://3g.leju.com/">手机乐居</a></li>
+</ul>
+</div>
+</div>
+<div class="fl top_nav_line ml10 mr20"></div>
+<div class="fl mr25"><a style="behavior:url(#default#homepage);" onclick="SetHome(this);return false;" id="setHomePage" href="javascript:void(0);">设为首页</a></div>
+</div>
+<ul class="fl top_nav_l clearfix" style="width:190px;">
+<li class="fb current"><a href="http://house.sina.com.cn">新浪房产</a></li>
+<li class="tr"><a href="http://bj.house.sina.com.cn/cityguide/">网站导航</a></li>
+<li class="tr"><a href="http://www.sina.com.cn">新浪首页</a></li>
+</ul>
+<div class="fl top_nav_line mr15"></div>
+<div id="ssoLoginTop" class="fl"></div>
+<div class="fl" id="userlogin">
+<a href="http://i.house.sina.com.cn/index.php?ctrl=login&amp;returnurl=http://cc.house.sina.com.cn$ {文档URL}" target="_self" class="fb">登陆</a>
+<span class="f_simsun">·</span>
+<a href="http://i.house.sina.com.cn/reg_api.php" class="mr10">注册</a>
+<a href="http://login.sina.com.cn/getpass.html">[找回密码]</a>
+</div>
+<div class="fl none" id="userinfo">
+<span id="username">您好，乐居会员</span> <a href="http://i.house.sina.com.cn/" class="mr5">会员中心</a><a href="http://i.house.sina.com.cn/focus/set.php/" class="mr5">已关注楼盘</a><a href="http://bj.bbs.house.sina.com.cn/bbs/space/mycollect?type=1" class="mr5">已收藏论坛</a><a id="userlogout" target="_self" href="javascript:;">[退出]</a>
+</div>
+</div>
+<!--top nav end-->
+<!--mini nav star-->
+<div class="out_bor mini_nav mb10">
+<div class="in_bor mini_nav_bor clearfix">
+<div class="fl nav_city">
+<a href="http://bj.house.sina.com.cn">北京</a><a href="http://sh.house.sina.com.cn">上海</a><a href="http://gz.house.sina.com.cn">广州</a><a href="http://sz.house.sina.com.cn">深圳</a><a href="http://han.house.sina.com.cn">海口</a><a href="http://sanya.house.sina.com.cn">三亚</a><a href="http://boao.house.sina.com.cn">博鳌</a><a href="http://tj.house.sina.com.cn">天津</a><a href="http://sy.house.sina.com.cn">沈阳</a><a href="http://wh.house.sina.com.cn">武汉</a><a href="http://cq.house.sina.com.cn">重庆</a><a href="http://hz.house.sina.com.cn">杭州</a><a href="http://sc.house.sina.com.cn">成都</a><a href="http://nj.house.sina.com.cn">南京</a><a href="http://suzhou.house.sina.com.cn">苏州</a><a href="http://cs.house.sina.com.cn">长沙</a><a href="http://sd.house.sina.com.cn">济南</a><a href="http://h.house.sina.com.cn">哈尔滨</a><a href="http://qd.house.sina.com.cn">青岛</a><a href="http://fs.house.sina.com.cn">佛山</a><a href="http://sx.house.sina.com.cn">西安</a><a href="http://cz.house.sina.com.cn">常州</a><a href="http://wx.house.sina.com.cn">无锡</a><a href="http://dl.house.sina.com.cn">大连</a><a href="http://cc.house.sina.com.cn">长春</a><a href="http://yt.house.sina.com.cn">烟台</a><a href="http://weihai.house.sina.com.cn">威海</a><a href="http://huizhou.house.sina.com.cn">惠州</a><a href="http://dg.house.sina.com.cn">东莞</a><a href="http://sjz.house.sina.com.cn">石家庄</a>
+<a href="http://hn.house.sina.com.cn">郑州</a><a href="http://ty.house.sina.com.cn">太原</a><a href="http://hf.house.sina.com.cn">合肥</a><a href="http://nc.house.sina.com.cn">南昌</a><a href="http://ks.house.sina.com.cn">昆山</a><a href="http://wuhu.house.sina.com.cn">芜湖</a><a href="http://bt.house.sina.com.cn">包头</a><a href="http://jiaxing.house.sina.com.cn">嘉兴</a><a href="http://guilin.house.sina.com.cn">桂林</a><a href="http://zhongshan.house.sina.com.cn">中山</a><a href="http://zhuhai.house.sina.com.cn">珠海</a><a href="http://nb.house.sina.com.cn">宁波</a><a href="http://yn.house.sina.com.cn">云南</a><a href="http://wlmq.house.sina.com.cn">乌鲁木齐</a><a href="http://hhht.house.sina.com.cn">呼和浩特</a><a href="http://xm.house.sina.com.cn">厦门</a><a href="http://fj.house.sina.com.cn">福州</a><a href="http://xz.house.sina.com.cn">徐州</a><a href="http://yinchuan.house.sina.com.cn">银川</a><a href="http://bj.house.sina.com.cn/cityguide/">[更多180城市]</a><a class="col_2 fb" href="http://bj.house.sina.com.cn/focus/lianchengjue/">加盟招募</a><a class="col_2" href="http://haiwai.house.sina.com.cn">新浪海外地产</a><a class="col_2" href="http://haiwai.house.sina.com.cn/AU">澳大利亚</a><a class="col_2" href="http://haiwai.house.sina.com.cn/Malaysia/">马来西亚</a><a class="col_2" href="http://haiwai.house.sina.com.cn/UK/">英国</a>
+</div>
+</div>
+</div>
+<!--mini nav end-->
+<div id="t02"></div>
+<div id="d01"></div>
+<div id="t20"></div>
+<!--search star-->
+<div class="clearfix mb10">
+<h1 class="fl leju_logo"></h1>
+<div class="fl location" id="location">
+<p class="f14 fb tc">长春</p>
+<p class="tc">[<span class="col_3 pr" id="locationCity">切换城市</span>]</p>
+<div class="pop_up none" id="locationPop" style="background-color:#fff;">
+<div class="pop_up_t col_2"><a href="http://bj.house.sina.com.cn/cityguide/">所有城市&gt;&gt;</a></div>
+<div class="pop_up_c">
+<div class="pop_box pt10 pb10 pl25 pr25 lh24">
+<ul>
+<li class="clearfix"><span>A.</span><div class="cell"><a href="http://anshan.house.sina.com.cn">鞍山</a> </div></li><li class="clearfix"><span>B.</span><div class="cell"><a href="http://beihai.house.sina.com.cn">北海</a> <a href="http://bj.house.sina.com.cn">北京</a> </div></li><li class="clearfix"><span>C.</span><div class="cell"><a href="http://cc.house.sina.com.cn">长春</a> <a href="http://cq.house.sina.com.cn">重庆</a> <a href="http://cs.house.sina.com.cn">长沙</a> <a href="http://cz.house.sina.com.cn">常州</a> </div></li><li class="clearfix"><span>D.</span><div class="cell"><a href="http://dg.house.sina.com.cn">东莞</a> <a href="http://dl.house.sina.com.cn">大连</a> </div></li><li class="clearfix"><span>F.</span><div class="cell"><a href="http://fj.house.sina.com.cn">福州</a> <a href="http://fs.house.sina.com.cn">佛山</a> <a href="http://fushun.house.sina.com.cn">抚顺</a> </div></li><li class="clearfix"><span>G.</span><div class="cell"><a href="http://guilin.house.sina.com.cn">桂林</a> <a href="http://guizhou.house.sina.com.cn">贵阳</a> <a href="http://gx.house.sina.com.cn">广西</a> <a href="http://gz.house.sina.com.cn">广州</a> </div></li><li class="clearfix"><span>H.</span><div class="cell"><a href="http://h.house.sina.com.cn">哈尔滨</a> <a href="http://han.house.sina.com.cn">海南</a> <a href="http://hf.house.sina.com.cn">合肥</a> <a href="http://hhht.house.sina.com.cn">呼和浩特</a> <a href="http://hn.house.sina.com.cn">郑州</a> <a href="http://huangshan.house.sina.com.cn">黄山</a> <a href="http://huizhou.house.sina.com.cn">惠州</a> <a href="http://hz.house.sina.com.cn">杭州</a> </div></li><li class="clearfix"><span>J.</span><div class="cell"><a href="http://jiangmen.house.sina.com.cn">江门</a> <a href="http://jiangyin.house.sina.com.cn">江阴</a> <a href="http://jiaxing.house.sina.com.cn">嘉兴</a> <a href="http://jinzhou.house.sina.com.cn">锦州</a> </div></li><li class="clearfix"><span>K.</span><div class="cell"><a href="http://kaifeng.house.sina.com.cn">开封</a> <a href="http://ks.house.sina.com.cn">昆山</a> </div></li><li class="clearfix"><span>M.</span><div class="cell"><a href="http://macao.house.sina.com.cn">澳门</a> </div></li><li class="clearfix"><span>N.</span><div class="cell"><a href="http://nb.house.sina.com.cn">宁波</a> <a href="http://nc.house.sina.com.cn">南昌</a> <a href="http://nj.house.sina.com.cn">南京</a> <a href="http://nt.house.sina.com.cn">南通</a> </div></li><li class="clearfix"><span>Q.</span><div class="cell"><a href="http://qd.house.sina.com.cn">青岛</a> <a href="http://qingyuan.house.sina.com.cn">清远</a> </div></li><li class="clearfix"><span>S.</span><div class="cell"><a href="http://sc.house.sina.com.cn">成都</a> <a href="http://sd.house.sina.com.cn">济南</a> <a href="http://sh.house.sina.com.cn">上海</a> <a href="http://shanxi.house.sina.com.cn">太原</a> <a href="http://sjz.house.sina.com.cn">石家庄</a> <a href="http://suzhou.house.sina.com.cn">苏州</a> <a href="http://sx.house.sina.com.cn">西安</a> <a href="http://sy.house.sina.com.cn">沈阳</a> <a href="http://sz.house.sina.com.cn">深圳</a> </div></li><li class="clearfix"><span>T.</span><div class="cell"><a href="http://tangshan.house.sina.com.cn">唐山</a> <a href="http://tieling.house.sina.com.cn">铁岭</a> <a href="http://tj.house.sina.com.cn">天津</a> </div></li><li class="clearfix"><span>W.</span><div class="cell"><a href="http://weihai.house.sina.com.cn">威海</a> <a href="http://wh.house.sina.com.cn">武汉</a> <a href="http://wlmq.house.sina.com.cn">乌鲁木齐</a> <a href="http://wuhu.house.sina.com.cn">芜湖</a> <a href="http://wx.house.sina.com.cn">无锡</a> </div></li><li class="clearfix"><span>X.</span><div class="cell"><a href="http://xianyang.house.sina.com.cn">咸阳</a> <a href="http://xm.house.sina.com.cn">厦门</a> <a href="http://xz.house.sina.com.cn">徐州</a> </div></li><li class="clearfix"><span>Y.</span><div class="cell"><a href="http://yangjiang.house.sina.com.cn">阳江</a> <a href="http://yinchuan.house.sina.com.cn">银川</a> <a href="http://yn.house.sina.com.cn">云南</a> <a href="http://yt.house.sina.com.cn">烟台</a> </div></li><li class="clearfix"><span>Z.</span><div class="cell"><a href="http://zhongshan.house.sina.com.cn">中山</a> <a href="http://zhuhai.house.sina.com.cn">珠海</a> </div></li>
+</ul>
+</div>
+<div class="pt10 pb10 pl25">
+<form onsubmit="return false">
+<input type="text" value="请输入城市名" onfocus="if(this.value=='请输入城市名')this.value=''" onblur="if(this.value=='')this.value='请输入城市名'" id="pop_city" class="text vm" name="" />
+                   
+                <input type="button" id="pop_submit" class="sub1 vm" name="" />
+</form>
+</div>
+</div>
+<div class="pop_up_b"></div>
+</div>
+</div>
+<div class="fl search">
+<div class="clearfix">
+<div class="fr pt3 pb3"><span class="s_mob_z">
+<u class="u u15 mr5"></u><a href="http://m.leju.com/web/app/detail.html?id=3&amp;source=xl_click" id="TDcode_link">手机找房</a>
+<div class="h_ewm_box none" id="TDcode_box">
+<div class="sj"></div>
+<img lsrc="http://src.house.sina.com.cn/imp/imp/deal/e8/a3/d/556aa6024c77bd000eeaa3d87bc_p1_mk1.png" />
+</div>
+</span><u class="u u02 mr5 ml15"></u><a href="http://map.house.sina.com.cn/jl/">地图找房</a><u class="u u03 ml15 mr5"></u><a href="http://bj.house.sina.com.cn/bxjsq/">房贷计算器</a>
+</div><ul class="search_nav no_unl pl20 clearfix" id="search_ul"><li class="first tab_active" data-onclass="tab_active" data-tab="#con_search_1" id="search_con1">新盘</li><li data-onclass="tab_active" data-tab="#con_search_4" id="search_con4">新闻</li><li data-onclass="tab_active" data-tab="#con_search_5" id="search_con5">论坛</li><li data-onclass="tab_active" data-tab="#con_search_6" id="search_con6">微博</li><li class="last"><a href="http://www.jiaju.com/zhuangxiu/">装修</a></li></ul><div id="con_search_1" class="search_con clearfix">
+<div class="fr search_con_r">
+</div>
+<div class="fl search_con_l">
+</div>
+<div class="fl search_con_c pt10">
+<form action="http://data.house.sina.com.cn/cc/search/" method="get">
+<ul class="search_input clearfix"><li><select name="district"><option value="" data-init="所在城区">所在城区</option><option value="绿园区">绿园区</option><option value="二道区">二道区</option><option value="净月区">净月区</option><option value="南关区">南关区</option><option value="朝阳区">朝阳区</option><option value="宽城区">宽城区</option><option value="高新区">高新区</option><option value="经开区">经开区</option><option value="汽贸区">汽贸区</option><option value="德惠市">德惠市</option><option value="长春周边">长春周边</option></select></li><li><select name="pricerange"><option value="" data-init="目标价位">目标价位</option><option value="3千以下">3千以下</option><option value="3千-4千">3千-4千</option><option value="4千-5千">4千-5千</option><option value="5千-6千">5千-6千</option><option value="6千-8千">6千-8千</option><option value="8千-1万">8千-1万</option><option value="1万以上">1万以上</option></select></li><li><select name="hometype"><option value="" data-init="物业类型">物业类型</option><option value="普通住宅">普通住宅</option><option value="公寓">公寓</option><option value="别墅">别墅</option><option value="写字楼">写字楼</option><option value="经济适用房">经济适用房</option><option value="Townhouse">Townhouse</option><option value="酒店式公寓">酒店式公寓</option><option value="商铺">商铺</option><option value="商住">商住</option><option value="建筑综合体">建筑综合体</option><option value="两限房">两限房</option><option value="自住型商品房">自住型商品房</option></select></li><li class="mr0"><div class="super_input clearfix"><div class="super_input_l"></div><div class="super_input_icon"></div><input id="searchipt" name="keyword" adsdefault="true" type="text" class="txt" value="" style="width:160px" autocomplete="off" /></div></li><li><input name="" type="submit" class="search_btn" value=" " /><input type="hidden" name="charset" value="utf8" />
+</li><li><a href="http://data.house.sina.com.cn/cc/search_advance/" class="search_adv fb">高级搜索</a></li></ul><p class="search_word col_3">新房快速：<a href="http://data.house.sina.com.cn/cc/search/0-0-0-0-0-0-0-0-0-0-0-0-0-1-0-0-0-0-0-0-0-1.html">新盘</a><a href="http://data.house.sina.com.cn/cc/hot/">热盘</a><a href="http://data.house.sina.com.cn/cc/search/0-3497,3498,3499,3500-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">3000-6000</a><a href="http://data.house.sina.com.cn/cc/search/0-3501,3502-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">6000-10000</a><a href="http://data.house.sina.com.cn/cc/search/0-3503-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">10000以上</a> <a href="http://data.house.sina.com.cn/cc/search/3021-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">绿园</a><a href="http://data.house.sina.com.cn/cc/search/3022-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">二道</a><a href="http://data.house.sina.com.cn/cc/search/3023-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">净月</a><a href="http://data.house.sina.com.cn/cc/search/3024-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">南关</a><a href="http://data.house.sina.com.cn/cc/search/3025-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">朝阳</a><a href="http://data.house.sina.com.cn/cc/search/3026-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">宽城</a><a href="http://data.house.sina.com.cn/cc/search/3027-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">高新</a><a href="http://data.house.sina.com.cn/cc/search/3028-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">经开</a><a href="http://data.house.sina.com.cn/cc/search/3029-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">汽贸</a><a href="http://data.house.sina.com.cn/cc/search/5526-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">白山</a><a href="http://data.house.sina.com.cn/cc/search/8308-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">吉林市</a></p>
+</form>
+</div>
+</div><div id="con_search_4" class="search_con clearfix none">
+<div class="fr search_con_r">
+</div>
+<div class="fl search_con_l">
+</div>
+<div class="fl search_con_c pt10">
+<form action="http://search.house.sina.com.cn/search.php" method="get">
+<ul class="search_input clearfix"><li class="mr0"><div class="super_input w530 clearfix"><div class="super_input_l"></div><div class="super_input_icon"></div><input name="word" type="text" data-init="请输入关键字" /><input type="hidden" name="site" value="jl" /><input type="hidden" name="type" value="1" /><input type="hidden" name="order" value="0" /></div></li><li><input name="" type="submit" class="search_btn" value=" " /><input type="hidden" name="charset" value="utf8" />
+</li></ul><p class="search_word col_3">新房快速：<a href="http://data.house.sina.com.cn/cc/search/0-0-0-0-0-0-0-0-0-0-0-0-0-1-0-0-0-0-0-0-0-1.html">新盘</a><a href="http://data.house.sina.com.cn/cc/hot/">热盘</a><a href="http://data.house.sina.com.cn/cc/search/0-3497,3498,3499,3500-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">3000-6000</a><a href="http://data.house.sina.com.cn/cc/search/0-3501,3502-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">6000-10000</a><a href="http://data.house.sina.com.cn/cc/search/0-3503-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">10000以上</a> <a href="http://data.house.sina.com.cn/cc/search/3021-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">绿园</a><a href="http://data.house.sina.com.cn/cc/search/3022-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">二道</a><a href="http://data.house.sina.com.cn/cc/search/3023-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">净月</a><a href="http://data.house.sina.com.cn/cc/search/3024-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">南关</a><a href="http://data.house.sina.com.cn/cc/search/3025-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">朝阳</a><a href="http://data.house.sina.com.cn/cc/search/3026-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">宽城</a><a href="http://data.house.sina.com.cn/cc/search/3027-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">高新</a><a href="http://data.house.sina.com.cn/cc/search/3028-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">经开</a><a href="http://data.house.sina.com.cn/cc/search/3029-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">汽贸</a><a href="http://data.house.sina.com.cn/cc/search/5526-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">白山</a><a href="http://data.house.sina.com.cn/cc/search/8308-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">吉林市</a></p>
+</form>
+</div>
+</div><div id="con_search_5" class="search_con clearfix none">
+<div class="fr search_con_r">
+</div>
+<div class="fl search_con_l">
+</div>
+<div class="fl search_con_c pt10">
+<form action="http://cc.bbs.house.sina.com.cn/bbs/forum/search" method="get">
+<ul class="search_input clearfix"><li class="mr0"><div class="super_input w530 clearfix"><div class="super_input_l"></div><div class="super_input_icon"></div><input type="text" data-init="请输入关键字" name="search_keyword" /></div></li><li><input name="" type="submit" class="search_btn" value=" " /><input type="hidden" name="srchtype" value="" /><input type="hidden" name="srchfid" value="" />
+</li></ul><p class="search_word col_3">新房快速：<a href="http://data.house.sina.com.cn/cc/search/0-0-0-0-0-0-0-0-0-0-0-0-0-1-0-0-0-0-0-0-0-1.html">新盘</a><a href="http://data.house.sina.com.cn/cc/hot/">热盘</a><a href="http://data.house.sina.com.cn/cc/search/0-3497,3498,3499,3500-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">3000-6000</a><a href="http://data.house.sina.com.cn/cc/search/0-3501,3502-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">6000-10000</a><a href="http://data.house.sina.com.cn/cc/search/0-3503-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">10000以上</a> <a href="http://data.house.sina.com.cn/cc/search/3021-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">绿园</a><a href="http://data.house.sina.com.cn/cc/search/3022-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">二道</a><a href="http://data.house.sina.com.cn/cc/search/3023-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">净月</a><a href="http://data.house.sina.com.cn/cc/search/3024-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">南关</a><a href="http://data.house.sina.com.cn/cc/search/3025-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">朝阳</a><a href="http://data.house.sina.com.cn/cc/search/3026-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">宽城</a><a href="http://data.house.sina.com.cn/cc/search/3027-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">高新</a><a href="http://data.house.sina.com.cn/cc/search/3028-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">经开</a><a href="http://data.house.sina.com.cn/cc/search/3029-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">汽贸</a><a href="http://data.house.sina.com.cn/cc/search/5526-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">白山</a><a href="http://data.house.sina.com.cn/cc/search/8308-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">吉林市</a></p>
+</form>
+</div>
+</div><div id="con_search_6" class="search_con clearfix none">
+<div class="fr search_con_r">
+</div>
+<div class="fl search_con_l">
+</div>
+<div class="fl search_con_c pt10">
+<form id="weibo_form" action="http://s.weibo.com/">
+<ul class="search_input clearfix"><li class="h28 lh28"><input type="radio" name="s_type" id="radio0" value="weibo" checked="checked" for="weibo" class="vn mr3" /><label id="weibo">微博</label></li><li class="h28 lh28"><input type="radio" name="s_type" id="radio1" value="user" for="user" class="vn mr3" /><label id="user">找人</label></li><li class="h28 lh28"><input type="radio" name="s_type" id="radio2" value="event" class="vn mr3" /><label id="event">活动</label></li><li class="h28 lh28"><input type="radio" name="s_type" id="radio3" value="q" class="vn mr3" /><label id="q">微群</label></li><li class="h28 lh28"><input type="radio" name="s_type" id="radio4" value="vote" class="vn mr3" /><label id="vote">投票</label></li><li class="h28 lh28"><input type="radio" name="s_type" id="radio5" value="apps" class="vn" /><label id="apps">应用</label></li><li class="mr0"><div class="super_input clearfix"><div class="super_input_l"></div><div class="super_input_icon"></div><input type="text" data-init="请输入关键字" name="" /></div></li><li><input type="submit" class="search_btn" value=" " /></li></ul><p class="search_word col_3">新房快速：<a href="http://data.house.sina.com.cn/cc/search/0-0-0-0-0-0-0-0-0-0-0-0-0-1-0-0-0-0-0-0-0-1.html">新盘</a><a href="http://data.house.sina.com.cn/cc/hot/">热盘</a><a href="http://data.house.sina.com.cn/cc/search/0-3497,3498,3499,3500-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">3000-6000</a><a href="http://data.house.sina.com.cn/cc/search/0-3501,3502-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">6000-10000</a><a href="http://data.house.sina.com.cn/cc/search/0-3503-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">10000以上</a> <a href="http://data.house.sina.com.cn/cc/search/3021-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">绿园</a><a href="http://data.house.sina.com.cn/cc/search/3022-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">二道</a><a href="http://data.house.sina.com.cn/cc/search/3023-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">净月</a><a href="http://data.house.sina.com.cn/cc/search/3024-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">南关</a><a href="http://data.house.sina.com.cn/cc/search/3025-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">朝阳</a><a href="http://data.house.sina.com.cn/cc/search/3026-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">宽城</a><a href="http://data.house.sina.com.cn/cc/search/3027-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">高新</a><a href="http://data.house.sina.com.cn/cc/search/3028-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">经开</a><a href="http://data.house.sina.com.cn/cc/search/3029-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">汽贸</a><a href="http://data.house.sina.com.cn/cc/search/5526-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">白山</a><a href="http://data.house.sina.com.cn/cc/search/8308-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">吉林市</a></p>
+</form>
+</div>
+</div></div>
+</div>
+</div>
+<!--search end-->
+<!--main nav star-->
+<div class="out_bor mb10"><div class="in_bor main_nav clearfix"><div class="fl main">
+<meta property="wb:webmaster" content="71ab6898752ba8aa" /> <ul>
+<li><a href="http://cc.house.sina.com.cn/news/" class="fb col_2">新闻</a></li>
+<li><a href="http://cc.house.sina.com.cn/zhuanti/">专题</a></li>
+<li><a href="http://cc.house.sina.com.cn/video/">直播</a></li>
+</ul>
+<ul>
+<li><a href="http://bj.house.sina.com.cn/fangdai/" class="fb col_2">房贷</a></li>
+<li><a href="http://news.leju.com/">深度
+</a></li>
+<li><a href="http://cc.house.sina.com.cn/todaynews/">滚动</a></li>
+</ul>
+</div>
+<div class="fl main">
+<ul>
+<li><a href="http://cc.house.sina.com.cn/blog/" class="fb col_2">博客</a></li>
+<li><a href="http://cc.house.sina.com.cn/scan/kanfangtuanhuigu/index.shtml">品鉴</a></li>
+<li><a href="http://house.baidu.com/cc/">百度</a></li>
+</ul>
+<ul>
+<li><a href="http://t.house.sina.com.cn" class="fb col_2">微博</a></li>
+<li><a href="http://weibo.com/changchunleju">官博</a></li>
+<li><a href="http://t.house.sina.com.cn/c/all/user/">名人</a></li>
+</ul>
+</div>
+<div class="fl main w194">
+<ul class="main_long1">
+<li><a href="http://cc.house.sina.com.cn/exhibit/" class="fb col_2">新房</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/xinpan/">新盘</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/kaipan/">开盘</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/dazhe/">打折</a></li>
+<li><a href="http://data.house.sina.com.cn/cc/tujie/">图解楼盘</a></li>
+</ul>
+<ul class="main_long1">
+<li><a href="http://search.house.sina.com.cn/jl/loushi/" class="fb col_2">资讯</a></li>
+<li><a href="http://data.house.sina.com.cn/cc/dianping/">评测</a></li>
+<li><a href="http://data.house.sina.com.cn/cc/pictures/">图库</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/kfsj/">看房</a></li>
+<li><a href="http://house.baidu.com/cc/">百度乐居</a></li>
+</ul>
+</div>
+<div class="fl main w116">
+<ul>
+<li><a href="http://cc.house.sina.com.cn/bbs/" class="fb col_2">房产论坛</a></li>
+<li><a href="http://cc.house.sina.com.cn/club/">乐居会</a></li>
+</ul>
+<ul>
+<li><a href="http://cc.bbs.house.sina.com.cn/" class="fb col_2">业主论坛</a></li>
+<li><a href="http://cc.bbs.house.sina.com.cn/hits.php?fid=1410123662627694">排行榜</a></li>
+</ul>
+</div>
+<div class="fl main w93">
+<ul>
+<li><a href="http://cc.esf.sina.com.cn/" class="fb col_2">二手房</a></li>
+<li><a href="http://cc.esf.sina.com.cn/house/">买房</a></li>
+</ul>
+<ul>
+<li><a href="http://cc.esf.sina.com.cn/agent/" class="fb col_2">经纪人</a></li>
+<li><a href="http://cc.zufang.sina.com.cn/">租房</a></li>
+</ul>
+</div>
+<div class="fl main w116">
+<ul>
+<li><a href="http://sydc.sina.com.cn" class="fb col_2">商业地产</a></li>
+<li><a href="http://www.xiezilou.com">写字楼</a></li>
+</ul>
+<ul>
+<li><a href="http://www.leju.com/cc" class="fb col_2">招商中心</a></li>
+<li><a href="http://xm.sydc.sina.com.cn">商铺</a></li>
+</ul>
+</div>
+<div class="fl main w43">
+<ul>
+<li><a href="http://dichan.sina.com.cn" class="fb col_2">工程</a></li>
+</ul>
+<ul>
+<li><a href="http://www.dichan.com" class="fb col_2">采购</a></li>
+</ul>
+</div>
+<div class="fl main w104 main_nobor">
+<ul>
+<li><a href="http://trip.house.sina.com.cn" class="fb col_2">旅游地产</a></li>
+<li><a href="http://jiaju.sina.com.cn">家居</a></li>
+</ul>
+<ul>
+<li><a href="http://jiaju.sina.com.cn/roomphoto/" class="fb col_2">图库</a></li>
+<li><a href="http://www.jiaju.com/">家居就</a></li>
+</ul>
+</div></div></div>
+<!--main nav end-->
+<div id="t18"></div>
+<!--advs star-->
+<div class="clearfix mb10" id="guoao">
+<div class="fl w150 h150 of_h mr15" style="width:150px;overflow:hidden">
+<div id="b01">
+</div>
+</div>
+<div class="fl mr15 brand">
+<div id="b02">
+</div>
+</div>
+<div class="fl w150 h150 of_h" style="width:150px;overflow:hidden">
+<div id="b03">
+</div>
+</div>
+</div>
+<!--advs end-->
+<div id="t03"></div>
+<!--headlines star-->
+<div class="out_bor h88 headlines clearfix mb10">
+<div class="fl headlines_t">乐居头条</div>
+<div class="fl w620 h88 n_over">
+<!--头条内容-->
+<h4 class="headlines_h tc col_5 f_yahei">
+<a href="http://bj.house.sina.com.cn/zhuanti/5yfj/index.shtml" class="col_8">5月房价去哪：20城楼市遇冷 全国观望加重</a></h4>
+<p class="headlines_p pt5 pb5 tc col_5"><u class="u u01 mr10"></u>
+<a class="mr10" href="http://cc.house.sina.com.cn/news/2014-04-22/10432699302.shtml">乐居四个身份之间的商业逻辑</a> <a class="mr10" href="http://cc.house.sina.com.cn/scan/2014-05-06/17152719206.shtml">国信中央新城掀春城电商特惠风暴</a> <a class="mr10" href="http://cc.house.sina.com.cn/scan/2014-04-30/16082712740.shtmll">5月电商特惠季</a>
+<span class="col_6 m10">|</span>
+<a class="col_7" rel="nofollow" href="http://cc.house.sina.com.cn/news/">更多&gt;&gt;</a></p>
+</div>
+<div class="fl hl_line"></div>
+<div class="h_box">
+<!-- 右侧克尔瑞内容-->
+<a href="http://fangjia.leju.com/" class="btn_ker">克而瑞房价 第三方房价指导</a>
+<ul class="h_list">
+<li><a href="http://cc.house.sina.com.cn/news/2014-04-03/16542674454.shtml">中住288指数</a><a href="http://cc.house.sina.com.cn/zhuanti/keerrui4yk/index.shtml">克而瑞长春房价4月刊</a></li>
+<li><a href="http://cc.house.sina.com.cn/news/2014-04-04/12342675866.shtml">4月推荐榜</a><a href="http://cc.house.sina.com.cn/news/2014-03-18/14222651114.shtml">cric：3月环降6.37%</a></li>
+<li><a href="http://cc.house.sina.com.cn/zhuanti/20144cclltj/index.shtml">4月推荐榜地图</a><a href="http://cc.house.sina.com.cn/news/2014-04-03/17382674517.shtml">2手房环涨1.81%</a></li>
+</ul>
+</div>
+</div>
+<!--headlines end-->
+<div id="t17"></div>
+<!--Mod1 star-->
+<div class="clearfix mb10">
+<div class="box_left">
+<!-- focus start -->
+<div id="slideBox" slidew="338" slideh="200" class="slideBox mb8"><ol><li><a rel="nofollow" onfocus="this.blur();" href="http://cc.house.sina.com.cn/zhuanti/mjsdzy/index.shtml"><img alt="明佳时代庄园" lsrc="http://src.house.sina.com.cn/imp/imp/deal/f7/a3/c/1630aa6e2fe4cf2868b8ba8850d_p1_mk1.jpg" /></a></li><li><a rel="nofollow" onfocus="this.blur();" href="http://data.house.sina.com.cn/cc107365/"><img alt="国信中央新城" lsrc="http://src.house.sina.com.cn/imp/imp/deal/9d/8f/5/369bb8791c251cbe5e35337036b_p1_mk1.jpg" /></a></li><li><a rel="nofollow" onfocus="this.blur();" href="http://cc.house.sina.com.cn/scan/xqf/index.shtml"><img alt="嗨2014—学区房篇" lsrc="http://src.house.sina.com.cn/imp/imp/deal/da/75/3/7bdf34c8d6c0c3e77ceb1ab2707_p1_mk1.jpg" /></a></li><li><a rel="nofollow" onfocus="this.blur();" href="http://video.sina.com.cn/v/b/130115481-1178602195.html"><img alt="长青联" lsrc="http://src.house.sina.com.cn/imp/imp/deal/8a/00/7/1df131b4993b7d98df5eaf58a63_p1_mk1.jpg" /></a></li><li><a href="http://bj.house.sina.com.cn/zhuanti/5yfj/index.shtml" onfocus="this.blur();" rel="nofollow"><img lsrc="http://www.sinaimg.cn/hs/2014/0506/U1523P62DT20140506175917.jpg" /></a></li></ol><div class="slideview_change" id="slideview_change"><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span></div></div>
+<!-- focus end -->
+<div class="public">
+<div class="t">
+<h3><a href="http://weibo.com/changchunleju">微博热议</a></h3>
+<em><a href="http://weibo.com/changchunleju">更多&gt;&gt;</a></em>
+<div id="b04" class="bfr60"></div>
+</div>
+<div class="article1 pt15">
+<div class="titlename1 f14">
+<!--头条-->
+<a class="col_8" href="http://weibo.com/1927437203/B2Tlq9r9e?mod=weibotime">国信中央新城钜惠春城
+ </a>
+</div>
+<!--内容列表-->
+<p><a href="http://weibo.com/1895216473/B30YxCHyI?mod=weibotime" target="_blank" class="col_8">聚焦</a><i>|</i><a href="http://weibo.com/p/1002061895216473/weibo#3707634341188668">买房，该出手了么？</a> <a href="http://weibo.com/3525964345/AEL766704">口袋乐居之屌丝男士篇</a></p>
+<p><a href="http://weibo.com/changchunleju" target="_blank" class="col_8">推荐</a><i>|</i><a href="http://weibo.com/1895216473/B0TUQE7P8">长春市图书馆23日开放</a> <a href="http://weibo.com/1895216473/B0MeI8gGE">明信片看长春的历史</a></p>
+<p><a href="http://weibo.com/changchunleju" target="_blank" class="col_8">分析</a><i>|</i><a href="http://weibo.com/1895216473/B0SLNbdTI">吴敬琏：国企拿到4万亿不知怎么办 都投房产</a></p>
+<p><a href="#" target="_blank" class="col_8">关注</a><i>|</i><a href="http://weibo.com/1927437203/B3cDMya1A"><font color="red">土豪明佳时代庄园100名庄主招募 送24平农场</font></a><a href="http://weibo.com/changchunleju"></a></p>
+<p><a href="#" target="_blank" class="col_8">热点</a><i>|</i><a href="http://weibo.com/3525964345/AET0LuNcK">老板吵起来怎么办 填问卷送明宇广场写字间</a></p>
+<p><a href="http://weibo.com/changchunleju" target="_blank" class="col_8">热议</a><i>|</i><a href="http://weibo.com/1927437203/B3muuj4xb">中信云邸5月10日盛大开盘 享28万元锯惠</a></p>
+</div>
+</div>
+</div>
+<div class="box_center ml10">
+<div class="public">
+<div class="t"><h2><a href="http://cc.house.sina.com.cn/news/">今日要闻</a></h2><em><a rel="nofollow" href="http://cc.house.sina.com.cn/news/">更多&gt;&gt;</a></em><div class="bfr60" id="b06"></div></div>
+<div class="article1 pt15">
+<div class="titlename1 f14">
+<!--上部头条-->
+<a href="http://cc.house.sina.com.cn/news/2014-05-08/16522722896.shtml">长春楼市或将迎调整窗口期 是时候动手了？</a>
+</div>
+<ul class="artlist">
+<!--上部内容列表-->
+<li><a href="http://search.house.sina.com.cn/jl/news/" target="_blank" class="col_8">政策</a><i>|</i><a href="http://cc.house.sina.com.cn/news/2014-05-09/08492723530.shtml">为房产税开征铺路 不动产登记局落户国土部</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/news/" target="_blank" class="col_8">市场</a><i>|</i><a href="http://cc.house.sina.com.cn/news/2014-05-09/08532723562.shtml">最危险的楼市赌局</a>
+<a href="http://cc.house.sina.com.cn/news/2014-05-09/08442723482.shtml">投资者为供应过剩而埋单</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/news/" class="col_8">楼市</a><i>|</i><a href="http://cc.house.sina.com.cn/news/2014-05-09/08542723569.shtml">哪些城市房价更抗跌</a> <a href="http://cc.house.sina.com.cn/news/2014-05-09/08462723498.shtml">地方楼市政策调是不调</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/news/" target="_blank" class="col_8">关注</a><i>|</i><a href="http://cc.house.sina.com.cn/news/2014-05-09/08482723525.shtml">房地产市场再传出救市声 救或不救均需谨慎</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/news/" target="_blank" class="col_8">走势</a><i>|</i><a href="
+http://cc.house.sina.com.cn/news/2014-05-09/08462723493.shtml">楼市地产的销售遇冷 开发商“捂盘”变“藏盘”</a></li>
+<li><a href="http://survey.news.sina.com.cn/survey.php?id=88798" target="_blank" class="col_8">观点</a><i>|</i><a href="http://cc.house.sina.com.cn/news/2014-05-09/08512723547.shtml">谢国忠:每平米房价会降到2个月平均工资以下</a> </li>
+<li><a href="http://search.house.sina.com.cn/jl/news/" target="_blank" class="col_8">聚焦</a><i>|</i><a href="http://cc.house.sina.com.cn/news/2014-05-09/08482723518.shtml">靠卖房回款很难房企缺钱 国内房企快扛不住</a></li>
+<li>
+<div id="top_news" style="position: relative;width:338px;height:26px;overflow:hidden;">
+<div style="top: 88px; left: 57px; position: absolute; width: 800px; height: 26px;" class="items">
+<div style="
+    float: left;
+    display: inline;
+    width: 338px;
+"><a href="http://search.house.sina.com.cn/cc/news/" target="_blank" class="col_8">独家</a><i>|</i><a href="http://cc.house.sina.com.cn/scan/cc/xlyy18.html">小浪有约：年轻人买房 只选对的不选贵的</a></div>
+<div style="
+    float: left;
+    display: inline;
+    width: 338px;
+"><a href="http://search.house.sina.com.cn/cc/news/" target="_blank" class="col_8">独家</a><i>|</i><a href="http://cc.house.sina.com.cn/scan/2014-04-30/16082712740.shtml">上LEJU电商就购了 长春E金券超级优惠来袭</a></div>
+</div>
+</div>
+</li>
+</ul>
+<div class="titlename1 f14">
+<!--下部头条-->
+<a href="http://cc.house.sina.com.cn/zhuanti/zhuzhaiyudaodianshang/index.shtml">住宅遇到电商 国信地产加冕南部新城</a>
+</div>
+<ul class="artlist">
+<li><a href="http://cc.house.sina.com.cn/scan/2014-05-07/10042720277.shtml">益田枫露三期到访抽金条</a> <a href="http://cc.house.sina.com.cn/scan/2014-05-05/16112717344.shtml">新星宇•之悦喜迎母亲节</a></li>
+<li><a href="http://cc.house.sina.com.cn/scan/2014-05-05/09372716502.shtml">明佳时代庄园庄主招募</a> <a href="http://cc.house.sina.com.cn/scan/2014-05-08/16052722805.shtml">澳海澜郡会员全城招募</a></li>
+<li><a href="http://cc.house.sina.com.cn/scan/2014-04-30/10452712084.shtml">昆玉府寻找长春最幸福家庭</a> <a href="http://cc.house.sina.com.cn/scan/2014-05-08/16002722791.shtml">蓝色港湾三期梓庭面市</a></li>
+<li> <a href="http://cc.house.sina.com.cn/news/2014-05-06/16162719100.shtml">专访迅驰商业广场总经理冯雷</a> <a href="http://cc.house.sina.com.cn/scan/2014-04-29/09432709760.shtml">雲邸样板5月1日开放</a></li>
+<li><a href="http://bj.house.sina.com.cn/news/2014-05-08/13472722492.shtml"><font color="red">黄文仔：懂生活才能懂房子</font></a> <a href="http://city2014.house.sina.com.cn/">点击参与2014摄影大展</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box_right">
+<!--zhi tong che star-->
+<!-- 0 -->
+<div class="public">
+<div class="t"><h3><a href="http://www.leju.com/cc/">购房直通车</a></h3><em><a href="http://www.leju.com/cc/" rel="nofollow">更多&gt;&gt;</a></em></div>
+<div class="out_bor bort_none pt5 h353">
+<div class="k01 clearfix mb5 ml5">
+<!--看房团标题-->
+<div class="fr k01_icon col_1 fb tr">看房团</div>
+<div class="fl w170 k01_l">今日共<span class="col_2">209</span>个楼盘在售</div>
+</div>
+<div class="pl5 pr5 w215 of_h">
+<!--看房团内容-->
+<div class="clearfix mb5">
+<div class="fl img02 vm mr10"><a href="http://data.house.sina.com.cn/cc107365/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/09/ae/f/30c18bd332e6e8d15849d59c947_p7_mk7_os8e3468_qa1_cm120X90.jpg" width="84" height="65" alt="国信中央新城" /></a></div>
+<div class="fl w120 lh22 of_h cut_text">
+<p class="fb col_5"><a href="http://data.house.sina.com.cn/cc107365/">国信中央新城</a></p>
+<p><em>53696</em>人次访问</p>
+<p><a href="http://data.house.sina.com.cn/cc107365/">品牌地产,城市豪宅</a></p>
+</div>
+</div>
+<ul class="cut_text lh24">
+<li><a href="http://data.house.sina.com.cn/cc/search/3021-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">[净月区]</a> <a href="http://data.house.sina.com.cn/cc/search/?district=&amp;pricerange=&amp;hometype=&amp;keyword=净月区&amp;charset=utf8" class="col_5 unl">中信城</a> <a href="http://data.house.sina.com.cn/cc28428/">乐居特惠3千享3万</a></li>
+<li><a href="http://data.house.sina.com.cn/cc/search/a8881.html">[周边]</a> <a href="http://data.house.sina.com.cn/cc113883/" class="col_5 unl">明佳时代庄园</a> <a href="http://data.house.sina.com.cn/cc113883/">买房就送地</a></li>
+<li><a href="http://data.house.sina.com.cn/cc/search/a3023.html">[净月区]</a> <a href="http://data.house.sina.com.cn/cc105068/" class="col_5 unl">明宇广场</a> <a href="http://data.house.sina.com.cn/cc105068/">全服务链写字楼</a></li>
+</ul>
+</div>
+<div class="line-dotted mt5 mb5"></div>
+<!--易居热情-->
+<dl class="pl5 lh22 w220 of_h">
+<dt class="clearfix pr">
+<a class="pa btn01 col_1 tc no_unl" href="http://www.leju.com/"><em class="fb">LEJU</em>·电商</a><span class="col_2 fb mr5">TIME</span>2014.05.05        </dt>
+<dd class="cut_text col_3"><a href="http://data.house.sina.com.cn/cc107365/">国信中央新城最高1万享6万</a></dd>
+<dt class="clearfix">
+<span class="col_2 fb mr5">TIME</span>2014.05.05        </dt>
+<dd class="cut_text col_3"><a href="http://data.house.sina.com.cn/cc113883/">明佳时代庄园3千享5千</a></dd>
+</dl>
+<div class="line-dotted mt5 mb5"></div>
+<!--易居网盟-->
+<dl class="pl5 lh22 w220 of_h">
+<dt class="clearfix cut_text pr">
+<a class="pa btn01 col_1 tc no_unl" href="http://www.leju.com/"><em class="fb">LEJU</em>·网盟</a>共有<span class="col_2">1,200,100</span>个网盟店铺
+        </dt>
+<dd class="cut_text col_3"><a href="http://www.leju.com/">38663套优质精品出售房源</a></dd>
+<dd class="cut_text col_3"><a href="http://www.leju.com/">4543套最新价优出租房源</a></dd>
+</dl>
+</div>
+<div class="c_hotline">
+<p>免费咨询热线<span>400-606-6969</span></p>
+</div>
+</div>
+<!--zhi tong che end-->
+</div>
+</div>
+<!--Mod1 end-->
+<!--mod2 star-->
+<div class="clearfix mb10"><div class="box_left mr10"><!--左侧内容-->
+<div class="public">
+<div class="t"><h3><a href="http://cc.bbs.house.sina.com.cn/forum-4974-1.html">业主论坛
+
+</a></h3><em><a href="http://cc.bbs.house.sina.com.cn/forum-4974-
+
+1.html" rel="nofollow">更多&gt;&gt;</a></em><div id="b05" class="bfr60"></div></div>
+<div class="article2 pt15">
+<div class="titlename2 f14"><a class="col_8 fb" href="http://cc.bbs.house.sina.com.cn/forum-4974-1.html">精品推荐</a><a href="http://cc.bbs.house.sina.com.cn/thread-5868970538923238361.html">国信中央新城电商最高1万享6万
+</a></div>
+<p><a href="http://cc.bbs.house.sina.com.cn/">电商优惠</a><i class="col_3 ml5 mr5">|</i><a href="http://cc.bbs.house.sina.com.cn/thread-5869003440721535195.html">宇都和源电商E金券 最高5千享2万元
+
+</a><a href="http://cc.bbs.house.sina.com.cn/thread-16927017-
+
+1.html"></a><a href="http://cc.bbs.house.sina.com.cn/thread-
+
+16506125-1.html"></a></p>
+<p><a href="http://cc.bbs.house.sina.com.cn/forum-73585-
+
+1.html">楼市新品</a><i class="col_3 ml5 mr5">|</i><a href="http://cc.bbs.house.sina.com.cn/thread-5869005757172720402.html">益田枫露III期说明会暨样板间公开
+
+</a></p>
+<p><a href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay?
+
+fid=1410123662694224">市场动态</a><i class="col_3 ml5 mr5">|</i><a href="http://cc.bbs.house.sina.com.cn/thread-5868999414214861577.html">中信云邸价格出来啦 想买的来看看
+
+</a><a href="http://cc.bbs.house.sina.com.cn/thread-17550158-1.html
+"></a></p>
+<div class="titlename2 f14 mt5"><a class="col_8 
+
+fb" href="http://cc.bbs.house.sina.com.cn/forum-4974-1.html">优惠
+
+</a><a href="http://cc.bbs.house.sina.com.cn/thread-5869000021881430838.html">中信云邸目前认筹最高优惠达28万</a></div>
+<p><a href="http://cc.bbs.house.sina.com.cn/forum-72618-1.html">看房感受
+
+</a><i class="col_3 ml5 mr5">|</i><a href="http://cc.bbs.house.sina.com.cn/thread-5869002245219066297.html">天富东苑倾力打造百分百轻熟住区</a></p>
+<p><a href="http://cc.bbs.house.sina.com.cn/forum-4978-1.html">投资推荐
+
+</a><i class="col_3 ml5 mr5">|</i><a href="http://cc.bbs.house.sina.com.cn/thread-5868996523349549210.html">明宇广场 300万精装写字间免费入驻
+
+
+</a></p>
+<p><a href="http://cc.bbs.house.sina.com.cn/forum-4979-1.html">活动专区
+
+</a><i class="col_3 ml5 mr5">|</i><a href="http://cc.bbs.house.sina.com.cn/thread-5865337705948291255.html">
+明佳时代广场100名庄主火热招募中</a></p>
+</div>
+</div>
+<div id="b08"></div></div><div class="box_center mr10"><!--中间内容-->
+<div class="public">
+<div class="t"><h3><a href="http://cc.house.sina.com.cn/video/index.shtml">视频访谈
+
+</a></h3><em><a href="http://cc.house.sina.com.cn/video/index.shtml" rel="nofollow">更多&gt;&gt;</a></em><div id="b07" class="bfr60"></div></div>
+<div class="pt15">
+<div class="clearfix">
+<div class="fl w104 vm img01 tc mr15"><a href="http://video.sina.com.cn/v/b/128961851-1178602195.html"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/c7/43/a/d188952c7582d65c3351f64bf20_p1_mk1.jpg" width="104" height="80" alt="伟峰顶尖户型配套" />乐居新产品房牛加</a></div>
+<div class="article1 cell f14">
+<p><a href="http://video.sina.com.cn/v/b/124609088-1178602195.html">2014年赢聚汇《爱聚才会赢》</a></p>
+<p class="artlist"><a href="http://video.sina.com.cn/v/b/130031081-1178602195.html">新浪乐居《点亮长春》新品推介会</a></p>
+<p class="artlist"><a href="http://video.sina.com.cn/v/b/132044460-1178602195.html">明佳时代庄园沙盘</a> <a href="http://video.sina.com.cn/v/b/132046893-1178602195.html"> 迅驰专访</a></p>
+<p><a href="http://video.sina.com.cn/v/b/131777039-1178602195.html">大禹奥城“快闪动起来”</a></p>
+</div>
+</div>
+<div class="titlename2 f14 mt3"><a href="http://video.sina.com.cn/v/b/133149752-1178602195.html">国信中央新城电商重装来袭 优惠信息抢先知</a></div>
+<ul class="artlist">
+<li><a href="http://video.sina.com.cn/v/b/131857605-1178602195.html">亚泰一站式幸福生活</a> <a href="http://video.sina.com.cn/v/b/132044294-1178602195.html"> 澳海澜苑沙盘讲解</a></li>
+<li><a href="http://video.sina.com.cn/v/b/131782360-1178602195.html">“比肩五百强，引擎新商务”
+</a> <a href="http://video.sina.com.cn/v/b/126499584-1178602195.html">康诗丹郡沙盘讲解</a></li>
+<li><a href="http://video.sina.com.cn/v/b/126498212-1178602195.html">华友昆玉府沙盘讲解</a> <a href="http://video.sina.com.cn/v/b/132044580-1178602195.html">中信云邸沙盘讲解
+</a></li>
+</ul>
+</div>
+</div>
+<div id="b09"></div></div><div class="box_right"><div id="b10"></div></div></div>
+<!--mod2 end-->
+<div id="t04"></div>
+<div id="t16"></div>
+<!--iframe01 star-->
+<iframe src="http://cc.house.sina.com.cn/scan/ds/yh.html" width="950" height="290" scrolling="no" frameborder="0"></iframe>
+<!--iframe01 end-->
+<!--buy house star-->
+<div class="big_t">
+<div class="fr pr15 col_4 big_t_r">
+<!--买房横切文字链-->
+<a href="http://data.house.sina.com.cn/cc/new/">新房</a>|<a href="http://data.house.sina.com.cn/cc/search_advance/">搜索</a>|<a href="http://search.house.sina.com.cn/jl/loushi/kaipan/">开盘</a>|<a href="http://search.house.sina.com.cn/jl/loushi/dazhe/">打折</a>|<a href="http://data.house.sina.com.cn/cc/pictures/">图库</a>|<a href="http://bj.house.sina.com.cn/bxjsq/">贷款计算器</a>|<a href="http://map.house.sina.com.cn/jl/">地图</a>|<a href="http://bj.house.sina.com.cn/gfnl/index.html">购房能力评估</a>|<a href="http://search.house.sina.com.cn/jl/loushi/kfsj/">看房手记</a>| <a href="http://data.house.sina.com.cn/cc/tujie/">图解看房</a>|<a href="http://cc.house.sina.com.cn/scan/cctools/index.html">购房工具箱</a>
+<a href="/exhibit/">更多&gt;&gt;</a>
+</div>
+<h5 class="pl20"><a href="/exhibit/" class="mf">买房</a></h5>
+</div>
+<div class="out_bor bort_none mb10">
+<div class="in_bor clearfix pr">
+<div class="h_adv"><div id="d03"></div></div>
+<div class="fl zfkw f16 pt50 f_yahei tc mr20">找<br />房<br />快<br />搜</div>
+<div class="fl w880 pt10 smobile_col">
+<!--买房栏头找房快搜内容-->
+<div class="clearfix mb10">
+<dl class="fl w530 zfks_list lh22 clearfix">
+<dt class="fl col_1 fb mr5">需求</dt>
+<dd class="col_3"> <a href="http://data.house.sina.com.cn/cc/search/0-0-1-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">单身公寓</a><a href="http://data.house.sina.com.cn/cc/search/0-0-2-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">两口世界</a><a href="http://data.house.sina.com.cn/cc/search/0-0-3-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">三口之家</a><a href="http://data.house.sina.com.cn/cc/search/0-0-4-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">四房大宅</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-0-5-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">豪华五房</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-0-7-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">复式</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">别墅</a></dd>
+</dl>
+<dl class="fl w350 zfks_list h22 clearfix">
+<dt class="fl col_1 fb mr5">物业</dt>
+<dd class="col_3"><a href="http://data.house.sina.com.cn/cc/search/0-0-0-1-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">住宅</a><a href="http://data.house.sina.com.cn/cc/search/0-0-0-2-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">公寓</a><a href="http://data.house.sina.com.cn/cc/search/0-0-0-3-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">别墅</a><a href="http://data.house.sina.com.cn/cc/search/0-0-0-4-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">写字楼</a><a href="http://data.house.sina.com.cn/cc/search/0-0-0-7-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">酒店式公寓</a><a href="http://data.house.sina.com.cn/cc/search/0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">建筑综合体</a><a href="http://data.house.sina.com.cn/cc/search/0-0-0-8-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">商铺</a></dd>
+</dl>
+</div>
+<div class="clearfix mb10">
+<dl class="fl w530 zfks_list lh22 clearfix">
+<dt class="fl col_1 fb mr5">均价</dt>
+<dd class="col_3"><a href="http://data.house.sina.com.cn/cc/search/0-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">打折楼盘</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-3497-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">3千以下</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-3498-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">3千-4千</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-3499-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">4千-5千</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-3500-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">5千-6千</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-3501-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">6千-8千</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-3502-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">8千-1万</a>
+<a href="http://data.house.sina.com.cn/cc/search/0-3503-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">1万以上</a></dd>
+</dl>
+<dl class="fl w350 zfks_list h22 clearfix">
+<dt class="fl col_1 fb mr5">装修</dt>
+<dd class="col_3"><a href="http://data.house.sina.com.cn/cc/search/0-0-0-0-0-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">毛坯交房</a><a href="http://data.house.sina.com.cn/cc/search/0-0-0-0-0-0-0-0-0-0-0-3-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">精装交房</a>
+</dd>
+</dl>
+</div>
+<dl class="zfks_list lh22 clearfix">
+<dt class="fl col_1 fb mr5">区域</dt>
+<dd class="col_3">
+<a href="http://data.house.sina.com.cn/cc/search/3021-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">绿园区</a><a href="http://data.house.sina.com.cn/cc/search/3022-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">二道区</a><a href="http://data.house.sina.com.cn/cc/search/3023-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">净月区</a><a href="http://data.house.sina.com.cn/cc/search/3024-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">南关区</a><a href="http://data.house.sina.com.cn/cc/search/3025-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">朝阳区</a><a href="http://data.house.sina.com.cn/cc/search/3026-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">宽城区</a><a href="http://data.house.sina.com.cn/cc/search/3027-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">高新区</a><a href="http://data.house.sina.com.cn/cc/search/3028-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">经开区</a><a href="http://data.house.sina.com.cn/cc/search/3029-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">汽贸区</a><a href="http://data.house.sina.com.cn/cc/search/5526-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">白山</a><a href="http://data.house.sina.com.cn/cc/search/8308-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html" rel="nofollow">吉林市</a><a href="http://data.house.sina.com.cn/cc/search/a8881.html" rel="nofollow">周边</a></dd>
+</dl>
+</div>
+</div>
+</div>
+<!--buy house end-->
+<div id="t19"></div>
+<!--mod2 star-->
+<div class="clearfix mb10">
+<div class="box_left mr10">
+<div class="public">
+<div class="t">
+<h3><a href="http://search.house.sina.com.cn/jl/loushi/zbjf/">主编荐房</a></h3>
+<em><a href="http://search.house.sina.com.cn/jl/loushi/zbjf/">更多&gt;&gt;</a></em>
+<div class="bfr60" id="b11"></div>
+</div>
+<div class="pt10 pl5">
+<!-- 1 -->
+<div class="clearfix">
+<div class="fl w115 vm img05 tc mr15 col_5"><a href="/scan/2014-04-25/13352705322.shtml"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/c3/b8/3/a014b51a8d34dc2de6ef0716671_p7_mk7_os305515_cm240X180_S115X0.jpg" width="115" height="75" title="5月主编荐房：明佳时代庄园" /><br /><span>明佳时代庄园</span></a></div>
+<div class="fl w215 of_h lh22 h88">
+<p>价格：<em class="col_2">均价3000元/平米</em> 长春周边</p>
+<p><em class="fb">推荐理由：</em>明佳时代庄园是区域内首家推出开心农场的居住生活理念，买房送田，开启城市中的田园生...<a href="/scan/2014-04-25/13352705322.shtml">[查看详情]</a></p>
+</div>
+</div>
+<div class="lh24 unl mb5 h24"><a href="http://cc.bbs.house.sina.com.cn/forum-5845007811766951954/t1688987299217477/" class="mr10">网友楼盘口碑</a><a href="http://data.house.sina.com.cn/cc113883/pinglun/" class="mr10 col_5">编辑专业点评</a><a href="http://data.house.sina.com.cn/cc113883/pic/0_1/" class="mr10">小区实景图片</a><a href="http://data.house.sina.com.cn/cc113883/dongtai/">楼盘最新资讯</a></div><div class="clearfix">
+<div class="fl w115 vm img05 tc mr15 col_5"><a href="/scan/2014-04-25/12492705298.shtml"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/f3/cc/c/b8e8d4bf474b435b693bb19c6d2_p7_mk7_os54bf64_cm240X180_S115X0.jpg" width="115" height="75" title="5月主编荐房：国信中央新城" /><br /><span>国信中央新城</span></a></div>
+<div class="fl w215 of_h lh22 h88">
+<p>价格：<em class="col_2">均价7200元/平米</em> 南关区</p>
+<p><em class="fb">推荐理由：</em>国信中央新城位于金宇大路与新明街交汇是南部新城热销楼盘代表。项目交通便捷、配套齐...<a href="/scan/2014-04-25/12492705298.shtml">[查看详情]</a></p>
+</div>
+</div>
+<div class="lh24 unl mb5 h24"><a href="http://cc.bbs.house.sina.com.cn/forum-5768525952900440851/t1688987299217477/" class="mr10">网友楼盘口碑</a><a href="http://data.house.sina.com.cn/cc107365/pinglun/" class="mr10 col_5">编辑专业点评</a><a href="http://data.house.sina.com.cn/cc107365/slide/4891131/" class="mr10">实地图解看房</a><a href="http://data.house.sina.com.cn/cc107365/dongtai/">楼盘最新资讯</a></div>
+</div>
+</div>
+</div>
+<div class="box_center mr10">
+<div class="public">
+<!-- 1 -->
+<div class="t">
+<h2><a href="http://search.house.sina.com.cn/jl/loushi/">热盘导购</a></h2>
+<em><a href="http://search.house.sina.com.cn/jl/loushi/">更多&gt;&gt;</a></em>
+<div class="bfr60" id="b12"></div>
+</div>
+<div class="article1 pt15">
+<div class="titlename1 f16 mb5">
+<a href="/scan/2014-05-06/14302718944.shtml" class="col_8">亚泰兰海公馆目前主体封顶(图)</a>
+</div>
+<ul class="artlist">
+<li><a href="http://search.house.sina.com.cn/jl/loushi/daogou/" class="col_8">导购</a><i>|</i><a href="/scan/2014-05-09/14072724438.shtml">虹馆住宅均价每平8800元(图)</a></li><li><a href="http://search.house.sina.com.cn/jl/loushi/daogou/" class="col_8">导购</a><i>|</i><a href="/scan/2014-05-09/11352724300.shtml">微博售楼处引领泛营销 国信电商重装来袭</a></li><li><a href="http://search.house.sina.com.cn/jl/loushi/ruzhu/" class="col_8">入住</a><i>|</i><a href="/scan/2014-05-09/10322724119.shtml">新星宇·和顺一期高层均价每平6500元(图)</a></li><li><a href="http://search.house.sina.com.cn/jl/loushi/daogou/" class="col_8">导购</a><i>|</i><a href="/scan/2014-05-09/10082724015.shtml">湖景豪宅畔  鸟语花香伴书声琅琅</a></li><li><a href="http://search.house.sina.com.cn/jl/loushi/daogou/" class="col_8">导购</a><i>|</i><a href="/scan/2014-05-09/10032723991.shtml">恒大影城华美绽放</a></li><li><a href="http://search.house.sina.com.cn/jl/loushi/daogou/" class="col_8">导购</a><i>|</i><a href="/scan/2014-05-09/09592723974.shtml">东安·开运福里推出一万抵两万优惠(图)</a></li><li><a href="http://search.house.sina.com.cn/jl/loushi/ruzhu/" class="col_8">入住</a><i>|</i><a href="/scan/2014-05-09/09522723945.shtml">领秀世家三期2015年中旬交房(图)</a></li><li><a href="http://search.house.sina.com.cn/jl/loushi/dazhe/" class="col_8">打折</a><i>|</i><a href="/scan/2014-05-09/09472723912.shtml">保利拉菲公馆目前最高钜惠12万(图)</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box_right">
+<div class="public">
+<!-- 0 -->
+<div class="t">
+<h2><a href="http://www.leju.com/cc/">特惠楼盘·LEJU</a></h2>
+<em><a href="http://www.leju.com/cc/">更多&gt;&gt;</a></em>
+</div>
+<div class="out_bor bort_none h260"><div class="pt10 pl5 pr5 lh22 w218 of_h"><div class="clearfix">
+<div class="fl w100 img06 vm mr10"><a href="http://data.house.sina.com.cn/cc107365/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/09/ae/f/30c18bd332e6e8d15849d59c947_p7_mk7_os8e3468_qa1_cm120X90.jpg" width="100" height="75" alt="国信中央新城" /></a></div>
+<div class="fl w104 cut_text lh20">
+<p><a href="http://data.house.sina.com.cn/cc107365/"><em class="fb col_2">[热卖]</em>国信中央新城</a></p>
+<p class="fb col_2">最高1万享6万</p>
+<p>品牌地产,城市豪宅</p>
+<p><em class="col_2">53710</em>人次访问</p>
+</div>
+</div>
+<ul class="mt10 cut_text">
+<li><em class="fb col_2 mr5">[热卖]</em><a href="http://data.house.sina.com.cn/cc113883/" class="col_5 unl mr5">明佳时代庄园</a></li>
+<li><span class="mr10">最新动态：享3千抵5千优惠</span></li>
+</ul>
+<ul class="mt10">
+<li><em class="fb col_2 mr5">[热卖]</em><a href="http://data.house.sina.com.cn/cc97376/" class="col_5 unl mr5">潭泽溪郡</a></li>
+<li><span class="mr10">最新动态：全款享受97折优惠</span></li>
+</ul>
+<ul class="mt10">
+<li><em class="fb col_2 mr5">[热卖]</em><a href="http://project.leju.com/house.php?city=gz&amp;hid=2397" class="col_5 unl mr5">保利春天里</a></li>
+<li><span class="mr10">最新动态：精品房源首付10%</span></li>
+</ul><style type="text/css">
+    .zn_20121115_fix li{ height:22px; overflow:hidden;}</style></div></div>
+</div>
+</div>
+</div>
+<!--mod2 end-->
+<div id="t22"></div>
+<!--mod3 star-->
+<div class="clearfix mb10">
+<!-- 1 -->
+<div class="box_left mr10">
+<div class="public">
+<div class="t">
+<h3><a href="http://search.house.sina.com.cn/jl/loushi/xinpan/">首次置业</a></h3>
+<em><a href="http://search.house.sina.com.cn/jl/loushi/xinpan/">更多&gt;&gt;</a></em>
+<div class="bfr60" id="b13"></div>
+</div>
+<dl class="mod1 clearfix pt10">
+<dt class="col_1 fb">刚   需</dt><dd>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-04-30/09222711645.shtml">天富东苑全款可享95折优惠(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc110592/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=5798976753611351033">热评</a>
+</span>
+</div>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-04-30/09082711560.shtml">香江铂朗明珠每平4999元起(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc96684/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=1410123662694908">热评</a>
+</span>
+</div>
+</dd>
+<dt class="col_1 fb">投    资</dt><dd>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-04-30/09492711825.shtml">绿地中央广场写字间整层定制中(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc102156/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=1410123662700999">热评</a>
+</span>
+</div>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-04-30/09132711589.shtml">迅驰广场将推3号楼写字间新品(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc107468/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=5771069661852508589">热评</a>
+</span>
+</div>
+</dd>
+<dt class="col_1 fb">动    态</dt><dd>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-06/11212718755.shtml">保利·春天里88平新品即将上市(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc106691/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/5762792575777939651/">热评</a>
+</span>
+</div>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-05/09452716563.shtml">中信云邸5月10日正式开盘(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc114786/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=5854155854034542763">热评</a>
+</span>
+</div>
+</dd>
+<dt class="col_1 fb">优    惠</dt><dd>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-09/09472723912.shtml">保利拉菲公馆目前最高钜惠12万(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc97667/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=1410123662695871">热评</a>
+</span>
+</div>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-06/09512718431.shtml">大禹华邦现房销售(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc29886/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=1410123662649963">热评</a>
+</span>
+</div>
+</dd>
+</dl>
+</div>
+<div id="b15"></div>
+</div>
+<div class="box_center mr10">
+<div class="public">
+<div class="t">
+<h3><a href="http://search.house.sina.com.cn/jl/loushi/daogou/">改善置业</a></h3>
+<em><a href="http://search.house.sina.com.cn/jl/loushi/daogou/">更多&gt;&gt;</a></em>
+<div class="bfr60" id="b14"></div>
+</div>
+<dl class="mod1 clearfix pt10">
+<dt class="red_icon col_1 fb">优    惠</dt><dd>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-04/16362715601.shtml">恒大御景最高送76万全房豪装(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc84153/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=1410123662681549">热评</a>
+</span>
+</div>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-04/16332715593.shtml">恒大名都5套特价房限时抢购中(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc96853/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=1410123662695001">热评</a>
+</span>
+</div>
+</dd>
+<dt class="red_icon col_1 fb">名    企</dt><dd>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-04/16382715605.shtml">恒大绿洲钜惠倒计时(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc52188/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=1410123662667199">热评</a>
+</span>
+</div>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-04/16282715578.shtml">恒大城三房清尾五一钜惠领衔春城(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc89505/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=1410123662685445">热评</a>
+</span>
+</div>
+</dd>
+<dt class="red_icon col_1 fb">新    品</dt><dd>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-04-28/14482708397.shtml">益田枫露5月1日三期开始认筹(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc89961/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=1410123662686056">热评</a>
+</span>
+</div>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-07/16422720964.shtml">澳海澜苑5月10日认筹 均价5600元/平(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc113541/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=5841446222568661576">热评</a>
+</span>
+</div>
+</dd>
+<dt class="red_icon col_1 fb">导    购</dt><dd>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-05/14242717150.shtml">国信中央新城电商最高1万享6万(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc107365/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/5768525952900440851/">热评</a>
+</span>
+</div>
+<div class="clearfix">
+<em class="fl"><a href="/scan/2014-05-07/11472720562.shtml">绿地城认筹最高享1万抵6万(图)</a></em>
+<span class="fl col_3 f12 w60 tr lh26">
+<a class="unl" href="http://data.house.sina.com.cn/cc115073/pinglun/">点评</a> <a class="unl" href="http://cc.bbs.house.sina.com.cn/bbs/forum/forumdisplay/?fid=5857378663565140409">热评</a>
+</span>
+</div>
+</dd>
+</dl>
+</div>
+<div id="b16"></div>
+</div>
+<div class="box_right">
+<div class="public">
+<div class="t">
+<div class="fr col_4"><a href="http://i.house.sina.com.cn" rel="nofollow" class="col_5">会员申请</a> | <a href="http://cc.house.sina.com.cn/activity/" rel="nofollow" class="col_5">会员权益</a></div>
+<h3><a href="http://cc.house.sina.com.cn/club/">乐居会</a></h3>
+</div>
+<div class="out_bor bort_none h267">
+<div class="pt15 pl15 w200 of_h">
+<div class="img07 vm mb10"><a href="http://cc.house.sina.com.cn/club/"><img lsrc="http://www.sinaimg.cn/hs/2013/0307/S63977T1362621191465.jpg" width="200" height="60" alt="乐居会" /></a></div><ul class="dot lh24 cut_text">
+<li><a href="http://cc.house.sina.com.cn/club/ 
+">乐居会</a>|<a href="http://cc.house.sina.com.cn/scan/2014-05-05/14242717150.shtml
+">国信中央新城最高1万享6万</a></li>
+<li><a href="http://cc.house.sina.com.cn/club/ 
+">乐居会</a>|<a href="http://cc.house.sina.com.cn/scan/2014-04-09/16222681049.shtml">绿地城认筹优惠 购房送学位</a></li>
+<li><a href="http://cc.house.sina.com.cn/club/ 
+">乐居会</a>|<a href="http://cc.house.sina.com.cn/scan/xb/sp.shtml
+">楼市寻宝：低价商铺万元求</a></li>
+<li><a href="http://cc.house.sina.com.cn/club/
+">乐居会</a>|<a href="http://cc.house.sina.com.cn/scan/dxczy.html?ADUIN=276380575&amp;ADSESSION=1395709838&amp;ADTAG=CLIENT.QQ.5311_.0&amp;ADPUBNO=26325"> 抢占三座大学附近城学区房</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/kfsj/">看房手记</a>|<a href="http://cc.house.sina.com.cn/scan/2014-03-20/14422654615.shtml
+">万科蓝山样板 简约而优雅</a></li>
+<li><a href='http://search.house.sina.com.cn/jl/loushi/kfsj/"'>看房手记</a>|<a href="http://cc.house.sina.com.cn/scan/xlkf/tzxj.shtml
+">潭泽溪郡部分赠阁楼花园</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/kfsj/">图解看房</a>|<a href="http://data.house.sina.com.cn/cc113028/slide/5037600/
+">华润凯旋门 图解看房</a><ahref></ahref></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--mod3 end-->
+<div id="t05"></div>
+<!--iframe02 star-->
+<!--iframe02 end-->
+<!--mod4 star-->
+<div class="public mb10 clearfix">
+<div class="t">
+<div class="fr mlr_10"><!--文字链-->
+<a href="http://data.house.sina.com.cn/cc/search/0-0-1-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">一居</a>┊<a href="http://data.house.sina.com.cn/cc/search/0-0-2-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">两居</a>┊<a href="http://data.house.sina.com.cn/cc/search/0-0-3-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">三居</a>┊<a href="http://data.house.sina.com.cn/cc/search/0-0-4-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">四居</a>┊<a href="http://data.house.sina.com.cn/cc/search/0-0-7-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">复式</a>┊<a href="http://data.house.sina.com.cn/cc/search/0-0-8-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">跃层</a>┊<a href="http://data.house.sina.com.cn/cc/search/0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">别墅</a><a href="http://data.house.sina.com.cn/cc/hot/">更多&gt;&gt;</a></div>
+<h3><a href="http://data.house.sina.com.cn/cc/hot/">热点楼盘</a></h3>
+<div id="b17" class="bfl80"></div>
+</div>
+<div class="out_bor bort_none pt20 pb20">
+<ul class="hot_h cut_text lh24 clearfix">
+<!-- 1 -->
+<li class=""><a href="http://data.house.sina.com.cn/cc115073/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/43/b3/c/45eeeb343704b95765c354119ce_p7_mk7_os74b6fc_qa1_cm120X90.jpg" src=" http://i3.sinaimg.cn/hs/zjwei/10Q1/images/grey.gif" alt="绿地城" width="110" height="74" /></a><p><a href="http://data.house.sina.com.cn/cc115073/" class="rdlp">绿地城</a><a href="http://data.house.sina.com.cn/cc115073/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc84364/" class="rdlp">华润橡树湾</a><a href="http://data.house.sina.com.cn/cc84364/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc115260/" class="rdlp">大禹奥城</a><a href="http://data.house.sina.com.cn/cc115260/pinglun/" class="col_2">[点评]</a></p></li><li class=""><a href="http://data.house.sina.com.cn/cc113541/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/f6/8d/d/0eb76460dfcc166d2e1751a8e0d_p7_mk7_osb39dd0_qa1_cm120X90.jpg" src=" http://i3.sinaimg.cn/hs/zjwei/10Q1/images/grey.gif" alt="澳海澜苑" width="110" height="74" /></a><p><a href="http://data.house.sina.com.cn/cc113541/" class="rdlp">澳海澜苑</a><a href="http://data.house.sina.com.cn/cc113541/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc113028/" class="rdlp">华润凯旋门</a><a href="http://data.house.sina.com.cn/cc113028/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc89505/" class="rdlp">恒大城</a><a href="http://data.house.sina.com.cn/cc89505/pinglun/" class="col_2">[点评]</a></p></li><li class=""><a href="http://data.house.sina.com.cn/cc113883/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/cc/99/f/df6e4a64d3d182418ae29467910_p7_mk7_osbff5b7_qa1_cm120X90.jpg" src=" http://i3.sinaimg.cn/hs/zjwei/10Q1/images/grey.gif" alt="明佳时代庄园" width="110" height="74" /></a><p><a href="http://data.house.sina.com.cn/cc113883/" class="rdlp">明佳时代庄园</a><a href="http://data.house.sina.com.cn/cc113883/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc107468/" class="rdlp">迅驰广场</a><a href="http://data.house.sina.com.cn/cc107468/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc60856/" class="rdlp">远洋戛纳小镇</a><a href="http://data.house.sina.com.cn/cc60856/pinglun/" class="col_2">[点评]</a></p></li><li class=""><a href="http://data.house.sina.com.cn/cc106304/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/0e/56/7/b5896929c65127d89b7b3dc9cbd_p7_mk7_osa2bb72_qa1_cm120X90.jpg" src=" http://i3.sinaimg.cn/hs/zjwei/10Q1/images/grey.gif" alt="长电·朗天国际" width="110" height="74" /></a><p><a href="http://data.house.sina.com.cn/cc106304/" class="rdlp">长电·朗天国际</a><a href="http://data.house.sina.com.cn/cc106304/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc106691/" class="rdlp">保利·春天里</a><a href="http://data.house.sina.com.cn/cc106691/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc105288/" class="rdlp">伟峰东樾</a><a href="http://data.house.sina.com.cn/cc105288/pinglun/" class="col_2">[点评]</a></p></li><li class=""><a href="http://data.house.sina.com.cn/cc110592/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/9f/e5/a/704ac9731d9a5e2f0ff1e22d77c_p7_mk7_osd17b9e_qa1_cm120X90.jpg" src=" http://i3.sinaimg.cn/hs/zjwei/10Q1/images/grey.gif" alt="天富东苑" width="110" height="74" /></a><p><a href="http://data.house.sina.com.cn/cc110592/" class="rdlp">天富东苑</a><a href="http://data.house.sina.com.cn/cc110592/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc28428/" class="rdlp">中信城</a><a href="http://data.house.sina.com.cn/cc28428/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc61054/" class="rdlp">亚泰梧桐公馆</a><a href="http://data.house.sina.com.cn/cc61054/pinglun/" class="col_2">[点评]</a></p></li><li class=""><a href="http://data.house.sina.com.cn/cc107365/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/09/ae/f/30c18bd332e6e8d15849d59c947_p7_mk7_os8e3468_qa1_cm120X90.jpg" src=" http://i3.sinaimg.cn/hs/zjwei/10Q1/images/grey.gif" alt="国信中央新城" width="110" height="74" /></a><p><a href="http://data.house.sina.com.cn/cc107365/" class="rdlp">国信中央新城</a><a href="http://data.house.sina.com.cn/cc107365/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc109260/" class="rdlp">恒大都市广场</a><a href="http://data.house.sina.com.cn/cc109260/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc105671/" class="rdlp">万科·金域长春</a><a href="http://data.house.sina.com.cn/cc105671/pinglun/" class="col_2">[点评]</a></p></li><li class="last"><a href="http://data.house.sina.com.cn/cc114996/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/d7/f2/c/9b4debc5d2b3d8903670334931c_p7_mk7_osf4672f_qa1_cm120X90.jpg" src=" http://i3.sinaimg.cn/hs/zjwei/10Q1/images/grey.gif" alt="大禹南湖首府" width="110" height="74" /></a><p><a href="http://data.house.sina.com.cn/cc114996/" class="rdlp">大禹南湖首府</a><a href="http://data.house.sina.com.cn/cc114996/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc105702/" class="rdlp">吴中·天悦公馆</a><a href="http://data.house.sina.com.cn/cc105702/pinglun/" class="col_2">[点评]</a></p><p><a href="http://data.house.sina.com.cn/cc104788/" class="rdlp">信达龙湾</a><a href="http://data.house.sina.com.cn/cc104788/pinglun/" class="col_2">[点评]</a></p></li>
+</ul>
+<!--克尔瑞楼盘评估报告-->
+<div class="h_more">
+<a href="http://fangjia.leju.com/changchun/">查看所有楼盘价格评估报告&gt;&gt;</a>
+</div>
+</div>
+</div>
+<!--mod4 end-->
+<!--mod5 star-->
+<div class="clearfix mb10">
+<div class="box_left mr10">
+<div class="public">
+<div class="t"><h3><a href="http://data.house.sina.com.cn/cc/dianping/">品牌栏目</a></h3><em><a href="http://data.house.sina.com.cn/cc/dianping/" rel="nofollow">更多&gt;&gt;</a></em></div>
+<div class="pt15 pl5 of_h w340">
+<div id="slideBox2" slidew="338" slideh="167" class="slideBox slideBox_h167 h167 mb10 bor"><ol><li><a rel="nofollow" onfocus="this.blur();" href="http://search.house.sina.com.cn/jl/loushi/kfsj/"><img alt="看房手记" lsrc="http://src.house.sina.com.cn/imp/imp/deal/68/ab/7/8585c54482d06eefe2823a99bbc_p1_mk1_S340X170.jpg" /></a></li><li><a rel="nofollow" onfocus="this.blur();" href="http://data.house.sina.com.cn/cc/tujie/"><img alt="图解看房" lsrc="http://src.house.sina.com.cn/imp/imp/deal/d6/a5/d/62b0cb33de14bcd4e9952e35ebf_p1_mk1_S340X170.jpg" /></a></li><li><a rel="nofollow" onfocus="this.blur();" href="http://cc.bbs.house.sina.com.cn/forum-72618-1.html"><img alt="聊聊买房那些事" lsrc="http://src.house.sina.com.cn/imp/imp/deal/87/a7/5/1fc435f64fc81aaa269106565c8_p1_mk1_S340X170.jpg" /></a></li><li><a rel="nofollow" onfocus="this.blur();" href="http://cc.house.sina.com.cn/scan/cc/xlyy17.html"><img alt="小浪有约" lsrc="http://src.house.sina.com.cn/imp/imp/deal/16/f8/e/66c029e757771b802982992b102_p1_mk1_S340X170.jpg" /></a></li></ol><div class="slideview_change" id="slideview_change2"></div></div>
+<ul class="artlist2 lh24 f14 cut_text">
+<!-- 0 -->
+<!--品牌栏目-->
+<li><a href="http://search.house.sina.com.cn/jl/loushi/kfsj/">看房</a><i>|</i><a href="http://cc.house.sina.com.cn/scan/2014-03-28/15042665792.shtml">长电朗天国际享绿色生活</a> <a href="http://cc.house.sina.com.cn/scan/2014-04-04/09572675536.shtml">嘉惠第五园精装毛坯</a></li>
+<li><a href="http://data.house.sina.com.cn/cc/tujie/">图解</a><i>|</i><a href="http://data.house.sina.com.cn/cc28428/slide/4489581/">中信城打造净月生态社区</a> <a href="http://data.house.sina.com.cn/cc97667/slide/4858899/">保利拉菲公馆图解</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box_center mr10">
+<div class="public">
+<div class="t"><h2><a href="http://search.house.sina.com.cn/jl/loushi/huodong/">楼市快讯</a></h2><em><a href="http://search.house.sina.com.cn/jl/loushi/huodong/">更多&gt;&gt;</a></em>
+<div class="bfr60" id="b18"></div>
+</div>
+<!-- 1 -->
+<div class="article1 pt15">
+<!-- 楼市快讯头条1 -->
+<div class="titlename1 f16">
+<a class="col_8" href="/scan/2014-05-09/09182723729.shtml">长春投资首选 明佳时代广场稀缺商铺均价5000元</a>
+</div>
+<!-- 楼市快讯列表1 -->
+<ul class="artlist">
+<li><a href="/scan/2014-05-08/16002722791.shtml">稀贵水岸天赋大境 蓝色港湾三期梓庭盛大面市</a></li><li><a href="/scan/2014-05-08/15112722701.shtml">澳海澜郡•五一奇幻马戏 风靡全城</a></li><li><a href="/scan/2014-05-08/11502722428.shtml">澳海澜苑多层花园洋房 4688元/平起</a></li><li><a href="/scan/2014-05-07/11032720456.shtml">昂展•公园里都市复古系 母亲节温情怀旧DIY</a></li>
+</ul>
+<!-- 楼市快讯头条2 -->
+<div class="titlename1 f16">
+<a class="col_8" href="/scan/2014-05-07/10152720318.shtml">中海双紫5.1松花湖自驾游活动圆满结束</a>
+</div>
+<!-- 楼市快讯列表2 -->
+<ul class="artlist">
+<li><a href="/scan/2014-05-07/10042720277.shtml">益田枫露三期  到访抽金条</a></li><li><a href="/scan/2014-05-07/09592720260.shtml">中海双紫豪门御制 谱系承传</a></li><li><a href="/scan/2014-05-05/17142717450.shtml">那些年 青春的回忆</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box_right">
+<!-- 1 -->
+<div class="tab_t f14 clearfix" id="tab1">
+<h3 data-tab="#con_tab1_con_1" data-type="tab_dzlp_nav" data-onclass="tab_current" class="tab_current" id="tab1_con1">打折楼盘</h3>
+<h3 data-tab="#con_tab1_con_2" data-type="tab_dzlp_nav" data-ajax="/templatefield/1-191/450886bbe86ccfb62df4d76bb9ce1704.html" data-onclass="tab_current" id="tab1_con2">点击排行</h3>
+</div><ul class="top_list cut_text lh22 out_bor bort_none h235 pt10 pl5 pr5" id="con_tab1_con_1"><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-05-04/09212714600.shtml">全款97折</a></span><span class="fl u10 tc col_1 mr5">1</span><a href="http://cc.house.sina.com.cn/scan/2014-05-04/09212714600.shtml" class="w90 row1 mr5">长电·朗天国际</a><span class="fl w50 row2 tc">6500元</span></li><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-04-30/10312712017.shtml">清盘88折</a></span><span class="fl u10 tc col_1 mr5">2</span><a href="http://cc.house.sina.com.cn/scan/2014-04-30/10312712017.shtml" class="w90 row1 mr5">玖诚领域</a><span class="fl w50 row2 tc">5500元</span></li><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-04-30/09222711645.shtml">全款95折</a></span><span class="fl u10 tc col_1 mr5">3</span><a href="http://cc.house.sina.com.cn/scan/2014-04-30/09222711645.shtml" class="w90 row1 mr5">天富东苑</a><span class="fl w50 row2 tc">6400元</span></li><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-04-28/15202708461.shtml">按揭99折</a></span><span class="fl u11 tc col_1 mr5">4</span><a href="http://cc.house.sina.com.cn/scan/2014-04-28/15202708461.shtml" class="w90 row1 mr5">长春明宇广场</a><span class="fl w50 row2 tc">12000元</span></li><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-04-23/10102701182.shtml">全款96折</a></span><span class="fl u11 tc col_1 mr5">5</span><a href="http://cc.house.sina.com.cn/scan/2014-04-23/10102701182.shtml" class="w90 row1 mr5">香江铂朗明珠</a><span class="fl w50 row2 tc">5800元</span></li><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-04-22/10532699348.shtml">按揭98折</a></span><span class="fl u11 tc col_1 mr5">6</span><a href="http://cc.house.sina.com.cn/scan/2014-04-22/10532699348.shtml" class="w90 row1 mr5">泰豪深蓝国际</a><span class="fl w50 row2 tc">6500元</span></li><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-04-21/14452697702.shtml">全款98折</a></span><span class="fl u11 tc col_1 mr5">7</span><a href="http://cc.house.sina.com.cn/scan/2014-04-21/14452697702.shtml" class="w90 row1 mr5">迅驰广场</a><span class="fl w50 row2 tc">8000元</span></li><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-04-18/10482694452.shtml">全款96折</a></span><span class="fl u11 tc col_1 mr5">8</span><a href="http://cc.house.sina.com.cn/scan/2014-04-18/10482694452.shtml" class="w90 row1 mr5">塞纳阳光</a><span class="fl w50 row2 tc">5900元</span></li><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-04-18/10322694409.shtml">部分88折</a></span><span class="fl u11 tc col_1 mr5">9</span><a href="http://cc.house.sina.com.cn/scan/2014-04-18/10322694409.shtml" class="w90 row1 mr5">文庭雅苑</a><span class="fl w50 row2 tc">7200元</span></li><li><span class="fr w50 tr col_2"><a href="http://cc.house.sina.com.cn/scan/2014-04-18/10292694405.shtml">首付10%</a></span><span class="fl u11 tc col_1 mr5">10</span><a href="http://cc.house.sina.com.cn/scan/2014-04-18/10292694405.shtml" class="w90 row1 mr5">良品柏宏爱琴湾</a><span class="fl w50 row2 tc">6200元</span></li></ul>
+<ul id="con_tab1_con_2" class="top_list cut_text lh22 out_bor bort_none h235 pt10 pl5 pr5 none"><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-1410123662679681/">BBS</a></span><span class="fl u10 tc col_1 mr5">1</span><a href="http://data.house.sina.com.cn/cc61054/" class="w90 row1 mr5 dzlp">亚泰梧桐公馆</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc61054/">7200元</a></span></li><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-1410123662691137/">BBS</a></span><span class="fl u10 tc col_1 mr5">2</span><a href="http://data.house.sina.com.cn/cc93674/" class="w90 row1 mr5 dzlp">国信嘉邑</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc93674/">6800元</a></span></li><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-1410123662689421/">BBS</a></span><span class="fl u10 tc col_1 mr5">3</span><a href="http://data.house.sina.com.cn/cc92481/" class="w90 row1 mr5 dzlp">中海蘭庭</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc92481/">5700元</a></span></li><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-1410123662691504/">BBS</a></span><span class="fl u11 tc col_1 mr5">4</span><a href="http://data.house.sina.com.cn/cc94300/" class="w90 row1 mr5 dzlp">力旺康城</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc94300/">6500元</a></span></li><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-1410123662686056/">BBS</a></span><span class="fl u11 tc col_1 mr5">5</span><a href="http://data.house.sina.com.cn/cc89961/" class="w90 row1 mr5 dzlp">益田枫露</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc89961/">7000元</a></span></li><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-1410123662636022/">BBS</a></span><span class="fl u11 tc col_1 mr5">6</span><a href="http://data.house.sina.com.cn/cc26444/" class="w90 row1 mr5 dzlp">虹馆</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc26444/">8700元</a></span></li><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-1410123662693946/">BBS</a></span><span class="fl u11 tc col_1 mr5">7</span><a href="http://data.house.sina.com.cn/cc95922/" class="w90 row1 mr5 dzlp">昂展公园里</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc95922/">6500元</a></span></li><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-1410123662662533/">BBS</a></span><span class="fl u11 tc col_1 mr5">8</span><a href="http://data.house.sina.com.cn/cc45382/" class="w90 row1 mr5 dzlp">上台花园</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc45382/">5300元</a></span></li><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-5768525952900440851/">BBS</a></span><span class="fl u11 tc col_1 mr5">9</span><a href="http://data.house.sina.com.cn/cc107365/" class="w90 row1 mr5 dzlp">国信中央新城</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc107365/">7200元</a></span></li><li><span class="fr w50 tr col_2"><a href="http://cc.bbs.house.sina.com.cn/forum-5851874261941133413/">BBS</a></span><span class="fl u11 tc col_1 mr5">10</span><a href="http://data.house.sina.com.cn/cc114566/" class="w90 row1 mr5 dzlp">万家翔悦</a><span class="fl w50 row2 tc"><a href="http://data.house.sina.com.cn/cc114566/">5500元</a></span></li><!-- http://i.data.house.sina.com.cn/api/house_index.php?city=jl&amp;type=clicks&amp;count=10 1--></ul>
+<div id="con_tab1_con_2" class="out_bor bort_none h235 pt10 pl5 pr5 none">
+<ul class="top_list cut_text lh22"></ul>
+</div>
+</div>
+</div>
+<!--mod5 end-->
+<div id="t06"></div>
+<!--2 shou fang star-->
+<!--2 shou fang end-->
+<div id="t07"></div>
+<!--iframe03 star-->
+<!--iframe03 end-->
+<iframe width="950" height="90" frameborder="0" lsrc="http://m.leju.com/?site=tg&amp;ctl=ziliudi&amp;act=info&amp;city=cc&amp;location=xinle_shouye" class="mb10" scrolling="no"></iframe>
+<!--yejie start-->
+<div class="big_t">
+<div class="fr pr15 col_4 big_t_r">
+<!--业界栏头文字链-->
+<a href="http://data.house.sina.com.cn/cc/new/">新房</a>|<a href="http://data.house.sina.com.cn/cc/search/0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">搜索</a>|<a href="http://search.house.sina.com.cn/jl/loushi/kaipan/">开盘</a>|<a href="http://search.house.sina.com.cn/jl/loushi/dazhe/">打折</a>|<a href="http://data.house.sina.com.cn/cc/pictures/">图库</a>|<a href="http://bj.house.sina.com.cn/bxjsq/">贷款计算器</a>|<a href="http://map.house.sina.com.cn/jl/">地图</a>|<a href="http://bj.house.sina.com.cn/gfnl/index.html">购房能力评估</a>|<a href="http://search.house.sina.com.cn/jl/loushi/kfsj/">看房手记</a>|<a href="http://data.house.sina.com.cn/jl/tujie/">图解看房</a>|<a href="http://search.house.sina.com.cn/jl/news/qyxw/">企业</a>|<a href="http://search.house.sina.com.cn/jl/loushi/">楼市新闻</a>
+<a href="/news/">更多&gt;&gt;</a>
+</div>
+<h5 class="pl20"><a href="/news/" class="yj">业界</a></h5>
+</div>
+<div class="out_bor bort_none mb10">
+<div class="industry clearfix">
+<div class="in_left fl">
+<div class="in_left_title">
+<div class="fl f18 f_yahei pl15">企业微博秀</div>
+<div class="fr ilt_t">
+<!--企业微博秀栏目文字链接-->
+<!--a href="#" &gt;美国上市公司&lt;/a&gt;&lt;a href="#" &gt;财金学者专家&lt;/a&gt;&lt;a href="#" &gt;财经媒体&lt;/a&gt;&lt;a href="#" &gt;财经知名机构和高层&lt;/a&gt;&lt;a href="#" &gt;中概股高管&lt;/a-->
+<!--企业微博秀栏目更多链接-->
+<a class="col_3" href="http://weibo.com/changchunleju">更多&gt;&gt;</a>
+</div>
+</div>
+<div id="scroller_1" class="pr show_scroll_1 clearfix mt20 pb20">
+<span id="scrollable_1_up" class="left_scroll_1">上一张</span>
+<!-- 0 -->
+<div id="scrollable_1" class="con">
+<div class="items">
+<div class="box">
+<a href="http://weibo.com/u/3214482562"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/5c/18/9/50f462af9e41e96a0313cb15587_p1_mk1.jpg" alt="长春国信地产" /></a>
+</div>
+<div class="box">
+<a href="http://weibo.com/tonghandichan"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/d9/d6/8/7ef003c9a1af807fc9fdb7c293d_p1_mk1.jpg" alt="澳海-长春" /></a>
+</div>
+<div class="box">
+<a href="http://weibo.com/u/2488746521"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/28/9b/1/adc574de414aa79b23399529138_p1_mk1.jpg" alt="绿地集团长春公司" /></a>
+</div>
+<div class="box">
+<a href="http://weibo.com/u/3471367324"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/74/52/2/237d3062147e6d5fb2205597e5b_p1_mk1.jpg" alt="吉林省首地房地产" /></a>
+</div>
+<div class="box">
+<a href="http://weibo.com/u/2133742980"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/04/32/2/4f767e06a76863612d5a4c18574_p1_mk1.jpg" alt="长春吴中地产" /></a>
+</div>
+<div class="box">
+<a href="http://weibo.com/00688changchun"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/c7/c6/9/a3cdbcc9788e1d4caf1cc3f7cd5_p1_mk1.jpg" alt="中海地产-长春 " /></a>
+</div>
+<div class="box">
+<a href="http://weibo.com/polychangchun"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/0d/7b/0/7493c32ade5fea337bd4b01395c_p1_mk1.jpg" alt="保利地产长春公司" /></a>
+</div>
+<div class="box">
+<a href="http://weibo.com/ytestate"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/7a/36/a/8692205d548287edc621ed551ba_p1_mk1.jpg" alt="亚泰地产长春公司" /></a>
+</div>
+<div class="box">
+<a href="http://weibo.com/u/3075207097"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/cb/21/b/aa95977e7e41a282811088387e7_p1_mk1.jpg" alt="远洋地产" /></a>
+</div>
+</div>
+</div>
+<span id="scrollable_1_down" class="right_scroll_1">下一张</span>
+</div>
+</div>
+<div class="in_right fr">
+<div class="in_right_title">
+<div class="fl f18 f_yahei pl15">地产精英汇</div>
+<div class="fr ilt_t"></div>
+</div>
+<div class="dc_wb ml5 mt5 mb5 clearfix">
+<!-- 1 -->
+<div class="dc_wb_l fl"><a href="http://t.sina.com.cn/3305146567"><img lsrc="http://tp4.sinaimg.cn/3305146567/50/5682000650/1" alt="" /></a><p class="mt5"><a href="http://t.sina.com.cn/3305146567">+加关注</a></p></div>
+<div class="dc_wb_r fr">
+<p class="fb col_5 mb5 z_fix_jy"><a class="col_5" href="http://weibo.com/3305146567">华侨城谭笑</a></p>
+<p>回复@思源周巍:现在开始思考这些问题，是不是说明我老了[熊猫]//...</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--yejie end-->
+<div id="t24"></div>
+<!--Ren Wu Guan Dian star-->
+<div class="clearfix mb10">
+<div class="box_left mr10">
+<div class="public">
+<div class="t"><h3><a href="http://search.house.sina.com.cn/cc/news/rwgd/">人物观点</a></h3><em><a href="http://search.house.sina.com.cn/cc/news/rwgd/" rel="nofollow">更多&gt;&gt;</a></em></div>
+<div class="pt15 w350 of_h">
+<div class="clearfix mb15 pl5">
+<div class="fl w100 img08 vm mr10"><a href="http://cc.house.sina.com.cn/news/2014-03-11/10592641187.shtml"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/e7/76/0/cfc6f9e8a355d107aa477629675_p1_mk1.jpg" width="100" height="75" alt="图片" /></a></div>
+<div class="fl w230 of_h">
+<div class="fb f14 col_5 cut_text mb5"><a href="http://cc.house.sina.com.cn/news/2014-03-11/10592641187.shtml">途家网CEO罗军访谈</a></div>
+<p class="lh24 of_h h50"><span class="col_3">途家网是一家高品质度假公寓预订平台，是中国首个依托国际领先的分散式</span><a href="http://cc.house.sina.com.cn/news/2014-03-11/10592641187.shtml" class="col_2">[详细]</a></p>
+</div>
+</div>
+<ul class="artlist3 f14 cut_text">
+<li><a href="http://cc.house.sina.com.cn/news/2014-03-17/13572649199.shtml">“酒店+地产”双核驱动 明宇开启长春商务新纪元</a></li>
+<li><u class="u u08 ml5 mr5"></u><a href="http://weibo.com/1895216473/AxJfNoU64">楼市唱空论再起：2014年房地产走势众说纷纭</a></li>
+<li><a href="http://weibo.com/1895216473/Axz2SFh6A">王启富称：中国房地产至少还有20年可以玩</a></li>
+<li><a href="http://weibo.com/1895216473/AxpI3rwlb">看地产商激辩今年楼市</a><u class="u u08 ml5 mr5"></u><a href="http://weibo.com/1895216473/Aw2ND9iv5">任志强看涨 谢国忠看跌</a></li>
+<li><a href="http://weibo.com/1895216473/AtLouu2mL">谢国忠唱空楼市 2014年下半年房价将跌50%</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- 1 -->
+<div class="box_center mr10">
+<div class="public"><div class="t"><h3><a href="http://search.house.sina.com.cn/jl/news/scdt/">热点新闻</a></h3><em><a href="http://search.house.sina.com.cn/jl/news/scdt/" rel="nofollow">更多&gt;&gt;</a></em></div><div class="pt15 w350 of_h"><div class="titlename1 f16 cut_text"><a class="col_8" href="http://cc.house.sina.com.cn/news/2014-05-04/16172715551.shtml">降温？红火？——五月长春房价去哪儿
+
+</a></div>
+<p class="col_3 cut_text tc">[<a href="http://cc.house.sina.com.cn/news/2014-05-03/09272713921.shtml">国土部拟不动产产权调查规程
+</a> <a href="http://cc.house.sina.com.cn/news/2014-05-07/08472719739.shtml">多地欲楼市限购松绑</a>]</p><div class="line-dotted mt10 mb10"></div><ul class="lh26 f14 artlist w350 cut_text mb5"><li><a href="/news/2014-05-09/08542723569.shtml">哪些城市房价更抗跌？</a></li><li><a href="/news/2014-05-09/08532723562.shtml">最危险的楼市赌局：投资者为供应过剩“埋单”</a></li><li><a href="/news/2014-05-09/08512723547.shtml">谢国忠:每平方米房价会降到2个月平均工资以下</a></li><li><a href="/news/2014-05-09/08492723530.shtml">为房产税开征铺路 不动产登记局落户国土部</a></li><li><a href="/news/2014-05-09/08482723525.shtml">楼市再传救市声 救或不救均需谨慎</a></li><li><a href="/news/2014-05-09/08482723518.shtml">靠卖房回款很难房企真缺钱 国内房企快扛不住了</a></li><li><a href="/news/2014-05-09/08472723513.shtml">110家A股房企财务状况恶化 预测开发商或降价</a></li></ul></div></div></div>
+<div class="box_right">
+<div class="public">
+<div class="t"><h3><a href="http://cc.house.sina.com.cn/news/">乐居原创</a></h3><em><a href="http://cc.house.sina.com.cn/news/" rel="nofollow">更多&gt;&gt;</a></em></div>
+<div class="out_bor bort_none h260">
+<div class="pt15 pl10 w200 of_h">
+<div class="clearfix mb10">
+<div class="fl vm img09 mr10"><a href="http://cc.house.sina.com.cn/scan/4ykp.shtml" target="_blank"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/15/9a/b/84b03a6c2aad764c82435da3d2b_p1_mk1.jpg" width="70" height="80" alt="长春4月14盘或上市" /></a></div>
+<div class="fl w120 of_h">
+<div class="fb cut_text"><a href="http://cc.house.sina.com.cn/scan/4ykp.shtml" target="_blank">长春4月14盘或上市</a></div>
+<p class="lh22 h65 of_h"><span class="col_3">4月清风拂来，4月寒冷不再，4月草树“溅”绿，4月多盘新开…… </span><a href="http://cc.house.sina.com.cn/scan/4ykp.shtml" target="_blank" class="col_2">[详细]</a></p>
+</div>
+</div>
+<ul class="dot lh24 cut_text">
+<li><a href="http://search.house.sina.com.cn/jl/loushi/">楼市</a> |<a href="http://cc.house.sina.com.cn/scan/xb/fhn.shtml">楼市寻宝第三期</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/xinpan/">改善</a> |<a href="http://cc.house.sina.com.cn/scan/2014-03-27/15472664096.shtml">2014等你住进我的新房</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/dazhe/">刚需</a> |<a href="http://news.leju.com/">不一样的房地产新闻网</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/daogou/">导购</a> | <a href="http://cc.house.sina.com.cn/scan/2014-04-01/08102668937.shtml">2014新浪乐居马年踏春</a></li>
+<li><a href="http://search.house.sina.com.cn/jl/loushi/zbjf/">置业</a> |<a href="http://cc.house.sina.com.cn/scan/xb/wkbcy.shtml">楼市宝寻：市区高端豪宅</a></li>
+<li><a href="http://data.house.sina.com.cn/cc/search/0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">投资</a> | <a href="http://cc.house.sina.com.cn/scan/ysz/201403.html">2014年3月预售许可证</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--Ren Wu Guan Dian end-->
+<div id="t08"></div>
+<!--Di Chan Gu star-->
+<div class="clearfix mb10">
+<div class="box_left mr10">
+<div class="public mb10">
+<div class="t"><h3><a href="http://bj.house.sina.com.cn/company/">地产股</a></h3><em><a href="http://bj.house.sina.com.cn/company/" rel="nofollow">更多&gt;&gt;</a></em></div>
+<div class="pt15" id="S_Cont_12_01" stock="sz000024,sh600048,sh600383,sz000002,sz000031,sz000069,sh600376,hk03333">
+<table class="table1" width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<th>代码</th>
+<th>名称</th>
+<th class="unl col_5"><a>涨跌幅↓</a></th>
+<th class="unl col_5"><a>最新价</a></th>
+<th class="unl col_5"><a>涨跌额</a></th>
+</tr>
+<!-- @SPACE@ -->
+<!-- @SPACE@ -->
+<!-- @LOOP@ -->
+<tr>
+<td><a href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=stock&amp;q=@50@"><!-- @56@ --></a></td>
+<td><a href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=stock&amp;q=@50@"><!-- @0@ --></a></td>
+<td class="@52@"><!-- @3@ -->%</td>
+<td><!-- @1@ --></td>
+<td class="@52@"><!-- @55@ --></td>
+</tr>
+<!-- @LOOP@ -->
+</tbody>
+</table>
+</div>
+</div>
+<div class="public">
+<div class="t"><h3><a href="http://cc.house.sina.com.cn/news/">地产平台</a></h3><em><a href="http://cc.house.sina.com.cn/news/" rel="nofollow">更多&gt;&gt;</a></em></div>
+<div class="pt15 w340 of_h">
+<div class="clearfix pl5">
+<div class="fl w104 vm img01 tc mr15"><a href="http://news.leju.com/"><img alt="" width="104" height="80" border="0" lsrc="http://src.house.sina.com.cn/imp/imp/deal/78/4a/0/cdfc62cf3262dae76d2c596a5d6_p1_mk1.jpg" />新浪乐居深度报道</a></div>
+<div class="article1 cell f14">
+<p class="fb col_5"><a href="http://sx.house.sina.com.cn/news/2014-05-05/11522717005.shtml">从毛大庆风波到楼市临界时刻</a></p>
+<p><a href="http://news.leju.com/focus/5866363689137294467.html">七张图看穿房价的幕后金主</a></p>
+<p><a href="http://news.leju.com/view/5865352736048369616.html">冯仑：如何消灭开发商？</a></p>
+<p><a href="http://news.leju.com/focus/5864562924102045541.html">万达影院赚钱秘笈</a></p>
+</div>
+</div>
+<div class="line-dotted mt10 mb10"></div>
+<ul class="f14 lh26 cut_text w340 pl5">
+<li><a href="http://data.house.sina.com.cn/cc107365/">[<font color="red">国信中央新城</font>]</a> <a href="http://cc.house.sina.com.cn/scan/2014-05-05/14242717150.shtml"><font color="red">国信中央新城电商最高1万享6万</font></a></li>
+<li><a href="http://data.house.sina.com.cn/cc28428/">[中信城]</a> <a href="http://cc.house.sina.com.cn/scan/2014-01-06/15122567946.shtml">扫描长春中信城官方微信二维码获新年礼包</a></li>
+<li><a href="http://data.house.sina.com.cn/cc113883/">[明佳时代庄园]</a> <a href="http://cc.house.sina.com.cn/scan/2014-05-05/09372716502.shtml">又到一年播种季 明佳圆你田园梦</a></li>
+<li><a href="http://data.house.sina.com.cn/cc109260/">[恒大都市广场]</a> <a href="http://cc.house.sina.com.cn/scan/2013-10-18/09432457023.shtml">典藏国际航母配套 树立东城豪门典范</a></li>
+<li><a href="http://data.house.sina.com.cn/cc60261/">[中海紫御华府]</a> <a href="http://cc.house.sina.com.cn/scan/2013-05-27/11412232240.shtml">倾城传奇有机美容会所盛大揭幕</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box_center mr10">
+<!-- 1 -->
+<div class="public mb10"><div class="t"><h3><a href="http://search.house.sina.com.cn/jl/news/qyxw/">名企</a></h3><em><a href="http://search.house.sina.com.cn/jl/news/qyxw/" class="nofollow">更多&gt;&gt;</a></em></div><div class="pt15 w350 of_h h244"><div class="titlename1 f16 cut_text"><a href="/news/2014-05-08/14202722560.shtml" class="col_8">李嘉诚内地撤资有隐情：因找不到安全感</a></div><ul class="lh26 f14 artlist w350 cut_text mb5"><li><a href="/news/2014-05-08/08582721697.shtml">4月房企海外融资下滑24.7% 资金由偏松跌入紧张</a></li><li><a href="/news/2014-05-06/15342719038.shtml">几百元钱就能向“中间人”购买到小区业主信息</a></li><li><a href="/news/2014-05-02/08502713508.shtml">银监会:严格执行地产调控政策 差别化住房信贷政策</a></li><li><a href="/news/2014-04-27/09162706490.shtml">万科等房企力推室内除霾系统 明年或大范围应用</a></li></ul><div class="titlename1 f16 cut_text mt5"><a href="/news/2014-04-25/16242705655.shtml" class="col_8">恒大地产业绩飘红 许家印现身业绩发布会</a></div>
+<ul class="lh26 f14 artlist w350 cut_text mb5"><li><a href="/news/2014-04-25/16212705651.shtml">恒大地产许家印业绩再创新高承诺兑现</a></li><li><a href="/news/2014-04-24/11242703273.shtml">奢华之约  臻品生活</a></li><li><a href="/news/2014-04-23/08462700642.shtml">50家房企发布一季报预告 近六成业绩下滑</a></li></ul></div></div>
+<!-- 1 -->
+<div class="public">
+<div class="t"><div id="tab4" class="fr clearfix"><ul class="tab2 fl">
+<li id="tab4_con1" class="current" data-onclass="current" data-type="tab_xwph_nav" data-tab="#con_tab4_con_1">24小时排行</li>
+<li id="tab4_con2" data-onclass="current" data-type="tab_xwph_nav" data-tab="#con_tab4_con_2" data-ajax="/templatefield/1-191/3cb960bc6fee92c5c797d144a10d5ae6.html">周排行</li>
+<li id="tab4_con3" data-onclass="current" data-type="tab_xwph_nav" data-tab="#con_tab4_con_3" data-ajax="/templatefield/1-191/de83fd27763374c1f8605bffc8621d47.html">月排行</li>
+</ul></div><h3><a href="http://cc.house.sina.com.cn/todaynews/">新闻排行榜</a></h3></div>
+<ul class="cut_text rtph pl5 pt15 lh26 f14 w340 of_h" id="con_tab4_con_1"><li><i class="fl u12 col_1 tc mr10">1</i><a href="http://cc.house.sina.com.cn/news/2014-05-08/16522722896.shtml">长春楼市或将迎调整窗口期 是时候动手了？</a></li><li><i class="fl u12 col_1 tc mr10">2</i><a href="http://cc.house.sina.com.cn/news/2014-05-08/09072721792.shtml">长春新房供应火爆 哪些房子是妈妈的中意房源</a></li><li><i class="fl u12 col_1 tc mr10">3</i><a href="http://cc.house.sina.com.cn/news/2014-04-16/08102688798.shtml">长春市3月商品住宅成交均价为6570元/平米</a></li><li><i class="fl u13 col_1 tc mr10">4</i><a href="http://cc.house.sina.com.cn/news/2014-05-07/08202719292.shtml">一周长春成交排名TOP10 保利春天里夺三冠</a></li><li><i class="fl u13 col_1 tc mr10">5</i><a href="http://cc.house.sina.com.cn/news/2014-04-16/08052689034.shtml">长春3月成交排名10强出炉 力旺康城连夺三冠</a></li><li><i class="fl u13 col_1 tc mr10">6</i><a href="http://cc.house.sina.com.cn/news/2014-05-07/08102719279.shtml">上周长春成交均价6320元每平 环比下降2.7%</a></li><li><i class="fl u13 col_1 tc mr10">7</i><a href="http://cc.house.sina.com.cn/news/2014-05-08/08382721508.shtml">央企拿到4万亿投向了房产：跑马圈地冲动仍不减</a></li><li><i class="fl u13 col_1 tc mr10">8</i><a href="http://cc.house.sina.com.cn/news/2014-05-07/08392719679.shtml">5月长春楼市迎来开门红</a></li><li><i class="fl u13 col_1 tc mr10">9</i><a href="http://cc.house.sina.com.cn/news/2014-05-08/15302722748.shtml">靠卖房回款很难房企真缺钱 国内房企快扛不住了</a></li><li><i class="fl u13 col_1 tc mr10">10</i><a href="http://cc.house.sina.com.cn/news/2014-05-08/08542721663.shtml">下月起房产证可加设密码 防假冒者骗取房产登记</a></li></ul>
+<ul class="cut_text rtph pl5 pt15 lh26 f14 w340 of_h none" id="con_tab4_con_2"></ul>
+<ul class="cut_text rtph pl5 pt15 lh26 f14 w340 of_h none" id="con_tab4_con_3"></ul>
+</div>
+</div>
+<div class="box_right">
+<!-- 1 -->
+<div class="tab_t f14 clearfix" id="tab3">
+<h3 id="tab3_con1" class="tab_current" data-onclass="tab_current" data-type="tab_bjwb_nav" data-tab="#con_tab3_con_1">长春微博</h3>
+<h3 id="tab3_con2" data-onclass="tab_current" data-type="tab_bjwb_nav" data-tab="#con_tab3_con_2" class="">每日推荐</h3>
+</div><div id="con_tab3_con_1" class="out_bor bort_none h560 pt10 pl5 pr5">
+<div class="clearfix mb10">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1661725184"><img width="50" height="50" alt="北京房产" src="http://tp1.sinaimg.cn/1661725184/50/5670300192/1" /></a><a class="btn02 no_unl col_1 tc" href="http://weibo.com/1661725184">+ 加关注</a></div>
+<div class="fl w130 of_h lh24">
+<div class="fb cut_text col_5"><a href="http://weibo.com/1661725184">北京房产</a></div>
+<p class="h50 of_h">滚动播报全面丰富地产行业资讯， 提供北京最有价值投资购房信息， 传播地产圈隐秘段子趣闻， 不定期回馈最忠实幸运粉丝！</p>
+</div>
+</div>
+<div>
+<div class="wb_btn_up"><span id="scrollable_4_up">向上</span></div>
+<div id="scrollable_4" class="wb_scr_con lh24">
+<div class="items" style="position: absolute; top: -85px;"><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【北京1月新房价格同比上涨19.25%[泪]】克而瑞房价报告...<a class="col_2" href="http://weibo.com/1661725184/Aymips8c4">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Aymips8c4">转发(11)</a><a class="col_5" href="http://weibo.com/1661725184/Aymips8c4">评论(4)</a></span>今天 <span class="col_5"><a href="http://weibo.com/1661725184/Aymips8c4">15:41</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【观点·吴敬琏：房价上涨根本原因是货币超发】著名经济学...<a class="col_2" href="http://weibo.com/1661725184/AylyYxmDB">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/AylyYxmDB">转发(17)</a><a class="col_5" href="http://weibo.com/1661725184/AylyYxmDB">评论(12)</a></span>今天 <span class="col_5"><a href="http://weibo.com/1661725184/AylyYxmDB">13:49</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">#午间分享#【北京故宫里的喵“保安”[心]】①故宫全院32...<a class="col_2" href="http://weibo.com/1661725184/Ayl6K4fT3">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Ayl6K4fT3">转发(20)</a><a class="col_5" href="http://weibo.com/1661725184/Ayl6K4fT3">评论(5)</a></span>今天 <span class="col_5"><a href="http://weibo.com/1661725184/Ayl6K4fT3">12:40</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【北京持续雾霾 北大校园人物雕塑被戴口罩[衰]】2月20日...<a class="col_2" href="http://weibo.com/1661725184/AykBVoyth">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/AykBVoyth">转发(20)</a><a class="col_5" href="http://weibo.com/1661725184/AykBVoyth">评论(4)</a></span>今天 <span class="col_5"><a href="http://weibo.com/1661725184/AykBVoyth">11:24</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【不动产新解——鄂尔多斯：空房子，等人来】你说现在鄂尔多...<a class="col_2" href="http://weibo.com/1661725184/AykeRertT">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/AykeRertT">转发(11)</a><a class="col_5" href="http://weibo.com/1661725184/AykeRertT">评论(17)</a></span>今天 <span class="col_5"><a href="http://weibo.com/1661725184/AykeRertT">10:27</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【[话筒]北京自住房申购信息出现张冠李戴 申请人尽量错...<a class="col_2" href="http://weibo.com/1661725184/AyjRCFK5V">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/AyjRCFK5V">转发(37)</a><a class="col_5" href="http://weibo.com/1661725184/AyjRCFK5V">评论(27)</a></span>今天 <span class="col_5"><a href="http://weibo.com/1661725184/AyjRCFK5V">09:30</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">#乐居早报#【北京首套房贷利率全面上浮 五大行上浮至基...<a class="col_2" href="http://weibo.com/1661725184/Ayjv5AvmH">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Ayjv5AvmH">转发(34)</a><a class="col_5" href="http://weibo.com/1661725184/Ayjv5AvmH">评论(9)</a></span>今天 <span class="col_5"><a href="http://weibo.com/1661725184/Ayjv5AvmH">08:34</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">#早安#【无论你月收入多少记得分成6份】第1份，做生活费；第...<a class="col_2" href="http://weibo.com/1661725184/Ayjj0xfE4">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Ayjj0xfE4">转发(26)</a><a class="col_5" href="http://weibo.com/1661725184/Ayjj0xfE4">评论(23)</a></span>今天 <span class="col_5"><a href="http://weibo.com/1661725184/Ayjj0xfE4">08:05</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【河北邢台经适房变身大户型 党政机关团购一空】三房两...<a class="col_2" href="http://weibo.com/1661725184/AydpIg8lk">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/AydpIg8lk">转发(20)</a><a class="col_5" href="http://weibo.com/1661725184/AydpIg8lk">评论(12)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/AydpIg8lk">17:05</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">#315乐居在行动#【中介揽客连蒙带骗 买方被交易套住两年...<a class="col_2" href="http://weibo.com/1661725184/Aydbq4C11">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Aydbq4C11">转发(41)</a><a class="col_5" href="http://weibo.com/1661725184/Aydbq4C11">评论(21)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/Aydbq4C11">16:29</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【2014年房地产会被颠覆吗？】2013年，中国房地产市场继续火...<a class="col_2" href="http://weibo.com/1661725184/AycTQj2kf">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/AycTQj2kf">转发(32)</a><a class="col_5" href="http://weibo.com/1661725184/AycTQj2kf">评论(17)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/AycTQj2kf">15:46</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【@董藩 ：“以房养老”为何中国难推行？】1.土地制度不支持...<a class="col_2" href="http://weibo.com/1661725184/Ayclf1vVo">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Ayclf1vVo">转发(5)</a><a class="col_5" href="http://weibo.com/1661725184/Ayclf1vVo">评论(2)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/Ayclf1vVo">14:21</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【如果90后不买房 地产商怎么办？】90后是真正伴随互联网...<a class="col_2" href="http://weibo.com/1661725184/Ayc6yBKKz">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Ayc6yBKKz">转发(16)</a><a class="col_5" href="http://weibo.com/1661725184/Ayc6yBKKz">评论(8)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/Ayc6yBKKz">13:45</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">#午间分享#【有了新桌子，麻麻再也不用担心我近视啦！】新学...<a class="col_2" href="http://weibo.com/1661725184/AybOxmmPR">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/AybOxmmPR">转发(7)</a><a class="col_5" href="http://weibo.com/1661725184/AybOxmmPR">评论(7)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/AybOxmmPR">13:00</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">【好消息！北京首条“空中小火车”拟今年开工】北京首条跨...<a class="col_2" href="http://weibo.com/1661725184/AyaTmjY0J">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/AyaTmjY0J">转发(46)</a><a class="col_5" href="http://weibo.com/1661725184/AyaTmjY0J">评论(21)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/AyaTmjY0J">10:39</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">#快讯#【1月62城住宅价格环比上涨 北京环比上涨0.4%】国...<a class="col_2" href="http://weibo.com/1661725184/AyaxVcYo6">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/AyaxVcYo6">转发(9)</a><a class="col_5" href="http://weibo.com/1661725184/AyaxVcYo6">评论(12)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/AyaxVcYo6">09:47</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">#乐居原创#【大兴天宫院板块预售证解禁 跑步进2万时代】...<a class="col_2" href="http://weibo.com/1661725184/Ayakg2E71">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Ayakg2E71">转发(29)</a><a class="col_5" href="http://weibo.com/1661725184/Ayakg2E71">评论(13)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/Ayakg2E71">09:13</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">#乐居早报#【购房人注意！北京房贷收紧短期料难松动 首套...<a class="col_2" href="http://weibo.com/1661725184/Aya3LBR1G">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Aya3LBR1G">转发(21)</a><a class="col_5" href="http://weibo.com/1661725184/Aya3LBR1G">评论(6)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/Aya3LBR1G">08:32</a></span></div>
+</div><div style="width:218px;height:74px;" class="wb_scr_box">
+<p class="h50 of_h">#早安#【人生10个好习惯】①不说“不可能”三个字。②凡...<a class="col_2" href="http://weibo.com/1661725184/Ay9UAvM69">[详细]</a></p>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1661725184/Ay9UAvM69">转发(25)</a><a class="col_5" href="http://weibo.com/1661725184/Ay9UAvM69">评论(4)</a></span>昨天 <span class="col_5"><a href="http://weibo.com/1661725184/Ay9UAvM69">08:10</a></span></div>
+</div></div>
+</div>
+<div class="wb_btn_down"><span id="scrollable_4_down">向下</span></div>
+</div>
+</div><div id="con_tab3_con_2" class="out_bor bort_none h560 pt10 pl5 pr5 none ">
+<div class="wb_btn_up mb10"><span id="scrollable_3_up">向上</span></div>
+<div id="scrollable_3" class="h510">
+<div class="items" style="position: absolute; top: -102px;"><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1681436730"><img width="50" height="50" alt="ZhangYang張楊" src="http://tp3.sinaimg.cn/1681436730/50/5683556853/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">据报道，银行收紧房贷“银根”范围已波及首套房贷的利...<a class="col_2" href="http://weibo.com/1681436730/AyjUffmB6">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1681436730/AyjUffmB6">转发(1)</a><a class="col_5" href="http://weibo.com/1681436730/AyjUffmB6">评论(4)</a></span><a class="col_5" href="http://weibo.com/1681436730/AyjUffmB6">今天09:36</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1163218074"><img width="50" height="50" alt="余丰慧" src="http://tp3.sinaimg.cn/1163218074/50/22853354620/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">到了给房地产泡沫料理后事的时候了！特别是银行房贷风...<a class="col_2" href="http://weibo.com/1163218074/AyjIGlybg">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1163218074/AyjIGlybg">转发(5)</a><a class="col_5" href="http://weibo.com/1163218074/AyjIGlybg">评论(4)</a></span><a class="col_5" href="http://weibo.com/1163218074/AyjIGlybg">今天09:08</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1214462192"><img width="50" height="50" alt="杨乐渝" src="http://tp1.sinaimg.cn/1214462192/50/5615780225/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">昨天房地产股的暴跌表明，股市就是一个博傻游戏，大多数...<a class="col_2" href="http://weibo.com/1214462192/AyjBOewHY">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1214462192/AyjBOewHY">转发(42)</a><a class="col_5" href="http://weibo.com/1214462192/AyjBOewHY">评论(20)</a></span><a class="col_5" href="http://weibo.com/1214462192/AyjBOewHY">今天08:51</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1647171520"><img width="50" height="50" alt="刘主饪" src="http://tp1.sinaimg.cn/1647171520/50/5637332060/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">住房城乡建设部下发通知要求开展县（市）城乡总体规划试...<a class="col_2" href="http://weibo.com/1647171520/AyjAi0LjR">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1647171520/AyjAi0LjR">转发(3)</a><a class="col_5" href="http://weibo.com/1647171520/AyjAi0LjR">评论(2)</a></span><a class="col_5" href="http://weibo.com/1647171520/AyjAi0LjR">今天08:47</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1651123083"><img width="50" height="50" alt="周忻" src="http://tp4.sinaimg.cn/1651123083/50/1283204264/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">政策打压房价了吗？没有！房产税扩大试点了吗？没有！贷款停...<a class="col_2" href="http://weibo.com/1651123083/AyfXkaIBZ">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1651123083/AyfXkaIBZ">转发(307)</a><a class="col_5" href="http://weibo.com/1651123083/AyfXkaIBZ">评论(45)</a></span><a class="col_5" href="http://weibo.com/1651123083/AyfXkaIBZ">2014-02-24 23:33</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1776994812"><img width="50" height="50" alt="韩复龄" src="http://tp1.sinaimg.cn/1776994812/50/5630539638/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">【狼来了，银行房贷收紧】2014年初，银行延续了去年底的...<a class="col_2" href="http://weibo.com/1776994812/Ayjljx7wS">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1776994812/Ayjljx7wS">转发(2)</a><a class="col_5" href="http://weibo.com/1776994812/Ayjljx7wS">评论(2)</a></span><a class="col_5" href="http://weibo.com/1776994812/Ayjljx7wS">今天08:10</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1955212357"><img width="50" height="50" alt="孟晓苏" src="http://tp2.sinaimg.cn/1955212357/50/1299330150/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">【主导产业论5】当享受着主导产业拉动的成果与遭受...<a class="col_2" href="http://weibo.com/1955212357/AyjbbnqB1">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1955212357/AyjbbnqB1">转发(64)</a><a class="col_5" href="http://weibo.com/1955212357/AyjbbnqB1">评论(13)</a></span><a class="col_5" href="http://weibo.com/1955212357/AyjbbnqB1">今天07:45</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1495920765"><img width="50" height="50" alt="陈尚辉" src="http://tp2.sinaimg.cn/1495920765/50/1279879237/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">【吴敬琏：房价上涨根本原因是货币超发 并不是囤积房...<a class="col_2" href="http://weibo.com/1495920765/AyiuR6waj">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1495920765/AyiuR6waj">转发(3)</a><a class="col_5" href="http://weibo.com/1495920765/AyiuR6waj">评论(2)</a></span><a class="col_5" href="http://weibo.com/1495920765/AyiuR6waj">今天06:01</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1224900857"><img width="50" height="50" alt="马跃成" src="http://tp2.sinaimg.cn/1224900857/50/1279875694/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">任志强最近表示，中国经济不可能在短期内改变投资拉动...<a class="col_2" href="http://weibo.com/1224900857/Ayg4b65XC">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1224900857/Ayg4b65XC">转发(947)</a><a class="col_5" href="http://weibo.com/1224900857/Ayg4b65XC">评论(10)</a></span><a class="col_5" href="http://weibo.com/1224900857/Ayg4b65XC">2014-02-24 23:50</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1233227211"><img width="50" height="50" alt="叶檀" src="http://tp4.sinaimg.cn/1233227211/50/1282721004/0" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">叶檀评市场： 新闻1：房价下跌一半？因为银行收紧房贷。 ...<a class="col_2" href="http://weibo.com/1233227211/Ayh9XgTpR">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1233227211/Ayh9XgTpR">转发(140)</a><a class="col_5" href="http://weibo.com/1233227211/Ayh9XgTpR">评论(60)</a></span><a class="col_5" href="http://weibo.com/1233227211/Ayh9XgTpR">今天02:37</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1262753494"><img width="50" height="50" alt="曲卫东" src="http://tp3.sinaimg.cn/1262753494/50/5623634537/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">法兰克福的房价除了归功于金融中心的地位之外，还要感...<a class="col_2" href="http://weibo.com/1262753494/AygFLm0Qu">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1262753494/AygFLm0Qu">转发(3)</a><a class="col_5" href="http://weibo.com/1262753494/AygFLm0Qu">评论(3)</a></span><a class="col_5" href="http://weibo.com/1262753494/AygFLm0Qu">今天01:22</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1223237202"><img width="50" height="50" alt="华生2010" src="http://tp3.sinaimg.cn/1223237202/50/1270120840/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">一中国留学生在美开车超速后甩警察，飙车逃逸几十公里...<a class="col_2" href="http://weibo.com/1223237202/Aygvkd1cP">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1223237202/Aygvkd1cP">转发(294)</a><a class="col_5" href="http://weibo.com/1223237202/Aygvkd1cP">评论(84)</a></span><a class="col_5" href="http://weibo.com/1223237202/Aygvkd1cP">今天00:57</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div><div class="mb10">
+<div class="clearfix">
+<div class="fl w60 img10 vm mr10"><a href="http://weibo.com/1216546252"><img width="50" height="50" alt="曹建海" src="http://tp1.sinaimg.cn/1216546252/50/1279875532/1" /></a></div>
+<div class="fl w130 of_h lh20">
+<p class="h65 of_h" style="height:64px;">【地产泡沫不破，空气污染难治】由于执政党的万众一心...<a class="col_2" href="http://weibo.com/1216546252/AygqRjK3E">[详细]</a></p>
+</div>
+</div>
+<div><span class="fr"><a class="col_5 mr10" href="http://weibo.com/1216546252/AygqRjK3E">转发(33)</a><a class="col_5" href="http://weibo.com/1216546252/AygqRjK3E">评论(20)</a></span><a class="col_5" href="http://weibo.com/1216546252/AygqRjK3E">今天00:46</a> </div>
+<div class="line-dotted mt10 mb10"></div>
+</div></div>
+</div>
+<div class="wb_btn_down"><span id="scrollable_3_down">向下</span></div>
+</div>
+</div>
+</div>
+<!--Di Chan Gu end-->
+<div id="t09"></div>
+<!--Zhuan Xiu Jia Ju start-->
+<iframe width="950" height="776" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" id="jjhq" lsrc="http://jiaju.sina.com.cn/iframe/16/2012/0912/14.html?city=cc" charset="utf-8"></iframe>
+<!--Zhuan Xiu Jia Ju end-->
+<div id="t10"></div>
+<!--Hai Wai Di Chan start-->
+<div class="clearfix mb15 mt10"><iframe width="950" height="330" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" lsrc="http://haiwai.house.sina.com.cn/TG/LeJu2014"></iframe></div>
+<!--Hai Wai Di Chan  end-->
+<div id="d02"></div>
+<!--Lv You Di Chan start-->
+<style>
+/*20130513旅游地产*/
+.n_lydc_r dt{color:#09548b; font-weight:700; line-height:22px;}
+.n_lydc_r dd{white-space:nowrap; overflow:hidden;}
+.n_lydc_r dd span{color:#999; margin:0 9px; line-height:22px; }
+</style>
+<!--2014-04-30 12:15:19 by 445474998@qq.com-->
+<div class="big_t mb15">
+<div class="fr pr15 col_4 big_t_r">
+<a href="http://trip.house.sina.com.cn/">旅游地产首页</a> | <a href="http://trip.house.sina.com.cn/house">旅游找房</a> | <a href="http://trip.house.sina.com.cn/city">旅游城市</a> | <a href="http://t.house.sina.com.cn/c/yn/">微房产</a> | <a href="http://trip.house.sina.com.cn/esales">房产电商</a> | <a href="http://haikou.esf.sina.com.cn/">二手房</a> | <a href="http://sydc.sina.com.cn/yn/">商业地产</a> | <a href="http://e.weibo.com/triphouse">旅游地产官方微博</a> <a href="http://trip.house.sina.com.cn/" rel="nofollow">更多&gt;&gt;</a>
+</div>
+<h5 class="pl20"><a href="http://trip.house.sina.com.cn/" class="lydc">旅游地产</a></h5>
+</div>
+<div class="clearfix mb15">
+<div class="box_left mr10">
+<div class="public">
+<div class="t"><h3><a href="http://han.house.sina.com.cn/">海南旅游地产</a></h3><em><a href="http://han.house.sina.com.cn/" rel="nofollow">更多&gt;&gt;</a></em></div>
+<div class="pt15 pl10 h127 of_h">
+<ul class="img_list1 img11 vm lh20 clearfix mb5">
+<li>
+<a href="http://boao.house.sina.com.cn/scan/wcqygw/index.shtml"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/09/fa/c/b5ab359754c0d3befc5e87fd77b_p1_mk1.jpg" width="100" height="100" alt="文昌区域管网" /></a>
+<p><a href="http://boao.house.sina.com.cn/scan/wcqygw/index.shtml">文昌：崛起的挑战</a></p>
+</li>
+<li><a href="http://data.house.sina.com.cn/sa118/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/67/da/6/a957fc23b7784f928bd943be6ba_p1_mk1.jpg" alt="三亚湾红树林" width="100" height="100" border="0" /></a>
+<p><a href="http://data.house.sina.com.cn/sa118/">三亚湾红树林</a></p>
+</li>
+<li><a href="http://han.house.sina.com.cn/exhibit/guangwu_binhaiguoji/index.shtml"><img lsrc='http://src.house.sina.com.cn/imp/imp/deal/db/3f/6/6fdb24e44ddff564978e9d9d301_p1_mk1.jpg"' width="100" height="100" alt="广物滨海国际" /></a><p><a href="http://han.house.sina.com.cn/exhibit/guangwu_binhaiguoji/index.shtml">广物·滨海国际</a></p>
+</li>
+</ul>
+</div>
+<div class="line-dotted mt5 mb5"></div>
+<div class="pl5 w340 of_h">
+<ul class="lh26 f14 artlist2 cut_text w340">
+<li><a href="http://data.house.sina.com.cn/ba/search/0-0-0-3-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">动态</a><i>|</i><a href="http://han.house.sina.com.cn/exhibit/yajule_5th/index.shtml">雅居乐清水湾周年庆</a> <a href="http://han.house.sina.com.cn/exhibit/yanchanghui_gw/index.shtml">张杰周笔畅亮相海口</a></li>
+<li><a href="http://data.house.sina.com.cn/hi/search/0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html?">区域</a><i>|</i><a href="http://boao.house.sina.com.cn/scan/sfbaxnl/index.shtml">"亚论"释放博鳌新能量</a> <a href="http://boao.house.sina.com.cn/scan/wcqygw/index.shtml">文昌:双湾齐飞
+</a></li>
+<li><a href="http://han.house.sina.com.cn/scan/guanwang_sina/index.shtml">名盘</a><i>|</i><a href="http://han.house.sina.com.cn/scan/blcy/index.shtml">保利海南2万抵5万</a> <a href="http://sanya.house.sina.com.cn/zhuanti/syzltbjxz/index.shtml">三亚棕榈滩“选婿”</a></li>
+<li><a href="http://data.house.sina.com.cn/sa/search/0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html">三亚</a><i>|</i><a href="http://project.leju.com/house.php?city=sanya&amp;hid=110384">三亚小院存2万抵5万</a> <a href="http://data.house.sina.com.cn/sa129/">凤凰水城全款9折</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box_left mr10">
+<div class="public">
+<div class="t"><h3><a href="#">云南旅游地产</a></h3><em><a href="http://trip.house.sina.com.cn/pic" rel="nofollow">更多&gt;&gt;</a></em></div>
+<div class="pt15 pl10 h127 of_h">
+<ul class="img_list1 img11 vm lh20 clearfix mb5">
+<li><a href="http://data.house.sina.com.cn/yn99732/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/50/52/9/a7ede6f49de7b800d2d414ae5e1_p1_mk1.jpg" alt="万达西双版纳" width="100" height="100" border="0" /></a>
+<p>万达西双版纳</p>
+</li>
+<li><a href="http://data.house.sina.com.cn/yn110698/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/4f/1e/c/e2b9d3488edf63045d97575e8d1_p1_mk1.jpg" alt="雅居乐云南原乡" width="100" height="100" border="0" /></a>
+<p>雅居乐云南原乡</p>
+</li>
+<li><a href="http://data.house.sina.com.cn/yn99863/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/1d/32/0/fba1f9323eca9963b6d1254ab93_p1_mk1.jpg" width="100" height="100" alt="露美雅阁" /></a><p>露美雅阁</p></li>
+</ul>
+</div>
+<div class="line-dotted mt5 mb5"></div>
+<div class="pl5 w340 of_h">
+<ul class="lh26 f14 artlist cut_text w350">
+<li><a href="http://trip.house.sina.com.cn/House?keyword=%E4%B8%BD%E6%B1%9F">动态</a><i>|</i><a href="http://yn.house.sina.com.cn/scan/2014-04-30/17024107826.shtml">金茂雪山语精装公寓别墅在售 购房97折优惠
+</a> </li>
+<li><a href="http://trip.house.sina.com.cn/House?keyword=%E5%A4%A7%E7%90%86">新盘</a><i>|</i><a href="http://yn.house.sina.com.cn/scan/2014-04-30/16164107644.shtml">大宥城将推公寓住宅 转发微信可领取洗车券</a>
+</li><li><a href="http://trip.house.sina.com.cn/news/daogou">关注</a><i>|</i><a href="http://yn.house.sina.com.cn/scan/2014-04-30/17304107913.shtml">官房都铎城邦小高层在售 全款购房优惠3%
+
+
+</a>
+</li><li><a href="http://trip.house.sina.com.cn/news/gonglue">特惠</a><i>|</i><a href="http://yn.house.sina.com.cn/scan/2014-04-28/12014099936.shtml">湄公河畔住宅均价4700元每平 预计年底交房
+
+ </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box_right">
+<div class="public">
+<div class="t"><h3><a href="#">快速寻找旅游地产</a></h3><em><a href="http://trip.house.sina.com.cn/pic" rel="nofollow">更多&gt;&gt;</a></em></div>
+<div class="out_bor bort_none h260">
+<div class="pt10 pl10 pr10 n_lydc_r">
+<dl>
+<dt>特色</dt>
+<dd><a href="http://trip.house.sina.com.cn/House?f=%E5%85%BB%E7%94%9F">养生</a><span>|</span><a href="http://trip.house.sina.com.cn/House?f=%E5%BA%A6%E5%81%87">度假</a><span>|</span><a href="http://trip.house.sina.com.cn/House?f=%E9%81%BF%E6%9A%91">避暑</a><span>|</span><a href="http://trip.house.sina.com.cn/House?f=%E8%BF%87%E5%86%AC">过冬</a><span>|</span><a href="http://trip.house.sina.com.cn/House">更多</a></dd>
+</dl>
+<dl>
+<dt>总价</dt>
+<dd><a href="http://trip.house.sina.com.cn/House?p=-50">50万以下</a><span>|</span><a href="http://trip.house.sina.com.cn/House?p=50-100">50-100万</a><span>|</span><a href="http://trip.house.sina.com.cn/House">更多</a></dd>
+</dl>
+<dl>
+<dt>城市</dt>
+<dd><a href="http://trip.house.sina.com.cn/House?city=%E4%B8%89%E4%BA%9A">三亚</a><span>|</span><a href="http://trip.house.sina.com.cn/House?city=%E6%B5%B7%E5%8F%A3">海口</a><span>|</span><a href="http://trip.house.sina.com.cn/House?city=%E7%90%BC%E6%B5%B7">琼海</a><span>|</span><a href="http://trip.house.sina.com.cn/House?city=%E4%B8%BD%E6%B1%9F">丽江</a><span>|</span><a href="http://trip.house.sina.com.cn/House">更多</a></dd>
+</dl>
+<div class="line-dotted mt5 mb5"></div>
+<ul class="dot lh24 cut_text">
+<li><a href="http://yn.house.sina.com.cn/news/2014-04-04/13404041006.shtml">2014年1季度购房者信心指数创新高</a></li>
+<li><a href="http://yn.house.sina.com.cn/zhuanti/nhbjl/index.shtml">云南城镇化系列报道之:你好 北京路</a></li>
+<li><a href="http://yn.house.sina.com.cn/zhuanti/weiboall/index.shtml">比拼关注度 房地产官博影响力排行</a> </li>
+<li><a href="http://yn.house.sina.com.cn/zhuanti/weiguan/index.shtml">微观地产人 带你走进地产人的微博</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--Lv You Di Chan  end-->
+<div id="t11"></div>
+<!--Shang Ye Di Chan star-->
+<div class="big_t mb15">
+<div class="fr pr15 col_4 big_t_r"><a href="http://xm.sydc.sina.com.cn/index.shtml">商铺</a>|<a href="http://www.xiezilou.com/">写字楼</a>|<a href="http://pp.sydc.sina.com.cn/index.shtml">品牌商家</a>|<a href="http://sydc.sina.com.cn/zixun/index.shtml">行业资讯</a>|<a href="http://sydc.sina.com.cn/leshang/index.shtml">乐商会</a>|<a href="http://sydc.sina.com.cn/app">手机找铺</a>|<a href="http://sydc.sina.com.cn/zhuanti/biz_leshang/index.shtml">E周刊</a><a href="http://sydc.sina.com.cn/">更多&gt;&gt;</a></div>
+<h5 class="pl20"><a class="sydc" href="http://sydc.sina.com.cn/">商业地产</a></h5>
+</div>
+<div class="clearfix mb15 sydc">
+<div class="box_left mr10">
+<div class="public">
+<div class="t"><h3><a href="http://sydc.sina.com.cn/zixun/index.shtml">商业快讯</a></h3> <em><a rel="nofollow" href="http://sydc.sina.com.cn/zixun/index.shtml">更多&gt;&gt;</a></em></div>
+<div class="pl5 pt15 w340 of_h">
+<div class="titlename3 f16"><a href="http://sydc.sina.com.cn/shangye/2014-05-05/8199/2014/0505/11629.shtml" class="col_8">外资第一店百盛两年连关五卖场</a> </div>
+<ul class="lh26 f14 artlist2 w340 cut_text">
+<li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/shangye/2014-05-08/8199/2014/0508/11685.shtml">永辉超市南京大厂店或本月关店调整</a></li> <li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/shangye/2014-05-08/8199/2014/0508/11684.shtml">在华布局多种业态 永旺集团逆势扩张</a></li> <li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/shangye/2014-05-08/8199/2014/0508/11683.shtml">快时尚竞争：外资开店加码 内资调整求生</a></li> <li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/shangye/2014-05-08/8199/2014/0508/11681.shtml">匹克一季度网点量回升</a></li> <li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/dichan/2014-05-08/8199/2014/0508/11680.shtml">方兴“双轮驱动”战略奏效</a></li> <li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/dichan/2014-05-08/8199/2014/0508/11679.shtml">光耀地产被疑金蝉脱壳</a></li> <li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/dichan/2014-05-08/8199/2014/0508/11678.shtml">卖身一年 中关村广场重启无期</a></li> <li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/dichan/2014-05-08/8199/2014/0508/11677.shtml">曾经的烂尾楼再被抛售 百联72.6亿转让上海三项目</a></li> <li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/shangye/2014-05-08/8199/2014/0508/11676.shtml">李保煜：电影院与开发商的合理租金分析</a></li> <li><a href="http://sydc.sina.com.cn/index.shtml">全国</a><i>|</i><a href="http://sydc.sina.com.cn/shangye/2014-05-08/8199/2014/0508/11675.shtml">周大福将竞购渣打旗下安信信贷</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box_center mr10">
+<div class="public">
+<div class="t">
+<h3><a href="http://data.sydc.sina.com.cn/commerce.html">热门商业</a></h3>
+<em><a rel="nofollow" href="http://data.sydc.sina.com.cn/commerce.html">更多&gt;&gt;</a></em></div>
+<div class="pt10">
+<div class="mb5">
+<span class="wyp">
+<input type="text" value="请输入" class="wysearch" />
+<input type="submit" value="" class="wybtn" />
+</span><span class="col_5 fb ml5">快搜：</span><span><a href="http://data.sydc.sina.com.cn/commerce.html?shoptype=1&amp;field=shoptype&amp;showall=0" target="_blank">商业综合体</a> <a href="http://data.sydc.sina.com.cn/commerce.html?shoptype=2&amp;field=shoptype&amp;showall=0" target="_blank">购物中心</a> <a href="http://data.sydc.sina.com.cn/commerce.html?shoptype=2&amp;field=shoptype&amp;showall=0" target="_blank">写字楼</a></span>
+</div>
+<div class="lh22 pl5 mb5"> <span class="tagsm"><a href="http://data.sydc.sina.com.cn/commerce.html" class="col_5">[重点城市]</a><a href="http://data.sydc.sina.com.cn/commerce.html?city_en=bj&amp;field=city_en&amp;showall=0">北京</a><a href="http://data.sydc.sina.com.cn/commerce.html?city_en=sh&amp;field=city_en&amp;showall=0">上海</a><a href="http://data.sydc.sina.com.cn/commerce.html?city_en=gz&amp;field=city_en&amp;showall=0">广州</a><a href="http://data.sydc.sina.com.cn/commerce.html?city_en=yn&amp;field=city_en&amp;showall=0">昆明</a><a href="http://data.sydc.sina.com.cn/commerce.html?city_en=tj&amp;field=city_en&amp;showall=0">天津</a><a href="http://data.sydc.sina.com.cn/commerce.html?city_en=wh&amp;field=city_en&amp;showall=0">武汉</a><a href="http://data.sydc.sina.com.cn/commerce.html?city_en=nj&amp;field=city_en&amp;showall=0">南京</a><a href="http://data.sydc.sina.com.cn/commerce.html?city_en=dl&amp;field=city_en&amp;showall=0">大连</a><a href="http://data.sydc.sina.com.cn/commerce.html?city_en=sy&amp;field=city_en&amp;showall=0">沈阳</a></span> </div>
+<div class="lh22 pl5"> <span class="tagsm"><a href="http://data.sydc.sina.com.cn/commerce.html" class="col_5">[金铺推荐]</a><a href="http://data.sydc.sina.com.cn/wh/s89856.html">江岸一号金街</a><a href="http://data.sydc.sina.com.cn/tj/s70195.html">银河购物中心</a><a href="http://data.sydc.sina.com.cn/bj/s67760.html">新奥购物中心</a><a href="http://data.sydc.sina.com.cn/wh/s73037.html">银泰大智嘉园</a><a href="http://data.sydc.sina.com.cn/sh/s87438.html">永润星辰</a><a href="http://data.sydc.sina.com.cn/fs/s89844.html">创鸿广场</a><a href="http://data.sydc.sina.com.cn/bj/s65274.html">京汉生活广场</a><a href="http://data.sydc.sina.com.cn/sh/s60343.html">华商时代</a><a href="http://data.sydc.sina.com.cn/sh/s89849.html">坤拓广场</a></span>
+</div>
+<p class="col_5 fb mt5 f14">项目动态</p>
+<ul class="dot lh22 cut_text">
+<li><a href="http://sydc.sina.com.cn/xiangmu/2014-04-30/8199/2014/0430/11604.shtml">上海迪士尼获8亿美元追加投资</a></li><li><a href="http://sydc.sina.com.cn/xiangmu/2014-04-30/8199/2014/0430/11595.shtml">动物园服装批发市场重生的八大猜想</a></li><li><a href="http://sydc.sina.com.cn/xiangmu/2014-04-25/8199/2014/0425/11552.shtml">世博轴正式更名世博源 成上海最大综合购物中心</a></li>
+</ul>
+<p class="col_5 fb mb5 mt5 f14">精品推荐</p>
+<ul class="wylist">
+<li><a href="http://data.sydc.sina.com.cn/bj/s72520.html"><img alt="月亮河公园商业" lsrc="http://i0.sinaimg.cn/hs/2012/1019/U3423P1319DT20121019155442.jpg" /></a>
+<p><a href="http://data.sydc.sina.com.cn/bj/s72520.html">月亮河公园商业</a></p>
+</li>
+<li><a href="http://data.sydc.sina.com.cn/bj/s67760.html"><img alt="新奥购物中心" lsrc="http://i2.sinaimg.cn/hs/2012/1019/U3423P1319DT20121019155444.jpg" /></a>
+<p><a href="http://data.sydc.sina.com.cn/bj/s67760.html">新奥购物中心</a></p>
+</li>
+<li><a href="http://data.sydc.sina.com.cn/wh/s75197.html"><img alt="普提金国际" lsrc="http://i1.sinaimg.cn/hs/2012/1019/U3423P1319DT20121019155447.jpg" /></a>
+<p><a href="http://data.sydc.sina.com.cn/wh/s75197.html">普提金国际</a></p>
+</li>
+<li><a href="http://data.sydc.sina.com.cn/wh/s70109.html"><img alt="南国悦公馆" lsrc="http://i0.sinaimg.cn/hs/2012/1019/U3423P1319DT20121019155451.jpg" /></a>
+<p><a href="http://data.sydc.sina.com.cn/wh/s70109.html">南国悦公馆</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box_right">
+<div class="public">
+<div class="t"><h3><a href="http://sydc.sina.com.cn/fangtan/">活动访谈</a></h3> <em><a target="_blank" rel="nofollow" href="http://sydc.sina.com.cn/fangtan/">更多&gt;&gt;</a></em></div>
+<div class="out_bor bort_none">
+<div class="pt15 pl10 w200 of_h">
+<div class="clearfix">
+<div class="fl vm mr10 wyimg"><a href="http://sydc.sina.com.cn/fangtan/2013-06-06/8199/2013/0606/7965.shtml"><img width="50" height="50" alt="郭增利" lsrc="http://src.house.sina.com.cn/imp/imp/deal/4d/8d/a/829f8849b19903bb6c155f7ba29_p1_mk1.jpg" /></a> </div>
+<div class="fl w135 of_h">
+<div class="fb cut_text col_5"><a href="http://sydc.sina.com.cn/fangtan/">业界观点</a></div>
+<p class="lh22 of_h"><span class="fb">邢和平</span><a href="http://sydc.sina.com.cn/fangtan/2013-06-06/8199/2013/0606/7965.shtml">快时尚品牌在华开店迅猛</a></p>
+</div>
+</div>
+<p class="lh22 of_h"><span class="fb">万文英：</span><a href="http://sydc.sina.com.cn/fangtan/2013-06-05/8199/2013/0605/7915.shtml">奥莱中国十年恍如一瞬</a></p>
+<p class="lh22 of_h"><span class="fb">陆屹：</span><a href="http://sydc.sina.com.cn/fangtan/2013-06-05/8199/2013/0605/7913.shtml">高端品牌进入调整期</a></p>
+<p class="col_5 fb mt5"><a href="http://sydc.sina.com.cn/huodong/">行业活动</a></p>
+<ul class="dot lh24 cut_text">
+<li><a href="http://sydc.sina.com.cn/huodong/2014-04-24/8199/2014/0424/11541.shtml">第七届（北方）零售地产招商大会长春启幕</a></li> <li><a href="http://sydc.sina.com.cn/huodong/2014-03-24/8199/2014/0324/11263.shtml">2014中国物流技术装备峰会开幕</a></li> <li><a href="http://sydc.sina.com.cn/huodong/2014-03-10/8199/2014/0310/11102.shtml">“BIM技术”在房地产开发企业中应用培训的通知</a></li>
+</ul>
+<p class="col_5 fb mt5"><a href="http://sydc.sina.com.cn/dichan/baogao/index.shtml">数据报告</a></p>
+<ul class="dot lh24 cut_text mb5">
+<li><a href="http://sydc.sina.com.cn/dichan/2014-05-06/8199/2014/0506/11645.shtml">广州深圳写字楼需求弱于北京上海</a></li> <li><a href="http://sydc.sina.com.cn/dichan/2014-04-29/8199/2014/0429/11584.shtml">深圳甲级写字楼租金平稳上涨房企洗牌加速</a></li> <li><a href="http://sydc.sina.com.cn/dichan/2014-04-25/8199/2014/0425/11555.shtml">购物中心积极品牌调整  百货业并购趋势隐现</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--Shang Ye Di  end-->
+<div id="t12"></div>
+<!--Gong Cheng star-->
+<div class="big_t mb10"><div class="fr pr15 col_4 big_t_r"><a href="http://dichan.sina.com.cn/">工程建造</a> | <a href="http://news.dichan.sina.com.cn/tech/index.html">行业资讯</a> | <a href="http://dichan.sina.com.cn/zt/wqbw/index.shtml">保温</a> | <a href="http://dichan.sina.com.cn/zt/fscl/index.shtml">防水</a> | <a href="http://dichan.sina.com.cn/zt/diantipd/index.shtml">电梯</a> | <a href="http://dichan.sina.com.cn/zt/jingzhuangxiu/index.shtml">产业化</a> | <a href="http://dichan.sina.com.cn/business/zt/intelligentsystem/index.shtml">安防</a> | <a href="http://dichan.sina.com.cn/zt/shicaixuanxingyanghu/index.shtml">石材</a> | <a href="http://dichan.sina.com.cn/zt/nuantongkongtiao/index.shtml">空调</a> | <a href="http://dichan.sina.com.cn/zt/taiyangnengjz/index.shtml">太阳能</a> | <a href="http://www.dichan.com/">工程采购</a> | <a href="http://xiazai.dichan.com/">地产智库</a><a class="more" href="http://dichan.sina.com.cn/">更多&gt;&gt;</a></div><h5 class="pl20"><a href="http://dichan.sina.com.cn/" class="gcjz">工程建造</a></h5></div><div class="clearfix mb10"> <div class="box_left mr10">
+<div id="tab8" class="tab_t f14 clearfix">
+<h3 id="tab8_con1" class="tab_current" data-onclass="tab_current" data-type="tab_lsbk_nav" data-tab="#con_tab8_con_1">产业要闻</h3>
+<h3 id="tab8_con2" data-onclass="tab_current" data-type="tab_lsbk_nav" data-tab="#con_tab8_con_2" class="" data-ajax="/templatefield/1-191/be8c4cc71156b7708201bba43af663e9.html">土建</h3>
+<h3 id="tab8_con3" data-onclass="tab_current" data-type="tab_lsbk_nav" data-tab="#con_tab8_con_3" class="" data-ajax="/templatefield/1-191/99fb359e84bc317f0b636c634bdf292a.html">机电</h3>
+<h3 id="tab8_con4" data-onclass="tab_current" data-type="tab_lsbk_nav" data-tab="#con_tab8_con_4" class="" data-ajax="/templatefield/1-191/237caa31a940fa9ee43ed11f5188a345.html">精装修</h3>
+</div><ul class="lh26 f14 artlist2 w340 cut_text pt15 pl5 w340 of_h" id="con_tab8_con_1"><li><a class="col_5" href="http://news.dichan.com/news/39/20.html">[空调]</a><a href="http://news.dichan.sina.com.cn/2014/05/09/1100521.html">降膜式成制冷行业技术新热点</a></li><li><a class="col_5" href="http://news.dichan.com/news/38/40.html">[地板]</a><a href="http://news.dichan.sina.com.cn/2014/05/08/1099736.html">功能还是设计，地板的路在何方？</a></li><li><a class="col_5" href="http://news.dichan.com/news/37/20.html">[照明]</a><a href="http://news.dichan.sina.com.cn/2014/05/09/1100572.html">北美照明市场需求剧增 国内LED企业掘金</a></li><li><a class="col_5" href="http://news.dichan.com/news/38.html">[壁纸]</a><a href="http://news.dichan.sina.com.cn/2014/05/09/1100545.html">壁纸业现状 四大弊端堪忧</a></li><li><a class="col_5" href="http://news.dichan.com/news/39.html">[新能源]</a><a href="http://news.dichan.sina.com.cn/2014/05/09/1100627.html">再生能源供热实施方案有望年内出台</a></li><li><a class="col_5" href="http://news.dichan.com/news/16.html">[综合]</a><a href="http://news.dichan.sina.com.cn/2014/05/09/1100673.html">西安鼓励大型公共建筑开展立体绿化</a></li><li><a class="col_5" href="http://news.dichan.com/news/38/20.html">[建陶]</a><a href="http://news.dichan.sina.com.cn/2014/05/09/1100598.html">废除“驰名商标”或助陶瓷行业打假</a></li><li><a class="col_5" href="http://news.dichan.com/news/37/40.html">[电气]</a><a href="http://news.dichan.sina.com.cn/2014/05/09/1100616.html">北京推公用屋顶光伏系统建设</a></li><li><a class="col_5" href="http://topic.dichan.com/">[有奖话题]</a><a href="http://topic.dichan.com/Topic/115">外墙漆老化问题严重 关关难过如何解？</a></li></ul><ul class="lh26 f14 artlist2 w340 cut_text pt15 pl5 w340 of_h none" id="con_tab8_con_2"></ul><ul class="lh26 f14 artlist2 w340 cut_text pt15 pl5 w340 of_h none" id="con_tab8_con_3"></ul><ul class="lh26 f14 artlist2 w340 cut_text pt15 pl5 w340 of_h none" id="con_tab8_con_4"></ul></div><div class="box_center mr10"><div class="tab_t f14 clearfix" id="tab9">
+<h3 id="tab9_con1" class="tab_current" data-onclass="tab_current" data-type="tab_zlxz_nav" data-tab="#con_tab9_con_1">资料下载</h3><h3 id="tab9_con2" data-onclass="tab_current" data-type="tab_zlxz_nav" data-tab="#con_tab9_con_2" data-ajax="/templatefield/1-191/cc3e2b2a9c7da17b40264848ac55a8ad.html">项目操盘</h3><h3 id="tab9_con3" data-onclass="tab_current" data-type="tab_zlxz_nav" data-tab="#con_tab9_con_3" data-ajax="/templatefield/1-191/f412104d152641c987710acd8fb445fa.html">企业实战</h3></div>
+<ul class="lh26 f14 artlist2 w340 cut_text pt15 pl5 w340 of_h" id="con_tab9_con_1"><li><span class="fl"><a class="red" href="http://xiazai.dichan.com/list-19.html">[广告推广]</a> <a href="http://xiazai.dichan.com/show-819811.html">博思堂-合肥万达广场2011年度推广韬略224P</a></span></li><li><span class="fl"><a class="red" href="http://xiazai.dichan.com/list-23.html">[商业地产]</a> <a href="http://xiazai.dichan.com/show-819781.html">古美龙茗路商业项目提报</a></span></li><li><span class="fl"><a class="red" href="http://xiazai.dichan.com/list-18.html">[营销策划]</a> <a href="http://xiazai.dichan.com/show-819780.html">青浦怀盛项目营销策划报告</a></span></li><li><span class="fl"><a class="red" href="http://xiazai.dichan.com/list-15.html">[规划设计]</a> <a href="http://xiazai.dichan.com/show-819589.html">广东徐闻大汉三墩旅游区发展项目规划149P</a></span></li><li><span class="fl"><a class="red" href="http://xiazai.dichan.com/list-14.html">[前期策划]</a> <a href="http://xiazai.dichan.com/show-819222.html">2014年4月中原地产经开区滨河国际新城提案报告</a></span></li><li><span class="fl"><a class="red" href="http://xiazai.dichan.com/list-13.html">[项目拓展]</a> <a href="http://xiazai.dichan.com/show-818697.html">元象地产绵阳项目前期拿地经济测算</a></span></li><li><span class="fl"><a class="red" href="http://xiazai.dichan.com/list-12.html">[专题研究]</a> <a href="http://xiazai.dichan.com/show-818033.html">安微合肥华纺新华中心项目148P</a></span></li><li><span class="fl"><a class="red" href="http://xiazai.dichan.com/list-17.html">[工程管理]</a> <a href="http://xiazai.dichan.com/show-817964.html">混凝土结构施工钢筋排布规则与构造详图171P</a></span></li><li><span class="fl"><a class="red" href="http://xiazai.dichan.com/list-20.html">[销售管理]</a> <a href="http://xiazai.dichan.com/show-817615.html">莆田万科城2013年总结—道里广告</a></span></li></ul><ul class="lh26 f14 artlist2 w340 cut_text pt15 pl5 w340 of_h none" id="con_tab9_con_2"></ul><ul class="lh26 f14 artlist2 w340 cut_text pt15 pl5 w340 of_h none" id="con_tab9_con_3"></ul></div><div class="box_right"><div class="tab_t f14 clearfix" id="tab10">
+<h3 id="tab10_con1" class="tab_current" data-onclass="tab_current" data-type="tab_hkt_nav" data-tab="#con_tab10_con_1">独家策划</h3>
+<h3 id="tab10_con2" data-onclass="tab_current" data-type="tab_hkt_nav" data-tab="#con_tab10_con_2">会客厅</h3>
+</div><div class="out_bor bort_none h240 pt10 pl5"><div id="con_tab10_con_1"><div class="clearfix mb10">
+<div class="fl w100 vm img06 mr10"><a href="http://dichan.sina.com.cn/zhuanti/wendao10/"><img width="100" height="75" alt="图片说明" lsrc="http://src.house.sina.com.cn/imp/imp/deal/68/2f/1/954ff5b63be218e52c0ed6340f6_p1_mk1.jpg" /></a></div>
+<div class="fl w104 of_h lh24">
+<div class="fb cut_text"><a href="#">问道品质人居</a></div>
+<p class="of_h h50">终结绿色建筑大跃进</p>
+</div>
+</div>
+<ul class="dot lh24 cut_text w215"><li><a href="http://dichan.sina.com.cn/zhuanti/top500sxpp/">500强开发商首选供应商品牌</a></li><li><a href="http://dichan.sina.com.cn/zhuanti/315jianzhushijian/">315建筑非典型事件</a></li><li><a href="http://dichan.sina.com.cn/zt/2014shicai/">新浪地产直击石材展</a></li><li><a href="http://dichan.sina.com.cn/zt/tuoju/">2014年地产行业拓局进行时</a></li><li><a href="http://dichan.sina.com.cn/zt/2014menchuang/">采购平台门窗幕墙高峰论坛</a></li><li><a href="http://dichan.sina.com.cn/zt/wendao9/">品质人居 保温板为何脱落</a></li></ul></div><div id="con_tab10_con_2" class="none"><div class="clearfix mb10">
+<div class="fl w100 vm img06 mr10"><a href="http://news.dichan.sina.com.cn/2014/03/08/1048712.html"><img width="100" height="75" alt="图片说明" lsrc="http://cache.house.sina.com.cn/infodichan/dichanpic/39/f6/3f96599b43673e508a76425d3d291be3.jpg" /></a></div>
+<div class="fl w104 of_h lh24">
+<div class="fb cut_text"><a href="http://news.dichan.sina.com.cn/2014/03/08/1048712.html">康利：探寻与开发商合作模式</a></div>
+<p class="of_h h50">探寻与开发商合作模式的二次升级。</p>
+</div>
+</div>
+<ul class="dot lh24 cut_text w215"><li><a href="http://news.dichan.sina.com.cn/2014/03/08/1048713.html">英良：石材跨界是英良的一盘棋</a></li><li><a href="http://news.dichan.sina.com.cn/2014/03/08/1048708.html">溪石：石材一体化是溪石的符号</a></li><li><a href="http://news.dichan.sina.com.cn/2014/03/03/1044025.html">特普丽：优化壁纸工程市场份额</a></li><li><a href="http://news.dichan.sina.com.cn/2014/03/08/1048710.html">宗艺：石砖是石材与陶瓷的复合创新</a></li><li><a href="http://news.dichan.sina.com.cn/2014/03/08/1048707.html">万里石：特有石材资源拓展国内市场</a></li><li><a href="http://news.dichan.sina.com.cn/2014/03/08/1048711.html">鹏翔：人造石需要全面正名</a></li></ul></div></div></div></div>
+<!--Gong Cheng end-->
+<div id="t13"></div>
+<!--Jing Cai star-->
+<div class="big_t mb15">
+<h5 class="pl5"><span class="jchg">会议精彩回顾</span></h5>
+</div>
+<div class="jingcai clearfix mb10">
+<div class="fl jcleft">
+<div class="jccon clearfix">
+<div class="fl jcimg"><a href="http://nc.house.sina.com.cn/exhibit/2012ymfsxllj/index.html"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/1e/d8/5/d752e9905397235b7c966353ef6_p1_mk1.jpg" alt="" /></a></div>
+<div class="fr jcin">
+<h6 class="mb5 f14"><a class="col_5 fb" href="http://bj.house.sina.com.cn/zhuanti/wdyjsd/index.shtml">沃顿易居研修班 </a></h6>
+<p>美国东部时间4月16日，沃顿易居游学进入第三日……<a class="col_2" href="http://nc.house.sina.com.cn/exhibit/2012ymfsxllj/index.html">[详细]</a></p>
+</div>
+</div>
+<ul class="f14 lh26 jclist">
+<li><a href="http://nc.house.sina.com.cn/exhibit/2012xcpxyxtjh/index.html">新浪乐居"新产品、新营销、新思维"推介会</a></li>
+<li><a href="http://nc.house.sina.com.cn/zhuanti/GKAXC/index.html">绿地爱心车队助力南昌高考学子金榜题名</a></li>
+<li><a href="http://nc.house.sina.com.cn/zhuanti/2012nanchangliandongjihua/index.html">易居购房网恒大全国项目经纪人联动计划</a></li>
+<li><a href="http://nc.house.sina.com.cn/exhibit/2012dycwft/index.html">2012新浪乐居携手绿地南昌戴咏春微访谈</a></li>
+<li><a href="http://nc.house.sina.com.cn/exhibit/wbyxlphbd3q/index.html">南昌房地产项目官方微博影响力周排行榜</a></li>
+</ul>
+</div>
+<div class="fr jcright">
+<ul class="jcimglist clearfix">
+<li>
+<div class="fl jcimglist_s"><a href="http://nc.house.sina.com.cn/zhuanti/2012q3jdncfdcqyxsphb/index.html"><img lsrc="http://www.sinaimg.cn/hs/2012/1016/U3702P687DT20121016182655.jpg" alt="" /></a></div>
+<div class="fr jcimglist_con">
+<p><a href="http://nc.house.sina.com.cn/zhuanti/2012q3jdncfdcqyxsphb/index.html">南昌房地产企业销售排行榜</a></p>
+<p class="col_4">时间：2012.10.12</p>
+</div>
+</li>
+<li>
+<div class="fl jcimglist_s"><a href="http://nc.house.sina.com.cn/zhuanti/ysspqxf/index.html"><img lsrc="http://www.sinaimg.cn/hs/2012/1016/U3702P687DT20121016182651.jpg" alt="" /></a></div>
+<div class="fr jcimglist_con">
+<p><a href="http://nc.house.sina.com.cn/zhuanti/ysspqxf/index.html">预售审批权下放至区县级</a></p>
+<p class="col_4">时间：2012.10.10</p>
+</div>
+</li>
+<li>
+<div class="fl jcimglist_s"><a href="http://nc.house.sina.com.cn/exhibit/2012JIAOSHIJIE/index.html"><img lsrc="http://www.sinaimg.cn/hs/2012/1016/U3702P687DT20121016182654.jpg" alt="" /></a></div>
+<div class="fr jcimglist_con">
+<p><a href="http://nc.house.sina.com.cn/exhibit/2012JIAOSHIJIE/index.html">感恩教师节 让孩子赢在起跑线</a></p>
+<p class="col_4">时间：2012.9.10</p>
+</div>
+</li>
+<li>
+<div class="fl jcimglist_s"><a href="http://nc.house.sina.com.cn/exhibit/wbyxlphbd3q/index.html"><img lsrc="http://www.sinaimg.cn/hs/2012/1016/U3702P687DT20121016182658.jpg" alt="" /></a></div>
+<div class="fr jcimglist_con">
+<p><a href="http://nc.house.sina.com.cn/exhibit/wbyxlphbd3q/index.html"> 项目官方微博影响力周排行榜 </a></p>
+<p class="col_4">时间：2012.8.21</p>
+</div>
+</li>
+<li>
+<div class="fl jcimglist_s"><a href="http://nc.house.sina.com.cn/zhuanti/qxaqgy/index.html"><img lsrc="http://www.sinaimg.cn/hs/2012/1016/U3702P687DT20121016182656.jpg" alt="" /></a></div>
+<div class="fr jcimglist_con">
+<p><a href="http://nc.house.sina.com.cn/zhuanti/qxaqgy/index.html">寻找属于你的爱情公寓</a></p>
+<p class="col_4">时间：2012.8.18</p>
+</div>
+</li>
+<li>
+<div class="fl jcimglist_s"><a href="http://nc.house.sina.com.cn/zhuanti/fangchanshui/index.html"><img lsrc="http://www.sinaimg.cn/hs/2012/1016/U3702P687DT20121016182657.jpg" alt="" /></a></div>
+<div class="fr jcimglist_con">
+<p><a href="http://nc.house.sina.com.cn/zhuanti/fangchanshui/index.html">两湖试点各方表态扑朔迷离</a></p>
+<p class="col_4">时间：2012.6.1</p>
+</div>
+</li>
+</ul>
+<ul class="jclist2 clearfix">
+<li><a href="http://nc.house.sina.com.cn/zhuanti/yhnnzcjx/index.html">央行年内再次降息 旨在抑制炒房 </a></li>
+<li><a href="http://nc.house.sina.com.cn/zhuanti/BYJZF/index.html">又是一年毕业季 买房or租房，你考虑好了吗？</a></li>
+<li><a href="http://nc.house.sina.com.cn/zhuanti/nclszk/index.html">南昌乐居楼市周刊79期 南昌楼市淡季不淡</a></li>
+<li><a href="http://nc.house.sina.com.cn/zhuanti/seventyseven/index.html">刚需入市助成交 催动南昌红五月</a></li>
+</ul>
+</div>
+</div>
+<!--Jing Cai end-->
+<div id="t14"></div>
+<!--media start-->
+<!--media end-->
+<!-- cooperation start -->
+<div class="cooperation clearfix mb10">
+<div class="fl cpline">
+<div class="fl cptitle">
+<em></em>
+<p class="mt20 mb5 col_2">合作伙伴</p>
+<p class="col_2"><a href="http://bj.house.sina.com.cn/2008-05-05/36/5245.html">我要加入</a></p>
+</div>
+<div class="fr cpcon mt10">
+<p>
+<a href="http://wx.allfang.com/" target="_blank">无锡二手房</a>
+ | <a href="http://cc.anjuke.com/" target="_blank">长春房产网</a>
+ | <a href="http://dalian.taoche.com/" target="_blank">大连二手车</a>
+ | <a href="http://www.meilijia.com/" target="_blank">美丽家</a>
+</p>
+</div>
+</div>
+<div class="fl cptitle">
+<em></em>
+<p class="mt30 mb5 col_2">乐居版图</p>
+</div>
+<div class="fr cpcon mt10 mb10 hmin">
+<p><b>A: </b><a title="安庆" href="http://anqing.house.sina.com.cn">安庆</a> <a title="鞍山" href="http://anshan.house.sina.com.cn">鞍山</a> <a title="安顺" href="http://anshun.house.sina.com.cn">安顺</a> <a title="安阳" href="http://anyang.house.sina.com.cn/">安阳</a> <b>B: </b><a title="白城" href="http://baicheng.house.sina.com.cn">白城</a> <a title="百色" href="http://baise.house.sina.com.cn">百色</a> <a title="白山" href="http://baishan.house.sina.com.cn">白山</a> <a title="保定" href="http://baoding.house.sina.com.cn">保定</a> <a title="宝鸡" href="http://baoji.house.sina.com.cn">宝鸡</a> <a title="北海" href="http://beihai.house.sina.com.cn">北海</a> <a title="蚌埠" href="http://bengbu.house.sina.com.cn">蚌埠</a> <a title="本溪" href="http://benxi.house.sina.com.cn">本溪</a> <a title="毕节" href="http://bijie.house.sina.com.cn">毕节</a> <a title="滨州" href="http://binzhou.house.sina.com.cn">滨州</a> <a title="北京" href="http://bj.house.sina.com.cn">北京</a> <a title="博鳌" href="http://boao.house.sina.com.cn">博鳌</a> <a title="包头" href="http://bt.house.sina.com.cn">包头</a> <b>C: </b><a title="沧州" href="http://cangzhou.house.sina.com.cn">沧州</a> <a title="长春" href="http://cc.house.sina.com.cn">长春</a> <a title="常德" href="http://changde.house.sina.com.cn">常德</a> <a title="常熟" href="http://changshu.house.sina.com.cn">常熟</a> <a title="长治" href="http://changzhi.house.sina.com.cn">长治</a> <a title="朝阳" href="http://chaoyang.house.sina.com.cn">朝阳</a> <a title="潮州" href="http://chaozhou.house.sina.com.cn">潮州</a> <a title="承德" href="http://chengde.house.sina.com.cn">承德</a> <a title="郴州" href="http://chenzhou.house.sina.com.cn">郴州</a> <a title="赤峰" href="http://chifeng.house.sina.com.cn">赤峰</a> <a title="滁州" href="http://chuzhou.house.sina.com.cn">滁州</a> <a title="重庆" href="http://cq.house.sina.com.cn">重庆</a> <a title="长沙" href="http://cs.house.sina.com.cn">长沙</a> <a title="常州" href="http://cz.house.sina.com.cn">常州</a> <b>D: </b><a title="丹东" href="http://dandong.house.sina.com.cn">丹东</a> <a title="大庆" href="http://daqing.house.sina.com.cn">大庆</a> <a title="大同" href="http://datong.house.sina.com.cn">大同</a> <a title="达州" href="http://dazhou.house.sina.com.cn">达州</a> <a title="德阳" href="http://deyang.house.sina.com.cn">德阳</a> <a title="德州" href="http://dezhou.house.sina.com.cn">德州</a> <a title="东莞" href="http://dg.house.sina.com.cn">东莞</a> <a title="定州" href="http://dingzhou.house.sina.com.cn/">定州</a> <a title="大连" href="http://dl.house.sina.com.cn">大连</a> <a title="大兴安岭" href="http://dxal.house.sina.com.cn">大兴安岭</a> <a title="东营" href="http://dy.house.sina.com.cn">东营</a> <b>E: </b><a title="鄂尔多斯" href="http://eeds.house.sina.com.cn">鄂尔多斯</a> <a title="恩施" href="http://enshi.house.sina.com.cn/">恩施</a> <a title="鄂州" href="http://ezhou.house.sina.com.cn">鄂州</a> <b>F: </b><a title="防城港" href="http://fcg.house.sina.com.cn">防城港</a> <a title="福州" href="http://fj.house.sina.com.cn">福州</a> <a title="佛山" href="http://fs.house.sina.com.cn">佛山</a> <a title="抚顺" href="http://fushun.house.sina.com.cn">抚顺</a> <a title="抚州" href="http://fuzhou.house.sina.com.cn">抚州</a> <b>G: </b><a title="赣州" href="http://ganzhou.house.sina.com.cn">赣州</a> <a title="广元" href="http://guangyuan.house.sina.com.cn">广元</a> <a title="桂林" href="http://guilin.house.sina.com.cn">桂林</a> <a title="贵阳" href="http://guizhou.house.sina.com.cn">贵阳</a> <a title="广西" href="http://gx.house.sina.com.cn">广西</a> <a title="广州" href="http://gz.house.sina.com.cn">广州</a> <b>H: </b><a title="哈尔滨" href="http://h.house.sina.com.cn">哈尔滨</a> <a title="海南" href="http://han.house.sina.com.cn">海南</a> <a title="邯郸" href="http://handan.house.sina.com.cn/">邯郸</a> <a title="汉中" href="http://hanzhong.house.sina.com.cn">汉中</a> <a title="鹤岗" href="http://hegang.house.sina.com.cn">鹤岗</a> <a title="黑河" href="http://heihe.house.sina.com.cn">黑河</a> <a title="衡水" href="http://hengshui.house.sina.com.cn">衡水</a> <a title="衡阳" href="http://hengyang.house.sina.com.cn">衡阳</a> <a title="河源" href="http://heyuan.house.sina.com.cn">河源</a> <a title="菏泽" href="http://heze.house.sina.com.cn">菏泽</a> <a title="合肥" href="http://hf.house.sina.com.cn">合肥</a> <a title="怀化" href="http://hh.house.sina.com.cn">怀化</a> <a title="呼和浩特" href="http://hhht.house.sina.com.cn">呼和浩特</a> <a title="葫芦岛" href="http://hld.house.sina.com.cn">葫芦岛</a> <a title="郑州" href="http://hn.house.sina.com.cn">郑州</a> <a title="淮安" href="http://huaian.house.sina.com.cn">淮安</a> <a title="淮北" href="http://huaibei.house.sina.com.cn">淮北</a> <a title="淮南" href="http://huainan.house.sina.com.cn">淮南</a> <a title="黄冈" href="http://huanggang.house.sina.com.cn">黄冈</a> <a title="黄山" href="http://huangshan.house.sina.com.cn">黄山</a> <a title="黄石" href="http://huangshi.house.sina.com.cn">黄石</a> <a title="惠州" href="http://huizhou.house.sina.com.cn">惠州</a> <a title="湖州" href="http://huzhou.house.sina.com.cn">湖州</a> <a title="杭州" href="http://hz.house.sina.com.cn">杭州</a> <b>J: </b><a title="吉安" href="http://ja.house.sina.com.cn">吉安</a> <a title="景德镇" href="http://jdz.house.sina.com.cn">景德镇</a> <a title="江门" href="http://jiangmen.house.sina.com.cn">江门</a> <a title="江阴" href="http://jiangyin.house.sina.com.cn">江阴</a> <a title="焦作" href="http://jiaozuo.house.sina.com.cn">焦作</a> <a title="嘉兴" href="http://jiaxing.house.sina.com.cn">嘉兴</a> <a title="嘉峪关" href="http://jiayuguan.house.sina.com.cn">嘉峪关</a> <a title="揭阳" href="http://jieyang.house.sina.com.cn">揭阳</a> <a title="吉林" href="http://jilin.house.sina.com.cn/">吉林</a> <a title="晋城" href="http://jincheng.house.sina.com.cn">晋城</a> <a title="荆门" href="http://jingmen.house.sina.com.cn">荆门</a> <a title="荆州" href="http://jingzhou.house.sina.com.cn">荆州</a> <a title="金华" href="http://jinhua.house.sina.com.cn">金华</a> <a title="济宁" href="http://jining.house.sina.com.cn">济宁</a> <a title="金门" href="http://jinmen.house.sina.com.cn">金门</a> <a title="锦州" href="http://jinzhou.house.sina.com.cn">锦州</a> <a title="吉首" href="http://jishou.house.sina.com.cn">吉首</a> <a title="九江" href="http://jiujiang.house.sina.com.cn">九江</a> <a title="鸡西" href="http://jixi.house.sina.com.cn">鸡西</a> <a title="佳木斯" href="http://jms.house.sina.com.cn">佳木斯</a> <b>K: </b><a title="开封" href="http://kaifeng.house.sina.com.cn">开封</a> <a title="凯里" href="http://kaili.house.sina.com.cn">凯里</a> <a title="昆山" href="http://ks.house.sina.com.cn">昆山</a> <b>L: </b><a title="六安" href="http://la.house.sina.com.cn">六安</a> <a title="莱芜" href="http://laiwu.house.sina.com.cn">莱芜</a> <a title="兰州" href="http://lanzhou.house.sina.com.cn">兰州</a> <a title="拉萨" href="http://lasa.house.sina.com.cn">拉萨</a> <a title="乐山" href="http://leshan.house.sina.com.cn">乐山</a> <a title="聊城" href="http://liaocheng.house.sina.com.cn">聊城</a> <a title="辽阳" href="http://liaoyang.house.sina.com.cn">辽阳</a> <a title="辽源" href="http://liaoyuan.house.sina.com.cn">辽源</a> <a title="临汾" href="http://linfen.house.sina.com.cn">临汾</a> <a title="临沂" href="http://linyi.house.sina.com.cn">临沂</a> <a title="柳州" href="http://liuzhou.house.sina.com.cn">柳州</a> <a title="龙岩" href="http://longyan.house.sina.com.cn">龙岩</a> <a title="娄底" href="http://loudi.house.sina.com.cn">娄底</a> <a title="六盘水" href="http://lps.house.sina.com.cn">六盘水</a> <a title="漯河" href="http://luohe.house.sina.com.cn">漯河</a> <a title="洛阳" href="http://luoyang.house.sina.com.cn">洛阳</a> <a title="泸州" href="http://luzhou.house.sina.com.cn">泸州</a> <a title="吕梁" href="http://lvliang.house.sina.com.cn">吕梁</a> <a title="连云港" href="http://lyg.house.sina.com.cn">连云港</a> <b>M: </b><a title="澳门" href="http://macao.house.sina.com.cn">澳门</a> <a title="茂名" href="http://maoming.house.sina.com.cn">茂名</a> <a title="马鞍山" href="http://mas.house.sina.com.cn">马鞍山</a> <a title="牡丹江" href="http://mdj.house.sina.com.cn">牡丹江</a> <a title="眉山" href="http://meishan.house.sina.com.cn">眉山</a> <a title="梅州" href="http://meizhou.house.sina.com.cn">梅州</a> <a title="绵阳" href="http://mianyang.house.sina.com.cn/">绵阳</a> <b>N: </b><a title="南充" href="http://nanchong.house.sina.com.cn">南充</a> <a title="南阳" href="http://nanyang.house.sina.com.cn">南阳</a> <a title="宁波" href="http://nb.house.sina.com.cn">宁波</a> <a title="南昌" href="http://nc.house.sina.com.cn">南昌</a> <a title="内江" href="http://neijiang.house.sina.com.cn">内江</a> <a title="宁德" href="http://ningde.house.sina.com.cn/">宁德</a> <a title="南京" href="http://nj.house.sina.com.cn">南京</a> <a title="南通" href="http://nt.house.sina.com.cn">南通</a> <b>P: </b><a title="盘锦" href="http://panjin.house.sina.com.cn">盘锦</a> <a title="平顶山" href="http://pds.house.sina.com.cn">平顶山</a> <a title="莆田" href="http://putian.house.sina.com.cn">莆田</a> <a title="濮阳" href="http://puyang.house.sina.com.cn">濮阳</a> <a title="攀枝花" href="http://pzh.house.sina.com.cn">攀枝花</a> <b>Q: </b><a title="青岛" href="http://qd.house.sina.com.cn">青岛</a> <a title="秦皇岛" href="http://qhd.house.sina.com.cn">秦皇岛</a> <a title="清远" href="http://qingyuan.house.sina.com.cn">清远</a> <a title="钦州" href="http://qinzhou.house.sina.com.cn">钦州</a> <a title="齐齐哈尔" href="http://qqhe.house.sina.com.cn">齐齐哈尔</a> <a title="七台河" href="http://qth.house.sina.com.cn">七台河</a> <a title="泉州" href="http://quanzhou.house.sina.com.cn">泉州</a> <a title="衢州" href="http://quzhou.house.sina.com.cn">衢州</a> <b>R: </b><a title="日照" href="http://rizhao.house.sina.com.cn">日照</a> <b>S: </b><a title="三明" href="http://sanming.house.sina.com.cn">三明</a> <a title="三亚" href="http://sanya.house.sina.com.cn">三亚</a> <a title="成都" href="http://sc.house.sina.com.cn">成都</a> <a title="济南" href="http://sd.house.sina.com.cn">济南</a> <a title="上海" href="http://sh.house.sina.com.cn">上海</a> <a title="商丘" href="http://shangqiu.house.sina.com.cn">商丘</a> <a title="上饶" href="http://shangrao.house.sina.com.cn">上饶</a> <a title="汕头" href="http://shantou.house.sina.com.cn">汕头</a> <a title="汕尾" href="http://shanwei.house.sina.com.cn">汕尾</a> <a title="太原" href="http://shanxi.house.sina.com.cn">太原</a> <a title="韶关" href="http://shaoguan.house.sina.com.cn">韶关</a> <a title="绍兴" href="http://shaoxing.house.sina.com.cn">绍兴</a> <a title="邵阳" href="http://shaoyang.house.sina.com.cn">邵阳</a> <a title="十堰" href="http://shiyan.house.sina.com.cn">十堰</a> <a title="朔州" href="http://shuozhou.house.sina.com.cn">朔州</a> <a title="石家庄" href="http://sjz.house.sina.com.cn">石家庄</a> <a title="松原" href="http://songyuan.house.sina.com.cn">松原</a> <a title="绥化" href="http://suihua.house.sina.com.cn">绥化</a> <a title="遂宁" href="http://suining.house.sina.com.cn">遂宁</a> <a title="随州" href="http://suizhou.house.sina.com.cn">随州</a> <a title="宿迁" href="http://suqian.house.sina.com.cn">宿迁</a> <a title="苏州" href="http://suzhou.house.sina.com.cn">苏州</a> <a title="西安" href="http://sx.house.sina.com.cn">西安</a> <a title="沈阳" href="http://sy.house.sina.com.cn">沈阳</a> <a title="双鸭山" href="http://sys.house.sina.com.cn">双鸭山</a> <a title="深圳" href="http://sz.house.sina.com.cn">深圳</a> <b>T: </b><a title="泰安" href="http://taian.house.sina.com.cn">泰安</a> <a title="太仓" href="http://taicang.house.sina.com.cn">太仓</a> <a title="台州" href="http://taizhou.house.sina.com.cn">台州</a> <a title="唐山" href="http://tangshan.house.sina.com.cn">唐山</a> <a title="铁岭" href="http://tieling.house.sina.com.cn">铁岭</a> <a title="天津" href="http://tj.house.sina.com.cn">天津</a> <a title="铜川" href="http://tongchuan.house.sina.com.cn">铜川</a> <a title="通化" href="http://tonghua.house.sina.com.cn">通化</a> <a title="通辽" href="http://tongliao.house.sina.com.cn">通辽</a> <a title="铜陵" href="http://tongling.house.sina.com.cn">铜陵</a> <a title="泰州" href="http://tz.house.sina.com.cn">泰州</a> <b>W: </b><a title="潍坊" href="http://weifang.house.sina.com.cn">潍坊</a> <a title="威海" href="http://weihai.house.sina.com.cn">威海</a> <a title="温州" href="http://wenzhou.house.sina.com.cn">温州</a> <a title="武汉" href="http://wh.house.sina.com.cn">武汉</a> <a title="乌鲁木齐" href="http://wlmq.house.sina.com.cn">乌鲁木齐</a> <a title="乌兰察布" href="http://wm.house.sina.com.cn">乌兰察布</a> <a title="乌海" href="http://wuhai.house.sina.com.cn">乌海</a> <a title="芜湖" href="http://wuhu.house.sina.com.cn">芜湖</a> <a title="吴江" href="http://wujiang.house.sina.com.cn">吴江</a> <a title="梧州" href="http://wuzhou.house.sina.com.cn">梧州</a> <a title="无锡" href="http://wx.house.sina.com.cn">无锡</a> <b>X: </b><a title="湘潭" href="http://xiangtan.house.sina.com.cn">湘潭</a> <a title="襄阳" href="http://xiangyang.house.sina.com.cn">襄阳</a> <a title="咸宁" href="http://xianning.house.sina.com.cn">咸宁</a> <a title="仙桃" href="http://xiantao.house.sina.com.cn">仙桃</a> <a title="咸阳" href="http://xianyang.house.sina.com.cn">咸阳</a> <a title="孝感" href="http://xiaogan.house.sina.com.cn">孝感</a> <a title="西昌" href="http://xichang.house.sina.com.cn">西昌</a> <a title="邢台" href="http://xingtai.house.sina.com.cn">邢台</a> <a title="兴义" href="http://xingyi.house.sina.com.cn">兴义</a> <a title="西宁" href="http://xining.house.sina.com.cn">西宁</a> <a title="新乡" href="http://xinxiang.house.sina.com.cn">新乡</a> <a title="信阳" href="http://xinyang.house.sina.com.cn">信阳</a> <a title="忻州" href="http://xinzhou.house.sina.com.cn">忻州</a> <a title="厦门" href="http://xm.house.sina.com.cn">厦门</a> <a title="宣城" href="http://xuancheng.house.sina.com.cn">宣城</a> <a title="许昌" href="http://xuchang.house.sina.com.cn">许昌</a> <a title="徐州" href="http://xz.house.sina.com.cn">徐州</a> <b>Y: </b><a title="延安" href="http://yanan.house.sina.com.cn">延安</a> <a title="盐城" href="http://yancheng.house.sina.com.cn">盐城</a> <a title="阳泉" href="http://yangquan.house.sina.com.cn">阳泉</a> <a title="扬州" href="http://yangzhou.house.sina.com.cn">扬州</a> <a title="延吉" href="http://yanji.house.sina.com.cn">延吉</a> <a title="宜春" href="http://yc.house.sina.com.cn">宜春</a> <a title="宜宾" href="http://yibin.house.sina.com.cn">宜宾</a> <a title="宜昌" href="http://yichang.house.sina.com.cn">宜昌</a> <a title="伊春" href="http://yichun.house.sina.com.cn">伊春</a> <a title="银川" href="http://yinchuan.house.sina.com.cn">银川</a> <a title="营口" href="http://yingkou.house.sina.com.cn">营口</a> <a title="鹰潭" href="http://yingtan.house.sina.com.cn">鹰潭</a> <a title="益阳" href="http://yiyang.house.sina.com.cn">益阳</a> <a title="云南" href="http://yn.house.sina.com.cn">云南</a> <a title="永州" href="http://yongzhou.house.sina.com.cn">永州</a> <a title="烟台" href="http://yt.house.sina.com.cn">烟台</a> <a title="岳阳" href="http://yueyang.house.sina.com.cn">岳阳</a> <a title="玉林" href="http://yulin.house.sina.com.cn">玉林</a> <a title="运城" href="http://yuncheng.house.sina.com.cn">运城</a> <a title="宜兴" href="http://yx.house.sina.com.cn">宜兴</a> <b>Z: </b><a title="枣庄" href="http://zaozhuang.house.sina.com.cn">枣庄</a> <a title="淄博" href="http://zb.house.sina.com.cn">淄博</a> <a title="漳州" href="http://zhangzhou.house.sina.com.cn">漳州</a> <a title="湛江" href="http://zhanjiang.house.sina.com.cn">湛江</a> <a title="肇庆" href="http://zhaoqing.house.sina.com.cn">肇庆</a> <a title="镇江" href="http://zhenjiang.house.sina.com.cn">镇江</a> <a title="中山" href="http://zhongshan.house.sina.com.cn">中山</a> <a title="舟山" href="http://zhoushan.house.sina.com.cn">舟山</a> <a title="珠海" href="http://zhuhai.house.sina.com.cn">珠海</a> <a title="自贡" href="http://zigong.house.sina.com.cn">自贡</a> <a title="张家港" href="http://zjg.house.sina.com.cn">张家港</a> <a title="张家界" href="http://zjj.house.sina.com.cn">张家界</a> <a title="张家口" href="http://zjk.house.sina.com.cn">张家口</a> <a title="驻马店" href="http://zmd.house.sina.com.cn">驻马店</a> <a title="遵义" href="http://zunyi.house.sina.com.cn">遵义</a> <a title="株洲" href="http://zz.house.sina.com.cn">株洲</a> </p>
+</div>
+</div>
+<!-- cooperation end -->
+<!-- cric start -->
+<div class="cric_Its fb f14 col_2">易居旗下</div>
+<div class="cric_its_con">
+<a href="http://esf.sina.com.cn">乐居二手房</a><a href="http://zufang.sina.com.cn">乐居租房</a><a href="http://www.leju.com">乐居购房网</a><a href="http://jiaju.sina.com.cn">装修家居</a><a href="http://www.jiaju.com">家居就</a><a href="http://dichan.sina.com.cn">地产</a><a href="http://sydc.sina.com.cn">商业地产</a><a href="http://zst.house.sina.com.cn">商业地产·租售通</a><a href="http://trip.house.sina.com.cn">旅游地产</a><a href="http://haiwai.house.sina.com.cn">海外地产</a><a href="http://www.fangchan.com">中房网</a><a href="http://dichanren.fangchan.com">地产人</a><a href="http://house.baidu.com">百度乐居</a><a href="http://3g.leju.com">手机乐居</a>
+</div>
+<!-- cric end -->
+<div id="t15"></div>
+<!-- footer start -->
+<div id="footer" class="footer" style="text-align:center">
+<ul id="blinks">
+<li><a href="http://bj.house.sina.com.cn/sina-leju/lj_about.html" target="_blank">关于我们</a> ┊</li>
+<li id="maplink"><a href="http://bj.house.sina.com.cn/cityguide/" target="_blank">乐居版图</a> ┊</li>
+<li><a href="http://i.house.sina.com.cn/register.html" target="_blank">会员注册</a> </li>
+<!-- dfdf-->
+</ul>
+	Copyright © 1996-2014 SINA Corporation, All Rights Reserved<br />
+	乐居房产、家居产品用户服务、产品咨询购买、技术支持客服服务热线：400-606-6969 </div>
+<div class="map_leju_box" id="mapbox" style="display:none">
+<div class="map_leju_box_t">房产导航：</div>
+<div class="map_leju_box_c">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr><td width="3%"><strong>A</strong></td><td width="17%"><a target="_blank" href="http://anshan.house.sina.com.cn">鞍山房地产</a></td><td width="3%"><strong>B</strong></td><td width="17%"><a target="_blank" href="http://beihai.house.sina.com.cn">北海房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://bj.house.sina.com.cn">北京房地产</a></td><td width="3%"><strong>C</strong></td><td width="17%"><a target="_blank" href="http://cq.house.sina.com.cn">重庆房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://cs.house.sina.com.cn">长沙房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://cz.house.sina.com.cn">常州房地产</a></td><td width="3%"><strong>D</strong></td><td width="17%"><a target="_blank" href="http://dg.house.sina.com.cn">东莞房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://dl.house.sina.com.cn">大连房地产</a></td><td width="3%"><strong>F</strong></td><td width="17%"><a target="_blank" href="http://fj.house.sina.com.cn">福州房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://fs.house.sina.com.cn">佛山房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://fushun.house.sina.com.cn">抚顺房地产</a></td><td width="3%"><strong>G</strong></td><td width="17%"><a target="_blank" href="http://guilin.house.sina.com.cn">桂林房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://guizhou.house.sina.com.cn">贵阳房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://gz.house.sina.com.cn">广州房地产</a></td><td width="3%"><strong>H</strong></td><td width="17%"><a target="_blank" href="http://h.house.sina.com.cn">哈尔滨房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://han.house.sina.com.cn">海南房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://hf.house.sina.com.cn">合肥房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://hhht.house.sina.com.cn">呼和浩特房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://hn.house.sina.com.cn">郑州房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://huangshan.house.sina.com.cn">黄山房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://huizhou.house.sina.com.cn">惠州房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://hz.house.sina.com.cn">杭州房地产</a></td><td width="3%"><strong>J</strong></td><td width="17%"><a target="_blank" href="http://cc.house.sina.com.cn">长春房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://jiangmen.house.sina.com.cn">江门房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://jiangyin.house.sina.com.cn">江阴房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://jiaxing.house.sina.com.cn">嘉兴房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://jinzhou.house.sina.com.cn">锦州房地产</a></td><td width="3%"><strong>K</strong></td><td width="17%"><a target="_blank" href="http://kaifeng.house.sina.com.cn">开封房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://ks.house.sina.com.cn">昆山房地产</a></td><td width="3%"><strong>M</strong></td><td width="17%"><a target="_blank" href="http://macao.house.sina.com.cn">澳门房地产</a></td></tr><tr><td width="3%"><strong>N</strong></td><td width="17%"><a target="_blank" href="http://nb.house.sina.com.cn">宁波房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://nc.house.sina.com.cn">南昌房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://nj.house.sina.com.cn">南京房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://nt.house.sina.com.cn">南通房地产</a></td><td width="3%"><strong>Q</strong></td><td width="17%"><a target="_blank" href="http://qd.house.sina.com.cn">青岛房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://qingyuan.house.sina.com.cn">清远房地产</a></td><td width="3%"><strong>S</strong></td><td width="17%"><a target="_blank" href="http://sc.house.sina.com.cn">成都房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://sd.house.sina.com.cn">济南房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://sh.house.sina.com.cn">上海房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://sjz.house.sina.com.cn">石家庄房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://suzhou.house.sina.com.cn">苏州房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://sx.house.sina.com.cn">西安房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://sy.house.sina.com.cn">沈阳房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://sz.house.sina.com.cn">深圳房地产</a></td><td width="3%"><strong>T</strong></td><td width="17%"><a target="_blank" href="http://shanxi.house.sina.com.cn">太原房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://tangshan.house.sina.com.cn">唐山房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://tieling.house.sina.com.cn">铁岭房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://tj.house.sina.com.cn">天津房地产</a></td><td width="3%"><strong>W</strong></td><td width="17%"><a target="_blank" href="http://weihai.house.sina.com.cn">威海房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://wh.house.sina.com.cn">武汉房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://wuhu.house.sina.com.cn">芜湖房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://wx.house.sina.com.cn">无锡房地产</a></td><td width="3%"><strong>X</strong></td><td width="17%"><a target="_blank" href="http://wlmq.house.sina.com.cn">乌鲁木齐房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://xianyang.house.sina.com.cn">咸阳房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://xm.house.sina.com.cn">厦门房地产</a></td></tr><tr><td width="3%"> </td><td width="17%"><a target="_blank" href="http://xz.house.sina.com.cn">徐州房地产</a></td><td width="3%"><strong>Y</strong></td><td width="17%"><a target="_blank" href="http://yangjiang.house.sina.com.cn">阳江房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://yinchuan.house.sina.com.cn">银川房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://yn.house.sina.com.cn">云南房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://yt.house.sina.com.cn">烟台房地产</a></td></tr><tr><td width="3%"><strong>Z</strong></td><td width="17%"><a target="_blank" href="http://zhongshan.house.sina.com.cn">中山房地产</a></td><td width="3%"> </td><td width="17%"><a target="_blank" href="http://zhuhai.house.sina.com.cn">珠海房地产</a></td></tr>
+</tbody>
+</table>
+<p class="tar">[<a class="r_link" href="http://bj.house.sina.com.cn/cityguide/" target="_blank">129城市</a>] <a class="r_link" href="http://bj.house.sina.com.cn/focus/lianchengjue/index.html" target="_blank">加盟站招募 </a></p>
+</div>
+<div class="map_leju_box_b"></div>
+</div>
+<!-- footer end -->
+<div id="d04" class="mar_auto"></div>
+</div>
+</div>
+<script type="text/javascript" src="http://i0.sinaimg.cn/hs/ouyi/10Q1/js/LAB-min.js">
+</script>
+<script type="text/javascript">
+//var cityList={"cc":"长春"},cityprefix={'cc':'jl'};
+var cityList={"anqing":"安庆","anshan":"鞍山","anshun":"安顺","anyang":"安阳","baicheng":"白城","baise":"百色","baishan":"白山","baoding":"保定","baoji":"宝鸡","beihai":"北海","bengbu":"蚌埠","benxi":"本溪","bijie":"毕节","binzhou":"滨州","bj":"北京","boao":"博鳌","bt":"包头","cangzhou":"沧州","cc":"长春","changde":"常德","changshu":"常熟","changzhi":"长治","chaoyang":"朝阳","chaozhou":"潮州","chengde":"承德","chenzhou":"郴州","chifeng":"赤峰","chuzhou":"滁州","cq":"重庆","cs":"长沙","cz":"常州","dandong":"丹东","daqing":"大庆","datong":"大同","dazhou":"达州","deyang":"德阳","dezhou":"德州","dg":"东莞","dingzhou":"定州","dl":"大连","dxal":"大兴安岭","dy":"东营","eeds":"鄂尔多斯","enshi":"恩施","ezhou":"鄂州","fcg":"防城港","fj":"福州","fs":"佛山","fushun":"抚顺","fuzhou":"抚州","ganzhou":"赣州","guangyuan":"广元","guilin":"桂林","guizhou":"贵阳","gx":"广西","gz":"广州","h":"哈尔滨","han":"海南","handan":"邯郸","hanzhong":"汉中","hegang":"鹤岗","heihe":"黑河","hengshui":"衡水","hengyang":"衡阳","heyuan":"河源","heze":"菏泽","hf":"合肥","hh":"怀化","hhht":"呼和浩特","hld":"葫芦岛","hn":"郑州","huaian":"淮安","huaibei":"淮北","huainan":"淮南","huanggang":"黄冈","huangshan":"黄山","huangshi":"黄石","huizhou":"惠州","huzhou":"湖州","hz":"杭州","ja":"吉安","jdz":"景德镇","jiangmen":"江门","jiangyin":"江阴","jiaozuo":"焦作","jiaxing":"嘉兴","jiayuguan":"嘉峪关","jieyang":"揭阳","jilin":"吉林","jincheng":"晋城","jingmen":"荆门","jingzhou":"荆州","jinhua":"金华","jining":"济宁","jinmen":"金门","jinzhou":"锦州","jishou":"吉首","jiujiang":"九江","jixi":"鸡西","jms":"佳木斯","kaifeng":"开封","kaili":"凯里","ks":"昆山","la":"六安","laiwu":"莱芜","lanzhou":"兰州","lasa":"拉萨","leshan":"乐山","liaocheng":"聊城","liaoyang":"辽阳","liaoyuan":"辽源","linfen":"临汾","linyi":"临沂","liuzhou":"柳州","longyan":"龙岩","loudi":"娄底","lps":"六盘水","luohe":"漯河","luoyang":"洛阳","luzhou":"泸州","lvliang":"吕梁","lyg":"连云港","macao":"澳门","maoming":"茂名","mas":"马鞍山","mdj":"牡丹江","meishan":"眉山","meizhou":"梅州","mianyang":"绵阳","nanchong":"南充","nanyang":"南阳","nb":"宁波","nc":"南昌","neijiang":"内江","ningde":"宁德","nj":"南京","nt":"南通","panjin":"盘锦","pds":"平顶山","putian":"莆田","puyang":"濮阳","pzh":"攀枝花","qd":"青岛","qhd":"秦皇岛","qingyuan":"清远","qinzhou":"钦州","qqhe":"齐齐哈尔","qth":"七台河","quanzhou":"泉州","quzhou":"衢州","rizhao":"日照","sanming":"三明","sanya":"三亚","sc":"成都","sd":"济南","sh":"上海","shangqiu":"商丘","shangrao":"上饶","shantou":"汕头","shanwei":"汕尾","shanxi":"太原","shaoguan":"韶关","shaoxing":"绍兴","shaoyang":"邵阳","shiyan":"十堰","shuozhou":"朔州","sjz":"石家庄","songyuan":"松原","suihua":"绥化","suining":"遂宁","suizhou":"随州","suqian":"宿迁","suzhou":"苏州","sx":"西安","sy":"沈阳","sys":"双鸭山","sz":"深圳","taian":"泰安","taicang":"太仓","taizhou":"台州","tangshan":"唐山","tieling":"铁岭","tj":"天津","tongchuan":"铜川","tonghua":"通化","tongliao":"通辽","tongling":"铜陵","tz":"泰州","weifang":"潍坊","weihai":"威海","wenzhou":"温州","wh":"武汉","wlmq":"乌鲁木齐","wm":"乌兰察布","wuhai":"乌海","wuhu":"芜湖","wujiang":"吴江","wuzhou":"梧州","wx":"无锡","xiangtan":"湘潭","xiangyang":"襄阳","xianning":"咸宁","xiantao":"仙桃","xianyang":"咸阳","xiaogan":"孝感","xichang":"西昌","xingtai":"邢台","xingyi":"兴义","xining":"西宁","xinxiang":"新乡","xinyang":"信阳","xinzhou":"忻州","xm":"厦门","xuancheng":"宣城","xuchang":"许昌","xz":"徐州","yanan":"延安","yancheng":"盐城","yangquan":"阳泉","yangzhou":"扬州","yanji":"延吉","yc":"宜春","yibin":"宜宾","yichang":"宜昌","yichun":"伊春","yinchuan":"银川","yingkou":"营口","yingtan":"鹰潭","yiyang":"益阳","yn":"云南","yongzhou":"永州","yt":"烟台","yueyang":"岳阳","yulin":"玉林","yuncheng":"运城","yx":"宜兴","zaozhuang":"枣庄","zb":"淄博","zhangzhou":"漳州","zhanjiang":"湛江","zhaoqing":"肇庆","zhenjiang":"镇江","zhongshan":"中山","zhoushan":"舟山","zhuhai":"珠海","zigong":"自贡","zjg":"张家港","zjj":"张家界","zjk":"张家口","zmd":"驻马店","zunyi":"遵义","zz":"株洲"},cityprefix={"anqing":"ai","anshan":"anshan","anshun":"an","anyang":"ay","baicheng":"baicheng","baise":"bc","baishan":"baishan","baoding":"baoding","baoji":"aj","beihai":"beihai","bengbu":"bb","benxi":"bx","bijie":"be","binzhou":"bn","bj":"bj","boao":"boao","bt":"bt","cangzhou":"co","cc":"jl","changde":"changde","changshu":"changshu","changzhi":"ci","chaoyang":"cy","chaozhou":"cu","chengde":"ce","chenzhou":"chenzhou","chifeng":"cf","chuzhou":"cj","cq":"cq","cs":"cs","cz":"cz","dandong":"dd","daqing":"daqing","datong":"dt","dazhou":"dazhou","deyang":"deyang","dezhou":"du","dg":"dg","dingzhou":"dc","dl":"dl","dxal":"dxal","dy":"dy","eeds":"eeds","enshi":"es","ezhou":"ez","fcg":"fcg","fj":"fj","fs":"fs","fushun":"fa","fuzhou":"fo","ganzhou":"ganzhou","guangyuan":"gi","guilin":"guilin","guizhou":"guizhou","gx":"gx","gz":"gz","h":"h","han":"han","handan":"handan","hanzhong":"hanzhong","hegang":"hegang","heihe":"heihe","hengshui":"hs","hengyang":"hengyang","heyuan":"hb","heze":"eh","hf":"hf","hh":"hh","hhht":"hhht","hld":"hl","hn":"hn","huaian":"hj","huaibei":"he","huainan":"hc","huanggang":"hg","huangshan":"hr","huangshi":"huangshi","huizhou":"huizhou","huzhou":"ho","hz":"hangzhou","ja":"jf","jdz":"jw","jiangmen":"jiangmen","jiangyin":"jy","jiaozuo":"ji","jiaxing":"jx","jiayuguan":"ju","jieyang":"je","jilin":"jilin","jincheng":"jc","jingmen":"jd","jingzhou":"jingzhou","jinhua":"jh","jining":"jn","jinmen":"jinmen","jinzhou":"ja","jishou":"js","jiujiang":"jiujiang","jixi":"jv","jms":"ss","kaifeng":"kf","kaili":"kl","ks":"ks","la":"un","laiwu":"lai","lanzhou":"lanzhou","lasa":"xi","leshan":"leshan","liaocheng":"ac","liaoyang":"lx","liaoyuan":"li","linfen":"ln","linyi":"lb","liuzhou":"liuzhou","longyan":"lo","loudi":"loudi","lps":"lp","luohe":"le","luoyang":"ly","luzhou":"luzhou","lvliang":"ll","lyg":"yg","macao":"mc","maoming":"mm","mas":"ma","mdj":"md","meishan":"meishan","meizhou":"mz","mianyang":"mianyang","nanchong":"nanchong","nanyang":"ny","nb":"nb","nc":"nc","neijiang":"nu","ningde":"nd","nj":"nanjing","nt":"nt","panjin":"pj","pds":"pd","putian":"pu","puyang":"pz","pzh":"pzh","qd":"qd","qhd":"qhd","qingyuan":"qy","qinzhou":"qinzhou","qqhe":"qq","qth":"qth","quanzhou":"quanzhou","quzhou":"qw","rizhao":"rz","sanming":"am","sanya":"sanya","sc":"sc","sd":"sd","sh":"sh","shangqiu":"sm","shangrao":"sr","shantou":"shantou","shanwei":"sw","shanxi":"ty","shaoguan":"sg","shaoxing":"shaoxing","shaoyang":"sb","shiyan":"si","shuozhou":"se","sjz":"sjz","songyuan":"oy","suihua":"suihua","suining":"suining","suizhou":"suizhou","suqian":"sq","suzhou":"suzhou","sx":"sx","sy":"sy","sys":"sys","sz":"sz","taian":"taian","taicang":"tc","taizhou":"taizhou","tangshan":"tangshan","tieling":"tl","tj":"tj","tongchuan":"tongchuan","tonghua":"th","tongliao":"tongliao","tongling":"to","tz":"tb","weifang":"weifang","weihai":"weihai","wenzhou":"wz","wh":"wh","wlmq":"xj","wm":"wm","wuhai":"wuhai","wuhu":"wu","wujiang":"wj","wuzhou":"wo","wx":"wx","xiangtan":"xiangtan","xiangyang":"xf","xianning":"xd","xiantao":"ax","xianyang":"xy","xiaogan":"xh","xichang":"ck","xingtai":"xa","xingyi":"xg","xining":"xining","xinxiang":"xx","xinyang":"xb","xinzhou":"xc","xm":"xm","xuancheng":"uc","xuchang":"xu","xz":"xz","yanan":"yanan","yancheng":"ya","yangquan":"yq","yangzhou":"yd","yanji":"ye","yc":"yichun","yibin":"yibin","yichang":"yichang","yichun":"ym","yinchuan":"yinchuan","yingkou":"yk","yingtan":"yr","yiyang":"yiyang","yn":"yn","yongzhou":"yongzhou","yt":"yt","yueyang":"yueyang","yulin":"yl","yuncheng":"yu","yx":"yx","zaozhuang":"zao","zb":"zb","zhangzhou":"zo","zhanjiang":"zc","zhaoqing":"zq","zhenjiang":"zd","zhongshan":"zhongshan","zhoushan":"ze","zhuhai":"zhuhai","zigong":"zigong","zjg":"jg","zjj":"zjj","zjk":"zjk","zmd":"zm","zunyi":"zy","zz":"zz"};
+$LAB.script("http://imgcdn.house.sina.com.cn/2.0/page/LET_page.js").wait().script("http://imgcdn.house.sina.com.cn/2.0/abp/cmslead_new.js").wait(function(){
+	//节气背景
+	var current = document.body;
+	var _value =current.style['background'];
+	var str = !+"\v1" ? current['custombg'] : current.getAttribute('custombg');
+	if(_value &amp;&amp; _value.indexOf('url') == -1 &amp;&amp; str){
+		var arr = str.split('|');
+		ads.setStyle(current, {
+				background : 'url(' + arr[0] + ') no-repeat scroll center top #fff'
+			});
+			var el = ads.createElement('a', {
+				href : arr[2]
+			}, {
+				display : 'block',
+				width : "950px",
+				height:arr[1],
+				margin:'0 auto',
+				textIndent:'-99999px'
+			},current,'prepend');
+		el.innerHTML = " ";
+	}
+	
+	ads.config = {
+		host:'http://www.sinaimg.cn/',
+		path:'hs/ouyi/lead/src/',
+                lunxunList:["t04","t05","t06","t07","t09","t10","t11","t12","t13","t14","t15"]
+	};
+})
+.script('http://adm.leju.sina.com.cn/get_abp_list/PG_5090BD8BA167A7?callback=ads.processReqChange').wait().script('http://imgcdn.house.sina.com.cn/2.0/page/newindex.js');
+</script>
+<style>
+/*二维码*/
+.clf:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.clf { display: inline-block; }
+.clf { display: block; }
+.sachWeiMi{bottom: 27px;_position:absolute;_top:expression(documentElement.scrollTop + documentElement.clientHeight-300);margin: 0 0 0 478px;left:50%;position: fixed;_position:absolute;width: 103px;z-index: 100;}
+.sachWeiMi .tr{ text-align:right;}
+.sachWeiMi .close{ position:relative; float:right; width:20px;  height:20px; overflow:hidden; background:url(http://src.house.sina.com.cn/imp/imp/deal/38/65/c/e8db46268efd5599869a04236aa_p1_mk1.png) no-repeat; margin-bottom:-1px;}
+.sachWeiMi .close:hover{ background-position:0 -21px;}
+.sachWeiMi .imgBox{width:101px; border:1px solid #eeeeee; background-color:#fff; }
+.sachWeiMi .imgBox img{width:83px; height:83px; border:9px solid #fff; vertical-align:middle;}
+.sachWeiMi p{ height:24px; text-align:center; color:#333333; line-height:24px; background-color:#eee; font-size:12px; font-family:"b8bf53"; padding:0; margin:0;}
+</style>
+<div class="sachWeiMi" id="JS_Side_Btn_2wm">
+<div class="clf">
+<a href="javascript:;" target="_self" class="close" id="close"></a>
+</div>
+<div class="imgBox"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/29/01/e/4ca736b588b0f44bd48d4256104_p1_mk1.png" width="83" height="83" /></div>
+<p>扫一扫下载微米</p>
+</div>
+<script type="text/javascript">
+(function(aClz,maxSize) {
+	var doc = document,
+	side = document.getElementById('JS_Side_Btn_2wm'),
+	clz = side.className,
+	nClz = clz+' '+aClz;
+	addEvent = function(o, s, fn) {
+		if (o.attachEvent) {
+		o.attachEvent('on' + s, fn);
+		} else {
+		o.addEventListener(s, fn, false);
+		}
+		return o;
+		},
+	resize = function() {
+		var body = doc.documentElement||doc.body;
+		if(!body){
+		return;
+		}
+	var width = body.offsetWidth;
+	if(width&lt;maxSize){
+		side.className = nClz;
+		}else{
+		side.className = clz;
+		}
+	};
+	addEvent(window, 'resize', resize);
+})('side-btns-2wm-resize',1230);
+document.getElementById('close').onclick= function(){
+		document.getElementById('JS_Side_Btn_2wm').style.display = "none";
+	}
+</script>
+<script type="text/javascript" src="http://www.sinaimg.cn/hs/suxiaowu/helper/helper.loader.js"></script><!-- START OF SmartSource Data Collector TAG -->
+<script src="http://traffic.house.sina.com.cn/fangchan_5s7f_tag.js" type="text/javascript"></script>
+<!-- END OF SmartSource Data Collector TAG -->
+</body></html>

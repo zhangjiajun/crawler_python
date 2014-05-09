@@ -1,0 +1,736 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<title>北京楼盘道路交通图片浏览_楼盘图库_新浪乐居</title>
+<meta name="Keywords" content="楼盘图片,道路交通汇总,新浪乐居" />
+<meta name="Description" content="新浪乐居楼盘道路交通频道，提供北京各楼盘道路交通、别墅户型图等楼盘图片汇总。让你更准确的了解楼盘信息，尽在新浪乐居。" />
+<link href="http://data.house.sina.com.cn/css/201203/base.css" rel="stylesheet" type="text/css" />
+<link href="http://data.house.sina.com.cn/css/201203/subpages.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://data.house.sina.com.cn/js/201203/jquery.js"></script>
+<script type="text/javascript" src="http://data.house.sina.com.cn/js/201203/ui.js"></script>
+</head>
+<body>
+<div class="wrap">
+<!--mini nav star-->
+<div class="out_bor">
+<div class="pl10 pr10 clearfix">
+<div class="fr pt5 pb5">
+<div id="lejuLogin01" class="fl">
+</div>
+<span class="pl10 pr5 col_6">|</span>
+<u class="u u01 mr5"></u>
+<a href="http://house.sina.com.cn/" target="_blank">房产首页</a>
+</div>
+<div class="headtitle col_4">
+<a href="http://bj.house.sina.com.cn/news/" target="_blank">地产新闻</a>|
+            <a href="http://bj.house.sina.com.cn/zhuanti/index.shtml" target="_blank">热点专题</a>|
+            <a href="http://bj.house.sina.com.cn/exhibit/" target="_blank">新房</a>|
+            <a href="http://map.house.sina.com.cn/" target="_blank">电子地图</a>|
+            <a href="http://bj.house.sina.com.cn/blog/" target="_blank">博客</a>|
+            <a href="http://t.house.sina.com.cn/c/bj/" target="_blank">微博</a>|
+            <a href="http://bj.bbs.house.sina.com.cn" target="_blank">业主论坛</a>|
+            <a href="http://house.sina.com.cn/video/index.shtml" target="_blank">视频</a>
+</div>
+</div>
+</div>
+<!--mini nav end-->
+<div class="clearfix fg" id="t01"></div>
+<!-- 顶通广告start -->
+<!-- 顶通广告end -->
+<!--logo star-->
+<div class="clearfix mb10">
+<form method="get" action="http://data.house.sina.com.cn/bj/search/" target="_blank" name="search" id="search_form">
+<input name="" type="submit" class="fr search_btn topsearch" value=" " />
+<div class="fr super_input topsearch clearfix">
+<div class="super_input_l"></div>
+<div class="super_input_icon"></div>
+<span>请输入楼盘名或具体位置...</span>
+<input name="keyword" id="keyword" adsdefault="true" type="text" class="fl none" value="请输入楼盘名或具体位置..." onfocus="if(this.value=='请输入楼盘名或具体位置...')this.value=''" onblur="if(this.value=='')this.value='请输入楼盘名或具体位置...'" />
+</div>
+</form>
+<a href="http://house.sina.com.cn/" target="_blank" ref="nofollow"><h1 class="fl leju_logo1"></h1></a>
+<h2 class="fl logoname f_yahei f20">
+<a href="http://bj.house.sina.com.cn/exhibit/">新房</a>
+<span class="f_simsun">·</span>
+</h2>
+<div class="fl location pl15 w90">
+<p class="fl col_3 lh20">城市&nbsp;</p>
+<p class="f14 fb tl col_2 pr" id="locationCity" style="cursor: pointer;">北京</p>
+<div class="pop_up none" id="locationPop">
+<div class="pop_up_t col_2"><a href="http://bj.house.sina.com.cn/cityguide/" target="_blank">所有城市&gt;&gt;</a></div>
+<div class="pop_up_c">
+<div class="pop_box pt10 pb10 pl25 pr25 lh24">
+<ul>
+<li class="clearfix">
+<span>A.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/as/jiaotong/" target="_self">鞍山</a>
+</div>
+</li>
+<li class="clearfix">
+<span>B.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/bh/jiaotong/" target="_self">北海</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/bj/jiaotong/" target="_self">北京</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/ba/jiaotong/" target="_self">博鳌</a>
+</div>
+</li>
+<li class="clearfix">
+<span>C.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/cz/jiaotong/" target="_self">常州</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/cs/jiaotong/" target="_self">长沙</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/cq/jiaotong/" target="_self">重庆</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/cc/jiaotong/" target="_self">长春</a>
+</div>
+</li>
+<li class="clearfix">
+<span>D.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/dl/jiaotong/" target="_self">大连</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/dg/jiaotong/" target="_self">东莞</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/da/jiaotong/" target="_self">大理</a>
+</div>
+</li>
+<li class="clearfix">
+<span>F.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/fs/jiaotong/" target="_self">佛山</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/fz/jiaotong/" target="_self">福州</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/fa/jiaotong/" target="_self">抚顺</a>
+</div>
+</li>
+<li class="clearfix">
+<span>G.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/gx/jiaotong/" target="_self">广西</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/gz/jiaotong/" target="_self">广州</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/gl/jiaotong/" target="_self">桂林</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/gy/jiaotong/" target="_self">贵州</a>
+</div>
+</li>
+<li class="clearfix">
+<span>H.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/ha/jiaotong/" target="_self">哈尔滨</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/hi/jiaotong/" target="_self">海南</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/hf/jiaotong/" target="_self">合肥</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/hv/jiaotong/" target="_self">惠州</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/hz/jiaotong/" target="_self">杭州</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/hu/jiaotong/" target="_self">呼和浩特</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/hr/jiaotong/" target="_self">黄山</a>
+</div>
+</li>
+<li class="clearfix">
+<span>J.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/jx/jiaotong/" target="_self">嘉兴</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/sd/jiaotong/" target="_self">济南</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/ja/jiaotong/" target="_self">锦州</a>
+</div>
+</li>
+<li class="clearfix">
+<span>K.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/ks/jiaotong/" target="_self">昆山</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/kf/jiaotong/" target="_self">开封</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/yn/jiaotong/" target="_self">昆明</a>
+</div>
+</li>
+<li class="clearfix">
+<span>N.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/nj/jiaotong/" target="_self">南京</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/nc/jiaotong/" target="_self">南昌</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/nb/jiaotong/" target="_self">宁波</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/nt/jiaotong/" target="_self">南通</a>
+</div>
+</li>
+<li class="clearfix">
+<span>Q.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/qj/jiaotong/" target="_self">曲靖</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/qd/jiaotong/" target="_self">青岛</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/qi/jiaotong/" target="_self">秦皇岛</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/qy/jiaotong/" target="_self">清远</a>
+</div>
+</li>
+<li class="clearfix">
+<span>S.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/sj/jiaotong/" target="_self">石家庄</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/su/jiaotong/" target="_self">苏州</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/sh/jiaotong/" target="_self">上海</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/sa/jiaotong/" target="_self">三亚</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/sz/jiaotong/" target="_self">深圳</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/sy/jiaotong/" target="_self">沈阳</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/sc/jiaotong/" target="_self">四川</a>
+</div>
+</li>
+<li class="clearfix">
+<span>T.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/tl/jiaotong/" target="_self">铁岭</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/ty/jiaotong/" target="_self">太原</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/tj/jiaotong/" target="_self">天津</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/ts/jiaotong/" target="_self">唐山</a>
+</div>
+</li>
+<li class="clearfix">
+<span>W.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/wu/jiaotong/" target="_self">芜湖</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/we/jiaotong/" target="_self">威海</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/wx/jiaotong/" target="_self">无锡</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/wh/jiaotong/" target="_self">武汉</a>
+</div>
+</li>
+<li class="clearfix">
+<span>X.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/xm/jiaotong/" target="_self">厦门</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/xj/jiaotong/" target="_self">新疆</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/xz/jiaotong/" target="_self">徐州</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/sx/jiaotong/" target="_self">西安</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/xy/jiaotong/" target="_self">咸阳</a>
+</div>
+</li>
+<li class="clearfix">
+<span>Y.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/yj/jiaotong/" target="_self">阳江</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/yi/jiaotong/" target="_self">银川</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/yt/jiaotong/" target="_self">烟台</a>
+</div>
+</li>
+<li class="clearfix">
+<span>Z.</span>
+<div class="cell">
+<a ref="nofollow" href="http://data.house.sina.com.cn/zh/jiaotong/" target="_self">珠海</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/hn/jiaotong/" target="_self">郑州</a>
+<a ref="nofollow" href="http://data.house.sina.com.cn/zs/jiaotong/" target="_self">中山</a>
+</div>
+</li>
+</ul>
+</div>
+<div class="pt10 pb10 pl25">
+<form method="get" action="http://data.house.sina.com.cn/api/city_switch.php" target="_blank" name="switch">
+<input type="hidden" name="cur_channel" value="jiaotong" />
+<input type="hidden" name="cur_city" value="bj" />
+<input type="text" value="请输入城市名" onfocus="if(this.value=='请输入城市名')this.value=''" onblur="if(this.value=='')this.value='请输入城市名'" id="pop_city" class="text vm" name="city" />
+							&nbsp;&nbsp;&nbsp;
+							<input type="submit" id="pop_submit" class="sub1 vm" name="" value="" />
+</form>
+</div>
+</div>
+<div class="pop_up_b"></div>
+</div>
+</div>
+</div>
+<!--logo end-->
+<!--nav start-->
+<div class="sort_con mb15 nav">
+<dl class="fl sort_list">
+<dt class="fl f_yahei lh22 f16"><a href="http://bj.house.sina.com.cn/exhibit/" target="">新房<br />中心</a><s></s></dt>
+<dd class="fl mr5 ml5">
+<p>
+<a href="http://data.house.sina.com.cn/bj/kaipan/" target="_blank">本月开盘</a>
+<a href="http://data.house.sina.com.cn/bj/ruzhu/" target="_blank">本月入住</a>
+<a href="http://kft.house.sina.com.cn/" target="_blank">免费看房</a>
+</p>
+<p>
+<a href="http://data.house.sina.com.cn/bj/hot/" target="_blank">热门楼盘</a>
+<a href="http://data.house.sina.com.cn/bj/new/" target="_blank">最新楼盘</a>
+<a href="http://data.house.sina.com.cn/bj/" target="_blank">楼盘排行</a>
+</p>
+</dd>
+</dl>
+<dl class="fl sort_list">
+<dt class="fl f_yahei lh22 f16"><a href="http://search.house.sina.com.cn/bj/loushi/">楼市<br />资讯</a><s></s></dt>
+<dd class="fl mr5 ml5">
+<p>
+<a href="http://search.house.sina.com.cn/bj/loushi/kaipan/" rel="nofollow" target="_blank">开盘</a>
+<a href="http://search.house.sina.com.cn/bj/loushi/xinpan/" rel="nofollow" target="_blank">新盘</a>
+<a href="http://search.house.sina.com.cn/bj/loushi/huodong/" rel="nofollow" target="_blank">活动</a>
+<a href="http://search.house.sina.com.cn/bj/loushi/dianping/" rel="nofollow" target="_blank">点评</a>
+</p>
+<p>
+<a href="http://search.house.sina.com.cn/bj/loushi/dazhe/" rel="nofollow" target="_blank">打折</a>
+<a href="http://search.house.sina.com.cn/bj/loushi/daogou/" rel="nofollow" target="_blank">导购</a>
+<a href="http://bj.house.sina.com.cn/scan/xiangmu/" rel="nofollow" target="_blank">项目</a>
+<a href="http://search.house.sina.com.cn/bj/loushi/zhangjia/" rel="nofollow" target="_blank">涨价</a>
+</p>
+</dd>
+</dl>
+<dl class="fl sort_list">
+<dt class="fl f_yahei lh22 f16"><a href="http://data.house.sina.com.cn/bj/dianping/">楼盘<br />评测</a><s></s></dt>
+<dd class="fl mr5 ml5">
+<p><a href="http://search.house.sina.com.cn/bj/loushi/zbjf/" rel="nofollow" target="_blank">主编荐房</a><a href="http://data.house.sina.com.cn/bj/tujie/" rel="nofollow" target="_blank">图解看房</a></p>
+<p><a href="http://search.house.sina.com.cn/bj/scan/kfsj/" rel="nofollow" target="_blank">看房手记</a><a href="http://bbs.house.sina.com.cn/forum-72185-1.html" rel="nofollow" target="_blank">网友点评</a></p>
+</dd>
+</dl>
+<dl class="fl sort_list">
+<dt class="fl f_yahei lh22 f16"><a href="http://data.house.sina.com.cn/bj/pictures/">楼盘<br />图片</a><s></s></dt>
+<dd class="fl mr5 ml5">
+<p><a href="http://data.house.sina.com.cn/bj/huxing/" rel="nofollow" target="_blank">户型图</a><a href="http://data.house.sina.com.cn/bj/yangban/" rel="nofollow" target="_blank">样板间</a><a href="http://data.house.sina.com.cn/bj/shoulouchu/" rel="nofollow" target="_blank">售楼处</a><a href="http://data.house.sina.com.cn/bj/jiaotong/" rel="nofollow" target="_blank">道路交通</a><a href="http://data.house.sina.com.cn/bj/shequ/" rel="nofollow" target="_blank">社区实景</a></p>
+<p><a href="http://data.house.sina.com.cn/bj/xiaoguo/" rel="nofollow" target="_blank">效果图</a><a href="http://data.house.sina.com.cn/bj/guihua/" rel="nofollow" target="_blank">规划图</a><a href="http://data.house.sina.com.cn/bj/weizhi/" rel="nofollow" target="_blank">位置图</a><a href="http://data.house.sina.com.cn/bj/peitao/" rel="nofollow" target="_blank">周边配套</a></p>
+</dd>
+</dl>
+</div><!--nav end-->
+<script type="text/javascript" src="http://data.house.sina.com.cn/js/201203/jquery.suggest.js"></script>
+<link rel="stylesheet" href="http://data.house.sina.com.cn/css/201002/jquery.suggest.css" type="text/css" />
+<script type="text/javascript">
+$(document).ready(function(){
+	//标签 选中
+	var thisURL = document.URL;
+    var navURL = thisURL;
+    if (thisURL.indexOf("?") !== -1) {
+        navURL = thisURL.substring(0,thisURL.indexOf("?"));
+    }
+    $(".nav a").each(function(){
+        if (navURL == $(this).attr("href")) {
+            $(this).addClass("current");
+            
+            var objchannel = $(this).parents("dl");
+            objchannel.addClass("uselect");
+            objchannel.append('&lt;i class="us1"&gt;&lt;/i&gt;&lt;i class="us2"&gt;&lt;/i&gt;');
+            
+            var objtitle = objchannel.find("dt&gt;a").clone();
+            var title = objtitle.html().replace(/&lt;br&gt;/gi, "");
+            objtitle.html(title).appendTo(".logoname");
+        }
+    });
+    //标签end
+	
+	var city = 'bj';
+	$("#keyword, #keywords").suggest("http://data.house.sina.com.cn/api/search_suggest.php?city="+city,{
+        onSelect: function() {
+            $(this).val(this.value);
+        }
+    });
+});
+</script><!--pic menu star-->
+<div class="pic_num_show mt15 pl10 tr">
+<p class="fl"><em>共<span class="col_2">10555</span>张道路交通</em></p>
+<p class="pic_flip">
+<span>1/377</span><a href="?page=2" class="disabled">下一页
+		</a> </p>
+</div>
+<!--pic menu end-->
+<!--pic list star-->
+<ul class="realimg_list clearfix">
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj104980/slide/5091250/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/f3/15/f/6894cd246aa35359835c6671684_p7_mk7_os01efd1_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="欧逸水岸" target="_blank" href="http://data.house.sina.com.cn/bj104980/jiaotong/">欧逸水岸道路交通 </a>
+</p>
+<p class="col_4">2014年04月22日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj115562/slide/5087671/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/3f/9a/e/f38ef1fce7447087ccff6ea77e5_p7_mk7_osb5b75d_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="上地东里" target="_blank" href="http://data.house.sina.com.cn/bj115562/jiaotong/">上地东里道路交通 </a>
+</p>
+<p class="col_4">2014年04月21日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj107155/slide/5041087/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/49/24/8/f94b136cb82b9112e842f5cf14f_p7_mk7_os91f2e9_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="领秀·翡翠山" target="_blank" href="http://data.house.sina.com.cn/bj107155/jiaotong/">领秀·翡翠山道路交通 地铁</a>
+</p>
+<p class="col_4">2014年03月24日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj113142/slide/4961537/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/92/c6/8/5b16d8806279d42b2d031467e60_p7_mk7_osae67f3_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金地朗悦·YOYO派" target="_blank" href="http://data.house.sina.com.cn/bj113142/jiaotong/">金地朗悦·YOYO派道路交通</a>
+</p>
+<p class="col_4">2014年01月17日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj112319/slide/4923986/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/a9/b6/0/54e3664a5fe0af5940c930b19ab_p7_mk7_osfc33c6_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="琨御府" target="_blank" href="http://data.house.sina.com.cn/bj112319/jiaotong/">琨御府道路交通 蓝靛厂北路</a>
+</p>
+<p class="col_4">2013年12月18日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj102603/slide/4910618/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/cd/d4/a/286d48f5a474a8f2cc1d05c5ee8_p7_mk7_os29f7d9_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金第万科·金域东郡" target="_blank" href="http://data.house.sina.com.cn/bj102603/jiaotong/">金第万科·金域东郡道路交通 周边道路</a>
+</p>
+<p class="col_4">2013年12月10日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj102603/slide/4910617/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/71/49/6/370a5e4dcdfe87c89d72d45bb9a_p7_mk7_os890d55_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金第万科·金域东郡" target="_blank" href="http://data.house.sina.com.cn/bj102603/jiaotong/">金第万科·金域东郡道路交通</a>
+</p>
+<p class="col_4">2013年12月10日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj102603/slide/4910616/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/01/05/7/5d8ecb6ff2cd0807606f974ccde_p7_mk7_osa4521f_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金第万科·金域东郡" target="_blank" href="http://data.house.sina.com.cn/bj102603/jiaotong/">金第万科·金域东郡道路交通 轨道交通</a>
+</p>
+<p class="col_4">2013年12月10日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj102603/slide/4910615/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/2c/f9/f/8960d737c71e7451186a738a937_p7_mk7_os36ca15_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金第万科·金域东郡" target="_blank" href="http://data.house.sina.com.cn/bj102603/jiaotong/">金第万科·金域东郡道路交通</a>
+</p>
+<p class="col_4">2013年12月10日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj102603/slide/4910614/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/26/61/2/d0030ee66fb4232bc1cc2deb223_p7_mk7_osbc364d_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金第万科·金域东郡" target="_blank" href="http://data.house.sina.com.cn/bj102603/jiaotong/">金第万科·金域东郡道路交通</a>
+</p>
+<p class="col_4">2013年12月10日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj102603/slide/4910613/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/67/8c/b/ac96dacea97b1451d8e56eca045_p7_mk7_os5d2bd8_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金第万科·金域东郡" target="_blank" href="http://data.house.sina.com.cn/bj102603/jiaotong/">金第万科·金域东郡道路交通</a>
+</p>
+<p class="col_4">2013年12月10日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj3819/slide/4813171/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/36/54/f/b5b1010f8346f3fd1c2f3650bfc_p7_mk7_os4f941c_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="江南山水" target="_blank" href="http://data.house.sina.com.cn/bj3819/jiaotong/">江南山水道路交通</a>
+</p>
+<p class="col_4">2013年10月18日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj3819/slide/4813170/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/3b/45/9/326707d0bbc13999f0a5a863f40_p7_mk7_os58a9c6_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="江南山水" target="_blank" href="http://data.house.sina.com.cn/bj3819/jiaotong/">江南山水道路交通</a>
+</p>
+<p class="col_4">2013年10月18日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj107978/slide/4794027/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/bc/d6/d/148eddad0631140d3312764526e_p7_mk7_osda3714_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金隅·澜湾" target="_blank" href="http://data.house.sina.com.cn/bj107978/jiaotong/">金隅·澜湾道路交通</a>
+</p>
+<p class="col_4">2013年10月09日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj107978/slide/4794026/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/bb/12/e/2a26a2b11ee5513dc3ab19864d2_p7_mk7_os7a97af_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金隅·澜湾" target="_blank" href="http://data.house.sina.com.cn/bj107978/jiaotong/">金隅·澜湾道路交通</a>
+</p>
+<p class="col_4">2013年10月09日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj107978/slide/4794025/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/34/15/1/1a59c64a0b1de59431840b697df_p7_mk7_osafe1dd_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金隅·澜湾" target="_blank" href="http://data.house.sina.com.cn/bj107978/jiaotong/">金隅·澜湾道路交通</a>
+</p>
+<p class="col_4">2013年10月09日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj107978/slide/4794015/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/e0/fe/d/56b9112a548751022200a75df68_p7_mk7_osa42e1f_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="金隅·澜湾" target="_blank" href="http://data.house.sina.com.cn/bj107978/jiaotong/">金隅·澜湾道路交通</a>
+</p>
+<p class="col_4">2013年10月09日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788668/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/6e/99/5/189a8e3fb3f4f280c451cb952a5_p7_mk7_os3a27aa_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788667/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/69/fe/6/7f6b671d1416e806ad1f1e6864a_p7_mk7_os0a6210_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788666/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/c1/f3/a/3df3d9953390cc961162c6ae096_p7_mk7_os0a6f9e_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788665/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/69/90/4/f738661706d31169457355aca1d_p7_mk7_os6e01b0_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788663/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/fb/1e/4/5e7145bb34493febb157df7b2b0_p7_mk7_os690e39_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788662/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/30/4d/0/33c0588518a910864587bc926aa_p7_mk7_os22a394_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788661/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/fe/4c/c/c3cc0ad29b3909d18e30397104c_p7_mk7_os8fd720_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788660/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/70/a8/7/ff7b09b2c437143505f6a20ee76_p7_mk7_os90e3e9_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788659/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/b5/53/4/0395733c839e8be35390614925b_p7_mk7_os167251_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788658/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/f2/37/b/79713d379e1be1042ba502f3469_p7_mk7_os1c924f_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+<li>
+<a target="_blank" href="http://data.house.sina.com.cn/bj36/slide/4788657/" ref="nofollow"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/eb/22/7/d814cabe703a6b0c0c77f07bbae_p7_mk7_osd740dd_cm240X180.jpg" /></a>
+<p class="of_h h20 lh20 mt5 col_5">
+<a title="山水文园西园" target="_blank" href="http://data.house.sina.com.cn/bj36/jiaotong/">山水文园西园道路交通</a>
+</p>
+<p class="col_4">2013年09月30日上传</p>
+</li>
+</ul>
+<!--pic list end-->
+<!--page star-->
+<div class="flip">
+<span class="current">1</span>
+<a href="?page=2">2</a>
+<a href="?page=3">3</a>
+<a href="?page=4">4</a>
+<a href="?page=2" class="down">下一页</a>
+<a href="?page=377" class="disabled">尾页</a>
+<!--&lt;em class="page_skip"&gt;--><!--&lt;span&gt;377&lt;/span&gt;页-->
+&nbsp;&nbsp;&nbsp;到第<input id="skip_txtid_1" value="1" type="text" class="flip_sub vm" />页 <a class="disabled" href="javascript:void(0)" onclick="pageTo('skip_txtid_1', '?page=%d')">确定</a>
+<!--&lt;/em&gt;-->
+<script>
+	function pageTo(txtid, url)
+	{
+		var page = parseInt(document.getElementById(txtid).value);
+		if(page &lt; 1)
+		{
+			page = 1;
+		} 
+		else if(page &gt; "377")
+		{
+			page = "377";
+		}
+		location.href = url.replace('%d', page);
+		return true;
+	}
+</script> </div>
+<!--page end-->
+<!--footer star-->
+<!--mod6 star-->
+<div class="line_t_s line_b_s p10 lh24" id="showbiaos">
+<span class="fb col_2">免责声明：</span>本页面旨在为广大用户提供更多信息的无偿服务；不声明或保证所提供信息的准确性和完整性。本站内所有内容亦不表明本网站之观点或意见，仅供参考和借鉴，购房者在购房时仍需慎重考虑。购房者参考本站信息，进行房屋交易所造成的任何后果与本网站无关，当政府司法机关依照法定程序要求本网站披露个人资料时，我们将根据执法单位之要求或为公共安全之目的提供个人资料。在此情况下之任何披露，本网站均得免责。本页面所提到房屋面积如无特别标示，均指建筑面积。
+    </div>
+<!--mod6 end-->
+<div class="clearfix fg" id="t02"></div>
+<script type="text/javascript" src="http://imgcdn.house.sina.com.cn/2.0/ads/cmslead_new.js" charset="utf-8"></script>
+<script type="text/javascript">
+ads.config = {
+        host:' http://www.sinaimg.cn/',
+        path:'hs/ouyi/lead/src/',
+                lunxunList:["t02","t03","t04","t05"]
+    };
+</script>
+<!-- ad 北京用旧广告   其他城市  用新的广告start -->
+<!-- ad end -->
+<!-- footer start -->
+<div class="footer">
+<ul class="blinks">
+<li><a href="http://bj.house.sina.com.cn/sina-leju/lj_about.html" rel="nofollow">关于我们</a> ┊ </li>
+<li><a href="http://bj.house.sina.com.cn/sina-leju/lj_english.html" rel="nofollow">About Leju</a> ┊ </li>
+<li><a href="http://www.leju.com/ads/" rel="nofollow">广告服务</a> ┊ </li>
+<li><a href="http://bj.house.sina.com.cn/sina-leju/lj_partners.html" rel="nofollow">合作伙伴</a> ┊ </li>
+<li><a href="http://bj.house.sina.com.cn/sina-leju/lj_contact.html" rel="nofollow">联系我们</a> ┊ </li>
+<li class="12345" id="maplink"><a href="http://bj.house.sina.com.cn/cityguide/">乐居版图</a> ┊</li>
+<li><a href="http://bj.house.sina.com.cn/sina-leju/lj_job.html" class="red" rel="nofollow">诚聘英才</a> ┊ </li>
+<li><a href="http://bj.house.sina.com.cn/sina-leju/lj_lawyer.html" rel="nofollow">网站律师</a> ┊ </li>
+<li><a href="http://i.house.sina.com.cn/register.html" rel="nofollow">会员注册</a> ┊ </li>
+<li><a href="http://tech.sina.com.cn/focus/sinahelp.shtml" rel="nofollow">产品答疑</a> ┊ </li>
+<li><a href="http://bbs.house.sina.com.cn/feedback.php" rel="nofollow">意见反馈</a></li>
+</ul>
+<!-- START OF SmartSource Data Collector TAG -->
+<script src="http://traffic.house.sina.com.cn/qita_3i3r_tag.js" type="text/javascript"></script>
+<!-- END OF SmartSource Data Collector TAG -->
+	Copyright &#169; 1996-2011 SINA Corporation, All Rights Reserved<br />
+	乐居房产、家居产品用户服务、产品咨询购买、技术支持客服服务热线：400-606-6969<br />
+<div class="map_leju_box" id="mapbox" style="display:none;">
+<div class="map_leju_box_t">楼盘导航：</div>
+<div class="map_leju_box_c">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="3%"><strong>B</strong></td>
+<td width="18%"><a href="http://bj.house.sina.com.cn/" target="_blank">北京房地产</a></td>
+<td width="3%"><strong>D</strong></td>
+<td width="18%"><a href="http://dg.house.sina.com.cn/" target="_blank">东莞房地产</a></td>
+<td width="3%">&nbsp;</td>
+<td width="17%"><a href="http://hainan.sina.com.cn/" target="_blank">海南房地产</a></td>
+<td width="3%">&nbsp;</td>
+<td width="18%"><a href="http://gx.house.sina.com.cn/" target="_blank">南宁房地产</a></td>
+<td width="3%">&nbsp;</td>
+<td width="18%"><a href="http://sy.house.sina.com.cn/" target="_blank">沈阳房地产</a></td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td><a href="http://sc.house.sina.com.cn/" target="_blank">成都房地产</a></td>
+<td>&nbsp;</td>
+<td><a href="http://dl.house.sina.com.cn/" target="_blank">大连房地产</a></td>
+<td>&nbsp;</td>
+<td><a href="http://hf.house.sina.com.cn/" target="_blank">合肥房地产</a></td>
+<td><strong>Q</strong></td>
+<td><a href="http://qd.house.sina.com.cn/" target="_blank">青岛房地产</a></td>
+<td><strong>T</strong></td>
+<td><a href="http://tj.house.sina.com.cn/" target="_blank">天津房地产</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="http://cq.house.sina.com.cn/" target="_blank">重庆房地产</a></td>
+<td><strong>F</strong></td>
+<td><a href="http://fj.house.sina.com.cn/" target="_blank">福州房地产</a></td>
+<td><strong>J</strong></td>
+<td><a href="http://sd.house.sina.com.cn/" target="_blank">济南房地产</a></td>
+<td><strong>S</strong></td>
+<td><a href="http://sh.house.sina.com.cn/" target="_blank">上海房地产</a></td>
+<td><strong>W</strong></td>
+<td><a href="http://wh.house.sina.com.cn/" target="_blank">武汉房地产</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="http://cs.house.sina.com.cn/" target="_blank">长沙房地产</a></td>
+<td><strong>G</strong></td>
+<td><a href="http://gz.house.sina.com.cn/" target="_blank">广州房地产</a></td>
+<td><strong>N</strong></td>
+<td><a href="http://nj.house.sina.com.cn/" target="_blank">南京房地产</a></td>
+<td>&nbsp;</td>
+<td><a href="http://sz.house.sina.com.cn/" target="_blank">深圳房地产</a></td>
+<td>&nbsp;</td>
+<td><a href="http://wx.house.sina.com.cn/" target="_blank">无锡房地产</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="http://cc.house.sina.com.cn/" target="_blank">长春房地产</a></td>
+<td>&nbsp;</td>
+<td><a href="http://guizhou.house.sina.com.cn/" target="_blank">贵阳房地产</a></td>
+<td>&nbsp;</td>
+<td><a href="http://nc.house.sina.com.cn/" target="_blank">南昌房地产</a></td>
+<td>&nbsp;</td>
+<td><a href="http://suzhou.house.sina.com.cn" target="_blank">苏州房地产</a></td>
+<td><strong>X</strong></td>
+<td><a href="http://sx.house.sina.com.cn/" target="_blank">西安房地产</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="http://cz.house.sina.com.cn/" target="_blank">常州房地产</a></td>
+<td><strong>H</strong></td>
+<td><a href="http://hz.house.sina.com.cn/" target="_blank">杭州房地产</a></td>
+<td>&nbsp;</td>
+<td><a href="http://nb.house.sina.com.cn/" target="_blank">宁波房地产</a></td>
+<td>&nbsp;</td>
+<td><a href="http://sjz.house.sina.com.cn/" target="_blank">石家庄房地产</a></td>
+<td><strong>Z</strong></td>
+<td><a href="http://hn.house.sina.com.cn/" target="_blank">郑州房地产</a></td>
+</tr>
+</table>
+<p class="tar">[<a class="r_link" href="http://bj.house.sina.com.cn/cityguide/" target="_blank">129城市</a>] <a class="r_link" href="http://bj.house.sina.com.cn/focus/lianchengjue/index.html" target="_blank">加盟站招募</a></p>
+</div>
+<div class="map_leju_box_b"></div>
+</div>
+</div>
+<!-- footer end -->
+<script type="text/javascript">
+(function(){
+	function getElementLeft(element){
+	　　　　var actualLeft = element.offsetLeft;
+	　　　　var current = element.offsetParent;
+	　　　　while (current !== null){
+	　　　　　　actualLeft += current.offsetLeft;
+	　　　　　　current = current.offsetParent;
+	　　　　}
+	　　　　return actualLeft;
+
+	}
+	function getElementTop(element){
+	　　　　var actualTop = element.offsetTop;
+	　　　　var current = element.offsetParent;
+
+	　　　　while (current !== null){
+	　　　　　　actualTop += current.offsetTop;
+	　　　　　　current = current.offsetParent;
+	　　　　}
+
+	　　　　return actualTop;
+	}
+	var mapbox = document.getElementById('mapbox');
+	var maplink = document.getElementById('maplink');
+	var fadetime;
+	maplink.onmouseover = function(){
+		clearTimeout(fadetime);
+		var x = getElementLeft(this);
+		var y = getElementTop(this);
+		y+=15;
+		mapbox.style.display = 'block';
+		mapbox.style.left = x + 'px';
+		mapbox.style.top = y + 'px';
+		return false;
+	}
+	maplink.onmouseout = mapbox.onmouseout = function(){
+		fadetime = setTimeout(function(){
+			mapbox.style.display = 'none';
+		},200);
+	}
+	mapbox.onmouseover = function(){
+		clearTimeout(fadetime);
+	}
+
+})();
+</script>
+<!--懒加载-->
+<script type="text/javascript" src="http://imgcdn.house.sina.com.cn/2.0/LET.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://data.house.sina.com.cn/js/201203/imglazyload.min.js" charset="utf-8"></script>
+<script>
+var winload = new LET.superLazy({
+        elems:LET.getElementsByAttribute("img[lsrc]").concat(LET.getElementsByAttribute("iframe[lsrc]")),
+        funeles:[],
+        container:window,
+        islock:false,
+        ondataload:function(self,node){   
+    		var src = !+"\v1" ? node['lsrc'] : node.getAttribute('lsrc');
+			node.setAttribute("src",src);
+			node.removeAttribute("lsrc");
+        }
+    });
+</script>
+<script type="text/javascript" src="http://data.house.sina.com.cn/js/201203/login.js"></script><!--footer end-->
+</div>
+</body>
+</html>

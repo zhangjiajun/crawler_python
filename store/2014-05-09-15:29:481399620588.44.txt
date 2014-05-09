@@ -1,0 +1,546 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+</html><html xmlns:wb="http://open.weibo.com/wb">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="zh-CN" />
+<meta content="all" name="robots" />
+<meta name="description" content="新浪应用中心" />
+<title> 备考族 - 新浪应用中心 </title>
+<link type="text/css" rel="stylesheet" href="http://i.apps.sina.cn/css/globals_130701.css" />
+<link type="text/css" rel="stylesheet" href="http://i.apps.sina.cn/css/dialog_130527.css" />
+<link type="text/css" rel="stylesheet" href="http://i.apps.sina.cn/css/view.css?t=7" />
+<link rel="shortcut icon" href="/favorite.ico" />
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=161650687" type="text/javascript" charset="utf-8"></script>
+</head>
+<body class="Android">
+<div class="header">
+<div class="headerW">
+<div class="logo">
+<a class="logoLink" href="/index.php?f=p_wenjiao" title="新浪应用中心"><span>新浪应用中心</span></a>
+<!--
+        &lt;a href="#android" class="logoToggle logoToggle-android"&gt;切换到Android&lt;/a&gt;
+        -->
+<a class="logoToggle logoToggle-ios" href="javascript:void(0);"><span>切换到iPhone</span></a>
+</div>
+<div class="appNav" id="appNav">
+<div class="hdNav nav0 "><a href="/index.php?f=p_wenjiao" class="t-nav" title="首页"><span>首页</span></a></div>
+<div class="hdNav nav1 "><a href="/app_index.php?f=p_wenjiao" class="t-nav" title="应用"><span>应用</span></a>
+<div class="navList">
+<ul>
+<li><a href="/catlist.php?cat=100&amp;secondcat=101&amp;f=p_wenjiao" title="系统工具">系统工具</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=102&amp;f=p_wenjiao" title="主题壁纸">主题壁纸</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=103&amp;f=p_wenjiao" title="日常生活">日常生活</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=104&amp;f=p_wenjiao" title="影音播放">影音播放</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=105&amp;f=p_wenjiao" title="聊天通讯">聊天通讯</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=106&amp;f=p_wenjiao" title="社交网络">社交网络</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=107&amp;f=p_wenjiao" title="拍摄美化">拍摄美化</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=108&amp;f=p_wenjiao" title="新闻资讯">新闻资讯</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=109&amp;f=p_wenjiao" title="阅读漫画">阅读漫画</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=110&amp;f=p_wenjiao" title="学习办公">学习办公</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=111&amp;f=p_wenjiao" title="网购支付">网购支付</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=112&amp;f=p_wenjiao" title="金融理财">金融理财</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=113&amp;f=p_wenjiao" title="地图导航">地图导航</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=114&amp;f=p_wenjiao" title="输入法">输入法</a></li>
+<li><a href="/catlist.php?cat=100&amp;secondcat=115&amp;f=p_wenjiao" title="浏览器">浏览器</a></li>
+</ul>
+<div class="c"></div>
+</div>
+</div>
+<div class="hdNav nav2 "><a href="/game_index.php?f=p_wenjiao" class="t-nav" title="游戏"><span>游戏</span></a>
+<div class="navList">
+<ul>
+<li><a href="/catlist.php?cat=200&amp;secondcat=201&amp;f=p_wenjiao" title="益智休闲">益智休闲</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=202&amp;f=p_wenjiao" title="动作格斗">动作格斗</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=203&amp;f=p_wenjiao" title="体育竞速">体育竞速</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=204&amp;f=p_wenjiao" title="角色扮演">角色扮演</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=205&amp;f=p_wenjiao" title="飞行射击">飞行射击</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=206&amp;f=p_wenjiao" title="虚拟养成">虚拟养成</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=207&amp;f=p_wenjiao" title="棋牌桌游">棋牌桌游</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=208&amp;f=p_wenjiao" title="网络游戏">网络游戏</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=209&amp;f=p_wenjiao" title="策略塔防">策略塔防</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=210&amp;f=p_wenjiao" title="冒险解密">冒险解密</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=211&amp;f=p_wenjiao" title="模拟经营">模拟经营</a></li>
+<li><a href="/catlist.php?cat=200&amp;secondcat=212&amp;f=p_wenjiao" title="音乐节奏">音乐节奏</a></li>
+</ul>
+<div class="c"></div>
+</div>
+</div>
+<div class="hdNav nav3 "><a href="/ranks.php?f=p_wenjiao" class="t-nav" title="排行榜"><span>排行榜</span></a></div>
+<div class="hdNav nav4 "><a href="/installs.php?f=p_wenjiao" class="t-nav" title="装机必备"><span>装机必备</span></a></div>
+</div>
+<div class="search">
+<form id="searchform" name="" action="/search.php?">
+<input type="text" name="q" id="searchq" class="txt" value="" />
+<input type="submit" name="" class="seaBtn" value=" " />
+<input type="hidden" name="f" value="p_wenjiao" />
+</form>
+</div>
+<div class="h-login"><a href="http://app.sina.com.cn/go.php?u=http%3A%2F%2Fsms.sina.com.cn%2Fsmsapp%2Findex.php%2Fapp%2Fsmartgame%2Fiphone" title="旧版入口">旧版入口</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div id="h_login_area" style="display: inline-block;display:inline;"><a id="login_btn" href="javascript:void(0);" title="登录">登录</a> | <a href="http://login.sina.com.cn/signup/signup.php?entry=app&amp;r=http%3A%2F%2Fapp.sina.com.cn" title="注册">注册</a></div></div>
+</div>
+</div>
+<div class="row" id="r1">
+<div class="colMain">
+<div class="mod" id="mView">
+<div class="mHd">
+<h3><a href="/index.php?f=p_wenjiao">首页</a> <span class="step">&gt;</span> <a href="/app_index.php?f=p_wenjiao">应用</a> <span class="step">&gt;</span> <a href="/catlist.php?cat=100&amp;secondcat=110&amp;f=p_wenjiao">学习办公</a> <span class="step">&gt;</span>备考族</h3>
+</div>
+<div class="mBd">
+<div class="appView">
+<div class="avCard">
+<div class="avIcon"><img src="http://p18.qhimg.com/t0152e38f05b24ce7f6.png" width="72px" height="72px" alt="备考族" /></div>
+<h1 class="avName">备考族</h1>
+<div class="avValues">
+<span class="rateValueM"><span class="rateStarM rateStarM-0"></span></span>
+<span class="voteValue">(0)</span>
+<span class="downValue">下载 (2千+)</span>
+</div>
+<div class="avOrigin">来自：
+                            360手机助手&nbsp;&nbsp;
+                            
+                            <a href="/download.php?appID=1412796&amp;cat=100&amp;secondCat=110&amp;package=com.beikaozu.wireless&amp;cid=1005&amp;dfp=appdetail&amp;f=p_wenjiao">应用汇</a>&nbsp;&nbsp;
+                        </div>
+<div class="avAction">
+<a href="/download.php?appID=1412796&amp;cat=100&amp;secondCat=110&amp;package=com.beikaozu.wireless&amp;cid=1041&amp;dfp=appdetail&amp;f=p_wenjiao" class="avBtn avBtn-down">立即下载</a>
+<a href="javascript:void(0);" class="avBtn avBtn-push func_btn_push" name="1412796|备考族|http://p18.qhimg.com/t0152e38f05b24ce7f6.png" style="display: none">推送到手机</a>
+</div>
+</div>
+<ul class="avTabs">
+<li class="switch_basic on"><a href="javascript:void(0);">信息</a></li>
+<li class="switch_basic "><a href="javascript:void(0);">评论 (0条)</a></li>
+</ul>
+<div id="basic_info" style="display:;">
+<div class="avCover">
+<div class="avcWrap">
+<ul id="screenCont" class="avcList">
+<li class="avcItem"><img src="http://p17.qhimg.com/t0137d6d7c9db31c844.jpg" width="300px" height="450px" alt="" /></li>
+<li class="avcItem"><img src="http://p16.qhimg.com/t01b478e005e176474a.jpg" width="300px" height="450px" alt="" /></li>
+<li class="avcItem"><img src="http://p17.qhimg.com/t01e66745badd9ebb7b.jpg" width="300px" height="450px" alt="" /></li>
+<li class="avcItem"><img src="http://p19.qhimg.com/t018bfde6299d1c8229.jpg" width="300px" height="450px" alt="" /></li>
+<li class="avcItem"><img src="http://p18.qhimg.com/t01c348b4a4ed5cd8c4.jpg" width="300px" height="450px" alt="" /></li>
+</ul>
+</div>
+<a id="pBtnPrev" class="avcPrevNa">上一张</a>
+<a id="pBtnNext" class="avcNext">下一张</a>
+</div>
+<div class="avInfo">
+<ul class="avInfoList">
+<li class="avInfoItem">大小：2.3M</li>
+<li class="avInfoItem">版本：1.0.1</li>
+<li class="avInfoItem">更新时间：2014-04-08</li>
+<li class="avInfoItem">系统要求：Android 2.2 以上系统</li>
+</ul>
+<p id="description_p" style="overflow: hidden;height:54px;">“备考族“是一款专业的移动备考应用，由新东方名师定制学习内容，智能化分析你的备考弱点，让你在不知不觉中，提高英语成绩，顺利通过考试。<br /><br />亲爱的备考族们，如果你现在有以下的问题，都应该下载这款应用试试。<br /><br />1.	不知道应该如何准备考试<br />2.	对考试的知识点不清楚<br />3.	不知道每天应该看哪些内容，学习哪些东西<br />4.	对做题迷茫，对题目的正确答案更加困惑，需要题目准确的解答<br />5.	做完题目没有提高，想要有针对性的建议<br />6.	想知道自己现在的水平是否可以通过考试，还要备考多久<br /><br />总之，这是一款备考神器，快来加入备考族，成为考霸，学霸，霸气测漏。<br /><br />新浪微博：@备考族<br />微信公众号：taokeonline<br />考研备考族qq群：371484201<br />四六级备考族qq群：371483100</p>
+<div id="description_more" class="more"><a href="javascript:void(0);">展开↓</a></div>
+</div>
+</div>
+<div id="social_info">
+<div class="avRating">
+<h2>请给“备考族”打分</h2>
+<div id="rating_box" class="ratingBox">
+<span class="rating" id="sel_score">
+<a href="javascript:;" class="ratingStar ratingStar-1">1星</a>
+<a href="javascript:;" class="ratingStar ratingStar-2">2星</a>
+<a href="javascript:;" class="ratingStar ratingStar-3">3星</a>
+<a href="javascript:;" class="ratingStar ratingStar-4">4星</a>
+<a href="javascript:;" class="ratingStar ratingStar-5">5星</a>
+</span>
+</div>
+</div>
+<div class="avComments" name="sc_comment" id="sc_comment">
+<h2>“备考族”的用户评论 <span class="meta">(0条)</span>&nbsp;&nbsp;&nbsp;<wb:publish toolbar="face,image" button_type="red" button_size="middle" default_text="#点评##apps##备考族#我发现这个安卓应用很好玩啊，真心不错，推荐给大家！[太开心] http://app.sina.com.cn/appdetail.php?appID=1412796&amp;f=p_wbfeed&amp;w=p_wbfeed" default_image="http://p17.qhimg.com/t0137d6d7c9db31c844.jpg" button_text="我也要评论"></wb:publish></h2>
+<ul class="commentList">
+</ul>
+                            
+                            还没有评论，赶快抢沙发吧~
+                    </div>
+<div id="cmt_page" class="pages"></div>
+</div>
+</div>
+<div class="appReport"><a id="btn_report" href="javascript:;" class="avBtn avBtn-report">一键举报</a></div>
+<!-- 举报 -->
+<div id="report_window" class="dialogWarp" style="display:none;">
+<div class="bg">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<div class="dialog">
+<div class="title">
+<span>我要举报</span>
+</div>
+<a id="report_close" class="W_close" title="关闭" href="javascript:void(0);"></a>
+<p class="line"></p>
+<div class="content" id="report_cont">
+<div>
+<dl>
+<dt>选择举报内容：</dt>
+<dd>
+<input type="checkbox" value="1" />无法下载
+                                                        <input type="checkbox" value="2" />无法安装
+                                                        <input type="checkbox" value="3" />可安装但无法启动
+                                                    </dd><dd>
+</dd><dd>
+<input type="checkbox" value="4" />版本太旧需要更新
+                                                        <input type="checkbox" value="5" />恶意扣费
+                                                        <input type="checkbox" value="6" />携带病毒
+                                                    </dd><dd>
+</dd><dd id="reporting_warning" style="color:red;display: none;">*请选择举报内容</dd>
+</dl>
+<div class="btn">
+<span class="keep"><input type="button" id="report_do" name="" value=" 举&nbsp;报 " /></span>
+<span class="interval"></span>
+<span class="cancel"><input type="button" id="report_cancle" name="" value=" 取&nbsp;消 " /></span>
+</div>
+</div>
+</div>
+<div id="report_status" class="content" style="display:none;">
+<div class="loadIcon">
+<span id="report_msg">正在提交...</span><br />
+<span id="report_timer">浮层将于<span>5</span>秒内关闭</span>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- 举报 -->
+</div>
+</div>
+</div>
+<div class="colSub">
+<div class="mod" id="mViewReco">
+<div class="mHd">
+<h3>大家还看了</h3>
+<div class="mOp"><a id="rec_more" href="javascript:void(0);">换一换</a></div>
+</div>
+<div class="mBd">
+<ul id="rec_list" class="appList ipaList">
+<li class="alItem" style="display:block;">
+<div class="alIcon"><a href="/appdetail.php?appID=84375&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p18.qhimg.com/t014b3dffcfb94982a0.png" alt="有道词典" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=84375&amp;f=p_wenjiao">有道词典</a></div>
+<div class="alMeta">1950万次下载</div>
+</li>
+<li class="alItem" style="display:block;">
+<div class="alIcon"><a href="/appdetail.php?appID=127190&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p17.qhimg.com/t01825884cf4228b9a7.png" alt="超级课程表" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=127190&amp;f=p_wenjiao">超级课程...</a></div>
+<div class="alMeta">418万次下载</div>
+</li>
+<li class="alItem" style="display:block;">
+<div class="alIcon"><a href="/appdetail.php?appID=84315&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p0.qhimg.com/t0114e2770f02359040.png" alt="谷歌邮箱Gmail" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=84315&amp;f=p_wenjiao">谷歌邮箱...</a></div>
+<div class="alMeta">1307万次下载</div>
+</li>
+<li class="alItem" style="display:block;">
+<div class="alIcon"><a href="/appdetail.php?appID=84566&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://i.apps.sina.cn/iconapk/27/bc/649fea6c68fcc536c96d189d0232bc27.png?t=10" alt="微盘" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=84566&amp;f=p_wenjiao">微盘</a></div>
+<div class="alMeta">228万次下载</div>
+</li>
+<li class="alItem" style="display:block;">
+<div class="alIcon"><a href="/appdetail.php?appID=118442&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p18.qhimg.com/t01647151a59951c249.png" alt="课程格子" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=118442&amp;f=p_wenjiao">课程格子</a></div>
+<div class="alMeta">214万次下载</div>
+</li>
+<li class="alItem" style="display:block;">
+<div class="alIcon"><a href="/appdetail.php?appID=100747&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p16.qhimg.com/t01e5f9c93ff7a745fa.png" alt="金山词霸" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=100747&amp;f=p_wenjiao">金山词霸</a></div>
+<div class="alMeta">292万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=93331&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://img7.sjpic.91rb.com/soft/2014/4/24/cfa50096c0f1493eb22bfd42326d0729/icon_5207879394bd42d080262eb94505ce1f_65.png" alt="驾考宝典" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=93331&amp;f=p_wenjiao">驾考宝典</a></div>
+<div class="alMeta">264万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=84472&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://i.apps.sina.cn/iconapk/9e/42/2ec6b44704107beabb20cba9b313429e.png?t=10" alt="海词词典" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=84472&amp;f=p_wenjiao">海词词典</a></div>
+<div class="alMeta">154万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=173546&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p16.qhimg.com/t01edf5c69bea7e2f57.png" alt="QQ邮箱" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=173546&amp;f=p_wenjiao">QQ邮箱</a></div>
+<div class="alMeta">130万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=1148981&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p16.qhimg.com/t01d2b40ca06920a791.png" alt="我要当学霸" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=1148981&amp;f=p_wenjiao">我要当学...</a></div>
+<div class="alMeta">124万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=130227&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p5.qhimg.com/t015fcf42f4f3c24d3f.png" alt="手写计算器" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=130227&amp;f=p_wenjiao">手写计算...</a></div>
+<div class="alMeta">124万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=84759&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p2.qhimg.com/t01a149c4d7302c7aeb.png" alt="谷歌翻译" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=84759&amp;f=p_wenjiao">谷歌翻译</a></div>
+<div class="alMeta">247万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=77297&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://static.nduoa.com/apk/757/757635/icon.png" alt="扫描全能王" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=77297&amp;f=p_wenjiao">扫描全能...</a></div>
+<div class="alMeta">157万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=84775&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://img02.nduoa.com/apk/760/760349/icon.png" alt="名片全能王" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=84775&amp;f=p_wenjiao">名片全能...</a></div>
+<div class="alMeta">274万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=93175&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p18.qhimg.com/t01f46cd44f6cf6005f.png" alt="囧记百词斩" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=93175&amp;f=p_wenjiao">囧记百词...</a></div>
+<div class="alMeta">132万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=84770&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p0.qhimg.com/t01c18ca24d724bc071.png" alt="Office办公套件" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=84770&amp;f=p_wenjiao">Office办...</a></div>
+<div class="alMeta">490万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=84573&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p17.qhimg.com/t01308d13c7761fbc2a.png" alt="掌中英语" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=84573&amp;f=p_wenjiao">掌中英语</a></div>
+<div class="alMeta">112万次下载</div>
+</li>
+<li class="alItem" style="display:none;">
+<div class="alIcon"><a href="/appdetail.php?appID=100948&amp;f=p_wenjiao" target="_blank"><img width="72px" height="72px" src="http://p17.qhimg.com/t01ac72e184bd191ac1.png" alt="有道云笔记" title="" /></a></div>
+<div class="alName"><a href="/appdetail.php?appID=100948&amp;f=p_wenjiao">有道云笔...</a></div>
+<div class="alMeta">85万次下载</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="mod" id="mTopic">
+<div class="mHd">
+<h3>专题推荐</h3>
+</div>
+<div class="mBd">
+<p><a href="/subject.php?catID=12307&amp;f=p_wenjiao" target="_blank"><img src="http://i.apps.sina.cn/recommend/68/ae/355ed030d24c61667f9d1f138990ae68211_105.png?t=11?t=11" /></a></p>
+<p>更新时间：2014-05-05<br />#懒人日记#懒得走路便发明了汽车，懒得做饭便有了方便食品。懒人无形之中创造了世界，而世界又滋养出新的懒人。都市的快节奏生活更让人身心疲惫，如果...</p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<a href="http://corp.sina.com.cn/chn/">新浪简介</a> |
+        <a href="http://corp.sina.com.cn/eng/">About Sina</a> |
+        <a href="http://emarketing.sina.com.cn/">广告服务</a> |
+        <a href="http://www.sina.com.cn/contactus.html">联系我们</a> |
+        <a href="http://career.sina.com.cn/">诚聘英才</a> |
+        <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> |
+        <a href="http://english.sina.com">SINA English</a> |
+        <a href="https://login.sina.com.cn/signup/signup.php">通行证注册</a> |
+        <a href="http://help.sina.com.cn/">产品答疑</a><br />Copyright © 1996-2013 SINA Corporation, All Rights Reserved</div>
+<div class="gotop"><a href="#" class="gotoptxt"></a></div>
+<div id="login_window" class="dialogWarp" style="display:none;">
+<div class="bg">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<div class="dialog">
+<div class="title">
+<span>登录</span>
+</div>
+<a id="login_close" class="W_close" title="关闭" href="#"></a>
+<p class="line"></p>
+<div class="content">
+<form id="login_form" method="get">
+<div class="inputArea">
+<span class="tt">登录名:&nbsp;</span>
+<span>
+<input id="login_name" type="text" class="u-input" value="" />
+</span>
+</div>
+<div class="inputArea">
+<span class="tt">密码:&nbsp;</span>
+<span>
+<input id="login_pwd" type="password" class="u-input" name="" placeholder="请输入密码" />
+</span>
+</div>
+<div id="login_code_area" class="inputArea" style="display:none;">
+<span class="tt">验证码:&nbsp;</span>
+<span>
+<input id="login_code" type="text" class="u-input" name="" style="width:100px;" /><img id="login_code_img" src="" alt="验证码" />
+</span>
+</div>
+<div id="login_vdun_area" class="inputArea" style="display:none;">
+<span class="tt">微盾动态码:&nbsp;</span>
+<span>
+<input id="login_vdun" type="text" class="u-input" name="" />
+</span>
+</div>
+<div class="inputArea">
+<span class="tt">&nbsp;</span>
+<span>
+<label for="savestate"><input type="checkbox" checked="checked" id="savestate" class="u-login" name="" /> 下次自动登录</label>
+                                                                            &nbsp; <a href="http://login.sina.com.cn/getpass.html?entry=app" title="找回密码">找回密码</a>
+</span>
+</div>
+<p class="err" id="login_msg" style="display:none;"></p>
+<div class="btn">
+<span class="keep"><input type="submit" name="" value=" 登&nbsp;录 " /></span>
+<span class="interval"></span>
+<span class="cancel"><input type="button" id="login_cancle" name="" value=" 取&nbsp;消 " /></span>
+</div>
+</form>
+</div>
+<p class="line"></p>
+<div class="d-login">还么有新浪通行证？<a href="http://login.sina.com.cn/signup/signup.php?entry=app&amp;r=http%3A%2F%2Fapp.sina.com.cn" title="立即注册">立即注册</a></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript" src="http://i.sso.sina.com.cn/js/ssologin.js" charset="utf-8"></script>
+<script type="text/javascript" src="/script/jquery.simplemodal.1.4.1.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/script/web_common.js?v=20130627" charset="utf-8"></script>
+<script src="/script/storm.js"></script>
+<script type="text/javascript">
+var appID=1412796;
+var reportTimer;
+$().ready(function(){
+    var oUl = document.getElementById('screenCont');
+    var aLi = oUl.getElementsByTagName('li');
+    var oBtn_Prev = document.getElementById('pBtnPrev');
+    var oBtn_Next = document.getElementById('pBtnNext');
+    var total=aLi.length;
+    var iNow = 0;
+    var i = '';
+
+    setBtn();
+    oBtn_Prev.onclick = function(){
+        if( iNow &gt; 0 ){
+            iNow--;
+            stormStartMove( oUl, { left: -((aLi[0].offsetWidth+28) * iNow ) }, STORM_MOVE_TYPE.BUFFER );
+            setBtn();
+        }
+    };
+    oBtn_Next.onclick = function(){
+        if( iNow &lt; total - 2 ){   // 动画的点击次数
+            iNow++;
+            stormStartMove( oUl, { left: -((aLi[0].offsetWidth+28) * iNow ) }, STORM_MOVE_TYPE.BUFFER );
+            setBtn();
+        }
+    };
+    function setBtn()
+    {
+        oBtn_Prev.className = (total==0 || iNow == 0) ? 'avcPrevNa' : 'avcPrev';
+        oBtn_Next.className = (total&lt;=2 || iNow == ( total - 2 )) ?  'avcNextNa' : 'avcNext';
+    }
+    
+    $("#description_more").click(function(){
+        $(this).hide();
+        $("#description_p").css("height",'auto');
+    });
+    $(".switch_basic").click(function(){
+        if($(this).hasClass("on"))return;
+
+        $(this).parent().find('li').removeClass("on");
+        $(this).addClass("on");
+
+        var i=$(this).index();
+        if(i==0){$("#basic_info").show();}else{$("#basic_info").hide();}
+        $("#cmt_page").html($("#cmt_page").html().replace(/(&amp;|\?)sc=\d(&amp;|")/g,"$1sc="+i+"$2"));
+    });
+    $("#rec_more").bind('click',recMore);
+    $("#sel_score a").bind("click",function(){doScore($(this))});
+    initAppReport();
+});
+
+function recMore()
+{
+    var total=$("#rec_list li").length;
+    var curIdx=$("#rec_list li:visible:last").index();
+    var newSIdx=(curIdx+1)&gt;=total?0:curIdx;
+    $("#rec_list li").css('display','none');
+    if(newSIdx==0)
+        $("#rec_list li:lt(6)").css("display","block");
+    else
+        $("#rec_list li:gt("+newSIdx+"):lt(6)").css("display","block");
+}
+function doScore(e)
+{
+    var score=e.index()+1;
+    $.ajax({
+        type:'post',
+        url:'/ajax_score.php',
+        data:'appID='+appID+'&amp;score='+score+'&amp;f=p_wenjiao',
+        dataType:'json',
+        success:function(result){
+            var msg=result.msg;
+            if(result.errno==4 || result.errno==5)
+            {
+                score=result.score;
+                $("#rating_box").html('&lt;span class="rateValueL"&gt;&lt;span class="rateStarL rateStarL-'+score+'"&gt;已评分&lt;/span&gt;&lt;/span&gt;');
+            }
+            else if(result.errno==1)
+                $("#login_btn").click();
+        }
+    });
+}
+function initAppReport()
+{
+    $("#report_close,#report_cancle").click(function(){closeReportModal();});
+    $("#report_do").bind("click",doReport);
+    $("#report_cont input[type=checkbox]").bind("click",function(){
+        $("#reporting_warning").hide();
+    });
+    $("#btn_report").bind("click",function(){$("#report_window").modal({opacity:60,overlayCss: {backgroundColor:"#000"}});});
+}
+function doReport()
+{
+    var types='';
+    $("#report_cont input[type=checkbox]").each(function(){
+            if($(this).attr("checked")=="checked")
+                types+=$(this).val()+",";
+        }
+    );
+    types=types.replace(/,$/,'',types);
+    if(types=="")
+    {
+        $("#reporting_warning").show();
+        return;
+    }
+
+    $("#report_cont").hide();
+    $("#report_msg").html("正在提交...");
+    $("#report_timer span:eq(0)").html(5);
+    $("#report_status").show("");
+    $.ajax({
+        type:'post',
+        url:'/ajax_report.php',
+        data:'appID='+appID+'&content;='+types+'&f;=p_wenjiao',
+        dataType:'json',
+        success:function(result){
+                $("#report_msg").html(result.msg);
+            },
+            error:function(){
+                $("#report_msg").html("亲，出问题了，稍后再试一下吧...");
+            },
+            complete:function(){
+                reportTimer=setInterval(function(){
+                    var s=parseInt($("#report_timer span:eq(0)").html());
+                    var sN=s-1;
+                    if(sN&lt;=0)
+                        closeReportModal();
+                    $("#report_timer span:eq(0)").html(sN);
+                },1000);
+            }
+    });
+}
+function closeReportModal()
+{
+    if(reportTimer)
+        clearInterval(reportTimer);
+    $.modal.close();
+}
+</script>
+</body>
+</html>

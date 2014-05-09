@@ -1,0 +1,174 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>首页-58推广</title>
+<link type="text/css" href="http://e.58.com/css/base.css" rel="stylesheet" />
+<link type="text/css" href="http://e.58.com/css/module.css" rel="stylesheet" />
+<link type="text/css" href="/css/e58.css?v=20140415" rel="stylesheet" />
+<script type="text/javascript" src="http://e.58.com/js/createElement-lte-IE8.js"></script>
+<script type="text/javascript" src="http://e.58.com/js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="http://e.58.com/js/js.js?v=20131211"></script>
+<script type="text/javascript" src="/js/getCookie.js"></script>
+<meta property="wb:webmaster" content="48cbb1901eacec51" />
+</head>
+<body>
+<!-- common begin-->
+<!--header-->
+<header id="header" class="mb0">
+<div id="topbar">
+<div class="w">
+<div id="logonew"><a href="http://e.58.com"><img src="http://e.58.com/images/logo2.gif" /></a></div>
+<div class="qiecity">
+<strong id="currentCity">北京</strong><span class="s1" onclick="$('#choosecity').show()">[切换城市]</span>
+<script>
+(function(){
+$("#currentCity").text(pickCityName(cookieUtil.get("city")));
+})();
+</script>
+<div id="choosecity" class="choose">
+<div class="choosemain">
+<div class="cctop">直销城市</div>
+<ul class="chooselist clearfix"><li><a href="javascript:void(0);">北京</a></li><li><a href="javascript:void(0);">上海</a></li><li><a href="javascript:void(0);">天津</a></li><li><a href="javascript:void(0);">广州</a></li><li><a href="javascript:void(0);">深圳</a></li><li><a href="javascript:void(0);">哈尔滨</a></li><li><a href="javascript:void(0);">武汉</a></li><li><a href="javascript:void(0);">石家庄</a></li><li><a href="javascript:void(0);">大连</a></li><li><a href="javascript:void(0);">沈阳</a></li><li><a href="javascript:void(0);">成都</a></li><li><a href="javascript:void(0);">苏州</a></li><li><a href="javascript:void(0);">南京</a></li><li><a href="javascript:void(0);">重庆</a></li><li><a href="javascript:void(0);">长沙</a></li><li><a href="javascript:void(0);">济南</a></li><li><a href="javascript:void(0);">青岛</a></li><li><a href="javascript:void(0);">郑州</a></li><div class="c"></div></ul>
+<div class="cctop">所有城市</div>
+<ul class="chooselist clearfix"><li><a href="javascript:void(0);">河北省</a></li><li><a href="javascript:void(0);">山东省</a></li><li><a href="javascript:void(0);">山西省</a></li><li><a href="javascript:void(0);">辽宁省</a></li><li><a href="javascript:void(0);">吉林省</a></li><li><a href="javascript:void(0);">黑龙江省</a></li><li><a href="javascript:void(0);">江苏省</a></li><li><a href="javascript:void(0);">浙江省</a></li><li><a href="javascript:void(0);">安徽省</a></li><li><a href="javascript:void(0);">江西省</a></li><li><a href="javascript:void(0);">河南省</a></li><li><a href="javascript:void(0);">湖北省</a></li><li><a href="javascript:void(0);">湖南省</a></li><li><a href="javascript:void(0);">福建省</a></li><li><a href="javascript:void(0);">广东省</a></li><li><a href="javascript:void(0);">广西</a></li><li><a href="javascript:void(0);">四川省</a></li><li><a href="javascript:void(0);">贵州省</a></li><li><a href="javascript:void(0);">云南省</a></li><li><a href="javascript:void(0);">陕西省</a></li><li><a href="javascript:void(0);">甘肃省</a></li><li><a href="javascript:void(0);">青海省</a></li><li><a href="javascript:void(0);">内蒙古</a></li><li><a href="javascript:void(0);">宁夏</a></li><li><a href="javascript:void(0);">新疆</a></li><li><a href="javascript:void(0);">海南省</a></li><li><a href="javascript:void(0);">西藏</a></li><div class="c"></div></ul>
+<span title="关闭" class="close"></span>
+<i class="arr"></i>
+</div>
+</div>
+</div>
+<p><a href="http://www.58.com" target="_blank">58首页</a><span class="m10">|</span><a href="http://my.58.com">客户登录</a></p>
+</div>
+</div>
+<!-- common end-->
+<nav class="nav">
+<ul>
+<li class="on"><a href="index.html">首页</a></li>
+<li><a href="zhaopin.html">招聘推广</a></li>
+<li><a href="fangchan.html">房产推广</a></li>
+<li><a href="cheliang.html">二手车推广</a></li>
+<li><a href="ershou.html">二手市场推广</a></li>
+<li><a href="chongwu.html">宠物推广</a></li>
+<li><a href="shenghuo.html">生活服务推广</a></li>
+<li><a href="contact.html" tongji_tag="e58index_contact" target="_blank">联系我们</a></li>
+</ul>
+</nav>
+</header>
+<div class="focus">
+<ul class="imglist">
+<li class="bg01 current"><img src="http://e.58.com/images/focus-img01.png" /><span><a href="http://e.58.com/register.html" tongji_tag="e58index_banner1" target="_blank">我要推广</a></span></li>
+<li class="bg02"><img src="http://e.58.com/images/focus-img02.png" /><span><a href="http://e.58.com/register.html" tongji_tag="e58index_banner2" target="_blank">我要推广</a></span></li>
+</ul>
+<div class="numlist"><span class="current"></span><span class=""></span></div>
+</div>
+<section id="container">
+<div class="ibody">
+<div class="imain">
+<div class="item">
+<div class="title"><h3>为什么选择58同城</h3></div>
+<ul class="list-adv">
+<li>高效的生活服务推广平台，58同城大品牌，口碑好，效果有保证！</li>
+<li>巨大的用户浏览量，带来海量的商机，众多商家在此成功推广。</li>
+<li>优质的推广顾问团队，热情为您提供专业的服务，轻轻松松做推广，生意不发愁。</li>
+<li>推广费用低，真真正正的花小钱办大事！</li>
+</ul>
+</div>
+<div class="item">
+<div class="title"><h3>在58同城，他们成功了</h3></div>
+<div class="ivideo">
+<div class="hot"><a href="sample/shipin/2.html"><img src="http://e.58.com/images/shipin2.jpg" /><span class="ico-play"></span><span class="txt">云海肴：四个80后的神奇创业之路</span></a></div>
+<ul>
+<li><a href="sample/shipin/1.html"><img src="http://e.58.com/images/shipin1.jpg" /><span class="ico-play"></span><span class="txt">幸福搬家：如何从小工做到大老板？</span></a></li>
+<li><a href="sample/shipin/3.html"><img src="http://e.58.com/images/shipin3.jpg" /><span class="ico-play"></span><span class="txt">夫妻齐心开公司，58帮忙成功快</span></a></li>
+<li><a href="sample/shipin/4.html"><img src="http://e.58.com/images/shipin4.jpg" /><span class="ico-play"></span><span class="txt">创富港：58助力新商业模式取得成功</span></a></li>
+<li><a href="sample/shipin/5.html"><img src="http://e.58.com/images/shipin5.jpg" /><span class="ico-play"></span><span class="txt">恒洋地产：在激烈的竞争中脱颖而出</span></a></li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="item probox">
+<div class="title"><h3>和他们一起，选择成功</h3><p class="ptab"><span href="#">招聘<i></i></span>/<span href="#">房产<i></i></span>/<span href="#">二手车<i></i></span>/<span href="#">二手市场<i></i></span>/<span href="#">宠物<i></i></span>/<span href="#">生活服务<i></i></span></p></div>
+<div class="procon">
+<div class="proinfo">
+<a href="sample/zhaopin/1.html" target="_blank"><img src="sample/zhaopin/images/anli01.jpg" /></a>
+<h3><a href="sample/zhaopin/1.html" target="_blank">看韵达快递如何破解“用工荒”</a></h3>
+<p>快递行业是一个人员流动比较大的地方，58同城能满足我们的人员流动需求，而且使用方便，求职者可以针对职位信息直接进行电话咨询，沟通非常方便。用58招聘员工速度非常快，非常节省时间。&nbsp;<a href="sample/zhaopin/index.html" target="_blank">查看更多&gt;&gt;</a></p>
+</div>
+<div class="proinfo">
+<a href="sample/fangchan/1" target="_blank"><img src="sample/fangchan/images/anli01.jpg" /></a>
+<h3><a href="sample/fangchan/1.html" target="_blank">我爱我家：大客户有大格局</a></h3>
+<p>公司在业界品牌度有了很大的提升，而且经纪人诚信经营的意识也得到了扭转，58同城在帮助房产市场规范方面迈出了一大步。&nbsp;<a href="sample/fangchan/index.html" target="_blank">查看更多&gt;&gt;</a></p>
+</div>
+<div class="proinfo">
+<a href="sample/cheliang/1.html" target="_blank"><img src="sample/cheliang/images/anli01.jpg" /></a>
+<h3><a href="sample/cheliang/1.html" target="_blank">大搜车</a></h3>
+<p>大搜车非常感谢58同城，希望能和58同城有更多，更紧密的合作。凭着大搜车：成就客户、求实创新、诚信负责、共同成长的核心理念，我们相信大搜车的明天会更加美好。&nbsp;<a href="sample/cheliang/index.html" target="_blank">查看更多&gt;&gt;</a></p>
+</div>
+<div class="proinfo">
+<a href="sample/ershou/1.html" target="_blank"><img src="sample/ershou/images/anli01.jpg" /></a>
+<h3><a href="sample/ershou/1.html" target="_blank">信城家具，没有实体店一样把生意做得红红火火</a></h3>
+<p>使用58推广业务后，每个月的成交量都持续增长，给我们带来了实在效益。现在，58同城每个月为我带来超过30个客户，为公司带来超过三万元的销售额。&nbsp;<a href="sample/ershou/index.html" target="_blank">查看更多&gt;&gt;</a></p>
+</div>
+<div class="proinfo">
+<a href="sample/chongwu/1.html" target="_blank"><img src="sample/chongwu/images/anli01.jpg" /></a>
+<h3><a href="sample/chongwu/1.html" target="_blank">金牌犬业：58帮我把年销售额提升了500万元</a></h3>
+<p>使用58同城推广服务后我们的客户访问电话量立即得到了提高，生意越来越多，公司由之前的10名员工增加到35名员工，年业务收入达到800万元。58为我带来了更多的客户和利润。&nbsp;<a href="sample/chongwu/index.html" target="_blank">查看更多&gt;&gt;</a></p>
+</div>
+<div class="proinfo">
+<a href="sample/shenghuo/1.html" target="_blank"><img src="sample/shenghuo/images/anli01.jpg" /></a>
+<h3><a href="sample/shenghuo/1.html" target="_blank">幸福搬家，从搬家小工到公司老总</a></h3>
+<p>现在网上找信息的人多，这促使我们找一个网络推广的方式，使用58后每天的来电量很多，我们又专门请了人接听电话。现在幸福搬家公司名下的搬家车已经超过100多辆了，58的推广，我觉得很可靠。&nbsp;<a href="sample/shenghuo/index.html" target="_blank">查看更多&gt;&gt;</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="iside">
+<div class="item">
+<div class="title"><h3>最新活动</h3></div>
+<div class="list-news">
+<ul>
+<li><a href="http://static.58.com/ds/huodong.html?from=e58" target="_blank">绑定微信马上获得免费刷新</a></li>
+<li><a href="http://hao.58.com" target="_blank">58同城“中国好商家”风云再起</a></li>
+<li><a href="http://vip.58.com/app/noticelist/?id=183" target="_blank">生活服务VIP会员可多区域发帖</a></li>
+</ul>
+</div>
+</div>
+<div class="item">
+<div class="title"><h3>别人都在用什么</h3></div>
+<div class="list-pro">
+<ul>
+<li><a href="all/jingzhun.html"><h2>精准推广</h2></a><p>最顶端的位置留给最需要的您</p></li>
+<li><a href="all/zhineng.html"><h2>智能推广</h2></a><p>省钱不费心的好推广</p></li>
+<li><a href="all/zhiding.html"><h2>置顶推广</h2></a><p>随时置顶，最适合临时推广需求</p></li>
+<li><a href="all/wanglintong.html"><h2>VIP网邻通</h2></a><p>VIP权限，提高形象效果好</p></li>
+</ul>
+</div>
+</div>
+<a class="icontactus" href="contact.html" tongji_tag="e58index_contact" target="_blank"></a>
+</div>
+<div class="clearfix"></div>
+</div>
+</section>
+<footer id="footer"><a href="http://about.58.com/home/">关于我们</a>|<a href="http://about.58.com/home/cooperation.html">合作洽谈</a>|<a href="/">推广服务</a>|<a href="http://about.58.com/hr/">加入我们</a></footer>
+<script type="text/javascript"> 
+var _gaq = _gaq || []; var site_name = "58"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', '360', 'q']); 
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://tracklog.58.com/referrer4.js"></script>
+<div class="goodselection"><a href="http://hao.58.com/" target="_blank"><img src="http://pic2.58.com/ds/other/adimg/goodshopadbg.jpg" alt="" /></a></div>
+</body>
+</html>
+<script type="text/javascript" src="/js/changeCity.js"></script>

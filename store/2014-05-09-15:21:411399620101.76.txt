@@ -1,0 +1,229 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="gb2312" />
+<title>龙湖好望山-新浪乐居</title>
+<meta name="Keywords" content="龙湖好望山,龙湖好望山楼盘,龙湖好望山业主论坛,新浪乐居" />
+<meta name="Description" content="新浪乐居提供北京龙湖好望山最新消息、价格、地址、户型、点评、图片、视频、地图、配套、样板间、业主论坛、二手房、实景图，尽在新浪乐居" />
+<meta name="URL" content="" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<link href="http://data.house.sina.com.cn/css/201309/base.css" rel="stylesheet" type="text/css" />
+<link href="http://data.house.sina.com.cn/css/201309/common.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+    var pictype = "12";
+    (function(w){
+        w.pageInfo = {
+            city: "bj",
+            citycode: "bj",
+            hid:"89432",
+            hname:"龙湖好望山",
+            fid : "1408680553673917",
+            salestate : "1",
+            houseid : "105900",
+            phone_extension: "80977",
+            rooturl : "http://data.house.sina.com.cn",
+            dp_typeid : "1688987299217477",
+            qa_typeid : "1688987299217481",
+            uid : "",
+            shoulouchu_weiboid:"5069141516"
+        }
+    })(window);
+</script>
+</head>
+<body class="c_trun_off">
+<div class="c_head_wrap">
+<div class="c_header">
+<ul>
+<li><a href="http://data.house.sina.com.cn/bj89432/pic/" title="全部图片"><span>全部图片</span><i></i></a></li>
+<li class="current"><a href="http://data.house.sina.com.cn/bj89432/slide/5094012/" title="图解看房"><span>图解看房</span><i></i></a></li>
+<li><a href="http://data.house.sina.com.cn/bj89432/slide/4985938/" title="社区实景"><span>社区实景</span><i></i></a></li>
+<li><a href="http://data.house.sina.com.cn/bj89432/slide/3405420/" title="户型图"><span>户型图</span><i></i></a></li>
+<li><a href="http://data.house.sina.com.cn/bj89432/slide/3211941/" title="位置图"><span>位置图</span><i></i></a></li>
+<li><a href="http://data.house.sina.com.cn/bj89432/slide/4988633/" title="周边配套"><span>周边配套</span><i></i></a></li>
+<li><a href="http://data.house.sina.com.cn/bj89432/slide/3366795/" title="样板间"><span>样板间</span><i></i></a></li>
+<li><a href="http://data.house.sina.com.cn/bj89432/slide/4985939/" title="效果图"><span>效果图</span><i></i></a></li>
+<li><a href="http://data.house.sina.com.cn/bj89432/slide/5002547/" title="规划图"><span>规划图</span><i></i></a></li>
+</ul>
+<a class="trun_pics" href="http://data.house.sina.com.cn/bj89432/pic/" title="返回楼盘相册" target="_blank">返回楼盘相册&gt;&gt;</a>
+</div>
+<!-- c_header E -->
+</div>
+<!-- c_head_wrap E -->
+<div class="c_focus_tit">
+<h2>龙湖好望山 图解看房   （共 <em>1</em>/<span>17</span>张）<span>上传时间：2014-04-23</span></h2>
+</div>
+<!-- c_focus_tit E -->
+<div class="c_focus">
+<div class="c_focus_control_bg">
+<div class="link_wrap">
+<div id="link_yb" class="link_yb" href="javascript:void(0)" style="display:none;">查看该样板间户型                	<ul id="list_yb" class="h_list clearfix none">
+</ul>
+</div>
+</div>
+<div class="c_focus_control">
+<a id="phone_look" class="phone_look" href="javascript:void(0)" title="手机看图"><span>手机看图</span></a>
+<div id="phone_img" style="box-shadow: 3px 3px rgba(0, 0, 0, 0.09);height: 212px;left: 285px;position: absolute;top: 34px;width: 192px;z-index: 99999;" class="h_ewm_box none">
+<div class="sj" style="background: url('http://data.house.sina.com.cn/images/201203/h_sj.png') no-repeat scroll left top rgba(0, 0, 0, 0);height: 6px;left: 63px;position: absolute;top: -5px;width: 10px;z-index: 99999;"></div>
+<img lsrc="http://data.house.sina.com.cn/images/201203/192x212.png" />
+</div>
+<a id="auto_play" class="auto_play" href="javascript:void(0)" title="自动播放"><span>自动播放</span></a>
+<a id="stop_play" class="auto_play" href="javascript:void(0)" title="停止播放" style="display:none"><span>停止播放</span></a>
+<select id="selectTime" name="">
+<option value="10">10秒</option>
+<option value="20">20秒</option>
+<option value="30">30秒</option>
+</select>
+<a class="prev" href="" title="上一页"><span>上一页</span></a>
+<a class="next" href="http://data.house.sina.com.cn/bj89432/slide/5094011/" title="下一页"><span>下一页</span></a>
+<a class="look_pic" href="http://data.house.sina.com.cn/bj89432/picture/5094012/" title="查看原图"><span>查看原图</span></a>
+<!-- 开头灯切换body上的class类，c_trun_off为关，c_turn_on 为开 -->
+<a id="close_lamp" class="close_lamp" href="#" title="关灯" style="display:none"><span>关灯</span></a>
+<a id="open_lamp" class="close_lamp" href="#" title="开灯"><span>开灯</span></a>
+</div>
+</div>
+<!-- tit E -->
+<!-- floor_select E -->
+<div class="c_focus_house">
+<div class="big_pic">
+<div id="arrow">
+<a class="prev none" id="prevBtn" href="" title="上一张">上一张</a>
+<a class="next none" id="nextBtn" href="http://data.house.sina.com.cn/bj89432/slide/5094011/" title="下一张">下一张</a>
+</div>
+<div class="img_box" style="height:600px;width: 930px;">
+<img alt="" lsrc="http://src.house.sina.com.cn/imp/imp/deal/37/1d/0/dd692d969c98ea9047b4b1d160b_p7_mk7_wm47.jpg" id="show_pic" style="width:930px;" />
+</div>
+</div>
+<!-- big_pic E -->
+<div class="small_pic small_pic1">
+<div class="pics pics_l">
+<div class="col1"></div>
+<div class="col2"></div>
+<div class="col3">
+<a class="link_bg" href="http://data.house.sina.com.cn/bj89432/slide/5094012/">图解看房 <br />（共17张）</a>
+<img lsrc="http://src.house.sina.com.cn/imp/imp/deal/37/1d/0/dd692d969c98ea9047b4b1d160b_p7_mk7_ose37876_qa1_cm120X90.jpg" alt="" width="110" height="82" />
+</div>
+</div>
+<!-- pics E -->
+<a class="prev" href="" title="上一张">上一张</a>
+<a class="next" href="http://data.house.sina.com.cn/bj89432/slide/5094011/" title="下一张">下一张</a>
+<div class="ul_box">
+<ul>
+<li class="cur">
+<div class="pics">
+<div class="col1"></div><div class="col2"></div><div class="col3"><a href="http://data.house.sina.com.cn/bj89432/slide/5094012/"><img lsrc="http://src.house.sina.com.cn/imp/imp/deal/37/1d/0/dd692d969c98ea9047b4b1d160b_p7_mk7_ose37876_qa1_cm120X90.jpg" alt="" width="110" height="82" /></a><span class="img_tip">图解看房共17张</span></div>
+</div>
+<p><a target="_blank" title="" href="http://data.house.sina.com.cn/bj89432/slide/5094012/">图解看房  潮白河高端别墅庄园 立体交通配套独特 (17张)</a></p>
+</li>
+</ul>
+</div>
+<div class="pics pics_r">
+<div class="col1"></div>
+<div class="col2"></div>
+<div class="col3">
+<a class="link_bg" href="http://data.house.sina.com.cn/bj89432/slide/4985938/">社区实景 <br />（共8张）</a>
+<img lsrc="http://src.house.sina.com.cn/imp/imp/deal/bc/30/7/01a53d82a7d14ce29c5bc4f1973_p7_mk7_os790371_qa1_cm120X90.jpg" alt="" width="110" height="82" />
+</div>
+</div>
+<!-- pics E -->
+</div>
+<!-- small_pic E -->
+</div>
+<!-- c_focus_house E -->
+</div>
+<!-- c_focus E -->
+<script type="text/javascript" src="http://imgcdn.house.sina.com.cn/2.0/data.house/script/LET_loupan.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://imgcdn.house.sina.com.cn/2.0/data.house/script/imgshow.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://imgcdn.house.sina.com.cn/2.0/data.house/script/tab.js" charset="utf-8"></script>
+<script src="http://imgcdn.house.sina.com.cn/2.0/data.house/script/vectorbox.js"></script>
+<script type="text/javascript" src="http://imgcdn.house.sina.com.cn/2.0/data.house/script/dropbox.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://imgcdn.house.sina.com.cn/2.0/data.house/script/layout.js"></script>
+<script type="text/javascript">
+    var winload = new LET.superLazy({
+    elems:LET.getElementsByAttribute("img[lsrc]").concat(LET.getElementsByAttribute("iframe[lsrc]")),
+    funeles:[],
+    container:window,
+    islock:false,
+    ondataload:function(self,node){
+		var src = !+"\v1" ? node['lsrc'] : node.getAttribute('lsrc');
+		node.setAttribute("src",src);
+		node.removeAttribute("lsrc");
+    }
+});
+</script>
+<script type="text/javascript">
+LET.changeMap([], 'http://src.house.sina.com.cn/imp/imp/deal/37/1d/0/dd692d969c98ea9047b4b1d160b_p7_mk7_wm47_qa9.jpg', 930, 600);
+(function(){
+    LET.addEvent('sachWeiMi', "click", function(e) {
+        LET.removeNode('sachWeiMi');
+    });
+})();
+function wbQR() {
+    var imgAttr = LET.getElementsByClassName('houseQRcode', 'img', null);
+    if (imgAttr.length &gt; 0) {
+        if (window.pageInfo.shoulouchu_weiboid == '' || window.pageInfo.shoulouchu_weiboid == 0) {
+            return;
+        } else {
+            LET.ajax({
+                url: 'http://data.house.sina.com.cn/api/qrcode.php',
+                method: 'GET',
+                data: {
+                    hid: window.pageInfo.hid,
+                    site: window.pageInfo.city
+                },
+                htmlResponseListener: function(data) {
+                    if (data) {
+                        for (var imgI = 0; imgI &lt; imgAttr.length; imgI++) {
+                            imgAttr[imgI].setAttribute("src", data);
+                        }
+                    }
+
+                }
+            });
+        }
+    } else {
+        return;
+    }
+}
+wbQR();
+</script>
+<script id="c_pop_pictype" type="text/html">
+&lt;div class="c_pop"&gt;
+    &lt;div class="bg"&gt;&lt;/div&gt;
+    &lt;div class="con"&gt;
+        &lt;div class="conT"&gt;
+            &lt;div class="pic"&gt;
+                &lt;a target="_blank" title="" href=""&gt;&lt;img alt="" src="" height="58" width="78"&gt;&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;p class="col1"&gt;龙湖好望山   &lt;span&gt;已经浏览至最后一页&lt;/span&gt;&lt;/p&gt;
+            &lt;p class="col2"&gt;
+                &lt;a title="重新浏览" href="" class="restart"&gt;&lt;span&gt;重新浏览&lt;/span&gt;&lt;/a&gt;
+                &lt;a title="开始浏览(10秒)" href="" class="restart_time"&gt;&lt;span&gt;开始浏览(&lt;span id="ten_sec"&gt;10秒&lt;/span&gt;)&lt;/span&gt;&lt;/a&gt;
+                &lt;a title="返回楼盘相册" href="http://data.house.sina.com.cn/bj89432/pic/" class="re_trun"&gt;返回楼盘相册&lt;/a&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="conB"&gt;
+            &lt;h3&gt;大家都在看&lt;/h3&gt;
+            &lt;ul&gt;
+                            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a title="关闭" href="javascript:void(0)" class="closed"&gt;关闭&lt;/a&gt;
+&lt;/div&gt;
+</script>
+<script id="c_pop_pictao" type="text/html">
+&lt;div class="c_pop c_pop1"&gt;
+		&lt;div class="bg"&gt;&lt;/div&gt;
+		&lt;div class="con conT"&gt;
+				&lt;p class="col1"&gt; 图解看房   共17张图解看房 &lt;span&gt;已经浏览至最后一页&lt;/span&gt;&lt;/p&gt;
+				&lt;p class="col2"&gt;
+					&lt;a title="重新浏览本套户型" href="" class="restart"&gt;&lt;span&gt;重新浏览&lt;/span&gt;&lt;/a&gt;
+					&lt;a title="继续浏览其他户型图" href="" class="restart_time"&gt;&lt;span&gt;继续浏览其他&lt;/span&gt;&lt;/a&gt;
+				&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;a title="关闭" href="javascript:void(0)" class="closed" id="tips_close"&gt;关闭&lt;/a&gt;
+	&lt;/div&gt;
+</script>
+<script src="http://traffic.house.sina.com.cn/qita_3i3r_tag.js" type="text/javascript"></script>
+</body>
+</html>

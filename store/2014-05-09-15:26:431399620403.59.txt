@@ -1,0 +1,330 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>编辑修改_新浪游戏下载中心_新浪网</title>
+<link href="http://games.sina.com.cn/z/css/1280base.css" type="text/css" rel="stylesheet" />
+<link href="http://games.sina.com.cn/z/css/1281main.css" type="text/css" rel="stylesheet" />
+<script src="http://www.sinaimg.cn/gm/hd/hpct/2013/1029/down/classie.js"></script>
+<!--[if IE 6]&gt;
+&lt;script src="http://i1.sinaimg.cn/gm/ol/zlk/my/DD_belatedPNG_0.0.8a.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+DD_belatedPNG.fix('a.etv .ico, img');
+DD_belatedPNG.fix('a.egamelc .ico, img');
+DD_belatedPNG.fix('a.pcglc .ico, img');
+&lt;/script&gt;
+&lt;![endif]-->
+<style>
+.searchbox2{ width:552px; height:40px; margin-left:214px; z-index:99;}
+.searchbox2 .sleft{ width:548px;height:36px; background:#fff; float:left;border:2px solid #21a4ff;}
+.searchbox2 .sleft .texta{ width:462px; float:left; height:32px; line-height:34px;border:0;color:#888888; font-size:14px; text-indent:5px;}
+.searchbutton2{ width:82px; float:right;font-size:16px;height:37px; line-height:23px; cursor:pointer; font-family:'微软雅黑'; background:#21a4ff; text-align:center; color:#fff; border:0}
+#standard_header_return_new {display:none;}
+</style>
+</head>
+<body>
+<!-- for iPad begin -->
+<script type="text/javascript">
+    (function(){
+    	if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+    	var iPadScript = document.createElement("script");
+    	iPadScript.src = "http://news.sina.com.cn/js/ui/ipad/reset.js";
+    	document.getElementsByTagName("head")[0].appendChild(iPadScript);
+    })();
+    </script>
+<!-- for iPad end -->
+<div id="Ghead"><script language="javascript" src="http://games.sina.com.cn/import/zq/head.js"></script></div>
+<div class="dhead">
+<div id="topfixed">
+<div class="dbanner">
+<a href="http://games.sina.com.cn/download/" class="logo"></a>
+<div class="searchbox2">
+<div class="sleft">
+<form method="GET" action="http://games.sina.com.cn/import/248/2010/0920/46.shtml" target="_blank">
+<div class="slist"><input type="image" class="searchbutton2" src="http://www.sinaimg.cn/gm/hd/hpct/2013/1105/bt.gif" value="" /><input id="kwd" type="text" class="texta" name="kwd" onmouseover="this.focus()" onfocus="this.select()" onclick="this.value=''" value="请输入游戏名称" /></div>
+</form>
+</div>
+</div>
+<a href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://v.t.sina.com.cn/share/share.php?',u=z||d.location,p=['url=',e('http://games.sina.com.cn/download'),'&amp;title=',('新浪游戏下载中心：全球最大中文游戏下载基地，超过10万条精彩实用免费游戏下载内容，提供高速游戏下载免费服务，最全最多专业游戏下载资料站！'),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'来源','来源地址','','标题|默认当前页标题','内容链接|默认当前页location','页面编码gb2312|utf-8默认gb2312'));" class="weibo" id="weibo"></a>
+</div>
+</div>
+<div class="dnav-wrap">
+<div class="dnav">
+<span><a href="http://zq.games.sina.com.cn/ol/" target="_blank">网络游戏</a></span>
+<span><a href="http://games.sina.com.cn/pc/" target="_blank">单机游戏</a></span>
+<span><a href="http://games.sina.com.cn/m/" target="_blank">手机游戏</a></span>
+<span><a href="http://games.sina.com.cn/vg/" target="_blank">电玩游戏</a></span>
+<span><a href="http://roll.games.sina.com.cn/downlist_new/yxdt1/index.shtml" target="_blank">电竞地图</a></span>
+<span><a href="http://roll.games.sina.com.cn/downlist_new/jlcd/index.shtml" target="_blank">电竞录像</a></span>
+<span><a href="http://roll.games.sina.com.cn/downlist_new/bjxg/index.shtml" target="_blank">补丁修改器</a></span>
+<span><a href="http://roll.games.sina.com.cn/downlist_new/yxgj/index.shtml" target="_blank">游戏工具</a></span>
+<span><a href="http://ka.sina.com.cn/" target="_blank">新手卡</a></span>
+</div>
+</div>
+</div>
+<div class="content">
+<div class="left">
+<div class="tab location">
+        	下载中心 <span class="color2">&gt;&gt;</span> <span class="color1">编辑修改下载</span>
+</div>
+<div class="down_arr" style="display:block;">
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148764.shtml" class="title">黑暗之魂2 七项属性的修改器Yello版</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/DS27TrYello.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：54KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-08</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148763.shtml" class="title">曙光 Daylight 两项属性的游戏修改器</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/Daylight2Tr.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：3340KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-08</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148762.shtml" class="title">逃生：告密者 一项属性修改 适用64位</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/OWh1TrX64.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：3150KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-08</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148761.shtml" class="title">逃生：告密者 一项属性修改 适用32位</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/OW1TX86.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：3380KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-08</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148760.shtml" class="title">监狱建筑师 v20四项修改器MrAntiFun</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/PAA204TMAFun.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：3690KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-08</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148752.shtml" class="title">像素海盗 v0.6四项修改器MrAntiFun版</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/PP064TMrAntiFun.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：3850KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-07</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148751.shtml" class="title">特技摩托：聚变 1.0五项修改 WindOSX</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/TF5TrWindOSX.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：3940KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-07</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148750.shtml" class="title">奇迹时代3 1.1.0 CE多项修改脚本汉化</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/AW3110CENRe.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：6KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-07</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148749.shtml" class="title">神奇蜘蛛侠2 v1.0四项属性修改器AD版</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/TAS2104TAD.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：2670KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-07</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148748.shtml" class="title">上古卷轴5 项目渲染优化v1.6 汉化版</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/SSPO140502mod.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：191KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-07</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148730.shtml" class="title">生化危机6 1.0.6七项修改器MrAntiFun</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/RE61067MAF.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：4140KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-06</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148729.shtml" class="title">黑暗之魂2 PS3存档修改 适用Xbox360</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/DS2SETJ88.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：9660KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-06</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148728.shtml" class="title">黑暗之魂2 v1.0.1 35项修改器MaxTre</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/DS2v10135TMT.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：4740KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-06</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148727.shtml" class="title">黑暗之魂2 v1.0.2 十六项修改器AD版</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/DS210216AD.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：2640KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-06</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148726.shtml" class="title">黑暗之魂2 v1.02修改器22项MrAntiFun</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/DS210222TAF.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：3790KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-06</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148698.shtml" class="title">黑暗之魂2 电影风格 SweetFX ENB整合</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/D2ESFX2140429enb.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：1180KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-05</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148697.shtml" class="title">特技摩托：聚变 语言选择器SKIDROW版</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/TFLSSKIDROW.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：2460KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-05</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148696.shtml" class="title">黑暗之魂2 DarkSouls2暖色调画质补丁</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/D2hot140428a.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：3KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-05</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148695.shtml" class="title">黑暗之魂2 游戏SweetFX画质增强补丁</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/DS2SweetFX.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：429KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-05</span>
+</div>
+</div>
+<div class="edownbox">
+<div class="title">
+<div class="pcg">单机游戏</div>
+<a href="http://games.sina.com.cn/d/e/pc/148694.shtml" class="title">黑暗之魂2 游戏ENB画质的优化 v0.253</a><span></span>
+</div>
+<div class="disc">
+<a href="http://updata.games.sina.com.cn/updata/2010/edit/DS2W140427ENB.rar" class="ftr">点击下载</a> <span class="f12" style="padding-left:0;">大小：851KB</span>
+<span class="f12" style="border-right:none;">更新时间：2014-05-05</span>
+</div>
+</div>
+<div class="pages" style="margin-top: 45px;">
+<span class="pagebox_pre_nolink">上一页</span><span class="pagebox_num_nonce">1</span><span class="pagebox_num"><a href="./index_2.shtml">2</a></span><span class="pagebox_num"><a href="./index_3.shtml">3</a></span><span class="pagebox_num"><a href="./index_4.shtml">4</a></span><span class="pagebox_num"><a href="./index_5.shtml">5</a></span><span class="pagebox_next"><a title="下一页" href="./index_2.shtml">下一页</a></span><span class="pagebox_next"><a title="下5页" href="./index_10.shtml">下5页</a></span>
+<div style="clear:both;"></div>
+</div>
+</div>
+<!--down_arr   1   end-------------------------------->
+</div>
+<div class="right" style="border-top:none;">
+<div class="esportlink">
+<a class="etv" href="http://zq.games.sina.com.cn/ol/" target="_blank"><span class="ico"></span><span class="text">网络游戏专区<br />产品库汇总</span></a>
+<a class="egamelc" href="http://top.sina.com.cn/" target="_blank"><span class="ico"></span><span class="text">网络游戏<br />评测排行榜</span></a>
+<a class="pcglc" href="http://kan.sina.com.cn/download/" target="_blank"><span class="ico"></span><span class="text">网络游戏<br />直播软件下载</span></a>
+</div>
+<iframe border="0" marginwidth="0" scrolling="no" marginheight="0" src="http://games.sina.com.cn/iframe/tmpltxt/gl/329.shtml" frameborder="no" width="330" height="1640" allowtransparency="allowtransparency"></iframe>
+</div>
+</div>
+<!-- FOOT--------------------------------------->
+<div id="Foot">
+<div class="Foot_t">
+<div class="Foot_left">
+<script src="http://games.sina.com.cn/down/lm/j/kb/13049.js"></script>
+</div>
+<div class="Foot_right">
+<a href="http://games.sina.com.cn/download/" target="_blank" title="" class="Foot_logo"></a>
+<div class="Foot_share">
+<span>分享页面到：</span>
+<a rel="nofollow" href="javascript:void((function(s,d,e){try{}catch(e){}var%20f='http://v.t.sina.com.cn/share/share.php?',u=d.location.href,p=['url=',e(u),'&amp;title=',e(d.title),'&amp;appkey=1392530042'].join('');function a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=620,height=450,left=',(s.width-620)/2,',top=',(s.height-450)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent)){setTimeout(a,0)}else{a()}})(screen,document,encodeURIComponent));"><img src="http://www.sinaimg.cn/gm/hd/hpct/2013/1029/down/foot_4.gif" alt="分享到新浪微博" border="0" /></a>
+<a href="javascript:void(0)" onclick="{ var _t = encodeURI(document.title);  var _url = encodeURI(window.location); var _appkey = '333cf198acc94876a684d043a6b48e14'; var _site = encodeURI; var _pic = ''; var _u = 'http://v.t.qq.com/share/share.php?title='+_t+'&amp;url='+_url+'&amp;appkey='+_appkey+'&amp;site='+_site+'&amp;pic='+_pic; window.open( _u,'转播到腾讯微博', 'width=700, height=580, top=180, left=320, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );  };"><img border="0" alt="" /></a>
+<a href="javascript:(function(){window.open('http://t.163.com/article/user/checkLogin.do?link=http://news.163.com/&amp;source='+'土豆网'+ '&amp;info='+encodeURIComponent(document.title)+' '+encodeURIComponent(location.href),'_blank','width=510,height=300');})()" title="分享到网易微博"><img src="http://www.sinaimg.cn/gm/hd/hpct/2013/1029/down/foot_5.gif" alt="网易微博分享" border="0" /></a>
+<a href="javascript:d=document;t=d.selection?(d.selection.type!='None'?d.selection.createRange().text:''):(d.getSelection?d.getSelection():'');void(kaixin=window.open('http://www.kaixin001.com/~repaste/repaste.php?&amp;rurl='+escape(d.location.href)+'&amp;rtitle='+escape(d.title)+'&amp;rcontent='+escape(d.title),'kaixin'));kaixin.focus();"><img src="http://www.sinaimg.cn/gm/hd/hpct/2013/1029/down/foot_10.gif" alt="转贴到开心网" /></a>
+<a href="javascript:void((function(s,d,e){if(/xiaonei\.com/.test(d.location))return;var%20f='http://share.xiaonei.com/share/buttonshare.do?link=',u=d.location,l=d.title,p=[e(u),'&amp;title=',e(l)].join('');function%20a(){if(!window.open([f,p].join(''),'xnshare',['toolbar=0,status=0,resizable=1,width=626,height=436,left=',(s.width-626)/2,',top=',(s.height-436)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent));"><img src="http://www.sinaimg.cn/gm/hd/hpct/2013/1029/down/foot_7.gif" alt="分享到校内人人网" /></a>
+<a href="javascript:share.qqZone();" title="" class="qqZone"></a>
+<a href="javascript:u=location.href;t=document.title;c = %22%22 + (window.getSelection ? window.getSelection() : document.getSelection ? document.getSelection() : document.selection.createRange().text);var url=%22http://cang.baidu.com/do/add?it=%22+encodeURIComponent(t)+%22&amp;iu=%22+encodeURIComponent(u)+%22&amp;dc=%22+encodeURIComponent(c)+%22&amp;fr=ien#nw=1%22;window.open(url,%22_blank%22,%22scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes%22); void 0"><img src="http://www.sinaimg.cn/gm/hd/hpct/2013/1029/down/foot_9.gif" alt="百度搜藏" /></a>
+</div>
+<div class="Foot_search">
+<span>搜索需要的资料：</span>
+<div class="search_ss">
+<form name="GET" action="http://top.sina.com.cn/ios/search" onsubmit="return search_games();">
+<input class="anv_text" type="text" name="key" id="key" onmouseover="this.focus()" onfocus="this.select()" onclick="this.value=''" value="输入资料关键字..." />
+<input name="input" class="anv_button" type="submit" value="" />
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="Gtrail" class="trail">
+<div style="text-align:center; font-size:12px; margin:0 auto;">
+<div id="ZWTrail">
+<script language="javascript" src="http://games.sina.com.cn/pub/tail.js"></script>
+</div>
+</div>
+</div>
+<div class="FuDongAll">
+<div class="FuDong">
+<a href="#top" class="FuDong_top" title="返回顶部"></a>
+</div>
+</div>
+</body>
+</html>

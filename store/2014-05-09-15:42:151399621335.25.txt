@@ -1,0 +1,1856 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【香港二手自行车转让|香港二手电动车转让】- 香港58同城</title>
+<meta name="description" content="自行车/电动车频道为您提供香港二手自行车、香港二手电动车信息，严格审核保证香港二手自行车、香港二手电动车信息真实性，是您交易香港二手自行车、香港二手电动车的最佳选择。" />
+<meta name="keywords" content="香港二手自行车转让,香港二手电动车转让" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css?v=20130910" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/ershou/list-eui7.css?version=20130530" media="all" />
+<!-- =S 脚本这个由 脚本组负责 这个路径为暂时的 -->
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<!-- createElement-lte-IE8.js 该脚本只针对IE8及以下版本浏览器 -->
+<!-- =E -->
+<script type="text/javascript">try {
+        var ____json4fe = {"catentry":[{"dispid":"4","name":"车辆买卖与服务","listname":"car"},{"dispid":"240","name":"自行车/电动车","listname":"zixingche"}],"locallist":[{"dispid":"2050","name":"香港","listname":"hk"}],"start":(new Date()).getTime(),"modules":"list"};
+        ____json4fe.version = 'A';
+        ____json4fe.modules = 'listpage';
+        ____json4fe.smsc = 'ce882233f1f0d86e0d8904951bf21cddf0a0df2d44cc325a108ffc2e3644ba8ac7cd2bdbafaa7fa5fd5840f8a5fd996edf029cd3275580c27930bd60b7fc37e446d5145ee78b1d66';
+    } catch (e) {
+    }
+    ;</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';
+    var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2', '2050', '');
+    win1.setSearchButton('searchbtn1');
+    boot.require('util.cookie', function (Frame, cookie) {
+        cookie.set('city', 'hk');
+    });</script>
+<style>
+	    /*2014-1-16 相关搜索 by hezc*/
+		.RelatedSearch{ border:1px solid #E1E1E1; font-size:14px; padding:10px 5px;line-height:25px;  margin-bottom:15px;}
+		.RelatedSearch dt{ float:left; width:88px; text-align:right;font-weight:700;line-height:25px;}
+		.RelatedSearch dd{ float:right; width:720px;}.RelatedSearch dd a{ display:inline-block;width:140px;line-height:25px;}
+		#list_left_zhuti{border:1px solid #E1E1E1; margin-bottom:10px; padding:15px;}
+		#list_left_zhuti div{ margin-left:-55px; height:110px;}
+    </style>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/hk/zixingche" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/hk/zixingche" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/hk/zixingche" />
+</head>
+<body>
+<script type="text/javascript">
+    var hasXiaobao = ""
+</script>
+<!-- =S topbar -->
+<div id="topbar"></div>
+<script type="text/javascript">boot.require('business.topbar', function (Frame, topbar) {
+    topbar.init();
+});</script>
+<!-- =E topbar -->
+<!-- =S header -->
+<header id="header">
+<span class="logo">
+<a href="/" target="_blank"><img src="http://pic2.58.com/images/logonew.gif" title="到58同城首页" alt="58同城" /></a>
+</span>
+<!-- =S 面包屑导航 -->
+<div class="nav">
+<a href="/">香港58同城</a>
+<cite></cite><a href="/car.shtml">香港车辆买卖与服务</a>
+<cite></cite><a href="/zixingche/">香港二手自行车/电动车</a>
+</div>
+<!-- =E 面包屑导航 -->
+<span class="fr mt10">
+<a href="http://post.58.com/2050/240/s5" class="postBtn" target="_blank" rel="nofollow"></a>
+</span>
+</header>
+<!-- =E header -->
+<!-- S 推广广告 -->
+<div id="ad_d12" class="cripic"></div>
+<!-- E 推广广告 -->
+<!-- =S selection -->
+<section id="selection">
+<!-- =S 搜索结果 -->
+<script type="text/javascript">
+    $("#searchtree .selectbar1 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+
+    $("#searchtree .selectbar2 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+</script>
+<!-- =E 搜索结果 -->
+<div class="pb15">
+<dl class="secitem">
+<dt>类别 ：</dt>
+<dd zwname="类别" zwnameid="1442">
+<a class="select" href="/zixingche/" data-finalurl="/zixingche/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/fzixingche/" href="http://hk.58.com/fzixingche/">自行车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/diandongche/" href="http://hk.58.com/diandongche/">电动车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/sanlunche/" href="http://hk.58.com/sanlunche/">三轮车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/peijianzhuangbei/" href="http://hk.58.com/peijianzhuangbei/">配件/装备</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/laoniandaibu/" href="http://hk.58.com/laoniandaibu/">老年代步车</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>价格 ：</dt>
+<dd zwname="价格" zwnameid="6106">
+<a class="select" href="/zixingche/" data-finalurl="/zixingche/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zixingche/pve_6106_0_300/" href="http://hk.58.com/zixingche/pve_6106_0_300/">300元以下</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zixingche/pve_6106_301_500/" href="http://hk.58.com/zixingche/pve_6106_301_500/">300-500元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zixingche/pve_6106_501_1000/" href="http://hk.58.com/zixingche/pve_6106_501_1000/">500-1000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zixingche/pve_6106_1001_2000/" href="http://hk.58.com/zixingche/pve_6106_1001_2000/">1000-2000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zixingche/pve_6106_2001_3000/" href="http://hk.58.com/zixingche/pve_6106_2001_3000/">2000-3000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zixingche/pve_6106_3001_5000/" href="http://hk.58.com/zixingche/pve_6106_3001_5000/">3000-5000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zixingche/pve_6106_5001_999999/" href="http://hk.58.com/zixingche/pve_6106_5001_999999/">5000元以上</a>
+<span class="prifilter">
+<span class="text text2"><input type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /></span>
+<span class="dev"> - </span>
+<span class="dev text text2"><input class="mr5" type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /> 元   </span>
+<span class="btn btn2" style="display:none"><input type="button" value="价格筛选" onclick="b_query()" /></span>
+</span>
+<script type="text/javascript">
+                        $(document).ready(function () {
+                            //text控件事件
+                            $(".prifilter input:text").click(function () {
+                                $(".prifilter input:button").parent().show();
+                                return false;
+                            });
+
+                            //button控件事件
+                            $(".prifilter input:button").click(function () {
+                                return false;
+                            });
+
+                            //body控件事件
+                            $(document.body).click(function () {
+                                $(".prifilter input:button").parent().hide();
+                            });
+                        });
+                    </script>
+</dd>
+</dl>
+<!--S 显示区域 -->
+<dl class="secitem">
+<dt>区域 ：</dt>
+<dd zwnameid="quyu" zwname="区域">
+<a href="/zixingche/" data-finalurl="/zixingche/" class="select">全香港</a>
+<a href="/jiulongcheng/zixingche/" data-finalurl="/jiulongcheng/zixingche/">九龙城</a>
+<a href="/zhongxi/zixingche/" data-finalurl="/zhongxi/zixingche/">中西</a>
+<a href="/dongqu/zixingche/" data-finalurl="/dongqu/zixingche/">东区</a>
+<a href="/guantang/zixingche/" data-finalurl="/guantang/zixingche/">观塘</a>
+<a href="/wanzai/zixingche/" data-finalurl="/wanzai/zixingche/">湾仔</a>
+<a href="/shatian/zixingche/" data-finalurl="/shatian/zixingche/">沙田</a>
+<a href="/tunmen/zixingche/" data-finalurl="/tunmen/zixingche/">屯门</a>
+<a href="/quanwan/zixingche/" data-finalurl="/quanwan/zixingche/">荃湾</a>
+<a href="/huangdaxian/zixingche/" data-finalurl="/huangdaxian/zixingche/">黄大仙</a>
+<a href="/lidao/zixingche/" data-finalurl="/lidao/zixingche/">离岛</a>
+<a href="/xianggang/zixingche/" data-finalurl="/xianggang/zixingche/">其它</a>
+</dd>
+</dl>
+<!--E 显示区域 -->
+<!-- =S header-search -->
+<div class="sale_search sale_search1 clearfix_z" id="SearchForm">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<span class="search_input"><input class="but-wd" value="输入类别或关键字" maxlength="40" onkeyup="win1.GetContentData();" onclick="if(this.value=='输入类别或关键字')this.value=''" onblur="if(this.value=='')this.value='输入类别或关键字'" fdv="" id="keyword1" name="b_q" para="key" autocomplete="off" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="submit" id="searchbtn1" class="search_on" value="搜本类" onclick="return searchword_filter();" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="button" value="搜全站" onclick="if(searchword_filter())b_query_all();" /></span>
+</form>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#keyword1").keydown(function () {
+            $("#keyword1").attr("style", "color: rgb(0, 0, 0);"); //黑色
+        });
+    });
+
+    function searchword_filter() {
+        if ($("#keyword1").attr("value") == "输入类别或关键字") {
+            $("#keyword1").attr("style", "color: rgb(153, 153, 153);"); //灰色
+            //$("#keyword1").focus(); $("#keyword1").select();
+            return false;
+        }
+
+        return true;
+    }
+</script>
+<!-- =E header-search -->
+</div>
+<!-- =S 底部搜索结果 -->
+<!--  &lt;dl class="secitem"&gt;&lt;div id ="highlightline" class="line highlight"&gt;&lt;div id="selected" class="bar"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/dl&gt; -->
+<div class="selectResult clearfix" id="selected" style="display: none;"></div>
+</section>
+<!-- =E selection -->
+<!--S 百强县 -->
+<!--E 百强县 -->
+<!-- =S tabsbar -->
+<div class="tabsbar">
+<a class="sel" href="http://hk.58.com/zixingche/"><h1>香港二手自行车/电动车</h1></a>
+<a rel="nofollow" class="pubtopright" target="_blank" href="http://dingyue.58.com/ershou/shenqing">二手市场推广，加入会员即送1000元！</a>
+</div>
+<!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix">
+<!-- =S infolist 左侧列表主体 -->
+<div id="infolist" class="cleft">
+<!-- =S filterbar -->
+<div class="filterbar">
+<table cellspacing="0" cellpadding="0" class="tbfilter">
+<colgroup>
+<col />
+<col class="w100" />
+</colgroup>
+<tr class="bg">
+<td>
+<div class="caty">
+<a class="geren active" name="b_link" para="custom" cl="/zixingche/?rb=1" data-finalurl="/zixingche/" href="/zixingche/">
+                            全部
+                        </a>
+<a class="geren" data-finalurl="/zixingche/0/" href="/zixingche/0/">
+                        个人
+                    </a>
+<a class="shangjia" data-finalurl="/zixingche/1/" href="/zixingche/1/">
+                        商家
+                    </a>
+</div>
+<span class="checkbox"><input name="" type="checkbox" value="" id="ispic" onclick="click_Ispic(this)" /><label for="ispic">只看有图</label></span>
+<span class="checkbox"><input type="checkbox" id="isonline" /><label for="isonline" class="isonline">帮帮在线</label></span>
+</td>
+<!-- =S 排序功能 -->
+<td class="sort" colspan="2">
+<div class="sort_wrap">
+<span class="default  active"><a href="http://hk.58.com/zixingche/" rel="nofollow">默认排序</a></span>
+<span class="time "><a href="http://hk.58.com/zixingche/?sort=sortid_desc" rel="nofollow">按时间</a></span>
+<span class="sort_price">
+<a href="http://hk.58.com/zixingche/?sort=minprice_asc" rel="nofollow">按价格</a>
+</span>
+</div>
+</td>
+<!-- =E 排序功能 -->
+</tr>
+</table>
+</div>
+<!-- =E filterbar -->
+<!-- =S 查询搜索无结果补充信息  -->
+<!-- =E 查询搜索无结果补充信息  -->
+<!-- =S top_google_ad -->
+<div id="top_google_ad"></div>
+<!-- =E top_google_ad  -->
+<!-- =S 头部精准推广显示 -->
+<!-- =E 头部精准推广显示 -->
+<div id="hoverinfo">
+<!-- =S 显示搜索无结果补充信息  -->
+<!-- =E 显示搜索无结果补充信息  -->
+<table class="tbimg" cellpadding="0" cellspacing="0">
+<col class="" />
+<col />
+<col class="w100" />
+<tr logr="p_1_21895635026182_17354545272835_0_1_0">
+<td class="img"><a href="http://hk.58.com/zixingche/17354545272835x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12184103433982503164.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/zixingche/17354545272835x.shtml" target="_blank" class="t" tips="tips">
+                                Sprintello自行赛车</a>
+<span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+             							                                     前轮被偷，所以出售。其余部分保养的很好。有兴趣的可以给我发邮件。xsf…
+                            			            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/zixingche/">其它</a><span> - </span>
+<a class="c_666" href="/yuanlang/zixingche/">元朗</a>
+                            
+                            &nbsp;/ 03-23
+            			</span>
+<span name="zaixian_21895635026182"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                        </span>
+</td>
+<td class="tc">
+<b class="pri">150</b> 元        </td>
+</tr>
+<tr logr="p_0_21409012067334_17163296583557_0_0_0">
+<td class="img"><a href="http://hk.58.com/zixingche/17163296583557x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s12159624784040945163.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/zixingche/17163296583557x.shtml" target="_blank" class="t" tips="tips">
+                                20吋潮流別注版摺車</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+             							                                     日本SHIMANO 6變速器
+型格鮮紫色車身
+20吋輪呔，座位及手…
+                            			            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/zixingche/">香港</a>
+                            
+                            &nbsp;/ 03-06
+            			</span>
+<span name="zaixian_21409012067334"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">860</b> 元        </td>
+</tr>
+<tr logr="p_1_219458588166_17012210679557_0_1_0">
+<td class="img"><a href="http://hk.58.com/zixingche/17012210679557x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12140273697524115065.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/zixingche/17012210679557x.shtml" target="_blank" class="t" tips="tips">
+                                全新锂电车厂家内部员工价批发零售。诚招石岩街道经销</a>
+<span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+             							                                     朋友，找电动车吗、我家有交警不抓的电动自行车。可以跑45公里哦，从龙华…
+                            			            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/quanwan/zixingche/">荃湾</a>
+                            
+                            &nbsp;/ 02-20
+            			</span>
+<span name="zaixian_219458588166"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                        </span>
+</td>
+<td class="tc">
+<b class="pri">1370</b> 元        </td>
+</tr>
+<tr logr="p_1_5030112061446_16746304936839_0_1_0">
+<td class="img"><a href="http://hk.58.com/zixingche/16746304936839x.shtml" target="_blank"><img src="http://3.pic.58control.cn/p1/tiny/n_s02106247931694893144.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/zixingche/16746304936839x.shtml" target="_blank" class="t" tips="tips">
+                                实体店铺长期出售:全新电动单车▊交警不查▊有店铺+</a>
+<span class="ico ntu" title="">[16图]</span>
+<i class="clear"></i>
+             							                                     绝对真实 全新 有店铺 有保修 不超标 可折叠 可搬上楼充电+放车 可…
+                            			            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/jiulongcheng/zixingche/">九龙城</a>
+                            
+                            &nbsp;/ 01-27
+            			</span>
+<span name="zaixian_5030112061446"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                        </span>
+</td>
+<td class="tc">
+<b class="pri">880</b> 元        </td>
+</tr>
+<tr>
+<td class="dev" colspan="5">周边地区相关信息</td>
+</tr>
+<tr logr="b_0_23935703_17859792624386_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17859792624386x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s02248759217375116066.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17859792624386x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        自用V刹铝合金21速山地车转让</a><span class="ico area">
+</span><span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                     							                                     此车朋友自用，让我帮忙转让，现在放我家太占地方，希望转给合适的人。
+…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_23935703"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">380</b> 元                 </td>
+</tr>
+<tr logr="b_1_5654413269254_17849903566595_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17849903566595x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12247508329450198083.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17849903566595x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        不敢用铅酸电动车了,交警又查•又重•又大,又上不了</a><span class="ico area">
+</span><span class="ico ntu" title="">[18图]</span>
+<i class="clear"></i>
+                     							                                     
+传统的流通环节:厂家--厂家业务员--代理商--分销商--批发商—…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-07
+            		</span>
+<span name="zaixian_5654413269254"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1500</b> 元                 </td>
+</tr>
+<tr logr="b_0_19501132467718_17825564276746_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17825564276746x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12244390285674898064.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17825564276746x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        转让Trek SL1000公路自行车</a><span class="ico area">
+</span><span class="ico ntu" title="">[19图]</span>
+<i class="clear"></i>
+                     							                                     代友出Trek SL1000公路自行车，车架56cm，图片实拍，价格2…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-06
+            		</span>
+<span name="zaixian_19501132467718"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">2500</b> 元                 </td>
+</tr>
+<tr logr="b_1_22558531790086_17871072722049_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17871072722049x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250217316209289164.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17871072722049x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        低价9成新电动车(龟车 骠骑 迅鹰 巧格,福喜,鬼</a><span class="ico area">
+</span><span class="ico ntu" title="">[14图]</span>
+<i class="clear"></i>
+                     							                                     价格《600至800至1000元》低价9成新电动车(龟车 骠骑 迅鹰 …
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 59分钟
+            		</span>
+<span name="zaixian_22558531790086"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">680</b> 元                 </td>
+</tr>
+<tr logr="b_1_14439362289415_17869696289799_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17869696289799x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250041258741436135.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17869696289799x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        转行清仓,全新26寸倒刹死飞自行车,40mm升级款</a><span class="ico area">
+</span><span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+                     							                                     数量不多了 最后几十台车子！特价甩卖
+支持货到付款交易，运费20元一…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 3小时
+            		</span>
+<span name="zaixian_14439362289415"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">380</b> 元                 </td>
+</tr>
+<tr logr="b_1_22110374194438_17869763101953_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17869763101953x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250049678396667103.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17869763101953x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        可玩 可代步 最新款自平衡电动独轮车</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                     							                                     图片与实物有些许差距，性能与描叙完全一样。本店是PATGEAR电动滑板…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 3小时
+            		</span>
+<span name="zaixian_22110374194438"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1799</b> 元                 </td>
+</tr>
+<tr logr="b_1_22110374194438_17869687412106_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17869687412106x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250040012753519095.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17869687412106x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        高人气 高品质 BYA412折叠自行车 代驾必备</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                     							                                     经典14寸小轮车，整车重仅8.5公斤，适合1.35米-1.85身高骑行…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 3小时
+            		</span>
+<span name="zaixian_22110374194438"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1604</b> 元                 </td>
+</tr>
+<tr logr="b_0_19761672602118_16210385194246_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/16210385194246x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12247456295275159094.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/16210385194246x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        九成新死飞车低价转让</a><span class="ico area">
+</span><span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                     							                                     因个人原因要离开深圳，有一辆买了2个月的死飞车不方便带走低价转让，我花…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 2小时
+            		</span>
+<span name="zaixian_19761672602118"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">260</b> 元                 </td>
+</tr>
+<tr logr="b_1_22637789651463_17871480012680_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17871480012680x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250270902504642113.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17871480012680x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        诚信出售品牌大小龟王及骠骑电动车,证照齐有发票,性</a><span class="ico area">
+</span><span class="ico ntu" title="">[11图]</span>
+<i class="clear"></i>
+                     							                                      九成新电动车.品种多质量没的说.，60v的大电池电池很能跑,5个月后…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 6分钟
+            		</span>
+<span name="zaixian_22637789651463"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">600</b> 元                 </td>
+</tr>
+<tr logr="b_1_6963611622150_17871002438919_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17871002438919x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250208075366933006.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17871002438919x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        折叠淑女自行车 20寸细管 卡飞建大轮胎 24寸淑</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     							                                     折叠淑女自行车 20寸细管 卡飞建大轮胎 24寸淑女折叠6速 成本价格…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 1小时
+            		</span>
+<span name="zaixian_6963611622150"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">556</b> 元                 </td>
+</tr>
+<tr logr="b_0_22996796490247_17859435527046_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17859435527046x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12248728585621963154.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17859435527046x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        转让一辆99新捷安特山地自行车ATX790</a><span class="ico area">
+</span><span class="ico ntu" title="">[6图]</span>
+<i class="clear"></i>
+                     							                                     捷安特山地自行车ATX790，原厂配置，搭配最新的27速变速系统。油压…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 2小时
+            		</span>
+<span name="zaixian_22996796490247"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1305</b> 元                 </td>
+</tr>
+<tr logr="b_1_5460474637318_17870244225922_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17870244225922x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250110957111335063.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17870244225922x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        全新折叠休闲电动车自行车低价销售,电池取出充电</a><span class="ico area">
+</span><span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+                     							                                     类别：电动车
+类型：折叠电动车
+品牌：其它
+成色：全新
+尺寸：…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 2小时
+            		</span>
+<span name="zaixian_5460474637318"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">700</b> 元                 </td>
+</tr>
+<tr logr="b_1_15918830593798_17869907478914_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17869907478914x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250068976289308054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17869907478914x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        佳音仓库经营铝架24速780元27速980元指拨3</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     							                                     
+佳音车行仓库经营、支持快递货到付款：五月莺语流啭，风轻云淡·低碳走…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 3小时
+            		</span>
+<span name="zaixian_15918830593798"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">780</b> 元                 </td>
+</tr>
+<tr logr="b_1_46751519_17869634878602_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17869634878602x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250031133298316133.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17869634878602x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        限时抢购 全新山地车 27速 超轻铝架 锁死可调前</a><span class="ico area">
+</span><span class="ico ntu" title="">[20图]</span>
+<i class="clear"></i>
+                     							                                     全新 
+27速 双碟刹 超轻铝架 锁死可调前叉 昆腾快拆花鼓 培林中…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 4小时
+            		</span>
+<span name="zaixian_46751519"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">950</b> 元                 </td>
+</tr>
+<tr logr="b_0_22906465028615_17869231160579_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17869231160579x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12249973318437926096.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17869231160579x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        9成新,种类多,价格低,质量优、诚信好,7天包退包</a><span class="ico area">
+</span><span class="ico ntu" title="">[9图]</span>
+<i class="clear"></i>
+                     							                                     ​碟刹新款。车子无任何刮痕，性能很好！前后真空胎,前后碟刹, 款式漂亮…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 4小时
+            		</span>
+<span name="zaixian_22906465028615"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">700</b> 元                 </td>
+</tr>
+<tr logr="b_1_22160152161031_17868900087690_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17868900087690x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12249939942850613006.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17868900087690x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        龙华坂田大浪以及各地区交警不查的锂电车厂家批发</a><span class="ico area">
+</span><span class="ico ntu" title="">[20图]</span>
+<i class="clear"></i>
+                     							                                     近年，由于全球呼吁低碳、环保的生活概念，从而锂电电动车吸引了广大消费者…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 5小时
+            		</span>
+<span name="zaixian_22160152161031"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1500</b> 元                 </td>
+</tr>
+<tr logr="b_0_22973236358662_17858245528322_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17858245528322x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12248574437836475066.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17858245528322x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        因手头紧张自用不到一年的九成新美利达挑8山地车低价</a><span class="ico area">
+</span><span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                     							                                     车子呢是很好的，买了还不到一年，买回来也很少骑，只是偶尔出去锻炼身体，…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_22973236358662"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1089</b> 元                 </td>
+</tr>
+<tr logr="b_1_22637789651463_17868734407425_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17868734407425x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12249918372104109073.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17868734407425x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        骠骑 小帅哥 雅迪 爱玛 绿源 手续齐全 实地看车</a><span class="ico area">
+</span><span class="ico ntu" title="">[13图]</span>
+<i class="clear"></i>
+                     							                                     因超压造成的损坏不予保修）、控制器在正常使用下非人为损坏的一年内予以换…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 6小时
+            		</span>
+<span name="zaixian_22637789651463"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">600</b> 元                 </td>
+</tr>
+<tr logr="b_1_22702285597703_17868771681290_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17868771681290x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12249925323442139065.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17868771681290x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        急转14款捷安特xtc820高配置双碟刹山地车</a><span class="ico area">
+</span><span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+                     							                                     急转14款捷安特xtc820高配置双碟刹山地车,带发票正品 要的速度来…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 5小时
+            		</span>
+<span name="zaixian_22702285597703"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1000</b> 元                 </td>
+</tr>
+<tr logr="b_1_22702285597703_17868748378243_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17868748378243x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12249921707659518154.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17868748378243x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        急转14款捷安特ATX870高配置双碟刹山地车</a><span class="ico area">
+</span><span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+                     							                                     急转14款捷安特ATX870高配置双碟刹山地车，正品可试车， 送码表 …
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 6小时
+            		</span>
+<span name="zaixian_22702285597703"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1000</b> 元                 </td>
+</tr>
+<tr logr="b_0_22973236358662_17858184332041_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17858184332041x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12248566209466345135.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17858184332041x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        诚心转让自用还不到五个月的九成新60V代步绿源,非</a><span class="ico area">
+</span><span class="ico ntu" title="">[6图]</span>
+<i class="clear"></i>
+                     							                                     车子用了还不到五个月， 9成新， 样子比较时尚大方，电池是原装的60伏…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_22973236358662"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1078</b> 元                 </td>
+</tr>
+<tr logr="b_0_22991342441990_17825502031107_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17825502031107x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12244379968621110085.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17825502031107x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        廉价转让银白色三轮车</a><span class="ico area">
+</span><span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                     							                                     低价转让一个三轮车，车子可以用来搬运小型货物，非常方便，稳定性能好，安…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 6小时
+            		</span>
+<span name="zaixian_22991342441990"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1960</b> 元                 </td>
+</tr>
+<tr logr="b_1_22110374194438_17863096514049_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17863096514049x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12249197996900926014.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17863096514049x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        高人气 高品质 P8 SP8 折叠自行车</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                     							                                     美国大行自行车专卖店。欢迎来店体验试骑。地址：福田皇岗村北公交站台（会…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 18小时
+            		</span>
+<span name="zaixian_22110374194438"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">2998</b> 元                 </td>
+</tr>
+<tr logr="b_1_22110374194438_17861964612486_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17861964612486x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s02249049401148587034.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17861964612486x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        PATGEAR电动滑板车 代驾必备</a><span class="ico area">
+</span><span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                     							                                     欢迎来店体验试骑。地址：福田皇岗村北公交站台（会展中心正对面）下车即到…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 20小时
+            		</span>
+<span name="zaixian_22110374194438"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">4899</b> 元                 </td>
+</tr>
+<tr logr="b_0_21142314786823_17864315043082_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17864315043082x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12249351272074133113.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17864315043082x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        厂家直销,质量保证,货真价实,买车看配置</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                     							                                     
+ 车型： 山地自行车 
+
+
+型号--X-DEMA420油碟…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 15小时
+            		</span>
+<span name="zaixian_21142314786823"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1466</b> 元                 </td>
+</tr>
+<tr logr="b_1_22637789651463_17863756041730_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17863756041730x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12249283170813159033.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17863756041730x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        60v20AH电池,刹车灵敏,骑行十分舒适,带电机</a><span class="ico area">
+</span><span class="ico ntu" title="">[13图]</span>
+<i class="clear"></i>
+                     							                                      最新款最眩目电摩低价急转,款式大方,价格从优,质量保证,手续齐全.诚…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 16小时
+            		</span>
+<span name="zaixian_22637789651463"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">600</b> 元                 </td>
+</tr>
+<tr logr="b_0_13369624558855_17830626018824_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17830626018824x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s02245031913489597016.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17830626018824x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        8成新捷安特ATX770,原价2500,因本人即将</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                     							                                     工作时间5点半以后及周六周日均可预约看车；另有考研书籍及吉他转让，欢迎…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 20小时
+            		</span>
+<span name="zaixian_13369624558855"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1250</b> 元                 </td>
+</tr>
+<tr logr="b_1_22110374194438_17859003064329_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17859003064329x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s02248673530974371135.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17859003064329x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        代步神器 CXM车小秘电动独轮车</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                     							                                     本店是PATGEAR电动滑板车深圳总代理，车小秘自平衡独轮车深圳总代理…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_22110374194438"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">2150</b> 元                 </td>
+</tr>
+<tr logr="b_0_21572877777159_17846692983814_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17846692983814x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/mobile/tiny/n_s12247092385910893134.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17846692983814x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        转让自用八成新电动车</a><span class="ico area">
+</span><span class="ico ntu" title="">[2图]</span>
+<i class="clear"></i>
+                     							                                     车子是自己上下班用的、因工作需要调离外地用不着车子`现在低价转让,车子…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_21572877777159"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">888</b> 元                 </td>
+</tr>
+<tr logr="b_1_12729818640390_17638247615361_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17638247615361x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12238677844854092024.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17638247615361x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        《中信车行》电动车大车商,全新二手电动车实体店优惠</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     							                                     中信车行大型电动车行，全新，二手电动车长期出售，欢迎实地来我们车行挑选…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 19小时
+            		</span>
+<span name="zaixian_12729818640390"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1380</b> 元                 </td>
+</tr>
+<tr logr="b_0_52951086_17692452521602_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17692452521602x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12227329945815960105.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17692452521602x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        刚买不到一个月 9成新 灰鼠折叠单车 便宜买现价4</a><span class="ico area">
+</span><span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                     							                                     刚买不到一周 9.9成新 灰鼠折叠单车单车很坚实，几乎没骑过的样子 由…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_52951086"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">400</b> 元                 </td>
+</tr>
+<tr logr="b_1_22637789651463_17861652783754_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17861652783754x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12249013994440768084.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17861652783754x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        质量保证,手续齐全.诚信转让,车大都是近2个月的车</a><span class="ico area">
+</span><span class="ico ntu" title="">[14图]</span>
+<i class="clear"></i>
+                     							                                     60v的大电池电池很能跑,5个月后36个月内予以维修（因超压造成的损坏…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 21小时
+            		</span>
+<span name="zaixian_22637789651463"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">700</b> 元                 </td>
+</tr>
+<tr logr="b_0_22134192891654_17852092330625_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17852092330625x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250263381377795005.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17852092330625x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        半价转让 美利达勇士系列山地车(有票据)</a><span class="ico area">
+</span><span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                     							                                     本人即将离开深圳.转让自己上班用的美利达山地车.型号是勇士310H.买…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 13分钟
+            		</span>
+<span name="zaixian_22134192891654"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">740</b> 元                 </td>
+</tr>
+<tr logr="b_1_22839667365126_17860411344897_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17860411344897x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s02248854814851929013.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17860411344897x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        双业电子G4款电动自行车 山地车</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                     							                                     乐骐G4功能描述：车架材质：26寸铝合金折叠车架减振:四连杆前后减振高…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_22839667365126"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">3000</b> 元                 </td>
+</tr>
+<tr logr="b_0_22900391343110_17870711442825_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17870711442825x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s02250173022276828125.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17870711442825x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        原装原配没有修理过.款式漂亮,时尚,艳丽,车身完好</a><span class="ico area">
+</span><span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+                     							                                     ​ 九成新电动车.品种多质量没的说.，60v的大电池,充满电能跑60公…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 1小时
+            		</span>
+<span name="zaixian_22900391343110"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">600</b> 元                 </td>
+</tr>
+<tr logr="b_1_22637789651463_17859329174794_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17859329174794x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12248715729273988025.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17859329174794x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        低价急转9成新最新款骠骑 雅马哈,,手续齐全. 实</a><span class="ico area">
+</span><span class="ico ntu" title="">[14图]</span>
+<i class="clear"></i>
+                     							                                     ，60v的大电池,充满电能跑60公里，液压备震，正新轮胎,有备用电源开…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_22637789651463"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">600</b> 元                 </td>
+</tr>
+<tr logr="b_0_22996796490247_17828061117699_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17828061117699x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12244710861361090144.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17828061117699x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        转让一辆女士踏板60伏20按的电动车</a><span class="ico area">
+</span><span class="ico ntu" title="">[3图]</span>
+<i class="clear"></i>
+                     							                                     转让今年刚买不到3个月的全新60V20A豪华大容量名牌电动车,1月份刚…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_22996796490247"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">908</b> 元                 </td>
+</tr>
+<tr logr="b_1_22928096162310_17870259778562_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17870259778562x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250069925875593124.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17870259778562x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        超实惠的九五成新电动车,手续集全,款式新颖</a><span class="ico area">
+</span><span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                     							                                     超实惠的九五成新电动车,心动价格,手续齐全原装款式,前后真空胎动力强品…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 2小时
+            		</span>
+<span name="zaixian_22928096162310"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">705</b> 元                 </td>
+</tr>
+<tr logr="b_0_23042462109703_17869972840711_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17869972840711x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s02250078840753599123.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17869972840711x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        高配全新捷安特 XTC 790 山地车,油压碟刹。</a><span class="ico area">
+</span><span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                     							                                     高配全新捷安特 XTC 790 山地车,油压碟刹。
+自用 外貌全新,…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 3小时
+            		</span>
+<span name="zaixian_23042462109703"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1500</b> 元                 </td>
+</tr>
+<tr logr="b_1_15918830593798_17858393941386_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17858393941386x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12248595541021152156.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17858393941386x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        佳音车行、山地指拨380元禧玛诺套件DIY个性支持</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     							                                     
+佳音车行仓库经营、支持快递货到付款：五月莺语流啭，风轻云淡·低碳走…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_15918830593798"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">380</b> 元                 </td>
+</tr>
+<tr logr="b_0_22969784182534_17814636505345_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17814636505345x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s02242995388760520003.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17814636505345x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        优惠出售一辆二手的新日电动车</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                     							                                     60v的新日外观还相当漂亮，车子性能也是不错的，手感很好，平稳有劲，电…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 4小时
+            		</span>
+<span name="zaixian_22969784182534"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">990</b> 元                 </td>
+</tr>
+<tr logr="b_1_6963611622150_17858167466633_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17858167466633x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12248560291988155015.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17858167466633x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        死飞转让 大量库存 低价转让零售26寸死飞活飞 另</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     							                                     死飞转让 大量库存 低价转让零售26寸死飞活飞 另有20寸折叠自行车 …
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_6963611622150"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">446</b> 元                 </td>
+</tr>
+<tr logr="b_0_22902137683718_17824511374214_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17824511374214x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s02244258000392349133.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17824511374214x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        低价急转一款安尔达60v男装电动单车</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                     							                                     车子刚从车库推出来擦了擦，买回来几个月的时间骑了没几次，和刚买的没任何…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 5小时
+            		</span>
+<span name="zaixian_22902137683718"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">820</b> 元                 </td>
+</tr>
+<tr logr="b_0_16424390479878_17861568973574_11_0_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17861568973574x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12249003639835498115.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17861568973574x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        新年初买的台铃36V锂电车转让,马力十足,耐跑是其</a><span class="ico area">
+</span><span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                     							                                     可电话咨询，整车无可挑剔，想买准新车的人机会难得，只要1150元人民蓖…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 4小时
+            		</span>
+<span name="zaixian_16424390479878"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1150</b> 元                 </td>
+</tr>
+<tr logr="b_1_46751519_17857773596042_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17857773596042x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12248515604859723095.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17857773596042x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        全新折叠山地车380元 20寸折叠车180元起</a><span class="ico area">
+</span><span class="ico ntu" title="">[19图]</span>
+<i class="clear"></i>
+                     							                                     这款代步车 
+很抢手。连卖5年，质好价优，款式多,折叠方便，出行更方…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/zixingche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_46751519"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">180</b> 元                 </td>
+</tr>
+<tr logr="b_1_22160152161031_17868855982722_11_1_0">
+<td class="img"><a href="http://sz.58.com/zixingche/17868855982722x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12249933835997672156.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/zixingche/17868855982722x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        龙华隐形锂电车厂家批发各种高档锂电车龙华工厂仓库总</a><span class="ico area">
+</span><span class="ico ntu" title="">[20图]</span>
+<i class="clear"></i>
+                     							                                     可以人力骑行 也可以电力驱动 人力电力并动特点：方便快捷、轻便灵活、无…
+                            			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/zixingche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/zixingche/">罗湖</a>
+                                                &nbsp;/ 5小时
+            		</span>
+<span name="zaixian_22160152161031"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1500</b> 元                 </td>
+</tr>
+</table>
+<!-- =E tbimg/tbtxt -->
+<!-- =S 底部精准推广显示 -->
+<!-- =E 底部精准推广显示 -->
+<!-- =S bottom_google_ad -->
+<div id="guanggao"> <div id="taobao"></div>
+<div id="bottom_google_ad"></div>
+</div>
+<!-- =E bottom_google_ad -->
+</div>
+<!-- =S pager -->
+<div class="pager">
+<strong><span>1</span></strong>
+</div>
+<!-- =E pager -->
+<!-- =S infocont -->
+<div id="infocont" class="infocont">
+   		共 <span style="color: red"><b>4</b></span> 条信息，
+       <a href="http://post.58.com/2050/240/s5" target="_blank" class="pubbtn" rel="nofollow">马上发布一条香港二手自行车/电动车信息&raquo;</a>
+</div>
+<!-- =S RelatedSearch 相关搜索 -->
+<!-- =E RelatedSearch 相关搜索 -->
+<!--商业产品 广告-->
+<div id="bottom_zhaoshangjiameng_ad"></div>
+<!-- =E infocont -->
+</div>
+<!-- =E infolist 左侧列表主体 -->
+<!-- =S rightframe 右侧广告 -->
+<div id="rightframe">
+<!--见面交易 E-->
+<div id="ad19"></div>
+</div>
+<!-- =E rightframe 右侧广告 -->
+</section>
+<!-- =E main -->
+<!-- =S 智能推广 -->
+<div id="direct_ad_bottom"></div>
+<!-- =E 智能推广 -->
+<!-- =S 底部广告 -->
+<div id="ad_b14"></div>
+<!-- =E 底部广告 -->
+<!-- =S #links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S relate 相关信息 -->
+<dl class="linksItem relate" id="relate">
+<dt class="b-left">
+<h2>香港自行车/电动车相关信息</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="/zixingche/jh_%E4%BA%8C%E6%89%8B%E8%87%AA%E8%A1%8C%E8%BD%A6/">二手自行车</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E relate 相关信息 -->
+<!-- =S relatelink -->
+<dl class="linksItem relatelink" id="relatelink">
+<dt class="b-left">
+<h2>香港自行车/电动车品牌导航</h2></dt>
+<dd class="b-right">
+<dl id="relateSelect" class="relateSelect">
+<dt><span>A</span></dt>
+<dd>
+<a href="http://hk.58.com/aima/" target="_blank">二手爱玛电动车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手爱玛自行车转让/" target="_blank">二手爱玛自行车转让</a>
+</dd>
+<dt><span>B</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_二手宝马自行车转让/" target="_blank">二手宝马自行车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手邦德电动车转让/" target="_blank">二手邦德电动车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手邦德自行车转让/" target="_blank">二手邦德自行车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手比德文电动车转让/" target="_blank">二手比德文电动车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手比德文自行车转让/" target="_blank">二手比德文自行车转让</a>
+</dd>
+<dt><span>C</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_二手场地自行车转让/" target="_blank">二手场地自行车转让</a>
+</dd>
+<dt><span>D</span></dt>
+<dd>
+<a href="http://hk.58.com/dahang/" target="_blank">二手大行自行车转让</a>
+<a href="http://hk.58.com/diandongzixingche/" target="_blank">二手电动自行车转让</a>
+<a href="http://hk.58.com/diandongmotuoche/" target="_blank">二手电动摩托车转让</a>
+<a href="http://hk.58.com/diandongguanguangche/" target="_blank">二手电动观光车转让</a>
+<a href="http://hk.58.com/daguiwang/" target="_blank">二手大龟王电动车转让</a>
+<a href="http://hk.58.com/diandongsanlunche/" target="_blank">二手电动三轮车转让</a>
+<a href="http://hk.58.com/diandongchekongpeijian/" target="_blank">二手电动车配件转让</a>
+<a href="http://hk.58.com/diandongchedianchi/" target="_blank">二手电动车电池转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手迪卡侬自行车转让/" target="_blank">二手迪卡侬自行车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手大行电动车转让/" target="_blank">二手大行电动车转让</a>
+</dd>
+<dt><span>E</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>F</span></dt>
+<dd>
+<a href="http://hk.58.com/fenghuangzxc/" target="_blank">二手凤凰自行车转让</a>
+<a href="http://hk.58.com/feige/" target="_blank">二手飞鸽自行车转让</a>
+<a href="http://hk.58.com/fushida/" target="_blank">二手富士达电动车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手富士达自行车转让/" target="_blank">二手富士达自行车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手飞鸽电动车转让/" target="_blank">二手飞鸽电动车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手凤凰电动车转让/" target="_blank">二手凤凰电动车转让</a>
+</dd>
+<dt><span>G</span></dt>
+<dd>
+<a href="http://hk.58.com/gongluzixingche/" target="_blank">二手公路自行车转让</a>
+</dd>
+<dt><span>H</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>I</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>J</span></dt>
+<dd>
+<a href="http://hk.58.com/jieante/" target="_blank">二手捷安特自行车转让</a>
+<a href="http://hk.58.com/jiema/" target="_blank">二手捷马自行车转让</a>
+<a href="http://hk.58.com/jieanteddc/" target="_blank">二手捷安特电动车转让</a>
+<a href="http://hk.58.com/jieanteddc/" target="_blank">二手捷安特电动车转让</a>
+<a href="http://hk.58.com/jiaotasanlunche/" target="_blank">二手脚踏三轮车转让</a>
+</dd>
+<dt><span>K</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>L</span></dt>
+<dd>
+<a href="http://hk.58.com/lvyuanddc/" target="_blank">二手绿源电动车转让</a>
+</dd>
+<dt><span>M</span></dt>
+<dd>
+<a href="http://hk.58.com/minizixingche/" target="_blank">二手迷你自行车转让</a>
+<a href="http://hk.58.com/meilida/" target="_blank">二手美利达自行车转让</a>
+<a href="http://hk.58.com/diandongzixingche/" target="_blank">二手迷你电动车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手美利达电动车转让/" target="_blank">二手美利达电动车转让</a>
+</dd>
+<dt><span>N</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>O</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>P</span></dt>
+<dd>
+<a href="http://hk.58.com/putongzixingche/" target="_blank">二手普通自行车转让</a>
+</dd>
+<dt><span>Q</span></dt>
+<dd>
+<a href="http://hk.58.com/qingqiddc/" target="_blank">二手轻骑电动车转让</a>
+<a href="http://hk.58.com/qixingzhuangbei/" target="_blank">二手骑行装备转让</a>
+</dd>
+<dt><span>R</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>S</span></dt>
+<dd>
+<a href="http://hk.58.com/shandizixingche/" target="_blank">二手山地自行车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手赛车转让/" target="_blank">二手赛车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手场地自行车转让/" target="_blank">二手场地自行车转让</a>
+</dd>
+<dt><span>T</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>U</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>V</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>W</span></dt>
+<dd>
+<a href="http://hk.58.com/zixingche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>X</span></dt>
+<dd>
+<a href="http://hk.58.com/xiaoniao/" target="_blank">二手小鸟电动车转让</a>
+<a href="http://hk.58.com/xinri/" target="_blank">二手新日电动车转让</a>
+<a href="http://hk.58.com/xiuchegongju/" target="_blank">二手修车工具转让</a>
+</dd>
+<dt><span>Y</span></dt>
+<dd>
+<a href="http://hk.58.com/yongjiu/" target="_blank">二手永久自行车转让</a>
+<a href="http://hk.58.com/zixingche/jh_二手永久电动车转让/" target="_blank">二手永久电动车转让</a>
+</dd>
+<dt><span>Z</span></dt>
+<dd>
+<a href="http://hk.58.com/zhediezixingche/" target="_blank">二手折叠自行车转让</a>
+<a href="http://hk.58.com/zixingchesaiche/" target="_blank">二手自行车赛车转让</a>
+<a href="http://hk.58.com/zhediediandongche/" target="_blank">二手折叠电动车转让</a>
+<a href="http://hk.58.com/zhudongche/" target="_blank">二手助动车转让</a>
+<a href="http://hk.58.com/zhulisanlunche/" target="_blank">二手助力三轮车转让</a>
+<a href="http://hk.58.com/zixingchepeijian/" target="_blank">二手自行车配件转让</a>
+<a href="http://hk.58.com/zhudongchepeijian/" target="_blank">二手助动车配件转让</a>
+</dd>
+</dl>
+</dd>
+</dl>
+<script>
+            var alldt = $("#relateSelect&gt;dt");
+            function showNear(dt) {
+                alldt.each(function () {
+                    if (this == dt) {
+                        $(this).next("dd").show();
+                        $(this).addClass("select");
+                    }
+                    else {
+                        $(this).next("dd").hide();
+                        $(this).removeClass("select");
+                    }
+                });
+            }
+            alldt.each(function () {
+                $(this).click(function () {
+                    showNear(this);
+                }).hover(function () {
+                    showNear(this);
+                });
+            });
+            showNear(alldt[0]);
+        </script>
+<!-- =E relatelink -->
+<!-- =S friendtips -->
+<dl class="linksItem friendtips" id="friendtips">
+<dt class="b-left">
+<h2>香港自行车/电动车频道介绍</h2></dt>
+<dd class="b-right"><p>香港二手自行车/电动车频道为您提供香港二手自行车/电动车转让/出售信息，在此有大量香港二手自行车/电动车报价/图片/价格信息供您选择，您可以免费查看香港<a href="http://www.58.com/cheliangjiagelist/" target="_blank">电动车/自行车价格大全</a>并发布香港自行车/电动车信息。亦可用手机便捷访问<a href="http://m.58.com/hk/zixingche/" target="_blank">香港自行车/电动车</a>信息。</p></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>热门城市自行车/电动车</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://sh.58.com/zixingche/">上海二手自行车/电动车</a></li>
+<li><a href="http://bj.58.com/zixingche/">北京二手自行车/电动车</a></li>
+<li><a href="http://sz.58.com/zixingche/">深圳二手自行车/电动车</a></li>
+<li><a href="http://gz.58.com/zixingche/">广州二手自行车/电动车</a></li>
+<li><a href="http://tj.58.com/zixingche/">天津二手自行车/电动车</a></li>
+<li><a href="http://nj.58.com/zixingche/">南京二手自行车/电动车</a></li>
+<li><a href="http://dl.58.com/zixingche/">大连二手自行车/电动车</a></li>
+<li><a href="http://hz.58.com/zixingche/">杭州二手自行车/电动车</a></li>
+<li><a href="http://sy.58.com/zixingche/">沈阳二手自行车/电动车</a></li>
+<li><a href="http://hrb.58.com/zixingche/">哈尔滨二手自行车/电动车</a></li>
+<li><a href="http://cd.58.com/zixingche/">成都二手自行车/电动车</a></li>
+<li><a href="http://dg.58.com/zixingche/">东莞二手自行车/电动车</a></li>
+<li><a href="http://jn.58.com/zixingche/">济南二手自行车/电动车</a></li>
+<li><a href="http://fs.58.com/zixingche/">佛山二手自行车/电动车</a></li>
+<li><a href="http://wx.58.com/zixingche/">无锡二手自行车/电动车</a></li>
+<li><a href="http://cs.58.com/zixingche/">长沙二手自行车/电动车</a></li>
+<li><a href="http://wh.58.com/zixingche/">武汉二手自行车/电动车</a></li>
+<li><a href="http://nb.58.com/zixingche/">宁波二手自行车/电动车</a></li>
+<li><a href="http://cc.58.com/zixingche/">长春二手自行车/电动车</a></li>
+<li><a href="http://su.58.com/zixingche/">苏州二手自行车/电动车</a></li>
+<li><a href="http://qd.58.com/zixingche/">青岛二手自行车/电动车</a></li>
+<li><a href="http://zh.58.com/zixingche/">珠海二手自行车/电动车</a></li>
+<li><a href="http://cq.58.com/zixingche/">重庆二手自行车/电动车</a></li>
+<li><a href="http://fz.58.com/zixingche/">福州二手自行车/电动车</a></li>
+<li><a href="http://ty.58.com/zixingche/">太原二手自行车/电动车</a></li>
+<li><a href="http://wz.58.com/zixingche/">温州二手自行车/电动车</a></li>
+<li><a href="http://dq.58.com/zixingche/">大庆二手自行车/电动车</a></li>
+<li><a href="http://nc.58.com/zixingche/">南昌二手自行车/电动车</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S 底部链接分类 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				香港自行车/电动车相关分类			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a href="http://hk.58.com/shouji/">香港二手手机</a>
+</li>
+<li>
+<a href="http://hk.58.com/diannao/">香港二手电脑</a>
+</li>
+<li>
+<a href="http://hk.58.com/shuma/">香港二手数码产品</a>
+</li>
+<li>
+<a href="http://hk.58.com/jiadian/">香港二手家电</a>
+</li>
+<li>
+<a href="http://hk.58.com/ershoujiaju/">香港二手家具</a>
+</li>
+<li>
+<a href="http://hk.58.com/shoujihao/">
+香港手机号码转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/tongxunyw/">香港通讯业务</a>
+</li>
+<li>
+<a href="http://hk.58.com/yingyou/">香港母婴玩具转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/fushi/">香港服装箱包转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/meirong/">香港美容化妆品转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/tushu/">
+香港图书音像转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/bangong/">香港办公设备转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/ershoushebei/">香港二手设备</a>
+</li>
+<li>
+<a href="http://hk.58.com/yishu/">香港艺术收藏品转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/wenti/">香港户外体育用品转让</a>
+</li>
+<li>
+<a href="http://hk.58.com/danche/">香港二手摩托车</a>
+</li>
+<li>
+<a href="http://hk.58.com/fzixingche/">香港二手自行车</a>
+</li>
+<li>
+<a href="http://hk.58.com/diandongche/">香港二手电动车</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 底部链接分类 -->
+<!-- =S 周边城市 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				香港二手自行车/电动车周边城市
+			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a target="_blank" href="http://gz.58.com/zixingche/">广州二手自行车/电动车</a>
+</li>
+<li>
+<a target="_blank" href="http://zh.58.com/zixingche/">珠海二手自行车/电动车</a>
+</li>
+<li>
+<a target="_blank" href="http://dg.58.com/zixingche/">东莞二手自行车/电动车</a>
+</li>
+<li>
+<a target="_blank" href="http://st.58.com/zixingche/">汕头二手自行车/电动车</a>
+</li>
+<li>
+<a target="_blank" href="http://zs.58.com/zixingche/">中山二手自行车/电动车</a>
+</li>
+<li>
+<a target="_blank" href="http://huizhou.58.com/zixingche/">惠州二手自行车/电动车</a>
+</li>
+<li>
+<a target="_blank" href="http://jm.58.com/zixingche/">江门二手自行车/电动车</a>
+</li>
+<li>
+<a target="_blank" href="http://sg.58.com/zixingche/">韶关二手自行车/电动车</a>
+</li>
+<li>
+<a target="_blank" href="http://zhanjiang.58.com/zixingche/">湛江二手自行车/电动车</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 周边城市 -->
+<!-- =S friendlink -->
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!-- =S 筛选保存个数 -->
+<ul id="localInfo" class="lso-hide" style="left: 1198.5px; top: 578px;">
+<li class="item"><a class="item-left" href="http://bj.58.com/dongcheng/shouji/pve_5595_300242/?v=1">东城二手手机300万像素</a><a class="off-button" href="#localInfo"></a></li>
+</ul>
+<!-- =E 筛选保存个数 -->
+<script type="text/javascript">
+    boot.require('util.uri', function (Frame, uri) {
+        var mutexs_par = "b1b2b3b4b5b6b7b8b9".substring(0, 1);
+        var re = new RegExp(mutexs_par + '\\d+', 'ig')
+        mutexs = [
+            {searchitem: re, params: ["minprice"], searthname: '价格'}
+        ];
+        for (var i = 0, leni = mutexs.length; i &lt; leni; i++) {
+            var mutex = mutexs[i];
+            var pobj = {};
+            for (var j = 0, lenj = mutex.params.length; j &lt; lenj; j++) {
+                pobj[mutex.params[j]] = null;
+            }
+            for (var l = 0, lenl = mutex.params.length; l &lt; lenl; l++) {
+                var pitem = $("#selection&gt;.secitem dt:contains(" + mutex.searthname + ")").parent();
+                pitem.find("a").each(function () {
+                    var o = {};
+                    o[mutex.params] = null;
+                    this.href = (new uri(this.href)).setQuery(o);
+                });
+            }
+        }
+    });
+</script>
+<script src="http://track.58.com/adsys/ggafs?rand=20140509"></script>
+<script>
+    //信息hover
+    boot.require('dom, anim.hover', function (Frame, dom, hover) {
+        var isPersonal = false;
+        var cc;
+        if (isPersonal) {
+            cc = dom.get('hoverinfo');
+        }
+        else {
+            cc = dom.get('infolist');
+        }
+        trs = cc.getElementsByTagName('tr');
+        Frame.each(trs, function (item) {
+            hover.bind(item, 'bg');
+        });
+    });
+
+    $(".selector").each(function () {
+        $(this).hover(function () {
+            $(this).addClass("hover")
+        }, function () {
+            $(this).removeClass("hover")
+        });
+    });
+    ////导航
+    var navs = [];
+    navs.push(['香港58同城', 'http://hk.58.com/sou/']);
+    navs.push(['香港车辆买卖与服务', '/car.shtml']);
+            navs.push(['香港自行车/电动车信息', '/zixingche/']);
+                    boot.require('business.navbar', function (Frame, navbar) {
+        navbar.init(navs);
+    });
+    ///////标红////
+    boot.require('business.highlight', function (Frame, highlight) {
+                        highlight.init($("#infolist a.t"), '');
+            });
+</script>
+<script type="text/javascript">document.write("&lt;sc" + "ript src='http://track.58.com/adsys/ggafs?r=" + Math.random() + "'&gt;&lt;/scri" + "pt&gt;");</script>
+<div style="display:none">
+<!--基本统计代码begin(240,0)--by:zhanghao06-->
+<script type="text/javascript"> 
+____json4fe.supplycount = {level1:'0', level2:'0', level3:'0', level4:'46', level5:'0', sortid: '444174507'};
+var _gaq = _gaq || [], site_name = "58", post_count = "4", page_type = "list";
+ _trackURL = "{'cate':'4,240','area':'2050','pagetype':'list','pagesize':'50','pagenum':'1','jiage':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+boot.require('business.gaq, util.js', function (Frame, gaq, js) {
+	_gaq.push(['pageTracker._trackPageview', gaq("car", "/hk/car/zixingche/list/")]);
+	_gaq.push(['pageTracker._trackPageLoadTime']);
+	Frame.init(function () {
+		js.append(('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+		js.append('http://tracklog.58.com/referrer4.js');
+	});
+});
+</script>
+<!--基本统计代码end-->
+</div>
+<!-- =S 地域推荐功能 -->
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" name="myTest" align="middle">
+<param name="allowScriptAccess" value="always">
+</param><param name="movie" value="http://list.house.58.com/kanfangdan.swf">
+</param><param name="quality" value="high">
+<embed src="http://list.house.58.com/kanfangdan.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true" allowscriptaccess="always"></embed>
+</param></object>
+<!-- =S 地域推荐功能 -->
+<!--rukoubanner-->
+<div class="ie6fixed3">
+<a target="_blank" href="http://static.58.com/ui7/help/safecl.html?from=list-left-safeclzxc"><img src="http://pic2.58.com/ui6/index/icon_enter.gif" /></a>
+</div>
+</body>
+</html>

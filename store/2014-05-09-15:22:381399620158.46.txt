@@ -1,0 +1,343 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[1195,328,27977] published at 2014-05-09 11:08:33 from #63 by 6806-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="Description" content="辽宁今年将实施新的高考录取照顾办法_新浪辽宁教育_新浪辽宁" />
+<meta name="Keywords" content="辽宁,高考录取,照顾办法,考试资讯,新浪辽宁教育,新浪辽宁,新浪网" />
+<title>辽宁今年将实施新的高考录取照顾办法_新浪辽宁教育_新浪辽宁</title>
+<link rel="stylesheet" type="text/css" href="http://liaoning.sinaimg.cn/ln_2012_v1/js/base_list.css" />
+<link rel="stylesheet" type="text/css" href="http://liaoning.sinaimg.cn/ln_2012_v1/js/article.css" />
+<style>
+.topNav ul{
+margin:7px 0 0 9px;
+}
+</style>
+</head>
+<body><!-- SUDA_CODE_START -->
+<script type="text/javascript"> 
+//&lt;!--
+(function(){var win=window,doc=document,nav=navigator,ua=nav.userAgent,scr=win.screen,loc=win.location.href;var prtl=loc.indexOf("https")&gt;-1?"https://":"http://",domain="beacon.sina.com.cn";var a_gif=prtl+domain+"/a.gif?",g_gif=prtl+domain+"/g.gif?",d_gif=prtl+domain+"/d.gif?",e_gif=prtl+domain+"/e.gif?";var sudaRef=doc.referrer.toLowerCase();var cookie_SINAGLOBAL="SINAGLOBAL",cookie_For_Flash="FSINAGLOBAL",cookie_Apache="Apache",cookie_ULV="ULV",cookie_SUP="SUP",cookie_UOR="UOR",cookie__s_acc="_s_acc",cookie__s_tentry="_s_tentry";var count=0;var inFrame=false,isMetaFresh=false;var loginUserInfo="";var commonType=16777215,performance=0,filter,interval=0;var sudaPageid="",sudaExt1="",sudaExt2="";var sudaInfo=[],acTrackInfo=[],uaTrackInfo=[];var sudaGlobalCount=0;var fsudaGlobalCount=0;var storage=(function(){var objDS=window.localStorage,store,STORE_NAME;if(objDS){return{get:function(key){return unescape(objDS.getItem(key))},set:function(key,value){objDS.setItem(key,escape(value))}}}else{if(window.ActiveXObject){store=document.documentElement;STORE_NAME="localstorage";try{store.addBehavior("#default#userdata");store.save("localstorage")}catch(e){}return{set:function(key,value){try{store.setAttribute(key,value);store.save(STORE_NAME)}catch(e){}},get:function(key){try{store.load(STORE_NAME);return store.getAttribute(key)}catch(e){}}}}else{return{get:getCookie,set:setCookie}}}})();var flashData={flashObj:null,id:"sudaDataFrame",status:"loading",$:function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval("document.all."+objName)}},clear:function(){this.flashObj.write("")},read:function(name){if(this.status!="ok"){return""}var nameRule=/[=,;]+/i;if(nameRule.test(name)){return""}var dataScring=this.flashObj.read();if(dataScring==null){dataScring=""}var reg=new RegExp("(?:^|;)"+name+"=(.*?),expires=([^;]*)","i");var value=dataScring.match(reg);if(value==null){value=""}else{if(value.length&gt;=3){var now=new Date();var dd=now.getTime();if(new Number(value[2])&gt;dd){value=value[1];value=value.replace(/\[\$\=\]/g,"=");value=value.replace(/\[\$\;\]/g,";");value=value.replace(/\[\$\,\]/g,",")}else{value=""}}else{value=""}}return value},write:function(name,value,hours){if(this.status!="ok"){return}var nameRule=/[=,;]+/i;if(nameRule.test(name)){return}value=value.toString();value=value.replace(/\\/g,"\\\\");value=value.replace(/\&amp;/g,"&amp;");value=value.replace(/\=/g,"[$$=]");value=value.replace(/\;/g,"[$$;]");value=value.replace(/\,/g,"[$$,]");if(typeof(hours)!="number"){hours=24*30*3}var now=new Date();var expire=new Date(now.getTime()+hours*3600000);expire=",expires="+expire.getTime();var list=this.flashObj.read();if(list==null){list=""}list=list.split(/;(?!\])/i);var newList=[],update=false;var data;for(var i=0;i&lt;list.length;i++){data=list[i].match(/(.*?)\=(.*?),expires=(\d*)/i);if(data==null){continue}if(data.length&lt;4){continue}if(data[1]==name){if(value!=""){newList.push(name+"="+value+expire)}update=true}else{if(new Date(new Number(data[3]))&gt;now&amp;&amp;data[2]!=""){newList.push(list[i])}}}if(!update){newList.push(name+"="+value+expire)}var newStr="";for(var i=0;i&lt;newList.length;i++){if(newStr!=""){newStr+=";"}newStr+=newList[i]}this.flashObj.write(newStr)},load:function(){try{this.flashObj=this.$(this.id).contentWindow.flashData.flashObj;this.status="ok"}catch(e){}if(this.onload){this.onload()}}};var local_unique="";var loaded=false;function createFlashIFrame(){var iframe=document.createElement("iframe");iframe.src="http://beacon.sina.com.cn/data.html";iframe.id="sudaDataFrame";iframe.style.height="0px";iframe.style.width="1px";iframe.style.overflow="hidden";iframe.frameborder="0";iframe.scrolling="no";document.getElementsByTagName("head")[0].appendChild(iframe)}function getMeta(metaName,pidx){var pMeta=doc.getElementsByName(metaName);var idx=(pidx&gt;0)?pidx:0;return(pMeta.length&gt;idx)?pMeta[idx].content:""}function getSudaMeta(){var pMeta=doc.getElementsByName("sudameta");var meta=[];for(var idx=0;idx&lt;pMeta.length;idx++){var content=pMeta[idx].content;if(content){meta.push(content)}}return meta}function stringSplice(src,k,e,sp){if(src==""){return""}sp=(sp=="")?"=":sp;k+=sp;var ps=src.indexOf(k);if(ps&lt;0){return""}ps+=k.length;var pe=src.indexOf(e,ps);if(pe&lt;ps){pe=src.length}return src.substring(ps,pe)}function getCookie(ckName){if(undefined==ckName||""==ckName){return""}return stringSplice(doc.cookie,ckName,";","")}function setCookie(ckName,ckValue,ckDays,ckDomain){if(ckValue!=null){if((undefined==ckDomain)||(null==ckDomain)){ckDomain="sina.com.cn"}if((undefined==ckDays)||(null==ckDays)||(""==ckDays)){doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";path=/"}else{var now=new Date();var time=now.getTime();time=time+86400000*ckDays;now.setTime(time);time=now.getTime();doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";expires="+now.toUTCString()+";path=/"}}}function addEvent(sNode,sEventType,oFunc){var oElement=sNode;if(oElement==null){return false}sEventType=sEventType||"click";if((typeof oFunc).toLowerCase()!="function"){return}if(oElement.attachEvent){oElement.attachEvent("on"+sEventType,oFunc)}else{if(oElement.addEventListener){oElement.addEventListener(sEventType,oFunc,false)}else{oElement["on"+sEventType]=oFunc}}return true}function getEvent(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var o=arguments.callee.caller;var e;var n=0;while(o!=null&amp;&amp;n&lt;40){e=o.arguments[0];if(e&amp;&amp;(e.constructor==Event||e.constructor==MouseEvent||e.constructor==KeyboardEvent)){return e}n++;o=o.caller}return e}}function fixEvent(e){e=e||getEvent();if(!e.target){e.target=e.srcElement;e.pageX=e.x;e.pageY=e.y}if(typeof e.layerX=="undefined"){e.layerX=e.offsetX}if(typeof e.layerY=="undefined"){e.layerY=e.offsetY}return e}function trim(str){if(typeof str!=="string"){throw"trim need a string as parameter"}var len=str.length;var s=0;var reg=/(\u3000|\s|\t|\u00A0)/;while(s&lt;len){if(!reg.test(str.charAt(s))){break}s+=1}while(len&gt;s){if(!reg.test(str.charAt(len-1))){break}len-=1}return str.slice(s,len)}function isArray(o){return Object.prototype.toString.call(o)==="[object Array]"}function queryToJson(QS,isDecode){var _Qlist=trim(QS).split("&amp;");var _json={};var _fData=function(data){if(isDecode){return decodeURIComponent(data)}else{return data}};for(var i=0,len=_Qlist.length;i&lt;len;i++){if(_Qlist[i]){var _hsh=_Qlist[i].split("=");var _key=_hsh[0];var _value=_hsh[1];if(_hsh.length&lt;2){_value=_key;_key="$nullName"}if(!_json[_key]){_json[_key]=_fData(_value)}else{if(isArray(_json[_key])!=true){_json[_key]=[_json[_key]]}_json[_key].push(_fData(_value))}}}return _json}function foreach(arr,func){for(var i=0,len=arr.length;i&lt;len;i++){func(arr[i],i)}}function getHost(sUrl){var r=new RegExp("^http(?:s)?://([^/]+)","im");if(sUrl.match(r)){return sUrl.match(r)[1].toString()}else{return""}}function ssoDecode(inputString){if("v01"!=inputString.substring(0,3)){return inputString}var input=inputString.substring(3);var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i;var keys=[];for(i=0;i&lt;=64;i++){keys[i+128]=i}i=0;while(i&lt;input.length){enc1=keys[parseInt(input.substr(i,2),16)];i+=2;enc2=keys[parseInt(input.substr(i,2),16)];i+=2;enc3=keys[parseInt(input.substr(i,2),16)];i+=2;enc4=keys[parseInt(input.substr(i,2),16)];i+=2;chr1=(enc1&lt;&lt;2)|(enc2&gt;&gt;4);chr2=((enc2&amp;15)&lt;&lt;4)|(enc3&gt;&gt;2);chr3=((enc3&amp;3)&lt;&lt;6)|enc4;output=output+String.fromCharCode(chr1);if(enc3!=undefined&amp;&amp;enc3!=64){output=output+String.fromCharCode(chr2)}if(enc4!=undefined&amp;&amp;enc4!=64){output=output+String.fromCharCode(chr3)}}return output}var CI={screenSize:function(){return(commonType&amp;8388608==8388608)?scr.width+"x"+scr.height:""},colorDepth:function(){return(commonType&amp;4194304==4194304)?scr.colorDepth:""},appCode:function(){return(commonType&amp;2097152==2097152)?nav.appCodeName:""},appName:function(){return(commonType&amp;1048576==1048576)?((nav.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":nav.appName):""},cpu:function(){return(commonType&amp;524288==524288)?(nav.cpuClass||nav.oscpu):""},platform:function(){return(commonType&amp;262144==262144)?(nav.platform):""},jsVer:function(){if(commonType&amp;131072!=131072){return""}var p,appsign,appver,jsver=1,isN6=0,navigatorAppName=(nav.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":nav.appName,navigatorAppVersion=nav.appVersion;if("MSIE"==navigatorAppName){appsign="MSIE";p=navigatorAppVersion.indexOf(appsign);if(p&gt;=0){appver=window.parseInt(navigatorAppVersion.substring(p+5));if(3&lt;=appver){jsver=1.1;if(4&lt;=appver){jsver=1.3}}}}else{if(("Netscape"==navigatorAppName)||("Opera"==navigatorAppName)||("Mozilla"==navigatorAppName)){jsver=1.3;appsign="Netscape6";p=navigatorAppVersion.indexOf(appsign);if(p&gt;=0){jsver=1.5}}}return jsver},network:function(){if(commonType&amp;65536!=65536){return""}var ct="";ct=(nav.connection&amp;&amp;nav.connection.type)?nav.connection.type:ct;try{doc.body.addBehavior("#default#clientCaps");ct=doc.body.connectionType}catch(e){ct="unkown"}return ct},language:function(){return(commonType&amp;32768==32768)?(nav.systemLanguage||nav.language):""},timezone:function(){return(commonType&amp;16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(commonType&amp;8192!=8192){return""}var pl=nav.plugins,flash,item,desc;if(pl&amp;&amp;pl.length){for(var key in pl){item=pl[key];if(item.description==null){continue}if(flash!=null){break}desc=item.description.toLowerCase();if(desc.indexOf("flash")!=-1){flash=item.version?parseInt(item.version):desc.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var i=10;i&gt;=2;i--){try{var object=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);if(object){flash=i;break}}catch(e){}}}else{if(ua.indexOf("webtv/2.5")!=-1){flash=3}else{if(ua.indexOf("webtv")!=-1){flash=2}}}}return flash},javaEnabled:function(){if(commonType&amp;4096!=4096){return""}var pl=nav.plugins,java=nav.javaEnabled(),item,desc;if(java==true){return 1}if(pl&amp;&amp;pl.length){for(var key in pl){item=pl[key];if(item.description==null){continue}if(java!=null){break}desc=item.description.toLowerCase();if(desc.indexOf("java plug-in")!=-1){java=parseInt(item.version);continue}}}else{if(window.ActiveXObject){java=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return java?1:0}};var PI={pageId:function(pageid){var pid=pageid||sudaPageid,defaultPageID="-9999-0-0-1";if((undefined==pid)||(""==pid)){try{var metaTxt=getMeta("publishid");if(""!=metaTxt){var pbidList=metaTxt.split(",");if(pbidList.length&gt;0){if(pbidList.length&gt;=3){defaultPageID="-9999-0-"+pbidList[1]+"-"+pbidList[2]}pid=pbidList[0]}}else{pid="0"}}catch(e){pid="0"}pid=pid+defaultPageID}return pid},sessionCount:function(){var count=getCookie("_s_upa");if(count==""){count=0}return count},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(commonType&amp;2048!=2048){return""}var re=/^[^\?&amp;#]*.swf([\?#])?/;if((sudaRef=="")||(sudaRef.match(re))){var ref=stringSplice(loc,"ref","&amp;","");if(ref!=""){return escape(ref)}}return escape(sudaRef)},isHomepage:function(){if(commonType&amp;1024!=1024){return""}var isHome="";try{doc.body.addBehavior("#default#homePage");isHome=doc.body.isHomePage(loc)?"Y":"N"}catch(e){isHome="unkown"}return isHome},PGLS:function(){return(commonType&amp;512==512)?getMeta("stencil"):""},ZT:function(){if(commonType&amp;256!=256){return""}var zt=getMeta("subjectid");zt.replace(",",".");zt.replace(";",",");return escape(zt)},mediaType:function(){return(commonType&amp;128==128)?getMeta("mediaid"):""},domCount:function(){return(commonType&amp;64==64)?doc.getElementsByTagName("*").length:""},iframeCount:function(){return(commonType&amp;32==32)?doc.getElementsByTagName("iframe").length:""}};var UI={visitorId:function(gid){if(!gid){var gid=getCookie(cookie_SINAGLOBAL);return gid}else{}},fvisitorId:function(fid){if(!fid){var fid=getCookie(cookie_For_Flash);return fid}else{setCookie(cookie_For_Flash,fid,3650)}},sessionId:function(){var sid=getCookie(cookie_Apache);if(""==sid){var now=new Date();sid=Math.random()*10000000000000+"."+now.getTime()}return sid},flashCookie:function(gid){if(gid){flashData.write("local_unique",gid,24*360)}else{return local_unique}},lastVisit:function(){var sid=getCookie(cookie_Apache);var lvi=getCookie(cookie_ULV);var lva=lvi.split(":");var lvr="",lvn;if(lva.length&gt;=6){if(sid!=lva[4]){lvn=new Date();var lvd=new Date(window.parseInt(lva[0]));lva[1]=window.parseInt(lva[1])+1;if(lvn.getMonth()!=lvd.getMonth()){lva[2]=1}else{lva[2]=window.parseInt(lva[2])+1}if(((lvn.getTime()-lvd.getTime())/86400000)&gt;=7){lva[3]=1}else{if(lvn.getDay()&lt;lvd.getDay()){lva[3]=1}else{lva[3]=window.parseInt(lva[3])+1}}lvr=lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3];lva[5]=lva[0];lva[0]=lvn.getTime();setCookie(cookie_ULV,lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3]+":"+sid+":"+lva[5],360)}else{lvr=lva[5]+":"+lva[1]+":"+lva[2]+":"+lva[3]}}else{lvn=new Date();lvr=":1:1:1";setCookie(cookie_ULV,lvn.getTime()+lvr+":"+sid+":",360)}return lvr},userNick:function(){if(loginUserInfo!=""){return loginUserInfo}var sup=unescape(getCookie(cookie_SUP));if(sup!=""){var ag=stringSplice(sup,"ag","&amp;","");var user=stringSplice(sup,"user","&amp;","");var uid=stringSplice(sup,"uid","&amp;","");var sex=stringSplice(sup,"sex","&amp;","");var bday=stringSplice(sup,"dob","&amp;","");loginUserInfo=ag+":"+user+":"+uid+":"+sex+":"+bday;return loginUserInfo}else{return""}},userOrigin:function(){if(commonType&amp;4!=4){return""}var uoc=getCookie(cookie_UOR);var upa=uoc.split(":");if(upa.length&gt;=2){return upa[0]}else{return""}},advCount:function(){return(commonType&amp;2==2)?getCookie(cookie__s_acc):""},setUOR:function(){var uoc=getCookie(cookie_UOR),uor="",uol="",up_t="",up="",currLoc=loc.toLowerCase(),ref=doc.referrer.toLowerCase();var re=/[&amp;|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var ct=new Date();if(currLoc.match(re)){up_t=currLoc.match(re)[0]}else{if(ref.match(re)){up_t=ref.match(re)[0]}}if(up_t!=""){up_t=up_t.substr(3)+":"+ct.getTime()}if(uoc==""){if(getCookie(cookie_ULV)==""){uor=getHost(ref);uol=getHost(currLoc)}setCookie(cookie_UOR,uor+","+uol+","+up_t,365)}else{var ucg=0,uoa=uoc.split(",");if(uoa.length&gt;=1){uor=uoa[0]}if(uoa.length&gt;=2){uol=uoa[1]}if(uoa.length&gt;=3){up=uoa[2]}if(up_t!=""){ucg=1}else{var upa=up.split(":");if(upa.length&gt;=2){var upd=new Date(window.parseInt(upa[1]));if(upd.getTime()&lt;(ct.getTime()-86400000*30)){ucg=1}}}if(ucg){setCookie(cookie_UOR,uor+","+uol+","+up_t,365)}}},setAEC:function(eid){if(""==eid){return}var acc=getCookie(cookie__s_acc);if(acc.indexOf(eid+",")&lt;0){acc=acc+eid+","}setCookie(cookie__s_acc,acc,7)},ssoInfo:function(){var info=unescape(ssoDecode(getCookie("sso_info")));if(info!=""){var uid=stringSplice(info,"uid","&amp;","");return uid}else{return""}}};var D={CI:function(){var data=["sz:"+CI.screenSize(),"dp:"+CI.colorDepth(),"ac:"+CI.appCode(),"an:"+CI.appName(),"cpu:"+CI.cpu(),"pf:"+CI.platform(),"jv:"+CI.jsVer(),"ct:"+CI.network(),"lg:"+CI.language(),"tz:"+CI.timezone(),"fv:"+CI.flashVer(),"ja:"+CI.javaEnabled()];return"CI="+data.join("|")},PI:function(pid){var data=["pid:"+PI.pageId(pid),"st:"+PI.sessionCount(),"et:"+PI.excuteCount(),"ref:"+PI.referrer(),"hp:"+PI.isHomepage(),"PGLS:"+PI.PGLS(),"ZT:"+PI.ZT(),"MT:"+PI.mediaType(),"keys:","dom:"+PI.domCount(),"ifr:"+PI.iframeCount()];return"PI="+data.join("|")},UI:function(){var data=["vid:"+UI.visitorId(),"sid:"+UI.sessionId(),"lv:"+UI.lastVisit(),"un:"+UI.userNick(),"uo:"+UI.userOrigin(),"ae:"+UI.advCount(),"lu:"+UI.fvisitorId(),"si:"+UI.ssoInfo()];return"UI="+data.join("|")},EX:function(extInfo1,extInfo2){if(commonType&amp;1!=1){return""}extInfo1=(null!=extInfo1)?extInfo1||"":sudaExt1;extInfo2=(null!=extInfo2)?extInfo2||"":sudaExt2;return"EX=ex1:"+extInfo1+"|ex2:"+extInfo2},MT:function(){return"MT="+getSudaMeta().join("|")},V:function(){return"V=2.1.4"},R:function(){return"gUid_"+new Date().getTime()}};function setEntry(){var e="-",ref=doc.referrer.toLowerCase(),currLoc=loc.toLowerCase();if(""==getCookie(cookie__s_tentry)){if(""!=ref){e=getHost(ref)}setCookie(cookie__s_tentry,e,"","weibo.com")}var vlogin=/weibo.com\/reg.php/;if(currLoc.match(vlogin)){var sharehost=stringSplice(unescape(currLoc),"sharehost","&amp;","");var appkey=stringSplice(unescape(currLoc),"appkey","&amp;","");if(""!=sharehost){setCookie(cookie__s_tentry,sharehost,"","weibo.com")}setCookie("appkey",appkey,"","weibo.com")}}function sendFinalRequest(url){createRequest(url)}function createRequest(url){var img=new Image();SUDA.img=img;img.src=url}function gatherCommon(pid,ext1,ext2){SUDA.sudaCount++;var url=a_gif+[D.V(),D.CI(),D.PI(pid),D.UI(),D.MT(),D.EX(ext1,ext2),D.R()].join("&amp;");createRequest(url)}function gatherCommon2(pid,ext1,ext2){if(inFrame||isMetaFresh){return}if(SUDA.sudaCount!=0){return}gatherCommon(pid,ext1,ext2)}function acTrack(eid,p){if((""==eid)||(undefined==eid)){return}UI.setAEC(eid);if(0==p){return}var s="AcTrack||"+getCookie(cookie_SINAGLOBAL)+"||"+getCookie(cookie_Apache)+"||"+UI.userNick()+"||"+eid+"||";var url=e_gif+s+"&amp;gUid_"+new Date().getTime();sendFinalRequest(url)}function uaTrack(acode,aext,href){if(!href){href=""}else{href=escape(href)}var s="UATrack||"+getCookie(cookie_SINAGLOBAL)+"||"+getCookie(cookie_Apache)+"||"+UI.userNick()+"||"+acode+"||"+aext+"||"+PI.referrer()+"||"+href+"||";var url=e_gif+s+"&amp;gUid_"+new Date().getTime();sendFinalRequest(url)}function trackAgent(e){var evt=fixEvent(e);var el=evt.target;var sudaAcTrack="",sudaUaTrack="",href="";var trackData;if(el!=null&amp;&amp;el.getAttribute&amp;&amp;(!el.getAttribute("suda-uatrack")&amp;&amp;!el.getAttribute("suda-actrack")&amp;&amp;!el.getAttribute("suda-data"))){while(el!=null&amp;&amp;el.getAttribute&amp;&amp;(!!el.getAttribute("suda-uatrack")||!!el.getAttribute("suda-actrack")||!!el.getAttribute("suda-data"))==false){if(el==doc.body){return}el=el.parentNode}}if(el==null||el.getAttribute==null){return}sudaAcTrack=el.getAttribute("suda-actrack")||"";sudaUaTrack=el.getAttribute("suda-uatrack")||el.getAttribute("suda-data")||"";sudaUrls=el.getAttribute("suda-urls")||"";if(sudaUaTrack){trackData=queryToJson(sudaUaTrack);if(el.tagName.toLowerCase()=="a"){href=el.href}trackData.key&amp;&amp;SUDA.uaTrack&amp;&amp;SUDA.uaTrack(trackData.key,trackData.value||trackData.key,href)}if(sudaAcTrack){trackData=queryToJson(sudaAcTrack);trackData.key&amp;&amp;SUDA.acTrack&amp;&amp;SUDA.acTrack(trackData.key,trackData.value||trackData.key)}}inFrame=(function(minH,minW){if(win.top==win){return false}else{try{if(doc.body.clientHeight==0){return false}return((doc.body.clientHeight&gt;=minH)&amp;&amp;(doc.body.clientWidth&gt;=minW))?false:true}catch(e){return true}}})(320,240);isMetaFresh=(function(){return false})();UI.setUOR();var sid=UI.sessionId();if(!UI.visitorId()){UI.visitorId(sid)}window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){gatherCommon.apply(null,arguments)};SUDA.acTrack=function(){acTrack.apply(null,arguments)};SUDA.uaTrack=function(){uaTrack.apply(null,arguments)};addEvent(doc.body,"click",trackAgent);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){acTrack.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){uaTrack.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){acTrack.apply(null,arguments)};window._S_uaTrack=function(){uaTrack.apply(null,arguments)};window._S_PID_="";gatherCommon2()})();
+//--&gt;
+</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden"><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></div>
+</noscript>
+<!-- SUDA_CODE_END -->
+<!-- for iPad begin -->
+<script type="text/javascript">
+(function(){
+if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+var iPadScript = document.createElement('script');
+iPadScript.src = 'http://news.sina.com.cn/js/ui/ipad/reset.js';
+document.getElementsByTagName('head')[0].appendChild(iPadScript);
+})();
+</script>
+<!-- for iPad end -->
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&amp;");var arrtmp;var arrResult={};for(var i=0;i&lt;arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i&lt;f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<!-- top_nav last update:2014-05-09 09:12:38 -->
+<div class="top-nav">
+<div class="in">
+<p class="fl"><a href="http://www.sina.com.cn" class="sina-logo"></a><a href="http://www.sina.com.cn" target="_blank">新浪首页</a>|
+<a href="http://ln.sina.com.cn" target="_blank">新浪辽宁</a>|
+<a href="http://ln.sina.com.cn/news/" target="_blank">新闻</a>|
+<a href="http://food.ln.sina.com.cn/" target="_blank">美食</a>|
+<a href="http://ln.sina.com.cn/fashion/" target="_blank">时尚</a>|
+<a href="http://ln.travel.sina.com.cn/" target="_blank">旅游</a>|
+<a href="http://sy.auto.sina.com.cn/" target="_blank">汽车</a>|
+<a href="http://ln.sina.com.cn/health/" target="_blank">健康</a>|
+<a href="http://ln.sina.com.cn/edu/" target="_blank">教育</a>|
+<a href="http://ln.sina.com.cn/city/" target="_blank">城市</a>|
+<a href="http://ln.sina.com.cn/tools/" target="_blank">便民</a>|
+<a href="http://ln.sina.com.cn/wdh/guide.html " target="_blank">站点导航</a>|
+<a href="http://thuigou.sina.com.cn/" target="_blank">惠购</a>|
+<a href="http://2014.sina.com.cn/" target="_blank">世界杯</a>
+</p>
+<p class="fr"><a href="javascript:;" onclick="return false;" class="i_login">用户登录</a>|<a href="http://mail.sina.com.cn/" target="_blank">邮箱</a>|<a href="javascript:;" onclick="return false;" class="i_reg">注册</a></p>
+<p class="fr" style="display:none;"><a href="http://weiba.weibo.com/shenyang" target="_blank" class="imp i_nick"></a>|<a href="http://mail.sina.com.cn/" target="_blank">邮箱</a>|<a href="javascript:;" onclick="return false;" class="i_logout">退出</a></p>
+</div>
+</div>
+<!-- top_nav end -->
+<div class="wad" id="ad_arti_wrap_top"></div>
+<div class="dfz-nav">
+<div class="fl">
+<!-- sub_nav last update:2012-08-06 14:29:29 -->
+<h2 class="sinalogo-nav logo-1195"><a href="http://ln.sina.com.cn" target="_blank">新浪辽宁</a></h2>
+<!-- sub_nav end -->
+<p class="bnav"><!-- sub_nav_index last update:2012-06-07 16:30:12 -->
+<a href="http://ln.sina.com.cn/">新浪辽宁</a><i>&gt;</i>
+<!-- sub_nav_index end --><a href="/edu/">教育</a><i>&gt;</i><a href="/edu/exams/list.html">考试资讯</a><i>&gt;</i>正文</p>
+</div>
+</div>
+<div class="wrap">
+<div class="con">
+<div class="article-title">
+<h2>辽宁今年将实施新的高考录取照顾办法</h2>
+<p class="grey"><span>来源：<span>北国网-半岛晨报</span></span><span>2014年5月9日</span><a href="#i2cmnt">【评论<em class="imp dfz_cmnt_cnt">0</em>条】</a><span>字号：<a href="javascript:doZoom(14);">T</a><span>|</span><a href="javascript:doZoom(16);" class="f14">T</a></span></p>
+</div>
+<!-- edu_today_hot last update:2014-04-17 11:36:31 -->
+<div class="today-hot">
+<p class="today-tit">今日热点</p>
+<ul class="ull clear">
+<li><a href="http://ln.sina.com.cn/edu/parents/2014-04-17/103926231.html" target="_blank">高考家长如何举重若轻帮备考</a></li>
+<li><a href="http://ln.sina.com.cn/edu/exams/2014-04-17/102726225.html" target="_blank">高考复习要揪住教材整理错题</a></li>
+<li><a href="http://ln.sina.com.cn/edu/exams/2014-04-17/101626217.html" target="_blank">“包过”短信骚扰申硕考生</a></li>
+<li><a href="http://ln.sina.com.cn/edu/exams/2014-04-17/094626207.html" target="_blank">香港名校公布内地招生计划</a></li>
+<li><a href="http://ln.sina.com.cn/edu/kygwy/2014-04-17/093426205.html" target="_blank">直招士官入伍3个月授军衔</a></li>
+<li><a href="http://ln.sina.com.cn/edu/news/2014-04-16/104326122.html" target="_blank">高三生穿内裤坐窗户扔花盆</a></li>
+</ul>
+</div>
+<!-- edu_today_hot end -->
+<div class="main-body">
+<p>　　昨天，大连市召开高中等学校招生考试委员会工作会议。记者了解到，教育部即将出台2017年高考“1+5”改革方案，即“总体方案”和关于高考、外语一年多考、高中学业水平考试、综合素质评价、考试招生违规处理等5个配套“实施意见”。我省将在9月份出台具体高考改革“实施方案”。</p>
+<p>　　<strong>变化</strong></p>
+<p>　　<strong>今年知分填报志愿增加考生选择的机会</strong></p>
+<p>　　从今年起，我省高考首次实行网上填报志愿和知分填报志愿。实行知分填报志愿带来的变化，一是填报志愿时间将缩短，以往我省填报志愿时间一般为8天，实行知分填报志愿后，准备缩短为4至5天；二是将以分段形式公布高考成绩分布情况；三是将不再印制和发放《高考试题及参考答案》。实行知分填报志愿的优点是，考生可避免在考试过程中耗费精力去记忆本人答案和估分不准的焦虑，考生和家长可“量体裁衣”填报志愿，但考生“知己”却不“知彼”，不能完全避免填报志愿的盲目性，也可能出现考生志愿“扎堆”现象。在高考志愿设计上，我省今年也做了较大调整：一本A、B段由原来3个平行志愿调整为5个平行志愿；二本、三本由原来1个有序志愿和8个平行参考志愿，全部调整为平行志愿，其中二本调整为7个平行志愿，三本调整为5个平行志愿，专科调整为9个平行志愿，增加了考生选择的机会。</p>
+<p>　　<strong>调整</strong></p>
+<p>　　<strong>从今年起辽宁省将实施新的高考录取照顾办法</strong></p>
+<p>　　取消中学生奥林匹克竞赛和部分科技类竞赛保送或加分。取消省级优秀学生干部和优秀团干部加分。二级运动员加分测试项目限定在田径、篮球、足球、排球、乒乓球、武术、游泳、羽毛球8个项目。</p>
+<p>　　另外，教育部即将出台2017年高考“1+5”改革方案，即“总体方案”和关于高考、外语一年多考、高中学业水平考试、综合素质评价、考试招生违规处理等5个配套“实施意见”。我省将在9月份出台具体高考改革“实施方案”。</p>
+<span id="_function_code_page"></span><p align="right">　[1]　<a href="http://ln.sina.com.cn/edu/exams/2014-05-09/110827977_2.html">[2]</a>　<a style="FONT-SIZE: 14px" href="http://ln.sina.com.cn/edu/exams/2014-05-09/110827977_2.html">[下一页]</a></p><!--page_info=2_1_27977-->
+<div class="article-video artice-pic" vid="">
+</div>
+</div>
+<p class="page"></p>
+<div id="share-weibo">
+</div>
+<h3 id="i2cmnt">发表评论</h3>
+<div class="artical-comment">
+</div>
+<script>var dfz_cmnt_stat = true;</script>
+<!-- edu_show_photo last update:2013-01-11 16:09:28 -->
+<h3 class="stit F_s"><strong><a href="http://ln.sina.com.cn/edu/pictures/list.html" target="_blank">精彩推荐</a></strong><span><a class="grey" href="http://ln.sina.com.cn/edu/pictures/list.html" target="_blank">更多&gt;&gt;</a></span></h3>
+<ul class="super-list clear">
+<li>
+<a href="http://slide.ln.sina.com.cn/slide_37_31284_60238.html#p=18" target="_blank" title="沈阳女大学生车模"><img src="http://liaoning.sinaimg.cn/2013/0111/U6806P1195DT20130111160352.jpg" alt="沈阳女大学生车模" /></a>
+<p><a href="http://slide.ln.sina.com.cn/slide_37_31284_60238.html#p=18" target="_blank" title="沈阳女大学生车模">沈阳女大学生车模</a></p>
+</li>
+<li>
+<a href="http://slide.ln.sina.com.cn/slide_37_33513_70975.html#p=4" target="_blank" title="为艺考而生的女孩们"><img src="http://liaoning.sinaimg.cn/2013/0111/U6806P1195DT20130111160353.jpg" alt="为艺考而生的女孩们" /></a>
+<p><a href="http://slide.ln.sina.com.cn/slide_37_33513_70975.html#p=4" target="_blank" title="为艺考而生的女孩们">为艺考而生的女孩们</a></p>
+</li>
+<li>
+<a href="http://slide.ln.sina.com.cn/slide_37_32099_64128.html" target="_blank" title="高考状元女主持人"><img src="http://liaoning.sinaimg.cn/2013/0111/U6806P1195DT20130111160354.jpg" alt="高考状元女主持人" /></a>
+<p><a href="http://slide.ln.sina.com.cn/slide_37_32099_64128.html" target="_blank" title="高考状元女主持人">高考状元女主持人</a></p>
+</li>
+<li>
+<a href="http://slide.ln.sina.com.cn/slide_37_32954_67813.html#p=1" target="_blank" title="疯狂的毕业照"><img src="http://liaoning.sinaimg.cn/2013/0111/U6806P1195DT20130111160355.jpg" alt="疯狂的毕业照" /></a>
+<p><a href="http://slide.ln.sina.com.cn/slide_37_32954_67813.html#p=1" target="_blank" title="疯狂的毕业照">疯狂的毕业照</a></p>
+</li>
+</ul>
+<!-- edu_show_photo end -->
+</div>
+<div class="side">
+<div class="mt15" id="ad_arti_side_one">
+</div>
+<!-- edu_show_tuijian last update:2014-03-06 11:39:26 -->
+<div class="sdiv">
+<h3 class="stit"><span><a href="http://ln.sina.com.cn/edu/" class="grey" target="_blank">更多&gt;&gt;</a></span><strong><a href="http://ln.sina.com.cn/edu/" target="_blank">每日内容推荐</a></strong></h3>
+<ul class="recom-list clear">
+<li>
+<a href="http://ln.sina.com.cn/edu/kindergarten/2014-03-05/151423302.html" target="_blank"><img src="http://liaoning.sinaimg.cn/2014/0306/U6806P1195DT20140306113441.jpg" alt="幼儿园屋顶坍塌" /></a>
+<p><a href="http://ln.sina.com.cn/edu/kindergarten/2014-03-05/151423302.html" target="_blank">幼儿园屋顶坍塌</a></p>
+</li>
+<li>
+<a href="http://ln.sina.com.cn/edu/news/2014-03-06/104523371.html" target="_blank"><img src="http://liaoning.sinaimg.cn/2014/0306/U6806P1195DT20140306113451.jpg" alt="滑落水坑身亡" /></a>
+<p><a href="http://ln.sina.com.cn/edu/news/2014-03-06/104523371.html" target="_blank">滑落水坑身亡</a></p>
+</li>
+</ul>
+<ul class="everyday-list">
+<li>
+<a href="http://ln.sina.com.cn/edu/exams/2014-03-06/101823367.html" target="_blank">高考化学二轮复习应着重清除盲点</a></li>
+<li>
+<a href="http://ln.sina.com.cn/edu/lang/2014-03-06/102123368.html" target="_blank">资深老师详解今年雅思考试新变化</a></li>
+<li>
+<a href="http://ln.sina.com.cn/edu/parents/2014-03-06/101123361.html" target="_blank">细数带孩子开车时的潜在危险</a></li>
+<li>
+<a href="http://ln.sina.com.cn/edu/zcdt/2014-03-06/100323356.html" target="_blank">“90后”毕业生就业不顺</a></li>
+<li>
+<a href="http://ln.sina.com.cn/edu/exams/2014-03-06/101423364.html" target="_blank">国科大在辽首招30名本科生</a></li>
+</ul>
+</div>
+<style>
+.sdivt3{border-top:1px solid #E0E0E0!important;}
+</style>
+<!-- edu_show_tuijian end -->
+<div class="sdiv">
+<h3 class="stit"><strong>24小时排行</strong></h3>
+<ol class="ph-24">
+<!--  last update:2013-12-12 11:06:17 -->
+<li><a href="http://ln.sina.com.cn/edu/school/2013-12-11/103619083.html" target="_blank" title="假校长骗学生学费被判4年半">假校长骗学生学费被判4年半</a></li>
+<li><a href="http://ln.sina.com.cn/edu/exams/2013-12-11/104819089.html" target="_blank" title="17年起高考英语由150降至120">17年起高考英语由150降至120</a></li>
+<li><a href="http://ln.sina.com.cn/edu/exams/2013-12-11/110419099.html" target="_blank" title="高校自主招生更关注“专长”">高校自主招生更关注“专长”</a></li>
+<li><a href="http://ln.sina.com.cn/edu/school/2013-12-11/111419102.html" target="_blank" title="海事女生成我国最年轻潜航员">海事女生成我国最年轻潜航员</a></li>
+<!--  end -->
+</ol>
+</div>
+<div class="mt15" id="ad_arti_side_grp">
+</div>
+<!-- edu_show_weibo last update:2014-03-03 11:47:51 -->
+<div class="sdiv" style="width:248px;">
+<h3 class="stit"><span><a class="grey" href="http://ln.sina.com.cn/wdh/edu/list.html">更多&gt;&gt;</a></span><strong>微博推荐</strong></h3>
+<ul class="box_wbtj">
+<li>
+<div class="in_img"> <a href="http://weibo.com/2707270365" target="_blank"><img src="http://tp2.sinaimg.cn/2707270365/180/22830731099/1" alt="新浪辽宁教育" width="60" height="60" /></a> <a class="bbtn3 btn_attention" uid="2707270365" href="javascript:void(0);">关注</a> </div>
+<div class="in_txt">
+<p><a class="fcimp7" href="http://e.weibo.com/2707270365" target="_blank">新浪辽宁教育</a><a class="fyV" href="http://e.weibo.com/2707270365" target="_blank"></a></p>
+<p>辽宁37个本科专业排名<a href="http://weibo.com/2707270365/AudPyEblR?mod=weibotime" title="分享" target="_blank">分享</a></p>
+</div>
+</li>
+<li>
+<div class="in_img"> <a href="http://weibo.com/u/2694903061" target="_blank"><img src="http://tp2.sinaimg.cn/2694903061/180/5628560758/0" alt="沈阳公民出入境" width="60" height="60" /></a> <a class="bbtn3 btn_attention" uid="2694903061" href="javascript:void(0);">关注</a> </div>
+<div class="in_txt">
+<p><a class="fcimp7" href="http://weibo.com/u/2694903061" target="_blank">沈阳公民出入境</a><a class="fyV" href="http://weibo.com/u/2694903061" target="_blank"></a></p>
+<p>欧盟国家护照说明会<a href="http://weibo.com/2694903061/AzezJDWbY?mod=weibotime" title="分享" target="_blank">分享</a></p>
+</div>
+</li>
+</ul>
+</div>
+<style type="text/css">
+.box_wbtj { margin-left: 15px; margin-right: 15px; overflow: hidden; height: 230px; padding-top: 10px; }
+.box_wbtj li { clear: both; border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #DDD; height: 110px; margin-bottom: 10px; }
+.box_wbtj li .in_img { float: left; display: inline; margin-right: 10px; width: 60px; padding-top: 5px; }
+.box_wbtj li .in_img a img { display: inline-block; margin-top: 0px; margin-right: auto; margin-bottom: 5px; margin-left: auto; height: 60px; width: 60px; clear: both; }
+.box_wbtj li .in_img .bbtn3 { background-position:0px 0px; width:35px; height:24px; color:#ececec; display:inline-block; padding-left:25px; line-height:24px; background-image: url(http://anhui.sinaimg.cn/ah_2012_v2/educate/guanzhu.png); clear: both; }
+.box_wbtj li .in_img .bbtn3:hover { background-position:-60px 0px; }
+</style>
+<!-- edu_show_weibo end -->
+<!-- edu_show_localpic last update:2013-03-05 15:58:28 -->
+<div class="sdiv">
+<h3 class="stit"><strong><a href="http://ln.sina.com.cn/edu/pictures/list.html" target="_blank">图说教育</a></strong><span><a href="http://ln.sina.com.cn/edu" target="_blank" class="grey">更多&gt;&gt;</a></span></h3>
+<ul class="recom-list clear">
+<li>
+<a href="http://slide.ln.sina.com.cn/slide_37_32099_64128.html#p=1" target="_blank"><img src="http://liaoning.sinaimg.cn/2013/0110/U6806P1195DT20130110162635.jpg" alt="主持人中的女状元" /></a>
+<p><a href="http://slide.ln.sina.com.cn/slide_37_32099_64128.html#p=1" target="_blank">主持人中的女状元</a></p>
+</li>
+<li>
+<a href="http://slide.ln.sina.com.cn/slide_37_31284_60238.html" target="_blank"><img src="http://liaoning.sinaimg.cn/2013/0110/U6806P1195DT20130110162635_1.jpg" alt="沈阳女大学生车模" /></a>
+<p><a href="http://slide.ln.sina.com.cn/slide_37_31284_60238.html" target="_blank">沈阳女大学生车模</a></p>
+</li>
+<li>
+<a href="http://slide.ln.sina.com.cn/slide_37_33513_70975.html" target="_blank"><img src="http://liaoning.sinaimg.cn/2013/0110/U6806P1195DT20130110162636_1.jpg" alt="艺考中的女孩们" /></a>
+<p><a href="http://slide.ln.sina.com.cn/slide_37_33513_70975.html" target="_blank">艺考中的女孩们</a></p>
+</li>
+<li>
+<a href="http://slide.ln.sina.com.cn/edu/slide_37_37075_91652.html" target="_blank"><img src="http://liaoning.sinaimg.cn/2013/0110/U6806P1195DT20130110162636.jpg" alt="鞍山一中校花 薛萌" /></a>
+<p><a href="http://slide.ln.sina.com.cn/edu/slide_37_37075_91652.html" target="_blank">鞍山一中校花 薛萌</a></p>
+</li>
+</ul>
+</div>
+<!-- edu_show_localpic end -->
+</div>
+</div>
+<!-- tail last update:2014-01-07 09:28:30 -->
+<script type="text/javascript" src="http://i2.sinaimg.cn/cj/dfz/js/base.js" charset="utf-8"></script>
+<script>
+jQuery(function(){
+var info;
+try{if(info = sinaSSOController.getSinaCookie()){
+jQuery(".i_nick").each(function(i,v){$(v).html(info.nick).parent().prev().hide().next().show();});
+}}catch(e){}
+});
+$(".i_login").live('click',function(){
+DFZ.APP.DialogLogin.open({callback:function(){
+location.reload();
+}}); 
+}); 
+$(".i_reg").live('click',function(){
+window.open('http://weibo.com/signup/signup.php'); 
+});
+$(".i_logout").live('click',function(){ 
+location.href = 'http://weibo.com/logout.php?backurl='+location.href; 
+});
+</script>
+<div class="foot">
+<p><a href="http://corp.sina.com.cn/chn/" target="_blank">新浪简介</a>|<a href="http://ln.sina.com.cn/about/sina_js.html" target="_blank">新浪辽宁简介</a><!--|&lt;a href="http://sc.sina.com.cn/sitemap.html" target="_blank"&gt;网站地图&lt;/a&gt;-->|<a href="http://ln.sina.com.cn/advshow.html" target="_blank">广告服务</a><!--|&lt;a href="http://sc.sina.com.cn/about/sc_sw.htm" target="_blank"&gt;商务合作&lt;/a&gt;-->|<a href="http://ln.sina.com.cn/about/sinaln_lxwm.html" target="_blank">联系我们</a>|<a href="http://corp.sina.com.cn/chn/sina_sev.html" target="_blank">客户服务</a>|<a href="http://career.sina.com.cn/job_list.php?area=%C9%F2%D1%F4&amp;type=&amp;ptype=&amp;datearea=&amp;keyword=%C7%EB%CA%E4%C8%EB%D6%B0%CE%BB%B9%D8%BC%FC%D7%D6&amp;%CC%E1%BD%BB=%BF%AA%CA%BC%CB%D1%CB%F7" target="_blank">诚聘英才</a>|<a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">网站律师</a>|<a href="http://login.sina.com.cn/signup/signup.php?entry=gd" target="_blank">通行证注册</a>|<a href="http://tech.sina.com.cn/focus/sinahelp.shtml" target="_blank">产品答疑</a></p>
+<p class="copyright">Copyright &copy;&nbsp;1996&nbsp;-&nbsp;2014 SINA Corporation, All Rights Reserved</p>
+<p>新浪公司版权所有</p>
+</div>
+<!-- tail end -->
+<link type="text/css" href="http://i2.sinaimg.cn/cj/dfz/weibo_v2.0-sp1/weibo_v2.0-sp1.css" rel="stylesheet" media="all" charset="utf-8" />
+<script type="text/javascript">
+DFZ = window.DFZ || {};
+DFZ.UNION = DFZ.UNION || {};
+DFZ.UNION.CFG = {
+	site_id : 910,
+	upimgcallback : '',
+	videoassist: 'http://ln.sina.com.cn/iframe/260/union_article_video_1.html',
+	channel : 'ln',
+        appkey : 3828641036,
+        statpage : '',
+        app_id : 160,
+        auto_province : 21,
+        zone_cn : '辽宁',
+        auto_city : 1
+
+};
+</script>
+<script type="text/javascript" src="http://i1.sinaimg.cn/cj/dfz/cms_v1.0/cms_v1.0.js?version=20131224"></script>
+<script>
+scripts = '&lt;script type="text/javascript" src="http://i2.sinaimg.cn/cj/dfz/weibo_v2.0-sp1_UPDATE20120221/weibo_v2.0-sp1_UPDATE20120221.js" charset="utf-8"&gt;&lt;\/script&gt;'+ 
+'&lt;script type="text/javascript" src="http://i.sso.sina.com.cn/js/ssologin.js" charset="utf-8"&gt;&lt;\/script&gt;'+
+'&lt;script type="text/javascript" src="http://i.sso.sina.com.cn/js/sinaSSOManager.js" charset="utf-8"&gt;&lt;\/script&gt;'+
+'&lt;script type="text/javascript" src="http://i1.sinaimg.cn/home/sinaflash.js"&gt;&lt;\/script&gt;';
+document.write(scripts);
+</script>
+<script>
+$.ajax({url:'http://bj.house.sina.com.cn/8971/sinahouse/sy.js',scriptCharset:'utf-8',dataType:'script',success:function(){
+
+$(".cont .cr li:visible:last").html(house_link[0])
+$(".cont .cm li:visible:last").html(house_link[1])
+$(".travel-wrap").after('&lt;div class="wrap clear"&gt;&lt;iframe frameborder=0 scrolling=no width=950 height=311 src='+house_link[2]+'&gt;&lt;/iframe&gt;&lt;/div&gt;')
+
+}});
+</script>
+<script type="text/javascript" src="http://i0.sinaimg.cn/cj/dfz/cms2012/js/pagination.js"></script>
+<script src="http://ln.sina.com.cn/js/260/article_common_9.js"></script>
+<!-- 页面 JS处理 -->
+<script>
+
+function pageselectCallback(idx, jq){	
+	var cur = location.href.replace(/(_\d+)?\.html.*$/,'');
+	var des = cur+ (idx&gt;0?'_'+parseInt(idx+1):'') + '.html';
+	location.href = des;
+	return false;
+}	
+function initPagination(page) {	
+	jQuery(".page").pagination(page.total, {
+	callback: pageselectCallback,
+	current_page:parseInt(page.current-1),	num_edge_entries : 2,	num_display_entries : 5,
+	items_per_page:1,prev_text:"上一页",next_text:"下一页"
+	});
+}
+//分页展现
+var page_info = {
+'zt':{'cn_name':'','name':'','url':'','importance':'','catalog':''},
+'channel':{'cn_name':'教育','name':'edu','url':'/edu/'},
+'item':{'cn_name':'考试资讯','name':'exams','url':'/edu/exams/list.html'},
+'title':'辽宁今年将实施新的高考录取照顾办法',
+'url':'/edu/exams/2014-05-09/110827977.html',
+'lst_pic':'',
+'short_title':'',
+'wap_title':'',
+'content_pic':'',
+'vid':'',
+'show_time':'2014-05-09 11:08:30',
+'pagination':{'total':'2','current':'1','basedid':'27977'}
+};
+try{
+	initPagination(page_info.pagination);
+	$(".wrap a").each(function(i,v){if(/\//.test($(v).attr('href'))){v.target = '_blank';}})
+
+}catch(e){
+	if(/dfz_debug/.test(document.location.search)){alert(e)}
+}
+//评论
+jQuery(function(){if(dfz_cmnt_stat){try{sinaCMNT.embed.init({"channel":DFZ.UNION.CFG.channel,"newsid":"1195-328-27977"});}catch(e){if(/dfz_debug/.test(document.location.search)){alert(e)}}}});
+</script>
+</body>
+</html>

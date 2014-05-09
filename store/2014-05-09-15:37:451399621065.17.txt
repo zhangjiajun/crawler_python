@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- title -->
+<title>面试指南  -58同城</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="email=no" />
+<meta name="format-detection" content="address=no;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<meta name="description" content="58同城招聘网求职指南频道为求职者提供职业规划、个人简历模板、自我评价、面试技巧、升职加薪、跳槽策略、防欺诈技巧、劳动法规等30多个内容频道相关服务，为求职者在求职过程中的彷徨提供方向指南。" />
+<meta name="keywords" content="面试指南" />
+<!-- css -->
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="stylesheet" href="http://static.58.com/m58/m3/css/m.zixun.css" />
+<script src="http://static.58.com/m58/m3/js/jq.mobi.min.js"></script>
+<script src="http://static.58.com/m58/m3/js/m.zixun.js"></script></head>
+<body>
+<!--- banner --->
+<!--- banner end --->
+<!--- header --->
+<div class="header">
+<a class="logo_a" href="http://m.58.com/" onclick="clickLog('from=58logo')">
+<img src="http://pic2.58.com/m58/m3/img/logo.png" alt="中文最大生活信息门户" width="100%" />
+</a>
+<a href="http://m.58.com/" onclick="clickLog('from=58logo')"></a>
+<div class="city_a"><span class="city">面试指南</span></div>
+<a class="publish" path="http://p.m.58.com/?from=click_post_index" href="http://p.m.58.com/202/?path=http://m.58.com/&amp;from=click_post_index" onclick="clickLog('from=post')" rel="nofollow"><i class="ico"></i>发布</a>
+</div>
+<!--- header end --->
+<!-- tag  -->
+<div class="dl_nav">
+<a href="/w/zp/">求职指南</a>
+			    			&gt;
+    		    										<h1>
+<a href="/w/mianshizhinan/">面试指南</a>
+</h1>
+</div>
+<!-- tag end -->
+<!-- search -->
+<!-- search end -->
+<!--- nav --->
+<div class="zpnav">
+<div class="navtxt" id="navtxt">
+<ul>
+<li><a href="/w/zp/" class="catspan" name="zxindex">首页</a></li>
+<li><a href="/w/zhichangzixun/" class="catspan" name="zhichangzixun">职场资讯</a></li>
+<li><a href="/w/jianligonglue/" class="catspan" name="jianligonglue">简历攻略</a></li>
+<li><a href="/w/mianshizhinan/" class="catspan" name="mianshizhinan">面试指南</a></li>
+<li><a href="/w/xinchoufuli/" class="catspan" name="xinchoufuli">薪酬福利</a></li>
+<li><a href="/w/shenzaizc/" class="catspan" name="shenzaizc">身在职场</a></li>
+<li><a href="/w/laodongfayuan/" class="catspan" name="laodongfayuan">劳动法苑</a></li>
+<li><a href="/w/jianli/" class="catspan" name="jianli">个人简历</a></li>
+<li><a href="/w/zpzt/" class="catspan" name="zpzt">求职资讯专题</a></li>
+</ul>
+</div>
+<div class="navlist" id="zhichangzixun">
+<p>
+<a href="/w/jiuyedongtai/" name="jiuyedongtai">就业动态</a>
+<a href="/w/zhengcefagui/" name="zhengcefagui">政策法规</a>
+<a href="/w/hangyezixun/" name="hangyezixun">行业资讯</a>
+</p>
+</div>
+<div class="navlist" id="jianligonglue">
+<p>
+<a href="/w/jiaoshiqiuzhixin/" name="jiaoshiqiuzhixin">教师求职信</a>
+<a href="/w/jianlijiqiao/" name="jianlijiqiao">简历技巧</a>
+<a href="/w/jianlimoban/" name="jianlimoban">简历模板</a>
+<a href="/w/jianlifanwen/" name="jianlifanwen">简历范文</a>
+<a href="/w/qiuzhixin/" name="qiuzhixin">求职信</a>
+<a href="/w/ziwopingjia/" name="ziwopingjia">自我评价</a>
+<a href="/w/zhizuojiqiao/" name="zhizuojiqiao">制作技巧</a>
+<a href="/w/jianlifengmian/" name="jianlifengmian">简历封面</a>
+<a href="/w/jianlibiaoge/" name="jianlibiaoge">简历表格</a>
+<a href="/w/zijianxin/" name="zijianxin">自荐信</a>
+<a href="/w/ziwojianding/" name="ziwojianding">自我鉴定</a>
+</p>
+</div>
+<div class="navlist" id="mianshizhinan">
+<p>
+<a href="/w/mianshijiqiao/" name="mianshijiqiao">面试技巧</a>
+<a href="/w/mianshitiku/" name="mianshitiku">面试题库</a>
+<a href="/w/ziwojieshao/" name="ziwojieshao">自我介绍</a>
+</p>
+</div>
+<div class="navlist" id="xinchoufuli">
+<p>
+<a href="/w/shengzhijiaxin/" name="shengzhijiaxin">升职加薪</a>
+<a href="/w/fulidiantai/" name="fulidiantai">福利电台</a>
+<a href="/w/xinqingpandian/" name="xinqingpandian">薪情盘点</a>
+</p>
+</div>
+<div class="navlist" id="shenzaizc">
+<p>
+<a href="/w/zcchongdian/" name="zcchongdian">职场充电</a>
+<a href="/w/tiaocaocelue/" name="tiaocaocelue">跳槽策略</a>
+<a href="/w/lehuozc/" name="lehuozc">乐活职场</a>
+<a href="/w/shuzhibaogao/" name="shuzhibaogao">述职报告</a>
+</p>
+</div>
+<div class="navlist" id="laodongfayuan">
+<p>
+<a href="/w/guibixianjing/" name="guibixianjing">规避陷阱</a>
+<a href="/w/falvfagui/" name="falvfagui">法律法规</a>
+<a href="/w/jiuyeweiquan/" name="jiuyeweiquan">就业维权</a>
+</p>
+</div>
+</div>
+<!--- nav end --->
+<!---list info--->
+<ul class="infolst">
+<li>
+<a href="/w/mianshitiku/20140425630701.html">
+<strong>销售员笔试题</strong>
+<span class="fr red">阅读数:116</span><br />
+										    	      					&nbsp;请你逼真地想象你处于下述情境中，如果你遇到相同的情况，你觉得它是由于什么原因 引  起的?由于事情的发生可能有许多原因，我们只要求你选出一个原因，也就是事情发生  在你身上最有可能的原因。
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140425630694.html">
+<strong>一分钟自我介绍范文</strong>
+<span class="fr red">阅读数:383</span><br />
+										    	      					&nbsp;大家好，我叫58，毕业于长安区王家坝中学。我从小便喜好文学，对我而言，相比理科中奇妙的符号数字和多变的几何图形，我更喜爱文学中的那一片人文气息。无人时，我喜欢静静的看书，沉浸甚至沉醉于那一
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140425630693.html">
+<strong>金融业如何我介绍范文</strong>
+<span class="fr red">阅读数:137</span><br />
+										    	      					&nbsp;金融专业的你还在为不知道如何向面试官自我介绍而发愁忧虑吗?下面就来列举一篇金融专业自我介绍范文帮您解除疑惑。
+大家好，我能够站在这里面试，有机会向各位考官请教和学习，我感到非常的荣幸。希
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140423630683.html">
+<strong>嘉实基金笔试题目</strong>
+<span class="fr red">阅读数:153</span><br />
+										    	      					&nbsp;一、性格测试：四个选项，标出最符合和最不符合自己的描述
+二、智力测试? 题目分五部分 其中记得的有：
+1、三个数字选择与中间大小的差的绝对值最大的数字
+2、字母R排列成各种角度和形状
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-23</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140423630682.html">
+<strong>应聘性格方面自我介绍</strong>
+<span class="fr red">阅读数:332</span><br />
+										    	      					我十分看重枝微末节，常为了小地方的完美而忽略了大局。我工作勤奋、重实际，我不仅慎重且具有乐于助人的天性，我具有服务精神，并充分享受施予的乐趣。因为有一股来自精神的力量支撑我行动力，所以我看起来总是忙得
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-23</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140423630681.html">
+<strong>业务代表竞聘自我介绍</strong>
+<span class="fr red">阅读数:182</span><br />
+										    	      					&nbsp;您好，很高兴能够在这里介绍自己;我是五八同城，来此应征海外业务代表。
+我的背景和工作经验使我足以胜任这份业务代表的工作，我在北京念大学，主修行销，08年，再从美国德州大学的商学院得到工商
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-23</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshijiqiao/20140423630680.html">
+<strong>面试肢体语言泄露你的思想</strong>
+<span class="fr red">阅读数:181</span><br />
+										    	      					&nbsp;面试时，你的情绪清楚地写在你的头部或脸上，无论它是积极的还是消极的，这都是强有力的身体语言。
+表情
+1、歪着头倾听，显出对对方所谈内容很感兴趣。
+2、挠脑袋，表示慌乱和怀疑。
+3、
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-23</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140422630656.html">
+<strong>Twitter面试中的麻辣问题</strong>
+<span class="fr red">阅读数:105</span><br />
+										    	      					社交网络Twitter可以让我们获取很多新闻资讯，可以让我们随心所欲地使用。在这样的公司工作，真是妙不可言啊。但是，想进Twitter又谈何容易!它的面试过程极其严格，其中包含有很多棘手的麻辣问题。
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-22</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140422630655.html">
+<strong>雅思面试自我介绍范文</strong>
+<span class="fr red">阅读数:68</span><br />
+										    	      					&nbsp;Good morning, my name is Jack. It is really a great honor to have this  opportunity, and I bel
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-22</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140422630654.html">
+<strong>自我介绍的要点</strong>
+<span class="fr red">阅读数:181</span><br />
+										    	      					高考学生的自我介绍主要是向考官介绍自己，这样的介绍往往决定自己的命运，好的介绍能引起考官的注意，并留下深刻的印象，从而在打分、初评等环节能更认真对待。高考学生如何准备自我介绍呢?本人根据多年的教学实践
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-22</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshijiqiao/20140422630653.html">
+<strong>女性求职应该怎样答敏感问题</strong>
+<span class="fr red">阅读数:184</span><br />
+										    	      					女性在求职面试时，常会碰到一些敏感的问题，总觉得如何回答都不妥，很难让自己和别人都满意。那么，究竟该如何应对这些让人感到尴尬的问题呢?
+问题一、你认为家庭与事业之间存在着难以调和的矛盾吗?
+这是一
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-22</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140421630619.html">
+<strong>东软笔试常见的题目</strong>
+<span class="fr red">阅读数:146</span><br />
+										    	      					&nbsp;1、(数据结构)设线性表(a1,a2,a3,...,a500)中所有元素的值由小到大排列，对一个给定的值K，用二分法查找表中与K相等的元素，在查找不成功的情况下，至多需要比较  次：
+A
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-21</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140421630618.html">
+<strong>音乐老师面试自我介绍范文</strong>
+<span class="fr red">阅读数:127</span><br />
+										    	      					各位老师好!
+我叫xxx,200*年毕业于江苏省盐城师范音乐班。从教以来一直担任小学音乐学科教学，曾获得&ldquo;江苏省优秀辅导员&rdquo;称号、无锡市小学音乐学科教学能手、无锡市小学音乐课
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-21</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140421630617.html">
+<strong>光电信息专业毕业生自我介绍</strong>
+<span class="fr red">阅读数:144</span><br />
+										    	      					我是**学院物理系光电信息专业的200*届应届毕业生。
+我***年出生于揭阳市的一个农村，一个充满温馨的家庭，父母让我从小养成刻苦耐劳、谦虚谨慎、热情待人、朴实诚恳的生活态度。在四年的大学生涯，我刻
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-21</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshijiqiao/20140421630616.html">
+<strong>面试时别拿前单位说事</strong>
+<span class="fr red">阅读数:93</span><br />
+										    	      					&nbsp;第一，不要诋毁前单位。很多朋友跳槽，很大程度上是因为对前单位某些地方的不满而作出的决定，而这种情绪很可能会在求职过程中不自觉的反映出来。比如在提及为什么会离开前单位时，有些求职者就大吐苦水
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-21</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140421630603.html">
+<strong>自我介绍范文怎么写</strong>
+<span class="fr red">阅读数:263</span><br />
+										    	      					&nbsp;自我介绍是求职者留给HR的第一印象，好的自我介绍不仅能有效的&ldquo;推销&rdquo;自己，更是求职者自我认识的一种方法。那么简历中自我介绍范文怎么写呢？
+1、不宜长篇大论，内容简
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-21</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140418630581.html">
+<strong>索尼公司笔试题</strong>
+<span class="fr red">阅读数:126</span><br />
+										    	      					&nbsp;一、情景选择题
+请在a、b、c、d中选择正确的答案
+1、假如你遭到意外的打击，你会( )
+a.头昏眼花，不过几秒钟后就会恢复
+b.不知所措，以至数分钟之久
+c.一段时间内都处于伤
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-18</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140418630580.html">
+<strong>支教教师自我介绍</strong>
+<span class="fr red">阅读数:201</span><br />
+										    	      					我是来自河北师范大学汇华学院化学专业=邱晓丽，很高兴来到你们贵校-------赵县中学，参加第十五期顶岗支教，非常认识你们。
+我是学化学的，接下来的日子里由我担任咱班的化学，请同学们放心的把心交给老
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-18</span>
+</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140418630579.html">
+<strong>编导专业毕业生自我介绍</strong>
+<span class="fr red">阅读数:111</span><br />
+										    	      					我的名字叫xx。这个名字对于别人可能很普通。对我来说却有特殊的意义。正所谓望子成龙望女成凤，这个名字里不仅蕴含着父母之间的感情，还包含着他们在我身上寄予的成功的希望。
+我是一个性格多元化的男生。我既
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-18</span>
+</a>
+</li>
+<li>
+<a href="/w/mianshijiqiao/20140418630578.html">
+<strong>化压力成空气的面试技巧</strong>
+<span class="fr red">阅读数:193</span><br />
+										    	      					1.放弃无意义的固执。有些人总想能得到一切，而怕失去一点儿，不愿做出任何放弃，这种心理常会使你患得患失，背着沉重的包袱熬过每一天。此时也往往会放大这些困难形成压力。关键是放弃无意义的固执追求，抓住主业
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-18</span>
+</a>
+</li>
+</ul>
+<!---list info end--->
+<!---page--->
+<div class="paging">
+<a id="prev" href="/w/mianshizhinan/list_9_0.html" class="prev"><i class="ico"></i>上一页</a>
+<span class="page_sel">
+<div class="selVal">
+<span class="sle_show sel_default">1</span> <span class="sle_ri"><span class="sel_xia"></span></span>
+</div>
+<select id="sel_page" class="select_item">
+<option value="1">第1页</option>
+<option value="2">第2页</option>
+<option value="3">第3页</option>
+<option value="4">第4页</option>
+<option value="5">第5页</option>
+<option value="6">第6页</option>
+<option value="7">第7页</option>
+<option value="8">第8页</option>
+<option value="9">第9页</option>
+<option value="10">第10页</option>
+<option value="11">第11页</option>
+<option value="12">第12页</option>
+<option value="13">第13页</option>
+<option value="14">第14页</option>
+<option value="15">第15页</option>
+<option value="16">第16页</option>
+<option value="17">第17页</option>
+<option value="18">第18页</option>
+<option value="19">第19页</option>
+<option value="20">第20页</option>
+<option value="21">第21页</option>
+<option value="22">第22页</option>
+<option value="23">第23页</option>
+<option value="24">第24页</option>
+<option value="25">第25页</option>
+<option value="26">第26页</option>
+<option value="27">第27页</option>
+<option value="28">第28页</option>
+<option value="29">第29页</option>
+<option value="30">第30页</option>
+<option value="31">第31页</option>
+<option value="32">第32页</option>
+<option value="33">第33页</option>
+<option value="34">第34页</option>
+<option value="35">第35页</option>
+<option value="36">第36页</option>
+<option value="37">第37页</option>
+<option value="38">第38页</option>
+<option value="39">第39页</option>
+<option value="40">第40页</option>
+<option value="41">第41页</option>
+<option value="42">第42页</option>
+<option value="43">第43页</option>
+<option value="44">第44页</option>
+<option value="45">第45页</option>
+<option value="46">第46页</option>
+<option value="47">第47页</option>
+<option value="48">第48页</option>
+<option value="49">第49页</option>
+<option value="50">第50页</option>
+<option value="51">第51页</option>
+<option value="52">第52页</option>
+<option value="53">第53页</option>
+<option value="54">第54页</option>
+<option value="55">第55页</option>
+<option value="56">第56页</option>
+<option value="57">第57页</option>
+<option value="58">第58页</option>
+<option value="59">第59页</option>
+<option value="60">第60页</option>
+<option value="61">第61页</option>
+<option value="62">第62页</option>
+<option value="63">第63页</option>
+<option value="64">第64页</option>
+<option value="65">第65页</option>
+<option value="66">第66页</option>
+<option value="67">第67页</option>
+<option value="68">第68页</option>
+<option value="69">第69页</option>
+<option value="70">第70页</option>
+<option value="71">第71页</option>
+<option value="72">第72页</option>
+<option value="73">第73页</option>
+<option value="74">第74页</option>
+<option value="75">第75页</option>
+<option value="76">第76页</option>
+<option value="77">第77页</option>
+<option value="78">第78页</option>
+<option value="79">第79页</option>
+<option value="80">第80页</option>
+<option value="81">第81页</option>
+<option value="82">第82页</option>
+<option value="83">第83页</option>
+<option value="84">第84页</option>
+<option value="85">第85页</option>
+<option value="86">第86页</option>
+<option value="87">第87页</option>
+<option value="88">第88页</option>
+<option value="89">第89页</option>
+<option value="90">第90页</option>
+<option value="91">第91页</option>
+<option value="92">第92页</option>
+<option value="93">第93页</option>
+<option value="94">第94页</option>
+<option value="95">第95页</option>
+<option value="96">第96页</option>
+<option value="97">第97页</option>
+<option value="98">第98页</option>
+<option value="99">第99页</option>
+<option value="100">第100页</option>
+<option value="101">第101页</option>
+<option value="102">第102页</option>
+<option value="103">第103页</option>
+<option value="104">第104页</option>
+<option value="105">第105页</option>
+<option value="106">第106页</option>
+<option value="107">第107页</option>
+<option value="108">第108页</option>
+<option value="109">第109页</option>
+<option value="110">第110页</option>
+<option value="111">第111页</option>
+<option value="112">第112页</option>
+<option value="113">第113页</option>
+<option value="114">第114页</option>
+<option value="115">第115页</option>
+<option value="116">第116页</option>
+<option value="117">第117页</option>
+<option value="118">第118页</option>
+<option value="119">第119页</option>
+<option value="120">第120页</option>
+<option value="121">第121页</option>
+<option value="122">第122页</option>
+<option value="123">第123页</option>
+<option value="124">第124页</option>
+<option value="125">第125页</option>
+<option value="126">第126页</option>
+<option value="127">第127页</option>
+<option value="128">第128页</option>
+<option value="129">第129页</option>
+<option value="130">第130页</option>
+<option value="131">第131页</option>
+<option value="132">第132页</option>
+<option value="133">第133页</option>
+<option value="134">第134页</option>
+<option value="135">第135页</option>
+<option value="136">第136页</option>
+<option value="137">第137页</option>
+<option value="138">第138页</option>
+<option value="139">第139页</option>
+<option value="140">第140页</option>
+<option value="141">第141页</option>
+<option value="142">第142页</option>
+<option value="143">第143页</option>
+<option value="144">第144页</option>
+<option value="145">第145页</option>
+<option value="146">第146页</option>
+<option value="147">第147页</option>
+<option value="148">第148页</option>
+<option value="149">第149页</option>
+<option value="150">第150页</option>
+<option value="151">第151页</option>
+<option value="152">第152页</option>
+<option value="153">第153页</option>
+<option value="154">第154页</option>
+<option value="155">第155页</option>
+<option value="156">第156页</option>
+<option value="157">第157页</option>
+<option value="158">第158页</option>
+<option value="159">第159页</option>
+<option value="160">第160页</option>
+<option value="161">第161页</option>
+<option value="162">第162页</option>
+<option value="163">第163页</option>
+<option value="164">第164页</option>
+<option value="165">第165页</option>
+<option value="166">第166页</option>
+<option value="167">第167页</option>
+<option value="168">第168页</option>
+<option value="169">第169页</option>
+<option value="170">第170页</option>
+<option value="171">第171页</option>
+<option value="172">第172页</option>
+<option value="173">第173页</option>
+<option value="174">第174页</option>
+<option value="175">第175页</option>
+<option value="176">第176页</option>
+<option value="177">第177页</option>
+<option value="178">第178页</option>
+<option value="179">第179页</option>
+<option value="180">第180页</option>
+<option value="181">第181页</option>
+<option value="182">第182页</option>
+<option value="183">第183页</option>
+<option value="184">第184页</option>
+<option value="185">第185页</option>
+<option value="186">第186页</option>
+<option value="187">第187页</option>
+<option value="188">第188页</option>
+<option value="189">第189页</option>
+<option value="190">第190页</option>
+<option value="191">第191页</option>
+<option value="192">第192页</option>
+<option value="193">第193页</option>
+<option value="194">第194页</option>
+<option value="195">第195页</option>
+<option value="196">第196页</option>
+<option value="197">第197页</option>
+<option value="198">第198页</option>
+<option value="199">第199页</option>
+<option value="200">第200页</option>
+<option value="201">第201页</option>
+<option value="202">第202页</option>
+<option value="203">第203页</option>
+<option value="204">第204页</option>
+<option value="205">第205页</option>
+<option value="206">第206页</option>
+<option value="207">第207页</option>
+<option value="208">第208页</option>
+<option value="209">第209页</option>
+<option value="210">第210页</option>
+<option value="211">第211页</option>
+<option value="212">第212页</option>
+<option value="213">第213页</option>
+<option value="214">第214页</option>
+<option value="215">第215页</option>
+<option value="216">第216页</option>
+<option value="217">第217页</option>
+<option value="218">第218页</option>
+<option value="219">第219页</option>
+<option value="220">第220页</option>
+<option value="221">第221页</option>
+<option value="222">第222页</option>
+<option value="223">第223页</option>
+<option value="224">第224页</option>
+<option value="225">第225页</option>
+<option value="226">第226页</option>
+<option value="227">第227页</option>
+<option value="228">第228页</option>
+<option value="229">第229页</option>
+<option value="230">第230页</option>
+<option value="231">第231页</option>
+<option value="232">第232页</option>
+<option value="233">第233页</option>
+<option value="234">第234页</option>
+<option value="235">第235页</option>
+<option value="236">第236页</option>
+<option value="237">第237页</option>
+<option value="238">第238页</option>
+<option value="239">第239页</option>
+<option value="240">第240页</option>
+<option value="241">第241页</option>
+<option value="242">第242页</option>
+<option value="243">第243页</option>
+<option value="244">第244页</option>
+<option value="245">第245页</option>
+<option value="246">第246页</option>
+<option value="247">第247页</option>
+<option value="248">第248页</option>
+<option value="249">第249页</option>
+<option value="250">第250页</option>
+<option value="251">第251页</option>
+<option value="252">第252页</option>
+<option value="253">第253页</option>
+<option value="254">第254页</option>
+<option value="255">第255页</option>
+<option value="256">第256页</option>
+<option value="257">第257页</option>
+<option value="258">第258页</option>
+<option value="259">第259页</option>
+<option value="260">第260页</option>
+<option value="261">第261页</option>
+<option value="262">第262页</option>
+<option value="263">第263页</option>
+<option value="264">第264页</option>
+<option value="265">第265页</option>
+<option value="266">第266页</option>
+<option value="267">第267页</option>
+<option value="268">第268页</option>
+<option value="269">第269页</option>
+<option value="270">第270页</option>
+<option value="271">第271页</option>
+<option value="272">第272页</option>
+<option value="273">第273页</option>
+<option value="274">第274页</option>
+<option value="275">第275页</option>
+<option value="276">第276页</option>
+<option value="277">第277页</option>
+<option value="278">第278页</option>
+<option value="279">第279页</option>
+<option value="280">第280页</option>
+<option value="281">第281页</option>
+<option value="282">第282页</option>
+<option value="283">第283页</option>
+<option value="284">第284页</option>
+<option value="285">第285页</option>
+<option value="286">第286页</option>
+<option value="287">第287页</option>
+<option value="288">第288页</option>
+<option value="289">第289页</option>
+<option value="290">第290页</option>
+<option value="291">第291页</option>
+<option value="292">第292页</option>
+<option value="293">第293页</option>
+<option value="294">第294页</option>
+<option value="295">第295页</option>
+<option value="296">第296页</option>
+<option value="297">第297页</option>
+<option value="298">第298页</option>
+<option value="299">第299页</option>
+<option value="300">第300页</option>
+<option value="301">第301页</option>
+<option value="302">第302页</option>
+<option value="303">第303页</option>
+<option value="304">第304页</option>
+<option value="305">第305页</option>
+<option value="306">第306页</option>
+<option value="307">第307页</option>
+<option value="308">第308页</option>
+<option value="309">第309页</option>
+<option value="310">第310页</option>
+<option value="311">第311页</option>
+<option value="312">第312页</option>
+<option value="313">第313页</option>
+<option value="314">第314页</option>
+<option value="315">第315页</option>
+<option value="316">第316页</option>
+<option value="317">第317页</option>
+<option value="318">第318页</option>
+<option value="319">第319页</option>
+<option value="320">第320页</option>
+<option value="321">第321页</option>
+<option value="322">第322页</option>
+<option value="323">第323页</option>
+<option value="324">第324页</option>
+<option value="325">第325页</option>
+<option value="326">第326页</option>
+<option value="327">第327页</option>
+<option value="328">第328页</option>
+<option value="329">第329页</option>
+<option value="330">第330页</option>
+<option value="331">第331页</option>
+<option value="332">第332页</option>
+<option value="333">第333页</option>
+<option value="334">第334页</option>
+<option value="335">第335页</option>
+<option value="336">第336页</option>
+<option value="337">第337页</option>
+<option value="338">第338页</option>
+<option value="339">第339页</option>
+<option value="340">第340页</option>
+<option value="341">第341页</option>
+<option value="342">第342页</option>
+<option value="343">第343页</option>
+<option value="344">第344页</option>
+<option value="345">第345页</option>
+<option value="346">第346页</option>
+<option value="347">第347页</option>
+<option value="348">第348页</option>
+<option value="349">第349页</option>
+<option value="350">第350页</option>
+<option value="351">第351页</option>
+<option value="352">第352页</option>
+<option value="353">第353页</option>
+<option value="354">第354页</option>
+<option value="355">第355页</option>
+<option value="356">第356页</option>
+<option value="357">第357页</option>
+<option value="358">第358页</option>
+<option value="359">第359页</option>
+<option value="360">第360页</option>
+<option value="361">第361页</option>
+<option value="362">第362页</option>
+<option value="363">第363页</option>
+<option value="364">第364页</option>
+<option value="365">第365页</option>
+<option value="366">第366页</option>
+<option value="367">第367页</option>
+<option value="368">第368页</option>
+<option value="369">第369页</option>
+<option value="370">第370页</option>
+<option value="371">第371页</option>
+<option value="372">第372页</option>
+<option value="373">第373页</option>
+<option value="374">第374页</option>
+<option value="375">第375页</option>
+<option value="376">第376页</option>
+<option value="377">第377页</option>
+<option value="378">第378页</option>
+<option value="379">第379页</option>
+<option value="380">第380页</option>
+<option value="381">第381页</option>
+<option value="382">第382页</option>
+<option value="383">第383页</option>
+<option value="384">第384页</option>
+<option value="385">第385页</option>
+<option value="386">第386页</option>
+<option value="387">第387页</option>
+<option value="388">第388页</option>
+<option value="389">第389页</option>
+<option value="390">第390页</option>
+<option value="391">第391页</option>
+<option value="392">第392页</option>
+<option value="393">第393页</option>
+<option value="394">第394页</option>
+<option value="395">第395页</option>
+<option value="396">第396页</option>
+<option value="397">第397页</option>
+<option value="398">第398页</option>
+<option value="399">第399页</option>
+<option value="400">第400页</option>
+<option value="401">第401页</option>
+<option value="402">第402页</option>
+<option value="403">第403页</option>
+</select>
+</span>
+<a id="next" href="/w/mianshizhinan/list_9_2.html" class="next">下一页<i class="ico"></i></a>
+<script>
+        $(function () {
+            $("#sel_page").bind("change", function () {
+                $(".sel_default").html($(this).val());
+                var selectedPage = $(this).val();
+                var url = "/w/mianshizhinan/list_9_pn.html" 
+                var reg = /_pn/;
+                url = url.replace(reg, "_" + selectedPage);
+                document.location.href = url ;
+            });
+        });
+    </script>
+</div>
+<!---page end--->
+<!---焦点资讯-->
+<div class="zixininfo">
+<div class="zixuntit"><strong>热门排行</strong></div>
+<ul class="zixunlist">
+<li>
+<a href="/w/mianshijiqiao/2013032090791.html">面试技巧和注意事项</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140425630694.html">一分钟自我介绍范文</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140423630682.html">应聘性格方面自我介绍</a>
+</li>
+<li>
+<a href="/w/mianshijiqiao/2013032165194.html">应届生面试技巧</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/201206084839.html">自我介绍时注意＂经验＂不等于＂经历＂</a>
+</li>
+</ul>
+<div class="zixuntit bortop"><strong>推荐阅读</strong></div>
+<ul class="zixunlist">
+<li>
+<a href="/w/mianshitiku/20140425630701.html">销售员笔试题</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140425630694.html">一分钟自我介绍范文</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140425630693.html">金融业如何我介绍范文</a>
+</li>
+<li>
+<a href="/w/mianshitiku/20140423630683.html">嘉实基金笔试题目</a>
+</li>
+<li>
+<a href="/w/ziwojieshao/20140423630682.html">应聘性格方面自我介绍</a>
+</li>
+</ul>
+</div>
+<div class="footer">
+<p class="footer_01">
+<a class="footer_hover" rel="nofollow">触屏版</a>
+<a id="gotodownload" href="http://m.58.com/bj/down.shtml" rel="nofollow">客户端</a>
+</p>
+<p class="footer_02">手机58网：58.com&nbsp;&nbsp;&nbsp;&nbsp;京ICP证060405号</p>
+</div>
+<img class="googleanalyze" src="" style="display: none;" />
+<script type="text/javascript">
+	var prefix = "http://m.58.com/ga/?utmac=MO-35618414-1&amp;utmn=";
+	var suffix = new Date().getTime()+"&amp;utmr=-&amp;utmp=%2Flocal%2Fzixun%2F&amp;guid=ON";
+	var url = prefix+suffix;
+	$("img[class='googleanalyze']").attr("src",url);
+</script>
+<script type="text/javascript"> 
+var _gaq = _gaq || [],site_name = "M58",shop_count= "0",page_type = "list";
+var _trackURL = "{'cate':'6,9','area':'','pagetype':'list','actiontype':'zixun','pagesize':'25'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/m/mianshizhinan/zixun/list/']);
+</script>
+<script src="http://www.google-analytics.com/ga.js" async="async"></script>
+<script src="http://tracklog.58.com/referrer_m.js" async="async"></script>
+</body>
+</html>
+<script type="text/javascript">
+
+	$(function() {
+		$("#navtxt li a[name='mianshizhinan']").removeClass().addClass("catspan select");
+		$("#mianshizhinan").attr('style','display: block;');
+		$("#mianshizhinan a[name='mianshizhinan']").removeClass().addClass("select");
+	});
+	$(function() {
+		if(1 == 1 ){
+			$("#prev").attr("href","javascript:void();");
+			$("#prev").removeClass().addClass("prev disabled");
+		}
+		if(1 == 403){
+			$("#next").removeClass().addClass("next disabled").attr("href","javascript:void();");
+		}
+	});
+</script>

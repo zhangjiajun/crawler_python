@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://pic2.58.com/back/favicon.ico" />
+<title>发布香港手机号码信息-香港58同城</title>
+<script type="text/javascript"> 
+var userid = '0'; 
+try { var ____json4fe = { catentry: [{ oid:'5', dispid: '5', name: '二手市场', listname: 'sale' }, { oid:'241', dispid: '241', name: '手机号码', listname: 'shoujihao' }, { dispid: '', name: '', listname: 'post5'}], locallist: { dispid: '2050', name: '香港', listname: 'hk' }, modules: 'postpage', ext: { uploadurl:'/flashupload/',locallist: { 'current':{ dispid: '2050', name: '香港', listname: 'hk' } , 'area':{dispid: '0', name: '', listname: ''}}} }} catch (e) { }; 
+</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/1.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/jquery1.3.2.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://pic2.58.com/fuwenben/editor_config.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://pic2.58.com/fuwenben/editor_all.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_postpage_version.js"> </script>
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css?version=20120821" media="all" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/prompt.css?version=20120821" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/post/postpublic.css?version=20120821" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/post/post-ui7.css?version=20120925" media="all" />
+<script type="text/javascript" src="http://static.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<script src="http://static.58.com/js/5_1/91/19h.js" type="text/javascript"></script>
+<script src="http://static.58.com/js/5_1/91/35e.js" type="text/javascript"></script>
+<script type="text/javascript"> document.domain = "58.com";  var postpic_version = 'java';</script>
+<script type="text/javascript"> var myInfo = { infoID:'0', userid:0, loginstate:'', cityid:2050, dispCityid:2050, curDiscateid:241, rootCateName:'sale', currentCateName:'shoujihao', TopRoleMaxCount:0, CurrentPostCount:0, viewdata:{ baohushouji:''} };</script>
+<script type="text/javascript"> 
+var iqas_mcvalue = '1399620960730';var iqas_mcformula = 'function a(){var b="11096989445341399995764172";var c="";for(var d=b.length-1;d&gt;=0;d--){c+=b.charAt(d);}return "0"+c};try{a();}catch(e){}';$(function(){$("&lt;input name='iqas_mcresult' value='"+eval(iqas_mcformula.replace('checkValue', iqas_mcvalue))+"' / style='display:none'&gt;").appendTo($('#aspnetForm'));});
+</script></head>
+<body>
+<header id="header" style="height:58px">
+<h1 id="logo">
+<a href="http://www.58.com/" target="_blank"><img src="http://pic2.58.com/ui7/img/logo.gif" title="58同城" alt="58同城" />
+</a>
+</h1>
+<h2 class="sub_title"><b>香港</b>
+<a href="http://post.58.com/postindex.htm" class="changecity">切换城市</a>
+</h2>
+<div id="login"><a href="https://passport.58.com/login/?path=http%3A//post.58.com/" target="_self">登录</a>
+<span class="gap">|</span><a href="http://passport.58.com/reg/?city=post" target="_self">注册</a></div>
+</header>
+<section id="stepbar" class="step_n_2"><div class="step"> <ol class="cols3"><li class="step_1"><span class="num">1</span><span class="maintxt">手机号码</span><span class="subtxt">（<a href="/2050">重选类别</a>）</span><span class="l"></span><span class="r"></span></li><li class="step_2"><span class="num">2</span><span class="maintxt">填写详情</span><span class="subtxt"></span><span class="l"></span><span class="r"></span></li><li class="step_3"><span class="num">3</span><span class="maintxt">发布成功</span><span class="l"></span><span class="r"></span></li></ol> </div></section>
+<div class="content">
+<div id="toperro" class="hc"></div>
+<div name="mydear">
+<div class="dearUser clearfix">
+<p class="fl c_666">
+<span class="ml20">亲爱的</span><strong class="ml5 mr5"></strong>，
+						您的信用值是<strong class="c_f50 ml5 mr5">0</strong>。今天在
+						<strong> 手机号码</strong>
+						你还可以发布 <b name="leftcount" class="c_f50"></b>
+						条信息！
+					</p>
+<p class="fr f12 pr20">
+						无法发布？<a href="http://about.58.com/28.html#q">查看帮助</a>
+</p>
+</div>
+</div>
+</div>
+<style type="text/css">
+.fabu-box { padding:10px 0 0;}
+.fabu-box .fu-t{ padding:8px 0;}
+.fabu-box .fu-t h2{ font-size:14px; padding-left:20px;}
+table.gn-table{ width:100%; border-collapse:collapse; }
+table.gn-table th, table.gn-table td{ border:#dbe0e3 1px solid; line-height:20px; padding:12px 20px;}
+table.gn-table th{ background-color:#f3f3f3; text-align:center; color:#666;}
+.money-box{ text-align:center;font-size:14px; color:#333;}
+.money-box strong{ font-family:Arial, Helvetica, sans-serif; font-size:28px; color:#ff6600; margin-right:2px; }
+.money-box a.sq-btn{ background-position:0 -93px; width:107px; height:34px; text-align:center; line-height:34px; color:#fff; font-size:15px; display:inline-block; font-weight:bold; margin-top:14px; }
+.clearfix li { position: relative; }
+.haomatitle { position: absolute; left: 95px; top: 0; background: url(http://pic2.58.com/ui7/post/img/haomatishi.png) no-repeat; padding-left:22px; }
+.haomatitle p { width: 170px; height: 33px; background:url(http://pic2.58.com/ui7/post/img/haomatishi.png) no-repeat right top; font-size: 12px; line-height: 34px; }
+.haomatitle p a {  color: #2255DD; font-family: SunSim; }
+.haomatitle p a span { color: #ff0000; }
+</style>
+<form name="aspnetForm" method="post" target="formSubmit" id="aspnetForm" enctype="multipart/form-data">
+<!-- =S content -->
+<div id="contentPost" class="mb15">
+<!-- =S expand 详细描述 -->
+<ul id="fabu-ul" class="clearfix">
+<li class="selected"><a href="javascript:;" onclick="show(1,2)">单条发布</a></li>
+<li><a href="http://apply.vip.58.com/productinfo/shoujihao" target="_blank">批量发布</a>
+<div class="haomatitle">
+<p>
+<a href="http://apply.vip.58.com/productinfo/shoujihao" target="_blank">批量升级啦！发布又快又好！</a>
+</p>
+</div>
+</li>
+</ul>
+<div id="fabu-con-1" class="fabu-box clearfix">
+<table class="formTable">
+<tr>
+<th class="tr"><em class="red">*</em>发布人</th>
+<td><label for="" style="margin-right:8px;"><input type="radio" name="faburen" value="0" checked="checked" />个人转让</label><label for=""><input type="radio" name="faburen" value="1" />商家转让</label>
+<span id="isBiz_Tip"></span></td>
+</tr>
+<tr para="type" style="display:none"></tr>
+<tr para="ObjectType"></tr>
+<tr>
+<th class="tr"><em class="red">*</em>转让手机号</th>
+<td>
+<input class="txt w106" type="text" name="Title" id="Title" value="" except="" maxlength="40" />
+<input class="base" type="checkbox" value="1" id="haomaleixing" name="haomaleixing" />3G
+		                <span id="Title_Tip"></span><input type="hidden" name="souhaoma" id="souhaoma" />
+</td>
+</tr>
+<tr id="tt" style="display: none" class="pb">
+<th class="tr"><em class="red">*</em>选择标签</th>
+<td>
+<ul class="tag3" id="tagul">
+</ul>
+<span id="infotag_Tip"></span>
+</td>
+</tr>
+<tr>
+<th class="tr"><em class="red">*</em>转让价格</th>
+<td><input class="txt w106" type="text" id="MinPrice" f="{0}元" name="MinPrice" value="面议" except="面议" maxlength="5" />
+			                元<span id="MinPrice_Tip"></span>
+</td>
+
+</tr>
+<tr>
+<th class="tr">号码特征</th>
+<td>
+<input type="text" name="tezheng" id="tezheng" value="" class="txt w106" except="null" maxlength="6" />
+<span id="tezheng_Tip"></span>
+</td>
+</tr>
+<tr>
+<th><em class="red">*</em>详细说明</th>
+<td>
+<script id="editor" type="text/plain"></script>
+<div style="width:1px; height:1px; overflow:hidden"><textarea id="Content" name="Content" style="width:0px; height:0px;"></textarea></div>
+<span id="Content_Tip"></span><div id="divContentValue" style="display:none;"></div>
+</td>
+</tr>
+<script src="/js/fuwenben.js" type="text/javascript"></script>
+<tr>
+<th>所在区域</th>
+<td><input type="button" style="display:none" id="hiddenBtnArea" onclick="getCityAreaID();" />
+<select class="defaultSelt" id="localArea" name="localArea">
+<option value="">--区域--</option>
+<option value="2153">九龙城</option>
+<option value="2151">中西</option>
+<option value="2152">东区</option>
+<option value="2154">观塘</option>
+<option value="2161">湾仔</option>
+<option value="2174">沙田</option>
+<option value="2176">屯门</option>
+<option value="2183">荃湾</option>
+<option value="2160">黄大仙</option>
+<option value="2166">离岛</option>
+<option value="5602">其它</option>
+</select>&nbsp;
+		                        <select class="defaultSelt" id="localDiduan" name="localDiduan">
+<option value="">--商圈--</option>
+</select>
+<select id="selectDiduanHidden" name="selectDiduanHidden" style="display: none;">
+<option id="5602_2155" value="2155">南区</option>
+<option id="5602_2159" value="2159">深水埗</option>
+<option id="5602_2162" value="2162">元朗</option>
+<option id="5602_2171" value="2171">葵青</option>
+<option id="5602_2172" value="2172">北区</option>
+<option id="5602_2173" value="2173">西贡</option>
+<option id="5602_2180" value="2180">大埔</option>
+<option id="5602_5609" value="5609">其它</option>
+</select>
+</td>
+</tr>
+<tr>
+<th class="pt18"><em class="red">*</em>联系人</th>
+<td>
+<input type="text" class="txt w106 c_999" name="goblianxiren" id="goblianxiren" value="姓名" except="" maxlength="6" onfocus="if(this.value.replace(/^\s+|\s+$/g,'') == '姓名') this.value=''" onblur="if(this.value.replace(/^\s+|\s+$/g,'') == '') this.value='姓名'" />
+<input id="IsBiz" class="base" type="checkbox" value="1" name="IsBiz" style="display:none;" />
+<span id="goblianxiren_Tip"></span>
+</td>
+</tr>
+<tr>
+<th><em class="red">*</em>联系电话</th>
+<td>
+<input class="txt w146 c_999" type="text" id="Phone" name="Phone" value="手机号/固定电话" except="" onfocus="if(this.value.replace(/^\s+|\s+$/g,'') == '手机号/固定电话') this.value=''" onblur="if(this.value.replace(/^\s+|\s+$/g,'') == '') this.value='手机号/固定电话'" />
+<span id="Phone_Tip"></span>
+</td>
+</tr>
+<tr>
+<th></th>
+<td>
+<span class="fabubtn1"><input type="submit" id="fabu" class="post_submit1" value="确认并发布" ct="submit" formnovalidate="formnovalidate" /></span>
+</td>
+</tr>
+</table>
+</div>
+<div id="fabu-con-2" class="fabu-box clearfix" style="display:none;">
+<div class="fu-t"><h2>只需<strong class="red">20元</strong>申请开通手机号码批量发布助手，享有众多VIP服务，<a href="http://apply.vip.58.com/productinfo/shoujihao" target="_blank">查看详情&gt;&gt;</a></h2></div>
+<table class="gn-table">
+<col width="200" />
+<col width="550" />
+<col />
+<tr>
+<th>功能</th>
+<th>详细说明</th>
+<th>价格</th>
+</tr>
+<tr>
+<td>拥有网邻通用户后台</td>
+<td>开通后立刻享有网邻通用户操作后台，号码管理方便又快捷</td>
+<td rowspan="7" class="vm"><div class="money-box"><strong>20.0</strong>元/月<br /><a class="sq-btn" href="http://apply.vip.58.com/apply/stepone?p=1" target="_blank">立即申请</a></div></td>
+</tr>
+<tr>
+<td>便捷的号码发布系统</td>
+<td>您可以选择批量发布或单条发布手机号码，批量发布一次最多可发布100个号码</td>
+</tr>
+<tr>
+<td>尊贵的身份标识</td>
+<td>您发布的所有手机号码信息，在前台页面都带有网邻通标志，尊贵又可信</td>
+</tr>
+<tr>
+<td>信息点击量统计</td>
+<td>您可以在网邻通后台看到每个号码的浏览量，从而帮助您有效的判断每个号码的关注度与效果</td>
+</tr>
+<tr>
+<td>免费赠送网上店铺</td>
+<td>您将拥有一个小巧精致的店铺，展示您发布的号码，同时又能提高您公司的知名度</td>
+</tr>
+<tr>
+<td>提高信用值的新途径</td>
+<td>网邻通后台为您提供多种证书认证，有效提高您的信用值，得到更多求职者的关注</td>
+</tr>
+<tr>
+<td>客服全程服务</td>
+<td>专业的客服全程为您解决各种疑难问题，服务周到，免去您后顾之忧</td>
+</tr>
+</table>
+</div>
+</div>
+<!-- =E expand -->
+<!-- =E content -->
+</form>
+<script type="text/javascript">
+	function show(cur, allnum) {
+		var Ul1 = document.getElementById("fabu-ul"), lis = Ul1
+				.getElementsByTagName("li");
+		var showDiv = document.getElementById("fabu-con-" + cur);
+		for ( var i = 1; i &lt; allnum + 1; i++) {
+			var hiddenDiv = document.getElementById("fabu-con-" + i);
+			hiddenDiv.style.display = "none";
+		}
+		showDiv.style.display = "block";
+		for ( var j = 0; j &lt; lis.length; j++) {
+			lis[j].className = "";
+		}
+		lis[cur - 1].className = "selected";
+		return false;
+	}
+</script>
+<script type="text/javascript">
+var _hEditor = { he:{getValue:function(){return editNew.getContent()}}, empty_msg:'请填写补充说明', tipid:'Content_Tip', focus_msg:'10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除', reg:"^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", err_msg: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" };
+</script>
+<script type="text/javascript">
+    // 提取关键字
+    boot.require('event, business.smart_post', function(Frame, EVENT, smart) {
+        _getKeyword_sm = new smart({ el: 'Title', config: [{ el: 'oldlevelselect', type: '成色' }, { el: 'MinPrice', type: '价格'}] });
+        EVENT.on('Title', 'blur', function() {
+            _getKeyword_sm.fill();
+        });
+    });
+
+</script>
+<script type="text/javascript">
+// cmcs 初始化
+$.cmcs.rootPara = [{"type":2, "name":"供需", "nameid":1446, "pname":"type", "rnum":2, "len":1, "dv":"0", "na":0, "value":[{"i":"1020","v":"0","t":"转让","a":"","c":"0", "p":"0" },{"i":"1021","v":"1","t":"求购","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"类别", "nameid":1447, "pname":"ObjectType", "rnum":8, "len":1, "dv":"", "na":0, "value":[{"i":"1022","v":"0","t":"全球通","a":"","c":"1447", "p":"0" },{"i":"1023","v":"1","t":"动感地带","a":"","c":"1447", "p":"0" },{"i":"1024","v":"2","t":"神州行","a":"","c":"1447", "p":"0" },{"i":"1025","v":"3","t":"联通","a":"","c":"1447", "p":"0" },{"i":"1026","v":"4","t":"电信","a":"","c":"1447", "p":"0" },{"i":"216444","v":"9","t":"铁通","a":"","c":"1447", "p":"0" },{"i":"1028","v":"6","t":"小灵通","a":"","c":"1447", "p":"0" },{"i":"297855","v":"408328","t":"其他","a":"","c":"1447", "p":"0" }], "regs":[]},{"type":4, "name":"价格", "nameid":1448, "pname":"MinPrice", "rnum":9, "len":5, "dv":"面议", "na":0, "value":[{"i":"214277","v":"0_50","t":"50元以下","a":"","c":"0", "p":"0" },{"i":"214279","v":"50_100","t":"50-100元","a":"","c":"0", "p":"0" },{"i":"214282","v":"100_150","t":"100-150元","a":"","c":"0", "p":"0" },{"i":"214285","v":"150_250","t":"150-250元","a":"","c":"0", "p":"0" },{"i":"214286","v":"250_500","t":"250-500元","a":"","c":"0", "p":"0" },{"i":"214287","v":"500_1000","t":"500-1000元","a":"","c":"0", "p":"0" },{"i":"214289","v":"1000_2000","t":"1000-2000元","a":"","c":"0", "p":"0" },{"i":"214292","v":"2000_4000","t":"2000-4000元","a":"","c":"0", "p":"0" },{"i":"214295","v":"4000_9999999","t":"4000元以上","a":"","c":"0", "p":"0" }], "regs":[{"r":"^\S+$",e:"请正确填写价格"},{"r":"^[1-9]\d{0,4}$",e:"价格为整数，且不能为0"}]},{"type":4, "name":"3G", "nameid":5397, "pname":"haomaleixing", "rnum":1, "len":5, "dv":"", "na":1, "value":[{"i":"242776","v":"1","t":"3G","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"价格", "nameid":5762, "pname":"MinPriceqj", "rnum":9, "len":1, "dv":"", "na":0, "value":[{"i":"297740","v":"0_50","t":"50元以下","a":"","c":"1448", "p":"0" },{"i":"297741","v":"51_100","t":"50-100元","a":"","c":"1448", "p":"0" },{"i":"297742","v":"101_150","t":"100-150元","a":"","c":"1448", "p":"0" },{"i":"297743","v":"151_250","t":"150-250元","a":"","c":"1448", "p":"0" },{"i":"297744","v":"251_500","t":"250-500元","a":"","c":"1448", "p":"0" },{"i":"297745","v":"501_1000","t":"500-1000元","a":"","c":"1448", "p":"0" },{"i":"297746","v":"1001_2000","t":"1000-2000元","a":"","c":"1448", "p":"0" },{"i":"297747","v":"2001_4000","t":"2000-4000元","a":"","c":"1448", "p":"0" },{"i":"297748","v":"4000_999999","t":"4000元以上","a":"","c":"1448", "p":"0" }], "regs":[]}];
+$.cmcs.infoPara = [];
+$(document).ready($.cmcs.initAutoTR);
+$(document).ready(function(){
+    $('#fabu').bind('click', $.cmcs.fabu_click);
+    $('tr[para=type]').hide(); // 隐藏类型选择
+});
+// 从cmcs中提取标题关键字
+$(document).ready(function() {
+	$('#Title').blur(function() { $.cmcs.GetLoadPara(this.value); });
+});
+</script>
+<script id="postScript">
+    $(document).ready(function() {
+		refreshPhoneBoxLable(); // 刷新标题行
+		refresh3G();
+		$('#Title').focus(getTitleFocusTip);
+		change(null);
+        $.formValidator.initConfig({ formid: "aspnetForm", errorfocus: true, btnid: 'fabu', fun:function(){
+			if(!$.c.common.isIeVersion(9)){
+				if(!$.editor.checkHtmlEditor()) return false; // 内容验证
+			}
+			clearPicValue(); 
+            $('#souhaoma').val($('#Title').val());
+            return true;
+		}});
+        $("#ObjectType").formValidator({ tipid: "ObjectType_Tip",onfocus: ""}).functionValidator({
+            fun: function(val, elem) {
+                return val!="";
+            },
+            onerror: "请选择类别"
+        });
+        $("#Title").formValidator({ tipid: "Title_Tip",onfocus: '', q2b: true, 'defaultvalue':''}).functionValidator({ fun: function(val, elem){ return checkPhoneTitle();} }); //.regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{6,}$#^(.){6,40}$", onerror: "请输入标题#标题不足6个字#6-40个字，不能填写电话和特殊符号！" });
+		
+        if($.c.common.isIeVersion(9)){
+            $('#Content').formValidator({ tipid:'Content_Tip', onfocus: '' }).functionValidator({
+                fun: function(val, elem) {
+          			if(editNew.getContentTxt()=="" || editNew.getContentTxt()==editorCfg.defaultTxtWithoutStyle){
+          				$.formValidator.setTipState(null, "onError", '补充说明不能为空。', 'Content_Tip');
+          			}else if(editNew.getText().length &lt; 10){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数不能少于10字。', 'Content_Tip');
+          			}else if(editNew.getText().length &gt; 2000){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+          			}else if(editNew.getContent().length &gt; 50000){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+          			}else{
+          				return $.formValidator.checkContent(editNew.getText());
+          			}					
+					return false;
+                },
+                onerror: ""
+            });
+        }
+        $('#shoujihaoma').formValidator({ tipid:'shoujihaoma_Tip', onfocus:'只能填写一个手机号码，请正确填写', q2b:true }).regexValidator({ regexp: "", onerror: "" });        
+        $("#MinPrice").formValidator({ tipid: "MinPrice_Tip",onfocus: "只能填写数字", q2b: true, 'defaultvalue':'面议'}).inputValidator({ onerror: "请正确填写价格" }).regexValidator({ regexp: "^\\S+$#^[1-9]\\d{0,4}$", onerror: "请正确填写价格#价格为整数，且不能为0" });        
+        $('#Content').formValidator({ tipid:'Content_Tip', onfocus: '' }).functionValidator({
+            fun: function(val, elem) {
+          			if(editNew.getContentTxt()=="" || editNew.getContentTxt()==editorCfg.defaultTxtWithoutStyle){
+          				$.formValidator.setTipState(null, "onError", '补充说明不能为空。', 'Content_Tip');
+          			}else if(editNew.getText().length &lt; 10){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数不能少于10字。', 'Content_Tip');
+          			}else if(editNew.getText().length &gt; 2000){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+          			}else if(editNew.getContent().length &gt; 50000){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+          			}else{
+          				return $.formValidator.checkContent(editNew.getText());
+          			}					
+					return false;
+            },
+            onerror: ""
+        });
+		 $('#tezheng').formValidator({ tipid:'tezheng_Tip', onfocus:"", q2b:true , 'empty':true}).regexValidator({ regexp: "^\\S+$#^(.){0,6}$", onerror: "请输入号码特征，不超过6个字#号码特征最多能填写6个字" });
+        $("#Phone").formValidator({ tipid: "Phone_Tip",onfocus: "请正确填写电话号码，分机可以用“-”分开", q2b: true, 'defaultvalue':'' }).inputValidator({ onerror: "请填写电话号码" }).regexValidator({ regexp: "^[0-9][-|0-9]{4,18}[0-9]$", onerror: "电话填写错误。格式为6-20位数字或“-”" });
+        $("#goblianxiren").formValidator({ tipid:'goblianxiren_Tip', onfocus:'2~6个字，不能填写电话和联系方式', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "\\S+#^(.){2,6}$#^[\\w\\d\\s\\u4e00-\\u9fa5]*$", onerror: "请输入联系人#联系人不足2个字#联系人不能填写特殊符号" }).functionValidator({
+            fun: function(val, elem) {
+                return val!="姓名";
+            },
+            onerror: "请填写姓名"
+        });
+        $('#IM').formValidator({ tipid:'IM_Tip', onfocus:'只能填写一个qq或msn。&lt;br&gt;格式如：123456 或 myname@58.com', q2b:true , 'empty':true}).regexValidator({ regexp: "(^[1-9]\\d{4,9}$)", onerror: "QQ输入错误" });
+        
+        $('#ObjectType').change(function(){
+            $('#infotag_Tip').html('').removeClass();
+            $('#Title').focus();
+            refresh3G();
+        });
+    });
+    
+	$(document).ready($.mobileReg.init);
+    
+	$(':radio[name="faburen"]').click(showpersion);
+	function showpersion()
+    {
+    var faburen = $.c.common.getRadioIndex('faburen');
+     switch(faburen) {
+     case 0:
+           $("input:checkbox[name=IsBiz]").attr("checked",false);
+           $('#cbx_yinsi').parent().show();
+           $('#loadDivert_tip').show();
+           if($('#cbx_yinsi').attr('checked')){
+             $('#panel_yinsi').show();
+           }else{
+             $('#panel_yinsi').hide();
+           }
+            break;
+     case 1:
+           $("input:checkbox[name=IsBiz]").attr("checked",true);
+           $('#cbx_yinsi').parent().hide();
+           $('#loadDivert_tip').hide();
+           $('#panel_yinsi').hide();
+            break;
+      }
+    }
+	
+    function clearPicValue(){
+        var c = $("#pdv:hidden");
+        if(c.length &gt; 0) {
+            $('#Pic').val('');
+            $('#PicDesc').val('');
+        }
+    }  
+	function change(obj) {
+	    refreshPhoneBoxLable(); // 刷新标题行
+	    redrawTitle(); // 重绘标题提示
+    }
+    
+    // 获取类型索引
+    function getTypeIndex(){
+        return 0;
+    }
+    
+    // 刷新手机号码文本框,以及提示
+    function refreshPhoneBoxLable(){
+        var _tip, _width;
+        _tip = '转让手机号';
+        _width = '100px';
+        
+        $('#spanPhoneTitle').html(_tip);
+        $('#Title').width(_width);
+    }
+    
+    // 获取标题光标进入时的提示语
+    function getTitleFocusTip(){
+        var str = '';
+        str = '只能填写一个手机号码，请正确填写';
+        $.formValidator.setTipState($('#Title').get(0), 'onFocus', str, 'Title_Tip');
+    }
+    
+    // 验证标题
+    function checkPhoneTitle(){
+        var result;
+        var err_empty = '';
+        var pattern = '';
+        var err_msg = '';
+        if (getTypeIndex() == 0) {
+            err_empty = '号码不能为空';
+            pattern = '^(13|14|15|18)\\d{9}$';
+            err_msg = '请正确填写手机号码';
+            var _lx = $.c.common.getSelectedText('ObjectType'); // 类型
+            if(_lx == '小灵通' || _lx == '铁通'){
+                pattern = '^[1-9](\\d{6}|(\\d{7})|(\\d{10}))$';
+                err_msg = '请正确填写' + _lx + '号码';
+            }
+        } else {
+            err_empty = '标题不能为空';
+            pattern = '^[\\s\\S]*$#^[\\s\\S]{6,}$#^(.){6,40}$';
+            err_msg = '请输入标题#标题不足6个字#6-40个字，不能填写电话和特殊符号！';
+        }
+        // 空值验证
+        var val = $('#Title').val();
+        if(val.length == 0){
+            return err_empty;
+        }
+        // 格式验证
+        var arrPattern = pattern.split('#');
+        var arrError = err_msg.split('#');
+        for(var i = 0; i &lt; arrPattern.length; i ++){
+            if(!val.match(new RegExp(arrPattern[i]))) {
+                return arrError[i];
+            }
+        }
+        return true;
+    }
+    
+    // 重绘标题提示
+    function redrawTitle(){
+        $('#Title').get(0).className = 'txt w106';
+        $('#Title_Tip').html('').removeAttr('class');
+    }
+    
+    // 刷新3G
+    function refresh3G(){
+        var _lx = $.c.common.getSelectedText('ObjectType'); // 类型
+        if(_lx == '小灵通' || _lx == '铁通'){
+            $('#haomaleixing').attr('disabled', 'disabled');
+        } else {
+            $('#haomaleixing').attr('disabled', '');
+        }
+    }
+
+
+
+    // 页面元素
+    var _PE = {
+        xq: $('#xiaoqu'), // 小区
+        qy: $('#localArea'), // 区域
+        sq: $('#localDiduan')	// 商圈
+    };
+
+    // 刷新商圈
+    function loadShangquan() {
+        $('#localDiduan option').remove();
+        $.c.common.addOptionsToSelect('localDiduan', '', '--商圈--');
+        var v1 = _PE.qy.val(); // 区域
+        if (!!v1) {
+            $('#selectDiduanHidden option').each(function(i, n) {
+                if ($(n).attr('id').indexOf(v1 + '_') != -1) {
+                    $.c.common.addOptionsToSelect('localDiduan', n.value, n.text);
+                }
+            });
+        }
+    }
+
+    // 根据小区名称来获取区域和商圈id
+    function getCityAreaID() {
+        var xqName = _PE.xq.val();
+        if (!!xqName) {
+            var para = 'cityid=' + myInfo.dispCityid + '&amp;xq=' + encodeURIComponent(xqName);
+            $.j.callajax('getcityareabyxq', para, getCityAreaID_callback);
+        }
+    }
+    function getCityAreaID_callback(data) {
+        if (!!data) {
+            var arr = data.split(',');
+            if (arr.length == 2) {
+                var v1 = arr[0];
+                var v2 = arr[1];
+                _PE.qy.val(v1).trigger('change');
+                _PE.sq.val(v2);
+            }
+        }
+    }    // 事件绑定
+    $(document).ready(function() {
+        _PE.qy.bind('change', loadShangquan);
+
+        if (true) {
+            var v1 = '0';
+            var v2 = '0';
+            if (v1 != 0) {
+                _PE.qy.val(v1).trigger('change');
+            }
+            if (v2 != 0) {
+                _PE.sq.val(v2);
+            }
+        }
+    });
+
+	
+	// 免费开通呼转功能
+    (function(){
+        $.j.freePhone_IsRunning = true;
+        $.j.asynPhone(myInfo.userid, myInfo.infoID, '', '');
+    })();
+</script>
+<script type="text/javascript">
+//个人商家
+function showperson()
+{
+var faburen = $.c.common.getRadioIndex('faburen');
+ switch(faburen) {
+ case 0:
+       $("input:checkbox[name=IsBiz]").attr("checked",false);
+        break;
+ case 1:
+       $("input:checkbox[name=IsBiz]").attr("checked",true);
+        break;
+  }
+}
+
+$(document).ready(function() {
+    $(':radio[name="faburen"]').click(showperson);
+    
+});
+</script>
+<iframe style="display: none" src="about:blank" id="formSubmit" name="formSubmit"></iframe>
+<script type="text/javascript">
+	var usertype = "person";
+	if(false){
+		usertype = "vip";
+	}else{
+		if(false){
+			usertype = "biz";
+		}
+	}
+	
+    var _gaq = _gaq || []; var site_name = "58"; var page_type = "post";
+    var _trackURL = "{'cate':'5,241','area':'2050','pagetype':'post','poststep':'fillout','postmode':'add','usertype':'person'}";
+    _gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+    _gaq.push(['pageTracker._setDomainName', '.58.com']);
+    _gaq.push(['pageTracker._setAllowLinker', true]);
+    _gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+    _gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+    _gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+    _gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+    _gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+    _gaq.push(['pageTracker._trackPageview','/hk/sale/shoujihao/' + usertype + '/fillout/add/']);
+    $.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+    $.getScript('http://track.58.com/referrer2.js');
+</script>
+<footer id="footer" class="footer">
+<p class="copyright">&copy; 58.com <a target="top" href="http://about.58.com/v5/">帮助中心</a></p>
+</footer>
+<script type="text/javascript">
+
+	$('#formSubmit').attr('src', '/submit.htm'); </script> <div id="fkdiv"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" align="middle"> <param name="movie" value="http://pic2.58.com/js/5_1/91/fc.0709.swf"> </param><param name="quality" value="high"> </param><param name="allowScriptAccess" value="always"><embed allowscriptaccess="always" src="http://pic2.58.com/js/5_1/91/fc.0709.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true"></embed> </param></object></div><script type="text/javascript">$.c.fk.i('53419407-df2f-4a05-a4f4-390067e7d753');</script></body></html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>帮助中心---用户最新提问</title>
+<script src="js/helputils.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="js/feedadvice.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery-1.4.1.js"></script>
+<link href="http://pic2.58.com/ui6/about/css/about6.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div id="container" class="win1000">
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/72/43.js"></script>
+<div id="header" class="win1000">
+<script src="/js/head.js" type="text/javascript"></script>
+</div>
+<div id="bar">
+<div id="divnavname">
+<div>
+<a href="/">帮助中心首页</a>语音验证码的操作流程
+				</div>
+</div>
+<i class="shadow"></i>
+</div>
+<div class="bo_width win1000">
+<div id="right" class="rwpdiv">
+<div id="divcontent"><div style="padding-top:15px;"><b>语音验证码的操作流程</b></div>
+<p style="text-indent:2em;">如果接收短信验证码的手机未能及时收到，可按以下流程操作：</p>
+<p style="text-indent:2em;">第一步：使用短信验证时填写的手机或座机号拨打58专用400电话：<strong class="red">4007585858</strong>。</p>
+<p style="text-indent:2em;">第二步：接通电话后，按号码键：<strong class="red">5</strong>&nbsp;&nbsp;进入语音验证码获取通道。</p>
+<div style="background:url(http://pic.58.com/images/helppic/n_s12227521705725607113.jpg) no-repeat 0 0;width:981px;height:292px; margin:10px auto;"></div>
+<p style="text-indent:2em;">
+	温馨提示：若因为通话环境等问题而获取不到语音验证码，建议您将您的需要验证的信息（手机号码/身份证图片/营业执照图片）、账号的用户名和密码提供给我们与<a href="http://about.58.com/customerservice.html" target="_blank">58对话</a>，以便于我们帮您测试验证。
+</p></div>
+</div>
+</div>
+<div class="c"></div>
+<div id="footer" class="footer-border">
+<script src="/js/bottom.js" type="text/javascript"></script>
+</div>
+<input type="hidden" id="cateId" name="cateId" value="338" />
+</div>
+</body>
+<script type="text/javascript">
+	var cateId = $("#cateId").val();
+	var _gaq = _gaq || [], site_name = "58", page_type = "about";
+	var _trackURL = "{'cate':'','area':'','pagetype':'about','page':'"+cateId+"'}";
+	_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+	_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+	_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+	_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+	_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+	_gaq.push([ 'pageTracker._trackPageview', "/about/"+cateId+"/" ]);
+	_gaq.push([ 'pageTracker._trackPageLoadTime' ]);
+	$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+			: 'http://www')
+			+ '.google-analytics.com/ga.js');
+	$.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+</html>

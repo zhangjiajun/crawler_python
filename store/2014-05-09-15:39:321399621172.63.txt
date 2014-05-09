@@ -1,0 +1,2362 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【香港二手摩托车转让|香港二手摩托车交易市场】 - 香港58同城</title>
+<meta name="description" content="香港二手摩托车频道为您提供大量精选的香港二手摩托车信息，是专业的二手摩托车转让与求购信息发布平台，经过严格审核保证二手摩托车转让信息的真实性，是您求购香港二手摩托车最佳的选择。-58.com" />
+<meta name="keywords" content="香港二手摩托车" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css?v=20130910" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/ershou/list-eui7.css?version=20130530" media="all" />
+<!-- =S 脚本这个由 脚本组负责 这个路径为暂时的 -->
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<!-- createElement-lte-IE8.js 该脚本只针对IE8及以下版本浏览器 -->
+<!-- =E -->
+<script type="text/javascript">try {
+        var ____json4fe = {"catentry":[{"dispid":"4","name":"车辆买卖与服务","listname":"car"},{"dispid":"30","name":"二手摩托车","listname":"danche"}],"locallist":[{"dispid":"2050","name":"香港","listname":"hk"}],"start":(new Date()).getTime(),"modules":"list"};
+        ____json4fe.version = 'A';
+        ____json4fe.modules = 'listpage';
+        ____json4fe.smsc = 'ce882233f1f0d86efcf35901e0c2f8069be2f2ac472d9f6c70b8618a01d37a116f6e084263d3306da125ead23b2d793c567dee9dbb10607604afee6bfdd6be38b20bb9b30f6edc41';
+    } catch (e) {
+    }
+    ;</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';
+    var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2', '2050', '');
+    win1.setSearchButton('searchbtn1');
+    boot.require('util.cookie', function (Frame, cookie) {
+        cookie.set('city', 'hk');
+    });</script>
+<style>
+	    /*2014-1-16 相关搜索 by hezc*/
+		.RelatedSearch{ border:1px solid #E1E1E1; font-size:14px; padding:10px 5px;line-height:25px;  margin-bottom:15px;}
+		.RelatedSearch dt{ float:left; width:88px; text-align:right;font-weight:700;line-height:25px;}
+		.RelatedSearch dd{ float:right; width:720px;}.RelatedSearch dd a{ display:inline-block;width:140px;line-height:25px;}
+		#list_left_zhuti{border:1px solid #E1E1E1; margin-bottom:10px; padding:15px;}
+		#list_left_zhuti div{ margin-left:-55px; height:110px;}
+    </style>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/hk/danche" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/hk/danche" />
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/hk/danche" />
+</head>
+<body>
+<script type="text/javascript">
+    var hasXiaobao = ""
+</script>
+<!-- =S topbar -->
+<div id="topbar"></div>
+<script type="text/javascript">boot.require('business.topbar', function (Frame, topbar) {
+    topbar.init();
+});</script>
+<!-- =E topbar -->
+<!-- =S header -->
+<header id="header">
+<span class="logo">
+<a href="/" target="_blank"><img src="http://pic2.58.com/images/logonew.gif" title="到58同城首页" alt="58同城" /></a>
+</span>
+<!-- =S 面包屑导航 -->
+<div class="nav">
+<a href="/">香港58同城</a>
+<cite></cite><a href="/car.shtml">香港车辆买卖与服务</a>
+<cite></cite><a href="/danche/">香港二手摩托车</a>
+</div>
+<!-- =E 面包屑导航 -->
+<span class="fr mt10">
+<a href="http://post.58.com/2050/30/s5" class="postBtn" target="_blank" rel="nofollow"></a>
+</span>
+</header>
+<!-- =E header -->
+<!-- S 推广广告 -->
+<div id="ad_d12" class="cripic"></div>
+<!-- E 推广广告 -->
+<!-- =S selection -->
+<section id="selection">
+<!-- =S 搜索结果 -->
+<script type="text/javascript">
+    $("#searchtree .selectbar1 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+
+    $("#searchtree .selectbar2 span[name=cateswitch]").each(function () {
+        $(this).toggle(function () {
+            $(this).removeClass('b1').addClass('b2').prev('.s_ul').children().slice(5).show();
+        }, function () {
+            $(this).removeClass('b2').addClass('b1').prev('.s_ul').children().slice(5).hide();
+        });
+    });
+</script>
+<!-- =E 搜索结果 -->
+<div class="pb15">
+<dl class="secitem">
+<dt>品牌 ：</dt>
+<dd zwname="品牌" zwnameid="5041">
+<a class="select" href="/danche/" data-finalurl="/danche/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/bentianmoto/" href="http://hk.58.com/bentianmoto/">本田</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/yamaha/" href="http://hk.58.com/yamaha/">雅马哈</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/lingmumoto/" href="http://hk.58.com/lingmumoto/">铃木</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/jialing/" href="http://hk.58.com/jialing/">嘉陵</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/haojue/" href="http://hk.58.com/haojue/">豪爵</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/chuanqi/" href="http://hk.58.com/chuanqi/">川崎</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/zongshen/" href="http://hk.58.com/zongshen/">宗申</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/halei/" href="http://hk.58.com/halei/">哈雷</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/jianshe/" href="http://hk.58.com/jianshe/">建设</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/qingqi/" href="http://hk.58.com/qingqi/">轻骑</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/qianjiang/" href="http://hk.58.com/qianjiang/">钱江</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/apuliya/" href="http://hk.58.com/apuliya/">阿普利亚</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/lifan/" href="http://hk.58.com/lifan/">力帆</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/baomamoto/" href="http://hk.58.com/baomamoto/">宝马</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/guangyang/" href="http://hk.58.com/guangyang/">光阳</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/biyaqiao/" href="http://hk.58.com/biyaqiao/">比亚乔</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/longxinmoto/" href="http://hk.58.com/longxinmoto/">隆鑫</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/jincheng/" href="http://hk.58.com/jincheng/">金城</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/chunfeng/" href="http://hk.58.com/chunfeng/">春风</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/xindazhou/" href="http://hk.58.com/xindazhou/">新大洲</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/dayang/" href="http://hk.58.com/dayang/">大阳</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/jilimoto/" href="http://hk.58.com/jilimoto/">吉利</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/hongdumoto/" href="http://hk.58.com/hongdumoto/">洪都</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/fengtianmoto/" href="http://hk.58.com/fengtianmoto/">丰田</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/qqmlmoto/" href="http://hk.58.com/qqmlmoto/">木兰</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/xingfumotoche/" href="http://hk.58.com/xingfumotoche/">幸福</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/changling/" href="http://hk.58.com/changling/">长铃</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/sanlingmotoche/" href="http://hk.58.com/sanlingmotoche/">三铃</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/qitamotopinpai/" href="http://hk.58.com/qitamotopinpai/">其他品牌</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>车型 ：</dt>
+<dd zwname="车型" zwnameid="5913">
+<a class="select" href="/danche/" data-finalurl="/danche/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/dapailiang/" href="http://hk.58.com/dapailiang/">大排量</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/wanliang/" href="http://hk.58.com/wanliang/">弯梁车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/miniche/" href="http://hk.58.com/miniche/">迷你车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/tabanmotuoche/" href="http://hk.58.com/tabanmotuoche/">踏板车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/qishiche/" href="http://hk.58.com/qishiche/">骑式车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/yueyemotuoche/" href="http://hk.58.com/yueyemotuoche/">越野摩托</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/mtsaiche/" href="http://hk.58.com/mtsaiche/">公路赛车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/taiziche/" href="http://hk.58.com/taiziche/">太子车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/shatanche/" href="http://hk.58.com/shatanche/">沙滩车</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/sanlunmotuo/" href="http://hk.58.com/sanlunmotuo/">三轮摩托</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt>价格 ：</dt>
+<dd zwname="价格" zwnameid="6108">
+<a class="select" href="/danche/" data-finalurl="/danche/">全部</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/danche/pve_6108_0_1000/" href="http://hk.58.com/danche/pve_6108_0_1000/">1000元以下</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/danche/pve_6108_1001_2000/" href="http://hk.58.com/danche/pve_6108_1001_2000/">1000-2000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/danche/pve_6108_2001_3000/" href="http://hk.58.com/danche/pve_6108_2001_3000/">2000-3000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/danche/pve_6108_3001_4000/" href="http://hk.58.com/danche/pve_6108_3001_4000/">3000-4000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/danche/pve_6108_4001_6000/" href="http://hk.58.com/danche/pve_6108_4001_6000/">4000-6000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/danche/pve_6108_6001_8000/" href="http://hk.58.com/danche/pve_6108_6001_8000/">6000-8000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/danche/pve_6108_8001_10000/" href="http://hk.58.com/danche/pve_6108_8001_10000/">8000-10000元</a>
+<a name="b_link" para="custom" cl="" data-finalurl="http://hk.58.com/danche/pve_6108_10001_999999/" href="http://hk.58.com/danche/pve_6108_10001_999999/">10000元以上</a>
+<span class="prifilter">
+<span class="text text2"><input type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /></span>
+<span class="dev"> - </span>
+<span class="dev text text2"><input class="mr5" type="text" para="minprice" size="3" muti="1" onkeyup="cknum(this)" min="0" max="999999" name="b_q" autocomplete="off" /> 元   </span>
+<span class="btn btn2" style="display:none"><input type="button" value="价格筛选" onclick="b_query()" /></span>
+</span>
+<script type="text/javascript">
+                        $(document).ready(function () {
+                            //text控件事件
+                            $(".prifilter input:text").click(function () {
+                                $(".prifilter input:button").parent().show();
+                                return false;
+                            });
+
+                            //button控件事件
+                            $(".prifilter input:button").click(function () {
+                                return false;
+                            });
+
+                            //body控件事件
+                            $(document.body).click(function () {
+                                $(".prifilter input:button").parent().hide();
+                            });
+                        });
+                    </script>
+</dd>
+</dl>
+<!--S 显示区域 -->
+<dl class="secitem">
+<dt>区域 ：</dt>
+<dd zwnameid="quyu" zwname="区域">
+<a href="/danche/" data-finalurl="/danche/" class="select">全香港</a>
+<a href="/jiulongcheng/danche/" data-finalurl="/jiulongcheng/danche/">九龙城</a>
+<a href="/zhongxi/danche/" data-finalurl="/zhongxi/danche/">中西</a>
+<a href="/dongqu/danche/" data-finalurl="/dongqu/danche/">东区</a>
+<a href="/guantang/danche/" data-finalurl="/guantang/danche/">观塘</a>
+<a href="/wanzai/danche/" data-finalurl="/wanzai/danche/">湾仔</a>
+<a href="/shatian/danche/" data-finalurl="/shatian/danche/">沙田</a>
+<a href="/tunmen/danche/" data-finalurl="/tunmen/danche/">屯门</a>
+<a href="/quanwan/danche/" data-finalurl="/quanwan/danche/">荃湾</a>
+<a href="/huangdaxian/danche/" data-finalurl="/huangdaxian/danche/">黄大仙</a>
+<a href="/lidao/danche/" data-finalurl="/lidao/danche/">离岛</a>
+<a href="/xianggang/danche/" data-finalurl="/xianggang/danche/">其它</a>
+</dd>
+</dl>
+<!--E 显示区域 -->
+<!-- =S header-search -->
+<div class="sale_search sale_search1 clearfix_z" id="SearchForm">
+<form action="" method="get" onsubmit="b_query('final=1&amp;searchtype=3');return false;">
+<span class="search_input"><input class="but-wd" value="输入类别或关键字" maxlength="40" onkeyup="win1.GetContentData();" onclick="if(this.value=='输入类别或关键字')this.value=''" onblur="if(this.value=='')this.value='输入类别或关键字'" fdv="" id="keyword1" name="b_q" para="key" autocomplete="off" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="submit" id="searchbtn1" class="search_on" value="搜本类" onclick="return searchword_filter();" /></span>
+<span class="selfcata" onmouseover="this.className='selfcata hover'" onmouseout="this.className='selfcata'"><input type="button" value="搜全站" onclick="if(searchword_filter())b_query_all();" /></span>
+</form>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#keyword1").keydown(function () {
+            $("#keyword1").attr("style", "color: rgb(0, 0, 0);"); //黑色
+        });
+    });
+
+    function searchword_filter() {
+        if ($("#keyword1").attr("value") == "输入类别或关键字") {
+            $("#keyword1").attr("style", "color: rgb(153, 153, 153);"); //灰色
+            //$("#keyword1").focus(); $("#keyword1").select();
+            return false;
+        }
+
+        return true;
+    }
+</script>
+<!-- =E header-search -->
+</div>
+<!-- =S 底部搜索结果 -->
+<!--  &lt;dl class="secitem"&gt;&lt;div id ="highlightline" class="line highlight"&gt;&lt;div id="selected" class="bar"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/dl&gt; -->
+<div class="selectResult clearfix" id="selected" style="display: none;"></div>
+</section>
+<!-- =E selection -->
+<!--S 百强县 -->
+<!--E 百强县 -->
+<!-- =S tabsbar -->
+<div class="tabsbar">
+<a class="sel" href="http://hk.58.com/danche/"><h1>香港二手摩托车</h1></a>
+<a rel="nofollow" class="pubtopright" target="_blank" href="http://dingyue.58.com/ershou/shenqing">二手市场推广，加入会员即送1000元！</a>
+</div>
+<!-- =E tabsbar -->
+<!-- =S mainlist -->
+<section id="mainlist" class="main clearfix">
+<!-- =S infolist 左侧列表主体 -->
+<div id="infolist" class="cleft">
+<!-- =S filterbar -->
+<div class="filterbar">
+<table cellspacing="0" cellpadding="0" class="tbfilter">
+<colgroup>
+<col />
+<col class="w100" />
+</colgroup>
+<tr class="bg">
+<td>
+<div class="caty">
+<a class="geren active" name="b_link" para="custom" cl="/danche/?rb=1" data-finalurl="/danche/" href="/danche/">
+                            全部
+                        </a>
+<a class="geren" data-finalurl="/danche/0/" href="/danche/0/">
+                        个人
+                    </a>
+<a class="shangjia" data-finalurl="/danche/1/" href="/danche/1/">
+                        商家
+                    </a>
+</div>
+<span class="checkbox"><input name="" type="checkbox" value="" id="ispic" onclick="click_Ispic(this)" /><label for="ispic">只看有图</label></span>
+<span class="checkbox"><input type="checkbox" id="isonline" /><label for="isonline" class="isonline">帮帮在线</label></span>
+</td>
+<!-- =S 排序功能 -->
+<td class="sort" colspan="2">
+<div class="sort_wrap">
+<span class="default  active"><a href="http://hk.58.com/danche/" rel="nofollow">默认排序</a></span>
+<span class="time "><a href="http://hk.58.com/danche/?sort=sortid_desc" rel="nofollow">按时间</a></span>
+<span class="sort_price">
+<a href="http://hk.58.com/danche/?sort=minprice_asc" rel="nofollow">按价格</a>
+</span>
+</div>
+</td>
+<!-- =E 排序功能 -->
+</tr>
+</table>
+</div>
+<!-- =E filterbar -->
+<!-- =S 查询搜索无结果补充信息  -->
+<!-- =E 查询搜索无结果补充信息  -->
+<!-- =S top_google_ad -->
+<div id="top_google_ad"></div>
+<!-- =E top_google_ad  -->
+<!-- =S 头部精准推广显示 -->
+<!-- =E 头部精准推广显示 -->
+<div id="hoverinfo">
+<!-- =S 显示搜索无结果补充信息  -->
+<!-- =E 显示搜索无结果补充信息  -->
+<table class="tbimg" cellpadding="0" cellspacing="0">
+<col class="" />
+<col />
+<col class="w100" />
+<tr logr="p_0_1161459289862_17096055731206_0_0_0">
+<td class="img"><a href="http://hk.58.com/danche/17096055731206x.shtml" target="_blank"><img src="http://1.pic.58control.cn/p1/tiny/n_s12151016896906586054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/danche/17096055731206x.shtml" target="_blank" class="t" tips="tips">
+                                跪求96年杜卡迪M900 点火器一个</a>
+<span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+             						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  111111 公里 
+											
+											/ 购于
+											
+											 											    2003年以前
+																							 											
+												                            				
+							/ 600cc以上
+						
+			            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/xianggang/danche/">其它</a><span> - </span>
+<a class="c_666" href="/xianggangshi/danche/">其它</a>
+                            
+                            &nbsp;/ 02-28
+            			</span>
+<span name="zaixian_1161459289862"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">111111</b> 元        </td>
+</tr>
+<tr logr="p_0_19434238247430_16156687416193_0_0_0">
+<td class="img"><a href="http://hk.58.com/danche/16156687416193x.shtml" target="_blank"><img src="http://2.pic.58control.cn/p1/tiny/n_s12030775239328081014.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://hk.58.com/danche/16156687416193x.shtml" target="_blank" class="t" tips="tips">
+                [全新]                香港包物流 越野摩托车四轮沙滩车ATV卡丁车迷你车</a>
+<span class="ico ntu" title="">[15图]</span>
+<i class="clear"></i>
+             						
+			                        									
+																		
+										                                		                            												新车未行驶
+												                            				
+							/ 150cc-250cc
+						
+			            <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="/jiulongcheng/danche/">九龙城</a>
+                            
+                            &nbsp;/ 01-30
+            			</span>
+<span name="zaixian_19434238247430"></span>
+<span class="fl ml5 biz">
+</span>
+</td>
+<td class="tc">
+<b class="pri">3600</b> 元        </td>
+</tr>
+<tr>
+<td class="dev" colspan="5">周边地区相关信息</td>
+</tr>
+<tr logr="b_1_17801135917319_17868825958914_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17868825958914x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12249932488232561115.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17868825958914x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        出售日港原装本田 雅马哈 川崎 铃木 宝马品牌跑车</a><span class="ico area">
+</span><span class="ico ntu" title="">[10图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2009年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 5小时
+            		</span>
+<span name="zaixian_17801135917319"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7800</b> 元                 </td>
+</tr>
+<tr logr="b_1_17801135917319_17868806590850_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17868806590850x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s02249930078784776116.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17868806590850x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        原装原漆 港日大排量城市公路赛 街跑 好车好质量</a><span class="ico area">
+</span><span class="ico ntu" title="">[10图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2010年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 5小时
+            		</span>
+<span name="zaixian_17801135917319"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7800</b> 元                 </td>
+</tr>
+<tr logr="b_1_13087757081094_17850216307850_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17850216307850x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12247549290037737003.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17850216307850x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        陈永发车行出售大排量飙车 250-1000CC 正</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  5000 公里 
+											
+											/ 购于
+											
+											 											    2009年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 22小时
+            		</span>
+<span name="zaixian_13087757081094"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7000</b> 元                 </td>
+</tr>
+<tr logr="b_1_13087757081094_17850263604490_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17850263604490x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12247554786592756056.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17850263604490x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        陈永发车行经营纯进口各种款式大排量摩托车 质量有保</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  5000 公里 
+											
+											/ 购于
+											
+											 											    2009年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 6小时
+            		</span>
+<span name="zaixian_13087757081094"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7000</b> 元                 </td>
+</tr>
+<tr logr="b_1_5704821566726_16157308793861_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/16157308793861x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12030832615178473005.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/16157308793861x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        购车可免费包送货 专业出售进口大排量跑车志诚车行</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  5000 公里 
+											
+											/ 购于
+											
+											 											    2009年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 19小时
+            		</span>
+<span name="zaixian_5704821566726"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7800</b> 元                 </td>
+</tr>
+<tr logr="b_1_18433696510471_16255382434567_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/16255382434567x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12153925820928840165.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/16255382434567x.shtml" target="_blank" class="t" data-addtype="level4">
+						[全新]                        新款靓丽公路赛车 全新高品质 质量三包 特价推出</a><span class="ico area">
+</span><span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												新车未行驶
+												                            				
+							/ 150cc-250cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 2小时
+            		</span>
+<span name="zaixian_18433696510471"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">2950</b> 元                 </td>
+</tr>
+<tr logr="b_1_17801135917319_17868800161158_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17868800161158x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s02249929174257611154.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17868800161158x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        本田川崎雅马哈大排量进口公路赛街跑太子车</a><span class="ico area">
+</span><span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2008年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 5小时
+            		</span>
+<span name="zaixian_17801135917319"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7800</b> 元                 </td>
+</tr>
+<tr logr="b_1_22711423040518_17871456683267_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17871456683267x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250260530532615163.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17871456683267x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        实体店销售原装进口雅马哈鬼火 迅鹰 巧格 福喜各种</a><span class="ico area">
+</span><span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  2000 公里 
+											
+											/ 购于
+											
+											 											    661396
+																								        年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 6分钟
+            		</span>
+<span name="zaixian_22711423040518"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1900</b> 元                 </td>
+</tr>
+<tr logr="b_1_8204648922630_17871445818246_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17871445818246x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250267210924632013.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17871445818246x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        日港大排量赛跑车 高级配置 雅马哈R1 本田CBR</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2010年
+																							 											
+												                            				
+							/ 600cc以上
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 8分钟
+            		</span>
+<span name="zaixian_8204648922630"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">35000</b> 元                 </td>
+</tr>
+<tr logr="b_1_19305465889543_17870983220234_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17870983220234x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250207360369414025.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17870983220234x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        原装大排量公路赛雅马哈R1 本田 铃木 川崎 质量</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  6089 公里 
+											
+											/ 购于
+											
+											 											    2008年
+																							 											
+												                            				
+							/ 400cc-600cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 1小时
+            		</span>
+<span name="zaixian_19305465889543"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_22532259356679_17870673207174_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17870673207174x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250168150675042123.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17870673207174x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        极品雅马哈福喜 鬼火 迅鹰踏板车 长信车行长期平价</a><span class="ico area">
+</span><span class="ico ntu" title="">[17图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    661396
+																								        年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 1小时
+            		</span>
+<span name="zaixian_22532259356679"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1400</b> 元                 </td>
+</tr>
+<tr logr="b_1_50973008_17626543208321_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17626543208321x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12218916679486510115.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17626543208321x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        各种跑车 本田 川崎 铃木 雅马哈 哈雷等系列。现</a><span class="ico area">
+</span><span class="ico ntu" title="">[23图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2007年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 2小时
+            		</span>
+<span name="zaixian_50973008"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7000</b> 元                 </td>
+</tr>
+<tr logr="b_1_13087757081094_17850167038726_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17850167038726x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12247543270460778114.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17850167038726x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        陈永发车行出售 大排量公路赛车不是最便宜 质量绝对</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  5000 公里 
+											
+											/ 购于
+											
+											 											    2009年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_13087757081094"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7000</b> 元                 </td>
+</tr>
+<tr logr="b_1_16512964029446_17869968580613_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17869968580613x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s02250077845931356056.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17869968580613x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        低价出售 原装进口本田 雅马哈 铃木 川崎等高配置</a><span class="ico area">
+</span><span class="ico ntu" title="">[11图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  5000 公里 
+											
+											/ 购于
+											
+											 											    2010年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 3小时
+            		</span>
+<span name="zaixian_16512964029446"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_18134411221511_17802693956618_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17802693956618x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12241465415781879105.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17802693956618x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        大量出售纯原装摩托车 男女装款式齐量出售纯原装摩托</a><span class="ico area">
+</span><span class="ico ntu" title="">[5图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  1000 公里 
+											
+											/ 购于
+											
+											 											    2013年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 4小时
+            		</span>
+<span name="zaixian_18134411221511"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1500</b> 元                 </td>
+</tr>
+<tr logr="b_0_11469694972167_17825896948737_11_0_0">
+<td class="img"><a href="http://sz.58.com/danche/17825896948737x.shtml" target="_blank" data-addtype="level4"><img src="http://pic2.58.com/n/images/list/noimg.gif" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17825896948737x.shtml" target="_blank" class="t" data-addtype="level4">
+						[全新]                        摩托车牌转让实惠正点</a><span class="ico area">
+</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												新车未行驶
+												                            				
+							/ 50cc以下
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 4小时
+            		</span>
+<span name="zaixian_11469694972167"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">130</b> 元                 </td>
+</tr>
+<tr logr="b_1_13394754072327_17859552755210_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17859552755210x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12248745339372670034.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17859552755210x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        赛中之霸 世界品牌【大排量】 本田 川崎 雅马哈</a><span class="ico area">
+</span><span class="ico ntu" title="">[22图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  5000 公里 
+											
+											/ 购于
+											
+											 											    2005年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_13394754072327"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_22532259356679_17862541862025_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17862541862025x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s02249127484147786084.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17862541862025x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        精品雅马哈福喜 鬼火 迅鹰踏板车 长信车城超低价出</a><span class="ico area">
+</span><span class="ico ntu" title="">[22图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    661396
+																								        年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 19小时
+            		</span>
+<span name="zaixian_22532259356679"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1400</b> 元                 </td>
+</tr>
+<tr logr="b_1_22711423040518_17862474432902_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17862474432902x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s02249119523047286054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17862474432902x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        实体店销售极品雅马哈品牌踏板车 手续齐全 带发票</a><span class="ico area">
+</span><span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  2000 公里 
+											
+											/ 购于
+											
+											 											    661396
+																								        年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 19小时
+            		</span>
+<span name="zaixian_22711423040518"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1400</b> 元                 </td>
+</tr>
+<tr logr="b_1_8204648922630_17770951367554_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17770951367554x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12237403947533642055.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17770951367554x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        03-08年、日港进口本田CBR、F5、铃木K7、</a><span class="ico area">
+</span><span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2008年
+																							 											
+												                            				
+							/ 600cc以上
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 20小时
+            		</span>
+<span name="zaixian_8204648922630"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">25000</b> 元                 </td>
+</tr>
+<tr logr="b_1_18900438220551_17861622294913_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17861622294913x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12249006734837679054.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17861622294913x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        嘉轩车行代步上下班,免费送货,欢迎试车,动力十足</a><span class="ico area">
+</span><span class="ico ntu" title="">[16图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  1000 公里 
+											
+											/ 购于
+											
+											 											    2013年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 21小时
+            		</span>
+<span name="zaixian_18900438220551"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">3000</b> 元                 </td>
+</tr>
+<tr logr="b_1_10327811632134_17861200979850_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17861200979850x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12248955387069567046.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17861200979850x.shtml" target="_blank" class="t" data-addtype="level4">
+						[全新]                        本车行经营全新150-200跑车 时尚年轻款式</a><span class="ico area">
+</span><span class="ico ntu" title="">[18图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												新车未行驶
+												                            				
+							/ 150cc-250cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 22小时
+            		</span>
+<span name="zaixian_10327811632134"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">3000</b> 元                 </td>
+</tr>
+<tr logr="b_0_31174380_17856788076802_11_0_0">
+<td class="img"><a href="http://sz.58.com/danche/17856788076802x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12248347144652008014.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17856788076802x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        转让JOG 5代摩托车抽红米</a><span class="ico area">
+</span><span class="ico ntu" title="">[11图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2003年以前
+																							 											
+												                            				
+							/ 50cc以下
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_31174380"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">2000</b> 元                 </td>
+</tr>
+<tr logr="b_1_15188572840966_17871281437954_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17871281437954x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250245143495593006.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17871281437954x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        赛中之霸 款式多多 欢迎现场挑选试车 质量有保 保</a><span class="ico area">
+</span><span class="ico ntu" title="">[22图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  4000 公里 
+											
+											/ 购于
+											
+											 											    2009年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 29分钟
+            		</span>
+<span name="zaixian_15188572840966"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_21275160205830_17871334851594_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17871334851594x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250233300684267103.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17871334851594x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        女装摩托车款式多多,品牌齐全、选择更多、现货更多</a><span class="ico area">
+</span><span class="ico ntu" title="">[16图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  500 公里 
+											
+											/ 购于
+											
+											 											    2013
+																								        年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 22分钟
+            		</span>
+<span name="zaixian_21275160205830"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1180</b> 元                 </td>
+</tr>
+<tr logr="b_1_8204648922630_17871411814024_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17871411814024x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12250263642755826165.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17871411814024x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        主营品牌范围.本田 雅马哈 跑车,街趴, 铃木</a><span class="ico area">
+</span><span class="ico ntu" title="">[4图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2010年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 12分钟
+            		</span>
+<span name="zaixian_8204648922630"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7000</b> 元                 </td>
+</tr>
+<tr logr="b_1_19068974017543_17864179121541_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17864179121541x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12249335483437473165.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17864179121541x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        本店有二手摩托车转让男女装款式齐全低价出售一批公主</a><span class="ico area">
+</span><span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  2600 公里 
+											
+											/ 购于
+											
+											 											    2013年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 15小时
+            		</span>
+<span name="zaixian_19068974017543"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1350</b> 元                 </td>
+</tr>
+<tr logr="b_1_8204648922630_17287706311560_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17287706311560x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s02175547421756273116.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17287706311560x.shtml" target="_blank" class="t" data-addtype="level4">
+						[全新]                        限量版公路赛跑车 质量无忧 优惠价钱 欢迎选购</a><span class="ico area">
+</span><span class="ico ntu" title="">[7图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												新车未行驶
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 55分钟
+            		</span>
+<span name="zaixian_8204648922630"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">3000</b> 元                 </td>
+</tr>
+<tr logr="b_1_21275160205830_17870838224391_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17870838224391x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250180564226401164.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17870838224391x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        长期出售各种大排量跑车本田 铃木 雅马哈 川崎等</a><span class="ico area">
+</span><span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2011
+																								        年
+																							 											
+												                            				
+							/ 400cc-600cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 1小时
+            		</span>
+<span name="zaixian_21275160205830"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7000</b> 元                 </td>
+</tr>
+<tr logr="b_1_18549655935495_17676576697346_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17676576697346x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12225320921841769004.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17676576697346x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        大量跑车低价出售,排量不同,价格不同,欢迎朋友们现</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2008年
+																							 											
+												                            				
+							/ 400cc-600cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_18549655935495"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_8204648922630_17870647123590_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17870647123590x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s02250162613912851034.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17870647123590x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        《大排量街跑》日港进口CBR本田 铃木 川崎雅马哈</a><span class="ico area">
+</span><span class="ico ntu" title="">[10图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2011年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 1小时
+            		</span>
+<span name="zaixian_8204648922630"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_21275160205830_17870572006019_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17870572006019x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12250119250755865005.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17870572006019x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        男女代步车、上班族、雅马哈等系列全场低价出售、带有</a><span class="ico area">
+</span><span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  800 公里 
+											
+											/ 购于
+											
+											 											    2013
+																								        年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 2小时
+            		</span>
+<span name="zaixian_21275160205830"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1099</b> 元                 </td>
+</tr>
+<tr logr="b_1_13394754072327_17859777596423_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17859777596423x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12248774364039258083.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17859777596423x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        我们要做到你的满意,我们的光辉,公民公认品牌</a><span class="ico area">
+</span><span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  5000 公里 
+											
+											/ 购于
+											
+											 											    2007年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_13394754072327"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_8204648922630_17870575666694_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17870575666694x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12250155819503905154.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17870575666694x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        原装进口玛格纳 铁马 哈雷 本田 雅马哈等大排太子</a><span class="ico area">
+</span><span class="ico ntu" title="">[6图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2013年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 2小时
+            		</span>
+<span name="zaixian_8204648922630"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7000</b> 元                 </td>
+</tr>
+<tr logr="b_1_8467898786310_14246130706568_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/14246130706568x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s1201560532646299953.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/14246130706568x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        低价出售多款式公路赛,大排量跑车</a><span class="ico area">
+</span><span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                																					已行驶 
+																							   5000 公里
+											                                             / 购于
+											 2010 年
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 2小时
+            		</span>
+<span name="zaixian_8467898786310"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7200</b> 元                 </td>
+</tr>
+<tr logr="b_0_21696017348102_17474972606337_11_0_0">
+<td class="img"><a href="http://sz.58.com/danche/17474972606337x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12199515519144020145.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17474972606337x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        小张销售大排量 质量三包 可以现场看车试车 现场交</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  4000 公里 
+											
+											/ 购于
+											
+											 											    2004年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_21696017348102"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">10000</b> 元                 </td>
+</tr>
+<tr logr="b_1_16512964029446_17869917309059_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17869917309059x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s02250071990553005086.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17869917309059x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        手男女装代步用车 车况好 款式齐全 满意后免费三包</a><span class="ico area">
+</span><span class="ico ntu" title="">[16图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  1000 公里 
+											
+											/ 购于
+											
+											 											    2014年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 3小时
+            		</span>
+<span name="zaixian_16512964029446"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1189</b> 元                 </td>
+</tr>
+<tr logr="b_1_22995173705222_17869841432453_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17869841432453x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12250059247519438063.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17869841432453x.shtml" target="_blank" class="t" data-addtype="level4">
+						[全新]                        进口铃木品牌公路赛Gsx系列,K6、k7、k8款式</a><span class="ico area">
+</span><span class="ico ntu" title="">[9图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												新车未行驶
+												                            				
+							/ 600cc以上
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 3小时
+            		</span>
+<span name="zaixian_22995173705222"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">27000</b> 元                 </td>
+</tr>
+<tr logr="b_1_18549655935495_17671166385025_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17671166385025x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s02224629794590201113.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17671166385025x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        经营250-1000cc 进口赛跑车 大排量 雅马</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2006年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 4小时
+            		</span>
+<span name="zaixian_18549655935495"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_6583241361159_17300225731847_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17300225731847x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12177148005027214114.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17300225731847x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        赛跑车 哈雷太子 雅马哈本田 铃木 宝马 等多多品</a><span class="ico area">
+</span><span class="ico ntu" title="">[21图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  5000 公里 
+											
+											/ 购于
+											
+											 											    2005年
+																							 											
+												                            				
+							/ 400cc-600cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 5小时
+            		</span>
+<span name="zaixian_6583241361159"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_0_22968905232646_17858100378375_11_0_0">
+<td class="img"><a href="http://sz.58.com/danche/17858100378375x.shtml" target="_blank" data-addtype="level4"><img src="http://4.pic.58control.cn/p1/tiny/n_s12248558697925018066.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17858100378375x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        急转让一辆九成新雅马哈鬼火。</a><span class="ico area">
+</span><span class="ico ntu" title="">[1图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  205 公里 
+											
+											/ 购于
+											
+											 											    2014年
+																							 											
+												                            				
+							/ 100cc-150cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 6小时
+            		</span>
+<span name="zaixian_22968905232646"></span>
+<span class="fl ml5 biz">
+</span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">1805</b> 元                 </td>
+</tr>
+<tr logr="b_1_12804105917191_15429745771522_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/15429745771522x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s01937727185078808.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/15429745771522x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        买跑车 质量三包实体店 出售原装大排量</a><span class="ico area">
+</span><span class="ico ntu" title="">[8图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                																					已行驶 
+																							   3000 公里
+											                                             / 购于
+											 2009 年
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-08
+            		</span>
+<span name="zaixian_12804105917191"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8800</b> 元                 </td>
+</tr>
+<tr logr="b_1_42118478_17853152892290_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17853152892290x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12247925770469838014.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17853152892290x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        公路赛、太子等大排量本田CBR、川崎、铃木、雅马哈</a><span class="ico area">
+</span><span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  1000 公里 
+											
+											/ 购于
+											
+											 											    2008年
+																							 											
+												                            				
+							/ 400cc-600cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-07
+            		</span>
+<span name="zaixian_42118478"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7000</b> 元                 </td>
+</tr>
+<tr logr="b_1_42118478_17853097929478_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17853097929478x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12247918830291890115.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17853097929478x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        四大品牌原装大排量摩托车 刚来到的新货 诚信交易东</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  3000 公里 
+											
+											/ 购于
+											
+											 											    2006年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-07
+            		</span>
+<span name="zaixian_42118478"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_6583241361159_17249856772874_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17249856772874x.shtml" target="_blank" data-addtype="level4"><img src="http://1.pic.58control.cn/p1/tiny/n_s12170701185733035144.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17249856772874x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        世界最经典电喷电子码 《大排量》赛跑车 高级配置</a><span class="ico area">
+</span><span class="ico ntu" title="">[23图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  4000 公里 
+											
+											/ 购于
+											
+											 											    2005年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 16小时
+            		</span>
+<span name="zaixian_6583241361159"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+<tr logr="b_1_2709735827206_17112162310274_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17112162310274x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12168589823984604003.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17112162310274x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        康师傅 进口大排量 250-600原装飙车 街车</a><span class="ico area">
+</span><span class="ico ntu" title="">[14图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  2000 公里 
+											
+											/ 购于
+											
+											 											    2011年
+																							 											
+												                            				
+							/ 250cc-400cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-07
+            		</span>
+<span name="zaixian_2709735827206"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">7888</b> 元                 </td>
+</tr>
+<tr logr="b_1_16337120418823_16520250200967_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/16520250200967x.shtml" target="_blank" data-addtype="level4"><img src="http://3.pic.58control.cn/p1/tiny/n_s12077313233060811014.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/16520250200967x.shtml" target="_blank" class="t" data-addtype="level4">
+						[全新]                        气派高档全新公路赛 双排气筒 新感觉150-250</a><span class="ico area">
+</span><span class="ico ntu" title="">[12图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												新车未行驶
+												                            				
+							/ 150cc-250cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/futian/danche/">福田</a>
+                                                &nbsp;/ 05-07
+            		</span>
+<span name="zaixian_16337120418823"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">3000</b> 元                 </td>
+</tr>
+<tr logr="b_1_6583241361159_17705679118722_11_1_0">
+<td class="img"><a href="http://sz.58.com/danche/17705679118722x.shtml" target="_blank" data-addtype="level4"><img src="http://2.pic.58control.cn/p1/tiny/n_s12229047307010371016.jpg" alt="" /></a></td>
+<td class="t">
+<a href="http://sz.58.com/danche/17705679118722x.shtml" target="_blank" class="t" data-addtype="level4">
+						                        品牌大中跑跑车、二手车专卖、颜色无限、款式新潮靓丽</a><span class="ico area">
+</span><span class="ico ntu" title="">[24图]</span>
+<i class="clear"></i>
+                     						
+			                        									
+																		
+										                                		                            												已行驶 
+																							  5000 公里 
+											
+											/ 购于
+											
+											 											    2007年
+																							 											
+												                            				
+							/ 400cc-600cc
+						
+			                    <i class="clear"></i>
+<span class="fl">
+<a class="c_666" href="http://sz.58.com/danche/">深圳</a><span> - </span>
+<a class="c_666" href="http://sz.58.com/luohu/danche/">罗湖</a>
+                                                &nbsp;/ 17小时
+            		</span>
+<span name="zaixian_6583241361159"></span>
+<span class="fl ml5 biz">
+														  							    [普通商家]
+							  							                                  </span>
+<i class="clear"></i>
+</td>
+<td class="tc"> <b class="pri">8000</b> 元                 </td>
+</tr>
+</table>
+<!-- =E tbimg/tbtxt -->
+<!-- =S 底部精准推广显示 -->
+<!-- =E 底部精准推广显示 -->
+<!-- =S bottom_google_ad -->
+<div id="guanggao"> <div id="taobao"></div>
+<div id="bottom_google_ad"></div>
+</div>
+<!-- =E bottom_google_ad -->
+</div>
+<!-- =S pager -->
+<div class="pager">
+<strong><span>1</span></strong>
+</div>
+<!-- =E pager -->
+<!-- =S infocont -->
+<div id="infocont" class="infocont">
+   		共 <span style="color: red"><b>2</b></span> 条信息，
+       <a href="http://post.58.com/2050/30/s5" target="_blank" class="pubbtn" rel="nofollow">马上发布一条香港二手摩托车信息&raquo;</a>
+</div>
+<!-- =S RelatedSearch 相关搜索 -->
+<!-- =E RelatedSearch 相关搜索 -->
+<!--商业产品 广告-->
+<div id="bottom_zhaoshangjiameng_ad"></div>
+<!-- =E infocont -->
+</div>
+<!-- =E infolist 左侧列表主体 -->
+<!-- =S rightframe 右侧广告 -->
+<div id="rightframe">
+<!--见面交易 E-->
+<div id="ad19"></div>
+</div>
+<!-- =E rightframe 右侧广告 -->
+</section>
+<!-- =E main -->
+<!-- =S 智能推广 -->
+<div id="direct_ad_bottom"></div>
+<!-- =E 智能推广 -->
+<!-- =S 底部广告 -->
+<div id="ad_b14"></div>
+<!-- =E 底部广告 -->
+<!-- =S #links -->
+<section id="links">
+<i class="linksTopline"></i>
+<!-- =S relate 相关信息 -->
+<!-- =E relate 相关信息 -->
+<!-- =S relatelink -->
+<dl class="linksItem relatelink" id="relatelink">
+<dt class="b-left">
+<h2>香港二手摩托车品牌导航</h2></dt>
+<dd class="b-right">
+<dl id="relateSelect" class="relateSelect">
+<dt><span>A</span></dt>
+<dd>
+<a href="http://hk.58.com/apuliya/" target="_blank">二手阿普利亚摩托车转让</a>
+</dd>
+<dt><span>B</span></dt>
+<dd>
+<a href="http://hk.58.com/bentianmoto/" target="_blank">二手本田摩托车转让</a>
+<a href="http://hk.58.com/baomamoto/" target="_blank">二手宝马摩托车转让</a>
+<a href="http://hk.58.com/biyaqiao/" target="_blank">二手比亚乔摩托车转让</a>
+</dd>
+<dt><span>C</span></dt>
+<dd>
+<a href="http://hk.58.com/chunfeng/" target="_blank">二手春风摩托车转让</a>
+<a href="http://hk.58.com/chuanqi/" target="_blank">二手川崎摩托车转让</a>
+</dd>
+<dt><span>D</span></dt>
+<dd>
+<a href="http://hk.58.com/dayang/" target="_blank">二手大阳摩托车转让</a>
+<a href="http://hk.58.com/taiziche/" target="_blank">二手太子车转让</a>
+</dd>
+<dt><span>E</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>F</span></dt>
+<dd>
+<a href="http://hk.58.com/fengtianmoto/" target="_blank">二手丰田摩托车转让</a>
+</dd>
+<dt><span>G</span></dt>
+<dd>
+<a href="http://hk.58.com/mtsaiche/" target="_blank">二手公路赛摩托车转让</a>
+<a href="http://hk.58.com/guangyang/" target="_blank">二手光阳摩托车转让</a>
+</dd>
+<dt><span>H</span></dt>
+<dd>
+<a href="http://hk.58.com/haojue/" target="_blank">二手豪爵摩托车转让</a>
+<a href="http://hk.58.com/hjlmmoto/" target="_blank">二手豪爵铃木摩托车转让</a>
+<a href="http://hk.58.com/halei/" target="_blank">二手哈雷摩托车转让</a>
+<a href="http://hk.58.com/huari/" target="_blank">二手华日摩托车转让</a>
+<a href="http://hk.58.com/hecqmoto/" target="_blank">二手黄河川崎摩托车转让</a>
+<a href="http://hk.58.com/hecqmoto/" target="_blank">二手黄河川崎摩托车转让</a>
+</dd>
+<dt><span>I</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>J</span></dt>
+<dd>
+<a href="http://hk.58.com/jialing/" target="_blank">二手嘉陵摩托车转让</a>
+<a href="http://hk.58.com/jlbtmoto/" target="_blank">二手嘉陵本田摩托车转让</a>
+<a href="http://hk.58.com/jianshe/" target="_blank">二手建设摩托车转让</a>
+<a href="http://hk.58.com/jsymhmoto/" target="_blank">二手建设雅马哈摩托车转让</a>
+<a href="http://hk.58.com/jincheng/" target="_blank">二手金城摩托车转让</a>
+<a href="http://hk.58.com/jclmmoto/" target="_blank">二手金城铃木摩托车转让</a>
+</dd>
+<dt><span>L</span></dt>
+<dd>
+<a href="http://hk.58.com/lingmumoto/" target="_blank">二手铃木摩托车转让</a>
+<a href="http://hk.58.com/lifan/" target="_blank">二手力帆摩托车转让</a>
+<a href="http://hk.58.com/danche/jh_二手隆鑫摩托车转让/" target="_blank">二手隆鑫摩托车转让</a>
+</dd>
+<dt><span>M</span></dt>
+<dd>
+<a href="http://hk.58.com/miniche/" target="_blank">二手迷你车转让</a>
+</dd>
+<dt><span>N</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_二手南方摩托车转让/" target="_blank">二手南方摩托车转让</a>
+</dd>
+<dt><span>O</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>P</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_二手鹏城摩托车转让/" target="_blank">二手鹏城摩托车转让</a>
+</dd>
+<dt><span>Q</span></dt>
+<dd>
+<a href="http://hk.58.com/qingqi/" target="_blank">二手轻骑摩托车转让</a>
+<a href="http://hk.58.com/qianjiang/" target="_blank">二手钱江摩托车转让</a>
+<a href="http://hk.58.com/qqlmmoto/" target="_blank">二手轻骑铃木摩托车转让</a>
+<a href="http://hk.58.com/qqmlmoto/" target="_blank">二手轻骑木兰摩托车转让</a>
+<a href="http://hk.58.com/qishiche/" target="_blank">二手骑式车转让</a>
+</dd>
+<dt><span>R</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>S</span></dt>
+<dd>
+<a href="http://hk.58.com/zongshen/" target="_blank">二手宗申摩托车转让</a>
+<a href="http://hk.58.com/shatanche/" target="_blank">二手沙滩车转让</a>
+<a href="http://hk.58.com/sanlunmotuo/" target="_blank">二手三轮摩托车转让</a>
+<a href="http://hk.58.com/danche/jh_二手三阳摩托车转让/" target="_blank">二手三阳摩托车转让</a>
+</dd>
+<dt><span>T</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>U</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>V</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_ /" target="_blank"> </a>
+</dd>
+<dt><span>W</span></dt>
+<dd>
+<a href="http://hk.58.com/wybtmoto/" target="_blank">二手五羊本田摩托车转让</a>
+<a href="http://hk.58.com/wanliang/" target="_blank">二手弯梁车转让</a>
+</dd>
+<dt><span>X</span></dt>
+<dd>
+<a href="http://hk.58.com/xindazhou/" target="_blank">二手新大洲摩托车转让</a>
+<a href="http://hk.58.com/xdzbtmoto/" target="_blank">二手新大洲本田摩托车转让</a>
+</dd>
+<dt><span>Y</span></dt>
+<dd>
+<a href="http://hk.58.com/yamaha/" target="_blank">二手雅马哈摩托车转让</a>
+<a href="http://hk.58.com/yueyemotuoche/" target="_blank">二手越野摩托车转让</a>
+</dd>
+<dt><span>Z</span></dt>
+<dd>
+<a href="http://hk.58.com/danche/jh_ /" target="_blank"> </a>
+</dd>
+</dl>
+</dd>
+</dl>
+<script>
+            var alldt = $("#relateSelect&gt;dt");
+            function showNear(dt) {
+                alldt.each(function () {
+                    if (this == dt) {
+                        $(this).next("dd").show();
+                        $(this).addClass("select");
+                    }
+                    else {
+                        $(this).next("dd").hide();
+                        $(this).removeClass("select");
+                    }
+                });
+            }
+            alldt.each(function () {
+                $(this).click(function () {
+                    showNear(this);
+                }).hover(function () {
+                    showNear(this);
+                });
+            });
+            showNear(alldt[0]);
+        </script>
+<!-- =E relatelink -->
+<!-- =S friendtips -->
+<dl class="linksItem friendtips" id="friendtips">
+<dt class="b-left">
+<h2>香港二手摩托车频道介绍</h2></dt>
+<dd class="b-right"><p>香港二手摩托车频道为您提供香港二手摩托车转让/出售信息，在此有大量香港二手摩托车报价/图片/价格信息供您选择，您可以免费查看香港<a href="http://www.58.com/cheliangjiagelist/" target="_blank">摩托车价格大全</a>并发布香港二手摩托车信息。亦可用手机便捷访问<a href="http://m.58.com/hk/danche/" target="_blank">香港二手摩托车</a>信息。</p></dd>
+</dl>
+<!-- =E friendtips -->
+<!-- =S hotcity -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>热门城市二手摩托车</h2></dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li><a href="http://sh.58.com/danche/">上海二手摩托车</a></li>
+<li><a href="http://bj.58.com/danche/">北京二手摩托车</a></li>
+<li><a href="http://sz.58.com/danche/">深圳二手摩托车</a></li>
+<li><a href="http://gz.58.com/danche/">广州二手摩托车</a></li>
+<li><a href="http://tj.58.com/danche/">天津二手摩托车</a></li>
+<li><a href="http://nj.58.com/danche/">南京二手摩托车</a></li>
+<li><a href="http://dl.58.com/danche/">大连二手摩托车</a></li>
+<li><a href="http://hz.58.com/danche/">杭州二手摩托车</a></li>
+<li><a href="http://sy.58.com/danche/">沈阳二手摩托车</a></li>
+<li><a href="http://hrb.58.com/danche/">哈尔滨二手摩托车</a></li>
+<li><a href="http://cd.58.com/danche/">成都二手摩托车</a></li>
+<li><a href="http://dg.58.com/danche/">东莞二手摩托车</a></li>
+<li><a href="http://jn.58.com/danche/">济南二手摩托车</a></li>
+<li><a href="http://fs.58.com/danche/">佛山二手摩托车</a></li>
+<li><a href="http://wx.58.com/danche/">无锡二手摩托车</a></li>
+<li><a href="http://cs.58.com/danche/">长沙二手摩托车</a></li>
+<li><a href="http://wh.58.com/danche/">武汉二手摩托车</a></li>
+<li><a href="http://nb.58.com/danche/">宁波二手摩托车</a></li>
+<li><a href="http://cc.58.com/danche/">长春二手摩托车</a></li>
+<li><a href="http://su.58.com/danche/">苏州二手摩托车</a></li>
+<li><a href="http://qd.58.com/danche/">青岛二手摩托车</a></li>
+<li><a href="http://zh.58.com/danche/">珠海二手摩托车</a></li>
+<li><a href="http://cq.58.com/danche/">重庆二手摩托车</a></li>
+<li><a href="http://fz.58.com/danche/">福州二手摩托车</a></li>
+<li><a href="http://ty.58.com/danche/">太原二手摩托车</a></li>
+<li><a href="http://wz.58.com/danche/">温州二手摩托车</a></li>
+<li><a href="http://dq.58.com/danche/">大庆二手摩托车</a></li>
+<li><a href="http://nc.58.com/danche/">南昌二手摩托车</a></li>
+</ul>
+</dd>
+</dl>
+<!-- =E hotcity -->
+<!-- =S 底部链接分类 -->
+<!-- =E 底部链接分类 -->
+<!-- =S 周边城市 -->
+<dl class="linksItem hotcity" id="hotcity">
+<dt class="b-left">
+<h2>
+				香港二手摩托车周边城市
+			</h2>
+</dt>
+<dd class="b-right">
+<ul class="b-ul">
+<li>
+<a target="_blank" href="http://gz.58.com/danche/">广州二手摩托车</a>
+</li>
+<li>
+<a target="_blank" href="http://zh.58.com/danche/">珠海二手摩托车</a>
+</li>
+<li>
+<a target="_blank" href="http://dg.58.com/danche/">东莞二手摩托车</a>
+</li>
+<li>
+<a target="_blank" href="http://st.58.com/danche/">汕头二手摩托车</a>
+</li>
+<li>
+<a target="_blank" href="http://zs.58.com/danche/">中山二手摩托车</a>
+</li>
+<li>
+<a target="_blank" href="http://huizhou.58.com/danche/">惠州二手摩托车</a>
+</li>
+<li>
+<a target="_blank" href="http://jm.58.com/danche/">江门二手摩托车</a>
+</li>
+<li>
+<a target="_blank" href="http://sg.58.com/danche/">韶关二手摩托车</a>
+</li>
+<li>
+<a target="_blank" href="http://zhanjiang.58.com/danche/">湛江二手摩托车</a>
+</li>
+</ul>
+</dd>
+</dl>
+<!-- =E 周边城市 -->
+<!-- =S friendlink -->
+<!-- =E friendlink -->
+</section>
+<!-- =E links -->
+<!-- =S footer -->
+<footer id="footer" class="footer"><p class="copyright">&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a></p></footer>
+<!-- =E footer -->
+<!-- =S 筛选保存个数 -->
+<ul id="localInfo" class="lso-hide" style="left: 1198.5px; top: 578px;">
+<li class="item"><a class="item-left" href="http://bj.58.com/dongcheng/shouji/pve_5595_300242/?v=1">东城二手手机300万像素</a><a class="off-button" href="#localInfo"></a></li>
+</ul>
+<!-- =E 筛选保存个数 -->
+<script type="text/javascript">
+    boot.require('util.uri', function (Frame, uri) {
+        var mutexs_par = "a1a2a3a4a5a6a7a8".substring(0, 1);
+        var re = new RegExp(mutexs_par + '\\d+', 'ig')
+        mutexs = [
+            {searchitem: re, params: ["minprice"], searthname: '价格'}
+        ];
+        for (var i = 0, leni = mutexs.length; i &lt; leni; i++) {
+            var mutex = mutexs[i];
+            var pobj = {};
+            for (var j = 0, lenj = mutex.params.length; j &lt; lenj; j++) {
+                pobj[mutex.params[j]] = null;
+            }
+            for (var l = 0, lenl = mutex.params.length; l &lt; lenl; l++) {
+                var pitem = $("#selection&gt;.secitem dt:contains(" + mutex.searthname + ")").parent();
+                pitem.find("a").each(function () {
+                    var o = {};
+                    o[mutex.params] = null;
+                    this.href = (new uri(this.href)).setQuery(o);
+                });
+            }
+        }
+    });
+</script>
+<script src="http://track.58.com/adsys/ggafs?rand=20140509"></script>
+<script>
+    //信息hover
+    boot.require('dom, anim.hover', function (Frame, dom, hover) {
+        var isPersonal = false;
+        var cc;
+        if (isPersonal) {
+            cc = dom.get('hoverinfo');
+        }
+        else {
+            cc = dom.get('infolist');
+        }
+        trs = cc.getElementsByTagName('tr');
+        Frame.each(trs, function (item) {
+            hover.bind(item, 'bg');
+        });
+    });
+
+    $(".selector").each(function () {
+        $(this).hover(function () {
+            $(this).addClass("hover")
+        }, function () {
+            $(this).removeClass("hover")
+        });
+    });
+    ////导航
+    var navs = [];
+    navs.push(['香港58同城', 'http://hk.58.com/sou/']);
+    navs.push(['香港车辆买卖与服务', '/car.shtml']);
+            navs.push(['香港二手摩托车信息', '/danche/']);
+                    boot.require('business.navbar', function (Frame, navbar) {
+        navbar.init(navs);
+    });
+    ///////标红////
+    boot.require('business.highlight', function (Frame, highlight) {
+                        highlight.init($("#infolist a.t"), '');
+            });
+</script>
+<script type="text/javascript">document.write("&lt;sc" + "ript src='http://track.58.com/adsys/ggafs?r=" + Math.random() + "'&gt;&lt;/scri" + "pt&gt;");</script>
+<div style="display:none">
+<!--基本统计代码begin(30,0)--by:zhanghao06-->
+<script type="text/javascript"> 
+____json4fe.supplycount = {level1:'0', level2:'0', level3:'0', level4:'48', level5:'0', sortid: '444428125'};
+var _gaq = _gaq || [], site_name = "58", post_count = "2", page_type = "list";
+ _trackURL = "{'cate':'4,30','area':'2050','pagetype':'list','pagesize':'50','pagenum':'1','jiage':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+boot.require('business.gaq, util.js', function (Frame, gaq, js) {
+	_gaq.push(['pageTracker._trackPageview', gaq("car", "/hk/car/danche/list/")]);
+	_gaq.push(['pageTracker._trackPageLoadTime']);
+	Frame.init(function () {
+		js.append(('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+		js.append('http://tracklog.58.com/referrer4.js');
+	});
+});
+</script>
+<!--基本统计代码end-->
+</div>
+<!-- =S 地域推荐功能 -->
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" name="myTest" align="middle">
+<param name="allowScriptAccess" value="always">
+</param><param name="movie" value="http://list.house.58.com/kanfangdan.swf">
+</param><param name="quality" value="high">
+<embed src="http://list.house.58.com/kanfangdan.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true" allowscriptaccess="always"></embed>
+</param></object>
+<!-- =S 地域推荐功能 -->
+<!--rukoubanner-->
+<div class="ie6fixed3">
+<a target="_blank" href="http://static.58.com/ui7/help/safecl.html?from=list-left-safeclmtc"><img src="http://pic2.58.com/ui6/index/icon_muotuocar.gif" /></a>
+</div>
+</body>
+</html>

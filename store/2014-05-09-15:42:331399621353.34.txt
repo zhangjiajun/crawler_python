@@ -1,0 +1,283 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>龙源电力集团股份有限公司2014年最新招聘信息 - 58同城</title>
+<meta name="keywords" content="龙源电力集团股份有限公司" />
+<meta name="description" content="龙源电力集团股份有限公司前身为龙源电力集团公司，成立于1993年1月，是国内最早从事新能源开发的电力企业之一。经国务院国资委批准，2009年7月9日，龙源电力集团公司正式改制为" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript"> 
+	function changeClass(){
+		var parentName = document.getElementById("pname").value;
+		var allLi = document.getElementsByName("pli");
+		if(typeof(allLi)!=='undefined'){
+			for(i=0;i&lt;allLi.length;i++){
+				var li = allLi[i];
+				var liVal = li.firstChild.firstChild.innerHTML;
+				if(liVal===parentName){
+					var attr = document.createAttribute("class");
+         	attr.value="active";
+         	li.setAttributeNode(attr);
+					break;
+				}
+			}		
+		}
+	}
+</script>
+<body>
+<!-- Baidu Button BEGIN 
+&lt;script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;pos=right&amp;uid=6862043" &gt;&lt;/script&gt;
+&lt;script type="text/javascript" id="bdshell_js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+var bds_config={"bdTop":140};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+&lt;/script&gt;
+ Baidu Button END -->
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left"><h2></h2> <span id="ipconfig"></span></div>
+<div class="bar_right">
+<div id="login"><a rel="nofollow" target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">登录</a><span class="gap">|</span><a rel="nofollow" target="_self" href="https://passport.58.com/reg/">注册</a></div>
+</div></div></div>
+<div id="header">
+<div id="headerinside"><div id="logo"><a target="_blank" href="http://58.com/"><img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" /></a><span>中国500强企业</span></div>
+<span><a rel="nofollow" style="background: url(http://pic2.58.com/ui6/index/newbg.png) no-repeat scroll 0 -147px transparent;color: #FFFFFF;cursor: pointer;display: inline-block;float: left;font-size: 14px;font-weight: bold;height: 34px;line-height: 34px;position: absolute;right: 10px;text-align: center;top: 11px;width: 117px;" target="_blank" href="http://post.58.com/1/">免费发布信息</a></span></div>
+</div>
+<div id="nav" class="active">
+<div id="navin" class="active">
+<ul>
+<li><a href="/qiye/">首页</a></li>
+<li name="pli" id="pli"><a href="/qiyezixun/"><span>企业最新资讯</span></a></li>
+<li name="pli" id="pli"><a href="/qiyewenhua/"><span>企业文化</span></a></li>
+<li name="pli" id="pli"><a href="/qiyezhaopin/"><span>企业招聘指南</span></a></li>
+<li name="pli" id="pli"><a href="/top500/"><span>世界500强企业</span></a></li>
+<li name="pli" id="pli"><a href="/china500/"><span>中国500强企业</span></a></li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="企业百科" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input name="word" size="21" maxlength="100" type="text" placeholder="58生活资讯" onfocus="if(this.placeholder=='58生活资讯'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='58生活资讯';}" />
+<input type="submit" value="资讯搜索" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+</div>
+</div>
+<script type="text/javascript">changeClass();</script>
+<div class="content ej">
+<div class="box">
+<div class="left fl">
+<div><a rel="nofollow" href="http://zp.58.com/yy/2014spring/" target="_blank"><img style="border:none;" src="http://www.58.com/zp_images/allimg/131128/yjsguanggao.jpg" alt="58招聘季" /></a></div>
+<h2><span class="daohang"><a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/qiye/">企业百科</a> &gt; <a href="/china500/">中国500强企业</a> &gt; </span></h2>
+<div class="wenzhang">
+<h1>龙源电力集团股份有限公司2014年最新招聘信息</h1>
+<div class="sm">来源：58.com     2013-10-29 17:27 </div>
+<table cellpadding="0" cellspacing="0" width="100%" id="content">
+<tr><td>
+<p>龙源电力集团股份有限公司前身为龙源电力集团公司，成立于1993年1月，是国内最早从事新能源开发的电力企业之一。经国务院国资委批准，2009年7月9日，龙源电力集团公司正式改制为龙源电力集团股份有限公司。2009年12月10日，龙源电力在香港联合交易所主板成功上市，股份代号00916，简称龙源电力。上市后，公司股份总数为7,464,289,000股，其中中国国电集团公司合并持股比例为63.68%，为公司控股股东。<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 龙源电力集团股份有限公司主要从事风电场的设计、开发、建设、管理和运营。除风电业务外,还经营火电、太阳能、潮汐、生物质、地热等其他发电项目；向风电场提供咨询、维修、保养、培训及其它专业服务；制造和销售用于电网、风电场及火电厂的电力设备。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;截至2011年12月31日，龙源电力集团股份有限公司风电总装机容量为10827兆瓦，风电控股装机容量8732兆瓦，占龙源电力总装机容量的80.65%。根据BTM报告，龙源电力集团股份有限公司在中国和亚太地区均位列第一,在全球位列第二。龙源电力集团股份有限公司其它可再生能源控股装机容量为28.9兆瓦，火电控股装机容量为1,875.0兆瓦。<br />
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;经过多年的积累，龙源电力集团股份有限公司确立了在新能源领域的技术及人才优势，建立了可再生能源发展研究、风电前期开发服务、风电工程咨询设计、风电工程及设备采购管理、风电场运行监控、风电场检修及技术服务、风电场备品备件管理、清洁能源机制开发服务、风电职业技术培训、风电行业公共服务平台等十大技术服务支持系统。形成了前期测风、设计咨询、运行监控、检修维护、技术研发、专业培训等多个领域的独特优势。<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 龙源电力集团股份有限公司获国家能源局授牌成立了&ldquo;国家能源风电运营技术研发中心&rdquo;，引领行业技术升级。经人力资源和社会保障部批准，公司成立了&ldquo;国电龙源风力发电国家职业技能鉴定站&rdquo;，培养鉴定风电行业高等专业人才，为公司可持续发展提供了人才保障。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 龙源电力集团股份有限公司的业务主要包括：火力发电、太阳能发电、风力发电和其他新能源，详细介绍如下：<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>火力发电<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙源电力集团股份有限公司的火电总装机为187.5万千瓦，其中江阴苏龙发电有限公司121.5万千瓦，南通天生港发电有限公司66万千瓦。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>太阳能发电<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009年，龙源电力集团股份有限公司加快发展太阳能发电业务。2010年3月19日，公司投资建设的西藏最大的10兆瓦太阳能光伏电站在拉萨市当雄县羊八井镇开工。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>风力发电<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙源电力集团股份有限公司作为中国最早从事风力发电的企业，在上世纪80年代末就投身风电，并积累了丰富的经验，多年来一直领跑中国风电。龙源电力集团股份有限公司新疆达坂城风电场，在20世纪80年代末开始建设，并一度长期保持着中国最大风电场的优势。龙源集团于1994年开始建设，于1995年运行发电的汕头福澳风电场是我国第一个商业化开发的风电项目。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21世纪以来，龙源电力集团股份有限公司敏锐地把握世界可持续发展和国家政策层面的最新动向，果断提出大力发展以风电为主的新能源的战略规划。2005年以来，龙源风电装机以每年接近100%的速度实现增长。2009年底，龙源电力集团股份有限公司风电控股总装机达到450.35万千瓦，全球排名第五位，蝉联亚洲第一。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;风电开发业务流程：订立开发协议&rarr;测风&rarr;可行性分析&rarr;政府审批&rarr;风场建设<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;风电特许权项目：为了促进中国风电的规模化发展和商业化运营，中国政府采取的由政府选定风电项目，并邀请投资者竞标，以电价为标杆确定投资商的开发模式。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 截至2009年12月31日，龙源电力集团股份有限公司已成功取得三个国家级特许权项目的开发与经营权，分别是内蒙古包头巴音特许权项目、吉林省通榆一期特许权项目以及江苏如东二期特许权项目。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>其他新能源<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>地热：</strong>龙源电力集团股份有限公司在西藏投资建设的羊八井地热发电示范电站，采用了双螺杆膨胀动力机技术。&ldquo;双螺杆膨胀动力机&rdquo;作为一种新型的地热发电技术，适用于西藏地热资源的开发，不仅成熟可靠，而且前景广阔。龙源电力集团股份有限公司的第一台1000千瓦双螺杆膨胀动力机发电机组已于2008年在西藏羊八井投运。2010年3月19日，羊八井地热发电示范电站1000千瓦双螺杆膨胀动力机发电机组二期项目开工建设。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>潮汐：</strong>目前龙源电力集团股份有限公司拥有世界第三、亚洲第一的江厦潮汐试验电站，电站装机容量3900千瓦。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>生物质：</strong>龙源电力集团股份有限公司首个生物质发电示范项目--东海龙源秸秆发电项目已于2008年6月正式投产，该项目以纯农作物废弃秸秆为燃料，首创采用国内技术自主研发的整捆料包直接入炉燃烧方式。年处理秸秆约为18万吨，可减少二氧化碳排放达11.8万吨，每年可为当地农民带来约4000万元的经济收入，对推动国民经济和人类社会的可持续发展有着十分重要和深远的意义，是真正集社会效益、环保效益和经济效益为一体的环保、节能项目。目前龙源集团拥有世界第三、亚洲第一的江厦潮汐试验电站，电站装机容量3900千瓦。</p>
+<p>更多精彩文章推荐：</p>
+<p><a href="http://www.58.com/china500/20131025275344.html">中国人民财产保险股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131025275606.html">江西铜业股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131025276019.html">中国铝业股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131025276322.html">五矿发展股份有限公司</a></p>
+<p><a href="http://www.58.com/china500/20131025276732.html">交通银行股份有限公司</a></p>
+</td></tr>
+</table>
+<div class="n_p">
+<!-- 百度分享 横向 kong 2013.11.26 -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+<a class="bds_qzone"></a>
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+<span class="bds_more">更多</span>
+<a class="shareCount"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script><br /><br />
+<!-- 百度分享 横向 kong 2013.11.26 -->
+                上一篇：<a href="/china500/20131029306693.html">新疆八一钢铁股份有限公司2014年最新招聘信息</a> <br />
+
+
+
+                    下一篇：<a href="/china500/20131029306877.html">际华集团股份有限公司2014年最新招聘信息</a>
+<center><tr><td>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span>
+</td></tr></center>
+</div>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt>
+<strong>热门职位推荐</strong>
+</dt>
+<dd class="hotpList">
+<a href="/yewu/">销售</a>
+<a href="/bianji/">编辑</a>
+<a href="/wenziluru/">文员</a>
+<a href="/sheji/">平面设计</a>
+<a href="/jiaoshi/">教师</a>
+<a href="/yiliao/">医生</a>
+<a href="/waimaozhuanyuan/">外贸专员</a>
+<a href="/kefu/">客服</a>
+<a href="/caiwu/">会计</a>
+<a href="/qiantai/">前台</a>
+<a href="/wangzhanmeigong/">网页制作</a>
+<a href="/youerjiaoshi/">幼教</a>
+<a href="/hushi/">护士</a>
+<a href="/shichang/">市场公关</a>
+<a href="/dyao/">导游</a>
+<a href="/fanyizhaopin/">翻译</a>
+<a href="/zhaopinjingli/">人事专员</a>
+<a href="/jishuzhichi/">技术支持</a>
+<a href="/jypeixunshi/">培训师</a>
+<a href="/lfawurenyuan/">法务专员</a>
+<a href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+<!--   相关资讯   -->
+<div class="n_p">
+<h3 class="about">龙源电力集团股份有限公司2014年最新招聘信息相关推荐</h3>
+<div class="ul2">
+<ul>
+<li><span>02-20</span><a href="/china500/20140220628352.html" title="" target="_self">上海隧道工程股份有限公司招聘</a></li>
+<li><span>02-20</span><a href="/china500/20140220628349.html" title="" target="_self">上海隧道工程股份有限公司怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628347.html" title="" target="_self">平顶山煤业集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628346.html" title="" target="_self">平顶山天安煤业</a></li>
+<li><span>02-20</span><a href="/china500/20140220628341.html" title="" target="_self">东部华侨城招聘信息</a></li>
+<li><span>02-20</span><a href="/china500/20140220628340.html" title="" target="_self">深圳华侨城集团</a></li>
+<li><span>02-20</span><a href="/china500/20140220628339.html" title="" target="_self">百度理财怎么样</a></li>
+<li><span>02-20</span><a href="/china500/20140220628337.html" title="" target="_self">百度公司地址</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<!--   相关资讯   -->
+</div>
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>栏目推荐</h2>
+<div class="tuijian"><a class="y5" href="/china500/20131107347109.html">2013中国企业500强排行榜</a><a class="y1" href="/qiyezixun/">企业最新资讯</a><a class="y4" href="/qiyezhaopin/">企业招聘信息</a><a class="y3" href="/qiyefazhan/">企业发展</a><a class="y2" href="/qiyewenhua/">企业文化</a><a class="y5" href="/qiyerenwu/">企业热点人物</a></div>
+</div>
+<div class="hot fl">
+<h2>58同城官方微信二维码</h2>
+<ul class="j">
+<a target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" height="220" width="220" src="http://www.58.com/zp_images/allimg/131014/qrcode_for_gh_e21b1c81eaab_258.jpg" /> </a>
+<li>功能：职位订阅 精准推送 </li>
+<li>公众号：58同城</li>
+<li>微信号：amazing58</li>
+<li>提示：打开微信，点击底部菜单</li>
+<li>"发现"，选择"扫一扫"功能对准上</li>
+<li>方二维码即可关注。</li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热点排行</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029296813.html" target="_blank">百丽国际控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297213.html" target="_blank">tcl多媒体科技控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297435.html" target="_blank">恒逸石化股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297612.html" target="_blank">天音通信控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297838.html" target="_blank">中海集装箱运输股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029297959.html" target="_blank">芜湖港储运股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029300672.html" target="_blank">内蒙古伊泰煤炭股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301113.html" target="_blank">中航国际控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029301281.html" target="_blank">山西西山煤电股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029302414.html" target="_blank">玖龙纸业(控股)有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>推荐阅读</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131029303151.html" target="_blank">中国大冶有色金属矿业有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029303672.html" target="_blank">远洋地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304067.html" target="_blank">世茂房地产控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029304254.html" target="_blank">上海国际港务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131029306451.html" target="_blank">湖南有色金属股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309731.html" target="_blank">创维数码控股有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030309992.html" target="_blank">永辉超市股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310044.html" target="_blank">中国船舶工业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131030310177.html" target="_blank">国投电力控股股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273084.html" target="_blank">荣盛石化股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>精彩专区</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131025273301.html" target="_blank">一汽轿车股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025273513.html" target="_blank">中海油田服务股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275447.html" target="_blank">深圳华侨城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025275560.html" target="_blank">平顶山天安煤业股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276242.html" target="_blank">国电科技环保集团股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131025276774.html" target="_blank">中国雨润食品集团有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293347.html" target="_blank">阳煤化工股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028293999.html" target="_blank">安阳钢铁股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295331.html" target="_blank">上海豫园旅游商城股份有限公司2014年最新招聘信息</a></li>
+<li><a href="http://www.58.com/china500/20131028295574.html" target="_blank">山西潞安环保能源开发股份有限公司2014年最新招聘信息</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"><a href="/qiyezixun/">企业最新资讯</a>  |  <a href="/qiyewenhua/">企业文化</a>  |  <a href="/qiyefazhan/">企业发展</a>  |<a href="/qiyezhaopin/">企业招聘信息</a>|  <a href="/qiyerenwu/">企业热点人物</a></p>
+<div id="flink"><strong>友情链接</strong>:<a target="_blank" href="http://bj.kuche.com/"></a> <a rel="nofollow" target="_blank" href="/link.html">更多...</a> </div>
+<div id="footer">© 58.com <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">帮助中心</a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffef543bf67b8f904475a9ebf319ee80d' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+	var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info/qiye'+mod+'/detail/';
+
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+</body>
+</html>

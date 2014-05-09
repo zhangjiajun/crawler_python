@@ -1,0 +1,380 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=1200" />
+<meta name="keywords" content="我是落花生的女儿，我是落花生的女儿免费在线阅读" />
+<meta name="description" content="我是落花生的女儿免费在线阅读，我是落花生的女儿人物传记Array湖南人民出版社" />
+<title>我是落花生的女儿-免费在线阅读_历史频道_新浪网</title>
+<link rel="stylesheet" href="http://book.history.sina.com.cn/css/bh/common.css?20140325" />
+<link rel="stylesheet" href="http://book.history.sina.com.cn/css/bh/guess.css" />
+<link rel="stylesheet" href="http://book.history.sina.com.cn/css/bh/content.css?20140306" />
+<link rel="stylesheet" href="http://book.history.sina.com.cn/css/bh/index.css?20140306" />
+<link rel="stylesheet" href="http://book.history.sina.com.cn/css/bh/catalogue.css" />
+<link href="http://ent.sina.com.cn/css/470/20130123/comment.css" rel="stylesheet" type="text/css" />
+<script charset="gb2312" src="http://i.sso.sina.com.cn/js/ssologin.js"></script>
+<script charset="utf-8" src="http://i.sso.sina.com.cn/js/user_panel.js"></script>
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" charset="utf-8" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+<!-- SUDA_CODE_END -->
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_m_v629.js"></script>
+<script type="text/javascript">suds_init(3061,100.0000,1015,2);</script>
+<script>
+var userPanel = window.SINA_USER_PANEL;
+userPanel.STK.Ready(function(){
+    userPanel.set('outloginLayer', {						//配置登录浮层相关内容
+        ready : function(){								//登录浮层渲染成功后执行的方法，必选
+            var loginLayer = window.SINA_OUTLOGIN_LAYER;	//获取登录浮层
+            loginLayer.set('sso', {
+                entry : 'general'
+            }).register("layer_hide", function(){
+                loginLayer.set("plugin",{
+                    position:"custom"
+                })
+            }).init();
+        },
+        triggerEvent: 'hover'								//触发显示登录浮层的事件，可选择hover或click
+    }).set('container',{									//设置用户面板的父节点，不设置则为body
+        node: document.getElementById("userLogin")
+    }).init();												// 初始化用户面板，必选
+})
+</script>
+<script charset="utf-8" id="seajsnode" src="http://www.sinaimg.cn/jslib/modules2/seajs/1.3.0/sea.js"></script>
+<script src="http://news.sina.com.cn/js/modules2/config/lib/config.1.1.x.js"></script>
+<script>
+seajs.config({
+    alias: {
+        'site.rate': 'http://book.history.sina.com.cn/js/bh/rate.js?20140306'
+    }
+});
+</script>
+</head>
+<body>
+<script>
+var BOOK_ID = 54;
+</script>
+<div class="wrap">
+<div class="top-nav udv-clearfix">
+<div class="top-n-left"> <a href="http://book.history.sina.com.cn/" target="_blank"><img src="/css/bh/images/logo.png" alt="新浪历史-阅读" /></a> </div>
+<div class="top-n-right" id="login_wrapper">
+<a href="url" target="_blank" class="top-nr-login" id="top-nr-login"></a>
+<a href="http://history.sina.com.cn/" target="_blank" class="link-6b615d">新浪历史</a>
+<span>|</span>
+<a href="http://www.sina.com.cn/" target="_blank" class="link-6b615d">新浪首页</a>
+</div>
+<div id="userLogin"></div>
+</div>
+</div>
+<div class="nav_outer">
+<div class="wrap">
+<div class="nav udv-clearfix">
+<ul>
+<li><a href="http://book.history.sina.com.cn/" target="_self" class="selected">首页</a></li>
+<li><a href="http://book.history.sina.com.cn/rwzj/" target="_self">人物传记</a></li>
+<li><a href="http://book.history.sina.com.cn/jszz/" target="_self">军史战争</a></li>
+<li><a href="http://book.history.sina.com.cn/tsls/" target="_self">通俗历史</a></li>
+<li><a href="http://book.history.sina.com.cn/wssb/" target="_self">文史随笔</a></li>
+<li><a href="http://book.history.sina.com.cn/cpyd/" target="_self">长篇阅读</a></li>
+<li><a href="http://book.history.sina.com.cn/xszz/" target="_self">学术专著</a></li>
+<li><a href="http://history.sina.com.cn/topbook/" target="_self">好书榜</a></li>
+</ul>
+<!--&lt;div class="nav_search"&gt;
+                &lt;form action="http://search.sina.com.cn/" target="_blank" class="udv-clearfix"&gt;
+                    &lt;input type="hidden" name="c" value="news" /&gt;
+                    &lt;input type="hidden" name="D_cl" value="260" /&gt;
+                    &lt;input type="text" name="q" class="nav_search_txt" /&gt;
+                    &lt;input type="submit" class="nav_search_sub" value="" /&gt;
+                &lt;/form&gt;
+            &lt;/div&gt;-->
+</div>
+</div>
+</div>
+<!--catalogue begin-->
+<div class="wrap catalogue udv-clearfix">
+<div class="Container">
+<div class="book-intro udv-clearfix">
+<div class="book-intro-pic">
+<img width="165" height="212" alt="" src="http://sinastorage.com/book.history.sina.com.cn/book_history/9a873a06c7105912800de988b94c3e64/cover.jpg" />
+<div class="bottom_img"></div>
+</div>
+<div class="book-intro-collect">
+<h1>我是落花生的女儿</h1>
+<p><span class="gray">分类：</span>人物传记<span class="gray ml30">总点击：</span>96838<span class="gray ml30">总评分：</span>9.7</p>
+<p><span class="gray">作者：</span>
+<span>许燕吉</span>
+</p>
+<p><span class="gray">出版社：</span>湖南人民出版社</p>
+<p>本书为新浪历史授权作品，未经同意不得转载</p>
+<div class="book-rate clearfix">
+<span class="gray">评分：</span>
+<ul id="book-rate-star">
+<li data-text="很烂"></li>
+<li data-text="一般"></li>
+<li data-text="还好"></li>
+<li data-text="较好"></li>
+<li data-text="很好"></li>
+</ul>
+<span id="book-rate-text">评价</span>
+<span id="book-rate-tips">（已有 <em>6</em> 人参与此书打分）</span>
+</div>
+<script>
+                seajs.use("site.rate",function(){
+                    
+                });
+                </script>
+<p class="book-intro-tag"><span class="gray">标签：</span>
+<!--  &lt;a href="#"&gt;我是落花生的女儿&lt;/a&gt; -->
+<span>我是落花生的女儿</span>
+<!--  &lt;a href="#"&gt;许燕吉&lt;/a&gt; -->
+<span>许燕吉</span>
+</p>
+<div class="book-intro-btn">
+<a href="javascript:;" id="book-btn-share">分享到微博</a>
+<a href="http://book.history.sina.com.cn/chapter/54/1012" id="book-btn-read">进入阅读</a>
+</div>
+</div>
+<!--end of .book-intro-collect-->
+<script>
+            seajs.use("$",function($){
+                $("#book-btn-share").click(function(){
+                    var obj = {
+                        url:"http://book.history.sina.com.cn/books/54",
+                        title:"我是落花生的女儿",
+                        pic:"http://sinastorage.com/book.history.sina.com.cn/book_history/9a873a06c7105912800de988b94c3e64/cover.jpg"
+                    }
+                    window.open("http://service.weibo.com/share/share.php?" + $.param(obj));
+                })
+            })
+            </script>
+</div>
+<!--end of .book-intro-->
+<div class="author-intro">
+<div class="blk01"><span>作者简介</span></div>
+<p><strong>许燕吉</strong></p>
+<p>许燕吉,民国著名学者许地山的女儿。1941年父亲许地山猝死于香港，这一年许燕吉只有八岁。不久日本人占领香港，母亲带着许燕吉及其哥哥逃往内地，辗转漂泊，流落于湖南、贵州等地。建国后，许燕吉考入北京农业大学畜牧系，随后在反右斗争中被隔离审查，入狱6年。期间，孩子夭折，丈夫与之离婚。1969年，她被疏散到河北一个极为艰苦的地方，竟为生活所迫，嫁给陕西一位老农。1979年3月平反，回到南京。许燕吉是江苏省农科院副研究员，曾任南京市政协委员、台盟南京市委委员、南京市台联理事。</p>
+</div>
+<!--end of .author-intro-->
+<div class="content-intro">
+<div class="blk01"><span>内容简介</span></div>
+<p>本书是一位80岁高龄的传奇女子许燕吉的人生自传，以近百年的人生体验，告诉你一个真实得近乎残酷的20世纪中国史！1941年，当我还是孩子的时候，我不会想到父亲很快就要离去，日军占领香港，一家人要被迫内迁，辗转于湖南、贵州等地，苦不堪言。1950年，当我考入北京农业大学时，我也不会想到卷入那场潮流，转眼变成右派，隔离审查，入狱六年，孩子夭折，丈夫与我离婚！1969年，当我被疏散到河北一个极为艰苦的地方时，我更想不到竟会为生活所迫，嫁给陕西一位目不识丁的老农。而今天，我已经80岁……人可以有多个10年、20年，而我，就只有这一个80年……</p>
+</div>
+<!--end of .content-intro-->
+<div class="text_dir">
+<div class="blk01"><span>正文目录</span></div>
+<div class="text_dir_qianyan">
+<div class="section_title"><span>前言</span></div>
+<ul class="chaptersList udv-clearfix">
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1012">前言</a></li>
+<li class="dashedline"></li>
+</ul>
+</div>
+<div class="text_dir_section">
+<div class="section_title"><span>第一章  混沌</span></div>
+<ul class="chaptersList udv-clearfix">
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1014">我的出生和第一个回忆</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1015">香港的家</a></li>
+<li class="dashedline"></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1016">妈妈的“法律”</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1017">最初的玩伴</a></li>
+<li class="dashedline"></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1018">又笨，又傻</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1019">“小妹子坏透哒”</a></li>
+<li class="dashedline"></li>
+</ul>
+</div>
+<div class="text_dir_section">
+<div class="section_title"><span>第二章  天崩</span></div>
+<ul class="chaptersList udv-clearfix">
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1021">爸爸死了</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1022">记忆中的爸爸</a></li>
+<li class="dashedline"></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1023">爸爸和我们共同的朋友</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1024">妈妈顶起了天</a></li>
+<li class="dashedline"></li>
+</ul>
+</div>
+<div class="text_dir_section">
+<div class="section_title"><span>第三章  地陷</span></div>
+<ul class="chaptersList udv-clearfix">
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1026">日本人打来，把我们“炸”进了天主教</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1027">泉水叮咚，野菜满锅</a></li>
+<li class="dashedline"></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1028">来了两位一起避难的长辈</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1029">差点儿被炸死</a></li>
+<li class="dashedline"></li>
+</ul>
+</div>
+<div class="text_dir_section">
+<div class="section_title"><span>第四章  铁蹄</span></div>
+<ul class="chaptersList udv-clearfix">
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1031">明抢</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1032">米粒</a></li>
+<li class="dashedline"></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1033">悲惨世界</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1034">老朋友们的情况和教会的新相识</a></li>
+<li class="dashedline"></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1035">和日本人做斗争</a></li>
+<li class="fn-text-overflow"><a target="_self" title="" href="http://book.history.sina.com.cn/chapter/54/1036">离别</a></li>
+<li class="dashedline"></li>
+</ul>
+</div>
+</div>
+<!--end of .text_dir-->
+<div id="J_Comment_Wrap" class="blkContainerCommentblk" style="margin-top:45px;"></div>
+</div>
+<!--end of .Container-->
+<div class="sidebar">
+<div class="guess-view-list udv-clearfix">
+<div class="guess-view-title udv-clearfix">
+<div class="guess-view-left">
+<div class="guess-view-in">相关推荐</div>
+</div>
+</div>
+<div class="guess-view-con">
+<div class="guess-view-content">
+<div class="guess_view_content_left"> <a href="/books/276" target="_self"> <img width="55" height="70" alt="" src="http://sinastorage.com/book.history.sina.com.cn/book_history/db7345b7021e42160e93abc2d869531b/small_image.jpg" /> </a> </div>
+<div class="guess_view_content_right">
+<h3 class="fn-text-overflow"><a href="/books/276" target="_self">杨洁自述：我的九九八十一难</a></h3>
+<p class="guess-left-name"><span>作者：杨洁</span></p>
+<div class="guess-right-star clearfix">
+<p class="guess-star-empty"><span class="guess-star-full" style="width: 100%;"></span></p>
+<div class="guess-star-fen"><span>10.0</span> 分</div>
+</div>
+</div>
+</div>
+<div class="guess-view-content">
+<div class="guess_view_content_left"> <a href="/books/118" target="_self"> <img width="55" height="70" alt="" src="http://sinastorage.com/book.history.sina.com.cn/book_history/fc64152cf337293b9e3c526a4a4ff4b2/small_image.jpg" /> </a> </div>
+<div class="guess_view_content_right">
+<h3 class="fn-text-overflow"><a href="/books/118" target="_self">王明年谱</a></h3>
+<p class="guess-left-name"><span>作者：郭德宏</span></p>
+<div class="guess-right-star clearfix">
+<p class="guess-star-empty"><span class="guess-star-full" style="width: 100%;"></span></p>
+<div class="guess-star-fen"><span>10.0</span> 分</div>
+</div>
+</div>
+</div>
+<div class="guess-view-content">
+<div class="guess_view_content_left"> <a href="/books/312" target="_self"> <img width="55" height="70" alt="" src="http://sinastorage.com/book.history.sina.com.cn/book_history/7169116820fe56f072bf0cc17cb42d92/small_image.jpg" /> </a> </div>
+<div class="guess_view_content_right">
+<h3 class="fn-text-overflow"><a href="/books/312" target="_self">五十年来最全面的康德传</a></h3>
+<p class="guess-left-name"><span>作者：曼弗雷德•库恩</span></p>
+<div class="guess-right-star clearfix">
+<p class="guess-star-empty"><span class="guess-star-full" style="width: 100%;"></span></p>
+<div class="guess-star-fen"><span>10.0</span> 分</div>
+</div>
+</div>
+</div>
+<div class="guess-view-content">
+<div class="guess_view_content_left"> <a href="/books/11" target="_self"> <img width="55" height="70" alt="" src="http://sinastorage.com/book.history.sina.com.cn/book_history/c6dabcdb0a1d8093f63435cff896f5dc/small_image.jpg" /> </a> </div>
+<div class="guess_view_content_right">
+<h3 class="fn-text-overflow"><a href="/books/11" target="_self">胡适自述：孤独与大胆</a></h3>
+<p class="guess-left-name"><span>作者：胡适</span></p>
+<div class="guess-right-star clearfix">
+<p class="guess-star-empty"><span class="guess-star-full" style="width: 100%;"></span></p>
+<div class="guess-star-fen"><span>10.0</span> 分</div>
+</div>
+</div>
+</div>
+<div class="guess-view-content">
+<div class="guess_view_content_left"> <a href="/books/267" target="_self"> <img width="55" height="70" alt="" src="http://sinastorage.com/book.history.sina.com.cn/book_history/0b1b97896473d8750ee0cc09284fd374/small_image.jpg" /> </a> </div>
+<div class="guess_view_content_right">
+<h3 class="fn-text-overflow"><a href="/books/267" target="_self">斯诺登档案</a></h3>
+<p class="guess-left-name"><span>作者：卢克•哈丁</span></p>
+<div class="guess-right-star clearfix">
+<p class="guess-star-empty"><span class="guess-star-full" style="width: 100%;"></span></p>
+<div class="guess-star-fen"><span>10.0</span> 分</div>
+</div>
+</div>
+</div>
+</div>
+<!-- end of .guess-view-con -->
+</div>
+<!-- end of .guess-view-list -->
+</div>
+<!-- end of .sidebar -->
+</div>
+<!--catalogue end-->
+<!--页面尾部 begin-->
+<div class="footer a_grey">
+<div class="wrap">
+<p><a href="http://comment5.news.sina.com.cn/comment/skin/feedback.html?channel=ly&amp;newsid=138" target="_blank">新浪网历史频道网友意见留言板</a> 电话：010-82244082 &#12288;<a href="mailto:sinahistory@staff.sina.com.cn">欢迎批评指正</a></p>
+<p><a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://members.sina.com.cn/">用户注册</a> | <a href="http://www.sina.com.cn/intro/ads.shtml">广告服务</a> | <a href="http://www.sina.com.cn/intro/chinesereading.shtml">中文阅读</a> | <a href="http://RichWin.sina.com.cn/">RichWin</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a></p>
+<p>Copyright &copy; 1996-2014 SINA Corporation, All Rights Reserved</p>
+<p>新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a> </p>
+</div>
+</div>
+<!--页面尾部 end-->
+<!-- script section begin -->
+<script>
+seajs.use('site.rate',function(rate){
+    rate.init();
+});
+</script>
+<script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=dc88d3d2-d43d-4be5-a195-fd974fab66a5&amp;pophcol=2&amp;lang=zh"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+<script>
+bShare.addEntry({
+    url:"http://book.history.sina.com.cn/",
+    summary:"新浪历史阅读"
+})
+</script>
+<script type="text/javascript">
+/**
+ * 全局数据配置
+ */
+/*评论框全局数据配置*/
+var ARTICLE_DATA = {
+  //评论微博转发视频地址
+  video_url:'',
+  //评论微博转发图片地址，可置空会自动取图
+  pic_url:[],
+  //频道
+  channel:'qm',
+  //新闻id
+  newsid:'bh-54',
+  //编码,gbk,utf-8,默认gbk
+  encoding:'utf-8',
+  //组，默认为0
+  group:0,
+  //设置isBBS和style为1，可看到评论右上角新闻链接 TODO
+  //isBBS:1,
+  //分页评论数
+  pageNum:3,
+  //热帖第一页评论数
+  hotPageNum:3,
+  //是否显示评论列表,为1隐藏，为0显示
+  hideCMNTList:0,
+  //微博转发参数,珳修改为游戏频道的参数
+  source: '新浪游戏频道',
+  sourceUrl: 'http://games.sina.com.cn/',
+  uid: '1255795640',
+  channelId: 28,
+  //是否固定评论框，默认为1固定,ipad,iphone不固定
+  cmntFix:0,
+  //自动登录
+  autoLogin:1,
+  //为专题系统评论设置的css参数,不设置默认值，用户不设置时，使用css样式
+  //评论宽度
+  width:680,
+  //回复框百分比，必须是百分比，非百分比失效
+  replyTextAreaWidth:'97%',
+  // 浮动评论框水平偏移
+  //cmntFixOffsetX:-400,
+  //隐藏表情,1为隐藏，0为显示，默认显示
+  hideFaces:0,
+  //用户名和密码输入框宽度
+  inputWidth:120,
+  //隐藏评论数,1为隐藏，0为显示，默认显示
+  hideCount:0,
+  //分享按钮弹出方向，right,top,默认为right
+  sharePopDirection:'top',
+  postPlaceholder:'#请输入评论内容#',
+  postContent:'',
+  scrollLoad:false
+};
+</script>
+<script src="http://ent.sina.com.cn/js/470/20130123/comment.js" charset="gb2312"></script>
+<!-- script section end -->
+</body>
+</html>

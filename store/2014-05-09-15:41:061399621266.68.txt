@@ -1,0 +1,1510 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【奥迪品荐二手现代|奥迪品荐现代汽车价格】-58同城</title>
+<meta name="keywords" content="奥迪品荐二手现代，奥迪品荐现代汽车价格" />
+<meta name="description" content="58同城奥迪品荐二手现代频道为您提供大量奥迪品荐汽车价格信息，是经过厂商严格审核的奥迪品荐二手现代信息，是您网上选购二手现代的最佳选择。" />
+<link rel="stylesheet" href="http://static.58.com/ui7/car/aodi/aodi.css" type="text/css" />
+</head>
+<body>
+<div class="headercon">
+<div id="topbar">
+<div class="topcon">
+<ul>
+<li><a href="javascript:brandZoneNamespace.addBookmark();">收藏本专区</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com">58首页</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com/ershouche/">58二手车</a></li>
+</ul>
+</div>
+</div>
+<div class="header">
+<a href="/" class="logo"><img src="http://pic2.58.com/ui7/car/aodi/logo.png" alt="一汽-大众" width="79" height="16" /></a>
+<ul class="navlist"><!--导航条-->
+<li><a href="/">首页</a></li>
+<li><a href="/jieshao/">关于奥迪品荐</a></li>
+<li><a href="/fuwu/">奥迪品荐服务</a></li>
+<li><a href="/news/">奥迪品荐动态</a></li>
+<li><a href="/ershouche/" class="hover">二手车搜索</a></li>
+<li><a href="/shangjia/">经销商查询</a></li>
+</ul>
+<div class="audi"><a href="/"><img src="http://pic2.58.com/ui7/car/aodi/audi.png" width="143" height="20" alt="突破科技，启迪未来" /></a></div>
+</div>
+</div> <div class="dealerwrap">
+<div class="wrap">
+<div class="selection">
+<dl class="secitem01">
+<dt class="secitem_brand">所在地：</dt>
+<dd>
+<div class="obj-wrapper mr8">
+<div id="dealer-province" class="obj-cate-div">
+<span id="curr-province">选择省份</span>
+</div>
+</div>
+<div class="obj-wrapper">
+<div id="dealer-city" class="obj-cate-div">
+<span id="curr-city">选择城市</span>
+</div>
+</div>
+<input id="carListJinPin" type="hidden" />
+<input id="dealer-search" class="submitbtn" type="button" value="确定" />
+<span id="dealer-meg" class="dealermeg"></span>
+</dd>
+</dl>
+<div class="audidiv">
+<!-- 奥迪 begin  -->
+<dl class="secitem audisection">
+<dt class="secitem_brand">奥迪：&nbsp;&nbsp;&nbsp;&nbsp;</dt>
+<dd id="audi_chexi">
+<a href="http://audi.58.com/aliul/">A6L</a>
+<a href="http://audi.58.com/aodialiu/">A6</a>
+<a href="http://audi.58.com/asil/">A4L</a>
+<a href="http://audi.58.com/aodiqqi/">Q7</a>
+<a href="http://audi.58.com/aodiasi/">A4</a>
+<a href="http://audi.58.com/adabl/">A8L</a>
+<a href="http://audi.58.com/adqw/">Q5</a>
+<a href="http://audi.58.com/aoditt/">TT</a>
+<a href="http://audi.58.com/aodiyibai/">奥迪100</a>
+<a href="http://audi.58.com/aodiawu/">A5</a>
+<a href="http://audi.58.com/aodilb/">奥迪200</a>
+<a href="http://audi.58.com/aodirba/">R8</a>
+<a href="http://audi.58.com/adaljk/">A6(进口)</a>
+<a href="http://audi.58.com/aodiasan/">A3</a>
+<a href="http://audi.58.com/adqwjk/">Q5(进口)</a>
+<a href="http://audi.58.com/aqiqc/">A7</a>
+<a href="http://audi.58.com/aodiswu/">S5</a>
+<a href="http://audi.58.com/qsanqc/">Q3(进口)</a>
+<a href="http://audi.58.com/ayiqc/">A1</a>
+<a href="http://audi.58.com/aodiqsan/">Q3</a>
+<a href="http://audi.58.com/adasjk/">A4(进口)</a>
+</dd>
+</dl>
+<!-- 奥迪end -->
+<dl class="secitem">
+<dt class="secitem_brand">类型：</dt>
+<dd>
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a href="http://audi.58.com/jingjijiaoche/">轿车</a>
+<a href="http://audi.58.com/yeuyeche/">越野车/SUV</a>
+<a href="http://audi.58.com/mpv/">MPV</a>
+<a href="http://audi.58.com/paoche/">跑车</a>
+<a href="http://audi.58.com/keche/">客车</a>
+<a href="http://audi.58.com/mianbaoche/">面包车</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">品牌：</dt>
+<dd class="clearfix">
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a class="select" href="http://audi.58.com/xiandai/">现代</a>
+<a href="http://audi.58.com/aodi/">奥迪</a>
+<a href="http://audi.58.com/dazhong/">大众</a>
+<a href="http://audi.58.com/bentian/">本田</a>
+<a href="http://audi.58.com/bieke/">别克</a>
+<a href="http://audi.58.com/fengtian/">丰田</a>
+<a href="http://audi.58.com/xiali/">夏利</a>
+<a href="http://audi.58.com/richan/">日产</a>
+<a href="http://audi.58.com/qirui/">奇瑞</a>
+<a href="http://audi.58.com/baoma/">宝马</a>
+<a href="http://audi.58.com/mazida/">马自达</a>
+<a href="http://audi.58.com/futianche/">福田</a>
+<a href="http://audi.58.com/biyadi/">比亚迪</a>
+<a href="http://audi.58.com/lingmu/">铃木</a>
+<a href="http://audi.58.com/xuetielong/">雪铁龙</a>
+<a href="http://audi.58.com/jili/">吉利</a>
+<a href="http://audi.58.com/benchi/">奔驰</a>
+<a href="http://audi.58.com/changanche/">长安</a>
+<a href="http://audi.58.com/fute/">福特</a>
+<a href="http://audi.58.com/xuefulan/">雪佛兰</a>
+<a id="moreBrand" name="b_link" para="custom" cl="" href="javascript:void(0)">更多<i class="bak_i_down"></i>
+<!-- &lt;i class="bak_i"&gt;&lt;/i&gt; --></a>
+<div id="moreBrandContainer" class="morepinpai">
+<br /> <a href="http://audi.58.com/jinbei/">金杯</a>
+<a href="http://audi.58.com/qiya/">起亚</a>
+<a href="http://audi.58.com/jianghuai/">江淮</a>
+<a href="http://audi.58.com/biaozhi/">标致</a>
+<a href="http://audi.58.com/jeep/">吉普</a>
+<a href="http://audi.58.com/yiqi/">一汽</a>
+<a href="http://audi.58.com/zhonghua/">中华</a>
+<a href="http://audi.58.com/jinlong/">金龙</a>
+<a href="http://audi.58.com/hafei/">哈飞</a>
+<a href="http://audi.58.com/feiyate/">菲亚特</a>
+<a href="http://audi.58.com/haima/">海马</a>
+<a href="http://audi.58.com/dadi/">长城</a>
+<a href="http://audi.58.com/leikesasi/">雷克萨斯</a>
+<a href="http://audi.58.com/rongwei/">荣威</a>
+<a href="http://audi.58.com/sanling/">三菱</a>
+<a href="http://audi.58.com/sikeda/">斯柯达</a>
+<a href="http://audi.58.com/luhu/">路虎</a>
+<a href="http://audi.58.com/woerwo/">沃尔沃</a>
+<a href="http://audi.58.com/baoshijie/">保时捷</a>
+<a href="http://audi.58.com/baicmotor/">北汽</a>
+<a href="http://audi.58.com/kaidilake/">凯迪拉克</a>
+<a href="http://audi.58.com/minicar/">MINI</a>
+<a href="http://audi.58.com/hongqiche/">红旗</a>
+<a href="http://audi.58.com/benteng/">奔腾</a>
+<a href="http://audi.58.com/lifanc/">力帆</a>
+<a href="http://audi.58.com/oubao/">欧宝</a>
+<a href="http://audi.58.com/cfqc/">长丰</a>
+<a href="http://audi.58.com/dihaoc/">帝豪</a>
+<a href="http://audi.58.com/daoqi/">道奇</a>
+<a href="http://audi.58.com/fengxing/">风行</a>
+<a href="http://audi.58.com/oulangcar/">欧朗</a>
+<a href="http://audi.58.com/qqy/">全球鹰</a>
+<a href="http://audi.58.com/ruiqi/">瑞麒</a>
+<a href="http://audi.58.com/subaru/">斯巴鲁</a>
+<a href="http://audi.58.com/mgc/">MG</a>
+<a href="http://audi.58.com/huatai/">华泰</a>
+<a href="http://audi.58.com/yfnd/">英菲尼迪</a>
+<a href="http://audi.58.com/jiebao/">捷豹</a>
+<a href="http://audi.58.com/dffs/">东风风神</a>
+<a href="http://audi.58.com/xinkai/">新凯</a>
+<a href="http://audi.58.com/yinglun/">英伦</a>
+<a href="http://audi.58.com/zhongtai/">众泰</a>
+<a href="http://audi.58.com/sabo/">萨博</a>
+<a href="http://audi.58.com/lnc/">雷诺</a>
+<a href="http://audi.58.com/nqxyt/">南汽新雅途</a>
+<a href="http://audi.58.com/yyfd/">永源</a>
+<a href="http://audi.58.com/shuanglong/">双龙</a>
+<a href="http://audi.58.com/smartc/">精灵smart</a>
+<a href="http://audi.58.com/ouge/">讴歌</a>
+<a href="http://audi.58.com/linian/">理念</a>
+</div>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">车系：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/xiandai/">不限</a>
+<a href="http://audi.58.com/elantra/">伊兰特</a>
+<a href="http://audi.58.com/yuedong/">悦动</a>
+<a href="http://audi.58.com/sonata/">索纳塔</a>
+<a href="http://audi.58.com/shengtu/">途胜</a>
+<a href="http://audi.58.com/xdix/">ix35</a>
+<a href="http://audi.58.com/ruina/">瑞纳</a>
+<a href="http://audi.58.com/shengda/">新胜达</a>
+<a href="http://audi.58.com/ystcx/">雅绅特</a>
+<a href="http://audi.58.com/kupai/">酷派</a>
+<a href="http://audi.58.com/langdong/">朗动</a>
+<a href="http://audi.58.com/mingqv/">MOINCA名驭</a>
+<a href="http://audi.58.com/lingxiang/">SONATA·领翔</a>
+<a href="http://audi.58.com/ixsanwuj/">ix35(进口)</a>
+<a href="http://audi.58.com/veloster/">Veloster飞思</a>
+<a href="http://audi.58.com/rnlx/">瑞纳两厢</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">价格：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/ershouche/">不限</a> <a target="_self" href="http://audi.58.com/xiandai/pve_5864_0_3/">3万以内</a>
+<a target="_self" href="http://audi.58.com/xiandai/pve_5864_3_4/">3-4万</a>
+<a target="_self" href="http://audi.58.com/xiandai/pve_5864_4_5/">4-5万</a>
+<a target="_self" href="http://audi.58.com/xiandai/pve_5864_5_6/">5-6万</a>
+<a target="_self" href="http://audi.58.com/xiandai/pve_5864_6_7/">6-7万</a>
+<a target="_self" href="http://audi.58.com/xiandai/pve_5864_7_9/">7-9万</a>
+<a target="_self" href="http://audi.58.com/xiandai/pve_5864_9_999999/">9万以上</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="listcon">
+<div class="list-tit">
+<h3>
+<!--共找到&lt;b&gt;97&lt;/b&gt; 辆车源 -->
+<span class="rz"><label for="checkbox"><input type="checkbox" id="checkbox" class="checkbox" />奥迪认证车</label></span>
+</h3>
+<div class="list-r">
+<span class="pagenow"><b>1</b>/3</span>
+<span class="qiehuan"> <a href=" javascript:void(0)" class="pre gray"></a> <a href="http://audi.58.com/xiandai/pn2/" class="next "></a>
+</span> </div>
+</div>
+<div class="area-con01">
+<ul class="arealist">
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17868916984202x.shtml" target="_blank">
+<img title="现代Veloster飞思2011款 1.6L 手动舒适型-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12249944426694684063.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17868916984202x.shtml" title="现代Veloster飞思2011款 1.6L 手动舒适型-诚信之品，专业之荐" target="_blank">现代Veloster飞思2011款 1.6L 手动舒适型-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										3.45万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京中润发汽车销售有限公司" href="http://shop.58.com/24063784337909524/">北京中润发汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://pds.58.com/ershouche/17861762362250x.shtml" target="_blank">
+<img title="现代伊兰特2007款1.6手动GLS豪华型三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12249028619292964156.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://pds.58.com/ershouche/17861762362250x.shtml" title="现代伊兰特2007款1.6手动GLS豪华型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2007款1.6手动GLS豪华型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										8.56万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.60<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="平顶山市中瑞汽车销售服务有限公司" href="http://shop.58.com/24058709875362068/">平顶山市中瑞汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">平顶山</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xf.58.com/ershouche/17861565354246x.shtml" target="_blank">
+<img title="现代悦动 2011款1.6自动舒适型三厢悦动 2011年上牌-诚信之品,专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12249003381231529143.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xf.58.com/ershouche/17861565354246x.shtml" title="现代悦动 2011款1.6自动舒适型三厢悦动 2011年上牌-诚信之品,专业之荐" target="_blank">现代悦动 2011款1.6自动舒适型三厢悦动 2011年上牌-诚信之品,专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										3.61万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.40<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="襄阳东富汽车销售服务有限公司" href="http://shop.58.com/24062715257548863/">襄阳东富汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">襄阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17860310113799x.shtml" target="_blank">
+<img title="现代悦动2011款1.6自动舒适型三厢悦动-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02248842717038961065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17860310113799x.shtml" title="现代悦动2011款1.6自动舒适型三厢悦动-诚信之品，专业之荐" target="_blank">现代悦动2011款1.6自动舒适型三厢悦动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										8.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广东君奥汽车贸易有限公司" href="http://shop.58.com/24054867200868628/">广东君奥汽车贸易有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wz.58.com/ershouche/17860159273989x.shtml" target="_blank">
+<img title="现代途胜2013款2.0L自动舒适型两驱SUV-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12248823286189838145.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wz.58.com/ershouche/17860159273989x.shtml" title="现代途胜2013款2.0L自动舒适型两驱SUV-诚信之品，专业之荐" target="_blank">现代途胜2013款2.0L自动舒适型两驱SUV-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2013年上牌 </span><span class="gap">|</span>
+										1.51万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="温州红源汽车销售服务有限公司" href="http://shop.58.com/24061871747082303/">温州红源汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">温州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hz.58.com/ershouche/17791414129926x.shtml" target="_blank">
+<img title="现代新胜达 2007款 2.7 舒适型-" src="http://4.pic.58control.cn/p1/small/n_s02240022516697719075.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hz.58.com/ershouche/17791414129926x.shtml" title="现代新胜达 2007款 2.7 舒适型" target="_blank">现代新胜达 2007款 2.7 舒适型</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										11.2万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="浙江和诚滨奥汽车有限公司" href="http://shop.58.com/24063592167705875/">浙江和诚滨奥汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">杭州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://ty.58.com/ershouche/17857870544648x.shtml" target="_blank">
+<img title="现代伊兰特2006款1.6自动标准型三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12248530426249570006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://ty.58.com/ershouche/17857870544648x.shtml" title="现代伊兰特2006款1.6自动标准型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2006款1.6自动标准型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										7.60万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="山西大昌汽车服务有限公司" href="http://shop.58.com/24061312380313151/">山西大昌汽车服务有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">太原</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hz.58.com/ershouche/17837874912392x.shtml" target="_blank">
+<img title="现代新胜达2006款2.7手自一体舒适型四驱SUV-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02245971032526194125.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hz.58.com/ershouche/17837874912392x.shtml" title="现代新胜达2006款2.7手自一体舒适型四驱SUV-诚信之品，专业之荐" target="_blank">现代新胜达2006款2.7手自一体舒适型四驱SUV-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										11.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="浙江和诚滨奥汽车有限公司" href="http://shop.58.com/24063592167705875/">浙江和诚滨奥汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">杭州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17848813805314x.shtml" target="_blank">
+<img title="现代悦动 1.6自动 舒适型 2009年上牌-一手车,车况好,无重大事故" src="http://3.pic.58control.cn/p1/small/n_s12247366691293046074.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17848813805314x.shtml" title="现代悦动 1.6自动 舒适型 2009年上牌-一手车,车况好,无重大事故" target="_blank">现代悦动 1.6自动 舒适型 2009年上牌-一手车,车况好,无重大事故</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										15万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广州市锦龙汽车发展有限公司" href="http://shop.58.com/24056077664803092/">广州市锦龙汽车发展有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17850318563335x.shtml" target="_blank">
+<img title="现代ix352010款2手自一体精英版GLS2WD-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247563785752308124.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17850318563335x.shtml" title="现代ix352010款2手自一体精英版GLS2WD-诚信之品，专业之荐" target="_blank">现代ix352010款2手自一体精英版GLS2WD-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										3.06万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西奥诚汽车销售服务有限公司" href="http://shop.58.com/24059198710196756/">陕西奥诚汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nj.58.com/ershouche/17849560952201x.shtml" target="_blank">
+<img title="现代SONATA·领翔2009款2手动GLS三厢领翔-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247466864823946145.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nj.58.com/ershouche/17849560952201x.shtml" title="现代SONATA·领翔2009款2手动GLS三厢领翔-诚信之品，专业之荐" target="_blank">现代SONATA·领翔2009款2手动GLS三厢领翔-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										4.60万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 9.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="南京朗驰集团苏奥汽车销售服务有限公司" href="http://shop.58.com/24058351912008255/">南京朗驰集团苏奥汽车销售…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17848776073601x.shtml" target="_blank">
+<img title="现代索纳塔 2011款2自动豪华版GLX三厢 2011年上牌-新丰泰博奥【奥迪品荐二手车】" src="http://4.pic.58control.cn/kp1/small/n_s02247366343476529054.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17848776073601x.shtml" title="现代索纳塔 2011款2自动豪华版GLX三厢 2011年上牌-新丰泰博奥【奥迪品荐二手车】" target="_blank">现代索纳塔 2011款2自动豪华版GLX三厢 2011年上牌-新丰泰博奥【奥迪品荐二手车】</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										7.01万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西新丰泰博奥汽车有限责任公司" href="http://shop.58.com/24231174431519763/">陕西新丰泰博奥汽车有限责…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xx.58.com/ershouche/17847570569477x.shtml" target="_blank">
+<img title="现代伊兰特2007款1.6手动GL舒适型三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02247211860086807136.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xx.58.com/ershouche/17847570569477x.shtml" title="现代伊兰特2007款1.6手动GL舒适型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2007款1.6手动GL舒适型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										12.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="新乡东新汽车有限责任公司" href="http://shop.58.com/24062886515125780/">新乡东新汽车有限责任公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">新乡</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://huzhou.58.com/ershouche/17847037630341x.shtml" target="_blank">
+<img title="现代伊兰特2006款1.6手动标准型三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12247143790856366073.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://huzhou.58.com/ershouche/17847037630341x.shtml" title="现代伊兰特2006款1.6手动标准型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2006款1.6手动标准型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										13.86万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.88<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="湖州奥通汽车有限公司" href="http://shop.58.com/24060890585616660/">湖州奥通汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">湖州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wz.58.com/ershouche/17838308390409x.shtml" target="_blank">
+<img title="现代伊兰特2005款1.6自动标准型三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12246026427794097023.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wz.58.com/ershouche/17838308390409x.shtml" title="现代伊兰特2005款1.6自动标准型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2005款1.6自动标准型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										15.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.40<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="温州中升华奥汽车销售服务有限公司" href="http://shop.58.com/24055289196552724/">温州中升华奥汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">温州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://mianyang.58.com/ershouche/17838687698818x.shtml" target="_blank">
+<img title="现代ix352010款2手自一体尊贵版GLS4WD-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02246075026704974095.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://mianyang.58.com/ershouche/17838687698818x.shtml" title="现代ix352010款2手自一体尊贵版GLS4WD-诚信之品，专业之荐" target="_blank">现代ix352010款2手自一体尊贵版GLS4WD-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.90万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 13.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="绵阳市新川西物汽车销售服务有限公司" href="http://shop.58.com/24058328972723732/">绵阳市新川西物汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">绵阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nb.58.com/ershouche/17838644314882x.shtml" target="_blank">
+<img title="现代伊兰特2006款1.6自动标准型三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12246069536231566153.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nb.58.com/ershouche/17838644314882x.shtml" title="现代伊兰特2006款1.6自动标准型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2006款1.6自动标准型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										6.90万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宁波恒迪汽车销售服务有限公司" href="http://shop.58.com/24055766923726612/">宁波恒迪汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">宁波</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://nb.58.com/ershouche/17838637396615x.shtml" target="_blank">
+<img title="现代伊兰特2007款1.6手动GLS豪华型三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12246068659734444074.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://nb.58.com/ershouche/17838637396615x.shtml" title="现代伊兰特2007款1.6手动GLS豪华型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2007款1.6手动GLS豪华型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										17.06万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="宁波恒迪汽车销售服务有限公司" href="http://shop.58.com/24055766923726612/">宁波恒迪汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">宁波</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://deyang.58.com/ershouche/17836519478792x.shtml" target="_blank">
+<img title="现代悦动2010款1.6手动豪华型三厢悦动-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12245797551426067096.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://deyang.58.com/ershouche/17836519478792x.shtml" title="现代悦动2010款1.6手动豪华型三厢悦动-诚信之品，专业之荐" target="_blank">现代悦动2010款1.6手动豪华型三厢悦动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										9.54万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="德阳华星万路汽车销售服务有限公司" href="http://shop.58.com/24055640397549588/">德阳华星万路汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">德阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hz.58.com/ershouche/17836487663753x.shtml" target="_blank">
+<img title="现代悦动 2008款1.6手动GL三厢悦动 2010年上牌-诚信之品,专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12245793463520625105.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hz.58.com/ershouche/17836487663753x.shtml" title="现代悦动 2008款1.6手动GL三厢悦动 2010年上牌-诚信之品,专业之荐" target="_blank">现代悦动 2008款1.6手动GL三厢悦动 2010年上牌-诚信之品,专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										11.20万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.88<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="浙江奥达通汽车销售有限公司" href="http://shop.58.com/24231299130205203/">浙江奥达通汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">杭州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jl.58.com/ershouche/17836438462085x.shtml" target="_blank">
+<img title="现代伊兰特2007款1.6手动GLS豪华型三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02245787059883354123.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jl.58.com/ershouche/17836438462085x.shtml" title="现代伊兰特2007款1.6手动GLS豪华型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2007款1.6手动GLS豪华型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										13.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="吉林神华汽车销售服务有限责任公司" href="http://shop.58.com/24055766094348052/">吉林神华汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">吉林</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hz.58.com/ershouche/17835969790215x.shtml" target="_blank">
+<img title="现代悦动2008款1.6自动GLS三厢悦动-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s02245727166664311115.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hz.58.com/ershouche/17835969790215x.shtml" title="现代悦动2008款1.6自动GLS三厢悦动-诚信之品，专业之荐" target="_blank">现代悦动2008款1.6自动GLS三厢悦动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										10.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.58<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="浙江奥达通汽车销售有限公司" href="http://shop.58.com/24231299130205203/">浙江奥达通汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">杭州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://mdj.58.com/ershouche/17835678499081x.shtml" target="_blank">
+<img title="现代伊兰特2005款1.6手动豪华型三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02245689927319893004.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://mdj.58.com/ershouche/17835678499081x.shtml" title="现代伊兰特2005款1.6手动豪华型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2005款1.6手动豪华型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										16.24万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="牡丹江中信恒业汽车销售服务有限公司" href="http://shop.58.com/24061215864372287/">牡丹江中信恒业汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">牡丹江</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://zb.58.com/ershouche/17835443307144x.shtml" target="_blank">
+<img title="现代索纳塔2011款2自动时尚版GS三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12245659393214002044.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://zb.58.com/ershouche/17835443307144x.shtml" title="现代索纳塔2011款2自动时尚版GS三厢-诚信之品，专业之荐" target="_blank">现代索纳塔2011款2自动时尚版GS三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4.66万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.58<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="淄博金奥汽车销售服务有限公司" href="http://shop.58.com/24062811891629119/">淄博金奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">淄博</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17835339198855x.shtml" target="_blank">
+<img title="现代Veloster飞思2012款1.6T手自一体豪华版两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02245646398636903006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17835339198855x.shtml" title="现代Veloster飞思2012款1.6T手自一体豪华版两厢-诚信之品，专业之荐" target="_blank">现代Veloster飞思2012款1.6T手自一体豪华版两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										6.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 16.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广东君奥汽车贸易有限公司" href="http://shop.58.com/24054867200868628/">广东君奥汽车贸易有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://ny.58.com/ershouche/17828570917251x.shtml" target="_blank">
+<img title="现代悦动 10款1.6AT-GLS 2010年上牌-车况佳" src="http://2.pic.58control.cn/p1/small/n_s12249090895596188076.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://ny.58.com/ershouche/17828570917251x.shtml" title="现代悦动 10款1.6AT-GLS 2010年上牌-车况佳" target="_blank">现代悦动 10款1.6AT-GLS 2010年上牌-车况佳</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										4.4万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.98<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="南阳赢嘉汽车销售服务有限公司" href="http://shop.58.com/24060279241014036/">南阳赢嘉汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bz.58.com/ershouche/17827467122818x.shtml" target="_blank">
+<img title="现代悦动 2008款 1.6 手动GLS-个人私家车,无事故。" src="http://3.pic.58control.cn/p1/small/n_s02244636096957517103.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bz.58.com/ershouche/17827467122818x.shtml" title="现代悦动 2008款 1.6 手动GLS-个人私家车,无事故。" target="_blank">现代悦动 2008款 1.6 手动GLS-个人私家车,无事故。</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										5万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="滨州瑞迪汽车销售服务有限公司" href="http://shop.58.com/24054750395080980/">滨州瑞迪汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">滨州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wh.58.com/ershouche/17827040349959x.shtml" target="_blank">
+<img title="现代悦动 2008款 1.8 自动GLS-" src="http://1.pic.58control.cn/p1/small/n_s12244583052821013014.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wh.58.com/ershouche/17827040349959x.shtml" title="现代悦动 2008款 1.8 自动GLS" target="_blank">现代悦动 2008款 1.8 自动GLS</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										14万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="湖北中基汽车销售服务有限公司" href="http://shop.58.com/24056702386775615/">湖北中基汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">武汉</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://deyang.58.com/ershouche/17829112340232x.shtml" target="_blank">
+<img title="现代ix352010款2手自一体精英版GLS2WD-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244849427024946115.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://deyang.58.com/ershouche/17829112340232x.shtml" title="现代ix352010款2手自一体精英版GLS2WD-诚信之品，专业之荐" target="_blank">现代ix352010款2手自一体精英版GLS2WD-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										3.15万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="德阳华星万路汽车销售服务有限公司" href="http://shop.58.com/24055640397549588/">德阳华星万路汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">德阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://su.58.com/ershouche/17829014699521x.shtml" target="_blank">
+<img title="现代瑞纳2010款1.4GL手动标准型三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244836879386197046.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://su.58.com/ershouche/17829014699521x.shtml" title="现代瑞纳2010款1.4GL手动标准型三厢-诚信之品，专业之荐" target="_blank">现代瑞纳2010款1.4GL手动标准型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										8.80万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.28<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="昆山国亚达汽车服务有限公司" href="http://shop.58.com/24055588195878164/">昆山国亚达汽车服务有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">苏州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jn.58.com/ershouche/17828889153161x.shtml" target="_blank">
+<img title="现代途胜2009款2自动舒适型两驱天窗版SUV-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12244820809681794104.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jn.58.com/ershouche/17828889153161x.shtml" title="现代途胜2009款2自动舒适型两驱天窗版SUV-诚信之品，专业之荐" target="_blank">现代途胜2009款2自动舒适型两驱天窗版SUV-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										4.60万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 11.28<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="山东银座天尊汽车有限公司" href="http://shop.58.com/24059565057321791/">山东银座天尊汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">济南</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://yanbian.58.com/ershouche/17828793984903x.shtml" target="_blank">
+<img title="现代悦动2011款1.6自动顶级型三厢悦动-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02244808649967432044.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://yanbian.58.com/ershouche/17828793984903x.shtml" title="现代悦动2011款1.6自动顶级型三厢悦动-诚信之品，专业之荐" target="_blank">现代悦动2011款1.6自动顶级型三厢悦动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4.28万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.70<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="延吉市新里程汽车销售服务有限公司" href="http://shop.58.com/24063433131019539/">延吉市新里程汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">延边</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sz.58.com/ershouche/17828779342849x.shtml" target="_blank">
+<img title="现代伊兰特2005款1.6手动标准型三厢-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12244806779470522006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sz.58.com/ershouche/17828779342849x.shtml" title="现代伊兰特2005款1.6手动标准型三厢-诚信之品，专业之荐" target="_blank">现代伊兰特2005款1.6手动标准型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										11.81万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.10<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="深圳市新奥汽车贸易有限公司" href="http://shop.58.com/24058340539229972/">深圳市新奥汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">深圳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828734834823x.shtml" target="_blank">
+<img title="现代索纳塔2003款2自动标准型GL三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02244801059375312075.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828734834823x.shtml" title="现代索纳塔2003款2自动标准型GL三厢-诚信之品，专业之荐" target="_blank">现代索纳塔2003款2自动标准型GL三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										8.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.30<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京百得利汽车贸易有限公司" href="http://shop.58.com/24054615388815892/">北京百得利汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://gz.58.com/ershouche/17828714803075x.shtml" target="_blank">
+<img title="现代ix352010款2手自一体新锐版GL2WD-诚信之品，专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12244798483023280045.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://gz.58.com/ershouche/17828714803075x.shtml" title="现代ix352010款2手自一体新锐版GL2WD-诚信之品，专业之荐" target="_blank">现代ix352010款2手自一体新锐版GL2WD-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										7.30万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 14.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="广东君奥汽车贸易有限公司" href="http://shop.58.com/24054867200868628/">广东君奥汽车贸易有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">广州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://cs.58.com/ershouche/17828677936138x.shtml" target="_blank">
+<img title="现代朗动2012款1.6L自动领先型三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244793761383835056.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://cs.58.com/ershouche/17828677936138x.shtml" title="现代朗动2012款1.6L自动领先型三厢-诚信之品，专业之荐" target="_blank">现代朗动2012款1.6L自动领先型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										4.40万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 10.22<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="长沙恒信奥龙汽车销售服务有限公司" href="http://shop.58.com/24056567699331860/">长沙恒信奥龙汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">长沙</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828672368385x.shtml" target="_blank">
+<img title="现代悦动2008款1.6手动GLS三厢悦动-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s02244793065507759086.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828672368385x.shtml" title="现代悦动2008款1.6手动GLS三厢悦动-诚信之品，专业之荐" target="_blank">现代悦动2008款1.6手动GLS三厢悦动-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										9.60万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京百得利汽车贸易有限公司" href="http://shop.58.com/24054615388815892/">北京百得利汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17828623838342x.shtml" target="_blank">
+<img title="现代ix352010款2.4手自一体尊贵版GLS2W-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244786831199649135.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17828623838342x.shtml" title="现代ix352010款2.4手自一体尊贵版GLS2W-诚信之品，专业之荐" target="_blank">现代ix352010款2.4手自一体尊贵版GLS2W-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										7.80万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 14.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京百得利汽车贸易有限公司" href="http://shop.58.com/24054615388815892/">北京百得利汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://qqhr.58.com/ershouche/17828569608968x.shtml" target="_blank">
+<img title="现代ix352012款2.4手自一体尊贵版GLS2W-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s02244779952047944045.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://qqhr.58.com/ershouche/17828569608968x.shtml" title="现代ix352012款2.4手自一体尊贵版GLS2W-诚信之品，专业之荐" target="_blank">现代ix352012款2.4手自一体尊贵版GLS2W-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										4.29万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 16.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="齐齐哈尔粤华奥通汽车销售有限公司" href="http://shop.58.com/24062675288706879/">齐齐哈尔粤华奥通汽车销售…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">齐齐哈尔</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jx.58.com/ershouche/17828373130759x.shtml" target="_blank">
+<img title="现代途胜2009款2手动时尚型SUV-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244754813338465014.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jx.58.com/ershouche/17828373130759x.shtml" title="现代途胜2009款2手动时尚型SUV-诚信之品，专业之荐" target="_blank">现代途胜2009款2手动时尚型SUV-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										3.80万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.90<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="嘉兴市永奥汽车销售服务有限公司" href="http://shop.58.com/24057142234966292/">嘉兴市永奥汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">嘉兴</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="pagerout">
+<div class="pager">
+<strong><span>1</span></strong><a href="http://audi.58.com/xiandai/pn2/"><span>2</span></a><a href="http://audi.58.com/xiandai/pn3/"><span>3</span></a><a class="next" href="http://audi.58.com/xiandai/pn2/"><span>下一页</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+		24小时客户关怀热线：400-8171-888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0431-85990888<br />
+		©58.com
+	</div>
+<div class="floatbar">
+<div class="liulan">
+<i class="bar01"></i>
+<div id="myfeetBox" class="hc">
+<ul id="feet_listLs">
+<h4 class="category">最近浏览的信息</h4>
+</ul>
+</div>
+</div>
+<a href="http://my.58.com/shoucangjianli/" id="collection" target="_blank"><i class="bar02"></i></a> <a href="#top"><i class="bar03"></i></a>
+</div>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/getcookie.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi_brandzone.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi.js"></script>
+<script type="text/javascript">
+		$(function() {
+			$('.liulan').hover(
+					function() {
+						$(this).addClass('hover');
+						$('#myfeetBox').show();
+						var container = document.getElementById("feet_listLs");
+						brandZoneNamespace.docookieFunction("final_history",
+								container);
+					}, function() {
+						$(this).removeClass('hover');
+						$('#myfeetBox').hide();
+					})
+		})
+		brandZoneNamespace.brandListEvent().fastSelectLevel().listMorebrand()
+				.dealerSearch().renZhengCar();
+	</script>
+<script type="text/javascript">
+		var achexi = $("#audi_chexi").find("a");
+		var url = window.location.href;
+		for(var i = 0 ; i &lt; achexi.length ; i++){
+			var $item =$(achexi[i]);
+			if($item.attr("href") == url){
+				$item.addClass("select");
+			}
+		}
+							
+	</script>
+<script type="text/javascript">
+		var _gaq = _gaq || [];
+		var site_name = "58";
+		var _trackURL = "{'cate':'29','area':'','pagetype':'list','class':'ershouche'}";
+		_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+		_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+		_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+		_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+		_gaq.push([ 'pageTracker._trackPageview',
+				'/car/ershouche/audi/ershouche/' ]);
+		$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+				: 'http://www')
+				+ '.google-analytics.com/ga.js');
+		$.getScript('http://tracklog.58.com/referrer4.js');
+	</script>
+</body>
+</html>

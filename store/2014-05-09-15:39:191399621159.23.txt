@@ -1,0 +1,841 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+            中国500强企业_企业管理_企业文化-58同城
+        </title>
+<meta name="keywords" content="中国500强企业,企业管理" />
+<meta name="description" content="58同城中国500强企业频道,为网民提供中国500强企业的简介,文化,人物,管理等丰富内容;更多了解中国500强企业内容就上58同城中国500强企业频道." />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript">
+        function changeClass() {
+            var parentName = document.getElementById("pname").value;
+            var allLi = document.getElementsByName("pli");
+            if (typeof(allLi) !== 'undefined') {
+                for (i = 0; i &lt; allLi.length; i++) {
+                    var li = allLi[i];
+                    var liVal = li.firstChild.firstChild.innerHTML;
+                    if (liVal === parentName) {
+                        var attr = document.createAttribute("class");
+                        attr.value = "active";
+                        li.setAttributeNode(attr);
+                        break;
+                    }
+                }
+            }
+        }
+    </script>
+<body>
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left">
+<span id="ipconfig">
+</span>
+</div>
+<div class="bar_right">
+<div id="login">
+<a target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">
+                            登录
+                        </a>
+<span class="gap">
+                            |
+                        </span>
+<a target="_self" href="https://passport.58.com/reg/">
+                            注册
+                        </a>
+</div>
+</div>
+</div>
+</div>
+<div id="navlist">
+<div id="navlist"><ul><li id="navbln"><a target="_self" href="http://www.58.com/zp/">求职助手</a></li><li><a target="_self" href="http://www.58.com/zj/">总结范文</a></li><li class="job_icon"><a target="_self" href="http://zhishu.58.com/">58指数</a></li><li class="sel" id="navbrn"><a href="http://www.58.com/qiye/">企业百科</a></li></ul></div>
+</div>
+<div id="header">
+<div id="headerinside">
+<div id="logo">
+<a target="_blank" href="http://58.com/">
+<img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" />
+</a>
+<h1>
+                        中国500强企业
+                    </h1>
+</div>
+<span><a rel="nofollow" style="background: url(http://pic2.58.com/ui6/index/newbg.png) no-repeat scroll 0 -147px transparent;color: #FFFFFF;cursor: pointer;display: inline-block;float: left;font-size: 14px;font-weight: bold;height: 34px;line-height: 34px;position: absolute;right: 10px;text-align: center;top: 11px;width: 117px;" target="_blank" href="http://post.58.com/1/">免费发布信息</a></span></div>
+</div>
+
+<div id="nav">
+<div id="navin">
+<ul>
+<li>
+<a href="/qiye/">
+                            首页
+                        </a>
+</li>
+<li name="pli" id="pli">
+<a href="/qiyezixun/">
+<span>
+                                企业最新资讯
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/qiyewenhua/">
+<span>
+                                企业文化
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/qiyezhaopin/">
+<span>
+                                企业招聘指南
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/top500/">
+<span>
+                                世界500强企业
+                            </span>
+</a>
+</li>
+<li name="pli" id="pli">
+<a href="/china500/">
+<span>
+                                中国500强企业
+                            </span>
+</a>
+</li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="企业百科" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+</form></div>
+</div>
+<script type="text/javascript">
+            changeClass();
+        </script>
+<div class="content ej">
+<div class="box">
+<div class="left fl">
+<div><a rel="nofollow" href="http://zp.58.com/yy/2014spring/" target="_blank"><img style="border:none;" src="http://www.58.com/zp_images/allimg/131128/yjsguanggao.jpg" alt="58招聘季" /></a></div>
+<h2>
+<span class="daohang">
+<a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/qiye/">企业百科</a> &gt; <a href="/china500/">中国500强企业</a> &gt; 
+                        </span>
+</h2>
+<div align="center" style="padding-top:5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input id="pname" type="hidden" name="pname" value="企业百科" />
+<input name="word" size="100" maxlength="100" type="text" style="height:30px; border-color:#999999; border-style:solid;" placeholder="搜一搜你想了解的企业：如，联想集团" />
+<input type="submit" value="企业搜索" size="30" style="height:30px;" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+<ul class="pdlist">
+<li>
+<p>
+<span>
+                                    2014-04-17 16:38:10 阅读(134)
+                                </span>
+<a href="/china500/20140417630537.html" target="_blank">
+<strong>
+                                        上海紫江企业招聘
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                上海紫江企业招聘岗位：销售主管 职位描述： 1、组织策划产品营销的策略、方案，整合相关资源推动营销方案的实施，并监督实施效果; 2、进行市场竞争与客户调查分析，提交有关报告，掌...
+                                <a href="/china500/20140417630537.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-17 16:34:41 阅读(51)
+                                </span>
+<a href="/china500/20140417630536.html" target="_blank">
+<strong>
+                                        秦发集团招聘
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                秦发集团招聘岗位：信息服务部部门经理 岗位要求： 1、本科及以上学历，五年以上电子商务网站建设和B2B经验，具有较强的网站运营管理经验，品牌策划、市场营销、广告学、计算机等相关...
+                                <a href="/china500/20140417630536.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-14 18:28:40 阅读(122)
+                                </span>
+<a href="/china500/20140414630401.html" target="_blank">
+<strong>
+                                        怡亚通供应链招聘
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                怡亚通供应链招聘岗位：财务主管 岗位职责 1、负责日常财务、会计及税务的管理工作，财务体系的梳理; 2、完成各项财务结算、会计核算,上报财务执行情况,为管理层提供分析数据; 3、负责与...
+                                <a href="/china500/20140414630401.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-14 18:26:50 阅读(130)
+                                </span>
+<a href="/china500/20140414630400.html" target="_blank">
+<strong>
+                                        上海交运集团招聘
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                上海交运集团招聘岗位：产品工程师 岗位职责 1 进行产品研究，确定产品的设计概念、产品性能和生产条件; 2 绘制设计草图、设计图及材料选用; 3 制作样品或计算机模拟、进行仿真试验并记...
+                                <a href="/china500/20140414630400.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-11 14:42:29 阅读(81)
+                                </span>
+<a href="/china500/20140411630371.html" target="_blank">
+<strong>
+                                        五矿发展
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                公司名称：五矿发展股份有限公司 英文名称：Minmetals Development Co., Ltd. 曾用名：五矿发展-龙腾科技-五矿发展-G五矿 A股代码：600058 A股简称：五矿发展 证券类别：上交所A股 所属行业：国际贸易...
+                                <a href="/china500/20140411630371.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-11 14:38:55 阅读(200)
+                                </span>
+<a href="/china500/20140411630370.html" target="_blank">
+<strong>
+                                        云南驰宏锌锗招聘
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                云南驰宏锌锗招聘信息 岗位要求： 1、本科为二本及以上、专科为一专的国家统招全日制学历，能够顺利取得毕业证和学位证; 2、大学考试成绩未挂科; 3、英语四级、计算机叁级以上水平优先...
+                                <a href="/china500/20140411630370.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-11 14:36:02 阅读(134)
+                                </span>
+<a href="/china500/20140411630369.html" target="_blank">
+<strong>
+                                        湖北兴发化工集团招聘
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                湖北兴发化工集团招聘岗位：机械工程师 1、负责区域内设备机械或电器故障维修; 2、通过软件(如:工控机、PLC)解决设备故障; 3、对所负责设备提出性能提升改造或改进性的意见,并进行实施;...
+                                <a href="/china500/20140411630369.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-10 17:26:49 阅读(184)
+                                </span>
+<a href="/china500/20140410630341.html" target="_blank">
+<strong>
+                                        招商局地产招聘
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                招商局地产招聘岗位：客服主管 岗位职责: 1、负责客户服务体系建设、客户关系管理、客户风险与承诺管理、客户投诉处理、售后服务、工程质保金管理、物业管理对接及部门团队建设等工作...
+                                <a href="/china500/20140410630341.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-10 17:20:49 阅读(117)
+                                </span>
+<a href="/china500/20140410630340.html" target="_blank">
+<strong>
+                                        山东烟台万华聚氨酯
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                山东烟台万华聚氨酯基本信息 公司名称：烟台万华聚氨酯股份有限公司 总部地点：山东省烟台市 成立时间：1998年12月20 日 经营范围：聚氨酯行业 公司性质：上市公司 经营范围： 异氰酸酯...
+                                <a href="/china500/20140410630340.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-08 15:43:28 阅读(81)
+                                </span>
+<a href="/china500/20140408630275.html" target="_blank">
+<strong>
+                                        万向集团	
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                万向集团简介 万向集团创建于1969年，从鲁冠球以4000元钱，在钱塘江畔创办农机修配厂开始，至今有员工三万余人，2012年实现营收1165亿元，创利76亿元，出口创汇26亿美元。 万向集团(工业)公...
+                                <a href="/china500/20140408630275.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-08 15:39:08 阅读(170)
+                                </span>
+<a href="/china500/20140408630274.html" target="_blank">
+<strong>
+                                        玖龙纸业招聘
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                玖龙纸业招聘岗位：国际结算会计 岗位职责： 1、负责银行国际结算单据以及日常业务的跟踪处理; 2、负责国际结算付款资金需求的跟进，外币付款审核(出错率不超过1%); 3、负责出口信用证审...
+                                <a href="/china500/20140408630274.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-08 15:33:23 阅读(109)
+                                </span>
+<a href="/china500/20140408630273.html" target="_blank">
+<strong>
+                                        合生创展董事长
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                合生创展董事长个人简介 中文名：朱孟依 外文名：Zhu Mengyi 国 籍：中国 民 族：汉族 出生地：广东省丰顺县 出生日期：1959年8月 职 业：企业家、慈善家 毕业院校：高中 主要成就： 2008胡润慈...
+                                <a href="/china500/20140408630273.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-08 15:22:30 阅读(76)
+                                </span>
+<a href="/china500/20140408630272.html" target="_blank">
+<strong>
+                                        厦门信达公司
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                厦门信达公司下属投资企业介绍 国内外贸易(厦门信达股份有限公司外贸分公司、香港信达诺国际有限公司、上海信达诺国际贸易有限公司、上海信达诺国际有限公司、厦门市信达安贸易有限公...
+                                <a href="/china500/20140408630272.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-04-08 15:14:00 阅读(157)
+                                </span>
+<a href="/china500/20140408630271.html" target="_blank">
+<strong>
+                                        四川路桥建设集团
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                四川路桥建设集团管理团队概况 四川路桥建设股份有限公司董事长：孙云。 四川路桥建设股份有限公司董事、总经理：甘洪。 四川路桥建设股份有限公司董事：白茂。 四川路桥建设股份有限...
+                                <a href="/china500/20140408630271.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-03-25 15:41:26 阅读(199)
+                                </span>
+<a href="/china500/20140325629901.html" target="_blank">
+<strong>
+                                        冀东水泥介绍
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                公司名称：唐山冀东水泥股份有限公司 英文名称：Tangshan Jidong Cement Co.,Ltd. 证券简称：冀东水泥 证券代码：000401 曾用简称：G冀东 冀东水泥 相关指数：沪深300指数 深证100指数 道中指数 道深指...
+                                <a href="/china500/20140325629901.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-03-25 15:38:36 阅读(67)
+                                </span>
+<a href="/china500/20140325629900.html" target="_blank">
+<strong>
+                                        国投电力控股
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                国投电力控股股份有限公司发展历程 2002年 9月30日24时，国家开发投资公司与湖北兴化《资产置换协议》交割日。国家开发投资公司合法持有的甘肃小三峡水电开发有限责任公司、靖远第二发电...
+                                <a href="/china500/20140325629900.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-03-25 15:31:49 阅读(133)
+                                </span>
+<a href="/china500/20140325629899.html" target="_blank">
+<strong>
+                                        国药集团 网上药店
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                国药集团发展历史 2010年8月30日，公司宣布：经过前期国药集团成功完成对威奇达的并购，对阿拉宾度生物制药有限公司的整合重组，由国药集团倾力打造的百亿元抗生素产业基地正式落户大同...
+                                <a href="/china500/20140325629899.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-03-25 15:24:10 阅读(140)
+                                </span>
+<a href="/china500/20140325629898.html" target="_blank">
+<strong>
+                                        大连华锐重工集团
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                大连华锐重工集团简介 大连华锐重工集团股份有限公司是大连重工起重集团有限公司的控股子公司，是国家重机行业的大型重点骨干企业和新能源设备制造重点企业。企业现有员工6000余人，总...
+                                <a href="/china500/20140325629898.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-03-25 15:16:25 阅读(93)
+                                </span>
+<a href="/china500/20140325629897.html" target="_blank">
+<strong>
+                                        中国重汽发展历程
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                中国重汽发展历程 中国重汽集团前身是原济南汽车制造总厂。原济南汽车制造总厂始建于1935年，主要生产汽车零部件，该厂于1956年开始自主研发设计制造汽车，步入汽车制造企业。 第一代产...
+                                <a href="/china500/20140325629897.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li><li>
+<p>
+<span>
+                                    2014-03-22 14:15:50 阅读(191)
+                                </span>
+<a href="/china500/20140322629839.html" target="_blank">
+<strong>
+                                        华润电力江苏分公司
+                                    </strong>
+</a>
+</p>
+<p class="f12">
+                                华润电力江苏分公司简介 华润电力控股有限公司江苏分公司(以下简称江苏分公司)于2010年8月1日在南京正式揭牌，目前各项工作已全面启动。江苏分公司本部设总经理工作部、人力资源部、财...
+                                <a href="/china500/20140322629839.html" target="_blank">
+                                    [详情]
+                                </a>
+</p>
+</li>
+</ul>
+<p class="paging mar_t30">
+<ul class="paging mar_t30">
+                            首页
+1
+<a href="list_970_2.html">2</a>
+<a href="list_970_3.html">3</a>
+<a href="list_970_4.html">4</a>
+<a href="list_970_5.html">5</a>
+<a href="list_970_6.html">6</a>
+<a href="list_970_7.html">7</a>
+<a href="list_970_8.html">8</a>
+<a href="list_970_9.html">9</a>
+<a href="list_970_10.html">10</a>
+<a href="list_970_11.html">11</a>
+<a href="list_970_2.html">下一页</a>
+<a href="list_970_170.html">末页</a>
+<select name="sldd" style="width:54px" onchange="location.href=this.options[this.selectedIndex].value;">
+<option value="list_970_1.html" selected="selected">1</option>
+<option value="list_970_2.html">2</option>
+<option value="list_970_3.html">3</option>
+<option value="list_970_4.html">4</option>
+<option value="list_970_5.html">5</option>
+<option value="list_970_6.html">6</option>
+<option value="list_970_7.html">7</option>
+<option value="list_970_8.html">8</option>
+<option value="list_970_9.html">9</option>
+<option value="list_970_10.html">10</option>
+<option value="list_970_11.html">11</option>
+<option value="list_970_12.html">12</option>
+<option value="list_970_13.html">13</option>
+<option value="list_970_14.html">14</option>
+<option value="list_970_15.html">15</option>
+<option value="list_970_16.html">16</option>
+<option value="list_970_17.html">17</option>
+<option value="list_970_18.html">18</option>
+<option value="list_970_19.html">19</option>
+<option value="list_970_20.html">20</option>
+<option value="list_970_21.html">21</option>
+<option value="list_970_22.html">22</option>
+<option value="list_970_23.html">23</option>
+<option value="list_970_24.html">24</option>
+<option value="list_970_25.html">25</option>
+<option value="list_970_26.html">26</option>
+<option value="list_970_27.html">27</option>
+<option value="list_970_28.html">28</option>
+<option value="list_970_29.html">29</option>
+<option value="list_970_30.html">30</option>
+<option value="list_970_31.html">31</option>
+<option value="list_970_32.html">32</option>
+<option value="list_970_33.html">33</option>
+<option value="list_970_34.html">34</option>
+<option value="list_970_35.html">35</option>
+<option value="list_970_36.html">36</option>
+<option value="list_970_37.html">37</option>
+<option value="list_970_38.html">38</option>
+<option value="list_970_39.html">39</option>
+<option value="list_970_40.html">40</option>
+<option value="list_970_41.html">41</option>
+<option value="list_970_42.html">42</option>
+<option value="list_970_43.html">43</option>
+<option value="list_970_44.html">44</option>
+<option value="list_970_45.html">45</option>
+<option value="list_970_46.html">46</option>
+<option value="list_970_47.html">47</option>
+<option value="list_970_48.html">48</option>
+<option value="list_970_49.html">49</option>
+<option value="list_970_50.html">50</option>
+<option value="list_970_51.html">51</option>
+<option value="list_970_52.html">52</option>
+<option value="list_970_53.html">53</option>
+<option value="list_970_54.html">54</option>
+<option value="list_970_55.html">55</option>
+<option value="list_970_56.html">56</option>
+<option value="list_970_57.html">57</option>
+<option value="list_970_58.html">58</option>
+<option value="list_970_59.html">59</option>
+<option value="list_970_60.html">60</option>
+<option value="list_970_61.html">61</option>
+<option value="list_970_62.html">62</option>
+<option value="list_970_63.html">63</option>
+<option value="list_970_64.html">64</option>
+<option value="list_970_65.html">65</option>
+<option value="list_970_66.html">66</option>
+<option value="list_970_67.html">67</option>
+<option value="list_970_68.html">68</option>
+<option value="list_970_69.html">69</option>
+<option value="list_970_70.html">70</option>
+<option value="list_970_71.html">71</option>
+<option value="list_970_72.html">72</option>
+<option value="list_970_73.html">73</option>
+<option value="list_970_74.html">74</option>
+<option value="list_970_75.html">75</option>
+<option value="list_970_76.html">76</option>
+<option value="list_970_77.html">77</option>
+<option value="list_970_78.html">78</option>
+<option value="list_970_79.html">79</option>
+<option value="list_970_80.html">80</option>
+<option value="list_970_81.html">81</option>
+<option value="list_970_82.html">82</option>
+<option value="list_970_83.html">83</option>
+<option value="list_970_84.html">84</option>
+<option value="list_970_85.html">85</option>
+<option value="list_970_86.html">86</option>
+<option value="list_970_87.html">87</option>
+<option value="list_970_88.html">88</option>
+<option value="list_970_89.html">89</option>
+<option value="list_970_90.html">90</option>
+<option value="list_970_91.html">91</option>
+<option value="list_970_92.html">92</option>
+<option value="list_970_93.html">93</option>
+<option value="list_970_94.html">94</option>
+<option value="list_970_95.html">95</option>
+<option value="list_970_96.html">96</option>
+<option value="list_970_97.html">97</option>
+<option value="list_970_98.html">98</option>
+<option value="list_970_99.html">99</option>
+<option value="list_970_100.html">100</option>
+<option value="list_970_101.html">101</option>
+<option value="list_970_102.html">102</option>
+<option value="list_970_103.html">103</option>
+<option value="list_970_104.html">104</option>
+<option value="list_970_105.html">105</option>
+<option value="list_970_106.html">106</option>
+<option value="list_970_107.html">107</option>
+<option value="list_970_108.html">108</option>
+<option value="list_970_109.html">109</option>
+<option value="list_970_110.html">110</option>
+<option value="list_970_111.html">111</option>
+<option value="list_970_112.html">112</option>
+<option value="list_970_113.html">113</option>
+<option value="list_970_114.html">114</option>
+<option value="list_970_115.html">115</option>
+<option value="list_970_116.html">116</option>
+<option value="list_970_117.html">117</option>
+<option value="list_970_118.html">118</option>
+<option value="list_970_119.html">119</option>
+<option value="list_970_120.html">120</option>
+<option value="list_970_121.html">121</option>
+<option value="list_970_122.html">122</option>
+<option value="list_970_123.html">123</option>
+<option value="list_970_124.html">124</option>
+<option value="list_970_125.html">125</option>
+<option value="list_970_126.html">126</option>
+<option value="list_970_127.html">127</option>
+<option value="list_970_128.html">128</option>
+<option value="list_970_129.html">129</option>
+<option value="list_970_130.html">130</option>
+<option value="list_970_131.html">131</option>
+<option value="list_970_132.html">132</option>
+<option value="list_970_133.html">133</option>
+<option value="list_970_134.html">134</option>
+<option value="list_970_135.html">135</option>
+<option value="list_970_136.html">136</option>
+<option value="list_970_137.html">137</option>
+<option value="list_970_138.html">138</option>
+<option value="list_970_139.html">139</option>
+<option value="list_970_140.html">140</option>
+<option value="list_970_141.html">141</option>
+<option value="list_970_142.html">142</option>
+<option value="list_970_143.html">143</option>
+<option value="list_970_144.html">144</option>
+<option value="list_970_145.html">145</option>
+<option value="list_970_146.html">146</option>
+<option value="list_970_147.html">147</option>
+<option value="list_970_148.html">148</option>
+<option value="list_970_149.html">149</option>
+<option value="list_970_150.html">150</option>
+<option value="list_970_151.html">151</option>
+<option value="list_970_152.html">152</option>
+<option value="list_970_153.html">153</option>
+<option value="list_970_154.html">154</option>
+<option value="list_970_155.html">155</option>
+<option value="list_970_156.html">156</option>
+<option value="list_970_157.html">157</option>
+<option value="list_970_158.html">158</option>
+<option value="list_970_159.html">159</option>
+<option value="list_970_160.html">160</option>
+<option value="list_970_161.html">161</option>
+<option value="list_970_162.html">162</option>
+<option value="list_970_163.html">163</option>
+<option value="list_970_164.html">164</option>
+<option value="list_970_165.html">165</option>
+<option value="list_970_166.html">166</option>
+<option value="list_970_167.html">167</option>
+<option value="list_970_168.html">168</option>
+<option value="list_970_169.html">169</option>
+<option value="list_970_170.html">170</option>
+</select>
+<span class="pageinfo">共 <strong>170</strong>页<strong>3397</strong>条</span>
+</ul>
+</p>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt><strong>热门职位推荐</strong></dt>
+<dd class="hotpList">
+<a href="/yewu/">销售</a>
+<a href="/bianji/">编辑</a>
+<a href="/wenziluru/">文员</a>
+<a href="/sheji/">平面设计</a>
+<a href="/jiaoshi/">教师</a>
+<a href="/yiliao/">医生</a>
+<a href="/waimaozhuanyuan/">外贸专员</a>
+<a href="/kefu/">客服</a>
+<a href="/caiwu/">会计</a>
+<a href="/qiantai/">前台</a>
+<a href="/wangzhanmeigong/">网页制作</a>
+<a href="/youerjiaoshi/">幼教</a>
+<a href="/hushi/">护士</a>
+<a href="/shichang/">市场公关</a>
+<a href="/dyao/">导游</a>
+<a href="/fanyizhaopin/">翻译</a>
+<a href="/zhaopinjingli/">人事专员</a>
+<a href="/jishuzhichi/">技术支持</a>
+<a href="/jypeixunshi/">培训师</a>
+<a href="/lfawurenyuan/">法务专员</a>
+<a href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>
+                            栏目推荐
+                        </h2>
+<div class="tuijian"><a class="y5" href="/china500/20131107347109.html">2013中国企业500强排行榜</a><a class="y1" href="/top500/">企业500强</a><a class="y4" href="/china500/">中国500强</a></div>
+</div>
+<div class="hot fl">
+<h2>企业热点新闻</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131225622987.html" target="_blank">企业年终奖：土豪公司奖奔驰</a></li>
+<li><a href="http://www.58.com/china500/20131225622994.html" target="_blank">500强企业打死都不会说的招聘内幕</a></li>
+<li><a href="http://www.58.com/china500/20131217606894.html" target="_blank">阿里巴巴老板—马云的身价多少</a></li>
+<li><a href="http://www.58.com/china500/20131217606903.html" target="_blank">马化腾超王健林成内地第二富豪</a></li>
+<li><a href="http://www.58.com/china500/20131217606905.html" target="_blank">任志强：中国房地产业没有泡沫</a></li>
+<li><a href="http://www.58.com/china500/20131217606904.html" target="_blank">王健林:约15年后房地产将衰落</a></li>
+<li><a href="http://www.58.com/china500/20131217606359.html" target="_blank">恒大老板许家印的背景</a></li>
+<li><a href="http://www.58.com/china500/20131218607488.html" target="_blank">国企改革：不再是铁饭碗</a></li>
+<li><a href="http://www.58.com/china500/20131217606901.html" target="_blank">宗庆后:创造就业机会是履行社会责任</a></li>
+<li><a href="http://www.58.com/china500/20131217606621.html" target="_blank">2014年薪酬大涨的8个IT职位</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>最受关注企业信息</h2>
+<ul class="j">
+<li><a href="http://www.58.com/top500/20131017213072.html" target="_blank">华为公司招聘</a></li>
+<li><a href="http://www.58.com/top500/20131021229453.html" target="_blank">联想集团招聘</a></li>
+<li><a href="http://www.58.com/top500/20131022236691.html" target="_blank">一汽大众面试经验</a></li>
+<li><a href="http://www.58.com/top500/20131023250758.html" target="_blank">三星电子招聘面试经验</a></li>
+<li><a href="http://www.58.com/top500/20131023250806.html" target="_blank">苹果招聘面试题</a></li>
+<li><a href="http://www.58.com/top500/20131025273960.html" target="_blank">通用电气笔试题目</a></li>
+<li><a href="http://www.58.com/top500/20131025275936.html" target="_blank">惠普工作待遇</a></li>
+<li><a href="http://www.58.com/top500/20131106332959.html" target="_blank">中国邮政校园招聘</a></li>
+<li><a href="http://www.58.com/top500/20131108363727.html" target="_blank">谷歌中国招聘</a></li>
+<li><a href="http://www.58.com/top500/20131113389978.html" target="_blank">交通银行工作条件</a></li>
+<li><a href="http://www.58.com/top500/20131119432628.html" target="_blank">时代华纳实习</a></li>
+<li><a href="http://www.58.com/top500/20131122463916.html" target="_blank">麦当劳兼职</a></li>
+<li><a href="http://www.58.com/top500/20131128525687.html" target="_blank">中国石油化工集团公司招聘</a></li>
+<li><a href="http://www.58.com/top500/20131205574536.html" target="_blank">招商银行实习</a></li>
+<li><a href="http://www.58.com/top500/20131205576959.html" target="_blank">可口可乐公司招聘</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热门企业排行榜</h2>
+<ul class="j">
+<li><a href="http://www.58.com/china500/20131216603964.html" target="_blank">中国移动有限公司</a></li>
+<li><a href="http://www.58.com/china500/20131216604090.html" target="_blank">联想集团有限公司</a></li>
+<li><a href="http://www.58.com/china500/20131026278037.html" target="_blank">神州数码控股有限公司</a></li>
+<li><a href="http://www.58.com/china500/20131028293751.html" target="_blank">腾讯公司</a></li>
+<li><a href="http://www.58.com/china500/20131028294057.html" target="_blank">内蒙古伊利实业集团股份有限公司</a></li>
+<li><a href="http://www.58.com/china500/20131029296277.html" target="_blank">中国蒙牛乳业有限公司</a></li>
+<li><a href="http://www.58.com/china500/20131025274587.html" target="_blank">百度公司</a></li>
+<li><a href="http://www.58.com/china500/20131029303449.html" target="_blank">海南航空公司</a></li>
+<li><a href="http://www.58.com/china500/20131216604152.html" target="_blank">SOHO中国有限公司</a></li>
+<li><a href="http://www.58.com/top500/20130925159781.html" target="_blank">美国通用汽车公司</a></li>
+<li><a href="http://www.58.com/top500/20130925160841.html" target="_blank">国家电网</a></li>
+<li><a href="http://www.58.com/top500/20130926163647.html" target="_blank">苹果公司</a></li>
+<li><a href="http://www.58.com/top500/20130930165839.html" target="_blank">微软中国</a></li>
+<li><a href="http://www.58.com/china500/20131031319151.html" target="_blank">人人乐连锁商业集团股份有限公司</a></li>
+<li><a href="http://www.58.com/china500/20131031319048.html" target="_blank">云南白药集团股份有限公司</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"><a href="/qiyezixun/">企业最新资讯</a>  |  <a href="/qiyewenhua/">企业文化</a>  |  <a href="/qiyejieshao/">企业介绍</a>  |<a href="/qiyezhaopin/">企业招聘指南</a>|  <a href="/qiyerenwu/">企业热点人物</a></p>
+<div id="flink">
+<strong>
+                            友情链接
+                        </strong>
+                        : <a target="_blank" href="http://www.0713rcw.com" style="margin:4px">黄冈人才网</a>
+<a target="_blank" href="http://www.0573zp.net/" style="margin:4px">桐乡招聘网</a>
+<a target="_blank" href="http://www.shihuajiaoyu.com/ " style="margin:4px"> 公务员面试培训</a>
+<a target="_blank" href="http://www.tzqyw.net" style="margin:4px">泰州企业网</a>
+<a target="_blank" href="http://bengbu.huatu.com/" style="margin:4px">蚌埠公务员考试网</a>
+<a target="_blank" href="http://mall.h2h.cn/bj/" style="margin:4px">优质商家</a>
+<a target="_blank" href="http://www.efuhr.com/" style="margin:4px">中服人才网</a>
+<a target="_blank" href="http://mianshi.cnrencai.com/" style="margin:4px">面试 </a>
+<a target="_blank" href="http://zzlunwen010.com/  " style="margin:4px">专注论文网 </a>
+<a target="_blank" href="http://www.zikao580.com " style="margin:4px">自考580 </a>
+<a target="_blank" href="http://www.djyrc.cn/" style="margin:4px">都江堰招聘网</a>
+<a target="_blank" href="http://www.hhrcrx.com/" style="margin:4px">黄骅人才网</a>
+<a target="_blank" href="http://www.258tc.com/" style="margin:4px">258同城网招聘</a>
+<a target="_blank" href="http://www.81890hr.com/" style="margin:4px">洛阳人才网</a>
+<a target="_blank" href="http://www.59job.com/" style="margin:4px">武夷山人才网 </a>
+<a target="_blank" href="http://www.jpsww.com/" style="margin:4px">免费发布信息 </a>
+<a target="_blank" href="http://www.es-zikao.com/" style="margin:4px">湖北第二师范学院自考 </a>
+<a target="_blank" href="http://www.cy580.com/" style="margin:4px">创业网 </a>
+<a target="_blank" href="http://www.dojob.com.cn/xinwen/" style="margin:4px">求职网新闻 </a>
+<a target="_blank" href="http://www.lstest.com/" style="margin:4px">人才素质测评</a>
+<a target="_blank" href="http://www.we777.com/" style="margin:4px">临沂招聘网</a>
+
+</div>
+<div id="footer">
+                        © 58.com
+                        <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">
+                            帮助中心
+                        </a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffef543bf67b8f904475a9ebf319ee80d' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info/qiye'+mod+'/list/';
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F6d9b08e5c96a202b821058c0b4d4f173' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- 悬挂式分享按钮 一栏 
+&lt;script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;mini=1&amp;pos=right&amp;uid=218186" &gt;&lt;/script&gt;
+&lt;script type="text/javascript" id="bdshell_js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+var bds_config={"bdTop":144,"snsKey":"{'tsina':'','tqq':'','t163':'','tsohu':''}"};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+&lt;/script&gt;
+ 悬挂式分享按钮 一栏 -->
+</div></body>
+</html>

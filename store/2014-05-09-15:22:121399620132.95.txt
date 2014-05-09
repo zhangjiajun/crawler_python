@@ -1,0 +1,362 @@
+<!Doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>星座论坛_新浪网</title>
+<meta name="keywords" content="星座，星象，塔罗，情感解梦，命理，贴图，走势，巨蟹座，水瓶座，塔罗牌" />
+<meta name="description" content=" 星座论坛 巨蟹座，水瓶座，金牛白羊天秤狮子处女射手双子，星座走势，命理，塔罗占卜，星相学研究室 - sina" />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<link rel="archives" title="星座论坛" href="http://club.astro.sina.com.cn/archiver/" />
+<link rel="stylesheet" type="text/css" href="http://news.sina.com.cn/deco/2010/1019/css/astroclub_1.css?v=20100916" />
+<link rel="stylesheet" type="text/css" href="http://news.sina.com.cn/deco/2010/1019/css/allbbs_append.css?v=20100916" />
+<script type="text/javascript">
+var MARK_JS = 'astroclub';
+var IMGDIR = 'http://www.sinaimg.cn/IT/deco/dzbbs/images/default';
+var SINA_IMG_SEVER_URL = 'http://www.sinaimg.cn/IT/deco/dzbbs/';
+var attackevasive = '0';var gid = 0;var fid = parseInt('0');var tid = parseInt('0');</script>
+<script src="http://news.sina.com.cn/js/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="http://i3.sinaimg.cn/home/sinaflash.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/common.js?v=20100916"></script>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/menu.js?v=20100916"></script>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/ajax.js?v=20100916"></script>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/jquery-ui-1.7.2.custom.min.js?v=20100916"></script><!--jquery官方插件定制JS-->
+</head>
+<body onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="wrap">
+<!-- 标准二级导航_星座 begin -->
+<style type="text/css">
+.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+.sHLogo span,.sHLogo span a,.sHLogo span a:link,.sHLogo span a:visited,.sHLogo span a:hover{display:block;*float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+.sHLogo span,.sHLogo span a img,.sHLogo span a:link img,.sHLogo span a:visited img,.sHLogo span a:hover img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;} 
+</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://bbs.sina.com.cn/" target="_top"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" alt="新浪网" /></a><a href="http://bbs.sina.com.cn/"><img src="http://i1.sinaimg.cn/book/main/bbssitemap/xlltbbs_logo.gif" alt="新浪论坛" /></a></span></div>
+<div class="sHLinks"><a href="http://astro.sina.com.cn/" target="_top">星座首页</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/" target="_top">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/" target="_top">新浪导航</a></div>
+</div>
+</div>
+<!-- 标准二级导航_星座 end -->
+<!-- 亲子论坛头部 2009-11-26 cl begin -->
+<!-- 科技频道产品互动社区论坛顶部通栏_兰色 begin -->
+<style type="text/css">
+			.nav-t{background:url(http://www.sinaimg.cn/book/deco/2010/q_b_bg_01.png) repeat-x;  height:40px;border:1px solid #c7d4de;border-width: 0 1px; }
+			.nav-t ul{float:left; }
+			.nav-t ul li{float:left;line-height:36px;margin:4px 0 0 1px;text-align:center; display:inline;   padding:0 8px;*padding:0 5px;}
+			.nav-t ul li.selected{width:47px;height:36px;background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/astro.png) no-repeat;line-height:36px;padding:0; }
+			.nav-t ul li.selected a,.nav-t ul li.selected,.nav-t ul li.selected a:visited{color:#fff;}
+			.nav-t a.nav-map{float:right;width:63px;height:21px;text-indent:-10000px;  outline:none;background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/astro.png) -150px -150px;margin:9px 5px 0 0 ;display:inline;  }
+			.nav-t2{background:url(http://www.sinaimg.cn/book/club/astro_banner_bg.png) 0 0 repeat-x;height:103px;  }
+			.nav-t2-in{background:url(http://www.sinaimg.cn/book/deco/2011/0526/banner/astro.png) 0 0 no-repeat;height:103px;  }
+			.nav-t2-in h1 {float:left;width:235px; height:103px;   }
+			.nav-t2-in h1 a{display:block;height:103px;text-indent:-10000px;outline:none; }
+			.nav-banner{float:right;margin:0px 7px 0 0 ;display:inline; }
+			.nav-banner img{display:block; }
+			.nav-t3{background:url(http://www.sinaimg.cn/book/deco/2010/q_b_bg_01.png) 0 -50px;height:34px;border:1px solid #ecb4ed;border-width:0 1px;padding:0 2px 0 5px;  }
+			.nav-t3l{float:left;line-height:34px; color:#c46de1; }
+			.nav-t3l a{padding:0 5px;}
+			.nav-t3r{float:right;padding:5px 0 0 0; }
+			.nav-t3r select{color:#999;}
+			.ipt-01{background:#fff;border:1px solid #ccc;padding:1px;line-height:16px;width:200px;  height:16px; color:#999; }
+			.ipt-sub{cursor:pointer;background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/astro.png) 0 -150px;width:78px;height:21px;text-indent:-1000px;border:none;padding:0;   }
+			#menu{zoom:1;_overflow:hidden;}
+			.ipt-login{background:url(http://www.sinaimg.cn/book/deco/2010/news/backgruand2/astro.png) -300px -150px;width:39px;height:21px;text-indent:-1000px;border:none;padding:0;   }
+			#menu{zoom:1;_overflow:hidden;}
+			.frameswitch{color:#999;}
+			.ipt-11{padding:2px;}
+		</style>
+<div class="nav-t">
+<ul>
+<li><a href="http://bbs.sina.com.cn">首页</a></li>
+<li><a href="http://club.ent.sina.com.cn">娱乐</a></li>
+<li><a href="http://forum.sports.sina.com.cn">体育</a></li>
+<li><a href="http://club.mil.news.sina.com.cn">军事</a></li>
+<li><a href="http://club.history.sina.com.cn">历史</a></li>
+<li><a href="http://eladies.sina.com.cn/bbs/">女性</a></li>
+<li><a href="http://club.life.sina.com.cn">生活</a></li>
+<li><a href="http://club.finance.sina.com.cn">财经</a></li>
+<li><a href="http://bbs.auto.sina.com.cn">汽车</a></li>
+<li><a href="http://bbs0.house.sina.com.cn">房产</a></li>
+<li><a href="http://bbs.jiaju.sina.com.cn">家居</a></li>
+<li><a href="http://club.news.sina.com.cn">百味</a></li>
+<li><a href="http://club.edu.sina.com.cn">教育</a></li>
+<li><a href="http://club.baby.sina.com.cn">亲子</a></li>
+<li class="selected"><a href="http://club.astro.sina.com.cn">星座</a></li>
+<li><a href="http://club.tech.sina.com.cn/index.php">数码</a></li>
+<li><a href="http://club.tour.sina.com.cn">旅游</a></li>
+<li><a href="http://bbs.games.sina.com.cn/">游戏</a></li>
+<li><a href="http://club.gongyi.sina.com.cn">绿丝带</a></li>
+<li><a href="http://club.show.sina.com.cn">新浪show</a></li>
+</ul>
+<a href="http://bbs.sina.com.cn/guide/index.shtml" target="_blank" class="nav-map">论坛地图</a>
+</div>
+<div class="nav-t2">
+<div class="nav-t2-in">
+<h1><a href="http://club.astro.sina.com.cn/">星座论坛</a></h1>
+<div class="nav-banner" style="height:98%"><table height="100%"><tr><td id="ad_up" style="vertical-align:middle;"></td></tr></table></div>
+</div>
+</div>
+<div class="nav-t3">
+<div class="nav-t3l">
+<a href="http://club.astro.sina.com.cn/forumdisplay.php?fid=2">星座</a> | 
+				<a href="http://club.astro.sina.com.cn/forumdisplay.php?fid=20">星象</a> | 
+				<a href="http://club.astro.sina.com.cn/forumdisplay.php?fid=22">塔罗</a> | 
+				<a href="http://club.astro.sina.com.cn/forumdisplay.php?fid=21">解梦</a> | 
+				<a href="http://club.astro.sina.com.cn/forumdisplay.php?fid=23">命理</a>
+</div>
+<div class="nav-t3r">
+<form method="post" action="http://club.astro.sina.com.cn/search.php">
+<input type="text" name="srchtxt" value="输入关键字" id="headersearch" class="ipt-01" onfocus="chksearchvalue()" onblur="if(this.value == '') {this.value='输入关键字';}" /> <select name="srchtype"><option value="title" selected="selected">标题</option>
+<option value="fulltext">全文</option>
+<option value="srchuname">作者</option>
+</select>
+<input type="hidden" value="true" name="searchsubmit" />
+<input type="hidden" value="1" name="dpc" />
+<input type="submit" class="ipt-sub" onclick="return chksearch();" />
+</form>
+</div>
+</div>
+<script type="text/javascript">
+						function chksearchvalue(){
+							var searchvalue = $$('headersearch');
+							var valuetmp = searchvalue.value.replace('输入关键字','');
+							if(valuetmp){
+							}else{
+								searchvalue.value=searchvalue.value.replace('输入关键字','');
+							}
+						}
+						function chksearch(){
+							
+								var searchvalue = $$('headersearch').value;
+								searchvalue = searchvalue.replace('输入关键字', '');
+								if(searchvalue){
+									return true;
+								}else{
+									alert('请输入搜索的关键词');
+									return false
+								}
+							
+						}
+
+					
+						</script>
+<!-- 科技频道产品互动社区论坛顶部通栏_兰色 end -->
+<div id="menu">
+<span class="frameswitch">
+<a href="http://club.astro.sina.com.cn/index.php">星座论坛</a> &raquo;  			
+		 
+			</span>
+<ul>
+<li style="position:relative;">
+<p>
+<script type="text/javascript">
+				function chk_username(){
+					var username_id = $$('username');
+					var username_tmp = username_id.value.replace('会员名/邮箱/UC号','');
+					if(username_tmp){
+					}else{
+						username_id.value = username_id.value.replace('会员名/邮箱/UC号','');
+						
+					}
+					
+				}
+			</script>
+<form id="loginform" method="post" name="login" action="https://login.sina.com.cn/sso/login.php">
+<input type="hidden" name="referer" id="referer" value="http://club.astro.sina.com.cn/" />
+<input type="hidden" name="url" id="back_url" value="http://club.astro.sina.com.cn/logging.php?action=login&amp;loginsubmit=1&amp;loginsubmit=1&amp;referer=http%3A%2F%2Fclub.astro.sina.com.cn%2Fmisc.php%3Faction%3Dviewratings%26amp%3Btid%3D%24tid%26amp%3Bpid%3D15962732" />
+<input type="hidden" name="service" value="bbsclub" />
+<input type="hidden" name="entry" value="bbsclub" />
+<input type="hidden" name="useticket" value="0" />
+<input type="hidden" name="gateway" value="1" />
+				用户名：<input type="text" id="username" name="username" value="会员名/邮箱/UC号" onclick="chk_username();" onblur="checkUserMail();if(this.value == '') {this.value='会员名/邮箱/UC号';}" autocomplete="off" class="ipt-01 ipt-11" style="width:90px;" />
+				&nbsp;密码：<input type="password" id="password" name="password" class="ipt-01 ipt-11" style="width:90px;" />
+<button name="userlogin" type="submit" value="true" class="ipt-login"></button>
+</form>
+<div style="opacity: 1; display: none;" id="username_tip" class="tipbox">
+<div class="box_top"></div>
+<div class="box_center" id="box_center">
+<span class="" id="username_tip_text"></span>
+<a onclick="document.getElementById('username_tip').style.display='none';" href="#" title="关闭"><em>关闭</em></a>
+</div>
+<div class="box_bottom"></div>
+</div>
+<script type="text/javascript" src="http://news.sina.com.cn/deco/2010/1019/javascript/checkmail.js?v=20100916"></script>
+</p></li>
+<!--zhangshuo 090203-->
+<li><a href="http://club.astro.sina.com.cn/api/forward.php?action=register&amp;forward=http://club.astro.sina.com.cn/" class="notabs">注册账号</a></li>
+<!--zhangshuo 090203 end-->
+<li><a href="http://club.astro.sina.com.cn/search.php">搜索</a></li>
+<li><a href="http://club.astro.sina.com.cn/faq.php">帮助</a></li>
+<!--zhangshuo 090203-->
+<!--zhangshuo 090203 end-->
+</ul>
+</div>
+<div id="nav"><a href="http://club.astro.sina.com.cn/index.php">星座论坛</a> &raquo; 提示信息</div>
+<div class="box message">
+<h1>星座论坛 提示信息</h1>
+<p>指定的主题不存在或已被删除或正在被审核，请返回。</p>
+<p><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>
+</div>
+<script type="text/javascript">var discuz_action='255?255:0';</script>
+</div>
+<ul class="popupmenu_popup headermenu_popup" id="memcp_menu" style="display: none">
+<li><a href="http://club.astro.sina.com.cn/memcp.php">控制面板首页</a></li>
+<li><a href="http://club.astro.sina.com.cn/memcp.php?action=profile">编辑个人资料</a></li>
+<li><a href="http://club.astro.sina.com.cn/memcp.php?action=creditslog">积分记录</a></li>
+<li><a href="http://club.astro.sina.com.cn/memcp.php?action=usergroups">公众用户组</a></li>
+</ul>
+<ul class="popupmenu_popup headermenu_popup" id="stats_menu" style="display: none">
+<li><a href="http://club.astro.sina.com.cn/stats.php">基本概况</a></li>
+<li><a href="http://club.astro.sina.com.cn/stats.php?type=forumsrank">版块排行</a></li><li><a href="http://club.astro.sina.com.cn/stats.php?type=threadsrank">主题排行</a></li><li><a href="http://club.astro.sina.com.cn/stats.php?type=postsrank">发帖排行</a></li><li><a href="http://club.astro.sina.com.cn/stats.php?type=creditsrank">积分排行</a></li>
+<!--&lt;li&gt;&lt;a href="http://club.astro.sina.com.cn/stats.php?type=trade"&gt;交易排行&lt;/a&gt;&lt;/li&gt;暂时不支持此功能-->
+<li><a href="http://club.astro.sina.com.cn/stats.php?type=onlinetime">在线时间</a></li> <li><a href="http://club.astro.sina.com.cn/stats.php?type=team">管理团队</a></li>
+<li><a href="http://club.astro.sina.com.cn/stats.php?type=modworks">管理统计</a></li> </ul>
+<div class="ad_footerbanner" id="ad_down"></div>
+<!--登录框suggest开始-->
+<div id="SSOTipsContainer"></div>
+<link href="http://i.sso.sina.com.cn/css/cardtips.css" rel="stylesheet" type="text/css" media="all" />
+<script src="http://i.sso.sina.com.cn/js/cardtips.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+//可复制过去改下下面参数就可以了
+	function initUserName(){
+		passcardOBJ.init(
+			// FlashSoft 注意,最好这个input的autocomplete设定为off
+			// 需要有下拉框的input对象
+			document.getElementById("username"),
+			{
+				// 鼠标经过字体颜色
+				overfcolor: "#666",
+				// 鼠标经过背景颜色
+				overbgcolor: "#d6edfb",
+				// 鼠标离开字体颜色
+				outfcolor: "#000000",
+				// 鼠标离开背景颜色
+				outbgcolor: ""
+			},
+			// 输入完成后,自动需要跳到的input对象[备选]
+			document.getElementById("password"),
+			null,
+			document.getElementById("SSOTipsContainer")
+		);
+	}
+	var _usernameObj = document.getElementById("username");
+
+	if(_usernameObj != null) {
+		initUserName();
+	}
+</script>
+<!--登录框suggest结束--><div id="footer">
+<div class="wrap">
+<center>
+</center><p><a href="http://astro.sina.com.cn/guest.html" target="_blank">星座频道意见反馈留言板</a>　电话：4006900000　　欢迎批评指正</p>
+<p><a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://emarketing.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="http://members.sina.com.cn/apply/">会员注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a></p>
+<p>Copyright &copy; 1996 -2014 SINA Corporation, All Rights Reserved</p>
+<p>新浪公司　<a href="http://home.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a></p> 
+</div>
+</div>
+<script>
+function ybbsup(data){
+	try{
+		if (/\.swf$/i.test(data.show) == false){
+			jQuery("#ad_up").html('&lt;a href="'+data.href+'" target="_blank"&gt;&lt;img src="'+data.show+'" &gt;&lt;/a&gt;');
+		}
+		else{
+            			var objFlash = new sinaFlash(data.show, "", "580", "102", "7", "", false,"high");
+            			objFlash.addParam("wmode", "opaque");
+			objFlash.write("ad_up");
+		}
+	}catch (e){
+	}
+}
+function ybbsmid(data){
+	try{
+		if (/\.swf$/i.test(data.show) == false){
+			jQuery("#ad_mid").html('&lt;a href="'+data.href+'" target="_blank"&gt;&lt;img src="'+data.show+'" width="300" height="31"&gt;&lt;/a&gt;');
+		}
+		else{
+			var objFlash = new sinaFlash(data.show, "", "300", "31", "7", "", false,"high");
+			objFlash.addParam("wmode", "opaque");
+			objFlash.write("ad_mid");
+		}
+	}catch (e){
+	}
+}
+function ybbsdown(data){
+	try{
+		if (/\.swf$/i.test(data.show) == false){
+			jQuery("#ad_down").html('&lt;a href="'+data.href+'" target="_blank"&gt;&lt;img src="'+data.show+'" width="950" height="90"&gt;&lt;/a&gt;');
+		}
+		else{
+			var objFlash = new sinaFlash(data.show, "", "950", "102", "7", "", false,"high");
+			objFlash.addParam("wmode", "opaque");
+			objFlash.write("ad_down");
+		}
+	}catch (e){
+	}
+}
+
+function ybbsfirstfloor(data) {//{"show":"文子内容","href":"广告链接"}
+	try{	
+		jQuery("#ad_thread1_0").html('&lt;a href="'+data.href+'" target="_blank"&gt;'+data.show+'&lt;/a&gt;');
+	}catch (e){
+	}
+}
+
+function ybbssecondfloor(data) {
+	try{
+		jQuery("#ad_thread1_1").html('&lt;a href="'+data.href+'" target="_blank"&gt;'+data.show+'&lt;/a&gt;');
+	}catch (e){
+	}
+}
+
+function ybbsthirdfloor(data) {
+	try{
+		jQuery("#ad_thread1_2").html('&lt;a href="'+data.href+'" target="_blank"&gt;'+data.show+'&lt;/a&gt;');
+	}catch (e){
+	}
+}
+
+
+function mygetscript(url) {
+		var s, c,  d = document, src = (url.indexOf("?") == "-1" ? url + "?" : url);
+		(s = d.createElement("script")).setAttribute("type", "text/javascript");
+		s.setAttribute("charset", "UTF-8");
+		d.getElementsByTagName("head")[0].appendChild(s).src = src;
+		
+		s.onload = s.onreadystatechange = function(){ s.readyState ? s.readyState.toLowerCase() == 'loaded'  : '' };
+	
+}
+
+jQuery(document).ready(function(){
+		mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsup_ads_call_back&site;=sina&ybbsgid;=astroclub");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsmid_ads_call_back&site;=sina&ybbsgid;=astroclub");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsdown_ads_call_back&site;=sina&ybbsgid;=astroclub");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsfirstfloor_ads_call_back&site;=sina&ybbsgid;=astroclub");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbssecondfloor_ads_call_back&site;=sina&ybbsgid;=astroclub");
+			mygetscript("http://dcads.sina.com.cn/html.ng/pos=ybbsthirdfloor_ads_call_back&site;=sina&ybbsgid;=astroclub");
+	});
+</script>
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" charset="utf-8" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+<!-- SUDA_CODE_END -->
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://sina.wrating.com/a1.js"></script>
+<script type="text/javascript">
+		try{
+		var vjAcc="860010-0321030000"; 
+		var wrUrl="http://sina.wrating.com/";
+		vjTrack("");
+		}catch(e){};
+		</script>
+<noscript><img src="http://sina.wrating.com/a.gif?a=&amp;c=860010-0321030000" width="1" height="1" /></noscript>
+<!-- END WRating v1.0 -->
+</body>
+</html>

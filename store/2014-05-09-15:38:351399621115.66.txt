@@ -1,0 +1,1878 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://pic2.58.com/back/favicon.ico" />
+<title>发布香港二手手机信息-香港58同城</title>
+<script type="text/javascript"> 
+var userid = '0'; 
+try { var ____json4fe = { catentry: [{ oid:'5', dispid: '5', name: '二手市场', listname: 'sale' }, { oid:'36', dispid: '36', name: '二手手机', listname: 'shouji' }, { dispid: '', name: '', listname: 'post5'}], locallist: { dispid: '2050', name: '香港', listname: 'hk' }, modules: 'postpage', ext: { uploadurl:'/flashupload/',locallist: { 'current':{ dispid: '2050', name: '香港', listname: 'hk' } , 'area':{dispid: '0', name: '', listname: ''}}} }} catch (e) { }; 
+</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/1.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://pic2.58.com/fuwenben/editor_config.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://pic2.58.com/fuwenben/editor_all.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_postpage_version.js"> </script>
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/base.css?version=20120821" media="all" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/prompt.css?version=20120821" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/post/postpublic.css?version=20120821" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/post/post-ui7.css?version=20120925" media="all" />
+<script type="text/javascript" src="http://static.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<script src="http://static.58.com/js/5_1/91/19h.js" type="text/javascript"></script>
+<script src="http://static.58.com/js/5_1/91/35es.js" type="text/javascript"></script>
+<script type="text/javascript"> document.domain = "58.com";  var postpic_version = 'java';</script>
+<script type="text/javascript"> var myInfo = { infoID:'0', userid:0, loginstate:'', cityid:2050, dispCityid:2050, curDiscateid:36, rootCateName:'sale', currentCateName:'shouji', TopRoleMaxCount:0, CurrentPostCount:0, viewdata:{ baohushouji:''} };</script>
+<script type="text/javascript"> 
+var iqas_mcvalue = '1399621093188';var iqas_mcformula = 'function a(){var b="11096989445341399995894610";var c="";for(var d=0;d&lt;b.length;d++){if(b.charAt(d)==9) c+="0"; else c+=(parseInt(b.charAt(d))+1);}return "1"+c};try{a();}catch(e){}';$(function(){$("&lt;input name='iqas_mcresult' value='"+eval(iqas_mcformula.replace('checkValue', iqas_mcvalue))+"' / style='display:none'&gt;").appendTo($('#aspnetForm'));});
+</script></head>
+<body>
+<header id="header" style="height:58px">
+<h1 id="logo">
+<a href="http://www.58.com/" target="_blank"><img src="http://pic2.58.com/ui7/img/logo.gif" title="58同城" alt="58同城" />
+</a>
+</h1>
+<h2 class="sub_title"><b>香港</b>
+<a href="http://post.58.com/postindex.htm" class="changecity">切换城市</a>
+</h2>
+<div id="login"><a href="https://passport.58.com/login/?path=http%3A//post.58.com/" target="_self">登录</a>
+<span class="gap">|</span><a href="http://passport.58.com/reg/?city=post" target="_self">注册</a></div>
+</header>
+<section id="stepbar" class="step_n_2"><div class="step"> <ol class="cols3"><li class="step_1"><span class="num">1</span><span class="maintxt">二手手机</span><span class="subtxt">（<a href="/2050">重选类别</a>）</span><span class="l"></span><span class="r"></span></li><li class="step_2"><span class="num">2</span><span class="maintxt">填写详情</span><span class="subtxt"></span><span class="l"></span><span class="r"></span></li><li class="step_3"><span class="num">3</span><span class="maintxt">发布成功</span><span class="l"></span><span class="r"></span></li></ol> </div></section>
+<div class="content">
+<div id="toperro" class="hc"></div>
+<div name="mydear">
+<div class="dearUser clearfix">
+<p class="fl c_666">
+<span class="ml20">亲爱的</span><strong class="ml5 mr5"></strong>，
+    						您的信用值是<strong class="c_f50 ml5 mr5">0</strong>。今天在
+    						<strong> 二手手机</strong>
+    						你还可以发布 <b name="leftcount" class="c_f50"></b>
+    						条信息！
+    					</p>
+<p class="fr f12 pr20">
+    						无法发布？<a href="http://about.58.com/28.html#q">查看帮助</a>
+</p>
+</div>
+</div>
+</div>
+<style type="text/css">
+#upload_Tip{display:block; margin-bottom:15px;}
+</style>
+<form name="aspnetForm" method="post" target="formSubmit" id="aspnetForm" enctype="multipart/form-data">
+<input type="hidden" id="xingjiabifen" name="xingjiabifen" value="0" />
+<input type="hidden" id="jilizongfen" name="jilizongfen" value="0" />
+<div id="contentPost" class="mb15 pr">
+<div class="scoreShow">
+<div class="stimulate stim1" id="stimulate">
+<b id="jilifenshu">10</b>
+<div id="titleShow">
+<span class="shut"></span>
+<span class="decorate"></span>
+<div id="noneShow"></div>
+</div>
+</div>
+</div>
+<div class="tabShow">
+<table width="845" class="formTable">
+<col width="190" />
+<col width="*" />
+<tr>
+<th class="tr"><em class="red">*</em>发布人</th>
+<td><label for="" style="margin-right:8px;"><input type="radio" name="faburen" value="0" checked="checked" />个人转让</label><label for=""><input type="radio" name="faburen" value="1" />商家转让</label>
+</td>
+</tr>
+<tr para="type" style="display:none"></tr>
+<tr keyname="leibie" para="ObjectType" id="cates" class="obj-cate"></tr>
+<tr keyname="wupinzhuangkuang" para="wupinzhuangkuang"></tr>
+<tr id="frameTR" style="display:none;">
+<td></td>
+<td>
+<iframe id="frameID" src="http://www.58.com/sale_miaoshu/shouji.html" frameborder="0" name="detailFrame" style="border:2px solid #E2E2E2;" width="640" height="393" scrolling="no"></iframe>
+<input type="hidden" id="shoujipingmu" name="shoujipingmu" value="" />
+<input type="hidden" id="shoujijishen" name="shoujijishen" value="" />
+<input type="hidden" id="shoujigongneng" name="shoujigongneng" value="" />
+<input type="hidden" id="gongnengguzhang" name="gongnengguzhang" value="" />
+<input type="hidden" id="shoujidaiji" name="shoujidaiji" value="" />
+<input type="hidden" id="goumaishijian" name="goumaishijian" value="" />
+<input type="hidden" id="baoxiuqi" name="baoxiuqi" value="" />
+<input type="hidden" id="weixiushi" name="weixiushi" value="" />
+<input type="hidden" id="peijianfapiao" name="peijianfapiao" value="" />
+<input type="hidden" id="jiagexiuzheng" name="jiagexiuzheng" value="" />
+<input type="hidden" id="shoujizhuangkuang" name="shoujizhuangkuang" value="" />
+</td>
+</tr>
+<tr style="display:none;" id="newTR"></tr>
+<tr para="oldlevel" type="display:none;" class="obj-cate z149" keyname="xinjiu"></tr>
+<tr keyname="jiage">
+<th><em class="red">*</em><span id="tt_MinPrice">转让价格</span></th>
+<td><input class="txt w106" type="text" id="MinPrice" f="{0}元" name="MinPrice" value="" except="" maxlength="5" />
+                元 <span id="MinPrice_Tip"></span><br /><div class="tipBox post_price" id="_priceValueDIV"></div></td>
+</tr>
+<tr para="MinPriceqj"></tr>
+<!-- =S 上传图片 -->
+<tr id="picShowbuy">
+<th>物品照片</th>
+<td>
+<div id="showCon" class="photoguider" style="display:none">
+<iframe class="noshow" src="http://pic2.58.com/ui7/post/img/noshow_bg.jpg" width="100%" height="100%" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<span id="codeCon"></span><a href="javascript:void(0)" class="phone_guide_close">关闭</a>
+<span class="wuly_58down"><em>*</em>云相机功能需要58客户端V3.0以上版本，<a href="http://wap.58.com/wap.html" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'post', 'click', '/download/APclient/']);">点此获取</a></span>
+</div>
+<div id="uploadImgcontainer" class="clearfix pre-z imgbox90"></div>
+<div class="clearfix">
+<a class=" fl mr10 w_local" href="javascript:void(0)">
+<span id="flashContent"></span>
+<span style="z-index:10"><em></em>按住"Ctrl"可多选</span>
+</a>
+<a class=" fl mr10 w_phone" href="javascript:void(0)" onclick="MOBILEUP.init({showCode:$('#showCon'),codeCon:$('#codeCon'),rootcate:'2050', smallcate:'36', vcode:'', infoid:'0'}); _gaq.push(['pageTracker._trackEvent', 'post', 'click', '/upload/cloud/']); ">云相机拍照</a>
+<span class="fl f12 c_ccc mr10"><span id="hazupinfo">已上传图片<b class="green mlr2 upnum">0</b>/<b class="c_666 mlr2 maxnum">0</b>，</span><span class="es-pic-hint">图片中不能含有电话号码、QQ号等联系方式</span></span>
+</div>
+<div style="display:none;" id="imglist">
+<input type="hidden" id="pic" name="pic" value="" />
+<input type="hidden" id="pictag" name="pictag" value="" />
+<textarea id="picdesc1" name="picdesc1"></textarea>
+<textarea id="picdesc2" name="picdesc2"></textarea>
+<textarea id="picdesc3" name="picdesc3"></textarea>
+<textarea id="picdesc4" name="picdesc4"></textarea>
+<textarea id="picdesc5" name="picdesc5"></textarea>
+<textarea id="picdesc6" name="picdesc6"></textarea>
+<textarea id="picdesc7" name="picdesc7"></textarea>
+<textarea id="picdesc8" name="picdesc8"></textarea>
+<textarea id="picdesc9" name="picdesc9"></textarea>
+<textarea id="picdesc10" name="picdesc10"></textarea>
+<textarea id="picdesc11" name="picdesc11"></textarea>
+<textarea id="picdesc12" name="picdesc12"></textarea>
+<textarea id="picdesc13" name="picdesc13"></textarea>
+<textarea id="picdesc14" name="picdesc14"></textarea>
+<textarea id="picdesc15" name="picdesc15"></textarea>
+<textarea id="picdesc16" name="picdesc16"></textarea>
+<textarea id="picdesc17" name="picdesc17"></textarea>
+<textarea id="picdesc18" name="picdesc18"></textarea>
+<textarea id="picdesc19" name="picdesc19"></textarea>
+<textarea id="picdesc20" name="picdesc20"></textarea>
+<textarea id="picdesc21" name="picdesc21"></textarea>
+<textarea id="picdesc22" name="picdesc22"></textarea>
+<textarea id="picdesc23" name="picdesc23"></textarea>
+<textarea id="picdesc24" name="picdesc24"></textarea>
+</div><div class="images_upload_ex clearfix" style="display:none" id="uploadEx"><img src="http://pic2.58.com/ui7/post/img/image_upload_secondA.png" /></div>
+<span id="upload_Tip"></span>
+</td>
+</tr>
+<!-- =E 上传图片 -->
+<tr keyname="biaoti">
+<th class="pt18"><em class="red">*</em>标题</th>
+<td>
+<span class="mr5" id="showchengshe">[成色]</span><input type="text" name="Title" id="Title" value="" class="txt w415 c_666" except="" maxlength="50" />
+<span id="Title_Tip"></span>
+<div class="risk_tip"> <i class="arrow_up"></i>
+<p class="tit"> <i class="ico_tip"></i> <strong>标题怎么改不了了？</strong>
+</p>
+<p class="info">
+                		58同城为保障用户利益，抑制虚假信息，对于此分类，
+                		<span class="note">标题不可修改，</span>
+                		望理解！您可以在详细说明里面更好地描述物品。
+                	</p>
+</div>
+</td>
+</tr>
+<!--
+        &lt;tr keyName="xingqing"&gt;
+    		&lt;th&gt;&lt;em class="red"&gt;*&lt;/em&gt;详细说明&lt;/th&gt;
+			&lt;td class="bcsmComt"&gt;
+    		 &lt;div id="div_htmleditor"&gt;&lt;/div&gt;
+			  &lt;textarea name="Content" id="Content" style="width: 250px; height: 40px;" onclick="removeTip()"&gt;描述下转让原因、物品来源、可否议价、如何交易、物品亮点/瑕疵等方面。&lt;/textarea&gt;
+			  &lt;span id="Content_Tip"&gt;&lt;/span&gt;&lt;div id="divContentValue" style="display:none;"&gt;&lt;/div&gt;
+			&lt;/td&gt;
+    	&lt;/tr&gt;
+		-->
+<tr keyname="xingqing">
+<th><em class="red">*</em>详细说明</th>
+<td>
+<script id="editor" type="text/plain"></script>
+<div style="width:1px; height:1px; overflow:hidden">
+<textarea id="Content" name="Content" style="width:0px; height:0px;"></textarea></div>
+<span id="Content_Tip"></span><div id="divContentValue" style="display:none;"></div>
+</td>
+</tr>
+<script type="text/javascript">
+            var editNew, editorCfg;
+            $(function(){
+            	editorCfg={
+            		id:"editor",
+            		"defaultTxt":'&lt;span style="color: gray"&gt;描述下转让原因、物品来源、可否议价、如何交易、物品亮点/瑕疵等方面。&lt;/span&gt;',
+            		"defaultTxtWithoutStyle":'描述下转让原因、物品来源、可否议价、如何交易、物品亮点/瑕疵等方面。',
+            		"autoHeight":true,
+            		"width":530,
+            		"height":215,
+            		"focusHeight":400,
+            		"maxWordsLen":5000,
+            		 "theme": "ershou",
+                     "toolbars": [["Bold", "underline", "Undo", "Redo"]]
+            		
+            	};
+            	editNew=getUEEDitor(editorCfg);
+            	if($("#Content").val()!=""){
+            		editNew.setContent($("#Content").val());
+            	}
+				editNew.onfocus(function() {
+                      $.formValidator.setTipState(null, '', '10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除', 'Content_Tip');
+                });
+            	editNew.onblur( function(){
+            			//blur后的处理
+            			if(editNew.getContentTxt()=="" || editNew.getContentTxt()==editorCfg.defaultTxtWithoutStyle){
+            				$.formValidator.setTipState(null, "onError", '补充说明不能为空。', 'Content_Tip');
+            			}else if(editNew.getText().length &lt; 10){
+            				$.formValidator.setTipState(null, "onError", '补充说明字数不能少于10字。', 'Content_Tip');
+            			}else if(editNew.getText().length &gt; 2000){
+            				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+            			}else if(editNew.getContent().length &gt; 50000){
+            				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+            			}else{
+            				$.formValidator.setTipState(null, "onCorrect", " ", 'Content_Tip');
+            				$("#Content").val(editNew.getContent());
+            			}
+						
+						var textLen = editNew.getText().length;
+
+                        if ($("#Title").val() != "") {
+                            $("#Title").trigger('change');
+                        }
+                        //详情描述加分项判断
+                        if (textLen &lt;= 60) {
+                            $("#noneShow").html('&lt;div class="zongFen"&gt;&lt;h6&gt;&lt;span&gt;描述写的太简单啦！&lt;/span&gt;&lt;/h6&gt;&lt;p&gt;买家不了解，怎么会联系你？再多写点吧，如：物品来源、购买时间、转让原因…&lt;/p&gt;&lt;/div&gt;');
+                            $("#titleShow").css("display", "block");
+                            $.cmcs.grade("textId", 0);
+                        } else if (textLen &gt; 59 &amp;&amp; textLen &lt; 141) {
+                            $("#noneShow").html('&lt;div class="zongFen"&gt;&lt;h6&gt;&lt;span&gt;描述还不够丰富哦！&lt;/span&gt;&lt;/h6&gt;&lt;p&gt;想获得更多的买家关注吗？再多写点吧，如：物品有无磕碰、如何交易…&lt;/p&gt;&lt;/div&gt;');
+                            $("#titleShow").css("display", "block");
+                            $.cmcs.grade("textId", 5);
+                        } else if (textLen &gt; 140) {
+                            $.cmcs.grade("textId", 10);
+                        }
+						$.cmcs.grade("xingqing",10);
+            		}
+            	)
+            })
+		
+		</script>
+<tr>
+<th class="pt18">所在区域</th>
+<td><input type="button" style="display:none" id="hiddenBtnArea" onclick="getCityAreaID();" />
+<select id="localArea" name="localArea" class="defaultSelt c_666">
+<option value="">--区域--</option>
+<option value="2153">九龙城</option>
+<option value="2151">中西</option>
+<option value="2152">东区</option>
+<option value="2154">观塘</option>
+<option value="2161">湾仔</option>
+<option value="2174">沙田</option>
+<option value="2176">屯门</option>
+<option value="2183">荃湾</option>
+<option value="2160">黄大仙</option>
+<option value="2166">离岛</option>
+<option value="5602">其它</option>
+</select>&nbsp;
+                        <select id="localDiduan" name="localDiduan" class="defaultSelt c_666">
+<option value="">--商圈--</option>
+</select>
+<select id="selectDiduanHidden" style="display: none;">
+<option id="5602_2155" value="2155">南区</option>
+<option id="5602_2159" value="2159">深水埗</option>
+<option id="5602_2162" value="2162">元朗</option>
+<option id="5602_2171" value="2171">葵青</option>
+<option id="5602_2172" value="2172">北区</option>
+<option id="5602_2173" value="2173">西贡</option>
+<option id="5602_2180" value="2180">大埔</option>
+<option id="5602_5609" value="5609">其它</option>
+</select>
+</td></tr>
+<tr>
+<th class="pt18"><em class="red">*</em>联系人</th>
+<td>
+<input type="text" class="txt w106 c_999" name="goblianxiren" id="goblianxiren" value="姓名" except="" maxlength="6" onfocus="if(this.value.replace(/^\s+|\s+$/g,'') == '姓名') this.value=''" onblur="if(this.value.replace(/^\s+|\s+$/g,'') == '') this.value='姓名'" />
+<input id="IsBiz" class="base" type="checkbox" value="1" name="IsBiz" style="display:none;" />
+<span id="goblianxiren_Tip"></span>
+</td>
+</tr>
+<tr>
+<th><em class="red">*</em>联系电话</th>
+<td>
+<input class="txt w146 c_999" type="text" id="Phone" name="Phone" value="手机号" except="" onfocus="if(this.value.replace(/^\s+|\s+$/g,'') == '手机号') this.value=''" onblur="if(this.value.replace(/^\s+|\s+$/g,'') == '') this.value='手机号'" />
+<span id="Phone_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+</td>
+<td>
+<input type="submit" id="fabu" class="post_submit1" value="确认" ct="submit" />
+</td>
+</tr>
+</table>
+</div><div class="hr_s"></div>
+</div>
+
+</form>
+<script>
+var Tiemr = null;
+$(function ()
+{
+	$(window).scroll(function (){
+		var l = $(document).scrollTop() + 40;
+		var obj = document.getElementById("stimulate");
+		clearInterval(Tiemr);
+		Tiemr = setInterval(function ()
+		{
+			var iSpeed = (l - obj.offsetTop)/8;
+			iSpeed = iSpeed&gt;1?Math.ceil(iSpeed):Math.floor(iSpeed);
+			if(l == obj.offsetTop)
+			{
+				clearInterval(Tiemr);
+			}
+			else
+			{
+				obj.style.top = obj.offsetTop + iSpeed + "px";
+			}
+		},30);			 
+	});
+	$("input,textarea,#titleShow .shut").click(function ()
+	{
+		$("#titleShow").css("display","none");
+	});
+});
+</script>
+<script type="text/javascript">
+var _hEditor = { he:{getValue:function(){return editNew.getContent()}}, empty_msg:'请填写补充说明', tipid:'Content_Tip', focus_msg:'10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除', reg:"^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", err_msg: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" };
+$(document).ready(
+    function(){
+        $('#Content').removeAttr('style').attr('maxlength', '2000').attr('class', 'textarea2');
+        $('#Content').val($.c.common.stripHtml($('#Content').val()));
+    	var temp={};
+    	temp.getValue=function(){
+    		return $('#Content').val();
+    	}
+    	_hEditor.he=temp;
+    	if(myInfo.infoID!= 0){
+    		$("#Content").css("color","#666666");
+    	}
+    }
+);
+</script>
+<script type="text/javascript">
+    // 提取关键字
+    boot.require('event, business.smart_post', function(Frame, EVENT, smart) {
+        _getKeyword_sm = new smart({ el: 'Title', config: [{ el: 'oldlevel', type: '成色' }, { el: 'MinPrice', type: '价格', cb: function(sender, val) {
+            sender.value = val;
+            $(sender).trigger('blur');
+        } }]
+        });
+        _getKeyword_sm.types['成色'] = '(请选择)|(全新)|((?:99|9.9|九九)(?:成|新))|((?:95|9.5|九五)(?:成|新))|((?:9|九)(?:成|新))|((?:8|八)(?:成|新))|((?:7|七)(?:成|新))|((?:6|六)(?:成|新))';
+        EVENT.on('Title', 'blur', function() {
+            _getKeyword_sm.fill();
+        });
+    });
+ 
+</script>
+<script type="text/javascript">
+
+//型号字段验证调用
+$.cmcs.childrenCreatedEvent = {
+    'xinghao': function(){ checkXinghao();},
+    'jishenyanse': function(){ jinshenyanse_created();},
+    'shoujineicun':function(){ shoujineicun_cteated();},
+    'shoujibanben':function(){ shoujibanben_cteated();}
+};
+
+
+
+
+// cmcs 初始化
+$.cmcs.rootPara = [{"type":2, "name":"供需", "nameid":1228, "pname":"type", "rnum":2, "len":1, "dv":"0", "na":0, "value":[{"i":"346","v":"0","t":"转让","a":"","c":"1228", "p":"0" },{"i":"347","v":"1","t":"求购","a":"","c":"1228", "p":"0" }], "regs":[{"r":"^[\s\S]+$",e:"请选择供需"}]},{"type":1, "name":"类别", "nameid":1229, "pname":"ObjectType", "rnum":20, "len":1, "dv":"", "na":0, "value":[{"i":"242745","v":"11","t":"苹果","a":"iphone|iphone手机|Apple","c":"0", "p":"1" },{"i":"351","v":"3","t":"三星","a":"anycall|sanxing|Samsung","c":"0", "p":"1" },{"i":"671793","v":"503156","t":"小米","a":"","c":"0", "p":"1" },{"i":"242047","v":"9","t":"HTC","a":"","c":"0", "p":"1" },{"i":"348","v":"0","t":"诺基亚","a":"nokia","c":"0", "p":"1" },{"i":"350","v":"2","t":"索尼","a":"sonyericsson|索爱|Sony Ericsson","c":"0", "p":"1" },{"i":"216788","v":"6","t":"手机配件","a":"","c":"0", "p":"0" },{"i":"613752","v":"491246","t":"中兴","a":"zhongxing|zte","c":"0", "p":"1" },{"i":"246594","v":"398630","t":"LG","a":"","c":"0", "p":"1" },{"i":"620539","v":"492749","t":"天语","a":"tianyu","c":"0", "p":"1" },{"i":"246596","v":"398632","t":"酷派","a":"kupai|coolpad","c":"0", "p":"1" },{"i":"246595","v":"398631","t":"华为","a":"","c":"0", "p":"1" },{"i":"243144","v":"300000","t":"联想","a":"lianxiang|LIANXIANG|lenovo","c":"0", "p":"1" },{"i":"349","v":"1","t":"摩托罗拉","a":"motuoluola|moto","c":"0", "p":"1" },{"i":"246593","v":"398629","t":"黑莓","a":"heimei|blackberry","c":"0", "p":"1" },{"i":"297698","v":"408267","t":"金立","a":"","c":"0", "p":"1" },{"i":"618575","v":"492341","t":"魅族","a":"meizu","c":"0", "p":"1" },{"i":"623706","v":"493397","t":"夏普","a":"xiapu|Sharp","c":"0", "p":"1" },{"i":"727922","v":"511429","t":"多普达","a":"duopuda|dpd|dopod","c":"0", "p":"1" },{"i":"242737","v":"10","t":"其他品牌","a":"其他手机","c":"0", "p":"0" }], "regs":[{"r":"^\d{1,9}$",e:"参数错误"}]},{"type":1, "name":"价格", "nameid":5537, "pname":"MinPriceqj", "rnum":7, "len":18, "dv":"", "na":1, "value":[{"i":"243156","v":"0_100","t":"100元以下","a":"","c":"1231", "p":"0" },{"i":"243157","v":"101_200","t":"100-200元","a":"","c":"1231", "p":"0" },{"i":"243158","v":"201_500","t":"200-500元","a":"","c":"1231", "p":"0" },{"i":"243159","v":"501_1000","t":"500-1000元","a":"","c":"1231", "p":"0" },{"i":"243160","v":"1001_2000","t":"1000-2000元","a":"","c":"1231", "p":"0" },{"i":"243161","v":"2001_3500","t":"2000-3500元","a":"","c":"1231", "p":"0" },{"i":"243162","v":"3501_999999","t":"3500元以上","a":"","c":"1231", "p":"0" }], "regs":[]},{"type":1, "name":"新旧", "nameid":1230, "pname":"oldlevel", "rnum":5, "len":1, "dv":"", "na":0, "value":[{"i":"242108","v":"7","t":"全新","a":"","c":"1230", "p":"0" },{"i":"356","v":"2","t":"95成新","a":"","c":"1230", "p":"0" },{"i":"357","v":"3","t":"9成新","a":"","c":"1230", "p":"0" },{"i":"358","v":"4","t":"8成新","a":"","c":"1230", "p":"0" },{"i":"359","v":"5","t":"7成新及以下","a":"","c":"1230", "p":"0" }], "regs":[{"r":"^\d{1,2}$",e:"参数错误"}]},{"type":4, "name":"价格", "nameid":1231, "pname":"MinPrice", "rnum":7, "len":5, "dv":"", "na":0, "value":[{"i":"214137","v":"0_100","t":"100元以下","a":"","c":"0", "p":"0" },{"i":"214138","v":"100_200","t":"100-200元","a":"","c":"0", "p":"0" },{"i":"214139","v":"200_500","t":"200-500元","a":"","c":"0", "p":"0" },{"i":"214140","v":"500_1000","t":"500-1000元","a":"","c":"0", "p":"0" },{"i":"214142","v":"1000_2000","t":"1000-2000元","a":"","c":"0", "p":"0" },{"i":"214143","v":"2000_3500","t":"2000-3500元","a":"","c":"0", "p":"0" },{"i":"214144","v":"3500_9999999","t":"3500元以上","a":"","c":"0", "p":"0" }], "regs":[{"r":"^\S+$",e:"请正确填写价格"},{"r":"^[1-9]\d{0,4}$",e:"价格为整数，且不能为0"}]},{"type":2, "name":"物品状况", "nameid":6660, "pname":"wupinzhuangkuang", "rnum":2, "len":100, "dv":"", "na":0, "value":[{"i":"728308","v":"511710","t":"使用过","a":"","c":"0", "p":"1" },{"i":"728309","v":"511711","t":"全新未拆封","a":"","c":"0", "p":"1" }], "regs":[]},{"type":3, "name":"物品状况", "nameid":6681, "pname":"shoujizhuangkuang", "rnum":4, "len":100, "dv":"", "na":0, "value":[{"i":"728391","v":"511789","t":"正品发票","a":"","c":"0", "p":"0" },{"i":"728392","v":"511790","t":"保修期内","a":"","c":"0", "p":"0" },{"i":"728393","v":"511791","t":"主配齐全","a":"","c":"0", "p":"0" },{"i":"728394","v":"511792","t":"无拆无修","a":"","c":"6681", "p":"0" }], "regs":[]},{"type":1, "name":"保障服务", "nameid":6921, "pname":"shoujibaozhang", "rnum":2, "len":100, "dv":"", "na":0, "value":[{"i":"841792","v":"522104","t":"担保支付","a":"","c":"0", "p":"0" },{"i":"841793","v":"522105","t":"同城快递","a":"","c":"0", "p":"0" }], "regs":[]}];
+$.cmcs.infoPara = [];
+$(document).ready($.cmcs.initAutoTR);
+$(function() {
+    // TODO: by yjc 
+    var GLOBAL = {};
+    GLOBAL.fn = {};
+
+    GLOBAL.fn.lockTilte = function() {
+        $('#Title_Tip').removeClass().empty();
+        $('#Title').attr('readonly', 'readonly')
+            .addClass('tit-dis')
+            .unbind()
+            .bind('click', function() {
+                var offset = $(this).offset();
+
+                $('.risk_tip').css({
+                    'left': offset.left - $('#contentPost').offset().left,
+                    'top': offset.top - $('#contentPost').offset().top + 36
+                }).show();
+				
+				// 点击title提示得分tips add by yjc
+                $.cmcs.picTitel();
+
+            })
+			.bind('change', function() {
+              $.cmcs.grade('biaoti', 10);
+            })
+            .bind('mouseout', function() {
+                $('.risk_tip').hide();
+            });
+    };
+
+    GLOBAL.fn.titleValidate = function() {
+		$("#Title").formValidator({ tipid: "Title_Tip",onfocus: "6-50个字，不能填写电话和特殊符号&lt;br /&gt;标题将被展示在详情页和列表页最醒目的位置", q2b: true, 'defaultvalue':''}).inputValidator({ onerror: "请输入标题" }).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{6,}$#^(.){6,50}$", onerror: "请输入标题#标题不足6个字#标题多于50个字，不能填写电话和特殊符号！" }).functionValidator({
+            fun: function(val, elem) {
+                return $.formValidator.checkTitle(val);
+            },
+            onerror: "标题太过简单"
+        });
+		
+    };
+    window.GLOBAL = GLOBAL;
+});
+
+$(document).ready(function(){
+	// TODO: 标题被锁定后，当若标题不足6个字，则补充“ 转让”
+    $('#fabu').bind('click', function() {
+        //$("#MinPrice").focus();
+        var titleEL = $('#Title');
+        var title = titleEL.val();
+        var type = $('#ObjectType').val();
+        if ((type === '11' || type === '503156') &amp;&amp; $.trim(title).replace(' ', '').length &lt; 6) {
+            titleEL.val(title + ' 转让');
+        }
+    });
+    $('#fabu').bind('click', $.cmcs.fabu_click);
+    
+        $("#ObjectType").change(function(){
+	        	if($("#ObjectType").val() == 6){
+	        		$("input:radio[name=wupinzhuangkuang]").attr("checked",false);
+	        	    $('tr[para="oldlevel"]').show();$('#oldlevel').siblings('p').show();
+	        	    
+                    $('#oldlevel').removeAttr('disabled');
+	        		$('tr[para="wupinzhuangkuang"]').hide();
+	                $('#frameTR').hide();
+	                $('#newTR').hide();
+	                $('#showchengshe').html('[成色]'); 
+	        	}else{
+	    			if($('#rdo_wupinzhuangkuang_0').attr('checked')){
+	       				$('#frameTR').show();
+	       			}else{
+	       			  $('#frameTR').hide();
+	       			}
+	   
+	    			if($('#rdo_wupinzhuangkuang_1').attr('checked')){
+	       				$('#newTR').show();
+	       			}else{
+	       			   $('#newTR').hide();
+	       			}
+	        	}
+	        	
+        	    $("#PictureUpload").parent().parent().show();
+	            $('#uploadEx').show();
+        	   $('tr[para="wupinzhuangkuang"]').show();
+        	   $('#showchengshe').show();
+        	   $('#picShowbuy').show();
+        	   if($('#rdo_wupinzhuangkuang_0').attr('checked')){
+	       				$('#frameTR').show();
+       			}else{
+       			  $('#frameTR').hide();
+       			}
+   
+    			if($('#rdo_wupinzhuangkuang_1').attr('checked')){
+       				$('#newTR').show();
+       			}else{
+       			   $('#newTR').hide();
+       			}
+				// TODO: 当选中iphone及小米时，标题不能修改
+                // iphone: 11, 小米：503156
+                var objType = $("#ObjectType").val();
+                
+                if (objType === '11' || objType === '503156') {
+                    GLOBAL.fn.lockTilte();
+                } else {
+                    $('#Title').attr('readonly', '')
+                        .removeClass('tit-dis')
+                        .unbind()
+						.bind('change', function() {
+                          $.cmcs.grade('biaoti',10)
+                        })
+						.bind('click', function() {
+                          	$.cmcs.picTitel();
+                        });
+						
+                    // 恢复绑定
+                    GLOBAL.fn.titleValidate();
+                }
+
+        });
+        if(myInfo.infoID != 0){// 修改
+        	//转让手机配件修改页面隐藏物品状况以及相关参数
+        	if($("#ObjectType").val() == 6){//  手机配件的时候
+        		$("input:radio[name=wupinzhuangkuang]").attr("checked",false);
+        		$('tr[para="wupinzhuangkuang"]').hide();
+                $('#frameTR').hide();
+                $('#newTR').hide();
+                $('tr[para="oldlevel"]').show();$('#oldlevel').siblings('p').show();
+                
+        	}
+    		if($('#rdo_wupinzhuangkuang_0').attr('checked')){
+					function setInfo(){
+    					var frameInfo ={info:{}}
+    					if($.cmcs.getValueByParaID(6671)){
+    						frameInfo.info.shoujipingmu=$.cmcs.getValueByParaID(6671);
+    					}
+    					if($.cmcs.getValueByParaID(6672)){
+    						frameInfo.info.shoujijishen = $.cmcs.getValueByParaID(6672);
+    					}
+    					if($.cmcs.getValueByParaID(6673)){
+    						frameInfo.info.shoujigongneng = $.cmcs.getValueByParaID(6673);
+    					}
+    					if($.cmcs.getValueByParaID(6680)){
+    						frameInfo.info.gongnengguzhang = "|"+$.cmcs.getValueByParaID(6680)+"|"
+    					}
+    					if($.cmcs.getValueByParaID(6674)){
+    						frameInfo.info.shoujidaiji = $.cmcs.getValueByParaID(6674);
+    					}
+    					if($.cmcs.getValueByParaID(6675)){
+    						frameInfo.info.goumaishijian = $.cmcs.getValueByParaID(6675);
+    					}
+    					if($.cmcs.getValueByParaID(6676)){
+    						frameInfo.info.baoxiuqi = $.cmcs.getValueByParaID(6676);
+    					}
+    					if($.cmcs.getValueByParaID(6677)){
+    						frameInfo.info.weixiushi = $.cmcs.getValueByParaID(6677);
+    					}
+    					if($.cmcs.getValueByParaID(6678)){
+    						frameInfo.info.peijianfapiao = "|"+$.cmcs.getValueByParaID(6678)+"|";
+    					}
+    					if($.cmcs.getValueByParaID(1230)){
+    						frameInfo.chengshe = $.cmcs.getValueByParaID(1230);
+    					}
+    					if($.cmcs.getValueByParaID(6682)){
+    						frameInfo.score = $.cmcs.getValueByParaID(6682);
+    					}
+    					var chengshe = $.cmcs.getValueByParaID(1230);
+			            var quality="成色";
+			          if(chengshe == 2){
+							quality = "95成新";
+						}else if(chengshe == 3){
+							quality = "9成新";
+						}else if(chengshe == 4){
+							quality = "8成新";
+						}else if(chengshe == 5){
+							quality = "7成新及以下";
+						}
+				   $('#showchengshe').html('['+quality+']'); 
+    					
+    					//console.info(frameInfo);
+    					window.frames["detailFrame"].initParas(frameInfo);
+    				}
+    				$('#frameID').load(setInfo);
+    				$('#frameTR').show();
+					if($.cmcs.getValueByParaID(6673)=='511755'){//有点故障
+						//document.getElementById("frameID").style.height = 620+'px';
+						initHeight(7);
+					}
+    				try{setInfo()}catch(e){}
+    		
+    		}else if($('#rdo_wupinzhuangkuang_1').attr('checked')){ //增加判断解决求购修改时切换至转让时候自动显示全新未拆封下级参数
+    			var viddata = $.cmcs.getParaItem('wupinzhuangkuang').value[1].v;
+    			var keyValue = $.cmcs.getParaItem('wupinzhuangkuang').value[1].t;
+    			var url = "/ajax/?action=getchildrenpara&amp;cateid=" + 36 +"&amp;cityid="+ 2050+"&amp;nameid=6660&amp;vid=" + $.cmcs.getParaItem('wupinzhuangkuang').value[1].i +"&amp;key=" + encodeURIComponent($.cmcs.getParaItem('wupinzhuangkuang').value[1].t);
+    			if($("#newTR&gt;td").length == 0){
+    				$.ajax({
+    					type:'post',
+    					url:url,
+    					dataType:'json',
+    					success: function(data){
+    						if(data[0] &amp;&amp; data[0].value ){
+    							 var quanxinmiaoshuStr = '&lt;td&gt;&lt;/td&gt;&lt;td&gt;';
+    							for(var i = 0; i &lt; data[0].value.length; i++){
+    								quanxinmiaoshuStr+='&lt;input type="checkbox" name="quanxinmiaoshu" value="' + data[0].value[i].v + '" id="quanxinmiaoshu_' + data[0].value[i].v + '"&gt;&lt;span class="mr20 f12 fn"&gt;' + data[0].value[i].t + '&lt;/span&gt;';
+    							}
+    							quanxinmiaoshuStr += '&lt;/td&gt;';
+
+    							$("#newTR").html(quanxinmiaoshuStr);
+    							//修改时给checkbox赋值
+    			    			var quanxinmiaoshuValue = $.cmcs.getValueByParaID(6679);
+    			    			var quanxinmiaoshuValueStr = quanxinmiaoshuValue.substring(0);
+    			    			$("input:checkbox[name=quanxinmiaoshu]").attr("checked",false);
+    			    			if(quanxinmiaoshuValueStr.indexOf("|") != -1){
+    			    				
+    			    				var arr=quanxinmiaoshuValueStr.split("|");
+    			    				for(var i=0,len=arr.length;i&lt;len&gt;</script>
+<script type="text/javascript" desc="新版图片上传接入">
+$(document).ready(function(){
+
+    UpImageShowBar.initBar({
+    //   labels:["选择类型","二手手机"],
+       hazDetail:false,
+       container:"uploadImgcontainer",
+       imgMax:24,
+       images:getPicValueForUpdate()
+    });
+   
+   
+   
+});
+
+// 接收图片控件的值
+function getPicValueForPost() {
+    var pic = [];
+    var tag = [];
+    var desc = [];
+    var data = UpImageShowBar.getImgs();
+    if(data != null &amp;&amp; data.length &gt; 0) {
+        $(data).each(function(i, n){
+            // 标签
+            var _tag = n.label;
+            if(_tag == null) _tag = '';
+            tag.push(_tag);
+
+            // 图片路径
+            var _url = n.url;
+            _url = _url.replace('http://pic.58.com', '').replace('/tiny/', '/big/');
+            pic.push(_url);
+            desc.push(n.detail);
+            // 描述
+        });
+    }
+    return { "pic" : pic, "tag" : tag, "desc" : desc };
+}
+
+// 图片元素赋值
+function setPicValueForPost() {
+    var data = getPicValueForPost();
+    $.bll.xiaobao.create('pic', data.pic.join('|'));
+    $.bll.xiaobao.create('pictag', data.tag.join('|'));
+    $(data.desc).each(function(i,n){
+        var id = 'picdesc' + (++i);
+        $.bll.xiaobao.create(id, n);
+    });
+}
+
+// 获取图片数据用于修改时还原
+function getPicValueForUpdate() {
+    var data = [];
+    if($('#pic').val().length &gt; 10) {
+        var pic = $('#pic').val().split('|');
+        var tag = $('#pictag').val().split('|');
+        var desc = [];
+
+        $(pic).each(function(i, n){
+            var _tag = '';
+            if(i &lt;= tag.length - 1) _tag = tag[i];
+            data.push({'url': 'http://pic.58.com' + n, 'label':_tag, detail: $('#picdesc' + (i+1)).val()});
+        });
+    }
+
+    return data;
+    //{url:"http://pic.58.com/p1/tiny/n_19187650139921.jpg",label:"厨房",detail:"zzzz"}
+}
+
+$().ready(function(){
+    $("#fabu").click(setPicValueForPost);
+});
+</script>
+<script type="text/javascript" desc="图片上传">
+    // 根据条件自动隐现图片上传区域
+    function redrawUploader() {
+                $("#PictureUpload").parent().parent().show();
+	            $('#uploadEx').show();
+                $('#picShowbuy').show();
+                if($("#ObjectType").val() != 6){
+	                $('tr[para="wupinzhuangkuang"]').show();
+	   				if($('#rdo_wupinzhuangkuang_0').attr('checked')){
+	   					$('#frameTR').show();
+	   				}else{
+	   				  $('#frameTR').hide();
+	   				}
+	               if($('#rdo_wupinzhuangkuang_1').attr('checked')){
+	   					$('#newTR').show();
+	   				}else{
+	   				  $('#newTR').hide();
+	   				}
+                }else
+                {
+                  $('tr[para="oldlevel"]').show();$('#oldlevel').siblings('p').show();
+                  $('#oldlevel').removeAttr('disabled');
+                }
+                
+                $('#tt_MinPrice').html('转让价格');
+                $('#showchengshe').show();
+    }
+    // 个人商家
+    function showpersion()
+    {
+    var faburen = $.c.common.getRadioIndex('faburen');
+     switch(faburen) {
+     case 0:
+           $("input:checkbox[name=IsBiz]").attr("checked",false);
+           $('#cbx_yinsi').parent().show();
+           $('#loadDivert_tip').show();
+           if($('#cbx_yinsi').attr('checked')){
+             $('#panel_yinsi').show();
+           }else{
+             $('#panel_yinsi').hide();
+           }
+            break;
+     case 1:
+           $("input:checkbox[name=IsBiz]").attr("checked",true);
+           $('#cbx_yinsi').parent().hide();
+           $('#loadDivert_tip').hide();
+           $('#panel_yinsi').hide();
+            break;
+      }
+    }
+
+    // 图片上传
+    $.c.Uploader.init(redrawUploader);
+    $(document).ready(function() {
+        $(':radio[name="type"]').click(redrawUploader);
+        $(':radio[name="faburen"]').click(showpersion);
+        
+    });
+</script>
+<script type="text/javascript">
+
+function showWpDes(){
+	var WPindex = $.c.common.getRadioIndex('wupinzhuangkuang');
+	switch(WPindex){
+		case 0:
+			$("#wupinzhuangkuang_Tip").hide();
+			if(window.frames["detailFrame"] &amp;&amp; window.frames["detailFrame"].chsSet == undefined){
+				if($.browser.msie){
+				}else{
+				}
+				$('#frameID').load(function (){
+					window.frames["detailFrame"].initParas(frameInfo);
+				});
+			}
+			
+			$("#frameTR").show();
+			$("#newTR").empty();
+			$("#newTR").hide();
+			break;
+		case 1:
+			$("#wupinzhuangkuang_Tip").hide();
+			var viddata = $.cmcs.getParaItem('wupinzhuangkuang').value[1].v;
+			var keyValue = $.cmcs.getParaItem('wupinzhuangkuang').value[1].t;
+			var url = "/ajax/?action=getchildrenpara&amp;cateid=" + 36 +"&amp;cityid="+ 2050+"&amp;nameid=6660&amp;vid=" + $.cmcs.getParaItem('wupinzhuangkuang').value[1].i +"&amp;key=" + encodeURIComponent($.cmcs.getParaItem('wupinzhuangkuang').value[1].t);
+			if($("#newTR&gt;td").length == 0){
+				$.ajax({
+					type:'post',
+					url:url,
+					dataType:'json',
+					success: function(data){
+						if(data[0] &amp;&amp; data[0].value ){
+							 var quanxinmiaoshuStr = '&lt;td&gt;&lt;/td&gt;&lt;td&gt;';
+							for(var i = 0; i &lt; data[0].value.length; i++){
+								quanxinmiaoshuStr+='&lt;input type="checkbox" name="quanxinmiaoshu" value="' + data[0].value[i].v + '" id="quanxinmiaoshu_' + data[0].value[i].v + '"&gt;&lt;span class="f12 mr20 fn"&gt;' + data[0].value[i].t + '&lt;/span&gt;';
+							}
+							quanxinmiaoshuStr += '&lt;/td&gt;';
+
+							$("#newTR").html(quanxinmiaoshuStr);
+							
+						}
+					}
+				
+				});
+
+			}
+			$("#oldlevel").val(7);
+			$("#newTR").show();
+			$("#frameTR").hide();
+			$('#showchengshe').html('[全新]'); 
+			break;
+	}
+}
+$(document).ready(function() {
+    $(':radio[name="wupinzhuangkuang"]').click(showWpDes);
+});
+</script>
+<script type="text/javascript">
+	function isEmptyObject( obj ) {
+        for ( var name in obj ) {
+            return false;
+        }
+        return true;
+    }
+    // 刷新价格区间
+    $(document).ready(function() {
+        $('#MinPrice').blur(refrashPriceQj);
+        $('#MinPriceqj').hide();
+        $('#MinPriceqj').parent().parent().hide();
+    });
+    function refrashPriceQj() {
+        var price = $('#MinPrice').val();
+        var qj = $('#MinPriceqj');
+        if (qj.length == 0) return;
+        if (price == '' || isNaN(price)) {
+            qj.get(0).selectedIndex = 0;
+        } else {
+            $('#MinPriceqj option').each(function(i, n) {
+                var str = n.value;
+                if (!!str) {
+                    var arr = str.split('_');
+                    if (arr.length == 2) {
+                        var p1 = parseInt(arr[0]);
+                        var p2 = parseInt(arr[1]);
+                        var p = parseInt(price);
+                        if (p &gt;= p1 &amp;&amp; p &lt;= p2) {
+                            $(qj).val(str);
+                            return false;
+                        }
+                    }
+                }
+            });
+        }
+    }
+
+</script>
+<script type="text/javascript">
+var jiagecankao = -1;//是否进行过点击价格的处理  标识是否进行过价格参考的调取 -1未调取、0调取没有返回数据、1调取有返回数据
+var mincankaoprice = 0;
+var maxcankaoprice = 0;
+	$("#MinPrice").focus(function(){
+		var quality;
+		var qualityid;
+		var weight=0;
+		var title=setTitle();
+		var wupingzhuangkuangRadio= $('input:radio[name="wupinzhuangkuang"]:checked').val();
+		var qualityObj = document.getElementById("oldlevel");
+	    quality = qualityObj[qualityObj.selectedIndex].text;
+	   
+	   
+	    var tempflag=false;
+	    if($($('#ObjectType')[0].options[$('#ObjectType')[0].selectedIndex]).attr("vid")=="216788"){
+		
+		var qualityObj = document.getElementById("oldlevel");
+	           quality = qualityObj[qualityObj.selectedIndex].text;
+	           tempflag=true;
+		}
+		if(wupingzhuangkuangRadio == undefined  &amp;&amp; !tempflag){
+			var errortip = '&lt;span class="c2"&gt;&lt;span class="action_po"&gt;&lt;span class="action_po_top"&gt;物品状况参数未选择&lt;/span&gt;&lt;span class="action_po_bot"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;';
+			$("#wupinzhuangkuang_Tip").html(errortip).show();
+			return false;
+		}
+		
+		if($.c.common.getRadioIndex('wupinzhuangkuang') == 0){
+			if($('#rdo_wupinzhuangkuang_0').attr('checked')){
+				var wupinParam = window.frames["detailFrame"].getInfo();
+			
+		 		if(wupinParam.error != undefined){ //判断如果iframe里面有没有选中的情况，进行提示
+					var ad = '&lt;span class="c2"&gt;&lt;span class="action_po"&gt;&lt;span class="action_po_top"&gt;物品状况参数有'+wupinParam.error + '项未填写&lt;/span&gt;&lt;span class="action_po_bot"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;';
+					$("#wupinzhuangkuang_Tip").html(ad).show();
+					return false; 
+					
+				}else{
+					
+					$("#wupinzhuangkuang_Tip").hide();
+					$("#shoujipingmu").val(wupinParam.info.shoujipingmu);
+					$("#shoujijishen").val(wupinParam.info.shoujijishen);
+					$("#shoujigongneng").val(wupinParam.info.shoujigongneng);
+					$("#gongnengguzhang").val(wupinParam.info.gongnengguzhang);
+					$("#shoujidaiji").val(wupinParam.info.shoujidaiji);
+					$("#goumaishijian").val(wupinParam.info.goumaishijian);
+					$("#baoxiuqi").val(wupinParam.info.baoxiuqi);
+					$("#weixiushi").val(wupinParam.info.weixiushi);
+					$("#peijianfapiao").val(wupinParam.info.peijianfapiao);
+					
+					$("#oldlevel").val(wupinParam.chengshe);  //成色
+					qualityid=wupinParam.chengshe;
+					    var strcheck='';
+						var zhengpinfapiao='511789'; // 正品发票
+						var baoxiuqinei='511790';    //保修期内
+						var yuanzhuangzhupei='511791'; //原装主配
+						var wucaiwuxiu='511792'; //无拆无修
+						var peijianfapiao="|"+ wupinParam.info.peijianfapiao +"|";
+						if(peijianfapiao.toString().indexOf('|511770|')&gt;-1){// 使用过&gt;配件发票&gt;正品发票      正品发票
+						   strcheck=zhengpinfapiao; 
+						    title+='正品发票 ';
+						}
+					   
+						if(wupinParam.info.baoxiuqi.toString().indexOf('511766')&gt;-1){  //使用过&gt;保修维修&gt;保修期&gt;超过3个月   保修期内
+						  if(strcheck!=null &amp;&amp; strcheck!='')
+						   {
+						    strcheck=strcheck+"|"+baoxiuqinei;
+						   }else
+						   {
+						     strcheck=baoxiuqinei;
+						   }
+						   title+='保修期内 ';
+						}
+						
+						 if(peijianfapiao.toString().indexOf('|511771|')&gt;-1 &amp;&amp; peijianfapiao.toString().indexOf('|511773|')&gt;-1) {// 使用过&gt;配件发票&gt;原装电池+原装充电器     原装主配 
+						   if(strcheck!=null &amp;&amp; strcheck!='')
+						   {
+						    strcheck=strcheck+"|"+yuanzhuangzhupei;
+						   }else
+						   {
+						     strcheck=yuanzhuangzhupei;
+						   }
+						    title+='原装主配 ';
+						}
+						
+						if(wupinParam.info.weixiushi.toString().indexOf('511767')&gt;-1){  //使用过&gt;保修维修&gt;维修史&gt;无拆无修   无拆无修
+						  if(strcheck!=null &amp;&amp; strcheck!='')
+						   {
+						    strcheck=strcheck+"|"+wucaiwuxiu;
+						   }else
+						   {
+						     strcheck=wucaiwuxiu;
+						   }
+						  title+='无拆无修';
+						}
+					  $("#shoujizhuangkuang").val(strcheck);// 存放筛选熟悉
+				     
+					  $("#jiagexiuzheng").val(wupinParam.score);  //关联价格权重
+				
+					weight=wupinParam.score-0;
+					if(isNaN(weight))
+					{
+					  weight=0;
+					}else{
+					weight=weight/100;
+					}
+				
+	 				if(wupinParam.chengshe == 2){
+						quality = "95成新";
+					}else if(wupinParam.chengshe == 3){
+						quality = "9成新";
+					}else if(wupinParam.chengshe == 4){
+						quality = "8成新";
+					}else if(wupinParam.chengshe == 5){
+						quality = "7成新及以下";
+					} 
+				}
+			}	
+		}else{  //全新未拆封
+            var str='';
+            if($('#quanxinmiaoshu_511779').attr('checked')){// 全新未拆封&gt;有正品发票
+		            
+		                  if(str!=null &amp;&amp; str!='')
+						   {
+						    str=str+"|"+'511789';
+						   }else
+						   {
+						     str='511789';
+						   }
+					title+='正品发票'+" ";
+		          }
+            
+            
+		            if($('#quanxinmiaoshu_511778').attr('checked')){ //全新未拆封&gt;在保修期内
+		            	$("#jiagexiuzheng").val(5);
+		            	weight=0.05;
+		            	if(str!=null &amp;&amp; str!='')
+						   {
+						    str=str+"|"+'511790';
+						   }else
+						   {
+						     str='511790';
+						   }
+						  title+='在保修期内';  
+		            }
+		            
+		            
+		            if(str!=null &amp;&amp; str!='')
+				      {
+						    str=str+"|"+'511791|511792';
+					   }else
+					   {
+						   str='511791|511792';
+					   }
+		            $("#shoujizhuangkuang").val(str);
+
+
+           if($($('#ObjectType')[0].options[$('#ObjectType')[0].selectedIndex]).attr("vid")!="216788"){
+            $("#oldlevel").val(7);
+             quality = "全新";
+            }
+            qualityid=7;
+		}
+		      $("#Title").val(title);
+		
+		 if(quality.toString().indexOf('请选择')&gt;-1){
+                 quality='成色';
+         }
+ 		 $('#showchengshe').html('['+quality+']');
+ 		//价格参考jsonp请求
+		var objectTypeObj = document.getElementById("ObjectType");
+		var xinghaoObj='';
+		var xinghao='';
+		var brandid=$($('#ObjectType')[0].options[$('#ObjectType')[0].selectedIndex]).attr("value");
+		if(brandid=="") return;//没有选择类别 就没有价格参考
+		var modelid=0;
+		if($('#xinghao').val()!=undefined){
+		  modelid=$($('#xinghao')[0].options[$('#xinghao')[0].selectedIndex]).attr("value");
+		}
+		if(modelid=="") return ;//没有选择型号 就没有价格参考
+		
+		var qualityId=qualityid;
+		var isiphone=0;// 默认不是iphone
+		var iphmemid=0;
+		var iphverid=0;
+		var other_text='';
+		if(brandid != "" &amp;&amp; brandid !='undefined'){
+		  if(brandid=='11'){// 是否iphone
+		    isiphone=1;
+			var shoujineicun = "";
+			if($('#shoujineicun')[0]!=null&amp;&amp;$('#shoujineicun')[0]!='undefined'){
+		    	shoujineicun=$($('#shoujineicun')[0].options[$('#shoujineicun')[0].selectedIndex]).attr("value");
+			}
+		    var shoujibanben = "";
+			if($('#shoujibanben')[0]!=null&amp;&amp;$('#shoujibanben')[0]!='undefined'){
+		    	shoujibanben=$($('#shoujibanben')[0].options[$('#shoujibanben')[0].selectedIndex]).attr("value");
+			}
+		      if(shoujineicun != "" &amp;&amp; shoujineicun !='undefined'){
+		        iphmemid=shoujineicun;
+		        other_text=other_text+" "+$($('#shoujineicun')[0].options[$('#shoujineicun')[0].selectedIndex]).text();
+		      }else{
+		       iphmemid=511432;// 默认16g
+		       other_text=other_text+" 16G";
+		      }
+		      if(shoujibanben != "" &amp;&amp; shoujibanben !='undefined'){
+		        iphverid=shoujibanben;
+		        other_text=other_text+" "+$($('#shoujibanben')[0].options[$('#shoujibanben')[0].selectedIndex]).text();
+		      }else{
+		        iphverid=511435;//国行
+		        other_text=other_text+" 国行";
+		      }
+		  }else{
+		  	var shoujineicun = "";
+			if($('#shoujineicun')[0]!=null&amp;&amp;$('#shoujineicun')[0]!='undefined'){
+		    	shoujineicun=$($('#shoujineicun')[0].options[$('#shoujineicun')[0].selectedIndex]).attr("value");
+    			if(shoujineicun != "" &amp;&amp; shoujineicun !='undefined'){
+    		        iphmemid=shoujineicun;
+    		        other_text=other_text+" "+$($('#shoujineicun')[0].options[$('#shoujineicun')[0].selectedIndex]).text();
+    		    }else{
+    		       iphmemid=511432;// 默认16g
+    		       other_text=other_text+" 16G";
+    		    }
+			 }
+		  }
+		}
+		// 必须选择 品牌、型号、成色
+		if(brandid != "" &amp;&amp; brandid !='undefined' &amp;&amp; modelid &gt;= 0 &amp;&amp; modelid !='undefined'&amp;&amp; modelid !=""&amp;&amp; qualityId != "" &amp;&amp; qualityId !='undefined'){
+		if( $('#xinghao').val()!=undefined){
+		 xinghao = $($('#xinghao')[0].options[$('#xinghao')[0].selectedIndex]).text();
+		}
+		var pinpai = objectTypeObj[objectTypeObj.selectedIndex].text;
+		
+		var url = "http://cankaojia.ershou.58.com/sjprice/?brandid=" +brandid + "&modelid;=" + modelid+ "&quality;=" + qualityId + "&weight;=" + weight + "&isiphone;=" + isiphone+ "&iphmemid;=" + iphmemid+ "&iphverid;=" + iphverid + "&callback;=?";
+		$.getJSON(url,function(data){
+    		if(!data || isEmptyObject(data)){
+				jiagecankao = 0;
+    			return;
+    		}
+			jiagecankao = 1;
+			var html = '&lt;div class="salePriTips pr w400"&gt;&lt;div class="tip_con" id="_refPriceDIV_"&gt;&lt;h3 class="f12"&gt;'+pinpai+' '+xinghao+' '+other_text+' '+quality+'&lt;/h3&gt;&lt;/div&gt;';
+			if(data.min-0 &gt;= 0 &amp;&amp; data.maxprice-0 &gt; 0){
+    			mincankaoprice = data.min-0;
+    			maxcankaoprice = data.maxprice-0;
+			     var jiagetishi='';
+			     if(weight&gt;=0.05){
+			        jiagetishi="（此物品的状况高于平均水平）";
+			      }else if(weight&lt;-0.05){
+			      jiagetishi="（此物品的状况小于平均水平）";
+			      }
+				html += '&lt;p&gt;参考报价：&lt;span class="red"&gt;' + data.min + ' - ' + data.maxprice + '&lt;/span&gt;元 &nbsp;&nbsp;&lt;span class="c_999"&gt;'+jiagetishi+'&lt;/span&gt;&lt;/p&gt;';
+			}else{
+			    mincankaoprice = 0;
+    			maxcankaoprice = 0;
+			}
+		  
+		   var pricetxt= data.newprice;
+		   var price_av='';
+		    if(pricetxt!=undefined &amp;&amp; pricetxt != 0 ){
+		        pricetxt=pricetxt;
+		      }else{
+		        pricetxt='暂无';
+		      }
+		     html += '&lt;p&gt;';
+		    if(data.price &gt; 0){
+		      price_av=data.price+'元';
+		    }else{
+		     price_av='暂无';
+		    }
+		    html += '58网上均价：&lt;span class=""&gt;' + price_av + '&lt;/span&gt;';
+		    if(pricetxt!='' &amp;&amp; pricetxt!=undefined){
+		    html += '&lt;span class="ml20"&gt;新品价格：&lt;/span&gt;&lt;span&gt;' + pricetxt + '&nbsp;&lt;span class="c_999"&gt;（中关村在线）&lt;/span&gt;&lt;/span&gt;';
+			}
+			html += '&lt;/p&gt;';
+			if(data.min &gt;= 0 || data.maxprice &gt; 0){
+			html += '&lt;div class="tips_explain f12"&gt;&lt;span id="inPrice" class="in_price"&gt;&lt;a class="p_link" href="#"&gt;详细参考&lt;i class="arw"&gt;&lt;/i&gt;&lt;/a&gt; &lt;div class="in_price_box" id="in_price_box" style="display:none"&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;' 
+			}
+			html += '&lt;/div&gt;&lt;i class="tip_arrow"&gt;&lt;/i&gt;';
+			if(data.min &gt;= 0 || data.maxprice &gt; 0){
+				$("#_priceValueDIV").html(html);
+				$("#_priceValueDIV").show();
+				$('#inPrice').hover(
+					function(){
+						var html = [];
+						html.push('&lt;div class="box_tit"&gt;&lt;h3 class="tc fn"&gt;'+pinpai+' '+xinghao+' '+other_text)
+						html.push(' 价格参考&lt;/h3&gt;&lt;/div&gt;&lt;div class="box_con"&gt;&lt;ul&gt;');
+						if(pricetxt=='暂无'){
+						 pricetxt='0元';
+						}
+						if(pricetxt=='停产'){
+						 pricetxt='0元';
+						}
+						if(pricetxt=='即将上市'){
+						 pricetxt='0元';
+						}
+						
+						
+						var _pricetxt = pricetxt.replace('元','')-0;
+						var maxprice = _pricetxt;
+						var maxpricewidth=240;
+						$.each(data.pricelist,function(index,item){
+							item.price=item.price-0;
+							if(item.price&gt;maxprice){
+								maxprice=item.price;
+							}
+						});
+						if(maxprice==0) maxprice=1;
+						var _pricetxtvalue='';
+						if(_pricetxt==0){
+						  _pricetxtvalue='暂无';
+						}else{
+						_pricetxtvalue=_pricetxt+'元';
+						}
+						html.push('&lt;li&gt;&lt;span class="in_pr_l_t"&gt;新品价格&lt;/span&gt;&lt;span class="in_pr_l_c" style="width:'+(_pricetxt*maxpricewidth/maxprice)+'px"&gt;&lt;/span&gt;&lt;span class="in_pr_l_r"&gt;'+_pricetxtvalue+'（中关村在线）&lt;/span&gt;&lt;/li&gt;');
+					  	$.each(data.pricelist, function(index, item){
+					  		html.push('&lt;li&gt;&lt;span class="in_pr_l_t"&gt;'+item.key+'&lt;/span&gt;');
+					  		if(item.price==0){
+					  			html.push('&lt;span&gt;&lt;/span&gt;&lt;span class="in_pr_l_r"&gt;暂无&lt;/span&gt;');
+					  		}
+					  		else{
+								html.push('&lt;span class="in_pr_l_c" style="width:'+(item.price*maxpricewidth/maxprice)+'px"&gt;&lt;/span&gt;');
+					  			html.push('&lt;span class="in_pr_l_r"&gt;'+item.price+'元&lt;/span&gt;');	  		
+					  		}
+
+					  		html.push('&lt;/li&gt;');
+					  	});
+					  	$('#in_price_box').html(html.join('')).show();
+					  	$('#inPrice').addClass('hover');
+					},
+					function(){
+						if($('#in_price_box')){
+							$('#in_price_box').hide();
+						};
+						$(this).removeClass('hover');
+		           }
+				);
+			}
+			
+			var flag = false,q, p, time = 180;
+			$('#priceHelpImg').mouseover(function() {
+			    if (flag) {
+			        clearTimeout(p)
+			    } else {
+			        q = setTimeout(function() {
+			            $('#_postPriceHelp_').show();
+			            flag = true;
+			        }, time)
+			    }
+			})
+			.mouseout(function() {
+			    if (flag) {
+			        p = setTimeout(function() {
+			            $('#_postPriceHelp_').hide();
+			            flag = false;
+			        }, time);
+			    } else {
+			        clearTimeout(q)
+			    }
+			});
+			
+		});
+	
+     }
+	
+	});
+	
+	 
+	$("#MinPrice").blur(function(){
+		$("#_refPriceDIV_").remove();
+		$("#_priceValueDIV").hide();
+	})
+</script>
+<script id="postScript">
+    $(document).ready(function() {
+        $("#oldlevel").change(function(){
+          var name=$("#oldlevel").find("option:selected").text();
+           if(name.toString().indexOf('请选择')&gt;-1){
+            name='成色';
+           }
+          $('#showchengshe').html('['+name+']');
+        });
+    
+ 
+		$.formValidator.initConfig({ formid: "aspnetForm", errorfocus: true, btnid: 'fabu', fun: function() {
+				if($("#ObjectType").val() != 6){ //发布的时候手机配件就不用验证物品状况了
+					//发布前验证物品状况是否选择
+					var wupingzhuangkuangRadio= $('input:radio[name="wupinzhuangkuang"]:checked').val();
+					if(wupingzhuangkuangRadio == null){
+						var errortip = '&lt;span class="c2"&gt;&lt;span class="action_po"&gt;&lt;span class="action_po_top"&gt;物品状况参数未选择&lt;/span&gt;&lt;span class="action_po_bot"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;';
+						$("#wupinzhuangkuang_Tip").html(errortip).show();
+						return false;
+					}
+				//使用过
+				if($.c.common.getRadioIndex('wupinzhuangkuang') == 0){
+					
+					var paraStr = window.frames["detailFrame"].getInfo();
+					if(paraStr.error != undefined){ //判断iframe里面是否都选择
+						var errorStr = '&lt;span class="c2"&gt;&lt;span class="action_po"&gt;&lt;span class="action_po_top"&gt;物品状况参数有'+paraStr.error + '项未填写&lt;/span&gt;&lt;span class="action_po_bot"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;';
+						$("#wupinzhuangkuang_Tip").html(errorStr).show();
+						$('#rdo_wupinzhuangkuang_0').focus();
+						return false;
+					}else{//发布前相关参数赋值进行发布存储
+						$("#wupinzhuangkuang_Tip").hide();
+						
+						$("#shoujipingmu").val(paraStr.info.shoujipingmu);
+						$("#shoujijishen").val(paraStr.info.shoujijishen);
+						$("#shoujigongneng").val(paraStr.info.shoujigongneng);
+						$("#gongnengguzhang").val(paraStr.info.gongnengguzhang);
+						$("#shoujidaiji").val(paraStr.info.shoujidaiji);
+						$("#goumaishijian").val(paraStr.info.goumaishijian);
+						$("#baoxiuqi").val(paraStr.info.baoxiuqi);
+						$("#weixiushi").val(paraStr.info.weixiushi);
+						$("#peijianfapiao").val(paraStr.info.peijianfapiao);
+						// 兼容手机配件
+				        $("#oldlevel").val(paraStr.chengshe);  //成色
+				      
+					    var strcheck='';
+						var zhengpinfapiao='511789'; // 正品发票
+						var baoxiuqinei='511790';    //保修期内
+						var yuanzhuangzhupei='511791'; //原装主配
+						var wucaiwuxiu='511792'; //无拆无修
+						
+						var peijianfapiao="|"+ paraStr.info.peijianfapiao +"|";
+						if(peijianfapiao.toString().indexOf('|511770|')&gt;-1){// 使用过&gt;配件发票&gt;正品发票      正品发票
+						   strcheck=zhengpinfapiao; 
+						}
+					    if(peijianfapiao.toString().indexOf('|511771|')&gt;-1 &amp;&amp; peijianfapiao.toString().indexOf('|511773|')&gt;-1) {// 使用过&gt;配件发票&gt;原装电池+原装充电器     原装主配 
+						   if(strcheck!=null &amp;&amp; strcheck!='')
+						   {
+						    strcheck=strcheck+"|"+yuanzhuangzhupei;
+						   }else
+						   {
+						     strcheck=yuanzhuangzhupei;
+						   }
+						}
+						if(paraStr.info.baoxiuqi.toString().indexOf('511766')&gt;-1){  //使用过&gt;保修维修&gt;保修期&gt;超过3个月   保修期内
+						  if(strcheck!=null &amp;&amp; strcheck!='')
+						   {
+						    strcheck=strcheck+"|"+baoxiuqinei;
+						   }else
+						   {
+						     strcheck=baoxiuqinei;
+						   }
+						}
+						
+						if(paraStr.info.weixiushi.toString().indexOf('511767')&gt;-1){  //使用过&gt;保修维修&gt;维修史&gt;无拆无修   无拆无修
+						  if(strcheck!=null &amp;&amp; strcheck!='')
+						   {
+						    strcheck=strcheck+"|"+wucaiwuxiu;
+						   }else
+						   {
+						     strcheck=wucaiwuxiu;
+						   }
+						}
+						$("#shoujizhuangkuang").val(strcheck);// 存放筛选熟悉
+						
+						$("#jiagexiuzheng").val(paraStr.score);  //关联价格权重
+		 				if(paraStr.chengshe == 2){
+							quality = "95成新";
+						}else if(paraStr.chengshe == 3){
+							quality = "9成新";
+						}else if(paraStr.chengshe == 4){
+							quality = "8成新";
+						}else if(paraStr.chengshe == 5){
+							quality = "7成新及以下";
+						} 
+						
+					}
+				//全新未拆封
+				}else if($.c.common.getRadioIndex('wupinzhuangkuang') == 1){
+		            
+		            var str='';
+		            if($('#quanxinmiaoshu_511778').attr('checked')){ //全新未拆封&gt;在保修期内
+		            	$("#jiagexiuzheng").val(5);
+		            	if(str!=null &amp;&amp; str!='')
+						   {
+						    str=str+"|"+'511790';
+						   }else
+						   {
+						     str='511790';
+						   }
+		            }
+		            if($('#quanxinmiaoshu_511779').attr('checked')){// 全新未拆封&gt;有正品发票
+		            
+		                  if(str!=null &amp;&amp; str!='')
+						   {
+						    str=str+"|"+'511789';
+						   }else
+						   {
+						     str='511789';
+						   }
+		            }
+		            
+		            if(str!=null &amp;&amp; str!='')
+				      {
+						    str=str+"|"+'511791|511792';
+					   }else
+					   {
+						   str='511791|511792';
+					   }
+		            $("#shoujizhuangkuang").val(str);
+		            
+		           
+		           if($($('#ObjectType')[0].options[$('#ObjectType')[0].selectedIndex]).attr("vid")!="216788"){
+                          $("#oldlevel").val(7);
+                            quality = "全新";
+                   }
+		           // $("#oldlevel").val(7);
+		           // quality = "全新";
+					
+				}
+			}else{ //求购
+		      $("input:radio[name=wupinzhuangkuang]").attr("checked",false);
+		    }
+			
+			if(!$.c.common.isIeVersion(9)){
+				if(!$.editor.checkHtmlEditor()) return false; // 内容验证
+			}
+			cacuxingjiabi();//计算性价比分数
+			setJilizongfen();
+            $.cmcs.fabu_click();
+			if(typeof $.cmcs.aboutGrade === 'function'){
+               $.cmcs.aboutGrade();
+            }
+            return true;
+        }
+        });
+        
+        $("#ObjectType").formValidator({ tipid: "cates_Tip_n", onfocus: ""}).functionValidator({
+            fun: function(val, elem) {
+                return val!=""; 
+            },
+            onerror: "请选择类别"
+        });
+        
+        if($($('#ObjectType')[0].options[$('#ObjectType')[0].selectedIndex]).attr("vid")=="216788"){
+        $('#oldlevel').formValidator({ tipid:'oldlevel_Tip', onfocus:''}).functionValidator({ fun: function(val,elem){ return val != ''; }, onerror:'请选择成色'});
+       }
+        // TODO：如果是update且类型为小米或苹果，则不能修改标题
+        var objType = $("#ObjectType").val();
+        
+        if (myInfo.infoID !== "0" &amp;&amp; (objType === '11' || objType === '503156')) {
+            // lockTilte
+            GLOBAL.fn.lockTilte();
+        } else {
+            // bind Title validate
+            GLOBAL.fn.titleValidate();
+        }
+        if($.c.common.isIeVersion(9)){
+            $('#Content').formValidator({ tipid:'Content_Tip', onfocus: '' }).functionValidator({
+                fun: function(val, elem) {
+          			if(editNew.getContentTxt()=="" || editNew.getContentTxt()==editorCfg.defaultTxtWithoutStyle){
+          				$.formValidator.setTipState(null, "onError", '补充说明不能为空。', 'Content_Tip');
+          			}else if(editNew.getText().length &lt; 10){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数不能少于10字。', 'Content_Tip');
+          			}else if(editNew.getText().length &gt; 2000){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+          			}else if(editNew.getContent().length &gt; 50000){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+          			}else{
+          				return $.formValidator.checkContent(editNew.getText());
+          			}					
+					return false;
+                },
+                onerror: ""
+            });
+        }
+        
+        $("#MinPrice").formValidator({ tipid: "MinPrice_Tip",onfocus: "只能填写数字", q2b: true, 'defaultvalue':''}).inputValidator({ onerror: "请正确填写价格" }).regexValidator({ regexp: "^\\S+$#^[1-9]\\d{0,4}$", onerror: "请正确填写价格#价格为整数，且不能为0" });
+                       
+        $('#Content').formValidator({ tipid:'Content_Tip', onfocus: '' }).functionValidator({
+            fun: function(val, elem) {
+          			if(editNew.getContentTxt()=="" || editNew.getContentTxt()==editorCfg.defaultTxtWithoutStyle){
+          				$.formValidator.setTipState(null, "onError", '补充说明不能为空。', 'Content_Tip');
+          			}else if(editNew.getText().length &lt; 10){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数不能少于10字。', 'Content_Tip');
+          			}else if(editNew.getText().length &gt; 2000){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+          			}else if(editNew.getContent().length &gt; 50000){
+          				$.formValidator.setTipState(null, "onError", '补充说明字数超出限制，请精简内容和样式才能发布成功。', 'Content_Tip');
+          			}else{
+          				return $.formValidator.checkContent(editNew.getText());
+          			}					
+					return false;
+            },
+            onerror: ""
+        });
+      
+       $("#Phone").formValidator({ tipid:'Phone_Tip', onfocus:'请正确填写手机号码', q2b:true , 'defaultvalue':''}).functionValidator({
+            fun: function(val, elem) {
+                if($("#cbx_yinsi").attr("checked") &amp;&amp; $("#rdoYinsi2").attr('checked')){
+                       if(val!=""){
+                          if($("#rdoYinsi2").attr('checked'))
+                          {
+                            $("#Phone").attr("readOnly",true);
+                          }else{
+                           $("#Phone").attr("readOnly",false) 
+                          }
+                        return true;
+                       }else{
+                        $("#Phone").attr("readOnly",false)
+                        return false;
+                       }
+                 }else{
+                   $("#Phone").attr("readOnly",false)
+                   var reg =/^((13[0-9])|(14[0-9])|(15[^4,\D])|(18[0-9]))\d{8}$/;  
+                   if(reg.test(val)){
+                     return true;
+                   }else{
+                    return false;
+                   }
+                 }
+            },
+             onerror: "电话填写错误。&lt;br&gt;请参照格式填写：138********"
+        });
+       
+
+        
+       $("#Phone").focus(function(){
+             if($("#cbx_yinsi").attr("checked") &amp;&amp; $("#rdoYinsi2").attr('checked')){
+               $("#Phone").attr("readOnly",true);
+             }else{
+              $("#Phone").attr("readOnly",false)
+             }
+        }); 
+        
+        
+        $("#goblianxiren").formValidator({ tipid:'goblianxiren_Tip', onfocus:'2~6个字，不能填写电话和联系方式', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "\\S+#^(.){2,6}$#^[\\w\\d\\s\\u4e00-\\u9fa5]*$", onerror: "请输入联系人#联系人不足2个字#联系人不能填写特殊符号" }).functionValidator({
+            fun: function(val, elem) {
+                return val!="姓名";
+            },
+            onerror: "请填写姓名"
+        });
+        $('#IM').formValidator({ tipid:'IM_Tip', onfocus:'只能填写一个qq或msn。&lt;br&gt;格式如：123456 或 myname@58.com', q2b:true , 'empty':true}).regexValidator({ regexp: "(^[1-9]\\d{4,9}$)", onerror: "QQ输入错误" });
+        
+        
+    });
+    $(document).ready($.mobileReg.init);
+    //型号字段验证方法
+    function checkXinghao(){
+        $("#xinghao").formValidator({ tipid: "cates_Tip_n", onfocus: ""}).functionValidator({
+            fun: function(val, elem) {
+                return val!="";
+            },
+            onerror: "请选择型号"
+        });
+        
+		$("#xinghao").bind("change",function(){
+			 var title = "";
+			if($("#ObjectType").val() != "" &amp;&amp; $("#ObjectType").val() !=undefined){
+			  if($($('#ObjectType')[0].options[$('#ObjectType')[0].selectedIndex]).attr("vid")!="242737"){
+			    title += $('#ObjectType option:selected').text()+" ";
+			   }
+			}
+			
+		   if($("#xinghao").val() != "" &amp;&amp; $("#xinghao").val() !=undefined){
+		     if($($('#xinghao')[0].options[$('#xinghao')[0].selectedIndex]).text()!="其他"){
+		      title += $('#xinghao option:selected').text() + " ";
+		     }else{
+		     title +="型号 ";
+		     }
+		    }
+		    $("#Title").val(title);
+						
+		});
+    }
+    
+    function jinshenyanse_created(){
+      $("#jishenyanse").bind("change",function(){
+			 
+			 var title = "";
+			if($("#ObjectType").val() != "" &amp;&amp; $("#ObjectType").val() !=undefined){
+			  if($($('#ObjectType')[0].options[$('#ObjectType')[0].selectedIndex]).attr("vid")!="242737"){
+			    title += $('#ObjectType option:selected').text()+" ";
+			   }
+			}
+			
+		   if($("#xinghao").val() != "" &amp;&amp; $("#xinghao").val() !=undefined){
+		     if($($('#xinghao')[0].options[$('#xinghao')[0].selectedIndex]).text()!="其他"){
+		      title += $('#xinghao option:selected').text() + " ";
+		     }else{
+		      title +="型号 ";
+		     }
+		    }
+		    
+		    if($("#jishenyanse").val() != "" &amp;&amp; $("#jishenyanse").val() !=undefined){
+		     title = $('#jishenyanse option:selected').text()+" "+ title+" ";
+		    }
+		    $("#Title").val(title);
+			 
+			 
+						
+		});
+    }
+    
+    function shoujineicun_cteated(){
+        $("#shoujineicun").formValidator({ tipid: "cates_Tip_n", onfocus: ""}).functionValidator({
+            fun: function(val, elem) {
+                return val!="";
+            },
+            onerror: "请选择容量"
+        });
+	
+      $("#shoujineicun").bind("change",function(){
+			 var title = "";
+			if($("#ObjectType").val() != "" &amp;&amp; $("#ObjectType").val() !=undefined){
+			 title += $('#ObjectType option:selected').text();
+			}
+			
+		   if($("#xinghao").val() != "" &amp;&amp; $("#xinghao").val() !=undefined){
+		     title += $('#xinghao option:selected').text() + " ";
+		    }
+		    
+		    if($("#jishenyanse").val() != "" &amp;&amp; $("#jishenyanse").val() !=undefined){
+		     title = $('#jishenyanse option:selected').text()+" "+ title+" ";
+		    }
+		    if($("#shoujineicun").val() != "" &amp;&amp; $("#shoujineicun").val() !=undefined){
+		     title += $('#shoujineicun option:selected').text() + "";
+		   }
+		    $("#Title").val(title);
+		});
+    }
+    
+    function shoujibanben_cteated(){
+     $("#shoujibanben").bind("change",function(){
+			 setTitle();	
+		});
+    
+    }
+    
+    
+    function  setTitle(){
+	     var title = "";
+		if($("#ObjectType").val() != "" &amp;&amp; $("#ObjectType").val() !=undefined){
+		 title += $('#ObjectType option:selected').text() + " ";
+		}
+		$("#Title").val(title);
+		if($("#xinghao").val() != "" &amp;&amp; $("#xinghao").val() !=undefined){
+		  if($($('#xinghao')[0].options[$('#xinghao')[0].selectedIndex]).text()!="其他" &amp;&amp;　$($('#xinghao')[0].options[$('#xinghao')[0].selectedIndex]).text()!="其他型号"　){
+		      title += $('#xinghao option:selected').text() + " ";
+		     }else{
+		      title += "型号   ";
+		     }
+		}
+		
+		if($("#jishenyanse").val() != "" &amp;&amp; $("#jishenyanse").val() !=undefined){
+		 title = $('#jishenyanse option:selected').text()+" "+ title+" ";
+		}
+		
+		if($("#shoujineicun").val() != "" &amp;&amp; $("#shoujineicun").val() !=undefined){
+		 title += $('#shoujineicun option:selected').text() + " ";
+		}
+		
+		if($("#shoujibanben").val() != "" &amp;&amp; $("#shoujibanben").val() !=undefined){
+		 title += $('#shoujibanben option:selected').text();
+		}
+		$("#Title").val(title);
+		return title;
+	
+	}	
+    
+    //设置激励总分
+	function setJilizongfen(){
+		var jilifenshu = $("#jilifenshu").text();
+		$("#jilizongfen").val(jilifenshu);
+	}
+    //计算性价比分数
+	function cacuxingjiabi(){
+			var xingjiabi = 0;
+			if(jiagecankao==1){//有价格参考
+				var price = $("#MinPrice").val();
+				var oldlevel = $("#oldlevel").val();
+				var score = $("#jiagexiuzheng").val();
+				xingjiabi = execacu(price,oldlevel,score,mincankaoprice,maxcankaoprice);
+				$("#xingjiabifen").val(xingjiabi);
+			}else if(jiagecankao==-1){//判断是否有价格参考
+				var url = buildcankaourl();
+				if(url!=null&amp;&url;!=""){
+    				var price = $("#MinPrice").val();
+    				var oldlevel = $("#oldlevel").val();
+    				var score = $("#jiagexiuzheng").val();
+    				$("#xingjiabifen").val(url+"|"+price+"|"+oldlevel+"|"+score);
+				}else{
+					$("#xingjiabifen").val("0");
+				}
+			}else //价格参考返回值是空
+				$("#xingjiabifen").val(0);
+	}	
+	function execacu(price,oldlevel,score,mincankao,maxcankao){
+		var scorea = 0;//物品报价为p，参考价格区区间a~b，参考价格区间中间值c=（a+b）/2
+		var scoreb = 0;
+		var scorec = 0;
+		var scored = 0;
+		
+		//物品价格相对因素（分值A	）
+		if(price!=0&amp;&mincankao;!=0&amp;&maxcankao;!=0){
+		   var rate = $("#MinPrice").val()/((mincankao+maxcankao)/2);
+		   rate = rate.toFixed(2);
+		   if(rate&gt;=0.85&amp;&rate;&lt;=1.1)
+		   	scorea = ((1-rate).toFixed(2))*200;
+		   else if(rate&gt;=0&amp;&rate;&lt;0.85)
+		   	scorea = 0;
+		   else if(rate&gt;1.1)
+		   	scorea = -30;
+		}
+		
+		//价格绝对因素（分值B	）
+		if(500&lt;=price&amp;&price;&lt;=1600)
+			scoreb = 5;
+		else if((300&lt;=price&amp;&price;&lt;500)||(1600&lt;price&gt;&lt;=2000))
+			scoreb = 0;
+		else if(price&lt;300||price&gt;2000)
+			scoreb = -5;
+			
+		//物品参数新旧程度（分值C	）
+		if(oldlevel == 2){//95成新时，分值C= 15
+			scorec = 15;
+		}else if(oldlevel == 3||oldlevel==7){//9成新，全新时，分值C=10
+			scorec = 10;
+		}else if(oldlevel == 4){//8成新时，分值C=0
+			scorec = 0;
+		}else if(oldlevel == 5){//7成及以下时分值C= -10
+			scorec = -10;
+		}else{
+			scorec = 0;
+		}
+		
+		//物品功能状况分（分值D	） 
+		if(score==null||score==''||score-0&gt;=0)
+			scored = 0;
+		else
+			scored = -10;
+		return scorea+scoreb+scorec+scored;
+	}
+	function buildcankaourl(){
+		var brandid=$($('#ObjectType')[0].options[$('#ObjectType')[0].selectedIndex]).attr("value");
+		if(brandid == "" || brandid =='undefined') return "";
+		var modelid=0;
+		var qualityId=$("#oldlevel").val();
+		var isiphone=0;// 默认不是iphone
+		var iphmemid=0;
+		var iphverid=0;
+		var weight = 0;
+		if($('#xinghao').val()!=undefined){
+		  modelid=$($('#xinghao')[0].options[$('#xinghao')[0].selectedIndex]).attr("value");
+		}
+		if(modelid == "" || modelid =='undefined') return "";
+		
+		if(brandid != "" &amp;&amp; brandid !='undefined'){
+		  if(brandid=='11'){// 是否iphone
+		    isiphone=1;
+			var shoujineicun = "";
+			if($('#shoujineicun')[0]!=null&amp;&amp;$('#shoujineicun')[0]!='undefined'){
+		    	shoujineicun=$($('#shoujineicun')[0].options[$('#shoujineicun')[0].selectedIndex]).attr("value");
+			}
+		    var shoujibanben = "";
+			if($('#shoujibanben')[0]!=null&amp;&amp;$('#shoujibanben')[0]!='undefined'){
+		    	shoujibanben=$($('#shoujibanben')[0].options[$('#shoujibanben')[0].selectedIndex]).attr("value");
+			}
+		      if(shoujineicun != "" &amp;&amp; shoujineicun !='undefined'){
+		        iphmemid=shoujineicun;
+		      }else{
+		       iphmemid=511432;// 默认16g
+		      }
+		      if(shoujibanben != "" &amp;&amp; shoujibanben !='undefined'){
+		        iphverid=shoujibanben;
+		      }else{
+		        iphverid=511435;//国行
+		      }
+		  }else{
+		  	var shoujineicun = "";
+			if($('#shoujineicun')[0]!=null&amp;&amp;$('#shoujineicun')[0]!='undefined'){
+		    	shoujineicun=$($('#shoujineicun')[0].options[$('#shoujineicun')[0].selectedIndex]).attr("value");
+    			if(shoujineicun != "" &amp;&amp; shoujineicun !='undefined'){
+    		        iphmemid=shoujineicun;
+    		    }else{
+    		       iphmemid=511432;// 默认16g
+    		    }
+			 }
+		  }
+		}
+        var jiagexiuzheng = $('#jiagexiuzheng').val();
+		weight=jiagexiuzheng-0;
+		if(isNaN(weight))
+		{
+		  weight=0;
+		}else{
+		weight=weight/100;
+		}
+		var url = "http://cankaojia.ershou.58.com/sjprice/?brandid=" +brandid + "&modelid;=" + modelid+ "&quality;=" + qualityId + "&weight;=" + weight + "&isiphone;=" + isiphone+ "&iphmemid;=" + iphmemid+ "&iphverid;=" + iphverid + "&callback;=?";
+		return url;
+	}
+	
+    // 页面元素
+    var _PE = {
+        xq: $('#xiaoqu'), // 小区
+        qy: $('#localArea'), // 区域
+        sq: $('#localDiduan')	// 商圈
+    };
+
+    // 刷新商圈
+    function loadShangquan() {
+        $('#localDiduan option').remove();
+        $.c.common.addOptionsToSelect('localDiduan', '', '--商圈--');
+        var v1 = _PE.qy.val(); // 区域
+        if (!!v1) {
+            $('#selectDiduanHidden option').each(function(i, n) {
+                if ($(n).attr('id').indexOf(v1 + '_') != -1) {
+                    $.c.common.addOptionsToSelect('localDiduan', n.value, n.text);
+                }
+            });
+        }
+    }
+
+    // 根据小区名称来获取区域和商圈id
+    function getCityAreaID() {
+        var xqName = _PE.xq.val();
+        if (!!xqName) {
+            var para = 'cityid=' + myInfo.dispCityid + '&xq;=' + encodeURIComponent(xqName);
+            $.j.callajax('getcityareabyxq', para, getCityAreaID_callback);
+        }
+    }
+    function getCityAreaID_callback(data) {
+        if (!!data) {
+            var arr = data.split(',');
+            if (arr.length == 2) {
+                var v1 = arr[0];
+                var v2 = arr[1];
+                _PE.qy.val(v1).trigger('change');
+                _PE.sq.val(v2);
+            }
+        }
+    }    // 事件绑定
+    $(document).ready(function() {
+        _PE.qy.bind('change', loadShangquan);
+
+        if (true) {
+            var v1 = '0';
+            var v2 = '0';
+            if (v1 != 0) {
+                _PE.qy.val(v1).trigger('change');
+            }
+            if (v2 != 0) {
+                _PE.sq.val(v2);
+            }
+        }
+    });
+
+	
+	 // 免费开通呼转功能
+	
+    (function(){
+        $.j.freePhone_IsRunning = true;
+        $.j.asynPhone(myInfo.userid, myInfo.infoID, '', '');
+    })();
+   
+    //及时校验 getInfo(false)
+    function reCheckDetailIframe(eNum)
+    {
+      if(eNum !=null &amp;&amp;　eNum!='' &amp;&amp; eNum &gt;0){
+	    var ad = '&lt;span class="c2"&gt;&lt;span class="action_po"&gt;&lt;span class="action_po_top"&gt;物品状况参数有'+eNum + '项未填写&lt;/span&gt;&lt;span class="action_po_bot"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;';
+		$("#wupinzhuangkuang_Tip").html(ad).show();
+		return false; 
+	   }else{
+	       $("#wupinzhuangkuang_Tip").hide();
+	       var wupinParam = window.frames["detailFrame"].getInfo();
+	          var quality="成色";
+              if(wupinParam.chengshe == 2){
+					quality = "95成新";
+				}else if(wupinParam.chengshe == 3){
+					quality = "9成新";
+				}else if(wupinParam.chengshe == 4){
+					quality = "8成新";
+				}else if(wupinParam.chengshe == 5){
+					quality = "7成新及以下";
+				}
+		  $('#showchengshe').html('['+quality+']'); 
+	   }
+    }
+
+$(document).ready(function(){
+    // 一句话推荐
+       $.formValidator.initConfig({ formid: "aspnetForm", errorfocus: true, btnid: 'fabu', fun:function(){
+			
+            return false;
+        } });
+       
+		});	
+var initheight =393;
+function resetHeight(flag,height){
+	height+=8;
+    if(flag){
+		document.getElementById("frameID").style.height = (initheight+height)+'px'
+	}else if(document.getElementById("frameID").style.height!=initheight+'px'){
+		document.getElementById("frameID").style.height = initheight+'px';
+	}
+}		
+function initHeight(num){
+    var mt10Height = (12+15)*num+12+2+10;//根据故障的条数 计算故障的显示区域
+    document.getElementById("frameID").style.height = initheight+mt10Height+'px';
+}
+function info_post_showexample_click()
+{
+	var faburen = $.c.common.getRadioIndex('faburen');
+    _gaq.push(['pageTracker._trackEvent', 'post', 'tag_click', '/info/post/showexample/click']);
+    clickLog("from=info_post_showexample_click&LoginUid;=0&is;_biz="+faburen+"&AreaPath;="+'2050'+"&CatePath;="+'5,36'+"&rand;="+Math.random());
+}
+var flag = true;
+function removeTip(){
+	if(flag&amp;&amp;myInfo.infoID; == 0){
+    	$("#Content").css("color","#666666");
+    	$("#Content").val("");
+		flag = false;
+	}
+}
+</script>
+<iframe style="display: none" src="about:blank" id="formSubmit" name="formSubmit"></iframe>
+<script type="text/javascript">
+	var usertype = "person";
+	if(false){
+		usertype = "vip";
+	}else{
+		if(false){
+			usertype = "biz";
+		}
+	}
+	
+    var _gaq = _gaq || []; var site_name = "58"; var page_type = "post";
+    var _trackURL = "{'cate':'5,36','area':'2050','pagetype':'post','poststep':'fillout','postmode':'add','usertype':'person'}";
+    _gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+    _gaq.push(['pageTracker._setDomainName', '.58.com']);
+    _gaq.push(['pageTracker._setAllowLinker', true]);
+    _gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+    _gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+    _gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+    _gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+    _gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+    _gaq.push(['pageTracker._trackPageview','/hk/sale/shouji/' + usertype + '/fillout/add/']);
+    $.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+    $.getScript('http://track.58.com/referrer2.js');
+</script>
+<footer id="footer" class="footer">
+<p class="copyright">&copy; 58.com <a target="top" href="http://about.58.com/v5/">帮助中心</a></p>
+</footer>
+<script type="text/javascript">
+
+	$('#formSubmit').attr('src', '/submit.htm'); </script> <div id="fkdiv"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" align="middle"> <param name="movie" value="http://pic2.58.com/js/5_1/91/fc.0709.swf"> </param><param name="quality" value="high"> </param><param name="allowScriptAccess" value="always"><embed allowscriptaccess="always" src="http://pic2.58.com/js/5_1/91/fc.0709.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true"></embed> </param></object></div><script type="text/javascript">$.c.fk.i('d204a44c-84f3-4555-831f-d45217bb4ce7');</script></body></html>

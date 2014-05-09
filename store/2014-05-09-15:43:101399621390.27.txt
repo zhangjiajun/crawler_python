@@ -1,0 +1,443 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="http://pic2.58.com/back/favicon.ico" />
+<title>免费发布信息-香港58同城</title>
+<link rel="shortcut icon" href="/back/favicon.ico" />
+<script type="text/javascript"> var userid = '0'; try { var ____json4fe = { catentry: [{ oid:'1009', dispid: '26509', name: '装修建材', listname: 'zhuangxiujc' }, { oid:'1043', dispid: '609', name: '家装服务', listname: 'jiazhuang' }, { dispid: '', name: '', listname: 'post'}], locallist: { dispid: '2050', name: '香港', listname: 'hk' }, modules: 'postpage', ext: { uploadurl:'/flashupload/',locallist: { 'current':{ dispid: '2050', name: '香港', listname: 'hk' }, 'area':{dispid: '0', name: '', listname: ''} } } }} catch (e) { }; </script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/1.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/jquery1.3.2.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_postpage_version.js"> </script>
+<link href="http://static.58.com/ui6/post/post.css?version=0222" type="text/css" rel="stylesheet" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/postui7.css" />
+<link href="http://static.58.com/ui6/zhaobiao/zbfb.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript"> document.domain = "58.com";  var postpic_version = 'java';</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/91/37.js?v=0917"></script>
+<script type="text/javascript"> var myInfo = { infoID:'0', userid:0, loginstate:'', cityid:2050, dispCityid:2050, curDiscateid:609, rootCateName:'zhuangxiujc', currentCateName:'jiazhuang', TopRoleMaxCount:0, CurrentPostCount:0, viewdata:{ baohushouji:''} };</script>
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/prompt.css?version=20120821" media="all" />
+<script type="text/javascript"> 
+var iqas_mcvalue = '1399621372114';var iqas_mcformula = 'function a(){var b="11096989445341399996171460";var c="";for(var d=0;d&lt;b.length;d++){if(b.charAt(d)==9) c+="0"; else c+=(parseInt(b.charAt(d))+1);}return "1"+c};try{a();}catch(e){}';$(function(){$("&lt;input name='iqas_mcresult' value='"+eval(iqas_mcformula.replace('checkValue', iqas_mcvalue))+"' / style='display:none'&gt;").appendTo($('#aspnetForm'));});
+</script></head>
+<body>
+<div id="topbar">
+<div class="w pos">
+<div class="bar_right">
+<div id="login"><a target="_self" href="http://passport.58.com/login/?path=http%3A//post.58.com/bid/2050/">登录</a><span class="gap">|</span><a target="_self" href="https://passport.58.com/reg/">注册</a></div>
+<div class="haschild" id="my58menu"><a href="http://my.58.com/?pp=topbar" target="_self" id="tomy58">我的58</a><span class="arrow"></span><div id="loginbox" class="hc"><a href="http://my.58.com/index/?pp=topbar" id="tomypost">我的发布</a><a href="http://my.58.com/buyordermgr/?pp=topbar" id="tomytradebuy">买家交易</a><a href="http://my.58.com/saleordermgr/?pp=topbar" id="tomytradesale">个人卖家</a><a href="http://my.58.com/zhaopinqiuzhi/?pp=topbar" id="tozhaopinqiuzhi">招聘/简历</a></div></div>
+<div class="vip-con"><a onclick="javascript:clickLog('from=clicktovip&amp;source=home&amp;city=bj&amp;cate=');_gaq.push(['pageTracker._trackEvent', 'home', 'topbar_click', '/bj/home/topbar/clicktovip']);" href="http://vip.58.com/">VIP中心</a></div>
+<div class="haschild" id="sitemap">导航<span class="arrow"></span> <div class="hc" id="sitemapBox"><span class="x_dh"></span>
+<div class="maplist"><ul class="maplist01"><li class="nline"><h3><a href="http://hk.58.com/house.shtml">房产</a></h3><a href="http://hk.58.com/zufang/">租房</a><br /><a href="http://hk.58.com/ershoufang/">二手房</a><br /><a href="http://hk.58.com/shangpu/">商铺</a><br /><a href="http://hk.58.com/zhaozu/">写字楼</a><br /><h3><a href="http://hk.58.com/sale.shtml">二手</a></h3><a href="http://hk.58.com/shouji/">手机</a><br /><a href="http://hk.58.com/bijiben/">笔记本</a><br /><a href="http://hk.58.com/ershoujiaju/">家具</a><br /><a href="http://hk.58.com/jiadian/">家电</a><br /><h3><a href="http://hk.58.com/piaowu.shtml">票务</a></h3><a href="http://hk.58.com/piao/">演出票</a><br /><a href="http://hk.58.com/dianyingpiao/">电影票</a></li><li><h3>招聘</h3><a href="http://hk.58.com/job.shtml">全职</a><br /><a href="http://hk.58.com/jianzhi.shtml">兼职</a><br /><a href="http://hk.58.com/searchjob.shtml">简历库</a><br /><h3><a href="http://hk.58.com/car.shtml">车辆买卖</a></h3><a href="http://hk.58.com/ershouche/">二手车</a><br /><a href="http://hk.58.com/danche/">摩托车</a><br /><a href="http://hk.58.com/zixingche/">自行车 </a><br /><a href="http://hk.58.com/pinche/">拼车</a><br /><h3><a href="http://hk.58.com/huangye/">商街</a></h3><em><a href="http://hk.58.com/shenghuo.shtml">家政 </a></em><a href="http://hk.58.com/hunjiehunqing.shtml">婚庆</a><br /><em><a href="http://hk.58.com/zhuangxiujc.shtml">装修</a></em><a href="http://hk.58.com/shangwu.shtml">商务</a><br /><em><a href="http://hk.58.com/xiuxianyl.shtml">休闲</a></em><a href="http://hk.58.com/canyin.shtml">餐饮</a></li><li><h3>其它</h3><a href="http://t.58.com/bj/?utm_source=58.com_homeheader">团购<i class="h"></i></a><br /><a href="http://hk.58.com/lvyouxiuxian.shtml">旅游<i class="n"></i></a><br /><a href="http://hk.58.com/pets.shtml">宠物</a><br /><a href="http://jiaoyou.58.com/">交友</a><br /><a href="http://wan.58.com/?utm_source=58.com_daohang">游戏</a><br /><a href="http://wap.58.com/wap.html">无线</a><br /><a href="http://apply.vip.58.com/">网邻通</a><br /><a href="http://static.58.com/ui7/help/index.html">消费者保障<i class="n"></i></a><br /><a href="http://bangbang.58.com/?source=11" title="58同城刷帖工具，商家免费营销利器！">58帮帮 </a><br /><a href="http://about.58.com/">帮助中心</a><br /><a href="http://about.58.com/yinsibaohu.html">隐私保护</a></li></ul></div> <i class="shadow"></i></div></div>
+</div>
+</div>
+</div>
+
+<!-- =E topbar -->
+<script type="text/javascript">
+$(document).ready(function(){
+	$(".haschild").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+	$(".sec-time span").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+	$(".prifilter span").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+	$(".prifilter span").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+	$(".header-search input").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+	$(".tooltip li").hover(function() {$(this).addClass("selected");}, function() {$(this).removeClass("selected");});
+	$(".filterRange").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+	$(".tbimg tr").hover(function() {$(this).addClass("bg");}, function() {$(this).removeClass("bg");});
+	$(".menuli").hover(function() {$(this).addClass("hover");}, function() {$(this).removeClass("hover");});
+	
+	
+});
+</script> <!-- =S header -->
+<div class="head">
+<div class="h_top">
+<div class="logo"><img src="http://pic2.58.com/ds/icon/logo.gif" /></div>
+<div class="r_n">
+<div class="nav">
+<ul>
+<li><a href="/bid/2050/">首页</a></li>
+<li class="cur"><a href="javascript:void(0);">装修</a></li>
+<li><a href="/bid/2050/96/s1/">搬家</a></li>
+<li class="menuli"><a href="javascript:void(0);">家政保洁</a><i class="menuarrow"></i>
+<div class="submenu" style="width:106px;">
+<a href="/bid/2050/95/s1/">家政月嫂</a>
+<a href="/bid/2050/168/s1/">保洁服务</a>
+</div></li>
+<li><a href="/bid/2050/156/s1/">租车</a></li>
+<li><a href="javascript:void(0);">陪练</a></li>
+<li><a href="/bid/2050/212/s1/">物流货运</a></li>
+<li><a href="/bid/2050/35694/s1/">家教</a></li>
+<li class="menuli"><a href="javascript:void(0);">商业服务</a>
+<i class="menuarrow"></i>
+<div class="submenu" style="width:106px;">
+<a href="/bid/2050/125/s1/">工商注册</a>
+<a href="/bid/2050/14000/s1/">担保贷款</a>
+</div></li>
+<li class="menuli"><a href="javascript:void(0);">旅游</a><i class="menuarrow"></i>
+<div class="submenu" style="width:74px;">
+<a href="/bid/2050/8659/s1/">周边游</a>
+<a href="/bid/2050/8645/s1/">国内游</a>
+<a href="/bid/2050/8658/s1/">出境游</a>
+</div>
+</li>
+</ul>
+<style>
+  .curBg{width:64px;}
+  .nav ul li{padding:0 14px;}
+		.nav ul li.menuli{padding:0; position:relative}
+		.nav ul li.menuli a{ display:inline-block;height:44px;padding:0 28px 0 14px}
+		.nav ul li.menuli.hover a,.nav ul li.menuli.hover a:hover{ background:#f87c02;color:#fff;}
+		.menuarrow{ display:inline-block;width:7px;height:4px; background:url(http://pic2.58.com/ui6/zhaobiao/menuarrows.png) no-repeat; position:absolute;top:19px;right:14px;}
+		.nav ul li.menuli.hover .menuarrow{ background-position:0 -28px;}
+		.submenu{ display:none}
+		.nav ul li.menuli.hover .submenu{ display:block; background:#f87c02; position:absolute;top:44px;left:0}
+		.nav ul li.menuli .submenu a{ display:block; text-align:left;height:28px; line-height:28px;clear:both;color:#fff; font-weight:bold; font-size:14px;padding:0 14px}
+		.nav ul li.menuli .submenu a.submenu-cur,.nav ul li.menuli .submenu a:hover{ background:#ed6400;color:#fff;}
+      </style>
+<div class="cls"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fb_main">
+<div class="fb_table">
+<form name="aspnetForm" method="post" target="formSubmit" id="aspnetForm" enctype="multipart/form-data">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<th width="128" align="right"><b>一分钟发布需求</b></th>
+<td>58同城将严格保护您的隐私，请放心填写！<input type="hidden" name="Title" id="Title" value="香港_招标_家装服务_1399621371946" />
+<input type="hidden" name="gobzhaobiaozhuangtai" value="0" /><input type="hidden" name="Content" id="Content" value="香港_招标_家装服务_Content_1399621371946" /></td>
+</tr>
+<tr para="zxleibiezb"></tr>
+<tr>
+<th align="right"><em>*</em>区域：</th>
+<td><select id="localArea" name="localArea" class="b_select">
+<option value="">--区域--</option>
+<option value="2153">九龙城</option>
+<option value="2151">中西</option>
+<option value="2152">东区</option>
+<option value="2154">观塘</option>
+<option value="2161">湾仔</option>
+<option value="2174">沙田</option>
+<option value="2176">屯门</option>
+<option value="2183">荃湾</option>
+<option value="2160">黄大仙</option>
+<option value="2166">离岛</option>
+<option value="5602">其它</option>
+</select>&nbsp;
+		                    <select id="localDiduan" name="localDiduan" class="b_select">
+<option value="">--商圈--</option>
+</select>
+<select id="selectDiduanHidden" style="display: none;">
+<option id="5602_2155" value="2155">南区</option>
+<option id="5602_2159" value="2159">深水埗</option>
+<option id="5602_2162" value="2162">元朗</option>
+<option id="5602_2171" value="2171">葵青</option>
+<option id="5602_2172" value="2172">北区</option>
+<option id="5602_2173" value="2173">西贡</option>
+<option id="5602_2180" value="2180">大埔</option>
+<option id="5602_5609" value="5609">其它</option>
+</select>
+<span id="dizhi_Tip"></span></td>
+</tr>
+<tr>
+<th align="right"><em>*</em>建筑面积：</th>
+<td><input class="b_text w2" name="zxjianzhumianjizb" id="zxjianzhumianjizb" type="text" maxlength="5" /> 平米
+		      <span id="zxjianzhumianjizb_Tip"></span></td>
+</tr>
+<tr para="zxyusuanzb"></tr>
+<tr>
+<th align="right" valign="top">备注：</th>
+<td><textarea class="t_bz  c_c8 " name="gobbeizhuzb" id="gobbeizhuzb" cols="" rows=""> 详细说明您的情况，商家才能针对性的提供更好的服务方案和报价  </textarea>
+<span id="beizhuzb_Tip"></span></td>
+</tr>
+<tr>
+<th align="right">你的称呼：</th>
+<td><input class="b_text w1" name="lianxiren1" type="text" value="" />
+<input type="hidden" except="" value="" name="Phone" id="Phone" class="text2" />
+<input type="hidden" except="" value="" name="checkpass" id="checkpass" class="text2" /></td>
+</tr>
+</table>
+</form>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<th align="right" valign="top"></th>
+<td>
+<script src="http://pic2.58.com/pso/pcuc.js" type="text/javascript"></script>
+<script src="http://passport.58.com/uimobileauthloginscript?sysIndex=1&amp;successFunction=successFunction" type="text/javascript"></script>
+<span id="Phone_Tip"></span>
+</td>
+</tr>
+<tr>
+<th align="right">&nbsp;</th>
+<td><input class="bj_fb" name="fabu" id="fabu" type="button" value="马上发布" /></td>
+</tr>
+</table>
+</div>
+<div class="fb_right">
+<div class="fb_lc">
+<p>简单快速找到优质装修公司</p>
+<ul><li>快速发布装修需求</li>
+<li>坐等三个优质商家主动联系</li>
+<li>选择合适的装修公司</li>
+<li>等待商家上门服务</li></ul>
+</div>
+<div class="fb_zx">
+<p>免费领取3份户型设计及预算方案</p>
+<ul><li class="fg_1 zb_zx_class" d="ol_1"><a href="javascript:void(0);">免费量房<i>上门测量数据更精准</i></a>
+<ol v="ol_1"><li>设计全程陪上门测量，专业检测仪器，质量有保障</li>
+<li>设计师现场设计规划</li>
+<li>采光，功能区规划，空间利用的专业建议</li>
+<li>现场手绘房型改造平面图</li>
+<li>预估每类项目的预算报价</li></ol>
+</li>
+<li class="fg_2 zb_zx_class" d="ol_2"><a href="javascript:void(0);">免费设计<i>个性化设计方案</i></a>
+<ol v="ol_2" style="display:none;"><li>三家装修公司上门量房后，免费各出设计方案</li>
+<li>户型缺陷怎么弥补？请设计师上门把自己的想法画出来</li>
+<li>卧室、客厅、厨房、卫生间，都需要给设计建议</li>
+<li>设计方案不满意免费修改到底</li></ol></li>
+<li class="fg_3 zb_zx_class" d="ol_3"><a href="javascript:void(0);">免费预算报价<i>获取详细报价清单</i></a>
+<ol v="ol_3" style="display:none;"><li>根据设计方案各出一份详细报价清单</li>
+<li>价格透明,迅速了解各项施工造价</li>
+<li>避免价格陷阱和预算漏项</li></ol></li>
+<li class="fg_4 zb_zx_class" d="ol_4"><a href="javascript:void(0);">三套方案PK<i>货比三家选性价比</i></a>
+<ol v="ol_4" style="display:none;"><li>引入竞争机制，给您三家公司为您免费报价！</li>
+<li>比设计创意，比预算实在</li>
+<li>比工艺精湛，比服务沟通</li>
+<li>比公司口碑，比装修保障</li></ol></li></ul>
+</div>
+</div>
+</div>
+<script id="postScript" type="text/javascript"> 
+    $.cmcs.rootPara = [{"type":1, "name":"类别", "nameid":6281, "pname":"ObjectType", "rnum":4, "len":1, "dv":"", "na":0, "value":[{"i":"729674","v":"513951","t":"装修队/散工","a":"装修队|散工","c":"0", "p":"1" },{"i":"998670","v":"606830","t":"装修公司","a":"","c":"0", "p":"0" },{"i":"729673","v":"513950","t":"设计公司/设计师","a":"","c":"0", "p":"1" },{"i":"729672","v":"513949","t":"施工监理","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"预算", "nameid":9124, "pname":"zxyusuanzb", "rnum":5, "len":10, "dv":"", "na":0, "value":[{"i":"1052597","v":"657164","t":"3万以下","a":"","c":"0", "p":"0" },{"i":"1052598","v":"657165","t":"3-8万","a":"","c":"0", "p":"0" },{"i":"1052599","v":"657166","t":"8-15万","a":"","c":"0", "p":"0" },{"i":"1052600","v":"657167","t":"15-30万","a":"","c":"0", "p":"0" },{"i":"1052601","v":"657168","t":"30万以上","a":"","c":"0", "p":"0" }], "regs":[]},{"type":2, "name":"类别", "nameid":9122, "pname":"zxleibiezb", "rnum":11, "len":10, "dv":"", "na":0, "value":[{"i":"1052586","v":"657153","t":"住宅装修","a":"","c":"0", "p":"0" },{"i":"1052587","v":"657154","t":"局部装修","a":"","c":"0", "p":"0" },{"i":"1052588","v":"657155","t":"别墅装修","a":"","c":"0", "p":"0" },{"i":"1052589","v":"657156","t":"店铺装修","a":"","c":"0", "p":"0" },{"i":"1052590","v":"657157","t":"商场装修","a":"","c":"0", "p":"0" },{"i":"1052591","v":"657158","t":"酒店装修","a":"","c":"0", "p":"0" },{"i":"1052592","v":"657159","t":"办公室装修","a":"","c":"0", "p":"0" },{"i":"1052593","v":"657160","t":"餐厅装修","a":"","c":"0", "p":"0" },{"i":"1052594","v":"657161","t":"娱乐场所装修","a":"","c":"0", "p":"0" },{"i":"1052595","v":"657162","t":"学校装修","a":"","c":"0", "p":"0" },{"i":"1052596","v":"657163","t":"医院装修","a":"","c":"0", "p":"0" }], "regs":[]}];
+    $.cmcs.infoPara = [];
+    $(document).ready($.cmcs.initAutoTR);
+    $(document).ready(function(){
+    	$("#passport_mobileauthlogin_submit").hide();
+        $('#fabu').bind('click', function(){
+        	  $.cmcs.fabu_click();
+        	  $("#passport_mobileauthlogin_submit").click(); 
+        	   var content=$("#Content").val()+"类型："+$(':radio[name="zxleibiezb"][checked]').val()+"区域："+$("#localArea").val()+$("#localDiduan").val()+"建筑面积："+$("#zxjianzhumianjizb").val()+"备注："+$("#gobbeizhuzb").val();
+        	   if(content.length&gt;0){
+        		   $("#Content").val(content);
+        	   }
+        	$("#aspnetForm").submit();
+        });
+        
+        $(".zb_zx_class").mouseover(function(){
+        	   var  did=$(this).attr("d");
+        	   $(".fb_zx").find("ol").each(function(){
+        		     if($(this).attr("v")==did){
+        		    	 $(this).show();
+        		     }else{
+        		    	 $(this).hide();
+        		     }
+        	   });
+        });
+    });
+    $("#Content").focus(function(){
+    	 if($.trim($("#Content").val())=="详细说明您的情况，商家才能针对性的提供更好的服务方案和报价"){
+    	        $("#Content").val("");
+          }
+    });
+     $("#Content").blur(function(){
+    	 if($.trim($("#Content").val())==""){
+ 	        $("#Content").val("详细说明您的情况，商家才能针对性的提供更好的服务方案和报价");
+       }
+    });
+     $('#gobbeizhuzb').focus( function() {
+      	if ($(this).hasClass("c_c8")){
+      		  $(this).removeClass("c_c8");
+      		 $(this).val("");
+      	}
+      });
+      $('#gobbeizhuzb').blur( function() {
+     	 if($.trim($("#gobbeizhuzb").val())==""){
+     		 if (!$(this).hasClass("c_c8")){
+         		  $(this).addClass("c_c8");
+         		  $(this).val("详细说明您的情况，商家才能针对性的提供更好的服务方案和报价 ");
+         	} 
+     	 }
+      });
+				$().ready(function() { 
+				    $.formValidator.initConfig({ formid: "aspnetForm", errorfocus: true, btnid: 'fabu', fun:function(){
+				    	 var checkpass=$("#checkpass").val();
+			    	       var phone=$("#Phone").val();
+			        	   				       	    				        	        	 if(checkpass ==null || checkpass!=1){
+					    	        	   return false; 
+					    	           }else{
+					    	        	   if(phone.length==0){
+					        	        	   return false;
+					                        }
+					    	           }
+					            			        	   		               return true;
+		           }
+				});
+			   $(':radio[name="zxleibiezb"]').formValidator({ tipid:'zxleibiezb_Tip', onfocus:'' }).functionValidator({ fun:function(){ return $(':radio[name="zxleibiezb"]:checked').length&gt;0; }, onerror:'请选择类别' });
+			   $('#zxjianzhumianjizb').formValidator({ tipid:'zxjianzhumianjizb_Tip', onfocus:'请输入正确的数值，如：150', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "^[\\s\\S]+$#^([1-9]\\d{0,5})$", onerror: "请填写正确的数值#期望时薪为0以外的整数" }); 
+			   $('#zxyusuanzb').formValidator({ tipid:'zxyusuanzb_Tip',onfocus: '请正确选择预算' }).functionValidator({ fun: function(val, elem) { return val != ''; }, onerror: '预算不能为空' });
+				$('#localArea').formValidator({ tipid:'dizhi_Tip', onfocus: '' }).functionValidator({ fun: function(val, elem) { return val != ''; }, onerror: '请选择区域' }).groupValidator({ groupName: "v2", nextgroupid: "localDiduan" });
+		        $('#localDiduan').formValidator({ tipid:'dizhi_Tip', onfocus: '' }).functionValidator({ fun: function(val, elem) { return val != '' &amp;&amp; val != ''; }, onerror: '请选择商圈' });
+     	        
+			  }); 
+				 
+			
+	</script>
+<script type="text/javascript"> 
+ var count = 1;
+ var curCount;//当前剩余秒数
+ var InterValObj; //timer变量，控制时间
+ function SetRemainTime() {
+     if (curCount == 0) {                
+         window.clearInterval(InterValObj);//停止计时器
+         $("#mobile_resend_btn").removeAttr("disabled");//启用按钮
+         $("#mobile_resend_btn").val("获取验证码");
+     }
+     else {
+         curCount--;
+         $("#mobile_resend_btn").val(curCount + "秒后重新获取");
+     }
+  }
+ $(document).ready(function(){
+     $("#mobile_resend_btn").click(function(){
+     	var phone=$("#Phone1").val();
+     	var regx=/^(13|14|15|18)\d{9}$/;
+     	if(regx.test(phone)){
+     		$.get("http://post.58.com/ajax/?action=sendmobileregsmscode&amp;phone="+phone, function(data){
+       		      if(data==1){
+       		    	$.formValidator.setTipState(null, "onfocus", "发送成功，请查收短信。（验证码10分钟内有效）", "Phone1_Tip");
+       		    	$("#Phone").val(phone);
+       		    	$("#mobile_resend_btn").attr("disabled", "true");
+       		    	 curCount=count*60;
+       		    	 InterValObj = window.setInterval(SetRemainTime, 1000);
+       		      }else if(data==-1){
+       		    	$.formValidator.setTipState(null, "onError", "发送次数已满", "Phone1_Tip");
+       		      }else{
+       		    	 $.formValidator.setTipState(null, "onError", "发送短信失败，请重新尝试", "Phone1_Tip");
+       		      }
+         	});
+     	}else{
+     		$.formValidator.setTipState(null, "onError", "请输入正确的手机号码", "Phone1_Tip");
+     	}
+     });
+     $("#Vcode").keyup(function(){
+     	  var Phone=$("#Phone").val();
+	 	       var Vcode=$("#Vcode").val();
+	 	       if(Vcode !=null &amp;&amp; Vcode.length==6){
+	 	    	   $.get("http://post.58.com/ajax/?action=checkmobileregsmscode&amp;phone="+Phone+"&amp;code="+Vcode, function(data){
+	        		      if(data==1){
+	        		    	  $.formValidator.setTipState(null, "onCorrect", " ", "Phone1_Tip");
+	        		    	  $("#checkpass").val("1");
+	        		      }else{
+	        		    	  $.formValidator.setTipState(null, "onError", "验证码错误", "Phone1_Tip");
+	        		    	  $("#checkpass").val("");
+	        		      } 
+	          	});
+	 	       } 
+     });
+     $("#Phone1").bind("keyup blur",function(){
+    	 var Phone=$("#Phone1").val();
+	 	       if(Phone !=null &amp;&amp; Phone.length==11){
+	 	    	   $("#Phone").val(Phone);
+	 	    	   $.get("http://post.58.com/ajax/?action=checkuserphone&amp;phone="+Phone, function(data){
+	        		      if(data==2){
+	        		    	  $("#trcode").hide();
+	        		    	  $("#checkpass").val("1");
+	        		      }else{
+	        		    	  $("#trcode").show();
+	        		    	  $("#checkpass").val("");
+	        		      } 
+	          	});
+	 	       }else{
+	 	    	  $("#checkpass").val("");
+	 	       } 
+    });
+ });
+	function successFunction(){
+		$("#Phone").val($("#pptmobileauthloginmobile").val());
+		$("#checkpass").val("1");
+		$("#aspnetForm").submit();
+	}
+ </script>
+<script type="text/javascript">
+
+    // 页面元素
+    var _PE = {
+        xq: $('#xiaoqu'), // 小区
+        qy: $('#localArea'), // 区域
+        sq: $('#localDiduan')	// 商圈
+    };
+
+    // 刷新商圈
+    function loadShangquan() {
+        $('#localDiduan option').remove();
+        $.c.common.addOptionsToSelect('localDiduan', '', '--商圈--');
+        var v1 = _PE.qy.val(); // 区域
+        if (!!v1) {
+            $('#selectDiduanHidden option').each(function(i, n) {
+                if ($(n).attr('id').indexOf(v1 + '_') != -1) {
+                    $.c.common.addOptionsToSelect('localDiduan', n.value, n.text);
+                }
+            });
+            // 没有商圈时，添加一个对应的区域
+            if ($('#localDiduan option').length == 1) {
+                $.c.common.addOptionsToSelect('localDiduan', v1, _PE.qy.get(0).options[_PE.qy.get(0).selectedIndex].text);
+            }
+        }
+    }
+
+    // 根据小区名称来获取区域和商圈id
+    function getCityAreaID() {
+        var xqName = _PE.xq.val();
+        if (!!xqName) {
+            var para = 'cityid=' + myInfo.dispCityid + '&amp;xq=' + encodeURIComponent(xqName);
+            $.j.callajax('getcityareabyxq', para, getCityAreaID_callback);
+        }
+    }
+    function getCityAreaID_callback(data) {
+        if (!!data) {
+            var arr = data.split(',');
+            if (arr.length == 2) {
+                var v1 = arr[0];
+                var v2 = arr[1];
+                _PE.qy.val(v1).trigger('change');
+                _PE.sq.val(v2);
+            }
+        }
+    }
+
+    // 事件绑定
+    $(document).ready(function() {
+        _PE.qy.bind('change', loadShangquan);
+
+        if (true) {
+            var v1 = '0';
+            var v2 = '0';
+            if (v1 != 0) {
+                _PE.qy.val(v1).trigger('change');
+            }
+            if (v2 != 0) {
+                _PE.sq.val(v2);
+            }
+        }
+    });
+    
+</script>
+<iframe style="display: none" src="about:blank" id="formSubmit" name="formSubmit"></iframe>
+<script type="text/javascript"> 
+var _gaq = _gaq || [],site_name = "58",page_type = "special"; 
+var _trackURL = "{'cate':'26509,609','area':'2050','pagetype':'special','page':'zhaobiao'}"; 
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']); 
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']); 
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']); 
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']); 
+_gaq.push(['pageTracker._trackPageview', "/hk/zhuangxiujc/jiazhuang/special/zhaobiao/"]); 
+_gaq.push(['pageTracker._trackPageLoadTime']); 
+$.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'); 
+$.getScript('http://tracklog.58.com/referrer4.js'); 
+</script>
+<div id="footer">&copy; 58.com <a href="http://about.58.com/v5/">帮助中心</a></div>
+<script type="text/javascript">
+
+	$('#formSubmit').attr('src', '/submit.htm'); </script> <div id="fkdiv"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" align="middle"> <param name="movie" value="http://pic2.58.com/js/5_1/91/fc.0709.swf"> </param><param name="quality" value="high"></param><param name="allowScriptAccess" value="always"> <embed allowscriptaccess="always" src="http://pic2.58.com/js/5_1/91/fc.0709.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true"></embed> </param></object></div><script type="text/javascript">$.c.fk.i('652bc6bb-27ec-4915-af98-59a7746a9f65');</script></body></html>

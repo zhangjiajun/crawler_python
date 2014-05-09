@@ -1,0 +1,722 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="http://pic2.58.com/back/favicon.ico" />
+<link href="http://static.58.com/ui6/post/post.css" type="text/css" rel="stylesheet" /><title>免费发布信息-香港58同城</title>
+<script type="text/javascript"> var userid = '0'; try { var ____json4fe = { catentry: [{ oid:'', dispid: '', name: '', listname: '' }, { oid:'', dispid: '', name: '', listname: '' }, { dispid: '', name: '', listname: 'post'}], locallist: { dispid: '2050', name: '香港', listname: 'hk' }, modules: 'postpage', ext: { uploadurl:'/flashupload/' } }} catch (e) { }; </script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/1.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/jquery1.3.2.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_postpage_version.js"> </script>
+<style type="text/css">
+.ym-tab{ float:left; width:150px; height:40px; line-height:40px; text-indent:10px; margin-right:320px;_display:inline; z-index:998;}
+.current{ float:left; width:150px; height:40px; padding-right:312px; margin-right:8px; position:relative;}
+.current a{ display:block; width:139px; height:40px; background:url(http://pic2.58.com/ui6/post/select-bg.gif) no-repeat; position:absolute; top:-2px; left:0; z-index:1000; line-height:40px; text-indent:10px; color:#f00; text-decoration:underline; font-weight:bold;}
+.ym-submnu{ position:absolute; top:-2px; left:138px; z-index:999; width:326px; border:1px solid #DFE3E6; padding:4px 10px 4px; background:#fff; display:none;}
+.tj_tab {
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 320px;
+    text-indent: 10px;
+    width: 150px;
+    z-index: 998;
+}
+</style>
+</head>
+<body>
+<div id="header">
+<a href="http://www.58.com/" id="logo" target="_blank"><img src="http://pic2.58.com/ui6/post/logo.gif" title="到58同城首页" alt="58.com" /></a>
+<div class="bar_city"><h2>香港</h2>
+<span id="ipconfig">[<a target="_self" href="http://post.58.com/postindex.htm">切换城市</a>]</span>
+</div>
+<div class="post_login">
+<div id="login"><a target="_self" href="http://passport.58.com/login/?path=http%3A//post.58.com/">登录</a><span class="gap">|</span><a target="_self" href="http://passport.58.com/reg/?city=post">注册</a></div>
+</div>
+</div>
+<div class="flow_step_no1"> <!-- s --> <div class="flow_step"> <ol class="cols3"> <li class="step_1"><div><i>1</i><strong>选择大类</strong><span></span></div><em class="f1"></em></li><li class="step_2"><div><i>2</i><strong>选择小类</strong><span></span></div></li><li class="step_3"><div><i>3</i>填写信息<span></span></div><em class="f2"></em></li></ol> </div> <!-- e --> </div>
+<div class="minheightout w">
+<div class="c"></div>
+<script type="text/javascript"> document.domain = "58.com"; </script>
+<style type="text/css">.current .ym-submnu{display:block;}</style>
+<style type="text/css">.current  a.p_a_gljl{background:none;}</style>
+<style type="text/css">
+.ym-tab2 {
+    line-height: 40px;
+    text-indent: 10px;
+}
+	.current li.post_ym_li{ height:auto; width:auto;}
+	.current li.post_ym_li a{ *text-indent:0;}
+	.current li.post_ym_li.w_65{width:60%}
+	.current li.post_ym_li.w_35{width:40%}
+	.post_ym_li dl{font-size:14px; color:#000; font-family:simsun;}
+	.post_ym_li dl dt{ font-weight:bold; clear:both;}
+	.post_ym_li dl dd{ height:30px; margin:0; padding:0;}
+	.post_ym_li dl dd .w_50{ float:left; width:48%; overflow:hidden;}
+</style>
+<div class="content minheight" id="ymenu-side">
+<div id="hyts" style="display:none; background:#f7f7f7;  margin:10px 17px 10px 2px; width:936px;">
+<div style="background:#fffed6; width:914px;  padding:5px 10px; border:1px solid #dddddd; position:relative; top:-2px; margin-left:-2px; line-height:26px; font-size:14px; overflow:hidden; color:red;">
+<span style="color:#b66403; font-size:20px; _font-size:13px; _font-weight:bold; font-weight:bold; float:right; display:inline-block; cursor:pointer" onclick="document.getElementById('hyts').style.display='none'">&times;</span>2011年迎春贺喜：凡成功发布信息的用户，均可参与58同城“免费送50张机票800张火车票”抽奖活动！                  
+                  </div>
+</div>
+<ul class="ym-mainmnu">
+<li class="ym-tab"><a href="http://post.58.com/2050/1/s2">房屋信息</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/8/s5">整租房</a></li>
+<li><a href="http://post.58.com/2050/11/s5">求租房</a></li>
+<li><a href="http://post.58.com/2050/10/s5">合租房</a></li>
+<li><a href="http://post.58.com/2050/9/s5">短租房/日租房</a></li>
+<li><a href="http://post.58.com/2050/12/s5">二手房</a></li>
+<li><a href="http://post.58.com/2050/13/s5">写字楼</a></li>
+<li><a href="http://post.58.com/2050/14/s5">商铺租售/生意转让 </a></li>
+<li><a href="http://post.58.com/2050/15/s5">厂房/仓库/土地/车位</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a class="over">免费招聘</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/9224/j5">全职招聘</a></li>
+<li><a href="http://post.58.com/2050/13941/j5">兼职招聘</a></li>
+<li><a href="http://post.58.com/2050/13889/s5">招聘会</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/5/s2">跳蚤市场(二手)</a>
+<ul class="ym-submnu">
+<li class="post_ym_li w_65">
+<dl>
+<dt>手机数码</dt>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/36/s5">二手手机</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/38483/s5">笔记本电脑</a></div>
+</dd>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/38484/s5">平板电脑</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/37/s5">数码产品</a></div>
+</dd>
+<dd><a href="http://post.58.com/2050/35/s5">台式机/配件</a></dd>
+<dt>手机号/通讯</dt>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/241/s5">手机号码</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/23089/s5">通讯业务</a></div>
+</dd>
+<dt>家电/家具/办公</dt>
+<dd><a href="http://post.58.com/2050/39/s5">二手家电</a></dd>
+<dd>
+<div class="w_50"><a href="http://post.58.com/2050/508/s5">二手家具</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/40/s5">家居/日用品</a></div>
+</dd>
+<dd><a href="http://post.58.com/2050/38/s5">办公用品/设备</a></dd>
+<dt>母婴/服装/美容</dt>
+<dd><a href="http://post.58.com/2050/45/s5">母婴/儿童用品/玩具</a></dd>
+<dd><a href="http://post.58.com/2050/41/s5">服装/鞋帽/箱包</a></dd>
+<dd><a href="http://post.58.com/2050/44/s5">美容/保健</a></dd>
+</dl>
+</li>
+<li class="post_ym_li w_35">
+<dl>
+<dt>文化娱乐</dt>
+<dd><a href="http://post.58.com/2050/47/s5">艺术品/收藏品</a></dd>
+<dd><a href="http://post.58.com/2050/46/s5">文体/户外/乐器</a></dd>
+<dd><a href="http://post.58.com/2050/43/s5">图书/音像/软件</a></dd>
+<dd><a href="http://post.58.com/2050/48/s5">网游/虚拟物品</a></dd>
+<dt>其他</dt>
+<dd><a href="http://post.58.com/2050/246/s5">二手设备</a></dd>
+<dd><a href="http://post.58.com/2050/8502/s5">成人用品</a></dd>
+<dd><a href="http://post.58.com/2050/23224/s5">物品交换</a></dd>
+<dd><a href="http://post.58.com/2050/23275/s5">创意服务交易</a></dd>
+<dd><a href="http://post.58.com/2050/23435/s5">5元以下物品</a></dd>
+<dd><a href="http://post.58.com/2050/23436/s5">免费赠送</a></dd>
+<dd><a href="http://post.58.com/2050/23437/s5">校园二手</a></dd>
+<dd><a href="http://post.58.com/2050/27970/s5">二手求购</a>/<a href="http://post.58.com/2050/50/s5">其他</a></dd>
+</dl>
+</li>
+</ul>
+</li>
+<li class="ym-tab"><a class="over">登记简历</a>
+<ul class="ym-submnu">
+<li><a href="http://jianli.58.com/resumebase/">全职简历</a></li>
+<li><a href="http://jianli.58.com/resumebasepart/">兼职简历</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/4/s2">车辆买卖与服务</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/29/s5">二手车转让</a></li>
+<li><a href="http://post.58.com/2050/13978/s5">二手车求购</a></li>
+<li>
+<a href="http://post.58.com/2050/31/s5?vid=1">长途拼车</a>
+</li>
+<li><a href="http://post.58.com/2050/30/s5">二手摩托车</a></li>
+<li>
+<a href="http://post.58.com/2050/31/s5?vid=0">上下班拼车</a>
+</li>
+<li><a href="http://post.58.com/2050/240/s5">自行车/电动车</a></li>
+<li><a href="http://post.58.com/2050/239/s5">汽车配件</a></li>
+<li><a href="http://post.58.com/2050/156/s5">租车</a></li>
+<li><a href="http://post.58.com/2050/23087/s5">驾校</a></li>
+<li><a href="http://post.58.com/2050/8444/s5">代驾/司机外派</a></li>
+<li><a href="http://post.58.com/2050/23065/s5">陪练</a></li>
+<li><a href="http://post.58.com/2050/39315/s5">带车司机</a></li>
+<li><a href="http://post.58.com/2050/22431/s5">过户/验车</a></li>
+<li><a href="http://post.58.com/2050/118/s5">4S店</a></li>
+<li><a href="http://post.58.com/2050/8442/s5">汽车美容装饰</a></li>
+<li><a href="http://post.58.com/2050/8445/s5">汽车维修保养</a></li>
+<li><a href="http://post.58.com/2050/29389/s5">改装/防护</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a class="over">生活服务</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/96/s5">搬家</a></li>
+<li><a href="http://post.58.com/2050/95/s5">保姆/月嫂</a></li>
+<li><a href="http://post.58.com/2050/168/s5">保洁清洗</a></li>
+<li><a href="http://post.58.com/2050/103/s5">二手回收</a></li>
+<li><a href="http://post.58.com/2050/8523/s5">管道疏通</a></li>
+<li><a href="http://post.58.com/2050/102/s5">生活配送</a></li>
+<li><a href="http://post.58.com/2050/111/s5">电脑维修</a></li>
+<li><a href="http://post.58.com/2050/203/s5">家电维修</a></li>
+<li><a href="http://post.58.com/2050/712/s5">数码维修</a></li>
+<li><a href="http://post.58.com/2050/710/s5">手机维修</a></li>
+<li><a href="http://post.58.com/2050/8516/s5">房屋维修/防水</a></li>
+<li><a href="http://post.58.com/2050/8558/s5">家具维修</a></li>
+<li><a href="http://post.58.com/2050/460/s5">开锁/换锁/修锁</a></li>
+<li><a href="http://post.58.com/2050/171/s5">洗衣店/皮具养护</a></li>
+<li><a href="http://post.58.com/2050/8493/s5">鲜花</a></li>
+<li><a href="http://post.58.com/2050/314/s5">殡葬</a></li>
+<li><a href="http://post.58.com/2050/310/s5">婚庆</a></li>
+<li><a href="http://post.58.com/2050/311/s5">摄影摄像</a></li>
+<li><a href="http://post.58.com/2050/207/s5">礼仪庆典</a></li>
+<li><a href="http://post.58.com/2050/37981/s5">养老院</a></li>
+<li></li>
+<!--   &lt;li&gt;&lt;a href="http://post.58.com/2050/120/s5"&gt;装修/装饰&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/309/s5"&gt;办公设备维修&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/234/s5"&gt;建材&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/360/s5"&gt;租赁&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/8537/s5"&gt;食品&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/8556/s5"&gt;餐饮&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/8717/s5"&gt;美发/美体&lt;/a&gt;&lt;/li&gt; 
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/8715/s5"&gt;娱乐休闲&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/798/s5"&gt;运动健身&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/8752/s5"&gt;户外&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://post.58.com/2050/8575/s5"&gt;专科医院&lt;/a&gt;&lt;/li&gt;-->
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/832/s2">宠物</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/252/s5">宠物狗</a></li>
+<li><a href="http://post.58.com/2050/251/s5">宠物猫</a></li>
+<li><a href="http://post.58.com/2050/19/s5">花鸟鱼虫</a></li>
+<li><a href="http://post.58.com/2050/253/s5">宠物用品/食品</a></li>
+<li><a href="http://post.58.com/2050/114/s5">宠物店/服务</a></li>
+<li><a href="http://post.58.com/2050/23004/s5">宠物赠送/领养</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/8703/s2">商务服务</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/125/s5">工商注册</a></li>
+<li><a href="http://post.58.com/2050/8546/s5">商标专利</a></li>
+<li><a href="http://post.58.com/2050/133/s5">法律咨询</a></li>
+<li><a href="http://post.58.com/2050/8543/s5">财务会计/评估</a></li>
+<li><a href="http://post.58.com/2050/8609/s5">保险</a></li>
+<li><a href="http://post.58.com/2050/14000/s5">投资担保</a></li>
+<li><a href="http://post.58.com/2050/128/s5">印刷包装</a></li>
+<li><a href="http://post.58.com/2050/196/s5">喷绘招牌</a></li>
+<li><a href="http://post.58.com/2050/199/s5">设计策划</a></li>
+<li><a href="http://post.58.com/2050/8735/s5">广告传媒</a></li>
+<li><a href="http://post.58.com/2050/35721/s5">展会服务</a></li>
+<li><a href="http://post.58.com/2050/36488/s5">礼品定制</a></li>
+<li><a href="http://post.58.com/2050/8692/s5">制卡</a></li>
+<li><a href="http://post.58.com/2050/186/s5">翻译/速记</a></li>
+<li><a href="http://post.58.com/2050/190/s5">网络布线/维护</a></li>
+<li><a href="http://post.58.com/2050/130/s5">网站建设/推广</a></li>
+<li><a href="http://post.58.com/2050/8608/s5">咨询</a></li>
+<li><a href="http://post.58.com/2050/35984/s5">起名/风水/算命</a></li>
+<li><a href="http://post.58.com/2050/97/s5">快递</a></li>
+<li><a href="http://post.58.com/2050/212/s5">货运物流</a></li>
+<li><a href="http://post.58.com/2050/24056/s5">货运专线</a></li>
+<li><a href="http://post.58.com/2050/309/s5">办公设备维修</a></li>
+<li><a href="http://post.58.com/2050/360/s5">租赁</a></li>
+<li><a href="http://post.58.com/2050/15520/s5">代办签证/签注</a></li>
+<li><a href="http://post.58.com/2050/34806/s5">建筑维修</a></li>
+<li><a href="http://post.58.com/2050/34807/s5">机械设备维修</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/833/s2">票务/卡券</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/250/s5">电影票</a></li>
+<li><a href="http://post.58.com/2050/38575/s5">体育赛事</a></li>
+<li><a href="http://post.58.com/2050/piao/s1">演出门票/展览</a></li>
+<li><a href="http://post.58.com/2050/254/s5">消费卡/优惠券</a></li>
+<li><a href="http://post.58.com/2050/249/s5">游乐园/景点票</a></li>
+<li><a href="http://post.58.com/2050/9198/s5">其他票务</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/92/s2">教育培训</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/14286/s5">中小学辅导班</a></li>
+<li><a href="http://post.58.com/2050/39257/s5">家教个人</a></li>
+<li><a href="http://post.58.com/2050/35694/s5">家教机构</a></li>
+<li><a href="http://post.58.com/2050/35691/s5">中小学一对一</a></li>
+<li><a href="http://post.58.com/2050/14419/s5">语言培训</a></li>
+<li><a href="http://post.58.com/2050/14455/s5">职业技能培训</a></li>
+<li><a href="http://post.58.com/2050/14502/s5">学历教育</a></li>
+<li><a href="http://post.58.com/2050/14326/s5">艺术培训</a></li>
+<li><a href="http://post.58.com/2050/34323/s5">体育培训</a></li>
+<li><a href="http://post.58.com/2050/14379/s5">IT培训</a></li>
+<li><a href="http://post.58.com/2050/14526/s5">设计培训</a></li>
+<li><a href="http://post.58.com/2050/14363/s5">管理培训</a></li>
+<li><a href="http://post.58.com/2050/14354/s5">婴幼儿教育</a></li>
+<li><a href="http://post.58.com/2050/14255/s5">留学</a></li>
+<li><a href="http://post.58.com/2050/14256/s5">移民</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/35071/s2">寻人/寻物</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/35072/s5">寻人启事/寻亲认领</a></li>
+<li><a href="http://post.58.com/2050/35073/s5">寻物启事/失物招领</a></li>
+<li><a href="http://post.58.com/2050/37945/s5">寻宠启示/宠物认领</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/8640/s2">旅游酒店</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/152/s5">旅行社</a></li>
+<li><a href="http://post.58.com/2050/8645/s5">国内游</a></li>
+<li><a href="http://post.58.com/2050/8659/s5">周边游</a></li>
+<li><a href="http://post.58.com/2050/8658/s5">出境游</a></li>
+<li><a href="http://post.58.com/2050/356/s5">酒店预订/住宿</a></li>
+<li><a href="http://post.58.com/2050/113/s5">机票</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/3/s2">同城交友</a>
+<ul class="ym-submnu">
+<li><a href="http://jiaoyou.58.com/?fabu/">异性交友</a></li>
+<li><a href="http://post.58.com/2050/22/s5">兴趣交友</a></li>
+<li><a href="http://post.58.com/2050/27/s5">同乡会</a></li>
+<li><a href="http://jiaoyou.58.com/skills">技能交换</a></li>
+<li><a href="http://post.58.com/2050/18/s5">驴友/活动/聚会</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/8538/s2">医疗健康</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/27600/s5">风湿科</a></li>
+<li><a href="http://post.58.com/2050/23096/s5">骨科</a></li>
+<li><a href="http://post.58.com/2050/8575/s5">皮肤科</a></li>
+<li><a href="http://post.58.com/2050/27603/s5">性病科</a></li>
+<li><a href="http://post.58.com/2050/38226/s5">不孕不育</a></li>
+<li><a href="http://post.58.com/2050/8577/s5">妇科</a></li>
+<li><a href="http://post.58.com/2050/719/s5">男科 </a></li>
+<li><a href="http://post.58.com/2050/721/s5">儿科 </a></li>
+<li><a href="http://post.58.com/2050/23442/s5">口腔科</a></li>
+<li><a href="http://post.58.com/2050/23444/s5">整形美容</a></li>
+<li><a href="http://post.58.com/2050/28220/s5">五官科</a></li>
+<li><a href="http://post.58.com/2050/23443/s5">眼科</a></li>
+<li><a href="http://post.58.com/2050/8544/s5">中医保健</a></li>
+<li><a href="http://post.58.com/2050/8542/s5">体检</a></li>
+<li><a href="http://post.58.com/2050/28223/s5">精神心理科</a></li>
+<li><a href="http://post.58.com/2050/28222/s5">内科</a></li>
+<li><a href="http://post.58.com/2050/28221/s5">外科</a></li>
+<li><a href="http://post.58.com/2050/27602/s5">泌尿科</a></li>
+<li><a href="http://post.58.com/2050/27601/s5">肛肠科</a></li>
+<li><a href="http://post.58.com/2050/37593/s5">肿瘤科</a></li>
+<li><a href="http://post.58.com/2050/8539/s5">社区医院</a></li>
+<li><a href="http://post.58.com/2050/37982/s5">医疗器械</a></li>
+<li><a href="http://post.58.com/2050/37983/s5">药品</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a class="over">餐饮/休闲娱乐/丽人</a>
+<ul class="ym-submnu">
+<li class="post_ym_li w_65">
+<dl>
+<dt>餐饮美食</dt>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/8719/s5">美食</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/145/s5">快餐/团膳</a></div>
+</dd>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/350/s5">外卖</a></div>
+</dd>
+<dt>休闲娱乐</dt>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/798/s5">运动健身</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/343/s5">夜店酒吧</a></div>
+</dd>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/148/s5">KTV</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/8752/s5">户外</a></div>
+</dd>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/26513/s5">洗浴温泉</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/35136/s5">足疗按摩</a></div>
+</dd>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/8715/s5">台球厅</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/26514/s5">棋牌桌游</a></div>
+</dd>
+<dd class="clearfix">
+<div class="w_50"><a href="http://post.58.com/2050/35135/s5">DIY手工坊</a></div>
+<div class="w_50"><a href="http://post.58.com/2050/35137/s5">电影院</a></div>
+</dd>
+</dl>
+</li>
+<li class="post_ym_li w_35">
+<dl>
+<dt>丽人</dt>
+<dd><a href="http://post.58.com/2050/8717/s5">美体瘦身</a></dd>
+<dd><a href="http://post.58.com/2050/14001/s5">美容护肤</a></dd>
+<dd><a href="http://post.58.com/2050/26515/s5">SPA</a></dd>
+<dd><a href="http://post.58.com/2050/8746/s5">舞蹈/瑜伽</a></dd>
+<dd><a href="http://post.58.com/2050/14539/s5">美发护发</a></dd>
+<dd><a href="http://post.58.com/2050/771/s5">美甲</a></dd>
+<dd><a href="http://post.58.com/2050/8761/s5">纹身</a></dd>
+</dl>
+</li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/187/s2">招商加盟</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/8605/s5">餐饮加盟</a></li>
+<li><a href="http://post.58.com/2050/8621/s5">服装加盟</a></li>
+<li><a href="http://post.58.com/2050/23446/s5">建材加盟</a></li>
+<li><a href="http://post.58.com/2050/8653/s5">机械加盟</a></li>
+<li><a href="http://post.58.com/2050/8630/s5">箱包加盟</a></li>
+<li><a href="http://post.58.com/2050/23447/s5">鞋加盟</a></li>
+<li><a href="http://post.58.com/2050/8711/s5">美容保健加盟</a></li>
+<li><a href="http://post.58.com/2050/8639/s5">礼品/小商品加盟</a></li>
+<li><a href="http://post.58.com/2050/8673/s5">家居环保加盟</a></li>
+<li><a href="http://post.58.com/2050/26526/s5">快递物流加盟</a></li>
+<li><a href="http://post.58.com/2050/8688/s5">教育/母婴加盟</a></li>
+<li><a href="http://post.58.com/2050/24298/s5">汽车服务加盟</a></li>
+<li><a href="http://post.58.com/2050/23445/s5">干洗养护加盟</a></li>
+<li><a href="http://post.58.com/2050/26524/s5">家政加盟</a></li>
+<li><a href="http://post.58.com/2050/26527/s5">网络服务加盟</a></li>
+<li><a href="http://post.58.com/2050/26525/s5">旅行社/票务加盟</a></li>
+<li><a href="http://post.58.com/2050/29379/s5">农业加盟</a></li>
+<li><a href="http://post.58.com/2050/8972/s5">特色加盟</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/26509/s2">装修建材</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/609/s5">家装服务</a></li>
+<li><a href="http://post.58.com/2050/611/s5">工装服务</a></li>
+<li><a href="http://post.58.com/2050/35828/s5">建房/翻建改造</a></li>
+<li><a href="http://post.58.com/2050/234/s5">建材</a></li>
+<li><a href="http://post.58.com/2050/26523/s5">家具</a></li>
+<li><a href="http://post.58.com/2050/26531/s5">家纺家饰</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/26508/s2">批发采购</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/8537/s5">食品</a></li>
+<li><a href="http://post.58.com/2050/8855/s5">礼品</a></li>
+<li><a href="http://post.58.com/2050/26516/s5">服饰鞋帽</a></li>
+<li><a href="http://post.58.com/2050/26517/s5">箱包/饰品</a></li>
+<li><a href="http://post.58.com/2050/26518/s5">手机数码</a></li>
+<li><a href="http://post.58.com/2050/26519/s5">母婴玩具</a></li>
+<li><a href="http://post.58.com/2050/26520/s5">户外运动</a></li>
+<li><a href="http://post.58.com/2050/26521/s5">化妆品</a></li>
+<li><a href="http://post.58.com/2050/37861/s5">安防设备</a></li>
+<li><a href="http://post.58.com/2050/37862/s5">纺织/布料</a></li>
+<li><a href="http://post.58.com/2050/37863/s5">商超设备</a></li>
+<li><a href="http://post.58.com/2050/37864/s5">化学品</a></li>
+<li><a href="http://post.58.com/2050/37865/s5">电工电料</a></li>
+<li><a href="http://post.58.com/2050/37866/s5">电子元器件</a></li>
+<li><a href="http://post.58.com/2050/38115/s5">仪表仪器</a></li>
+<li><a href="http://post.58.com/2050/38116/s5">灯具照明</a></li>
+<li><a href="http://post.58.com/2050/38117/s5">原材料</a></li>
+<li><a href="http://post.58.com/2050/38118/s5">包装</a></li>
+<li><a href="http://post.58.com/2050/27371/s5">音像</a></li>
+<li><a href="http://post.58.com/2050/27370/s5">图书</a></li>
+<li><a href="http://post.58.com/2050/26522/s5">卡券</a></li>
+</ul>
+</li>
+<li class="ym-tab"><a href="http://post.58.com/2050/35945/s2">农林牧副渔</a>
+<ul class="ym-submnu">
+<li><a href="http://post.58.com/2050/36008/s5">园林花卉</a></li>
+<li><a href="http://post.58.com/2050/35981/s5">农作物</a></li>
+<li><a href="http://post.58.com/2050/36014/s5">动植物种苗</a></li>
+<li><a href="http://post.58.com/2050/36011/s5">畜禽养殖</a></li>
+<li><a href="http://post.58.com/2050/36012/s5">水产</a></li>
+<li><a href="http://post.58.com/2050/36024/s5">农药/肥料</a></li>
+<li><a href="http://post.58.com/2050/36021/s5">饲料/兽药</a></li>
+<li><a href="http://post.58.com/2050/36018/s5">农机具/设备</a></li>
+<li><a href="http://post.58.com/2050/36027/s5">农产品加工/代理</a></li>
+</ul>
+</li>
+</ul><div class="c"></div>
+<div class="psearch">
+<div class="pshead"><em>搜索栏</em><input type="text" defaultvalue="请输入关键字查找您要发布的分类" class="pstxt" id="cateKey" /><input type="button" value="帮我推荐类别" class="psbtn" id="btn_cateSearch" /></div>
+<div id="psbox" class="psbox" style="display:none;">
+<ul></ul>
+</div>
+<div id="cateSearch_cannel" class="pscannel" style="display:none;"><em>取消</em></div>
+</div>
+</div><div class="hr_s"></div>
+</div>
+<script type="text/javascript">
+    // 获取url参数值
+    function getParameter(sProp) {
+        var re = new RegExp(sProp + "=([^\&amp;]*)", "i");
+        var a = re.exec(document.location.search);
+        if (a == null) return null;
+        return a[1];
+    }
+
+    // 是否为测试
+    function isTesting() {
+        return getParameter('debug') == 1;
+    }
+
+    // 统计发布历史的点击次数
+    function statHistory() {
+        try {
+            _gaq.push(['pageTracker._trackEvent', 'post', 'click', 'history']);
+        }catch(e){};
+    }
+</script>
+<script language="javascript" type="text/javascript">
+
+    function xssValue(str) {
+        if(str == null) return '';
+        str = str.replace(/&lt;(.*?)&gt;/gi, '');
+        str = str.replace(/&lt;/gi, '&lt;');
+        str = str.replace( /&gt;/gi, '&gt;');
+        str = str.replace(/'/gi, '&#39;');
+        str = str.replace(/"/gi, '&quot;');
+        return str;
+    }
+
+    // 提示用户没有找到
+    function showNotFind() { 
+            var key = xssValue($('#cateKey').val());
+            $('#psbox ul').append('&lt;li&gt;抱歉，没有找到“&lt;i&gt;' + key + '&lt;/i&gt;”相关的类别。您可以&lt;a href="http://about.58.com/LeaveWord.aspx?categid=6" target="_blank"&gt;与58对话&lt;/a&gt;反馈或者换个词试试&lt;/li&gt;');
+        }
+
+        // 提示用户错误
+        function showSearchErr(data) {
+            var key = xssValue($('#cateKey').val());
+            $('#psbox ul').append('&lt;li&gt;抱歉，' + (data == '-1' ? '查询超时' : '服务异常') + '。您可以&lt;a href="http://about.58.com/LeaveWord.aspx?categid=6" target="_blank"&gt;与58对话&lt;/a&gt;反馈或者重新尝试&lt;/li&gt;');
+        }
+
+    // ------------- 类别搜索 START
+    function showSearch(data) {
+        $('#psbox').show();
+        $('#cateSearch_cannel').slideDown('fast');
+        if (data == '') {
+            showNotFind();
+            return;
+        }
+
+        if (data == "-1" || data == "-2") {
+            _gaq.push(['pageTracker._trackEvent', '58_post', 's1_search_timeout', xssValue($('#cateKey').val())]);
+        }
+
+        if (isTesting()) {
+            if (data == "-1" || data == "-2") {
+                showSearchErr(data);
+                return;
+            }
+        } else {
+            if (data == '-1') {
+                showNotFind();
+                return;
+            }
+        }
+        
+        var arrGroup = data.split('|');
+        $('#psbox ul').append('&lt;li&gt;找到与“' + xssValue($('#cateKey').val()) + '”相关的类别共 &lt;b&gt;' + arrGroup.length + '&lt;/b&gt; 个，请选择适合的类目发布：&lt;/li&gt;');
+        $(arrGroup).each(function(i, n) { 
+            var item = n.split(',');
+            if(item[1]=='248'){
+            $('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/'+____json4fe.locallist.dispid+'/piao/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');	
+            }
+            else if(item[1] == '96' &amp;&amp; ____json4fe.locallist.dispid == '5845'){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/5845/banjia/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');}
+            else if(item[1] == '156' &amp;&amp; (____json4fe.locallist.dispid == '9678'|| ____json4fe.locallist.dispid == '18') ){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/post/haohuajiaoche/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');}
+            else if(item[1] == '310' &amp;&amp; (____json4fe.locallist.dispid == '5845' || ____json4fe.locallist.dispid == '1' || ____json4fe.locallist.dispid == '541' || ____json4fe.locallist.dispid == '483' )){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/'+____json4fe.locallist.dispid+'/hunqing/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');}	
+            else if(item[1] == '311' &amp;&amp; (____json4fe.locallist.dispid == '5845' || ____json4fe.locallist.dispid == '1' || ____json4fe.locallist.dispid == '541' || ____json4fe.locallist.dispid == '483')){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/'+____json4fe.locallist.dispid+'/hunsha/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');	
+            }else if(item[1] == '96' &amp;&amp; ____json4fe.locallist.dispid == '18'){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/18/banjia/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');	
+            }else if(item[1] == '95' &amp;&amp; ____json4fe.locallist.dispid == '5845' ){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/5845/baomu/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');	
+            }else if(item[1] == '135' &amp;&amp; ____json4fe.locallist.dispid == '5845' ){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/5845/fudao/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');
+			}else if(item[1] == '1912' &amp;&amp; ____json4fe.locallist.dispid == '5845' ){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/5845/yiduiyi/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');
+			}else if(item[1] == '1913' &amp;&amp; ____json4fe.locallist.dispid == '5845' ){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/5845/jiajiao/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');	
+            }else if(item[1] == '8659' &amp;&amp; ____json4fe.locallist.dispid == '1' ){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/'+____json4fe.locallist.dispid+'/zhoubianyou/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');
+            }else if(item[1] == '207' &amp;&amp; (____json4fe.locallist.dispid == '5845' || ____json4fe.locallist.dispid == '1' || ____json4fe.locallist.dispid == '541' || ____json4fe.locallist.dispid == '483' )){
+            	$('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/'+____json4fe.locallist.dispid+'/huizhan/s1"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');}	
+            else{
+            $('#psbox ul').append('&lt;li&gt;&lt;a href="http://post.58.com/t/' + item[1] + '/s5"&gt;' + item[0] + '&lt;/a&gt;&lt;/li&gt;');}
+            // Add by Jeky, at 2012-05-03, for: 如果搜索结果为1个的话就直接跳转
+            if(arrGroup.length == 1) {
+            	if(item[1] == '248'){
+            	location.href = 'http://post.58.com/'+____json4fe.locallist.dispid+'/piao/s1';
+  
+            	}else if(item[1] == '96' &amp;&amp; ____json4fe.locallist.dispid == '5845'){
+            		location.href = 'http://post.58.com/5845/banjia/s1';
+            	}
+            	else if(item[1] == '156' &amp;&amp; (____json4fe.locallist.dispid == '9678'|| ____json4fe.locallist.dispid == '18')){
+            		location.href = 'http://post.58.com/post/haohuajiaoche/s1';
+            	}
+            	else if(item[1] == '310' &amp;&amp; (____json4fe.locallist.dispid == '5845' || ____json4fe.locallist.dispid == '1' || ____json4fe.locallist.dispid == '541' || ____json4fe.locallist.dispid == '483')){
+            		location.href = 'http://post.58.com/'+____json4fe.locallist.dispid+'/hunqing/s1';
+            	}
+            	else if(item[1] == '311' &amp;&amp; (____json4fe.locallist.dispid == '5845' || ____json4fe.locallist.dispid == '1'  || ____json4fe.locallist.dispid == '541' || ____json4fe.locallist.dispid == '483')){
+            		location.href = 'http://post.58.com/'+____json4fe.locallist.dispid+'/hunsha/s1';
+            	}else if(item[1] == '207' &amp;&amp; (____json4fe.locallist.dispid == '5845' || ____json4fe.locallist.dispid == '1'  || ____json4fe.locallist.dispid == '541' || ____json4fe.locallist.dispid == '483')){
+            		location.href = 'http://post.58.com/'+____json4fe.locallist.dispid+'/huizhan/s1';
+            	 
+            	} else if(item[1] == '96' &amp;&amp; ____json4fe.locallist.dispid == '18'){
+            		location.href = 'http://post.58.com/18/banjia/s1';
+            	}else if(item[1] == '8659' &amp;&amp; ____json4fe.locallist.dispid == '1'){
+            		location.href = 'http://post.58.com/'+____json4fe.locallist.dispid+'/zhoubianyou/s1';
+            	}else if(item[1] == '95' &amp;&amp; ____json4fe.locallist.dispid == '5845'){
+            		location.href = 'http://post.58.com/5845/baomu/s1';
+            	}else if(item[1] == '135' &amp;&amp; ____json4fe.locallist.dispid == '5845'){
+            		location.href = 'http://post.58.com/5845/fudao/s1';
+				}else if(item[1] == '1912' &amp;&amp; ____json4fe.locallist.dispid == '5845'){
+            		location.href = 'http://post.58.com/5845/yiduiyi/s1';
+				}else if(item[1] == '1913' &amp;&amp; ____json4fe.locallist.dispid == '5845'){
+            		location.href = 'http://post.58.com/5845/jiajiao/s1';	
+            	}
+            	else{
+            		location.href = 'http://post.58.com/t/' + item[1] + '/s5';
+            	}
+                return false;
+            }
+        });
+        highlight($('#cateKey').val());
+        document.documentElement.scrollTop = document.documentElement.scrollHeight;
+    }
+    $(document).ready(function() {
+        $('#cateKey').bind('keypress', function(evt) {
+            if (evt.keyCode == 13) {
+                $('#btn_cateSearch').get(0).click();
+                return;
+            }
+        });
+        var _querying = false; // 是否正在查询中
+        $('#btn_cateSearch').bind('click', function() {
+            var key = $('#cateKey').val();
+            var defaultVal = $('#cateKey').attr('defaultvalue');
+            if (key == '' || key == defaultVal) {
+                $('#cateKey').focus();
+                return;
+            }
+            if (_querying) return;
+            _querying = true;
+            $('#psbox ul').empty();
+            $('#psbox ul').append('&lt;li&gt;正在查询中，请稍后……&lt;/li&gt;');
+            try {
+                $.ajax({
+                    url: 'http://post.58.com/ajax/?action=getrelatedword&callback;=cateSearch_callback&cityid;=' + ____json4fe.locallist.dispid + '&cateKey;=' + encodeURIComponent(key),
+                    type: 'get',
+                    cache: false,
+                    dataType:'script',
+                    success: function(data) { _querying = false; },
+                    error: function(data) {
+                        $('#psbox ul').empty();
+                        _querying = false;
+                    }
+                });
+            } catch (e) { }
+        });
+        // 取消事件
+        $('#cateSearch_cannel').bind('click', function() {
+            $('#psbox').slideUp('fast');
+            $('#cateSearch_cannel').hide();
+            $('#cateKey').select();
+        });
+        // 搜索框
+        $('#cateKey').val($('#cateKey').attr('defaultvalue'));
+        $('#cateKey').bind('focus', function() {
+            var _d = $(this).attr('defaultvalue');
+            if (_d == $(this).val()) {
+                $(this).val('');
+                $(this).attr('style', 'color:black');
+            }
+        }).bind('blur', function() {
+            var _d = $(this).attr('defaultvalue');
+            if ($(this).val() == '') {
+                $(this).val(_d);
+                $(this).removeAttr('style');
+            }
+        });
+    });
+    // 回调函数
+    function cateSearch_callback(data) {
+        $('#psbox ul').empty();
+        showSearch(data);
+        //统计代码 2010-12-15
+        _gaq.push(['pageTracker._trackEvent', '58_post', 's1_search', xssValue($('#cateKey').val())]);
+    }
+    // 标红
+    function highlight(key) {
+        var item = jQuery("#psbox a:contains('" + key + "')");
+        item.each(function() {
+            var it = jQuery(this);
+            it.html(it.html().replace(key, '&lt;font style="color:red;"&gt;' + key + '&lt;/font&gt;'));
+        });
+    }
+    // ------------- 类别搜索 END
+    
+    var BrowserUtil = { navi: navigator.userAgent.toLowerCase(), isIE: function() { var B = this; return (B.navi.indexOf("msie") != -1) &amp;&amp; (B.navi.indexOf("opera") == -1) &amp;&amp; (B.navi.indexOf("omniweb") == -1) }, isIE7: function() { var B = this; return (B.navi.indexOf("msie") != -1) &amp;&amp; (B.navi.indexOf("msie 7") != -1) &amp;&amp; (B.navi.indexOf("opera") == -1) &amp;&amp; (B.navi.indexOf("omniweb") == -1) }, isMaxthon: function() { var B = this; return (B.navi.indexOf("msie") != -1) &amp;&amp; (B.navi.indexOf("maxthon") != -1) &amp;&amp; (B.navi.indexOf("opera") == -1) &amp;&amp; (B.navi.indexOf("omniweb") == -1) }, isMaxthon2: function() { var B = this; return (B.navi.indexOf("msie") != -1) &amp;&amp; (B.navi.indexOf("maxthon 2") != -1) &amp;&amp; (B.navi.indexOf("opera") == -1) &amp;&amp; (B.navi.indexOf("omniweb") == -1) }, getBody: function() { return (document.compatMode &amp;&amp; document.compatMode != "BackCompat") ? document.documentElement : document.body }, getScrollTop: function() { return this.isIE() ? this.getBody().scrollTop : window.pageYOffset }, getScrollLeft: function() { return this.isIE() ? this.getBody().scrollLeft : window.pageXOffset }, getxy: function(E) { var C = E.offsetTop; var B = E.offsetLeft; var A = E.offsetWidth; var D = E.offsetHeight; while (E = E.offsetParent) { C += E.offsetTop; B += E.offsetLeft } return { x: B, y: C, w: A, h: D} } };
+    var topCurrentli;
+    function nav_over(D) {
+//        if (topCurrentli != null) {
+//            D.style.top = topCurrentli;
+        //        }
+        var A=BrowserUtil.getxy(D);
+	    var L=(D.clientHeight);
+	    var G=BrowserUtil.getBody().clientHeight;
+	    var I=G+BrowserUtil.getScrollTop();
+	    var F=document.getElementById("YMenu-side");
+	    if((A.y+L)&gt;I-10) {
+	        if (D.style.top &gt; (I - (A.y + L)) - 10) {
+	            D.style.top = (I - (A.y + L)) - 10 + "px";
+	        }
+	    }
+	}
+/**
+* 延迟显示插件lazyShow
+*/
+(function(a){a.fn.lazyShow=function(c){var b=a.extend({current:"hover",delay:10},c||{});a.each(this,function(){var f=null,e=null,d=false;a(this).bind("mouseover",function(){if(d){clearTimeout(e)}else{var g=a(this);f=setTimeout(function(){g.addClass(b.current);nav_over(g.find(".ym-submnu").get(0));d=true},b.delay)}}).bind("mouseout",function(){if(d){var g=a(this);e=setTimeout(function(){g.removeClass(b.current);d=false},b.delay)}else{clearTimeout(f)}})})}})(jQuery);
+	// 自动切换超链接
+    $(document).ready(function() {
+	$("#ymenu-side &gt; .ym-mainmnu &gt; .ym-tab").lazyShow({ current: "current",delay: 120});
+        var _host = location.host;
+        var reg = new RegExp('post(\\d+).58.com');
+        if (!reg.test(_host)) return;
+        $('#ymenu-side ul li a').each(function(i) {
+            var _url = $(this).attr('href');
+            if (_url) { 
+                _url = _url.replace(new RegExp('post.58.com', 'i'), _host);
+                $(this).attr('href', _url);
+            }
+        });
+    });
+</script>
+<script type="text/javascript">
+var _trackURL = "{'cate':'','area':'2050','pagetype':'post','poststep':'choosebigclass'}";
+var _gaq = _gaq || [];var site_name = "58";var page_type = "post";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/hk/choosebigclass/']); 
+boot.require('util.js', function(Frame, js){
+	Frame.init(function(){
+		js.append( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+		js.append('http://tracklog.58.com/referrer4.js');
+	});
+}); 
+</script>
+<div id="footer">&copy; 58.com <a href="http://about.58.com/v5/">帮助中心</a></div>
+</body>
+</html>

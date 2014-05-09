@@ -1,0 +1,636 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://pic2.58.com/back/favicon.ico" />
+<title>发布香港机械加盟信息-香港58同城</title>
+<script type="text/javascript"> var userid = '0'; try { var ____json4fe = { catentry: [{ oid:'187', dispid: '187', name: '招商加盟', listname: 'zhaoshang' }, { oid:'528', dispid: '8653', name: '机械加盟', listname: 'jixiejiagong' }, { dispid: '', name: '', listname: 'post5'}], locallist: { dispid: '2050', name: '香港', listname: 'hk' }, modules: 'postpage', ext: { uploadurl:'/flashupload/',locallist: { 'current':{ dispid: '2050', name: '香港', listname: 'hk' }, 'area':{dispid: '0', name: '', listname: ''} } } }} catch (e) { }; </script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/1.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/jquery1.3.2.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_postpage_version.js"> </script>
+<link href="http://static.58.com/ui6/post/post.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript"> document.domain = "58.com";  var postpic_version = 'java';</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/91/34.js?v=0917"></script>
+<script type="text/javascript"> var myInfo = { infoID:'0', userid:0, loginstate:'', cityid:2050, dispCityid:2050, curDiscateid:8653, rootCateName:'zhaoshang', currentCateName:'jixiejiagong', TopRoleMaxCount:0, CurrentPostCount:0, viewdata:{ baohushouji:''} };</script>
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/prompt.css?version=20120821" media="all" />
+<script type="text/javascript"> 
+var iqas_mcvalue = '1399621282837';var iqas_mcformula = 'function a(){var b="11096989445341399996080131";var c="";for(var d=0;d&lt;b.length;d++){if(b.charAt(d)==9) c+="0"; else c+=(parseInt(b.charAt(d))+1);}return "1"+c};try{a();}catch(e){}';$(function(){$("&lt;input name='iqas_mcresult' value='"+eval(iqas_mcformula.replace('checkValue', iqas_mcvalue))+"' / style='display:none'&gt;").appendTo($('#aspnetForm'));});
+</script></head>
+<body>
+<div id="header">
+<a href="http://www.58.com/" id="logo" target="_blank"><img src="http://pic2.58.com/ui6/post/logo.gif" title="到58同城首页" alt="58.com" /></a>
+<div class="bar_city"><h2>香港</h2>
+</div>
+<div class="post_login">
+<div id="login"><a target="_self" href="http://passport.58.com/login/?path=http%3A//post.58.com/">登录</a><span class="gap">|</span><a target="_self" href="http://passport.58.com/reg/?city=post">注册</a></div>
+</div>
+</div>
+<div class="flow_step_no3"> <!-- s --> <div class="flow_step"> <ol class="cols3"> <li class="step_1"><div><i>1</i><strong>招商加盟</strong><strong class="f12">(<a href="/2050">重选大类</a>)</strong><span></span></div><em class="f1"></em></li><li class="step_2"><div><i>2</i><strong>机械加盟</strong><strong class="f12"> (<a href="/2050/187/s2">重选小类</a>)</strong><span></span></div></li><li class="step_3"><div><i>3</i>填写信息<span></span></div><em class="f2"></em></li></ol> </div> <!-- e --> </div>
+<div class="minheightout w">
+<div class="c"></div>
+<div class="content"><div id="toperro" class="hc"></div><div name="mydear"><p class="ts1"><span class="ietishi">无法发布？<a href="http://about.58.com/28.html#q" target="_blank">查看帮助</a></span>
+&nbsp;亲爱的 <b> </b>， <span name="leftcountspan" style="display:none">今天在 <b> 机械加盟</b> 你还可以发布 <b name="leftcount" class="red"> </b> 条信息！</span></p></div>
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/post/yp/up_img.css" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/prompt.css?version=20120821" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ds/other/postpublic.css" media="all" />
+<div id="topinfomsg">1、请不要使用带有<b>58代言人</b>的宣传图片或带有<b>"58推荐"</b>等字样的图片。<br />2、信息<b>标题</b>请不要使用<b>"58推荐"</b>等词语。<br />3、以上情况一经发现，将视为虚假宣传并予以<b>删除</b>。<br />4、发布重复信息或灌水信息，信息将会被删除，严重者将锁定帐户。<a href="http://about.58.com/89.html?categid=1#b" target="_blank"><u>查看版规 </u></a></div>
+<form name="aspnetForm" method="post" target="formSubmit" id="aspnetForm" enctype="multipart/form-data">
+<span id="main">
+<table cellpadding="0" cellspacing="0" class="box1" id="formTb">
+<tr para="ObjectType"></tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 品牌名称：
+            </td>
+<td>
+<input type="text" name="pinpaimc" id="pinpaimc" value="" class="text2" except="" maxlength="15" />
+<span id="pinpaimc_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 归属区域：
+            </td>
+<td>
+<select id="localArea" name="localArea">
+<option value="-1">--区域--</option>
+<option value="2153">九龙城</option>
+<option value="2151">中西</option>
+<option value="2152">东区</option>
+<option value="2154">观塘</option>
+<option value="2161">湾仔</option>
+<option value="2174">沙田</option>
+<option value="2176">屯门</option>
+<option value="2183">荃湾</option>
+<option value="2160">黄大仙</option>
+<option value="2166">离岛</option>
+<option value="5602">其它</option>
+</select>&nbsp;
+                    <select id="localDiduan" name="localDiduan">
+<option value="-1">--商圈--</option>
+</select>
+<select id="selectDiduanHidden" style="display: none;">
+<option id="5602_2155" value="2155">南区</option>
+<option id="5602_2159" value="2159">深水埗</option>
+<option id="5602_2162" value="2162">元朗</option>
+<option id="5602_2171" value="2171">葵青</option>
+<option id="5602_2172" value="2172">北区</option>
+<option id="5602_2173" value="2173">西贡</option>
+<option id="5602_2180" value="2180">大埔</option>
+<option id="5602_5609" value="5609">其它</option>
+</select>
+<span id="dizhi_Tip"></span><p class="zitsq"><span>选择商圈可大幅增加展现率 </span>- - <a href="http://about.58.com/shangquan/" target="_blank">商圈说明</a></p>
+</td>
+</tr>
+<tr para="pinpails"></tr>
+<tr>
+<td class="t">
+                 品牌发源地：
+            </td>
+<td>
+<input type="text" name="pinpaifyd" id="pinpaifyd" value="" class="text2" except="null" maxlength="15" />
+<span id="pinpaifyd_Tip"></span>
+</td>
+</tr>
+<tr para="touzijine"></tr>
+<tr>
+<td class="t">
+                 加盟费：
+            </td>
+<td>
+<input type="text" name="MinPrice" id="MinPrice" value="" class="text5" except="null" maxlength="6" />元
+                <span id="MinPrice_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+                 保证金：
+            </td>
+<td>
+<input type="text" name="baozhengjin" id="baozhengjin" value="" class="text5" except="null" maxlength="6" />元
+                <span id="baozhengjin_Tip"></span>
+</td>
+</tr>
+<tr para="moshi"></tr>
+<!-- 服务范围全国 begin -->
+<tr>
+<td class="t"><b class="red">*</b>
+                  支持加盟城市：            </td>
+<td>
+<div class="jmcs">
+<div class="jmcs_01"><input name="gobfuwufanwei" type="radio" value="0" id="fuwubenshi_id" checked="true" tongji_tag="post_enter_benshi" />本市<i>（香港）</i></div>
+<div class="jmcs_02"><input name="gobfuwufanwei" type="radio" value="2" id="fuwuzhoubian_id" tongji_tag="post_enter_benshizhoubian" />本市及周边城市<br /><i id="zhoubian_updateid">深圳，珠海，澳门，东莞，中山，惠州，顺德，广州，台山，江门，佛山，汕尾，河源，揭阳，阳江，阳春，云浮，肇庆，清远，韶关，梅州，汕头</i>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0);" id="zhoubian_id" style="display:none;" tongji_tag="post_enter_benshizhoubianxiugai">修改<img src="http://pic2.58.com/ds/other/xiugai.gif" width="7" height="12" align="absmiddle" /></a></div>
+</div>
+</td>
+</tr>
+<input id="sheng_post_val" type="hidden" name="sheng" value="" />
+<input id="shi_post_val" type="hidden" name="shi" value="" />
+<input id="shangjiadizhi_post_val" type="hidden" name="gobshangjiadizhi" value="2050" />
+<!-- 服务范围全国  end -->
+<tr>
+<td class="t">
+<b class="red">*</b> 标 题：
+            </td>
+<td>
+<input type="text" name="Title" id="Title" value="" class="text1" except="" maxlength="25" />
+<span id="Title_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+                	 一句话推荐：
+            </td>
+<td>
+<input type="text" name="yijuhua" id="yijuhua" value="" class="text1" except="null" maxlength="25" />
+<span id="yijuhua_Tip"></span>
+<span id="yijuhua_placeholder" class="txt_placeholder"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 补充说明：
+            </td>
+<td><div id="div_htmleditor"></div>
+<textarea id="Content" name="Content" style="width:0px; height:0px; display:none;"></textarea>
+<span id="Content_Tip"></span><div id="divContentValue" style="display:none;"></div> </td>
+</tr>
+<tr>
+<th>上传图片</th>
+<td>
+<div id="showCon" class="photoguider" style="display:none">
+<span id="codeCon"></span><a href="javascript:void(0)" class="phone_guide_close">关闭</a>
+<span class="wuly_58down"><em>*</em>云相机功能需要58客户端V3.0以上版本，<a href="http://wap.58.com/wap.html" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'post', 'click', '/download/APclient/']);">点此获取</a></span>
+</div>
+<div id="uploadImgcontainer" class="clearfix pre-z imgbox90"></div>
+<div class="clearfix">
+<a class=" fl mr10 w_local" href="javascript:void(0)">
+<span id="flashContent"></span>
+<span style="z-index:10"><em></em>按住"Ctrl"可多选</span>
+</a>
+<a class=" fl mr10 w_phone" href="javascript:void(0)" onclick="MOBILEUP.init({showCode:$('#showCon'),codeCon:$('#codeCon'),rootcate:'2050', smallcate:'528', vcode:'', infoid:'0'}); _gaq.push(['pageTracker._trackEvent', 'post', 'click', '/upload/cloud/']); ">云相机拍照</a>
+<span class="fl f12 c_ccc mr10"><span id="hazupinfo">已上传图片<b class="green mlr2 upnum">0</b>/<b class="c_666 mlr2 maxnum">0</b>，</span>第一张默认为封面,每张最大<span class="action_po_top" id="size_limit">10</span>MB,支持<span id="photo_type">jpg/gif/png</span>格式</span>
+<span id="upload_Tip"></span>
+</div>
+<div style="display:none;" id="imglist">
+<input type="hidden" id="pic" name="pic" value="" />
+<input type="hidden" id="pictag" name="pictag" value="" />
+<textarea id="picdesc1" name="picdesc1"></textarea>
+<textarea id="picdesc2" name="picdesc2"></textarea>
+<textarea id="picdesc3" name="picdesc3"></textarea>
+<textarea id="picdesc4" name="picdesc4"></textarea>
+<textarea id="picdesc5" name="picdesc5"></textarea>
+<textarea id="picdesc6" name="picdesc6"></textarea>
+<textarea id="picdesc7" name="picdesc7"></textarea>
+<textarea id="picdesc8" name="picdesc8"></textarea>
+</div>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 联系人：
+            </td>
+<td>
+<input type="text" name="goblianxiren" id="goblianxiren" value="" class="text2" except="" maxlength="6" />
+<span id="goblianxiren_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 手机或电话：
+            </td>
+<td>
+<input except="" class="text2" type="text" id="Phone" name="Phone" value="" />
+<span id="Phone_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+</td>
+<td>
+<input type="submit" id="fabu" class="fabu1" value="马上发布" ct="submit" />
+</td>
+</tr>
+</table>
+</span>
+</form>
+</div>
+<!-- 服务范围 全国begin -->
+<div class="fe_window_mask" style="display:none;"><iframe style="width: 100%; height: 100%; background-color: rgb(0, 0, 0); opacity: 0;"></iframe></div>
+<div class="fe_window_02" style="display:none;">
+<div class="outer">
+<div class="contains_02">
+<ul class="clearfix">
+<li class="zxs">直辖市</li>
+<li><input vid="1052318" type="checkbox" value="5" />北京</li>
+<li><input vid="1052338" type="checkbox" value="25" />上海</li>
+<li><input vid="1052341" type="checkbox" value="28" />天津</li>
+<li><input vid="1052319" type="checkbox" value="6" />重庆</li>
+</ul>
+<ul class="clearfix">
+<li class="zxs">华东区</li>
+<li><a href="javascript:void(0);" vid="1052331" value="18" vid="">江苏</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052316" value="3">安徽</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052347" value="34">浙江</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052332" value="19">江西</a><em></em></li>
+</ul>
+<ul class="clearfix">
+<li class="zxs">华北区<em></em></li>
+<li><a href="javascript:void(0);" vid="1052324" value="11">河北</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052337" value="24">山东</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052334" value="21">内蒙古</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052340" value="27">山西</a><em></em></li>
+</ul>
+<ul class="clearfix">
+<li class="zxs">华中区</li>
+<li><a href="javascript:void(0);" vid="1052328" value="15">河南</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052325" value="12">湖北</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052329" value="16">湖南</a><em></em></li>
+</ul>
+<ul class="clearfix">
+<li class="zxs">华南区</li>
+<li><a href="javascript:void(0);" vid="1052322" value="9">广西</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052321" value="8">广东</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052320" value="7">福建</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052327" value="14">海南</a><em></em></li>
+</ul>
+<ul class="clearfix">
+<li class="zxs">东北区</li>
+<li><a href="javascript:void(0);" vid="1052326" value="13">黑龙江</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052330" value="17">吉林</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052333" value="20">辽宁</a><em></em></li>
+</ul>
+<ul class="clearfix">
+<li class="zxs">西北区</li>
+<li><a href="javascript:void(0);" vid="1052339" value="26">陕西</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052315" value="2">甘肃</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052344" value="31">新疆</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052335" value="22">宁夏</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052336" value="23">青海</a><em></em></li>
+</ul>
+<ul class="clearfix">
+<li class="zxs">西南区</li>
+<li><a href="javascript:void(0);" vid="1052323" value="10">贵州</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052314" value="1">四川</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052346" value="33">云南</a><em></em></li>
+<li><a href="javascript:void(0);" vid="1052345" value="32">西藏</a><em></em></li>
+</ul>
+<ul class="clearfix">
+<li class="zxs">特别行政区</li>
+<li><input vid="1052343" type="checkbox" value="30" />香港</li>
+<li><input vid="1052317" type="checkbox" value="4" />澳门</li>
+<li><input vid="1052342" type="checkbox" value="29" />台湾</li>
+</ul>
+<table width="100%" border="0" cellspacing="5" cellpadding="0" class="butcs">
+<tr>
+<td width="70%" valign="middle" style="color:#888; height:30px; line-height:30px;">
+<a target="_self" href="javascript:void(0);" id="quanxuan_id" class="closebtn_qx"></a>
+<!--&lt;a target="_self" href="javascript:void(0);" class="closebtn_qx" &gt;&lt;/a&gt;  --全选按钮样式-->
+   点击省份可以精确到对应市</td>
+<td width="16%" id="select_shi"></td>
+<td width="14%"><a target="_self" href="javascript:void(0);" class="closebtn_down_02"></a></td>
+</tr>
+</table>
+</div></div></div>
+<!-- 服务范围  全国 end -->
+<script type="text/javascript">
+var _hEditor = { he:null, empty_msg:'请填写补充说明', tipid:'Content_Tip', focus_msg:'10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除', reg:"^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", err_msg: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" };
+$(document).ready(
+    function(){
+    
+        if($.c.common.isIeVersion(9)){
+            $('#Content').removeAttr('style').attr('maxlength', '2000').attr('class', 'textarea2');
+            $('#Content').val($.c.common.stripHtml($('#Content').val()));
+        } else {
+            $.editor.initHtmlEditor();
+        }
+    }
+);
+</script>
+<script type="text/javascript">
+// 小类检测				
+function checkXiaolei(){
+	var cbx = 'xiaolei'; 	
+	$(':checkbox[name="'+cbx+'"]').click(function(){$(this).blur();});
+    $(':checkbox[name="'+cbx+'"]').formValidator({tipid: cbx +'_Tip', onfocus:''}).functionValidator({fun:function(){
+	    var len = $(':checkbox[name="'+cbx+'"]:checked').length;
+	    //if(len == 0) return '请至少选择一项';
+	    if(len &gt; 2) return '最多选择二项';
+	    return true;
+	}, onerror:''});
+}
+
+// cmcs 初始化
+$.cmcs.childrenCreatedEvent = {
+	'xiaolei': checkXiaolei
+};
+$.cmcs.rootPara = [{"type":1, "name":"类别", "nameid":2376, "pname":"ObjectType", "rnum":4, "len":1, "dv":"", "na":0, "value":[{"i":"246021","v":"1","t":"食品加工机械","a":"","c":"0", "p":"1" },{"i":"989439","v":"598760","t":"农用机械","a":"","c":"0", "p":"1" },{"i":"246023","v":"3","t":"工程机械","a":"","c":"0", "p":"1" },{"i":"989440","v":"598761","t":"环保机械","a":"","c":"0", "p":"1" }], "regs":[]},{"type":1, "name":"品牌历史", "nameid":5653, "pname":"pinpails", "rnum":5, "len":10, "dv":"", "na":1, "value":[{"i":"246083","v":"1","t":"1年以下","a":"","c":"0", "p":"0" },{"i":"246084","v":"2","t":"1-3年","a":"","c":"0", "p":"0" },{"i":"246085","v":"3","t":"3-5年","a":"","c":"0", "p":"0" },{"i":"246086","v":"4","t":"5-10年","a":"","c":"0", "p":"0" },{"i":"246087","v":"5","t":"10年以上","a":"","c":"0", "p":"0" }], "regs":[]},{"type":1, "name":"投资金额", "nameid":5655, "pname":"touzijine", "rnum":6, "len":10, "dv":"", "na":0, "value":[{"i":"246088","v":"1","t":"1万元以下","a":"","c":"5655", "p":"0" },{"i":"246089","v":"2","t":"1-5万元","a":"","c":"5655", "p":"0" },{"i":"246090","v":"3","t":"5-10万元","a":"","c":"5655", "p":"0" },{"i":"246091","v":"4","t":"10-20万元","a":"","c":"5655", "p":"0" },{"i":"246092","v":"5","t":"20-50万元","a":"","c":"5655", "p":"0" },{"i":"246093","v":"6","t":"50万元以上","a":"","c":"5655", "p":"0" }], "regs":[]},{"type":3, "name":"经营模式", "nameid":5658, "pname":"moshi", "rnum":7, "len":4, "dv":"", "na":1, "value":[{"i":"246094","v":"1","t":"经销","a":"","c":"0", "p":"0" },{"i":"246095","v":"2","t":"代理","a":"","c":"0", "p":"0" },{"i":"246096","v":"3","t":"特许","a":"","c":"0", "p":"0" },{"i":"246097","v":"4","t":"合作","a":"","c":"0", "p":"0" },{"i":"246098","v":"5","t":"自由连锁","a":"","c":"0", "p":"0" },{"i":"246099","v":"6","t":"直营","a":"","c":"0", "p":"0" },{"i":"246100","v":"7","t":"其他","a":"","c":"0", "p":"0" }], "regs":[]}];
+$.cmcs.infoPara = [];
+$(document).ready($.cmcs.initAutoTR);
+$(document).ready(function(){
+    $('#fabu').bind('click', $.cmcs.fabu_click);
+});
+</script>
+<script id="postScript" type="text/javascript">
+
+
+    $().ready(function() {
+	   function placeHolder(inputId,placeHolderId){
+            function getVal(obj){
+                var val='',tagName = obj.attr('tagName').toLowerCase();
+	            if(tagName == 'input' || tagName == 'textarea'){
+	                //input || textarea
+	                val = obj.val();
+	            }else{
+	                //伪造的编辑div
+	                val = obj.text();
+	            }
+	             return $.trim(val);
+            }
+            var input = $('#'+inputId),placeHolder = $('#'+placeHolderId);
+            if(getVal(input) != ''){
+                placeHolder.hide();
+            }
+	        input.focus(function(){
+	            placeHolder.hide();
+	        }).blur(function(){
+	            if(getVal($(this)) == ''){
+	                placeHolder.show();
+	            }
+	        });
+	        placeHolder.click(function(){
+	            input.focus();
+	        })
+        }
+		
+		
+		$(':checkbox[name="Tag"]').attr('f', '{0}'); 
+		showTag(); 
+        $('#ObjectType').bind('change', showTag); 	
+        //$.c.user.unlogin("&lt;%#baseHelper.contextModule.LoginState%&gt;");
+        $.formValidator.initConfig({ formid: "aspnetForm", errorfocus: true, btnid: 'fabu', fun:function(){
+		            if(!$.c.common.isIeVersion(9)){ if(!$.editor.checkHtmlEditor()) return false; } // 内容验证
+		            return true;
+		        }});
+       
+
+  $("#Title").formValidator({ tipid: "Title_Tip",onfocus: "6-25个字，不允许填写电话和特殊符号,可进行修改标题，并将重要产品信息在标题中展示", q2b: true, 'defaultvalue':''}).inputValidator({ onerror: "请输入标题" }).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{6,}$#^(.){6,25}$", onerror: "请输入标题#标题不足6个字#6-25个字，不能填写电话和特殊符号！" }).functionValidator({
+	        fun: function(val, elem) {
+	            return $.formValidator.checkTitle(val);
+	        },
+	        onerror: "标题太过简单"
+	    });
+
+             //一句话推荐
+           placeHolder('yijuhua','yijuhua_placeholder'); 
+		  $("#yijuhua").formValidator({ tipid: "yijuhua_Tip",onfocus: "可以填写产品加盟优势等，用于列表页展示，描述在30个字以内。", q2b: true, 'empty':true}).regexValidator({ regexp: "^[\\s\\S]{4,}$#^(.){4,36}$#^([^\\s]\\s{0,3}(?!([0-9０１２３４５６７８９零一二三四五六七八九壹贰叁肆伍陆柒捌玖]{6})))+$", onerror: "一句话推荐不足4个字#一句话推荐不能超过36个字#一句话推荐不允许填写联系方式" });		  
+		
+        $('#ObjectType').formValidator({ tipid:'ObjectType_Tip', onfocus: '请选择类别' }).functionValidator({ fun: function(val, elem) { return val != ''; }, onerror: '类别不能为空' });
+		$('#pinpaimc').formValidator({ tipid:'pinpaimc_Tip', onfocus:'2~15个字，不能填写电话和特殊符号', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "\\S+#^(.){2,15}$#^[\\w\\[\\]\\(\\)\\{\\}\\.\\s,\\-\\*，。（）【】“”—‘’\\u4e00-\\u9fa5]*$#^([^\\s]\\s{0,3}(?!([0-9 0 1 2 3 4 5 6 7 8 9 零一二三四五六七八九壹贰叁肆伍陆柒捌玖]{6})))+$", onerror: "请输入品牌名称#品牌名称不足2个字#品牌名称不能填写特殊字符#品牌名称不能填写电话" });
+		$('#pinpaifyd').formValidator({ tipid:'pinpaifyd_Tip', onfocus:'2~15个字，比如：广州', q2b:true , 'empty':true}).regexValidator({ regexp: "^(.){2,15}$#^[\\w\\[\\]\\(\\)\\{\\}\\.\\s,\\-\\*，。（）【】“”—‘’\\u4e00-\\u9fa5]*$#^([^\\s]\\s{0,3}(?!([0-9 0 1 2 3 4 5 6 7 8 9 零一二三四五六七八九壹贰叁肆伍陆柒捌玖]{6})))+$", onerror: "品牌发源地不足2个字#品牌发源地不能填写特殊字符#品牌发源地不能填写电话" });
+		
+		$('#MinPrice').formValidator({ tipid:'MinPrice_Tip', onfocus:'只能填写数字，加盟费不能为0', q2b:true , 'empty':true}).regexValidator({ regexp: "^[1-9]\\d{0,5}$", onerror: "只能填写数字，加盟费不能为0" });
+		$('#baozhengjin').formValidator({ tipid:'baozhengjin_Tip', onfocus:'只能填写数字，保证金不能为0', q2b:true , 'empty':true}).regexValidator({ regexp: "^[1-9]\\d{0,5}$", onerror: "只能填写数字，保证金不能为0" });
+		$('#moshi').formValidator({ tipid:'moshi_Tip', onfocus:'', q2b:true }).regexValidator({ regexp: "", onerror: "" });
+		$('#touzijine').formValidator({ tipid:'touzijine_Tip', onfocus: '请选择投资金额' }).functionValidator({ fun: function(val, elem) { return val != ''; }, onerror: '投资金额不能为空' });
+        
+	    $('#localArea').formValidator({ tipid:'dizhi_Tip', onfocus: '' }).functionValidator({ fun: function(val, elem) { return val != '-1'; }, onerror: '请选择区域' }).groupValidator({ groupName: "v2", nextgroupid: "localDiduan" });
+        $('#localDiduan').formValidator({ tipid:'dizhi_Tip', onfocus: '' }).functionValidator({ fun: function(val, elem) { return val != '-1' &amp;&amp; val != ''; }, onerror: '请选择商圈' }).groupValidator({ groupName: "v2", nextgroupid: "localArea" });
+          
+         if($.c.common.isIeVersion(9)){
+            $("#Content").formValidator({ tipid: "Content_Tip",onfocus: "10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除", 'defaultvalue':'' }).inputValidator({ onerror: "请填写补充说明" }).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", onerror: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" }).functionValidator({
+                fun: function(val, elem) {
+                    return $.formValidator.checkContent(val);
+                },
+                onerror: "内容太过简单"
+            });
+        }
+        $('#goblianxiren').formValidator({ tipid:'goblianxiren_Tip', onfocus:'2~6个字，不能填写电话和联系方式', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "\\S+#^(.){2,6}$#^[\\w\\d\\s\\u4e00-\\u9fa5]*$", onerror: "请输入联系人#联系人不足2个字#联系人不能填写特殊符号" });
+        $('#Phone').formValidator({ tipid:'Phone_Tip', onfocus:'请正确填写电话号码，分机可以用"-"分开。', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "^[0-9][-|0-9]{4,18}[0-9]$", onerror: "电话填写错误。格式为6-20位数字或“-”" });
+		;
+    });
+	$(document).ready(function(){$.c.user.user_unlogin('','2050');});
+	var _contentTip = '如：其他加盟条件，适合人群等';
+	$.j.initContentTip(_contentTip);
+    function showTag() {
+    	changetitle();
+        $.c.sale.gettag(8653,2050,'ObjectType',0,"tagul","tt");
+	setTimeout($.j.initTagCheck, 1000);
+    }
+</script>
+<script type="text/javascript">
+
+    // 页面元素
+    var _PE = {
+        xq: $('#xiaoqu'), // 小区
+        qy: $('#localArea'), // 区域
+        sq: $('#localDiduan')	// 商圈
+    };
+
+    // 刷新商圈 
+    function loadShangquan() {
+        $('#localDiduan option').remove();
+        $.c.common.addOptionsToSelect('localDiduan', '', '--商圈--');
+        var v1 = _PE.qy.val(); // 区域
+        if (!!v1) {
+            $('#selectDiduanHidden option').each(function(i, n) {
+                if ($(n).attr('id').indexOf(v1 + '_') != -1) {
+                    $.c.common.addOptionsToSelect('localDiduan', n.value, n.text);
+                }
+            });
+                        			// 没有商圈时，添加一个对应的区域
+            if ($('#localDiduan option').length == 1 &amp;&amp; v1 != -1) {
+                $.c.common.addOptionsToSelect('localDiduan', v1, _PE.qy.get(0).options[_PE.qy.get(0).selectedIndex].text);
+            }
+        }
+    }
+    $(function(){
+    	var pinpaimc = $("#pinpaimc");
+    	var touzijine = $("#touzijine");
+    	var pinpails = $("#pinpails");
+    	
+    	pinpaimc.change(function(){
+    		changetitle();
+    	});
+    	
+    	touzijine.change(function(){
+    		changetitle();
+    	});
+     	
+    	pinpails.change(function(){
+    		changetitle();
+    	});
+ 
+    });
+    
+    
+    
+	//该变标题 
+    function changetitle(){
+    	var pinpaimc = $("#pinpaimc");
+    	var ObjectType = $("#ObjectType");
+    	var touzijine = $("#touzijine");
+    	var Title = $("#Title");
+    	
+    	var titlestr = "";
+    	var pinpaimcs = pinpaimc.val();
+    	if(pinpaimcs!=""){
+    		 titlestr = pinpaimcs+"加盟";
+    	}
+    	
+    	if(ObjectType&amp;&amp;ObjectType.val()&amp;&amp;ObjectType.val().length&gt;0){
+    		titlestr +=" "+ObjectType.find("option:selected").text()
+    	}else{
+    		titlestr +=" "+"机械加盟";
+    		
+    	}
+    	if(touzijine.val().length&gt;0){
+    		titlestr +=" 投资金额 "+touzijine.find("option:selected").text()
+    	}
+    	
+    	Title.val(titlestr);
+    	
+    }
+
+    // 根据小区名称来获取区域和商圈id
+    function getCityAreaID() {
+        var xqName = _PE.xq.val();
+        if (!!xqName) {
+            var para = 'cityid=' + myInfo.dispCityid + '&amp;xq=' + encodeURIComponent(xqName);
+            $.j.callajax('getcityareabyxq', para, getCityAreaID_callback);
+        }
+    }
+    function getCityAreaID_callback(data) {
+        if (!!data) {
+            var arr = data.split(',');
+            if (arr.length == 2) {
+                var v1 = arr[0];
+                var v2 = arr[1];
+                _PE.qy.val(v1).trigger('change');
+                _PE.sq.val(v2);
+            }
+        }
+    }
+
+    // 事件绑定
+    $(document).ready(function() {
+        _PE.qy.bind('change', loadShangquan);
+
+        if (true) {
+            var v1 = '0';
+            var v2 = '0';
+            if (v1 != 0) {
+                _PE.qy.val(v1).trigger('change');
+            }
+            if (v2 != 0) {
+                _PE.sq.val(v2);
+            }
+        }
+    });
+</script>
+<script type="text/javascript" desc="新版图片上传接入">
+SWFUP.picpath="/p2/big/,/p2/small/,/p2/tiny/";
+SINGLEUP.picurl="p2";
+$(document).ready(function(){
+    UpImageShowBar.initBar({
+       hazDetail:false,
+       container:"uploadImgcontainer",
+       imgMax:8,
+       images:getPicValueForUpdate()
+    }); 
+});
+
+// 接收图片控件的值
+function getPicValueForPost() {
+    var pic = [];
+    var tag = [];
+    var desc = [];
+    var data = UpImageShowBar.getImgs();
+    if(data != null &amp;&amp; data.length &gt; 0) {
+        $(data).each(function(i, n){
+            // 标签
+            var _tag = n.label;
+            if(_tag == null) _tag = '';
+            tag.push(_tag);
+
+            // 图片路径
+            var _url = n.url;
+            _url = _url.replace('http://pic.58.com', '').replace('/tiny/', '/big/');
+            pic.push(_url);
+            desc.push(n.detail);
+            // 描述
+        });
+    }
+    return { "pic" : pic, "tag" : tag, "desc" : desc };
+}
+
+// 图片元素赋值
+function setPicValueForPost() {
+    var data = getPicValueForPost();
+    $.bll.xiaobao.create('pic', data.pic.join('|'));
+    $.bll.xiaobao.create('pictag', data.tag.join('|'));
+    $(data.desc).each(function(i,n){
+        var id = 'picdesc' + (++i);
+        $.bll.xiaobao.create(id, n);
+    });
+}
+
+// 获取图片数据用于修改时还原
+function getPicValueForUpdate() {
+    var data = [];
+
+    if($('#pic').val().length &gt; 10) {
+        var pic = $('#pic').val().split('|');
+        var tag = $('#pictag').val().split('|');
+        var desc = [];
+
+        $(pic).each(function(i, n){
+            var _tag = '';
+            if(i &lt;= tag.length - 1) _tag = tag[i];
+            data.push({'url': 'http://pic.58.com' + n, 'label':_tag, detail: $('#picdesc' + (i+1)).val()});
+        });
+    }
+
+    return data;
+    //{url:"http://pic.58.com/p1/tiny/n_19187650139921.jpg",label:"厨房",detail:"zzzz"}
+}
+
+$().ready(function(){
+    $("#fabu").click(setPicValueForPost);
+});
+</script>
+<!-- 服务范围 周边|全国js begin-->
+<script type="text/javascript">
+$.ZhouBianJson = [{"localname":"深圳","localid":"4"},{"localname":"珠海","localid":"910"},{"localname":"澳门","localid":"9384"},{"localname":"东莞","localid":"413"},{"localname":"中山","localid":"771"},{"localname":"惠州","localid":"722"},{"localname":"顺德","localid":"8694"},{"localname":"广州","localid":"3"},{"localname":"台山","localid":"11238"},{"localname":"江门","localid":"629"},{"localname":"佛山","localid":"222"},{"localname":"汕尾","localid":"9441"},{"localname":"河源","localid":"10462"},{"localname":"揭阳","localid":"927"},{"localname":"阳江","localid":"2284"},{"localname":"阳春","localid":"8556"},{"localname":"云浮","localid":"10480"},{"localname":"肇庆","localid":"901"},{"localname":"清远","localid":"7303"},{"localname":"韶关","localid":"2192"},{"localname":"梅州","localid":"9374"},{"localname":"汕头","localid":"783"}];
+var quanguoshengshi=[{"S":"北京","C":[{"name":"北京","value":"1"}],"vid":"1052318","value":"5"},{"S":"上海","C":[{"name":"上海","value":"2"}],"vid":"1052338","value":"25"},{"S":"天津","C":[{"name":"天津","value":"18"}],"vid":"1052341","value":"28"},{"S":"广东","C":[{"name":"广州","value":"3"},{"name":"深圳","value":"4"},{"name":"东莞","value":"413"},{"name":"佛山","value":"222"},{"name":"珠海","value":"910"},{"name":"中山","value":"771"},{"name":"汕头","value":"783"},{"name":"湛江","value":"791"},{"name":"云浮","value":"10480"},{"name":"阳江","value":"2284"},{"name":"肇庆","value":"901"},{"name":"潮州","value":"10456"},{"name":"顺德","value":"8694"},{"name":"阳春","value":"8556"},{"name":"台山","value":"11238"},{"name":"河源","value":"10462"},{"name":"惠州","value":"722"},{"name":"江门","value":"629"},{"name":"揭阳","value":"927"},{"name":"茂名","value":"679"},{"name":"梅州","value":"9374"},{"name":"清远","value":"7303"},{"name":"汕尾","value":"9441"},{"name":"韶关","value":"2192"}],"vid":"1052321","value":"8"},{"S":"江苏","C":[{"name":"南京","value":"172"},{"name":"苏州","value":"5"},{"name":"无锡","value":"93"},{"name":"常州","value":"463"},{"name":"徐州","value":"471"},{"name":"南通","value":"394"},{"name":"扬州","value":"637"},{"name":"淮安","value":"968"},{"name":"连云港","value":"2049"},{"name":"泰州","value":"693"},{"name":"宿迁","value":"2350"},{"name":"盐城","value":"613"},{"name":"镇江","value":"645"},{"name":"大丰","value":"11254"},{"name":"沭阳","value":"5772"}],"vid":"1052331","value":"18"},{"S":"浙江","C":[{"name":"杭州","value":"79"},{"name":"宁波","value":"135"},{"name":"温州","value":"330"},{"name":"金华","value":"531"},{"name":"嘉兴","value":"497"},{"name":"台州","value":"403"},{"name":"绍兴","value":"355"},{"name":"湖州","value":"831"},{"name":"义乌","value":"12221"},{"name":"舟山","value":"8470"},{"name":"丽水","value":"7923"},{"name":"乐清","value":"13895"},{"name":"衢州","value":"6793"},{"name":"瑞安","value":"13894"}],"vid":"1052347","value":"34"},{"S":"福建","C":[{"name":"福州","value":"304"},{"name":"厦门","value":"606"},{"name":"泉州","value":"291"},{"name":"莆田","value":"2429"},{"name":"漳州","value":"710"},{"name":"宁德","value":"7969"},{"name":"三明","value":"2048"},{"name":"南平","value":"10285"},{"name":"龙岩","value":"6752"},{"name":"武夷山","value":"10737"}],"vid":"1052320","value":"7"},{"S":"山东","C":[{"name":"济南","value":"265"},{"name":"青岛","value":"122"},{"name":"烟台","value":"228"},{"name":"潍坊","value":"362"},{"name":"临沂","value":"505"},{"name":"淄博","value":"385"},{"name":"威海","value":"518"},{"name":"泰安","value":"686"},{"name":"聊城","value":"882"},{"name":"济宁","value":"450"},{"name":"枣庄","value":"961"},{"name":"章丘","value":"8658"},{"name":"菏泽","value":"5632"},{"name":"滨州","value":"944"},{"name":"诸城","value":"9124"},{"name":"德州","value":"728"},{"name":"东营","value":"623"},{"name":"垦利","value":"11288"},{"name":"莱芜","value":"2292"},{"name":"日照","value":"3177"}],"vid":"1052337","value":"24"},{"S":"安徽","C":[{"name":"合肥","value":"837"},{"name":"芜湖","value":"2045"},{"name":"蚌埠","value":"3470"},{"name":"阜阳","value":"2325"},{"name":"淮南","value":"2319"},{"name":"安庆","value":"3251"},{"name":"六安","value":"2328"},{"name":"淮北","value":"9342"},{"name":"宿州","value":"3359"},{"name":"滁州","value":"10260"},{"name":"马鞍山","value":"2039"},{"name":"桐城","value":"11271"},{"name":"铜陵","value":"10279"},{"name":"宣城","value":"5633"},{"name":"亳州","value":"2329"},{"name":"巢湖","value":"10224"},{"name":"池州","value":"10254"},{"name":"和县","value":"10868"},{"name":"黄山","value":"2323"},{"name":"霍邱","value":"11201"}],"vid":"1052316","value":"3"},{"S":"广西","C":[{"name":"南宁","value":"845"},{"name":"柳州","value":"7133"},{"name":"桂林","value":"1039"},{"name":"玉林","value":"2337"},{"name":"梧州","value":"2046"},{"name":"北海","value":"10510"},{"name":"贵港","value":"6770"},{"name":"钦州","value":"2335"},{"name":"百色","value":"10506"},{"name":"河池","value":"2340"},{"name":"来宾","value":"10549"},{"name":"贺州","value":"10541"},{"name":"崇左","value":"10514"},{"name":"防城港","value":"10530"}],"vid":"1052322","value":"9"},{"S":"海南","C":[{"name":"海口","value":"2053"},{"name":"三亚","value":"2422"},{"name":"五指山","value":"9948"},{"name":"三沙","value":"13663"}],"vid":"1052327","value":"14"},{"S":"河南","C":[{"name":"郑州","value":"342"},{"name":"洛阳","value":"556"},{"name":"新乡","value":"1016"},{"name":"南阳","value":"592"},{"name":"许昌","value":"977"},{"name":"平顶山","value":"1005"},{"name":"安阳","value":"1096"},{"name":"焦作","value":"3266"},{"name":"商丘","value":"1029"},{"name":"开封","value":"2342"},{"name":"濮阳","value":"2346"},{"name":"周口","value":"933"},{"name":"信阳","value":"8672"},{"name":"驻马店","value":"1067"},{"name":"漯河","value":"2347"},{"name":"三门峡","value":"9303"},{"name":"鹤壁","value":"2344"},{"name":"济源","value":"9894"},{"name":"明港","value":"8531"},{"name":"鄢陵","value":"9101"},{"name":"禹州","value":"979"},{"name":"长葛","value":"9329"}],"vid":"1052328","value":"15"},{"S":"湖北","C":[{"name":"武汉","value":"158"},{"name":"宜昌","value":"858"},{"name":"襄阳","value":"891"},{"name":"荆州","value":"3479"},{"name":"十堰","value":"2032"},{"name":"黄石","value":"1734"},{"name":"孝感","value":"3434"},{"name":"黄冈","value":"2299"},{"name":"恩施","value":"2302"},{"name":"荆门","value":"2296"},{"name":"咸宁","value":"9616"},{"name":"鄂州","value":"9702"},{"name":"随州","value":"9630"},{"name":"潜江","value":"9655"},{"name":"天门","value":"9475"},{"name":"仙桃","value":"9723"},{"name":"神农架","value":"9597"}],"vid":"1052325","value":"12"},{"S":"湖南","C":[{"name":"长沙","value":"414"},{"name":"株洲","value":"1086"},{"name":"益阳","value":"10193"},{"name":"常德","value":"872"},{"name":"湘潭","value":"2047"},{"name":"衡阳","value":"914"},{"name":"岳阳","value":"821"},{"name":"郴州","value":"5695"},{"name":"邵阳","value":"2303"},{"name":"怀化","value":"5756"},{"name":"永州","value":"2307"},{"name":"娄底","value":"9455"},{"name":"湘西","value":"10214"},{"name":"张家界","value":"6788"}],"vid":"1052329","value":"16"},{"S":"重庆","C":[{"name":"重庆","value":"37"}],"vid":"1052319","value":"6"},{"S":"江西","C":[{"name":"南昌","value":"669"},{"name":"赣州","value":"2363"},{"name":"九江","value":"2247"},{"name":"宜春","value":"5709"},{"name":"吉安","value":"2364"},{"name":"上饶","value":"10116"},{"name":"萍乡","value":"2248"},{"name":"抚州","value":"10138"},{"name":"景德镇","value":"2360"},{"name":"新余","value":"10111"},{"name":"鹰潭","value":"3209"},{"name":"永新","value":"11053"}],"vid":"1052332","value":"19"},{"S":"辽宁","C":[{"name":"沈阳","value":"188"},{"name":"大连","value":"147"},{"name":"鞍山","value":"523"},{"name":"锦州","value":"2354"},{"name":"抚顺","value":"5722"},{"name":"营口","value":"5898"},{"name":"盘锦","value":"2041"},{"name":"朝阳","value":"10102"},{"name":"丹东","value":"3445"},{"name":"辽阳","value":"2038"},{"name":"本溪","value":"5845"},{"name":"葫芦岛","value":"10083"},{"name":"铁岭","value":"6729"},{"name":"阜新","value":"10093"},{"name":"庄河","value":"3306"},{"name":"瓦房店","value":"3279"}],"vid":"1052333","value":"20"},{"S":"黑龙江","C":[{"name":"哈尔滨","value":"202"},{"name":"大庆","value":"375"},{"name":"齐齐哈尔","value":"5853"},{"name":"牡丹江","value":"3489"},{"name":"绥化","value":"6718"},{"name":"佳木斯","value":"6776"},{"name":"鸡西","value":"7289"},{"name":"双鸭山","value":"9836"},{"name":"鹤岗","value":"9039"},{"name":"黑河","value":"9858"},{"name":"七台河","value":"9846"},{"name":"伊春","value":"9765"},{"name":"大兴安岭","value":"9875"}],"vid":"1052326","value":"13"},{"S":"吉林","C":[{"name":"长春","value":"319"},{"name":"吉林","value":"700"},{"name":"四平","value":"10167"},{"name":"延边","value":"3184"},{"name":"松原","value":"2315"},{"name":"白城","value":"5918"},{"name":"通化","value":"10157"},{"name":"白山","value":"10177"},{"name":"辽源","value":"2501"}],"vid":"1052330","value":"17"},{"S":"四川","C":[{"name":"成都","value":"102"},{"name":"绵阳","value":"1057"},{"name":"德阳","value":"2373"},{"name":"南充","value":"2378"},{"name":"宜宾","value":"2380"},{"name":"自贡","value":"6745"},{"name":"乐山","value":"3237"},{"name":"泸州","value":"2372"},{"name":"达州","value":"9799"},{"name":"内江","value":"5928"},{"name":"遂宁","value":"9695"},{"name":"攀枝花","value":"2371"},{"name":"眉山","value":"9704"},{"name":"广安","value":"2381"},{"name":"资阳","value":"6803"},{"name":"凉山","value":"9715"},{"name":"广元","value":"9751"},{"name":"雅安","value":"9676"},{"name":"巴中","value":"9808"},{"name":"甘孜","value":"9760"},{"name":"阿坝","value":"9814"}],"vid":"1052314","value":"1"},{"S":"河北","C":[{"name":"石家庄","value":"241"},{"name":"保定","value":"424"},{"name":"唐山","value":"276"},{"name":"廊坊","value":"772"},{"name":"邯郸","value":"572"},{"name":"秦皇岛","value":"1078"},{"name":"沧州","value":"652"},{"name":"邢台","value":"751"},{"name":"衡水","value":"993"},{"name":"张家口","value":"3328"},{"name":"承德","value":"6760"},{"name":"定州","value":"8408"},{"name":"张北","value":"11176"},{"name":"正定","value":"3198"},{"name":"赵县","value":"9026"},{"name":"馆陶","value":"8684"}],"vid":"1052324","value":"11"},{"S":"陕西","C":[{"name":"西安","value":"483"},{"name":"宝鸡","value":"2044"},{"name":"咸阳","value":"7453"},{"name":"渭南","value":"5733"},{"name":"延安","value":"8951"},{"name":"汉中","value":"3163"},{"name":"榆林","value":"5942"},{"name":"铜川","value":"9829"},{"name":"商洛","value":"9851"},{"name":"安康","value":"3157"}],"vid":"1052339","value":"26"},{"S":"贵州","C":[{"name":"贵阳","value":"2015"},{"name":"遵义","value":"7624"},{"name":"黔东南","value":"9348"},{"name":"黔南","value":"10441"},{"name":"六盘水","value":"10500"},{"name":"毕节","value":"10553"},{"name":"黔西南","value":"10430"},{"name":"安顺","value":"7458"},{"name":"铜仁","value":"10419"}],"vid":"1052323","value":"10"},{"S":"甘肃","C":[{"name":"兰州","value":"952"},{"name":"天水","value":"8467"},{"name":"白银","value":"10307"},{"name":"庆阳","value":"10470"},{"name":"平凉","value":"7154"},{"name":"酒泉","value":"10381"},{"name":"张掖","value":"10449"},{"name":"武威","value":"10443"},{"name":"定西","value":"10320"},{"name":"金昌","value":"7428"},{"name":"嘉峪关","value":"10356"},{"name":"甘南","value":"10337"},{"name":"临夏","value":"7112"},{"name":"陇南","value":"10409"}],"vid":"1052315","value":"2"},{"S":"山西","C":[{"name":"太原","value":"740"},{"name":"临汾","value":"5669"},{"name":"大同","value":"6964"},{"name":"运城","value":"5653"},{"name":"晋中","value":"8832"},{"name":"长治","value":"6921"},{"name":"晋城","value":"3350"},{"name":"阳泉","value":"8738"},{"name":"吕梁","value":"3222"},{"name":"忻州","value":"3453"},{"name":"朔州","value":"9869"},{"name":"临猗","value":"9179"},{"name":"清徐","value":"10884"}],"vid":"1052340","value":"27"},{"S":"云南","C":[{"name":"昆明","value":"541"},{"name":"曲靖","value":"2389"},{"name":"大理","value":"2398"},{"name":"红河","value":"2394"},{"name":"玉溪","value":"2040"},{"name":"丽江","value":"2392"},{"name":"文山","value":"2395"},{"name":"楚雄","value":"2393"},{"name":"西双版纳","value":"2397"},{"name":"昭通","value":"9394"},{"name":"德宏","value":"9422"},{"name":"普洱","value":"9429"},{"name":"迪庆","value":"9417"},{"name":"保山","value":"2390"},{"name":"怒江","value":"9452"},{"name":"临沧","value":"9407"}],"vid":"1052346","value":"33"},{"S":"内蒙古","C":[{"name":"呼和浩特","value":"811"},{"name":"包头","value":"801"},{"name":"赤峰","value":"6700"},{"name":"鄂尔多斯","value":"2037"},{"name":"通辽","value":"10012"},{"name":"呼伦贝尔","value":"10035"},{"name":"乌兰察布","value":"9998"},{"name":"乌海","value":"2404"},{"name":"锡林郭勒","value":"2408"},{"name":"兴安盟","value":"9983"},{"name":"巴彦淖尔","value":"10063"},{"name":"海拉尔","value":"2043"}],"vid":"1052334","value":"21"},{"S":"宁夏","C":[{"name":"银川","value":"2054"},{"name":"中卫","value":"9949"},{"name":"吴忠","value":"9959"},{"name":"石嘴山","value":"9967"},{"name":"固原","value":"2421"}],"vid":"1052335","value":"22"},{"S":"青海","C":[{"name":"西宁","value":"2052"},{"name":"海西","value":"9905"},{"name":"海北","value":"9934"},{"name":"果洛","value":"9940"},{"name":"玉树","value":"9886"},{"name":"海东","value":"9921"},{"name":"海南","value":"10567"},{"name":"黄南","value":"9896"}],"vid":"1052336","value":"23"},{"S":"新疆","C":[{"name":"乌鲁木齐","value":"984"},{"name":"阿克苏","value":"9510"},{"name":"吐鲁番","value":"9464"},{"name":"阿拉尔","value":"9545"},{"name":"阿拉善盟","value":"10078"},{"name":"图木舒克","value":"9563"},{"name":"巴音郭楞","value":"9533"},{"name":"五家渠","value":"9564"},{"name":"博尔塔拉","value":"9539"},{"name":"昌吉","value":"8572"},{"name":"伊犁","value":"9465"},{"name":"哈密","value":"7452"},{"name":"和田","value":"9486"},{"name":"喀什","value":"9311"},{"name":"克拉玛依","value":"2042"},{"name":"克孜勒苏","value":"9527"},{"name":"石河子","value":"9556"}],"vid":"1052344","value":"31"},{"S":"西藏","C":[{"name":"拉萨","value":"2055"},{"name":"日喀则","value":"9587"},{"name":"山南","value":"9578"},{"name":"林芝","value":"9635"},{"name":"那曲","value":"9625"},{"name":"昌都","value":"9636"},{"name":"阿里","value":"9686"}],"vid":"1052345","value":"32"},{"S":"香港","C":[{"name":"香港","value":"2050"}],"vid":"1052343","value":"30"},{"S":"台湾","C":[{"name":"台湾","value":"2051"}],"vid":"1052342","value":"29"},{"S":"澳门","C":[{"name":"澳门","value":"9384"}],"vid":"1052317","value":"4"}];
+</script>
+<!-- 服务范围 周边|全国js end-->
+<iframe style="display: none" src="about:blank" id="formSubmit" name="formSubmit"></iframe>
+<script type="text/javascript">
+	var usertype = "person";
+	if(false){
+		usertype = "vip";
+	}else{
+		if(false){
+			usertype = "biz";
+		}
+	}
+	
+    var _gaq = _gaq || []; var site_name = "58"; var page_type = "post";
+    var _trackURL = "{'cate':'187,8653','area':'2050','pagetype':'post','poststep':'fillout','postmode':'add','usertype':'person'}";
+    _gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+    _gaq.push(['pageTracker._setDomainName', '.58.com']);
+    _gaq.push(['pageTracker._setAllowLinker', true]);
+    _gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+    _gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+    _gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+    _gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+    _gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+    _gaq.push(['pageTracker._trackPageview','/hk/zhaoshang/jixiejiagong/' + usertype + '/fillout/add/']);
+    $.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+    //$.getScript('http://track.58.com/referrer2.js');
+    $.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<div id="footer">&copy; 58.com <a href="http://about.58.com/v5/">帮助中心</a></div>
+<script type="text/javascript">
+
+	$('#formSubmit').attr('src', '/submit.htm'); </script> <div id="fkdiv"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" align="middle"> <param name="movie" value="http://pic2.58.com/js/5_1/91/fc.0709.swf"> </param><param name="quality" value="high"></param><param name="allowScriptAccess" value="always"> <embed allowscriptaccess="always" src="http://pic2.58.com/js/5_1/91/fc.0709.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true"></embed> </param></object></div><script type="text/javascript">$.c.fk.i('fb812832-1023-4bb8-8072-c97fc57dbc2e');</script></div></body></html>

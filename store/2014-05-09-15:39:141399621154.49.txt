@@ -1,0 +1,1488 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://pic2.58.com/back/favicon.ico" />
+<title>发布香港留学信息-香港58同城</title>
+<script type="text/javascript"> var userid = '0'; try { var ____json4fe = { catentry: [{ oid:'92', dispid: '92', name: '教育培训', listname: 'jiaoyu' }, { oid:'104', dispid: '14255', name: '留学', listname: 'liuxue' }, { dispid: '', name: '', listname: 'post5'}], locallist: { dispid: '2050', name: '香港', listname: 'hk' }, modules: 'postpage', ext: { uploadurl:'/flashupload/',locallist: { 'current':{ dispid: '2050', name: '香港', listname: 'hk' }, 'area':{dispid: '0', name: '', listname: ''} } } }} catch (e) { }; </script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/1.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/jquery1.3.2.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_postpage_version.js"> </script>
+<link href="http://static.58.com/ui6/post/post.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript"> document.domain = "58.com";  var postpic_version = 'java';</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/91/34.js?v=0917"></script>
+<script type="text/javascript"> var myInfo = { infoID:'0', userid:0, loginstate:'', cityid:2050, dispCityid:2050, curDiscateid:14255, rootCateName:'jiaoyu', currentCateName:'liuxue', TopRoleMaxCount:0, CurrentPostCount:0, viewdata:{ baohushouji:''} };</script>
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/prompt.css?version=20120821" media="all" />
+<script type="text/javascript"> 
+var iqas_mcvalue = '1399621133252';var iqas_mcformula = 'function a(){var b="11096989445341399995936722";var c="";for(var d=b.length-1;d&gt;=0;d--){c+=b.charAt(d);}return "0"+c};try{a();}catch(e){}';$(function(){$("&lt;input name='iqas_mcresult' value='"+eval(iqas_mcformula.replace('checkValue', iqas_mcvalue))+"' / style='display:none'&gt;").appendTo($('#aspnetForm'));});
+</script></head>
+<body>
+<div id="header">
+<a href="http://www.58.com/" id="logo" target="_blank"><img src="http://pic2.58.com/ui6/post/logo.gif" title="到58同城首页" alt="58.com" /></a>
+<div class="bar_city"><h2>香港</h2>
+</div>
+<div class="post_login">
+<div id="login"><a target="_self" href="http://passport.58.com/login/?path=http%3A//post.58.com/">登录</a><span class="gap">|</span><a target="_self" href="http://passport.58.com/reg/?city=post">注册</a></div>
+</div>
+</div>
+<div class="flow_step_no3"> <!-- s --> <div class="flow_step"> <ol class="cols3"> <li class="step_1"><div><i>1</i><strong>教育培训</strong><strong class="f12">(<a href="/2050">重选大类</a>)</strong><span></span></div><em class="f1"></em></li><li class="step_2"><div><i>2</i><strong>留学</strong><strong class="f12"> (<a href="/2050/92/s2">重选小类</a>)</strong><span></span></div></li><li class="step_3"><div><i>3</i>填写信息<span></span></div><em class="f2"></em></li></ol> </div> <!-- e --> </div>
+<div class="minheightout w">
+<div class="c"></div>
+<div class="content"><div id="toperro" class="hc"></div><div name="mydear"><p class="ts1"><span class="ietishi">无法发布？<a href="http://about.58.com/28.html#q" target="_blank">查看帮助</a></span>
+&nbsp;亲爱的 <b> </b>， <span name="leftcountspan" style="display:none">今天在 <b> 留学</b> 你还可以发布 <b name="leftcount" class="red"> </b> 条信息！</span></p></div>
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/post/yp/up_img.css" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/post/yp/up_img_jiajiao.css" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/prompt.css?version=20120821" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.58.com/ui7/post/postpublic.css?version=20120821" media="all" />
+<div id="topinfomsg">1、请不要使用带有<b>58代言人</b>的宣传图片或带有<b>"58推荐"</b>等字样的图片。<br />2、信息<b>标题</b>请不要使用<b>"58推荐"</b>等词语。<br />3、以上情况一经发现，将视为虚假宣传并予以<b>删除</b>。<br />4、发布重复信息或灌水信息，信息将会被删除，严重者将锁定帐户。<a href="http://about.58.com/89.html?categid=1#b" target="_blank"><u>查看版规 </u></a></div>
+<form name="aspnetForm" method="post" target="formSubmit" id="aspnetForm" enctype="multipart/form-data">
+<span id="main">
+<table cellpadding="0" cellspacing="0" class="box1" id="formTb">
+<tr>
+<td class="t">
+<b class="red">*</b> 标 题：
+            </td>
+<td>
+<input type="text" name="Title" f="{0}" id="Title" value="" class="text1" except="" maxlength="25" />
+<span id="Title_Tip"></span>
+</td>
+</tr>
+<tr id="guojiaid">
+<td class="t"><b class="red">*</b> 国 家： </td>
+<td>
+<div id="jyboxtit" class="jyboxtit">
+</div>
+<div id="gj_frame" class="gj_frame">
+<input type="hidden" type="text" name="ObjectType" f="{0}" id="ObjectType" value="" text="" />
+<div id="guojiazimu" class="jyarea_tit">
+<ul class="zm_fenlei2">
+<li class="curr"><a href="javascript:void(0)" style="width: 37px;">热门</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">A</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">B</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">C</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">D</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">E</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">F</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">G</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">H</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">J</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">K</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">L</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">M</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">N</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">P</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">Q</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">R</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">S</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">T</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">W</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">X</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">Y</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;">Z</a></li>
+<li><a href="javascript:void(0)" style="width: 23px; font-family: Arial,sans-serif;"></a></li>
+</ul>
+</div>
+<div id="jygj_1" class="jyarea_con" style="display: block ;">
+<a href="javascript:void(0);" data="5" text="美国" style="display:block; float:left;
+						 width: 42px;
+											">美国</a>
+<a href="javascript:void(0);" data="6" text="加拿大" style="display:block; float:left;
+						 width: 54px;
+											">加拿大</a>
+<a href="javascript:void(0);" data="11" text="英国" style="display:block; float:left;
+						 width: 42px;
+											">英国</a>
+<a href="javascript:void(0);" data="13" text="德国" style="display:block; float:left;
+						 width: 42px;
+											">德国</a>
+<a href="javascript:void(0);" data="14" text="法国" style="display:block; float:left;
+						 width: 42px;
+											">法国</a>
+<a href="javascript:void(0);" data="9" text="澳洲" style="display:block; float:left;
+						 width: 42px;
+											">澳洲</a>
+<a href="javascript:void(0);" data="7" text="新加坡" style="display:block; float:left;
+						 width: 54px;
+											">新加坡</a>
+<a href="javascript:void(0);" data="8" text="日本" style="display:block; float:left;
+						 width: 42px;
+											">日本</a>
+<a href="javascript:void(0);" data="12" text="韩国" style="display:block; float:left;
+						 width: 42px;
+											">韩国</a>
+<a href="javascript:void(0);" data="431631" text="马来西亚" style="display:block; float:left;
+						 width: 66px;
+											">马来西亚</a>
+<a href="javascript:void(0);" data="431632" text="俄罗斯" style="display:block; float:left;
+						 width: 54px;
+											">俄罗斯</a>
+<a href="javascript:void(0);" data="431633" text="荷兰" style="display:block; float:left;
+						 width: 42px;
+											">荷兰</a>
+<a href="javascript:void(0);" data="15" text="西班牙" style="display:block; float:left;
+						 width: 54px;
+											">西班牙</a>
+<a href="javascript:void(0);" data="10" text="新西兰" style="display:block; float:left;
+						 width: 54px;
+											">新西兰</a>
+<a href="javascript:void(0);" data="599698" text="意大利" style="display:block; float:left;
+						 width: 54px;
+											">意大利</a>
+<a href="javascript:void(0);" data="599699" text="瑞士" style="display:block; float:left;
+						 width: 42px;
+											">瑞士</a>
+</div>
+<div id="jygj_2" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="9" text="澳洲" style="display:block; float:left;
+						 width: 42px;
+											">澳洲</a>
+<a href="javascript:void(0);" data="609727" text="埃及" style="display:block; float:left;
+						 width: 42px;
+											">埃及</a>
+<a href="javascript:void(0);" data="609732" text="埃塞俄比亚" style="display:block; float:left;
+						 width: 78px;
+											">埃塞俄比亚</a>
+<a href="javascript:void(0);" data="609729" text="奥地利" style="display:block; float:left;
+						 width: 54px;
+											">奥地利</a>
+<a href="javascript:void(0);" data="609722" text="安哥拉" style="display:block; float:left;
+						 width: 54px;
+											">安哥拉</a>
+<a href="javascript:void(0);" data="609737" text="安提瓜巴布达" style="display:block; float:left;
+						 width: 90px;
+											">安提瓜巴布达</a>
+<a href="javascript:void(0);" data="609728" text="安道尔" style="display:block; float:left;
+						 width: 54px;
+											">安道尔</a>
+<a href="javascript:void(0);" data="609724" text="爱尔兰" style="display:block; float:left;
+						 width: 54px;
+											">爱尔兰</a>
+<a href="javascript:void(0);" data="609736" text="爱沙尼亚" style="display:block; float:left;
+						 width: 66px;
+											">爱沙尼亚</a>
+<a href="javascript:void(0);" data="609723" text="阿塞拜疆" style="display:block; float:left;
+						 width: 66px;
+											">阿塞拜疆</a>
+<a href="javascript:void(0);" data="609726" text="阿富汗" style="display:block; float:left;
+						 width: 54px;
+											">阿富汗</a>
+<a href="javascript:void(0);" data="609734" text="阿尔及利亚" style="display:block; float:left;
+						 width: 78px;
+											">阿尔及利亚</a>
+<a href="javascript:void(0);" data="609725" text="阿尔巴尼亚" style="display:block; float:left;
+						 width: 78px;
+											">阿尔巴尼亚</a>
+<a href="javascript:void(0);" data="609730" text="阿曼" style="display:block; float:left;
+						 width: 42px;
+											">阿曼</a>
+<a href="javascript:void(0);" data="609733" text="阿根廷" style="display:block; float:left;
+						 width: 54px;
+											">阿根廷</a>
+<a href="javascript:void(0);" data="609735" text="阿联酋" style="display:block; float:left;
+						 width: 54px;
+											">阿联酋</a>
+<a href="javascript:void(0);" data="609731" text="阿鲁巴" style="display:block; float:left;
+						 width: 54px;
+											">阿鲁巴</a>
+</div>
+<div id="jygj_3" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609761" text="不丹" style="display:block; float:left;
+						 width: 42px;
+											">不丹</a>
+<a href="javascript:void(0);" data="609760" text="伯利兹" style="display:block; float:left;
+						 width: 54px;
+											">伯利兹</a>
+<a href="javascript:void(0);" data="609757" text="保加利亚" style="display:block; float:left;
+						 width: 66px;
+											">保加利亚</a>
+<a href="javascript:void(0);" data="609738" text="冰岛" style="display:block; float:left;
+						 width: 42px;
+											">冰岛</a>
+<a href="javascript:void(0);" data="609748" text="博茨瓦纳" style="display:block; float:left;
+						 width: 66px;
+											">博茨瓦纳</a>
+<a href="javascript:void(0);" data="609754" text="巴勒斯坦" style="display:block; float:left;
+						 width: 66px;
+											">巴勒斯坦</a>
+<a href="javascript:void(0);" data="609740" text="巴哈马" style="display:block; float:left;
+						 width: 54px;
+											">巴哈马</a>
+<a href="javascript:void(0);" data="609753" text="巴基斯坦" style="display:block; float:left;
+						 width: 66px;
+											">巴基斯坦</a>
+<a href="javascript:void(0);" data="609739" text="巴巴多斯" style="display:block; float:left;
+						 width: 66px;
+											">巴巴多斯</a>
+<a href="javascript:void(0);" data="609752" text="巴布亚新几内亚" style="display:block; float:left;
+						 width: 102px;
+											">巴布亚新几内亚</a>
+<a href="javascript:void(0);" data="609741" text="巴拉圭" style="display:block; float:left;
+						 width: 54px;
+											">巴拉圭</a>
+<a href="javascript:void(0);" data="609755" text="巴拿马" style="display:block; float:left;
+						 width: 54px;
+											">巴拿马</a>
+<a href="javascript:void(0);" data="609742" text="巴林" style="display:block; float:left;
+						 width: 42px;
+											">巴林</a>
+<a href="javascript:void(0);" data="609743" text="巴西" style="display:block; float:left;
+						 width: 42px;
+											">巴西</a>
+<a href="javascript:void(0);" data="609749" text="布基纳法索" style="display:block; float:left;
+						 width: 78px;
+											">布基纳法索</a>
+<a href="javascript:void(0);" data="609762" text="布隆迪" style="display:block; float:left;
+						 width: 54px;
+											">布隆迪</a>
+<a href="javascript:void(0);" data="609751" text="比利时" style="display:block; float:left;
+						 width: 54px;
+											">比利时</a>
+<a href="javascript:void(0);" data="609759" text="波兰" style="display:block; float:left;
+						 width: 42px;
+											">波兰</a>
+<a href="javascript:void(0);" data="609758" text="波多黎各" style="display:block; float:left;
+						 width: 66px;
+											">波多黎各</a>
+<a href="javascript:void(0);" data="609746" text="波黑" style="display:block; float:left;
+						 width: 42px;
+											">波黑</a>
+<a href="javascript:void(0);" data="609747" text="玻利维亚" style="display:block; float:left;
+						 width: 66px;
+											">玻利维亚</a>
+<a href="javascript:void(0);" data="609756" text="白俄罗斯" style="display:block; float:left;
+						 width: 66px;
+											">白俄罗斯</a>
+<a href="javascript:void(0);" data="609744" text="百慕大" style="display:block; float:left;
+						 width: 54px;
+											">百慕大</a>
+<a href="javascript:void(0);" data="609745" text="贝宁" style="display:block; float:left;
+						 width: 42px;
+											">贝宁</a>
+</div>
+<div id="jygj_4" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609763" text="朝鲜" style="display:block; float:left;
+						 width: 42px;
+											">朝鲜</a>
+<a href="javascript:void(0);" data="609764" text="赤道几内亚" style="display:block; float:left;
+						 width: 78px;
+											">赤道几内亚</a>
+</div>
+<div id="jygj_5" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="13" text="德国" style="display:block; float:left;
+						 width: 42px;
+											">德国</a>
+<a href="javascript:void(0);" data="609766" text="东帝汶" style="display:block; float:left;
+						 width: 54px;
+											">东帝汶</a>
+<a href="javascript:void(0);" data="609765" text="丹麦" style="display:block; float:left;
+						 width: 42px;
+											">丹麦</a>
+<a href="javascript:void(0);" data="609768" text="多哥" style="display:block; float:left;
+						 width: 42px;
+											">多哥</a>
+<a href="javascript:void(0);" data="609769" text="多米尼克" style="display:block; float:left;
+						 width: 66px;
+											">多米尼克</a>
+<a href="javascript:void(0);" data="609767" text="多米尼加" style="display:block; float:left;
+						 width: 66px;
+											">多米尼加</a>
+</div>
+<div id="jygj_6" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="431632" text="俄罗斯" style="display:block; float:left;
+						 width: 54px;
+											">俄罗斯</a>
+<a href="javascript:void(0);" data="609771" text="厄瓜多尔" style="display:block; float:left;
+						 width: 66px;
+											">厄瓜多尔</a>
+<a href="javascript:void(0);" data="609770" text="厄立特里亚" style="display:block; float:left;
+						 width: 78px;
+											">厄立特里亚</a>
+</div>
+<div id="jygj_7" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="14" text="法国" style="display:block; float:left;
+						 width: 42px;
+											">法国</a>
+<a href="javascript:void(0);" data="609772" text="佛得角" style="display:block; float:left;
+						 width: 54px;
+											">佛得角</a>
+<a href="javascript:void(0);" data="609775" text="斐济" style="display:block; float:left;
+						 width: 42px;
+											">斐济</a>
+<a href="javascript:void(0);" data="609774" text="芬兰" style="display:block; float:left;
+						 width: 42px;
+											">芬兰</a>
+<a href="javascript:void(0);" data="609773" text="菲律宾" style="display:block; float:left;
+						 width: 54px;
+											">菲律宾</a>
+</div>
+<div id="jygj_8" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609780" text="关岛" style="display:block; float:left;
+						 width: 42px;
+											">关岛</a>
+<a href="javascript:void(0);" data="609776" text="冈比亚" style="display:block; float:left;
+						 width: 54px;
+											">冈比亚</a>
+<a href="javascript:void(0);" data="609777" text="刚果(布)" style="display:block; float:left;
+						 width: 78px;
+											">刚果(布)</a>
+<a href="javascript:void(0);" data="609782" text="刚果(金)" style="display:block; float:left;
+						 width: 78px;
+											">刚果(金)</a>
+<a href="javascript:void(0);" data="609785" text="古巴" style="display:block; float:left;
+						 width: 42px;
+											">古巴</a>
+<a href="javascript:void(0);" data="609781" text="古巴共和国" style="display:block; float:left;
+						 width: 78px;
+											">古巴共和国</a>
+<a href="javascript:void(0);" data="609783" text="哥伦比亚" style="display:block; float:left;
+						 width: 66px;
+											">哥伦比亚</a>
+<a href="javascript:void(0);" data="609778" text="哥斯达黎加" style="display:block; float:left;
+						 width: 78px;
+											">哥斯达黎加</a>
+<a href="javascript:void(0);" data="609786" text="圭亚那" style="display:block; float:left;
+						 width: 54px;
+											">圭亚那</a>
+<a href="javascript:void(0);" data="609784" text="格林纳达" style="display:block; float:left;
+						 width: 66px;
+											">格林纳达</a>
+<a href="javascript:void(0);" data="609779" text="格鲁吉亚" style="display:block; float:left;
+						 width: 66px;
+											">格鲁吉亚</a>
+</div>
+<div id="jygj_9" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="12" text="韩国" style="display:block; float:left;
+						 width: 42px;
+											">韩国</a>
+<a href="javascript:void(0);" data="431633" text="荷兰" style="display:block; float:left;
+						 width: 42px;
+											">荷兰</a>
+<a href="javascript:void(0);" data="609788" text="哈萨克斯坦" style="display:block; float:left;
+						 width: 78px;
+											">哈萨克斯坦</a>
+<a href="javascript:void(0);" data="609787" text="洪都拉斯" style="display:block; float:left;
+						 width: 66px;
+											">洪都拉斯</a>
+<a href="javascript:void(0);" data="609790" text="海地" style="display:block; float:left;
+						 width: 42px;
+											">海地</a>
+<a href="javascript:void(0);" data="609791" text="荷属安的列斯" style="display:block; float:left;
+						 width: 90px;
+											">荷属安的列斯</a>
+<a href="javascript:void(0);" data="609789" text="黑山" style="display:block; float:left;
+						 width: 42px;
+											">黑山</a>
+</div>
+<div id="jygj_10" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="6" text="加拿大" style="display:block; float:left;
+						 width: 54px;
+											">加拿大</a>
+<a href="javascript:void(0);" data="609799" text="几内亚" style="display:block; float:left;
+						 width: 54px;
+											">几内亚</a>
+<a href="javascript:void(0);" data="609793" text="几内亚比绍" style="display:block; float:left;
+						 width: 78px;
+											">几内亚比绍</a>
+<a href="javascript:void(0);" data="609795" text="加纳" style="display:block; float:left;
+						 width: 42px;
+											">加纳</a>
+<a href="javascript:void(0);" data="609800" text="加蓬" style="display:block; float:left;
+						 width: 42px;
+											">加蓬</a>
+<a href="javascript:void(0);" data="609792" text="吉尔吉斯斯坦" style="display:block; float:left;
+						 width: 90px;
+											">吉尔吉斯斯坦</a>
+<a href="javascript:void(0);" data="609794" text="吉布提" style="display:block; float:left;
+						 width: 54px;
+											">吉布提</a>
+<a href="javascript:void(0);" data="609798" text="基里巴斯" style="display:block; float:left;
+						 width: 66px;
+											">基里巴斯</a>
+<a href="javascript:void(0);" data="609801" text="捷克" style="display:block; float:left;
+						 width: 42px;
+											">捷克</a>
+<a href="javascript:void(0);" data="609796" text="柬埔寨" style="display:block; float:left;
+						 width: 54px;
+											">柬埔寨</a>
+<a href="javascript:void(0);" data="609797" text="津巴布韦" style="display:block; float:left;
+						 width: 66px;
+											">津巴布韦</a>
+</div>
+<div id="jygj_11" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609805" text="克罗地亚" style="display:block; float:left;
+						 width: 66px;
+											">克罗地亚</a>
+<a href="javascript:void(0);" data="609807" text="卡塔尔" style="display:block; float:left;
+						 width: 54px;
+											">卡塔尔</a>
+<a href="javascript:void(0);" data="609802" text="喀麦隆" style="display:block; float:left;
+						 width: 54px;
+											">喀麦隆</a>
+<a href="javascript:void(0);" data="609806" text="库克群岛" style="display:block; float:left;
+						 width: 66px;
+											">库克群岛</a>
+<a href="javascript:void(0);" data="609803" text="开曼" style="display:block; float:left;
+						 width: 42px;
+											">开曼</a>
+<a href="javascript:void(0);" data="609809" text="科威特" style="display:block; float:left;
+						 width: 54px;
+											">科威特</a>
+<a href="javascript:void(0);" data="609808" text="科摩罗" style="display:block; float:left;
+						 width: 54px;
+											">科摩罗</a>
+<a href="javascript:void(0);" data="609804" text="科特迪瓦" style="display:block; float:left;
+						 width: 66px;
+											">科特迪瓦</a>
+<a href="javascript:void(0);" data="609810" text="肯尼亚" style="display:block; float:left;
+						 width: 54px;
+											">肯尼亚</a>
+</div>
+<div id="jygj_12" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609820" text="列支敦士登" style="display:block; float:left;
+						 width: 78px;
+											">列支敦士登</a>
+<a href="javascript:void(0);" data="609814" text="利比亚" style="display:block; float:left;
+						 width: 54px;
+											">利比亚</a>
+<a href="javascript:void(0);" data="609819" text="利比里亚" style="display:block; float:left;
+						 width: 66px;
+											">利比里亚</a>
+<a href="javascript:void(0);" data="609821" text="卢旺达" style="display:block; float:left;
+						 width: 54px;
+											">卢旺达</a>
+<a href="javascript:void(0);" data="609815" text="卢森堡" style="display:block; float:left;
+						 width: 54px;
+											">卢森堡</a>
+<a href="javascript:void(0);" data="609811" text="拉脱维亚" style="display:block; float:left;
+						 width: 66px;
+											">拉脱维亚</a>
+<a href="javascript:void(0);" data="609813" text="立陶宛" style="display:block; float:left;
+						 width: 54px;
+											">立陶宛</a>
+<a href="javascript:void(0);" data="609816" text="罗马尼亚" style="display:block; float:left;
+						 width: 66px;
+											">罗马尼亚</a>
+<a href="javascript:void(0);" data="609812" text="老挝" style="display:block; float:left;
+						 width: 42px;
+											">老挝</a>
+<a href="javascript:void(0);" data="609817" text="莱索托" style="display:block; float:left;
+						 width: 54px;
+											">莱索托</a>
+<a href="javascript:void(0);" data="609818" text="黎巴嫩" style="display:block; float:left;
+						 width: 54px;
+											">黎巴嫩</a>
+</div>
+<div id="jygj_13" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="5" text="美国" style="display:block; float:left;
+						 width: 42px;
+											">美国</a>
+<a href="javascript:void(0);" data="431631" text="马来西亚" style="display:block; float:left;
+						 width: 66px;
+											">马来西亚</a>
+<a href="javascript:void(0);" data="609841" text="墨西哥" style="display:block; float:left;
+						 width: 54px;
+											">墨西哥</a>
+<a href="javascript:void(0);" data="609828" text="孟加拉" style="display:block; float:left;
+						 width: 54px;
+											">孟加拉</a>
+<a href="javascript:void(0);" data="609838" text="密克罗尼西亚" style="display:block; float:left;
+						 width: 90px;
+											">密克罗尼西亚</a>
+<a href="javascript:void(0);" data="609839" text="摩尔多瓦" style="display:block; float:left;
+						 width: 66px;
+											">摩尔多瓦</a>
+<a href="javascript:void(0);" data="609830" text="摩洛哥" style="display:block; float:left;
+						 width: 54px;
+											">摩洛哥</a>
+<a href="javascript:void(0);" data="609840" text="摩纳哥" style="display:block; float:left;
+						 width: 54px;
+											">摩纳哥</a>
+<a href="javascript:void(0);" data="609836" text="毛里塔尼亚" style="display:block; float:left;
+						 width: 78px;
+											">毛里塔尼亚</a>
+<a href="javascript:void(0);" data="609822" text="毛里求斯" style="display:block; float:left;
+						 width: 66px;
+											">毛里求斯</a>
+<a href="javascript:void(0);" data="609750" text="秘鲁" style="display:block; float:left;
+						 width: 42px;
+											">秘鲁</a>
+<a href="javascript:void(0);" data="609829" text="缅甸" style="display:block; float:left;
+						 width: 42px;
+											">缅甸</a>
+<a href="javascript:void(0);" data="609827" text="美属维尔京群岛" style="display:block; float:left;
+						 width: 102px;
+											">美属维尔京群岛</a>
+<a href="javascript:void(0);" data="609832" text="美属萨摩亚" style="display:block; float:left;
+						 width: 78px;
+											">美属萨摩亚</a>
+<a href="javascript:void(0);" data="609831" text="莫桑比克" style="display:block; float:left;
+						 width: 66px;
+											">莫桑比克</a>
+<a href="javascript:void(0);" data="609837" text="蒙古" style="display:block; float:left;
+						 width: 42px;
+											">蒙古</a>
+<a href="javascript:void(0);" data="609835" text="马其顿" style="display:block; float:left;
+						 width: 54px;
+											">马其顿</a>
+<a href="javascript:void(0);" data="609823" text="马尔代夫" style="display:block; float:left;
+						 width: 66px;
+											">马尔代夫</a>
+<a href="javascript:void(0);" data="609824" text="马拉维" style="display:block; float:left;
+						 width: 54px;
+											">马拉维</a>
+<a href="javascript:void(0);" data="609826" text="马绍尔群岛" style="display:block; float:left;
+						 width: 78px;
+											">马绍尔群岛</a>
+<a href="javascript:void(0);" data="609834" text="马耳他" style="display:block; float:left;
+						 width: 54px;
+											">马耳他</a>
+<a href="javascript:void(0);" data="609833" text="马达加斯加" style="display:block; float:left;
+						 width: 78px;
+											">马达加斯加</a>
+<a href="javascript:void(0);" data="609825" text="马里" style="display:block; float:left;
+						 width: 42px;
+											">马里</a>
+</div>
+<div id="jygj_14" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609844" text="南非" style="display:block; float:left;
+						 width: 42px;
+											">南非</a>
+<a href="javascript:void(0);" data="609843" text="尼加拉瓜" style="display:block; float:left;
+						 width: 66px;
+											">尼加拉瓜</a>
+<a href="javascript:void(0);" data="609845" text="尼日利亚" style="display:block; float:left;
+						 width: 66px;
+											">尼日利亚</a>
+<a href="javascript:void(0);" data="609848" text="尼日尔" style="display:block; float:left;
+						 width: 54px;
+											">尼日尔</a>
+<a href="javascript:void(0);" data="609846" text="尼泊尔" style="display:block; float:left;
+						 width: 54px;
+											">尼泊尔</a>
+<a href="javascript:void(0);" data="609849" text="挪威" style="display:block; float:left;
+						 width: 42px;
+											">挪威</a>
+<a href="javascript:void(0);" data="609842" text="瑙鲁" style="display:block; float:left;
+						 width: 42px;
+											">瑙鲁</a>
+<a href="javascript:void(0);" data="609847" text="纳米比亚" style="display:block; float:left;
+						 width: 66px;
+											">纳米比亚</a>
+</div>
+<div id="jygj_15" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609850" text="帕劳" style="display:block; float:left;
+						 width: 42px;
+											">帕劳</a>
+<a href="javascript:void(0);" data="609851" text="葡萄牙" style="display:block; float:left;
+						 width: 54px;
+											">葡萄牙</a>
+</div>
+<div id="jygj_16" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="16" text="其他国家" style="display:block; float:left;
+						 width: 66px;
+											">其他国家</a>
+</div>
+<div id="jygj_17" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="8" text="日本" style="display:block; float:left;
+						 width: 42px;
+											">日本</a>
+<a href="javascript:void(0);" data="599699" text="瑞士" style="display:block; float:left;
+						 width: 42px;
+											">瑞士</a>
+<a href="javascript:void(0);" data="609852" text="瑞典" style="display:block; float:left;
+						 width: 42px;
+											">瑞典</a>
+</div>
+<div id="jygj_18" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609869" text="圣卢西亚" style="display:block; float:left;
+						 width: 66px;
+											">圣卢西亚</a>
+<a href="javascript:void(0);" data="609858" text="圣基茨和尼维斯" style="display:block; float:left;
+						 width: 102px;
+											">圣基茨和尼维斯</a>
+<a href="javascript:void(0);" data="609868" text="圣多美和普林西比" style="display:block; float:left;
+						 width: 114px;
+											">圣多美和普林西比</a>
+<a href="javascript:void(0);" data="609870" text="圣文森特和格林纳丁斯" style="display:block; float:left;
+						 width: 148px;
+											">圣文森特和格林纳丁斯</a>
+<a href="javascript:void(0);" data="609859" text="圣马力诺" style="display:block; float:left;
+						 width: 66px;
+											">圣马力诺</a>
+<a href="javascript:void(0);" data="609854" text="塞内加尔" style="display:block; float:left;
+						 width: 66px;
+											">塞内加尔</a>
+<a href="javascript:void(0);" data="609853" text="塞尔维亚" style="display:block; float:left;
+						 width: 66px;
+											">塞尔维亚</a>
+<a href="javascript:void(0);" data="609865" text="塞拉利昂" style="display:block; float:left;
+						 width: 66px;
+											">塞拉利昂</a>
+<a href="javascript:void(0);" data="609856" text="塞浦路斯" style="display:block; float:left;
+						 width: 66px;
+											">塞浦路斯</a>
+<a href="javascript:void(0);" data="609867" text="塞舌尔" style="display:block; float:left;
+						 width: 54px;
+											">塞舌尔</a>
+<a href="javascript:void(0);" data="609873" text="所罗门群岛" style="display:block; float:left;
+						 width: 78px;
+											">所罗门群岛</a>
+<a href="javascript:void(0);" data="609861" text="斯威士兰" style="display:block; float:left;
+						 width: 66px;
+											">斯威士兰</a>
+<a href="javascript:void(0);" data="609860" text="斯洛伐克" style="display:block; float:left;
+						 width: 66px;
+											">斯洛伐克</a>
+<a href="javascript:void(0);" data="609871" text="斯洛文尼亚" style="display:block; float:left;
+						 width: 78px;
+											">斯洛文尼亚</a>
+<a href="javascript:void(0);" data="609864" text="斯里兰卡" style="display:block; float:left;
+						 width: 66px;
+											">斯里兰卡</a>
+<a href="javascript:void(0);" data="609857" text="沙特阿拉伯" style="display:block; float:left;
+						 width: 78px;
+											">沙特阿拉伯</a>
+<a href="javascript:void(0);" data="609863" text="索马里" style="display:block; float:left;
+						 width: 54px;
+											">索马里</a>
+<a href="javascript:void(0);" data="609872" text="苏丹" style="display:block; float:left;
+						 width: 42px;
+											">苏丹</a>
+<a href="javascript:void(0);" data="609862" text="苏里南" style="display:block; float:left;
+						 width: 54px;
+											">苏里南</a>
+<a href="javascript:void(0);" data="609855" text="萨尔瓦多" style="display:block; float:left;
+						 width: 66px;
+											">萨尔瓦多</a>
+<a href="javascript:void(0);" data="609866" text="萨摩亚" style="display:block; float:left;
+						 width: 54px;
+											">萨摩亚</a>
+</div>
+<div id="jygj_19" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609878" text="图瓦卢" style="display:block; float:left;
+						 width: 54px;
+											">图瓦卢</a>
+<a href="javascript:void(0);" data="609882" text="土库曼斯坦" style="display:block; float:left;
+						 width: 78px;
+											">土库曼斯坦</a>
+<a href="javascript:void(0);" data="609877" text="土耳其" style="display:block; float:left;
+						 width: 54px;
+											">土耳其</a>
+<a href="javascript:void(0);" data="609875" text="坦桑尼亚" style="display:block; float:left;
+						 width: 66px;
+											">坦桑尼亚</a>
+<a href="javascript:void(0);" data="609879" text="塔吉克斯坦" style="display:block; float:left;
+						 width: 78px;
+											">塔吉克斯坦</a>
+<a href="javascript:void(0);" data="609880" text="汤加" style="display:block; float:left;
+						 width: 42px;
+											">汤加</a>
+<a href="javascript:void(0);" data="609874" text="泰国" style="display:block; float:left;
+						 width: 42px;
+											">泰国</a>
+<a href="javascript:void(0);" data="609876" text="特立尼达和多巴哥" style="display:block; float:left;
+						 width: 114px;
+											">特立尼达和多巴哥</a>
+<a href="javascript:void(0);" data="609881" text="突尼斯" style="display:block; float:left;
+						 width: 54px;
+											">突尼斯</a>
+</div>
+<div id="jygj_20" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609889" text="乌克兰" style="display:block; float:left;
+						 width: 54px;
+											">乌克兰</a>
+<a href="javascript:void(0);" data="609890" text="乌兹别克斯坦" style="display:block; float:left;
+						 width: 90px;
+											">乌兹别克斯坦</a>
+<a href="javascript:void(0);" data="609885" text="乌干达" style="display:block; float:left;
+						 width: 54px;
+											">乌干达</a>
+<a href="javascript:void(0);" data="609886" text="乌拉圭" style="display:block; float:left;
+						 width: 54px;
+											">乌拉圭</a>
+<a href="javascript:void(0);" data="609887" text="危地马拉" style="display:block; float:left;
+						 width: 66px;
+											">危地马拉</a>
+<a href="javascript:void(0);" data="609884" text="委内瑞拉" style="display:block; float:left;
+						 width: 66px;
+											">委内瑞拉</a>
+<a href="javascript:void(0);" data="609888" text="文莱" style="display:block; float:left;
+						 width: 42px;
+											">文莱</a>
+<a href="javascript:void(0);" data="609883" text="瓦努阿图" style="display:block; float:left;
+						 width: 66px;
+											">瓦努阿图</a>
+</div>
+<div id="jygj_21" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="7" text="新加坡" style="display:block; float:left;
+						 width: 54px;
+											">新加坡</a>
+<a href="javascript:void(0);" data="15" text="西班牙" style="display:block; float:left;
+						 width: 54px;
+											">西班牙</a>
+<a href="javascript:void(0);" data="10" text="新西兰" style="display:block; float:left;
+						 width: 54px;
+											">新西兰</a>
+<a href="javascript:void(0);" data="609891" text="匈牙利" style="display:block; float:left;
+						 width: 54px;
+											">匈牙利</a>
+<a href="javascript:void(0);" data="609893" text="叙利亚" style="display:block; float:left;
+						 width: 54px;
+											">叙利亚</a>
+<a href="javascript:void(0);" data="609892" text="希腊" style="display:block; float:left;
+						 width: 42px;
+											">希腊</a>
+</div>
+<div id="jygj_22" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="11" text="英国" style="display:block; float:left;
+						 width: 42px;
+											">英国</a>
+<a href="javascript:void(0);" data="599698" text="意大利" style="display:block; float:left;
+						 width: 54px;
+											">意大利</a>
+<a href="javascript:void(0);" data="609901" text="也门" style="display:block; float:left;
+						 width: 42px;
+											">也门</a>
+<a href="javascript:void(0);" data="609894" text="亚美尼亚" style="display:block; float:left;
+						 width: 66px;
+											">亚美尼亚</a>
+<a href="javascript:void(0);" data="609896" text="以色列" style="display:block; float:left;
+						 width: 54px;
+											">以色列</a>
+<a href="javascript:void(0);" data="609895" text="伊拉克" style="display:block; float:left;
+						 width: 54px;
+											">伊拉克</a>
+<a href="javascript:void(0);" data="609902" text="伊朗" style="display:block; float:left;
+						 width: 42px;
+											">伊朗</a>
+<a href="javascript:void(0);" data="609903" text="印度" style="display:block; float:left;
+						 width: 42px;
+											">印度</a>
+<a href="javascript:void(0);" data="609897" text="印度尼西亚" style="display:block; float:left;
+						 width: 78px;
+											">印度尼西亚</a>
+<a href="javascript:void(0);" data="609900" text="牙买加" style="display:block; float:left;
+						 width: 54px;
+											">牙买加</a>
+<a href="javascript:void(0);" data="609904" text="约旦" style="display:block; float:left;
+						 width: 42px;
+											">约旦</a>
+<a href="javascript:void(0);" data="609898" text="英属维尔京群岛" style="display:block; float:left;
+						 width: 102px;
+											">英属维尔京群岛</a>
+<a href="javascript:void(0);" data="609905" text="英格兰" style="display:block; float:left;
+						 width: 54px;
+											">英格兰</a>
+<a href="javascript:void(0);" data="609899" text="越南" style="display:block; float:left;
+						 width: 42px;
+											">越南</a>
+</div>
+<div id="jygj_23" class="jyarea_con" style="display:  none ;">
+<a href="javascript:void(0);" data="609912" text="中华台北" style="display:block; float:left;
+						 width: 66px;
+											">中华台北</a>
+<a href="javascript:void(0);" data="609906" text="中国" style="display:block; float:left;
+						 width: 42px;
+											">中国</a>
+<a href="javascript:void(0);" data="609913" text="中国澳门" style="display:block; float:left;
+						 width: 66px;
+											">中国澳门</a>
+<a href="javascript:void(0);" data="609909" text="中国香港" style="display:block; float:left;
+						 width: 66px;
+											">中国香港</a>
+<a href="javascript:void(0);" data="609908" text="中非" style="display:block; float:left;
+						 width: 42px;
+											">中非</a>
+<a href="javascript:void(0);" data="609907" text="乍得" style="display:block; float:left;
+						 width: 42px;
+											">乍得</a>
+<a href="javascript:void(0);" data="609911" text="智利" style="display:block; float:left;
+						 width: 42px;
+											">智利</a>
+<a href="javascript:void(0);" data="609910" text="赞比亚" style="display:block; float:left;
+						 width: 54px;
+											">赞比亚</a>
+</div>
+<div id="jygj_24" class="jyarea_con" style="display:  none ;">
+</div>
+</div>
+<span id="ObjectType_Tip"></span>
+</td>
+</tr>
+<tr para="site"></tr>
+<tr para="ymcategory"></tr>
+<tr para="shenqingxueli"></tr>
+<tr para="fuwuleixing"></tr>
+<tr para="kechengsc"></tr>
+<tr para="fuwuduixiang"></tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 服务介绍：
+                        </td>
+<td><div id="div_htmleditor"></div>
+<textarea id="Content" name="Content" style="width:0px; height:0px; display:none;"></textarea>
+<span id="Content_Tip"></span><div id="divContentValue" style="display:none;"></div> </td>
+</tr>
+<tr>
+<th>上传图片</th>
+<td>
+<div id="showCon" class="photoguider" style="display:none">
+<span id="codeCon"></span><a href="javascript:void(0)" class="phone_guide_close">关闭</a>
+<span class="wuly_58down"><em>*</em>云相机功能需要58客户端V3.0以上版本，<a href="http://wap.58.com/wap.html" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'post', 'click', '/download/APclient/']);">点此获取</a></span>
+</div>
+<div id="uploadImgcontainer" class="clearfix pre-z imgbox90"></div>
+<div class="clearfix">
+<a class=" fl mr10 w_local" href="javascript:void(0)">
+<span id="flashContent"></span>
+<span style="z-index:10"><em></em>按住"Ctrl"可多选</span>
+</a>
+<a class=" fl mr10 w_phone" href="javascript:void(0)" onclick="MOBILEUP.init({showCode:$('#showCon'),codeCon:$('#codeCon'),rootcate:'2050', smallcate:'104', vcode:'', infoid:'0'}); _gaq.push(['pageTracker._trackEvent', 'post', 'click', '/upload/cloud/']); ">云相机拍照</a>
+<span class="fl f12 c_ccc mr10"><span id="hazupinfo">已上传图片<b class="green mlr2 upnum">0</b>/<b class="c_666 mlr2 maxnum">0</b>，</span>第一张默认为封面,每张最大<span class="action_po_top" id="size_limit">10</span>MB,支持<span id="photo_type">jpg/gif/png</span>格式</span>
+<span id="upload_Tip"></span>
+</div>
+<div style="display:none;" id="imglist">
+<input type="hidden" id="pic" name="pic" value="" />
+<input type="hidden" id="pictag" name="pictag" value="" />
+<textarea id="picdesc1" name="picdesc1"></textarea>
+<textarea id="picdesc2" name="picdesc2"></textarea>
+<textarea id="picdesc3" name="picdesc3"></textarea>
+<textarea id="picdesc4" name="picdesc4"></textarea>
+<textarea id="picdesc5" name="picdesc5"></textarea>
+<textarea id="picdesc6" name="picdesc6"></textarea>
+<textarea id="picdesc7" name="picdesc7"></textarea>
+<textarea id="picdesc8" name="picdesc8"></textarea>
+</div>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 联系人：
+            </td>
+<td>
+<input type="text" name="goblianxiren" id="goblianxiren" value="" class="text2" except="" maxlength="6" />
+<span id="goblianxiren_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 手机或电话：
+            </td>
+<td>
+<input except="" class="text2" type="text" id="Phone" name="Phone" value="" />
+<span id="Phone_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+                其他电话：
+            </td>
+<td>
+<input class="text2" type="text" id="qitadianhua" name="qitadianhua" value="" except="null" maxlength="20" />
+<span id="qitadianhua_Tip"></span>
+</td>
+</tr>
+<tr id="Address">
+<td class="t">
+<b class="red">*</b> 详细地址：
+            </td>
+<td>
+<select id="localArea" name="localArea">
+<option value="-1">--区域--</option>
+<option value="2153">九龙城</option>
+<option value="2151">中西</option>
+<option value="2152">东区</option>
+<option value="2154">观塘</option>
+<option value="2161">湾仔</option>
+<option value="2174">沙田</option>
+<option value="2176">屯门</option>
+<option value="2183">荃湾</option>
+<option value="2160">黄大仙</option>
+<option value="2166">离岛</option>
+<option value="5602">其它</option>
+</select>&nbsp;
+                    <select id="localDiduan" name="localDiduan">
+<option value="-1">--商圈--</option>
+</select>
+<select id="selectDiduanHidden" style="display: none;">
+<option id="5602_2155" value="2155">南区</option>
+<option id="5602_2159" value="2159">深水埗</option>
+<option id="5602_2162" value="2162">元朗</option>
+<option id="5602_2171" value="2171">葵青</option>
+<option id="5602_2172" value="2172">北区</option>
+<option id="5602_2173" value="2173">西贡</option>
+<option id="5602_2180" value="2180">大埔</option>
+<option id="5602_5609" value="5609">其它</option>
+</select> <input class="text4" type="text" id="dizhi" f="{0}" name="dizhi" value="" except="" maxlength="50" /><span id="dizhi_Tip"></span><p class="zitsq"><span>（请选择公司地址所在的区域和商圈）</span></p>
+</td>
+</tr>
+<tr>
+<td class="t">
+</td>
+<td>
+<input type="submit" id="fabu" class="fabu1 nbut" value="马上发布" ct="submit" />
+</td>
+</tr>
+</table>
+</span>
+</form>
+<script type="text/javascript">
+var _emptyMsg="请填写服务介绍";
+if(____json4fe.catentry[1].name=="职业技能培训" || ____json4fe.catentry[1].name=="IT培训"|| ____json4fe.catentry[1].name=="设计培训"|| ____json4fe.catentry[1].name=="管理培训")
+	{
+	_emptyMsg="请填写培训介绍";
+	}
+
+var _hEditor = { he:null, empty_msg:_emptyMsg, tipid:'Content_Tip', focus_msg:'10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除', reg:"^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", err_msg: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" };
+$(document).ready(
+    function(){
+		HideControl();
+        if($.c.common.isIeVersion(9)){
+            $('#Content').removeAttr('style').attr('maxlength', '2000').attr('class', 'textarea3');
+            $('#Content').val($.c.common.stripHtml($('#Content').val()));
+            if (myInfo.infoID == '0')
+    		{
+            	$("#Content").text('');
+    		}
+        } else {
+        	if (myInfo.infoID == '0')
+    		{
+    		 $.editor.defaultValue = '';
+    		}
+            $.editor.initHtmlEditor();
+            $("#div_htmleditor :first").find("div:nth-child(2)").attr("style","width:604px;height:200px");
+            $("#div_htmleditor :first").find("div:first").attr("style","width:611px"); 
+        }
+    }
+);
+function HideControl()
+{
+ var name=____json4fe.catentry[1].name;
+ if(name=="外语培训"){$('#sortname').html('语 种');}
+ if(name=="婴幼儿教育"){$('#peixun').html('服务类型');}
+ if(name=="文艺/体育"){$('#peixun').html('授课方式');}
+ if(name=="学历教育"||name=="婴幼儿教育"){$('#sortname').html('教育类别');}
+ if(name=="留学"||name=="移民"||name=="留学/移民签证"){$('#sortname').html('服务项目');}
+}
+
+		  
+</script>
+<script type="text/javascript"> 
+ var count = 1;
+ var curCount;//当前剩余秒数
+ var InterValObj; //timer变量，控制时间
+ function SetRemainTime() {
+     if (curCount == 0) {                
+         window.clearInterval(InterValObj);//停止计时器
+         $("#getCheckCode").removeAttr("disabled");//启用按钮
+         $("#getCheckCode").html("获取短信验证码");
+     }
+     else {
+         curCount--;
+         $("#getCheckCode").html(curCount + "秒后重新获取");
+     }
+  }
+ function VailRegx(phone){
+	 if(phone.length!=11){
+		 return false;
+	 }
+	 var regx=/^(13|14|15|18)\d{9}$/;
+	 return regx.test(phone);
+ }
+ $(document).ready(function(){
+     $("#ShopPhone_Code").keyup(function(){
+    	      var phone=$("#ShopPhone").val();
+     	      var Vcode=$("#ShopPhone_Code").val();
+	 	       if(!VailRegx(phone)){
+	 	    	  $.formValidator.setTipState(null, "onError", "请输入正确的手机号码", "ShopPhone_Tip");
+	 	    	  return;
+	 	       }
+	 	       if(Vcode !=null &amp;&amp; Vcode.length&gt;=6){
+	 	    	   $.get("http://post.58.com/ajax/?action=checkmobileregsmscode&amp;phone="+phone+"&amp;code="+Vcode, function(data){
+	        		      if(data==1){
+	        		    	  $.formValidator.setTipState(null, "onCorrect", " ", "ShopPhone_Code_Tip");
+	        		    	  $("#checkpass_shop").val("1");
+	        		    	  $("#hidphone").val(phone);
+	        		      }else{
+	        		    	  $.formValidator.setTipState(null, "onError", "验证码错误", "ShopPhone_Code_Tip");
+	        		    	  $("#checkpass_shop").val("");
+	        		    	  $("#hidphone").val("");
+	        		      } 
+	          	});
+	 	    	if(Vcode.length&lt;6){
+	 	    		 $.formValidator.setTipState(null, "onError", "请输入正确的验证码", "ShopPhone_Code_Tip");
+   		    	     $("#checkpass_shop").val("");
+   		    	 	 $("#hidphone").val("");
+	 	    	}
+	 	       } 
+     });
+     $("#getCheckCode").bind("click",function(){
+    	      if($("#getCheckCode").attr("disabled")=="disabled"){
+    	    	  return;
+    	      }
+    	       var phone=$("#ShopPhone").val();
+	 	       if(VailRegx(phone)){
+	 	    	   $.get("http://post.58.com/ajax/?action=sendmobileregsmscode&amp;phone="+phone, function(data){
+	 	    		  if(data==1){
+	 	       		    	$.formValidator.setTipState(null, "onfocus", "发送成功，请查收短信。（验证码10分钟内有效）", "ShopPhone_Code_Tip");
+	 	       		    	 $("#getCheckCode").attr("disabled", "disabled");
+	 	       		    	 curCount=count*60;
+	 	       		    	 InterValObj = window.setInterval(SetRemainTime, 1000);
+	 	       		      }else if(data==-1){
+	 	       		    	$.formValidator.setTipState(null, "onError", "发送次数已满", "ShopPhone_Code_Tip");
+	 	       		      }else{
+	 	       		    	 $.formValidator.setTipState(null, "onError", "发送短信失败，请重新尝试", "ShopPhone_Code_Tip");
+	 	       		      }
+	          	});
+	 	       }else{
+	 	    	  $.formValidator.setTipState(null, "onError", "请输入正确的手机号码", "ShopPhone_Tip");
+	 	       } 
+    });
+     $("#ShopPhone").focus(function(){
+    	  $(this).addClass("focus");
+    	  if($(this).val() ==this.defaultValue){  
+    	       $(this).val(""); 
+    	       $(this).removeAttr("color");
+    	  } 
+    	  if(VailRegx($(this).val())){
+    		  $.formValidator.setTipState(null, "onCorrect", " ", "ShopPhone_Tip");
+    	  }else{
+    		  $.formValidator.setTipState(null, "onError", "请输入正确的手机号码", "ShopPhone_Tip");
+    	  }
+    	}).blur(function(){
+    	 $(this).removeClass("focus");
+    	 if ($(this).val() == '') {
+    	                $(this).val(this.defaultValue);
+    	                $(this).attr("color","#c8c8c8");
+    	             }
+    	 if(VailRegx($(this).val())){
+   		    $.formValidator.setTipState(null, "onCorrect", " ", "ShopPhone_Tip");
+	   	  }else{
+	   		  $.formValidator.setTipState(null, "onError", "请输入正确的手机号码", "ShopPhone_Tip");
+	   	  }
+    	});
+     
+ });
+ 
+ </script><script type="text/javascript">
+// 小类检测				
+function checkXiaolei(){
+	var cbx = 'kaoshilei'; // default name
+	
+	$(':checkbox[name="'+cbx+'"]').click(function(){$(this).blur();});
+    $(':checkbox[name="'+cbx+'"]').formValidator({tipid: cbx +'_Tip', onfocus:''}).functionValidator({fun:function(){
+	    var len = $(':checkbox[name="'+cbx+'"]:checked').length;
+	    if(len == 0) return '请至少选择一项';
+	    if(len &gt; 2) return '最多选择二项';
+	    return true;
+	}, onerror:''});
+}
+
+// cmcs 初始化
+$.cmcs.childrenCreatedEvent = {
+	
+	'xiaolei': function(){ checkbox_limit('xiaolei') },
+	'subject': function(){ checkbox_limit('subject') },
+	'category': function(){ checkbox_limit('category') }
+};
+$.cmcs.rootPara = [{"type":1, "name":"国家", "nameid":2027, "pname":"ObjectType", "rnum":209, "len":2, "dv":"", "na":0, "value":[{"i":"228099","v":"5","t":"美国","a":"","c":"0", "p":"0" },{"i":"228100","v":"6","t":"加拿大","a":"","c":"0", "p":"0" },{"i":"228105","v":"11","t":"英国","a":"","c":"0", "p":"0" },{"i":"228107","v":"13","t":"德国","a":"","c":"0", "p":"0" },{"i":"228108","v":"14","t":"法国","a":"","c":"0", "p":"0" },{"i":"228103","v":"9","t":"澳洲","a":"","c":"0", "p":"0" },{"i":"228101","v":"7","t":"新加坡","a":"","c":"0", "p":"0" },{"i":"228102","v":"8","t":"日本","a":"","c":"0", "p":"0" },{"i":"228106","v":"12","t":"韩国","a":"","c":"0", "p":"0" },{"i":"349725","v":"431631","t":"马来西亚","a":"","c":"0", "p":"0" },{"i":"349726","v":"431632","t":"俄罗斯","a":"","c":"0", "p":"0" },{"i":"349727","v":"431633","t":"荷兰","a":"","c":"0", "p":"0" },{"i":"228109","v":"15","t":"西班牙","a":"","c":"0", "p":"0" },{"i":"228104","v":"10","t":"新西兰","a":"","c":"0", "p":"0" },{"i":"990495","v":"599698","t":"意大利","a":"","c":"0", "p":"0" },{"i":"990496","v":"599699","t":"瑞士","a":"","c":"0", "p":"0" },{"i":"228186","v":"16","t":"其他国家","a":"","c":"0", "p":"0" },{"i":"1001542","v":"609761","t":"不丹","a":"","c":"2027", "p":"0" },{"i":"1001547","v":"609766","t":"东帝汶","a":"","c":"0", "p":"0" },{"i":"1001694","v":"609912","t":"中华台北","a":"","c":"0", "p":"0" },{"i":"1001688","v":"609906","t":"中国","a":"","c":"0", "p":"0" },{"i":"1001695","v":"609913","t":"中国澳门","a":"","c":"0", "p":"0" },{"i":"1001691","v":"609909","t":"中国香港","a":"","c":"0", "p":"0" },{"i":"1001690","v":"609908","t":"中非","a":"","c":"0", "p":"0" },{"i":"1001546","v":"609765","t":"丹麦","a":"","c":"0", "p":"0" },{"i":"1001671","v":"609889","t":"乌克兰","a":"","c":"0", "p":"0" },{"i":"1001672","v":"609890","t":"乌兹别克斯坦","a":"","c":"0", "p":"0" },{"i":"1001667","v":"609885","t":"乌干达","a":"","c":"0", "p":"0" },{"i":"1001668","v":"609886","t":"乌拉圭","a":"","c":"0", "p":"0" },{"i":"1001689","v":"609907","t":"乍得","a":"","c":"0", "p":"0" },{"i":"1001683","v":"609901","t":"也门","a":"","c":"0", "p":"0" },{"i":"1001676","v":"609894","t":"亚美尼亚","a":"","c":"0", "p":"0" },{"i":"1001678","v":"609896","t":"以色列","a":"","c":"0", "p":"0" },{"i":"1001677","v":"609895","t":"伊拉克","a":"","c":"0", "p":"0" },{"i":"1001684","v":"609902","t":"伊朗","a":"","c":"0", "p":"0" },{"i":"1001541","v":"609760","t":"伯利兹","a":"","c":"0", "p":"0" },{"i":"1001553","v":"609772","t":"佛得角","a":"","c":"0", "p":"0" },{"i":"1001538","v":"609757","t":"保加利亚","a":"","c":"0", "p":"0" },{"i":"1001586","v":"609805","t":"克罗地亚","a":"","c":"0", "p":"0" },{"i":"1001561","v":"609780","t":"关岛","a":"","c":"0", "p":"0" },{"i":"1001557","v":"609776","t":"冈比亚","a":"","c":"0", "p":"0" },{"i":"1001519","v":"609738","t":"冰岛","a":"","c":"0", "p":"0" },{"i":"1001580","v":"609799","t":"几内亚","a":"","c":"0", "p":"0" },{"i":"1001574","v":"609793","t":"几内亚比绍","a":"","c":"0", "p":"0" },{"i":"1001601","v":"609820","t":"列支敦士登","a":"","c":"0", "p":"0" },{"i":"1001558","v":"609777","t":"刚果(布)","a":"","c":"0", "p":"0" },{"i":"1001563","v":"609782","t":"刚果(金)","a":"","c":"0", "p":"0" },{"i":"1001595","v":"609814","t":"利比亚","a":"","c":"0", "p":"0" },{"i":"1001600","v":"609819","t":"利比里亚","a":"","c":"0", "p":"0" },{"i":"1001576","v":"609795","t":"加纳","a":"","c":"0", "p":"0" },{"i":"1001581","v":"609800","t":"加蓬","a":"","c":"0", "p":"0" },{"i":"1001673","v":"609891","t":"匈牙利","a":"","c":"0", "p":"0" },{"i":"1001626","v":"609844","t":"南非","a":"","c":"0", "p":"0" },{"i":"1001529","v":"609748","t":"博茨瓦纳","a":"","c":"0", "p":"0" },{"i":"1001588","v":"609807","t":"卡塔尔","a":"","c":"0", "p":"0" },{"i":"1001602","v":"609821","t":"卢旺达","a":"","c":"0", "p":"0" },{"i":"1001596","v":"609815","t":"卢森堡","a":"","c":"0", "p":"0" },{"i":"1001685","v":"609903","t":"印度","a":"","c":"0", "p":"0" },{"i":"1001679","v":"609897","t":"印度尼西亚","a":"","c":"0", "p":"0" },{"i":"1001669","v":"609887","t":"危地马拉","a":"","c":"0", "p":"0" },{"i":"1001552","v":"609771","t":"厄瓜多尔","a":"","c":"0", "p":"0" },{"i":"1001551","v":"609770","t":"厄立特里亚","a":"","c":"0", "p":"0" },{"i":"1001675","v":"609893","t":"叙利亚","a":"","c":"0", "p":"0" },{"i":"1001566","v":"609785","t":"古巴","a":"","c":"0", "p":"0" },{"i":"1001562","v":"609781","t":"古巴共和国","a":"","c":"0", "p":"0" },{"i":"1001573","v":"609792","t":"吉尔吉斯斯坦","a":"","c":"0", "p":"0" },{"i":"1001575","v":"609794","t":"吉布提","a":"","c":"0", "p":"0" },{"i":"1001569","v":"609788","t":"哈萨克斯坦","a":"","c":"0", "p":"0" },{"i":"1001564","v":"609783","t":"哥伦比亚","a":"","c":"0", "p":"0" },{"i":"1001559","v":"609778","t":"哥斯达黎加","a":"","c":"0", "p":"0" },{"i":"1001583","v":"609802","t":"喀麦隆","a":"","c":"0", "p":"0" },{"i":"1001660","v":"609878","t":"图瓦卢","a":"","c":"0", "p":"0" },{"i":"1001664","v":"609882","t":"土库曼斯坦","a":"","c":"0", "p":"0" },{"i":"1001659","v":"609877","t":"土耳其","a":"","c":"0", "p":"0" },{"i":"1001651","v":"609869","t":"圣卢西亚","a":"","c":"0", "p":"0" },{"i":"1001640","v":"609858","t":"圣基茨和尼维斯","a":"","c":"0", "p":"0" },{"i":"1001650","v":"609868","t":"圣多美和普林西比","a":"","c":"0", "p":"0" },{"i":"1001652","v":"609870","t":"圣文森特和格林纳丁斯","a":"","c":"0", "p":"0" },{"i":"1001641","v":"609859","t":"圣马力诺","a":"","c":"0", "p":"0" },{"i":"1001567","v":"609786","t":"圭亚那","a":"","c":"0", "p":"0" },{"i":"1001657","v":"609875","t":"坦桑尼亚","a":"","c":"0", "p":"0" },{"i":"1001508","v":"609727","t":"埃及","a":"","c":"0", "p":"0" },{"i":"1001513","v":"609732","t":"埃塞俄比亚","a":"","c":"0", "p":"0" },{"i":"1001579","v":"609798","t":"基里巴斯","a":"","c":"0", "p":"0" },{"i":"1001661","v":"609879","t":"塔吉克斯坦","a":"","c":"0", "p":"0" },{"i":"1001636","v":"609854","t":"塞内加尔","a":"","c":"0", "p":"0" },{"i":"1001635","v":"609853","t":"塞尔维亚","a":"","c":"0", "p":"0" },{"i":"1001647","v":"609865","t":"塞拉利昂","a":"","c":"0", "p":"0" },{"i":"1001638","v":"609856","t":"塞浦路斯","a":"","c":"0", "p":"0" },{"i":"1001649","v":"609867","t":"塞舌尔","a":"","c":"0", "p":"0" },{"i":"1001623","v":"609841","t":"墨西哥","a":"","c":"0", "p":"0" },{"i":"1001549","v":"609768","t":"多哥","a":"","c":"0", "p":"0" },{"i":"1001550","v":"609769","t":"多米尼克","a":"","c":"0", "p":"0" },{"i":"1001548","v":"609767","t":"多米尼加","a":"","c":"0", "p":"0" },{"i":"1001510","v":"609729","t":"奥地利","a":"","c":"0", "p":"0" },{"i":"1001666","v":"609884","t":"委内瑞拉","a":"","c":"0", "p":"0" },{"i":"1001609","v":"609828","t":"孟加拉","a":"","c":"0", "p":"0" },{"i":"1001503","v":"609722","t":"安哥拉","a":"","c":"0", "p":"0" },{"i":"1001518","v":"609737","t":"安提瓜巴布达","a":"","c":"0", "p":"0" },{"i":"1001509","v":"609728","t":"安道尔","a":"","c":"0", "p":"0" },{"i":"1001620","v":"609838","t":"密克罗尼西亚","a":"","c":"0", "p":"0" },{"i":"1001625","v":"609843","t":"尼加拉瓜","a":"","c":"0", "p":"0" },{"i":"1001627","v":"609845","t":"尼日利亚","a":"","c":"0", "p":"0" },{"i":"1001630","v":"609848","t":"尼日尔","a":"","c":"0", "p":"0" },{"i":"1001628","v":"609846","t":"尼泊尔","a":"","c":"0", "p":"0" },{"i":"1001535","v":"609754","t":"巴勒斯坦","a":"","c":"0", "p":"0" },{"i":"1001521","v":"609740","t":"巴哈马","a":"","c":"0", "p":"0" },{"i":"1001534","v":"609753","t":"巴基斯坦","a":"","c":"0", "p":"0" },{"i":"1001520","v":"609739","t":"巴巴多斯","a":"","c":"0", "p":"0" },{"i":"1001533","v":"609752","t":"巴布亚新几内亚","a":"","c":"0", "p":"0" },{"i":"1001522","v":"609741","t":"巴拉圭","a":"","c":"0", "p":"0" },{"i":"1001536","v":"609755","t":"巴拿马","a":"","c":"0", "p":"0" },{"i":"1001523","v":"609742","t":"巴林","a":"","c":"0", "p":"0" },{"i":"1001524","v":"609743","t":"巴西","a":"","c":"0", "p":"0" },{"i":"1001530","v":"609749","t":"布基纳法索","a":"","c":"0", "p":"0" },{"i":"1001543","v":"609762","t":"布隆迪","a":"","c":"0", "p":"0" },{"i":"1001674","v":"609892","t":"希腊","a":"","c":"0", "p":"0" },{"i":"1001632","v":"609850","t":"帕劳","a":"","c":"0", "p":"0" },{"i":"1001587","v":"609806","t":"库克群岛","a":"","c":"0", "p":"0" },{"i":"1001584","v":"609803","t":"开曼","a":"","c":"0", "p":"0" },{"i":"1001655","v":"609873","t":"所罗门群岛","a":"","c":"0", "p":"0" },{"i":"1001592","v":"609811","t":"拉脱维亚","a":"","c":"0", "p":"0" },{"i":"1001631","v":"609849","t":"挪威","a":"","c":"0", "p":"0" },{"i":"1001582","v":"609801","t":"捷克","a":"","c":"0", "p":"0" },{"i":"1001621","v":"609839","t":"摩尔多瓦","a":"","c":"0", "p":"0" },{"i":"1001611","v":"609830","t":"摩洛哥","a":"","c":"0", "p":"0" },{"i":"1001622","v":"609840","t":"摩纳哥","a":"","c":"0", "p":"0" },{"i":"1001670","v":"609888","t":"文莱","a":"","c":"0", "p":"0" },{"i":"1001556","v":"609775","t":"斐济","a":"","c":"0", "p":"0" },{"i":"1001643","v":"609861","t":"斯威士兰","a":"","c":"0", "p":"0" },{"i":"1001642","v":"609860","t":"斯洛伐克","a":"","c":"0", "p":"0" },{"i":"1001653","v":"609871","t":"斯洛文尼亚","a":"","c":"0", "p":"0" },{"i":"1001646","v":"609864","t":"斯里兰卡","a":"","c":"0", "p":"0" },{"i":"1001693","v":"609911","t":"智利","a":"","c":"0", "p":"0" },{"i":"1001544","v":"609763","t":"朝鲜","a":"","c":"0", "p":"0" },{"i":"1001577","v":"609796","t":"柬埔寨","a":"","c":"0", "p":"0" },{"i":"1001565","v":"609784","t":"格林纳达","a":"","c":"0", "p":"0" },{"i":"1001560","v":"609779","t":"格鲁吉亚","a":"","c":"0", "p":"0" },{"i":"1001532","v":"609751","t":"比利时","a":"","c":"0", "p":"0" },{"i":"1001618","v":"609836","t":"毛里塔尼亚","a":"","c":"0", "p":"0" },{"i":"1001603","v":"609822","t":"毛里求斯","a":"","c":"0", "p":"0" },{"i":"1001662","v":"609880","t":"汤加","a":"","c":"0", "p":"0" },{"i":"1001639","v":"609857","t":"沙特阿拉伯","a":"","c":"0", "p":"0" },{"i":"1001540","v":"609759","t":"波兰","a":"","c":"0", "p":"0" },{"i":"1001539","v":"609758","t":"波多黎各","a":"","c":"0", "p":"0" },{"i":"1001527","v":"609746","t":"波黑","a":"","c":"0", "p":"0" },{"i":"1001656","v":"609874","t":"泰国","a":"","c":"0", "p":"0" },{"i":"1001578","v":"609797","t":"津巴布韦","a":"","c":"0", "p":"0" },{"i":"1001568","v":"609787","t":"洪都拉斯","a":"","c":"0", "p":"0" },{"i":"1001571","v":"609790","t":"海地","a":"","c":"0", "p":"0" },{"i":"1001505","v":"609724","t":"爱尔兰","a":"","c":"0", "p":"0" },{"i":"1001517","v":"609736","t":"爱沙尼亚","a":"","c":"0", "p":"0" },{"i":"1001682","v":"609900","t":"牙买加","a":"","c":"0", "p":"0" },{"i":"1001658","v":"609876","t":"特立尼达和多巴哥","a":"","c":"0", "p":"0" },{"i":"1001528","v":"609747","t":"玻利维亚","a":"","c":"0", "p":"0" },{"i":"1001624","v":"609842","t":"瑙鲁","a":"","c":"0", "p":"0" },{"i":"1001634","v":"609852","t":"瑞典","a":"","c":"0", "p":"0" },{"i":"1001665","v":"609883","t":"瓦努阿图","a":"","c":"0", "p":"0" },{"i":"1001537","v":"609756","t":"白俄罗斯","a":"","c":"0", "p":"0" },{"i":"1001525","v":"609744","t":"百慕大","a":"","c":"0", "p":"0" },{"i":"1001590","v":"609809","t":"科威特","a":"","c":"0", "p":"0" },{"i":"1001589","v":"609808","t":"科摩罗","a":"","c":"0", "p":"0" },{"i":"1001585","v":"609804","t":"科特迪瓦","a":"","c":"0", "p":"0" },{"i":"1001531","v":"609750","t":"秘鲁","a":"","c":"0", "p":"0" },{"i":"1001663","v":"609881","t":"突尼斯","a":"","c":"0", "p":"0" },{"i":"1001594","v":"609813","t":"立陶宛","a":"","c":"0", "p":"0" },{"i":"1001645","v":"609863","t":"索马里","a":"","c":"0", "p":"0" },{"i":"1001686","v":"609904","t":"约旦","a":"","c":"0", "p":"0" },{"i":"1001629","v":"609847","t":"纳米比亚","a":"","c":"0", "p":"0" },{"i":"1001610","v":"609829","t":"缅甸","a":"","c":"0", "p":"0" },{"i":"1001597","v":"609816","t":"罗马尼亚","a":"","c":"0", "p":"0" },{"i":"1001608","v":"609827","t":"美属维尔京群岛","a":"","c":"0", "p":"0" },{"i":"1001613","v":"609832","t":"美属萨摩亚","a":"","c":"0", "p":"0" },{"i":"1001593","v":"609812","t":"老挝","a":"","c":"0", "p":"0" },{"i":"1001591","v":"609810","t":"肯尼亚","a":"","c":"0", "p":"0" },{"i":"1001555","v":"609774","t":"芬兰","a":"","c":"0", "p":"0" },{"i":"1001654","v":"609872","t":"苏丹","a":"","c":"0", "p":"0" },{"i":"1001644","v":"609862","t":"苏里南","a":"","c":"0", "p":"0" },{"i":"1001680","v":"609898","t":"英属维尔京群岛","a":"","c":"0", "p":"0" },{"i":"1001687","v":"609905","t":"英格兰","a":"","c":"0", "p":"0" },{"i":"1001572","v":"609791","t":"荷属安的列斯","a":"","c":"0", "p":"0" },{"i":"1001612","v":"609831","t":"莫桑比克","a":"","c":"0", "p":"0" },{"i":"1001598","v":"609817","t":"莱索托","a":"","c":"0", "p":"0" },{"i":"1001554","v":"609773","t":"菲律宾","a":"","c":"0", "p":"0" },{"i":"1001637","v":"609855","t":"萨尔瓦多","a":"","c":"0", "p":"0" },{"i":"1001648","v":"609866","t":"萨摩亚","a":"","c":"0", "p":"0" },{"i":"1001633","v":"609851","t":"葡萄牙","a":"","c":"0", "p":"0" },{"i":"1001619","v":"609837","t":"蒙古","a":"","c":"0", "p":"0" },{"i":"1001526","v":"609745","t":"贝宁","a":"","c":"0", "p":"0" },{"i":"1001692","v":"609910","t":"赞比亚","a":"","c":"0", "p":"0" },{"i":"1001545","v":"609764","t":"赤道几内亚","a":"","c":"0", "p":"0" },{"i":"1001681","v":"609899","t":"越南","a":"","c":"0", "p":"0" },{"i":"1001504","v":"609723","t":"阿塞拜疆","a":"","c":"0", "p":"0" },{"i":"1001507","v":"609726","t":"阿富汗","a":"","c":"0", "p":"0" },{"i":"1001515","v":"609734","t":"阿尔及利亚","a":"","c":"0", "p":"0" },{"i":"1001506","v":"609725","t":"阿尔巴尼亚","a":"","c":"0", "p":"0" },{"i":"1001511","v":"609730","t":"阿曼","a":"","c":"0", "p":"0" },{"i":"1001514","v":"609733","t":"阿根廷","a":"","c":"0", "p":"0" },{"i":"1001516","v":"609735","t":"阿联酋","a":"","c":"0", "p":"0" },{"i":"1001512","v":"609731","t":"阿鲁巴","a":"","c":"0", "p":"0" },{"i":"1001617","v":"609835","t":"马其顿","a":"","c":"0", "p":"0" },{"i":"1001604","v":"609823","t":"马尔代夫","a":"","c":"0", "p":"0" },{"i":"1001605","v":"609824","t":"马拉维","a":"","c":"0", "p":"0" },{"i":"1001607","v":"609826","t":"马绍尔群岛","a":"","c":"0", "p":"0" },{"i":"1001615","v":"609834","t":"马耳他","a":"","c":"0", "p":"0" },{"i":"1001614","v":"609833","t":"马达加斯加","a":"","c":"0", "p":"0" },{"i":"1001606","v":"609825","t":"马里","a":"","c":"0", "p":"0" },{"i":"1001599","v":"609818","t":"黎巴嫩","a":"","c":"0", "p":"0" },{"i":"1001570","v":"609789","t":"黑山","a":"","c":"0", "p":"0" }], "regs":[]},{"type":3, "name":"申请学历", "nameid":5834, "pname":"shenqingxueli", "rnum":9, "len":6, "dv":"", "na":0, "value":[{"i":"990690","v":"599883","t":"初中","a":"","c":"5834", "p":"0" },{"i":"298161","v":"1","t":"高中","a":"","c":"5834", "p":"0" },{"i":"298162","v":"2","t":"专科","a":"","c":"5834", "p":"0" },{"i":"298163","v":"3","t":"本科","a":"","c":"5834", "p":"0" },{"i":"298164","v":"4","t":"研究生","a":"","c":"5834", "p":"0" },{"i":"990691","v":"599884","t":"预科","a":"","c":"5834", "p":"0" },{"i":"990692","v":"599885","t":"语言学校","a":"","c":"5834", "p":"0" },{"i":"990693","v":"599886","t":"MBA","a":"","c":"5834", "p":"0" },{"i":"298165","v":"5","t":"游学","a":"","c":"5834", "p":"0" }], "regs":[]}];
+$.cmcs.infoPara = [];
+if(104!=142 &amp;&amp; 104!=140 &amp;&amp; 104!=139){
+	$(document).ready($.cmcs.initAutoTR);
+}
+$(document).ready(function(){
+			 $('#fabu').bind('click', $.cmcs.fabu_click);
+	});
+</script>
+<script type="text/javascript">
+//重写补充说明框的验证方法
+$.editor.checkHtmlEditor = function() {
+    var _d = _hEditor;
+    var v1 = _hEditor.he.getValue();
+    if (v1 == '&lt;span&gt;&lt;/span&gt;') v1 = '';
+    $('#Content').val(v1); // 取值
+
+    v1 = $.c.common.stripHtml(v1); // 过滤html代码
+    v1 = v1.replace(/(\s*)/g, ""); // 去除所有空格
+    if (v1.length == 0) {
+	$.formValidator.setTipState(null, "onError", _d.empty_msg, _d.tipid);
+	return false;
+    }
+
+    var _dv = $.editor.getDefaultValue(); // 默认值
+    //if (_dv == v1) {
+	//$.formValidator.setTipState(null, "onError", _d.empty_msg, _d.tipid);
+	//return false;
+    //}
+
+    var arr1 = _d.reg.split('#');
+    var arr2 = _d.err_msg.split('#');
+    if (arr1.length == arr2.length) {
+	for (var i = 0; i &lt; arr1.length; i++) {
+	    var reg = new RegExp(arr1[i]);
+	    if (!reg.test(v1)) {
+		$.formValidator.setTipState(null, "onError", arr2[i], _d.tipid);
+		return false;
+	    }
+	}
+    }
+    $.formValidator.setTipState(null, "onCorrect", " ", _d.tipid);
+    return true;
+}
+
+var zimuId=1;
+$("#guojiazimu").find("a").each(function(){
+	$(this).attr("id",zimuId);        
+	$(this).hover(function() {
+		$("#gj_frame").find("div[class=jyarea_con]").hide();
+		$($("div.jyarea_con")[$(this).attr("id")-1]).css("display","block");
+   	});
+	zimuId++;
+});
+$("#gj_frame").find("div[class=jyarea_con]").find("a").click(function(){
+	var gjvalue = $(this).attr("data");
+	var gjtext = $(this).attr("text");
+	$("#ObjectType").val(gjvalue);
+	$("#ObjectType").attr("text", gjtext);
+	$("#jyboxtit").html("&lt;a text=""+gjtext+"" data=""+gjvalue+"" href="javascript:removeselguojia()"&gt;"+gjtext+"&lt;font&gt;&lt;/font&gt;&lt;/a&gt;&lt;span id="guojia_Tip" class="chenggong"&gt;&lt;/span&gt;");
+});	
+
+function removeselguojia(){
+	$("#jyboxtit").html("");
+	$("#ObjectType").val("");
+	$("#ObjectType").attr("text", "");
+}
+
+</script>
+<script id="postScript" type="text/javascript">
+    $().ready(function() {
+var t1="培训类别不能为空";
+var name=____json4fe.catentry[1].name;
+if(name=="设计培训" || name=="职业技能培训" || name=="IT培训" || name=="管理培训"){t1="类别不能为空";}
+if(name=="留学" || name=="移民"){t1="国家不能为空";}
+if(name=="留学/移民"){t1="服务项目不能为空";}
+if(name=="外语培训"){t1="语种不能为空";}
+if(name=="文艺/体育"){t1="培训类别不能为空";}
+if(name=="学历教育"||name=="婴幼儿教育"){t1="教育类别不能为空";}
+if(name=="留学/移民签证"){t1="服务项目不能为空";}
+        $(':checkbox[name="Tag"]').attr('f', '{0}');
+		//$.c.user.unlogin("&lt;%#baseHelper.contextModule.LoginState%&gt;");
+		showTag();
+        $('#ObjectType').bind('change', showTag);
+        $.formValidator.initConfig({ formid: "aspnetForm", errorfocus: true, btnid: 'fabu', fun:function(){
+		            if(!$.c.common.isIeVersion(9)){ if(!$.editor.checkHtmlEditor()) return false; } // 内容验证
+					if($("#ObjectType").attr("type") == "hidden"){
+						if(fanyi.check('ObjectType','请选择正确的国家') == "error"){ return false;  }//国家--验证
+		            }
+					if($("#checkpass_shop").length&gt;0){
+			    		var checkpass=$("#checkpass_shop").val();
+			   	   	    var hidphone= $("#hidphone").val();
+			   		    if(checkpass.length==0 || checkpass!=1 || hidphone.length==0 || $("#ShopPhone").val()!=hidphone){
+			   			   $.formValidator.setTipState(null, "onError", "验证码错误", "ShopPhone_Code_Tip");
+			   			  return false;
+			   		    }
+			    	}
+					return checkTagNum_fun(true);
+		        }});
+        	$("#Title").formValidator({ tipid: "Title_Tip",onfocus: "6-25个字，不允许填写电话和特殊符号", q2b: true, 'defaultvalue':''}).inputValidator({ onerror: "请输入标题" }).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{6,}$#^(.){6,25}$", onerror: "请输入标题#标题不足6个字#6-25个字，不能填写电话和特殊符号！" }).functionValidator({
+            fun: function(val, elem) {
+            	if(val == __yijuhua){
+                	return '请输入标题';
+                } else {
+                	return $.formValidator.checkTitle(val);
+                }
+            },
+            onerror: "标题太过简单"
+        }); 
+		
+		$('#ObjectType').formValidator({ tipid:'ObjectType_Tip',onfocus: '' }).functionValidator({ fun: function(val, elem) { return val != ''; }, onerror: t1 });
+		$('#kechengsc').formValidator({ tipid:'kechengsc_Tip',onfocus: '' }).functionValidator({ fun: function(val, elem) { return val != ''; }, onerror:'课程时长不能为空' });
+        $(":checkbox[name='ObjectType']").formValidator({tipid: "ObjectType_Tip",onfocus:""}).inputValidator({min:1,onerror:"请至少选择一项",type:"checkbox"}).functionValidator({ fun: checkFuwuxm, onerror: '' });
+        if($.c.common.isIeVersion(9)){
+            $("#Content").formValidator({ tipid: "Content_Tip",onfocus: "10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除", 'defaultvalue':'' }).inputValidator({ onerror: "请填写补充说明" }).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", onerror: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" }).functionValidator({
+                fun: function(val, elem) {
+                    return $.formValidator.checkContent(val);
+                },
+                onerror: "内容太过简单"
+            });
+        };
+        $('#goblianxiren').formValidator({ tipid:'goblianxiren_Tip', onfocus:'2~6个字，不能填写电话和联系方式', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "\\S+#^(.){2,6}$#^[\\w\\d\\s\\u4e00-\\u9fa5]*$", onerror: "请输入联系人#联系人不足2个字#联系人不能填写特殊符号" });
+        $('#Phone').formValidator({ tipid:'Phone_Tip', onfocus:'请正确填写电话号码，分机可以用"-"分开。', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "^[0-9][-|0-9]{4,18}[0-9]$", onerror: "电话填写错误。格式为6-20位数字或“-”" });
+		$(':radio[name="fuwuduixiang"]').formValidator({tipid:'fuwuduixiang_Tip', onfocus: '请选择办学性质' }).functionValidator({fun:function(){return $(':radio[name="fuwuduixiang"]:checked').length &gt; 0}, onerror:'请选择办学性质'});
+				$(':checkbox[name="fuwuleixing"]').formValidator({tipid:'fuwuleixing_Tip', onfocus:''}).inputValidator({min:1, onerror:'形式不能为空', type:'checkbox'}); 
+		        $('#yingyeshijian').formValidator({ tipid:'yingyeshijian_Tip', onfocus:'请按格式输入，如：08:00-24:00', q2b:true }).regexValidator({ regexp: "", onerror: "" });
+		$('#localArea').formValidator({ tipid:'dizhi_Tip', onfocus: '' }).functionValidator({ fun: function(val, elem) { return val != '-1'; }, onerror: '请选择区域' }).groupValidator({ groupName: "v2", nextgroupid: "localDiduan" });
+        $('#localDiduan').formValidator({ tipid:'dizhi_Tip', onfocus: '' }).functionValidator({ fun: function(val, elem) { return val != '-1'; }, onerror: '请选择商圈' }).groupValidator({ groupName: "v2", nextgroupid: "dizhi" });
+		$('#dizhi').formValidator({ tipid:'dizhi_Tip', onfocus:'请填写详细地址', q2b:true , 'defaultvalue':''}).regexValidator({ regexp: "\\S+#^(.){2,50}$#^([^\\s]\\s{0,3}(?!([0-9０１２３４５６７８９零一二三四五六七八九壹贰叁肆伍陆柒捌玖]{6})))+$#^[\\w\\[\\]\\(\\)\\{\\}\\.\\s,\\-\\*，。（）【】“”—‘’\\u4e00-\\u9fa5]*$", onerror: "请输入地址#地址不足2个字#地址里不能填写电话#地址里不能输入特殊字符" }).groupValidator({ groupName: "v2", nextgroupid: "localArea" });
+		$(':checkbox[name="shenqingxueli"]').formValidator({tipid:'shenqingxueli_Tip', onfocus: '' }).functionValidator({fun:function(){return $(':checkbox[name="shenqingxueli"]:checked').length &gt; 0}, onerror:'请至少选择一种申请学历'});
+		
+		// 				$(':checkbox[name="fuwuleixing"]').formValidator({tipid:'fuwuleixing_Tip', onfocus: '' }).functionValidator({fun:function(){return $(':checkbox[name="fuwuleixing"]:checked').length &gt; 0}, onerror:'请至少选择一种培训方式'});
+						$('#qitadianhua').formValidator({ tipid:'qitadianhua_Tip', onfocus:'请正确填写电话号码，分机可以用"-"分开。', q2b:true , 'empty':true}).regexValidator({ regexp: "^[0-9][-|0-9]{4,18}[0-9]$", onerror: "电话填写错误。格式为6-20位数字或“-”" });
+        
+		
+		$(':checkbox[name="kechengsc"]').click(function(){$(this).blur();});
+		$(':checkbox[name="site"]').click(function(){$(this).blur();});
+		$(':checkbox[name="ymcategory"]').click(function(){$(this).blur();});
+		$(':checkbox[name="fuwuleixing"]').click(function(){$(this).blur();});
+		$(':checkbox[name="shenqingxueli"]').click(function(){$(this).blur();});
+		$(':checkbox[name="kechengsc"]').formValidator({tipid:'kechengsc_Tip', onfocus:''}).inputValidator({min:1, onerror:'周期不能为空', type:'checkbox'}); 
+		$(':checkbox[name="site"]').formValidator({tipid:'site_Tip', onfocus:''}).inputValidator({min:1, onerror:'场地不能为空', type:'checkbox'}); 
+		$(':checkbox[name="ymcategory"]').formValidator({tipid:'ymcategory_Tip', onfocus:''}).inputValidator({min:1, onerror:'类型不能为空', type:'checkbox'}); 
+		
+		
+		
+		if(14255 == 14455 || 14255 == 14502|| 14255 == 14526|| 14255 == 14379|| 14255 == 14363){
+		var __yijuhua = "请包含您所提供的具体培训课程,更快找到学生";
+		if($("#Title").val() == "" || $("#Title").val() == __yijuhua){
+		    $("#Title").val(__yijuhua);
+		    $("#Title").addClass("c99");
+		}
+		$("#Title").focus(function(){
+			if($(this).val() == __yijuhua){
+				$(this).val("");
+				$("#Title").removeClass("c99");
+			}
+		});
+		$("#Title").blur(function(){
+			if($(this).val() == ""){
+				$(this).val(__yijuhua);
+				$("#Title").addClass("c99");
+			}
+		});
+		 
+
+		}
+    });
+    $(document).ready(function(){$.c.user.user_unlogin('','2050');});
+	
+    function showTag() {
+        $.c.sale.gettag(14255,2050,'ObjectType',0,"tagul","tt");
+	    setTimeout(function(){
+	        if(____json4fe.catentry[1].name != '外语培训') {
+	            $.j.initTagCheck();
+	        } else {
+	            checkTagNum();
+	        }
+	    }, 1000);
+    }
+    
+     // 标签个数验证
+    function checkTagNum(){
+        $(':checkbox[name="Tag"]').bind('click', function(){checkTagNum_fun(false);});
+    }
+    function checkTagNum_fun(fabu){
+            var b1 = ____json4fe.catentry[1].name == '外语培训';
+            if(!b1) return true;
+            // 没有tag时允许提交表单
+            if($(':checkbox[name="Tag"]').length == 0) return true;
+            var len = $(':checkbox[name="Tag"]:checked').length;
+            if(len &gt; 2){
+                $.formValidator.setTipState(null, "onError", "最多只能选择2种考试类", "infotag_Tip");
+                if(fabu) return false; return;
+            } else if(len == 0){
+                $.formValidator.setTipState(null, "onError", "请至少选择一种考试类", "infotag_Tip");
+                if(fabu) return false; return;
+            }
+            $.formValidator.setTipState(null, "onCorrect", " ", "infotag_Tip");
+			return true;
+        }   
+    checkTagNum();
+  function checkFuwuxm(){
+	var len = $(':checkbox[name="ObjectType"]:checked').length;
+	if(len == 0) return '请至少选择一项';
+	if(len &gt; 1) return '最多只能选择一项';
+	return true
+}	
+</script>
+<script>
+function checkbox_limit(name){
+    $(':checkbox[name="'+name+'"]').click(function(){$(this).blur();});
+    $(':checkbox[name="'+name+'"]').formValidator({tipid: name + "_Tip",onfocus:""}).functionValidator({fun:function(){
+	    var len = $(':checkbox[name="'+name+'"]:checked').length;
+	      if(14255 == 14455 || 14255 == 14379
+	    		  || 14255 == 14526|| 14255 == 14363|| 14255 == 14255
+	    		  )
+		{
+	    	if(len == 0) return '请至少选择一项';
+		}
+	      if(((14255 == 14379 || 14255 == 14363)  &amp;&amp; name == "xiaolei")|| (14255 == 14255  &amp;&amp; name == "shenqingxueli" )) 
+		    {
+					if(len &gt; 3) return '最多选择三项';
+			}
+	      if( 14255 == 14455  &amp;&amp; name == "xiaolei") 
+		    {
+					if(len &gt; 5) return '最多选择五项';
+			}
+	      
+	     
+	    return true;
+	}, onerror:''});
+}
+$(function(){
+	checkbox_limit('shenqingxueli');
+})
+</script>
+<script type="text/javascript">
+
+    // 页面元素
+    var _PE = {
+        xq: $('#xiaoqu'), // 小区
+        qy: $('#localArea'), // 区域
+        sq: $('#localDiduan')	// 商圈
+    };
+
+    // 刷新商圈
+    function loadShangquan() {
+        $('#localDiduan option').remove();
+        $.c.common.addOptionsToSelect('localDiduan', '-1', '--商圈--');
+        var v1 = _PE.qy.val(); // 区域
+        if (!!v1) {
+            $('#selectDiduanHidden option').each(function(i, n) {
+                if ($(n).attr('id').indexOf(v1 + '_') != -1) {
+                    $.c.common.addOptionsToSelect('localDiduan', n.value, n.text);
+                }
+            });
+
+		// 没有商圈时，添加一个对应的区域
+            if ($('#localDiduan option').length == 1) {
+                $.c.common.addOptionsToSelect('localDiduan', v1, _PE.qy.get(0).options[_PE.qy.get(0).selectedIndex].text);
+            }
+        }
+    }
+
+    // 根据小区名称来获取区域和商圈id
+    function getCityAreaID() {
+        var xqName = _PE.xq.val();
+        if (!!xqName) {
+            var para = 'cityid=' + myInfo.dispCityid + '&amp;xq=' + encodeURIComponent(xqName);
+            $.j.callajax('getcityareabyxq', para, getCityAreaID_callback);
+        }
+    }
+    function getCityAreaID_callback(data) {
+        if (!!data) {
+            var arr = data.split(',');
+            if (arr.length == 2) {
+                var v1 = arr[0];
+                var v2 = arr[1];
+                _PE.qy.val(v1).trigger('change');
+                _PE.sq.val(v2);
+            }
+        }
+    }
+
+    // 事件绑定
+    $(document).ready(function() {
+        _PE.qy.bind('change', loadShangquan);
+
+        if (true) {
+            var v1 = '0';
+            var v2 = '0';
+            if (v1 != 0) {
+                _PE.qy.val(v1).trigger('change');
+            }
+            if (v2 != 0) {
+                _PE.sq.val(v2);
+            }
+        }
+    });
+</script>
+<script type="text/javascript" desc="新版图片上传接入">
+SWFUP.picpath="/p2/big/,/p2/small/,/p2/tiny/";
+SINGLEUP.picurl="p2";
+$(document).ready(function(){
+    UpImageShowBar.initBar({
+       hazDetail:false,
+       container:"uploadImgcontainer",
+       imgMax:8,
+       images:getPicValueForUpdate()
+    }); 
+});
+
+// 接收图片控件的值
+function getPicValueForPost() {
+    var pic = [];
+    var tag = [];
+    var desc = [];
+    var data = UpImageShowBar.getImgs();
+    if(data != null &amp;&amp; data.length &gt; 0) {
+        $(data).each(function(i, n){
+            // 标签
+            var _tag = n.label;
+            if(_tag == null) _tag = '';
+            tag.push(_tag);
+
+            // 图片路径
+            var _url = n.url;
+            _url = _url.replace('http://pic.58.com', '').replace('/tiny/', '/big/');
+            pic.push(_url);
+            desc.push(n.detail);
+            // 描述
+        });
+    }
+    return { "pic" : pic, "tag" : tag, "desc" : desc };
+}
+
+// 图片元素赋值
+function setPicValueForPost() {
+    var data = getPicValueForPost();
+    $.bll.xiaobao.create('pic', data.pic.join('|'));
+    $.bll.xiaobao.create('pictag', data.tag.join('|'));
+    $(data.desc).each(function(i,n){
+        var id = 'picdesc' + (++i);
+        $.bll.xiaobao.create(id, n);
+    });
+}
+
+// 获取图片数据用于修改时还原
+function getPicValueForUpdate() {
+    var data = [];
+
+    if($('#pic').val().length &gt; 10) {
+        var pic = $('#pic').val().split('|');
+        var tag = $('#pictag').val().split('|');
+        var desc = [];
+
+        $(pic).each(function(i, n){
+            var _tag = '';
+            if(i &lt;= tag.length - 1) _tag = tag[i];
+            data.push({'url': 'http://pic.58.com' + n, 'label':_tag, detail: $('#picdesc' + (i+1)).val()});
+        });
+    }
+
+    return data;
+    //{url:"http://pic.58.com/p1/tiny/n_19187650139921.jpg",label:"厨房",detail:"zzzz"}
+}
+
+$().ready(function(){
+    $("#fabu").click(setPicValueForPost);
+});
+</script>
+<iframe style="display: none" src="about:blank" id="formSubmit" name="formSubmit"></iframe>
+<script type="text/javascript">
+	var usertype = "person";
+	if(false){
+		usertype = "vip";
+	}else{
+		if(false){
+			usertype = "biz";
+		}
+	}
+	
+    var _gaq = _gaq || []; var site_name = "58"; var page_type = "post";
+    var _trackURL = "{'cate':'92,14255','area':'2050','pagetype':'post','poststep':'fillout','postmode':'add','usertype':'person'}";
+    _gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+    _gaq.push(['pageTracker._setDomainName', '.58.com']);
+    _gaq.push(['pageTracker._setAllowLinker', true]);
+    _gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+    _gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+    _gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+    _gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+    _gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+    _gaq.push(['pageTracker._trackPageview','/hk/jiaoyu/liuxue/' + usertype + '/fillout/add/']);
+    $.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+    //$.getScript('http://track.58.com/referrer2.js');
+    $.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<div id="footer">&copy; 58.com <a href="http://about.58.com/v5/">帮助中心</a></div>
+<script type="text/javascript">
+
+	$('#formSubmit').attr('src', '/submit.htm'); </script> <div id="fkdiv"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" align="middle"> <param name="movie" value="http://pic2.58.com/js/5_1/91/fc.0709.swf"> </param><param name="quality" value="high"></param><param name="allowScriptAccess" value="always"> <embed allowscriptaccess="always" src="http://pic2.58.com/js/5_1/91/fc.0709.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true"></embed> </param></object></div><script type="text/javascript">$.c.fk.i('08183426-6b14-43aa-bba6-5a7281be4768');</script></div></div></body></html>

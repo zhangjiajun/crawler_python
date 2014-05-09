@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- title -->
+<title>自荐信_自荐信范文_自荐书  -58同城</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="email=no" />
+<meta name="format-detection" content="address=no;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<meta name="description" content="58同城招聘网求职指南频道为求职者提供职业规划、个人简历模板、自我评价、面试技巧、升职加薪、跳槽策略、防欺诈技巧、劳动法规等30多个内容频道相关服务，为求职者在求职过程中的彷徨提供方向指南。" />
+<meta name="keywords" content="自荐信,自荐信范文,自荐书 " />
+<!-- css -->
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="stylesheet" href="http://static.58.com/m58/m3/css/m.zixun.css" />
+<script src="http://static.58.com/m58/m3/js/jq.mobi.min.js"></script>
+<script src="http://static.58.com/m58/m3/js/m.zixun.js"></script></head>
+<body>
+<!--- banner --->
+<!--- banner end --->
+<!--- header --->
+<div class="header">
+<a class="logo_a" href="http://m.58.com/" onclick="clickLog('from=58logo')">
+<img src="http://pic2.58.com/m58/m3/img/logo.png" alt="中文最大生活信息门户" width="100%" />
+</a>
+<a href="http://m.58.com/" onclick="clickLog('from=58logo')"></a>
+<div class="city_a"><span class="city">自荐信</span></div>
+<a class="publish" path="http://p.m.58.com/?from=click_post_index" href="http://p.m.58.com/202/?path=http://m.58.com/&amp;from=click_post_index" onclick="clickLog('from=post')" rel="nofollow"><i class="ico"></i>发布</a>
+</div>
+<!--- header end --->
+<!-- tag  -->
+<div class="dl_nav">
+<a href="/w/zp/">求职指南</a>
+			    			&gt;
+    		    										<a href="/w/jianligonglue/">简历攻略</a>
+			    			&gt;
+    		    										<h1>
+<a href="/w/zijianxin/">自荐信</a>
+</h1>
+</div>
+<!-- tag end -->
+<!-- search -->
+<!-- search end -->
+<!--- nav --->
+<div class="zpnav">
+<div class="navtxt" id="navtxt">
+<ul>
+<li><a href="/w/zp/" class="catspan" name="zxindex">首页</a></li>
+<li><a href="/w/zhichangzixun/" class="catspan" name="zhichangzixun">职场资讯</a></li>
+<li><a href="/w/jianligonglue/" class="catspan" name="jianligonglue">简历攻略</a></li>
+<li><a href="/w/mianshizhinan/" class="catspan" name="mianshizhinan">面试指南</a></li>
+<li><a href="/w/xinchoufuli/" class="catspan" name="xinchoufuli">薪酬福利</a></li>
+<li><a href="/w/shenzaizc/" class="catspan" name="shenzaizc">身在职场</a></li>
+<li><a href="/w/laodongfayuan/" class="catspan" name="laodongfayuan">劳动法苑</a></li>
+<li><a href="/w/jianli/" class="catspan" name="jianli">个人简历</a></li>
+<li><a href="/w/zpzt/" class="catspan" name="zpzt">求职资讯专题</a></li>
+</ul>
+</div>
+<div class="navlist" id="zhichangzixun">
+<p>
+<a href="/w/jiuyedongtai/" name="jiuyedongtai">就业动态</a>
+<a href="/w/zhengcefagui/" name="zhengcefagui">政策法规</a>
+<a href="/w/hangyezixun/" name="hangyezixun">行业资讯</a>
+</p>
+</div>
+<div class="navlist" id="jianligonglue">
+<p>
+<a href="/w/jiaoshiqiuzhixin/" name="jiaoshiqiuzhixin">教师求职信</a>
+<a href="/w/jianlijiqiao/" name="jianlijiqiao">简历技巧</a>
+<a href="/w/jianlimoban/" name="jianlimoban">简历模板</a>
+<a href="/w/jianlifanwen/" name="jianlifanwen">简历范文</a>
+<a href="/w/qiuzhixin/" name="qiuzhixin">求职信</a>
+<a href="/w/ziwopingjia/" name="ziwopingjia">自我评价</a>
+<a href="/w/zhizuojiqiao/" name="zhizuojiqiao">制作技巧</a>
+<a href="/w/jianlifengmian/" name="jianlifengmian">简历封面</a>
+<a href="/w/jianlibiaoge/" name="jianlibiaoge">简历表格</a>
+<a href="/w/zijianxin/" name="zijianxin">自荐信</a>
+<a href="/w/ziwojianding/" name="ziwojianding">自我鉴定</a>
+</p>
+</div>
+<div class="navlist" id="mianshizhinan">
+<p>
+<a href="/w/mianshijiqiao/" name="mianshijiqiao">面试技巧</a>
+<a href="/w/mianshitiku/" name="mianshitiku">面试题库</a>
+<a href="/w/ziwojieshao/" name="ziwojieshao">自我介绍</a>
+</p>
+</div>
+<div class="navlist" id="xinchoufuli">
+<p>
+<a href="/w/shengzhijiaxin/" name="shengzhijiaxin">升职加薪</a>
+<a href="/w/fulidiantai/" name="fulidiantai">福利电台</a>
+<a href="/w/xinqingpandian/" name="xinqingpandian">薪情盘点</a>
+</p>
+</div>
+<div class="navlist" id="shenzaizc">
+<p>
+<a href="/w/zcchongdian/" name="zcchongdian">职场充电</a>
+<a href="/w/tiaocaocelue/" name="tiaocaocelue">跳槽策略</a>
+<a href="/w/lehuozc/" name="lehuozc">乐活职场</a>
+<a href="/w/shuzhibaogao/" name="shuzhibaogao">述职报告</a>
+</p>
+</div>
+<div class="navlist" id="laodongfayuan">
+<p>
+<a href="/w/guibixianjing/" name="guibixianjing">规避陷阱</a>
+<a href="/w/falvfagui/" name="falvfagui">法律法规</a>
+<a href="/w/jiuyeweiquan/" name="jiuyeweiquan">就业维权</a>
+</p>
+</div>
+</div>
+<!--- nav end --->
+<!---list info--->
+<ul class="infolst">
+<li>
+<a href="/w/zijianxin/20140425630698.html">
+<strong>餐饮管理自荐书范文</strong>
+<span class="fr red">阅读数:138</span><br />
+										    	      					&nbsp;尊敬的领导：
+您好!
+首先感谢您能在百忙之中亲阅我这封个人求职自荐信。我的名字五八同城，来自滨海职业技术学院，是酒店管理专业的毕业生。就业在即，投书自荐，我真诚地希望能融入贵公司，为贵
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140425630697.html">
+<strong>医学专业面试自荐书</strong>
+<span class="fr red">阅读数:67</span><br />
+										    	      					&nbsp;尊敬的医院领导：
+您好!
+首先感谢您百忙中垂阅我的自荐书，当您亲手开启这份自荐书，将是对我过去的检阅,相信我一定不会让您失望;当您合上这份自荐书的时候，也许已经为我打开了通往机遇与成功
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-25</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140423630679.html">
+<strong>宾馆服务员自荐信</strong>
+<span class="fr red">阅读数:114</span><br />
+										    	      					&nbsp;尊敬的领导：
+今天我从学校就业指导办公室得知，贵宾馆目前急需5名服务员，经过对贵宾馆情况的了解，我自信我的经历和能力完全符合此项工作的要求，故冒昧写信打扰，深为抱歉!
+一个星期后，我即
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-23</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140422630652.html">
+<strong>药剂专业毕业生自荐信</strong>
+<span class="fr red">阅读数:133</span><br />
+										    	      					尊敬的领导：
+您们好!!我是XX学校2013届药剂专业的一名毕业生，得知贵单位招聘药剂人员，我很希望到贵单位来工作，在此将我的情况做一简单的介绍。
+&ldquo;宝剑锋从磨砺出，梅花香自苦还来&r;
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-22</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140422630651.html">
+<strong>人事文员自荐信范文</strong>
+<span class="fr red">阅读数:116</span><br />
+										    	      					应聘公司的人事文员岗位，根据自己的专业特长及对于文员岗位的工作经验，如何应聘人事文员，写优秀的应聘自荐信呢?以下整理了人事文员自荐信范文，可供参考。
+尊敬的公司的领导：
+您好!
+感谢您抽出宝贵的
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-22</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140421630615.html">
+<strong>食品专业自荐信范文</strong>
+<span class="fr red">阅读数:122</span><br />
+										    	      					尊敬的领导：
+您好!衷心的感谢您在百忙之中翻阅我的这份材料，并祝愿贵单位事业欣欣向荣，蒸蒸日上!&nbsp;
+我是江苏食品职业技术学院09届毕业生，自从进入大学之后，高考后的轻松、获知被录取的喜悦
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-21</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140418630577.html">
+<strong>自荐信不宜夸大</strong>
+<span class="fr red">阅读数:163</span><br />
+										    	      					随着人才市场的逐步形成，推销自己经逐渐被人们接受，给企业写自荐信，在媒体上刊登广告已成为求职者普通采用的方式。
+但是，许多在报纸上刊登的自荐资料，有的给人一种华而不实之感。不论是向企业写自荐信，还是
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-18</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140418630576.html">
+<strong>热能动力工程专业毕业生自荐信</strong>
+<span class="fr red">阅读数:90</span><br />
+										    	      					尊敬的领导：
+您好
+感谢您在百忙之中阅读我的自荐信，您的翻开将是我人生中新的一页。
+我是xx大学汽车工程学院热能动力工程专业**年应届本科毕业生。在毕业之际我真诚、热切、自信地向您推荐自己。
+
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-18</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140417630550.html">
+<strong>普师个人自荐信</strong>
+<span class="fr red">阅读数:96</span><br />
+										    	      					尊敬的领导：
+您好!
+首先感激您在百忙之中阅读我的自荐材料!
+我是湖南省耒阳师范学校普师专业的一名学生，借此机会，我怀着饱满的热情和积极的心态毛遂自荐。
+作为一名中专生，在了解和发挥自己优势的
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-17</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140417630549.html">
+<strong>国际政治专业个人自荐信</strong>
+<span class="fr red">阅读数:64</span><br />
+										    	      					尊敬的领导：
+您好!真诚地感谢您在繁忙的公务中浏览这份材料，这里有一颗热情而赤诚的心灵渴望得到您的了解、支持与帮助，在此，请允许我向您毛遂自荐。
+思想和精神的完善，才是人真正的完美。在完成学业和实
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-17</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140416630514.html">
+<strong>商务日语毕业生自荐信范文</strong>
+<span class="fr red">阅读数:150</span><br />
+										    	      					尊敬的**领导：
+您好!
+很荣幸你能抽阅我的自荐信。我叫***，是***大学商务日语专业的。作为一名即将步入社会的毕业生，我向往一份能展示自己才华，实现自我价值的职业，为此我向贵单位坦诚自荐。
+
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-16</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140416630513.html">
+<strong>影视艺术学院毕业生自荐信</strong>
+<span class="fr red">阅读数:195</span><br />
+										    	      					尊敬的领导：
+您好!
+当您翻开这一页的时候，您已经为我打开了通往机遇与成功的第一扇大门。感谢您，百忙之中抽空阅读我的自荐信。
+我是河北大学影视艺术学院的一名大三学生，我想通过实践来更好的运用我在
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-16</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140415630481.html">
+<strong>教师个人自荐信范文</strong>
+<span class="fr red">阅读数:97</span><br />
+										    	      					&nbsp;领导：
+您好!首先感激您在百忙之中阅读我的自荐材料!
+我是湖南省耒阳师范学校普师专业的一名学生，借此机会，我怀着饱满的热情和积极的心态毛遂自荐。
+作为一名中专生，在了解和发挥自己优势
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-15</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140415630480.html">
+<strong>机械设计毕业生自荐信范文</strong>
+<span class="fr red">阅读数:98</span><br />
+										    	      					尊敬的领导：
+感谢你在百忙之中抽空审阅我的材料，希望给我一个机会!
+您好!我写此信应聘贵公司招聘的模具职位。我很高兴地在招聘网站得知你们的招聘广告，并一直期望能有机会加盟贵公司。
+大学是一个锻炼
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-15</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140414630411.html">
+<strong>外语专业毕业生个人的自荐信</strong>
+<span class="fr red">阅读数:171</span><br />
+										    	      					&nbsp;我是大连外国语学校外语系2010届的一名学生。在即将毕业的时刻，看到了贵公司的招聘启示。贵公司的发展前景和用人之道我很仰慕，同时我也非常希望能用自己所学的知识为贵公司效力。我认为我完全可以
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-14</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140414630410.html">
+<strong>外贸实习生自荐信范文</strong>
+<span class="fr red">阅读数:164</span><br />
+										    	      					&nbsp;您好! 首先，向您辛勤的工作致以深深的敬意!同时也真诚的感谢您在百忙之中抽空垂阅我的自荐信材料。
+回首昨天，曲折坎坷外，得失荣辱间，都是一个奋进勃发的身影，都是一份无悔无愧的心情。在学校
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-14</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140414630381.html">
+<strong>数学专业毕业生自荐信范文</strong>
+<span class="fr red">阅读数:123</span><br />
+										    	      					您们好!
+本人是xx师范学院数学与计算机科学学院数学专业毕业生，经慎重考虑欲加盟贵学校。
+在大学三年里，时刻按照&ldquo;宽专业、厚基础、强能力、高素质&rdquo;标准去锻炼及发展自我，在不
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-14</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140414630380.html">
+<strong>税务局人员自荐信</strong>
+<span class="fr red">阅读数:70</span><br />
+										    	      					您好!首先衷心感谢您在百忙之中浏览我的自荐信，为一位满腔热情的大学生开启一扇希望之门。
+我是xx经贸大学经济系税务专业的一名学生，即将面临毕业。借此择业之际，我怀着一颗赤诚的心和对事业的执著追求，真
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-14</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140410630351.html">
+<strong>土木工程专业个人自荐信</strong>
+<span class="fr red">阅读数:84</span><br />
+										    	      					尊敬的领导：
+您好!
+本人现就读于西南交通大学土木工程系，是04级学生。西南交通大学是我国土木建设人才的重点培养基地，具有悠久的历史和优良的传统，并且素以治学严谨、育人有方而著称。在这样的学习环境
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-10</span>
+</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140410630350.html">
+<strong>路政管理员自荐信</strong>
+<span class="fr red">阅读数:161</span><br />
+										    	      					尊敬的领导：
+您好：非常感谢您在百忙之中阅读我的自荐材料!
+我叫李XX，是广东省交通职业技术学院2007届的学生,专业是路政管理，在校期间担路政07301班体育委员兼生活委员，得到了学院和各位老师
+	     				     								<br />来源: 58.com
+				<span class="fr">2014-04-10</span>
+</a>
+</li>
+</ul>
+<!---list info end--->
+<!---page--->
+<div class="paging">
+<a id="prev" href="/w/zijianxin/list_25_0.html" class="prev"><i class="ico"></i>上一页</a>
+<span class="page_sel">
+<div class="selVal">
+<span class="sle_show sel_default">1</span> <span class="sle_ri"><span class="sel_xia"></span></span>
+</div>
+<select id="sel_page" class="select_item">
+<option value="1">第1页</option>
+<option value="2">第2页</option>
+<option value="3">第3页</option>
+<option value="4">第4页</option>
+<option value="5">第5页</option>
+<option value="6">第6页</option>
+<option value="7">第7页</option>
+<option value="8">第8页</option>
+<option value="9">第9页</option>
+<option value="10">第10页</option>
+<option value="11">第11页</option>
+<option value="12">第12页</option>
+<option value="13">第13页</option>
+<option value="14">第14页</option>
+<option value="15">第15页</option>
+<option value="16">第16页</option>
+<option value="17">第17页</option>
+<option value="18">第18页</option>
+<option value="19">第19页</option>
+<option value="20">第20页</option>
+<option value="21">第21页</option>
+<option value="22">第22页</option>
+<option value="23">第23页</option>
+<option value="24">第24页</option>
+<option value="25">第25页</option>
+<option value="26">第26页</option>
+<option value="27">第27页</option>
+<option value="28">第28页</option>
+<option value="29">第29页</option>
+<option value="30">第30页</option>
+<option value="31">第31页</option>
+<option value="32">第32页</option>
+<option value="33">第33页</option>
+<option value="34">第34页</option>
+<option value="35">第35页</option>
+<option value="36">第36页</option>
+<option value="37">第37页</option>
+<option value="38">第38页</option>
+<option value="39">第39页</option>
+<option value="40">第40页</option>
+<option value="41">第41页</option>
+<option value="42">第42页</option>
+<option value="43">第43页</option>
+<option value="44">第44页</option>
+<option value="45">第45页</option>
+<option value="46">第46页</option>
+<option value="47">第47页</option>
+<option value="48">第48页</option>
+<option value="49">第49页</option>
+<option value="50">第50页</option>
+<option value="51">第51页</option>
+<option value="52">第52页</option>
+<option value="53">第53页</option>
+<option value="54">第54页</option>
+<option value="55">第55页</option>
+<option value="56">第56页</option>
+<option value="57">第57页</option>
+<option value="58">第58页</option>
+<option value="59">第59页</option>
+<option value="60">第60页</option>
+<option value="61">第61页</option>
+<option value="62">第62页</option>
+<option value="63">第63页</option>
+<option value="64">第64页</option>
+<option value="65">第65页</option>
+<option value="66">第66页</option>
+<option value="67">第67页</option>
+<option value="68">第68页</option>
+<option value="69">第69页</option>
+<option value="70">第70页</option>
+<option value="71">第71页</option>
+<option value="72">第72页</option>
+<option value="73">第73页</option>
+<option value="74">第74页</option>
+<option value="75">第75页</option>
+<option value="76">第76页</option>
+<option value="77">第77页</option>
+<option value="78">第78页</option>
+<option value="79">第79页</option>
+<option value="80">第80页</option>
+<option value="81">第81页</option>
+<option value="82">第82页</option>
+<option value="83">第83页</option>
+<option value="84">第84页</option>
+<option value="85">第85页</option>
+<option value="86">第86页</option>
+<option value="87">第87页</option>
+<option value="88">第88页</option>
+<option value="89">第89页</option>
+<option value="90">第90页</option>
+<option value="91">第91页</option>
+<option value="92">第92页</option>
+<option value="93">第93页</option>
+<option value="94">第94页</option>
+<option value="95">第95页</option>
+<option value="96">第96页</option>
+<option value="97">第97页</option>
+<option value="98">第98页</option>
+<option value="99">第99页</option>
+<option value="100">第100页</option>
+<option value="101">第101页</option>
+<option value="102">第102页</option>
+<option value="103">第103页</option>
+<option value="104">第104页</option>
+<option value="105">第105页</option>
+</select>
+</span>
+<a id="next" href="/w/zijianxin/list_25_2.html" class="next">下一页<i class="ico"></i></a>
+<script>
+        $(function () {
+            $("#sel_page").bind("change", function () {
+                $(".sel_default").html($(this).val());
+                var selectedPage = $(this).val();
+                var url = "/w/zijianxin/list_25_pn.html" 
+                var reg = /_pn/;
+                url = url.replace(reg, "_" + selectedPage);
+                document.location.href = url ;
+            });
+        });
+    </script>
+</div>
+<!---page end--->
+<!---焦点资讯-->
+<div class="zixininfo">
+<div class="zixuntit"><strong>热门排行</strong></div>
+<ul class="zixunlist">
+<li>
+<a href="/w/zijianxin/2013022552324.html">音乐专业毕业生自荐信范文</a>
+</li>
+<li>
+<a href="/w/zijianxin/2012052619015.html">设计学毕业生自荐书范文</a>
+</li>
+<li>
+<a href="/w/zijianxin/2013070137885.html">2013年保送生自荐信格式</a>
+</li>
+<li>
+<a href="/w/zijianxin/2013021750057.html">怎样写好留学自荐信</a>
+</li>
+<li>
+<a href="/w/zijianxin/2012052626746.html">自荐信写作部分</a>
+</li>
+</ul>
+<div class="zixuntit bortop"><strong>推荐阅读</strong></div>
+<ul class="zixunlist">
+<li>
+<a href="/w/zijianxin/20140425630698.html">餐饮管理自荐书范文</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140425630697.html">医学专业面试自荐书</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140423630679.html">宾馆服务员自荐信</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140422630652.html">药剂专业毕业生自荐信</a>
+</li>
+<li>
+<a href="/w/zijianxin/20140422630651.html">人事文员自荐信范文</a>
+</li>
+</ul>
+</div>
+<div class="footer">
+<p class="footer_01">
+<a class="footer_hover" rel="nofollow">触屏版</a>
+<a id="gotodownload" href="http://m.58.com/bj/down.shtml" rel="nofollow">客户端</a>
+</p>
+<p class="footer_02">手机58网：58.com&nbsp;&nbsp;&nbsp;&nbsp;京ICP证060405号</p>
+</div>
+<img class="googleanalyze" src="" style="display: none;" />
+<script type="text/javascript">
+	var prefix = "http://m.58.com/ga/?utmac=MO-35618414-1&amp;utmn=";
+	var suffix = new Date().getTime()+"&amp;utmr=http://www.58.com/mianshitiku/&amp;utmp=%2Flocal%2Fzixun%2F&amp;guid=ON";
+	var url = prefix+suffix;
+	$("img[class='googleanalyze']").attr("src",url);
+</script>
+<script type="text/javascript"> 
+var _gaq = _gaq || [],site_name = "M58",shop_count= "0",page_type = "list";
+var _trackURL = "{'cate':'6,8,25','area':'','pagetype':'list','actiontype':'zixun','pagesize':'25'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/m/zijianxin/zixun/list/']);
+</script>
+<script src="http://www.google-analytics.com/ga.js" async="async"></script>
+<script src="http://tracklog.58.com/referrer_m.js" async="async"></script>
+</body>
+</html>
+<script type="text/javascript">
+
+	$(function() {
+		$("#navtxt li a[name='jianligonglue']").removeClass().addClass("catspan select");
+		$("#jianligonglue").attr('style','display: block;');
+		$("#jianligonglue a[name='zijianxin']").removeClass().addClass("select");
+	});
+	$(function() {
+		if(1 == 1 ){
+			$("#prev").attr("href","javascript:void();");
+			$("#prev").removeClass().addClass("prev disabled");
+		}
+		if(1 == 105){
+			$("#next").removeClass().addClass("next disabled").attr("href","javascript:void();");
+		}
+	});
+</script>

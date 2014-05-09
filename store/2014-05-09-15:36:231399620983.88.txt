@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="个人简历,简历库" />
+<meta name="description" content="58同城个人简历库,为您提供海量优秀的个人简历,您可以搜索销售、客服、文员等数百种职位人才的个人简历.搜简历,找人才就来58同城个人简历库。" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui6/zp/resume20111103.css" />
+<script type="text/javascript" src="http://static.58.com/n/js/jianli/jquery.js"></script>
+<script type="text/javascript" src="http://static.58.com/n/js/jianli/search.js?version=20140327"></script>
+<script type="text/javascript">        try { var ____json4fe = { catentry: { dispid: '9224', name: '招聘信息', listname: 'job' }, locallist: { dispid: '1', name: '北京', listname: 'bj' }, modules: 'toplist'} } catch (e) { };</script>
+<script type="text/javascript" src="http://static.58.com/n/js/jianli/19h.js"></script>
+<script type="text/javascript">        document.domain = '58.com'; var win = new GetToolTipWindow('tooltipdiv', 'txtSearch', '3', '1', '', false); win.setSearchButton('searchbtn'); </script>
+<title>2014最新个人简历库 - 58同城</title>
+</head>
+<body>
+<div id="topbar"><div id="login"><a href="http://post.58.com/1/9224/j5" class="redfont">发布招聘信息</a><script type="text/javascript">writeUserName();</script></div></div>
+<div id="logo_center"><a id="logo" href="http://www.58.com/"><img src="http://pic2.58.com/images/logonew.gif" /></a><div class="resumedata"><h1>简历库</h1></div><div class="clear"></div></div>
+<div class="search_index">
+<div class="search_keyword">
+<div style="z-index:10;" class="search_city fl"><span id="spanLiveCity" sid="1" sdir="bj">北京</span><div class="zhankai" id="divLiveCity" style="display:none"></div></div>
+<span class="search_input fl"><input type="text" class="c_ccc" id="txtSearch" onblur="win.closeToolTipWindow();" onkeyup="win.GetContentData();" autocomplete="off" value="请输入职位名" /></span>
+<input type="button" class="search_btn" id="searchbtn" onclick="SearchQz()" value="搜索简历" />
+<span class="mm"><a href="javascript:void(0);" id="simplecondition" class="morea down">高级搜索</a><a href="javascript:void(0);" id="complexcondition" style="display:none" class="morea up">收起高级搜索</a></span>
+</div>
+<div class="moretj">
+<div id="complex" style="display:none" class="morecon">
+<div class="search_city fl"><input type="hidden" id="hidsex" name="hidsex" value="-1" /><span id="sex">性别不限</span>
+<div class="selectlist hc">
+<a href="javascript:void(0)" onclick="PopWindowClear(this,-1)">性别不限</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,1)">女</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,0)">男</a>
+</div>
+</div>
+<div class="search_city fl"><input type="hidden" id="hidage" name="hidage" value="-1" /><span id="age">年龄不限</span>
+<div class="selectlist hc">
+<a href="javascript:void(0)" onclick="PopWindowClear(this,-1)">年龄不限</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,0)">16-20岁</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,1)">21-30岁</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,2)">31-40岁</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,3)">41-50岁</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,4)">50岁以上</a>
+</div>
+</div>
+<div class="search_city fl"><input type="hidden" id="hidedu" name="hidedu" value="-1" /><span id="edu">学历不限</span><div class="selectlist hc">
+<a href="javascript:void(0)" onclick="PopWindowClear(this,-1)">学历不限</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,1)">高中以下</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,2)">高中</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,3)">中专/技校</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,4)">大专</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,5)">本科</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,6)">硕士</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,7)">博士</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,8)">MBA/EMBA</a>
+</div><input type="checkbox" checked="checked" id="eduabove" name="eduabove" style="margin:2px;*margin:0; vertical-align:middle; display:none;" />含以上</div>
+<div class="search_city fl"><input type="hidden" id="hidexp" name="hidexp" value="-1" /><span id="exp" style="width:75px;">工作经验不限</span><div style="width:103px" class="selectlist hc">
+<a href="javascript:void(0)" onclick="PopWindowClear(this,-1)">工作经验不限</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,0)">无经验</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,1)">1-3年</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,2)">3-5年</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,3)">5-10年</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,4)">10年以上</a>
+</div><input type="checkbox" id="expabove" name="expabove" style="margin:2px;*margin:0; vertical-align:middle; display:none;" /></div>
+<div class="search_city fl"><input type="hidden" id="hidaddtime" name="hidaddtime" value="-1" /><span id="addtime">发布时间</span><div class="selectlist hc">
+<a href="javascript:void(0)" onclick="PopWindowClear(this,-1)">全部时间</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,'20140508000000_20140510000000')">一天以内</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,'20140506000000_20140510000000')">三天以内</a>
+<a href="javascript:void(0)" onclick="PopWindowClear(this,'20140502000000_20140510000000')">七天以内</a>
+</div></div>
+</div>
+</div>
+</div>
+<div class="resume_hot">
+<h2>热门简历</h2>
+<ul>
+<li><a>销售</a></li>
+<li><a>文员</a></li>
+<li><a>前台</a></li>
+<li><a>助理</a></li>
+<li><a>客服</a></li>
+<li><a>服务员</a></li>
+<li><a>收银</a></li>
+<li><a>厨师</a></li>
+<li><a>配菜</a></li>
+<li><a>会计</a></li>
+<li><a>编辑</a></li>
+<li><a>平面设计</a></li>
+<li><a>网页设计</a></li>
+<li><a>装潢设计</a></li>
+<li><a>网管</a></li>
+<li><a>营业员</a></li>
+<li><a>导购</a></li>
+<li><a>司机</a></li>
+<li><a>快递</a></li>
+<li><a>仓库管理员</a></li>
+<li><a>美容师</a></li>
+<li><a>发型师</a></li>
+<li><a>保安</a></li>
+<li><a>保洁</a></li>
+<li><a>保姆</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div id="footer">
+<p class="free"><a href="http://post.58.com/1/9224/j5">免费发布招聘信息</a><a id="addcollect">收藏58同城简历库</a></p>
+<p class="s_nav">
+<a href="http://bj.58.com/searchjob.shtml">北京求职</a><span>|</span><a href="http://bj.58.com/job.shtml">北京招聘</a><span>|</span>
+<a href="http://vip.58.com">招聘通</a>
+</p>
+<p>&copy;2011 58.com</p>
+</div>
+<script type="text/javascript">
+        $(document).ready(function() {
+            InitSearch();
+        });
+        </script>
+<script type="text/javascript">
+        var _gaq = _gaq || [],site_name = "58";
+        var _trackURL = "{'pagetype':'jianli_index'}";
+        _gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+        _gaq.push(['pageTracker._setDomainName', '.58.com']);
+        _gaq.push(['pageTracker._setAllowLinker', true]);
+        _gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+        _gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+        _gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+        _gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+        _gaq.push(['pageTracker._addOrganic', '360', 'q']);
+        _gaq.push(['pageTracker._trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })(); 
+    </script><script type="text/javascript" src="http://tracklog.58.com/referrer4.js"></script>
+</body>
+</html>

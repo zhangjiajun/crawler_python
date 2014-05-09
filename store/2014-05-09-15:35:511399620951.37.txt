@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>找回密码-58同城</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link rel="Shortcut Icon" href="http://pic2.58.com/images/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">document.domain = '58.com';try{var ____json4fe = {catentry:{dispid:'',name:'',listname:''},locallist:{dispid:'',name:'',listname:''},modules:'passport'}}catch(e){}; </script>
+<script src="http://static.58.com/js/5_1/jquery1.3.2.js" type="text/javascript"></script>
+<script src="http://static.58.com/js/5_1/comm_js/boot_passport_version.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://static.58.com/ui6/my/css/login_6.css?2012217-2" type="text/css" /><style>
+.porleft { width:732px; padding:40px 10px 0 0px;}
+.porleft p { width:686px; padding:12px 0 12px 46px;}
+.porleft p.h{ background-color:#f9f9f9;}
+.porleft p input.w{ background-color:#e6e6e6;}
+</style>
+</head>
+<body>
+<form id="submitForm" action="/forgetpassword" method="get" name="submitForm" target="formSubmit">
+<input type="hidden" id="page" name="page" value="forget" />
+<div id="header" class="win1000">
+<a id="logo" href="http://www.58.com"><img alt="中文最大生活信息门户" src="http://pic2.58.com/ui6/my/images/logo-49h.gif" /></a>
+<div id="cityname" class="passwordname"><span>找回密码</span></div>
+<div id="logintext"><a href="http://www.58.com/">返回首页</a>|<a target="_blank" href="http://about.58.com/">帮助</a></div>
+</div>
+<div class="cb win1000">
+<div class="porleft">
+<p>请输入以下资料中的一项</p>
+<p id="usernamep">
+<label class="zhmm" for="typeusername"><input id="typeusername" name="stype" type="radio" value="1" />用&nbsp;&nbsp;户&nbsp;&nbsp;名</label>
+<input type="text" size="20" value="" class="inp inw" id="usernameshadow" style="display:none;" />
+<input type="text" size="20" value="" class="inp inw" id="username" maxlength="100" name="username" />
+<span id="username_Tip"></span>
+</p>
+<p id="emailp">
+<label class="zhmm" for="typeemail"><input id="typeemail" name="stype" type="radio" value="2" />电子邮箱</label>
+<input type="text" size="20" value="" class="inp inw" id="emailshadow" style="display:none;" />
+<input type="text" size="20" value="" class="inp inw" id="email" maxlength="100" name="email" />
+<span id="email_Tip"></span>
+</p>
+<p id="mobilep">
+<label class="zhmm" for="typemobile"><input id="typemobile" name="stype" type="radio" value="3" />手机号码</label>
+<input type="text" size="20" value="" class="inp inw" id="mobileshadow" style="display:none;" />
+<input type="text" size="20" value="" class="inp inw" id="mobile" maxlength="20" name="mobile" />
+<span id="mobile_Tip"></span>
+</p>
+<p style="padding-top:40px;">请输入图片中的验证码</p>
+<p><span class="regtlx pl20">验&nbsp;&nbsp;证&nbsp;&nbsp;码</span>
+<input type="text" size="2" name="validatecode" maxlength="5" id="validatecode" class="inp inw2" />
+<img onclick="document.getElementById('vcodeImg').src='/validatecode?temp=123'+ (new Date().getTime().toString(36)); return false" name="vcodeImg" id="vcodeImg" style="cursor: pointer; height:32px;" src="/validatecode" /> <a onclick="document.getElementById('vcodeImg').src='/validatecode?temp=123'+ (new Date().getTime().toString(36)); return false" href="javascript:void(0)" class="f12">看不清？</a> <span id="validatecode_Tip"></span> </p>
+<p><span class="regtlx pl20">&nbsp;</span>
+<label id="butt" class="butt">
+<input type="submit" class="btns" value="提交" checked="checked" name="btnSubmit" id="btnSubmit" />
+</label>
+</p>
+</div>
+<div class="porright">
+<p><a href="/reg">注册新账号</a></p>
+<div class="tel-tip">
+<strong>想免费更快速注册？</strong>
+		中国大陆手机用户<br />
+		编辑短信“<span class="red">zc</span>”发送到<br />
+<b class="red">1069015958</b><br />
+<span class="gray">
+			根据短信提示操作，即可成功注册<br />
+			运营商收取短信费0.1元/条，无额外费用
+		</span>
+</div>
+</div> </div>
+<iframe name="formSubmit" id="formSubmit" src="/submit" style="display: none;"></iframe>
+<script type="text/javascript">
+	var passporttimeout;
+	function clearPassportTimeout(){
+		clearTimeout(passporttimeout);
+	}
+	var actions = ["/forgetpassword","/forgetbyemail","/forgetbymobile"];
+    $(function() {
+    	$.formValidator.initConfig({ formid: "submitForm", errorfocus: false, btnid: 'btnSubmit', btnvalue: '提交', btnactionvalue: '提交中...', fun: function() {
+    		refreshTips(0);
+    		passporttimeout = setTimeout(function(){
+            	alert("服务器繁忙，请稍后再试");
+            	$.formValidator.subfalse('submitForm', 'btnSubmit', '提交');
+            },5000);
+    		return true;
+        },onerror:function(){
+        	refreshTips(0);
+        }
+        });
+    	$("#username").formValidator({ onfocus: "请输入您的用户名" }).functionValidator({ fun: function(val, elem) {
+	    		var strRegStr = /^[\w|\u4e00-\u9fa5]{2,20}$/;
+	            var reg = new RegExp(strRegStr);
+	            if (getStype()!=1 || reg.test(val)) { return true; }
+	            return "用户名格式错误";
+	        }
+	    });
+    	$("#username").keyup(function() {
+            $(this).val($.formValidator.QtoB(this.value));
+        });
+    	$("#email").formValidator({ onfocus: "请输入您注册的邮箱" }).functionValidator({ fun: function(val, elem) {
+                var msg = $.c.user.reg.checkemail(val);
+                if (getStype()!=2 || msg == "") { return true; }
+                return msg;
+            }
+        });
+    	$("#mobile").formValidator({ onfocus: "请输入您的手机号码" }).functionValidator({ fun: function(val, elem) {
+    		if(getStype()!=3 || validMobileFormat(val)){
+            	return true;
+            }else{
+            	return '手机号码格式错误';
+            }
+        },
+            onerror: "手机号码格式错误"
+        });
+    	
+    	$("#validatecode").formValidator({ onfocus: "请填写验证码" }).inputValidator({ onerror: "请填写验证码" }).regexValidator({ regexp: "^([a-zA-Z0-9]){5}$", onerror: "验证码输入不正确" });
+        $("#validatecode").bind("blur",function() {
+            $(this).val($.formValidator.QtoB(this.value));
+        });
+        
+        $("input[type=radio][name=stype]").each(function(index,el){
+        	$(this).click(function(){
+        		refreshTips($(this).val());
+        	});
+        });
+        $("#usernameshadow").bind("click",function(){refreshTips(1);$("#username").focus();});
+        $("#emailshadow").bind("click",function(){refreshTips(2);$("#email").focus();});
+        $("#mobileshadow").bind("click",function(){refreshTips(3);$("#mobile").focus();});
+        refreshTips(1);
+        
+                            });
+    
+    function getStype(){
+    	var stype = $("input[@type='radio'][@name='stype']:checked").val();
+    	if(!stype || stype&lt;1 || stype&gt;3)
+    		stype = 1;
+		return stype;
+	}
+    
+    function refreshTips(stype){
+    	if(!stype || stype&lt;1 || stype&gt;3)
+    		stype = getStype();
+    	
+    	if(stype!=1) disableTip("username");
+    	if(stype!=2) disableTip("email");
+    	if(stype!=3) disableTip("mobile");
+
+    	switch(stype-0){
+    		case 1:enableTip("username");break;
+    		case 2:enableTip("email");break;
+    		case 3:enableTip("mobile");break;
+    	}
+    	$("#submitForm").attr("action",actions[stype-1]);
+    }
+    
+    function enableTip(fieldid){
+    	$("#"+fieldid).show();
+    	$("#"+fieldid).removeAttr("disabled");
+    //	$("#"+fieldid).focus();
+    	$("#"+fieldid+"p").addClass("h");
+    	$("#"+fieldid+"shadow").removeClass("w");
+    	$("#type"+fieldid).attr("checked",true);
+    	$("#"+fieldid+"shadow").hide();
+    }
+    
+    function disableTip(fieldid){
+    	$("#"+fieldid).val("");
+    	$("#"+fieldid+"shadow").addClass("w");
+		$("#"+fieldid).removeClass("wrong_color");
+		$("#"+fieldid).attr("disabled","disabled")
+		$("#"+fieldid+"p").removeClass("h");;
+		$("#"+fieldid).hide();
+		$("#"+fieldid+"shadow").show();
+		$.formValidator.setTipState(null, "clear", ' ', fieldid+'_Tip');
+    }
+    
+    function validMobileFormat(mobile){
+	    var numberRegStr = /^\d{11}$/;
+	    var regNum = new RegExp(numberRegStr);
+	    if (regNum.test(mobile)) {
+	        var telRegStr = /^(13|14|15|17|18)\d{9}$/;
+	        var reg = new RegExp(telRegStr);
+	        return reg.test(mobile);
+	    }
+	    return false;
+    }
+    
+    function refreshValidateCode(){
+    	$("#vcodeImg").attr("src", "/validatecode?temp=123" + (new Date().getTime().toString(36)));
+    }
+</script>
+<div id="footer" class="win1000">
+<p>&copy; 58.com <a class="fduihua" target="_blank" title="有问题请与58客服进行对话" href="http://about.58.com/">与58对话</a></p>
+</div>
+</form>
+<div style="display:none">
+<script type="text/javascript">
+var _gaq = _gaq || []; var site_name = "58"; var page_type="retrievepwd"; var _trackURL="/forgetpassword/";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]); 
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._trackPageview']);
+fe.init(function(){ 
+	js.append(('https:' == document.location.protocol ? ' https://ssl' : ' http://www') + '.google-analytics.com/ga.js'); 
+	js.append(' http://track.58.com/referrer2.js'); 
+})
+</script>
+</div>
+</body>
+</html>

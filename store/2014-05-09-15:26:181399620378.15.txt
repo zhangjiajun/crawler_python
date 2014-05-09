@@ -1,0 +1,939 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>何裕民_新浪博客</title>
+<meta name="keywords" content="何裕民_新浪博客,何裕民,健康,癌变,规律,特性,癌细胞,健康,中西医,抗癌,饮食,健康,心存期盼,希望,癌症,精神力量,健康,肿瘤治疗,护胃,辅助,药品,健康,卵巢癌,特点,中医调治,化疗,健康,宫颈癌,饮食,保健食品,病理现象,健康,乳腺癌,内分泌失调,心理治疗,健康,乳腺癌,控制,情绪,心身医学,治愈,健康" />
+<meta name="description" content="何裕民_新浪博客,何裕民,中西医对话：中国式抗癌--战略与战术,广东卫视健康有道--何裕民：雾霾那些事,已知的部分癌变规律,中国式抗癌——战略与战术,心存企盼，就有希望,肿瘤治疗，护胃为要,如何打消卵巢癌患者的错误认知,如何打消宫颈癌患者的错误认知,如何消除乳腺癌患者好胜心强、常压抑自我的毛病,如何消除乳腺癌患者的敏感、抑郁或神经症倾向" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+&lt;!–[if lte IE 6]&gt;
+&lt;script type="text/javascript"&gt;
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+&lt;/script&gt;
+&lt;![endif]–&gt;
+&lt;script type="text/javascript"&gt;
+window.staticTime=new Date().getTime();
+&lt;/script&gt;
+&lt;link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php"  /&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd"  /&gt;
+&lt;link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest"  /&gt;
+&lt;link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1286123480.xml" title="RSS"  /&gt;
+&lt;link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet"  /&gt;&lt;style id="tplstyle" type="text/css"&gt;@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/3/3_17/t.css");
+&lt;/style&gt;
+&lt;style id="positionstyle"  type="text/css"&gt;
+.sinabloghead .blogtoparea{ left:173px;top:38%;}
+.sinabloghead .blognav{ left:163px;top:61%;}
+&lt;/style&gt;
+&lt;style id="bgtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="headtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="navtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--$sinatopbar--&gt;
+&lt;div style="z-index:512;" class="nsinatopbar"&gt;
+  &lt;div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"&gt;&lt;/div&gt;
+  &lt;div class="ntopbar_main"&gt; 
+    &lt;a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"&gt;&lt;img class="ntopbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"&gt;&lt;/a&gt;
+    &lt;div class="ntopbar_floatL"&gt;
+      &lt;div class="ntopbar_search" id="traySearchBar"&gt;&lt;/div&gt;
+	  &lt;div class="ntopbar_ad" id="loginBarActivity" style="display:none;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="ntopbar_loading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"&gt;加载中…&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--$end sinatopbar--&gt;
+
+&lt;div class="sinabloga" id="sinabloga"&gt;
+	&lt;div id="sinablogb" class="sinablogb"&gt;
+
+	   
+ &lt;div id="sinablogHead" class="sinabloghead"&gt;
+     &lt;div style="display: none;" id="headflash" class="headflash"&gt;&lt;/div&gt;
+	   &lt;div id="headarea" class="headarea"&gt;
+      &lt;div id="blogTitle" class="blogtoparea"&gt;
+      &lt;h1 id="blogname" class="blogtitle"&gt;&lt;a href="http://blog.sina.com.cn/heyumin"&gt;&lt;span id="blognamespan"&gt;何裕民的BLOG&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;
+	  		
+					&lt;div id="bloglink" class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/heyumin"&gt;http://blog.sina.com.cn/heyumin&lt;/a&gt;  &lt;a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss"&gt;[&lt;cite&gt;订阅&lt;/cite&gt;]&lt;/a&gt;&lt;a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1286123480'));"&gt;[&lt;cite&gt;手机订阅&lt;/cite&gt;]&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="blognav" id="blognav"&gt;
+      			  &lt;div id="blognavBg" class="blognavBg"&gt;&lt;/div&gt; &lt;div class="blognavInfo"&gt; 
+		&lt;span&gt;&lt;a  class="on" href="http://blog.sina.com.cn/heyumin"&gt;首页&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a  href="http://blog.sina.com.cn/s/articlelist_1286123480_0_1.html"&gt;博文目录&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a href="http://photo.blog.sina.com.cn/heyumin"&gt;图片&lt;/a&gt;&lt;/span&gt;
+      &lt;span class="last"&gt;&lt;a  href="http://blog.sina.com.cn/s/profile_1286123480.html"&gt;关于我&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;      		      		 	
+      
+             &lt;div class="autoskin" id="auto_skin"&gt;
+       &lt;/div&gt;
+
+&lt;div class="adsarea"&gt;
+     &lt;a href="#"&gt;&lt;div id="template_clone_pic" class="pic"&gt;&lt;/div&gt;&lt;/a&gt;
+     &lt;div id="template_clone_link" class="link wdc_HInf"&gt;&lt;/div&gt;
+     &lt;div id="template_clone_other" class="other"&gt;&lt;/div&gt;        
+&lt;/div&gt;
+    &lt;/div&gt;
+    	    	    &lt;/div&gt;
+    
+    &lt;!--主题内容开始 --&gt;
+    &lt;div class="sinablogbody" id="sinablogbody"&gt;
+		
+	&lt;!--第一列start--&gt;
+    &lt;div id="column_1" class="SG_colW21 SG_colFirst"&gt;&lt;div class="SG_conn" id="module_901"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="个人资料"&gt;个人资料&lt;/span&gt;
+            &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="info"&gt;
+                            
+            &lt;div class="info_img" id="comp_901_head"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://p1.sinaimg.cn/1286123480/180/07551257741555" id="comp_901_head_image" width="180" height="180" alt="何裕民" title="何裕民"  /&gt;&lt;/div&gt;
+            
+            &lt;div class="info_txt"&gt;
+              &lt;div class="info_nm"&gt;
+                &lt;img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;
+                &lt;span class="SG_txtb"&gt;&lt;strong id="ownernick"&gt;何裕民                                &lt;/strong&gt;&lt;/span&gt;
+                
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class="info_btn1"&gt;
+              &lt;!--user['qing_url'] --&gt;
+                &lt;a target="_blank" href="http://qing.blog.sina.com.cn/u/1286123480" onclick="v7sendLog &amp;&amp; v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;Qing&lt;/cite&gt;&lt;/a&gt;
+                &lt;a target="_blank" href="http://weibo.com/u/1286123480?source=blog" class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;微博&lt;/cite&gt;&lt;/a&gt;
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class="SG_j_linedot"&gt;&lt;/div&gt;        &lt;div class="info_locate" id = "info_locate_id"&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;div class="info_btn2"&gt;
+    &lt;p&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"&gt;&lt;cite &gt;加好友&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"&gt;&lt;cite &gt;发纸条&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;a href="http://blog.sina.com.cn/s/profile_1286123480.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"&gt;&lt;cite&gt;写留言&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"&gt;&lt;cite onclick="Module.SeeState.add()"&gt;加关注&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+                  &lt;div class="info_list"&gt;     
+                                   &lt;ul class="info_list1"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客等级：&lt;/span&gt;&lt;span id="comp_901_grade"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/2.gif"   /&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/1.gif"   /&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客积分：&lt;/span&gt;&lt;span id="comp_901_score"&gt;&lt;strong&gt;2717&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;ul class="info_list2"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客访问：&lt;/span&gt;&lt;span id="comp_901_pv"&gt;&lt;strong&gt;3,182,144&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;关注人气：&lt;/span&gt;&lt;span id="comp_901_attention"&gt;&lt;strong&gt;4,901&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/div&gt;
+&lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_conn" id="module_1007"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="博主公告"&gt;博主公告&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget" style="position:relative"&gt;&lt;P STYLE="TexT-ALiGn: center; MArGin: 0cm 0cm 0pt" CLASS="MsoNormal" ALIGN="center"&gt;&lt;BR  /&gt;&lt;/P&gt;&lt;P STYLE="TexT-ALiGn: center; MArGin: 0cm 0cm 0pt" CLASS="MsoNormal" ALIGN="center"&gt;&nbsp;&lt;wbr&gt;&lt;/P&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1004"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="门诊公告"&gt;门诊公告&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget" style="position:relative"&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt"&gt;&lt;FONT SIZE="3"&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN STYLE="mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;上海固定出诊时间：&lt;/SPAN&gt;&lt;SPAN STYLE="CoLor: fuchsia"&gt;周二全天上海民生中医门诊部&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 'Times new roman'; CoLor: fuchsia" LANG="EN-US" XML:LANG="EN-US"&gt;,&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN STYLE="CoLor: fuchsia; mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;预约电话：&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 'Times new roman'; CoLor: fuchsia" LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 'Times new roman'; CoLor: fuchsia" LANG="EN-US" XML:LANG="EN-US"&gt;021-63578888&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN STYLE="CoLor: fuchsia; mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;；周六全天上海源生中医门诊部&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 'Times new roman'; CoLor: fuchsia" LANG="EN-US" XML:LANG="EN-US"&gt;,&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN STYLE="CoLor: fuchsia; mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;预约电话：&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 'Times new roman'; CoLor: fuchsia" LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 'Times new roman'; CoLor: fuchsia" LANG="EN-US" XML:LANG="EN-US"&gt;021-63578888&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN STYLE="CoLor: fuchsia; mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;。&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN STYLE="mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;因为病人较多&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 'Times new roman'" LANG="EN-US" XML:LANG="EN-US"&gt;,&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN STYLE="mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;为保证患者就诊质量，&lt;/SPAN&gt;&lt;SPAN STYLE="CoLor: fuchsia"&gt;请务必提前预约登记！按门诊秩序排号就诊！&lt;/SPAN&gt;&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt"&gt;&lt;FONT SIZE="3"&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN STYLE="mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;不方便来就诊的患者，中医诊病无法保证准确把握病情，故只能给予大概建议，当地治疗，可以和我助手联系咨询病情。敬请广大患者能够谅解，&lt;/SPAN&gt;&lt;SPAN STYLE="CoLor: fuchsia"&gt;联系电话：&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 'Times new roman'; CoLor: fuchsia" LANG="EN-US" XML:LANG="EN-US"&gt;021-63578888&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;B STYLE="mso-bidi-font-weight: normal"&gt;&lt;SPAN STYLE="CoLor: fuchsia; mso-ascii-font-family: 'Times new roman'; mso-hansi-font-family: 'Times new roman'"&gt;，邮箱&lt;/SPAN&gt;&lt;SPAN STYLE="CoLor: fuchsia" LANG="EN-US" XML:LANG="EN-US"&gt;&lt;A&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 'Times new roman'; CoLor: fuchsia"&gt;doctoryt@163.com&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/A&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P STYLE="MArGin: 0cm 0cm 0pt"&gt;&lt;FONT SIZE="3"&gt;&lt;SPAN STYLE="CoLor: fuchsia" LANG="EN-US" XML:LANG="EN-US"&gt;&lt;STRONG&gt;也可以加入患者康复qq群进行患友之间的交流，群号：1群：32181490（务必备注加入理由！）&lt;/STRONG&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_2"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="留言"&gt;留言&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="评论"&gt;评论&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn " id="module_909"&gt;
+&lt;div class="SG_connHead"&gt;
+    &lt;span class="title" comp_title="博主被推荐的博文"&gt;博主被推荐的博文&lt;/span&gt;
+        &lt;span class="edit"&gt;&lt;/span&gt;
+&lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="pic_s1"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/lm/z/tuijian/index.html"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/widget/cmt_banner_s.jpg"  /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;ul class="onlylist" &gt;
+	&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102eh4c.html?tj=1"&gt;坏行为与癌症之间——死要面子…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://blog.sina.com.cn/" target="_blank"&gt;博客首页&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102eb01.html?tj=1"&gt;何裕民：什么是最好的医疗模…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://www.sina.com.cn/" target="_blank"&gt;新浪首页&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102e8u5.html?tj=1"&gt;与健康者为伍，可以促使人长…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://www.sina.com.cn/" target="_blank"&gt;新浪首页&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102e2on.html?tj=1"&gt;从比较动物学研究看人类的适…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://news.sina.com.cn/" target="_blank"&gt;新闻中心&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd801017lxi.html?tj=1"&gt;读汤钊猷教授一文有感…&lt;/a&gt;&lt;/p&gt;&lt;div class="SG_txtc"&gt;&lt;a  suda-uatrack="key=blog_btjblog&amp;value=h_btjblog"  href="http://blog.sina.com.cn/" target="_blank"&gt;博客首页&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;!--&lt;li&gt;&lt;p&gt;&lt;span class="SG_dot"&gt;&lt;/span&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="w_list SG_txtc"&gt;&lt;/div&gt;&lt;/li&gt;--&gt;				
+&lt;/ul&gt;
+&lt;div class="more1"&gt;
+	&lt;span class="SG_more"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/s/article_recommended_1286123480_1.html"&gt;全部推荐博文&lt;/a&gt;&gt;&gt;&lt;/span&gt;&lt;br /&gt;
+	&lt;span class="SG_more"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/lm/z/tuijian/index.html"&gt;如何获得更多推荐?&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+
+&lt;/div&gt;    &lt;/div&gt;
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1009"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="何裕民推荐阅读"&gt;何裕民推荐阅读&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget"&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_9220f02a0100y3cw.html" target="_blank"&gt;活着真好&lt;/a&gt;&lt;p&gt;卵巢癌转肺、骨、肝、淋巴，束手无策后活着真好&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/2153569447" target="_blank"&gt;生命不息的女人&lt;/a&gt;&lt;p&gt;博主为卵巢肿瘤，恢复得不错，现连载其大作《活着，努力地绽放》&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://tieba.baidu.com/f?kz=1141687805" target="_blank"&gt;我与癌症&lt;/a&gt;&lt;p&gt;中粮集团总经济师&nbsp;&lt;wbr&gt;郑弘波自述胰腺癌抗癌经历&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://tansuo.cntv.cn/science/baiketanmi/classpage/video/20100505/100870.shtml" target="_blank"&gt;微雕与癌变&nbsp;&lt;wbr&gt;央视&lt;/a&gt;&lt;p&gt;肠癌患者张翼如何直面死神，坚持10年，何以起死回生？&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1005"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="专题关注"&gt;专题关注&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget"&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd801009gxm.html" target="_blank"&gt;大灾后的沉思：医学为何？&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd8010095mp.html" target="_blank"&gt;肿瘤与饮食，最关注的14大问题&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1003"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="MSN专访"&gt;MSN专访&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget"&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/4ca8afd80100084o" target="_blank"&gt;实录：何裕民教授谈白领亚健康“紧箍咒”(一）&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/4ca8afd8010008ep" target="_blank"&gt;实录：何裕民教授谈白领亚健康“紧箍咒”(二）&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/4ca8afd8010008eq" target="_blank"&gt;实录：何裕民教授谈白领亚健康“紧箍咒”(三）&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_87"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="视频列表"&gt;视频列表&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1001"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="友情链接"&gt;友情链接&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget"&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/heyumin" target="_blank"&gt;何裕民新浪BLOG&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://hymjiaoshou.blog.163.com" target="_blank"&gt;何裕民网易BLOG&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div id="module_3" class="SG_conn"&gt;
+  &lt;div class="SG_connHead"&gt;
+  &lt;span comp_title="分类" class="title"&gt;分类&lt;/span&gt;
+  &lt;span class="edit"&gt;
+	   &lt;/span&gt; 
+  &lt;/div&gt;
+  &lt;div class="SG_connBody"&gt;
+  		&lt;div class="classList"&gt;
+		&lt;ul&gt;
+		&lt;li class="SG_dot"&gt;&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_0_1.html"&gt;全部博文&lt;/a&gt;&lt;em class="count SG_txtb"&gt;(768)&lt;/em&gt;&lt;/li&gt;
+		&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1286123480_1_1.html"  target="_blank"&gt;何裕民文集&lt;/a&gt;&lt;em&gt;(74)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1286123480_2_1.html"  target="_blank"&gt;何裕民演讲&lt;/a&gt;&lt;em&gt;(44)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1286123480_3_1.html"  target="_blank"&gt;何裕民访谈&lt;/a&gt;&lt;em&gt;(68)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1286123480_4_1.html"  target="_blank"&gt;中西医论争&lt;/a&gt;&lt;em&gt;(2)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1286123480_5_1.html"  target="_blank"&gt;何裕民谈肿瘤&lt;/a&gt;&lt;em&gt;(341)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1286123480_6_1.html"  target="_blank"&gt;何裕民论健康&lt;/a&gt;&lt;em&gt;(86)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1286123480_7_1.html"  target="_blank"&gt;医学与人文&lt;/a&gt;&lt;em&gt;(60)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1286123480_8_1.html"  target="_blank"&gt;认识爱上中医&lt;/a&gt;&lt;em&gt;(42)&lt;/em&gt;&lt;/li&gt;&lt;li class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/articlelist_1286123480_9_1.html"  target="_blank"&gt;来信照登&lt;/a&gt;&lt;em&gt;(2)&lt;/em&gt;&lt;/li&gt;		 &lt;/ul&gt;
+		&lt;/div&gt;
+     &lt;/div&gt;
+  &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_conn" id="module_10004"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="图片播放器"&gt;图片播放器&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="cloneWidget"&gt;&lt;div class="diywidget"&gt;&lt;div align=center&gt;&lt;embed FlashVars="delay=-1" type="application/x-shockwave-flash" src="http://sjs.sinajs.cn/blog7swf/loader.swf?p=sina&amp;uid=1286123480&amp;app=slide" allowScriptAccess="always" width="190" height="28" wmode="transparent" /&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class="cloneLink"&gt;&lt;a href="javascript:;" onclick="return false;" class="SG_comClone"&gt;&lt;img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif"  /&gt;添加到我的博客&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_63"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="搜博主文章"&gt;搜博主文章&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="cloneWidget"&gt;&lt;div class="blog_search" style=" white-space:nowrap;"&gt;
+&lt;form id="authorSelfSearch" action="http://blog.sina.com.cn/search/search.php" target="_blank" onsubmit="if(document.getElementById('keyword').value.replace(/(^[\s　]*)|([\s　]*$)/g, '')==''){return false;}" method="get"&gt;
+&lt;input type="hidden" name="uid" value="1286123480" /&gt;
+&lt;input type="hidden" name="page" value="1" /&gt;
+			&lt;div&gt;
+			&lt;input class="miniwidth" type="text" id="keyword" name="keyword" value=""  /&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtnB" onclick="if(document.getElementById('keyword').value.replace(/(^[\s　]*)|([\s　]*$)/g, '')!=''){document.getElementById('authorSelfSearch').submit();return false;}"&gt;&lt;cite&gt;搜索&lt;/cite&gt;&lt;/a&gt;
+			&lt;/div&gt;
+			
+&lt;/form&gt;
+&lt;/div&gt; &lt;div class="cloneLink"&gt;&lt;a href="javascript:;" onclick="return false;" class="SG_comClone"&gt;&lt;img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif"  /&gt;添加到我的博客&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_93"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="新浪微博"&gt;新浪微博&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="cloneWidget"&gt;&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt; &lt;div class="cloneLink"&gt;&lt;a href="javascript:;" onclick="return false;" class="SG_comClone"&gt;&lt;img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif"  /&gt;添加到我的博客&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1002"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="个人公告"&gt;个人公告&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget" style="position:relative"&gt;&lt;P STYLE="TexT-ALiGn: left; MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; mso-pagination: widow-orphan" ALIGN="left"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 宋体; CoLor: blue; FonT-siZe: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"&gt;此博客为个人博客，何裕民享有完全的著作权。发表在博客上的作品仅供新浪博客免费阅读，使用作品需经何裕民同意并注明转载何处。未经同意，任何组织和个人不得以任何形式转载、刊用、出版上述作品。何裕民保留对擅自使用者追究法律责任的权利，并授权吕刚律师对此类非法使用行为随时采取必要的法律手段。&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="TexT-ALiGn: left; MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; mso-pagination: widow-orphan" ALIGN="left"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 宋体; CoLor: blue; FonT-siZe: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"&gt;律师&nbsp;&lt;wbr&gt; 吕刚&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="TexT-ALiGn: left; MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; mso-pagination: widow-orphan" ALIGN="left"&gt;&lt;SPAN STYLE="FonT-FAMiLY: 宋体; CoLor: blue; FonT-siZe: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体" LANG="EN-US" XML:LANG="EN-US"&gt;2008&lt;/SPAN&gt;&lt;SPAN STYLE="FonT-FAMiLY: 宋体; CoLor: blue; FonT-siZe: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"&gt;年&lt;FONT SIZE="3"&gt;&lt;FONT COLOR="#0000FF"&gt;&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;11&lt;/SPAN&gt;月&lt;SPAN LANG="EN-US" XML:LANG="EN-US"&gt;24&lt;/SPAN&gt;日&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="TexT-ALiGn: left; MArGin: 0cm 0cm 0pt; WorD-BreAK: break-all; mso-pagination: widow-orphan" ALIGN="left"&gt;&nbsp;&lt;wbr&gt;&lt;/P&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第一列end--&gt;
+	
+	&lt;!--第二列start--&gt;
+	&lt;div id="column_2" class="SG_colW73"&gt;&lt;div id="module_10001" class="SG_conn"&gt;
+	&lt;div class="SG_connHead"&gt;
+		&lt;span comp_title="博文" class="title"&gt;博文&lt;/span&gt;
+		&lt;span class="edit"&gt;
+        		&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class="SG_connBody"&gt;
+															&lt;div class="bloglist"&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102emj8" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102emj8.html" target="_blank"&gt;中西医对话：中国式抗癌--战略与战术&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-09 13:37)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102emj8'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102emj8');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_2_1.html"&gt;何裕民演讲&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='MArGin-Top: 0pt; TexT-inDenT: 28pt; MArGin-BoTToM: 0pt'
+align='left'&gt;&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=4ca8afd80102emj8&amp;url=http://album.sina.com.cn/pic/001p2rt6gy6IJYYT8CT53'
+target='_blank'&gt;&lt;img name='image_operate_25531399616221593' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s4.sinaimg.cn/mw690/001p2rt6gy6IJYYT8CT53&amp;690" alt=''
+title='' id="image_operate_25531399616221593"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p style='MArGin-Top: 0pt; TexT-inDenT: 28pt; MArGin-BoTToM: 0pt'&gt;
+&lt;span style='FonT-FAMiLY:' font-size:="" mso-spacerun:=
+"yes''"&gt;2014&lt;font face='宋体'&gt;年&lt;/font&gt;&lt;font face=
+'Calibri'&gt;4&lt;/font&gt;&lt;font face='宋体'&gt;月&lt;/font&gt;&lt;font face=
+'Calibri'&gt;27&lt;/font&gt;&lt;font face='宋体'&gt;日&lt;/font&gt;&lt;/span&gt;&lt;span style=
+'FonT-FAMiLY:' font-size:="" mso-spacerun:=
+"yes''"&gt;，抗癌斗士、中国工程院资深院士、原上海医科大学校长、复旦大学附属中山医院肝癌研究所所长汤钊猷院士，将携手中华医学会心身医学分会主任委员、上海中医药大学何裕民教授，&lt;/span&gt;&lt;span style='FonT-FAMiLY:'
+font-size:="" mso-spacerun:="yes''"&gt;在上海&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102emj8" href="http://blog.sina.com.cn/s/blog_4ca8afd80102emj8.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102emj8.html#comment" id="c_10001_4ca8afd80102emj8"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102emj8');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102emj8" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102emj8');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102emj8" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102emj8.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102emj8"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102emi9" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102emi9.html" target="_blank"&gt;广东卫视健康有道--何裕民：雾霾那些事&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+									
+										&lt;img height="15" width="15" align="absmiddle" title="此博文包含视频" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon16" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-08 14:13)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102emi9'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102emi9');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_3_1.html"&gt;何裕民访谈&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style=
+'MArGin-Top: 0pt; TexT-inDenT: 21pt; MArGin-BoTToM: 0pt; BACKGroUnD: rgb(255,255,255); WorD-BreAK: break-all; mso-line-height-alt: 12pt'&gt;
+&lt;span style='FonT-sTYLe: normal; FonT-FAMiLY:' background:=""
+color:="" font-size:="" font-weight:="" mso-spacerun:="yes';"
+mso-shading:=""&gt;广东卫视健康有道&lt;font face=
+'Tahoma'&gt;20140505&lt;/font&gt;&lt;font face=
+'宋体'&gt;期主题：雾霾那些事。嘉宾：何裕民：上海中医药大学教授。主要介绍&lt;/font&gt;&lt;font face=
+'Tahoma'&gt;PM2.5&lt;/font&gt;&lt;font face=
+'宋体'&gt;和天气的关系，肺功能不好的状况，如何预防心脑血管疾病，桑杏汤等相关内容。&lt;/font&gt;&lt;/span&gt;&lt;span style=
+'FonT-sTYLe: normal; FonT-FAMiLY:' background:="" color:=""
+font-size:="" font-weight:="" mso-spacerun:="yes';" mso-shading:=
+""&gt;&lt;br  /&gt;&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102emi9" href="http://blog.sina.com.cn/s/blog_4ca8afd80102emi9.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102emi9.html#comment" id="c_10001_4ca8afd80102emi9"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102emi9');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102emi9" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102emi9');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102emi9" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102emi9.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102emi9"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102emf3" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102emf3.html" target="_blank"&gt;已知的部分癌变规律&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-04 16:23)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102emf3'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102emf3');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B0%A9%B1%E4&amp;by=tag" target="_blank"&gt;癌变&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%E6%C2%C9&amp;by=tag" target="_blank"&gt;规律&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%D8%D0%D4&amp;by=tag" target="_blank"&gt;特性&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B0%A9%CF%B8%B0%FB&amp;by=tag" target="_blank"&gt;癌细胞&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_1_1.html"&gt;何裕民文集&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-inDenT: 2em'&gt;
+笔者不是不可知论的信徒！相反，认定自然界是存在规律的。只不过生命或复杂疾病领域（如癌症）的这种规律不像人们想象得那么单纯、简洁。&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;
+近几十年来巨额的投入，不能说没有收获。相反，癌症研究中科学家得出了一些有意义结论，尽管有些结论表面上是相互抵牾的，有些则扑朔迷离，但并非不存在共性与基本规律。对此，温伯格和哈纳汉2000年发表的题为《癌症的标志》中，总结了其中一些规则。“我们讨论了……控制正常人类细胞转化为恶性肿瘤的规则。我们认为：过去数十年的研究已经揭示了少数分子的、生化的和细胞的特性——后天获得的能力——这些人类癌症中大多数或者可能是所有类型所共有的特性。”“我们认为：癌细胞基因类型的浩瀚目录就是细胞生理功能中六种核心功能的不同组合变换的形式，这六种功能联手催生了恶性细胞的生长。”也就是说，他们提出了涉及基因的几个规则，并认为它们之间组合变换，错综地“联手”，催生了癌细胞的发生、发展及其结局。&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;
+（1）生长信号的自给自足：由于致癌基因的活化，导致癌细胞获得了不断自主增殖（病理性有丝分裂）的能力。&lt;/p&gt;
+&lt;p&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102emf3" href="http://blog.sina.com.cn/s/blog_4ca8afd80102emf3.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102emf3.html#comment" id="c_10001_4ca8afd80102emf3"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102emf3');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102emf3" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102emf3');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102emf3" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102emf3.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102emf3"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102em6u" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102em6u.html" target="_blank"&gt;中国式抗癌——战略与战术&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-27 14:51)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102em6u'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102em6u');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D6%D0%CE%F7%D2%BD&amp;by=tag" target="_blank"&gt;中西医&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BF%B9%B0%A9&amp;by=tag" target="_blank"&gt;抗癌&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D2%FB%CA%B3&amp;by=tag" target="_blank"&gt;饮食&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_2_1.html"&gt;何裕民演讲&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-inDenT: 2em' align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em' align='center'&gt;中西医对话 探讨抗癌新思路&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;
+2014年4月27日（周日）上午10：00，著名抗癌斗士、中国工程院资深院士、原上海医科大学校长、复旦大学附属中山医院肝癌研究所所长汤钊猷院士，携手中华医学会心身医学分会主任委员、上海中医药大学何裕民教授，在上海图书馆4楼多功能厅，针对目前癌症高发态势，借鉴孙子兵法中古老的东方智慧，糅合发挥中西医特长，为广大观众奉献了一场精彩的抗癌科普讲座。&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;
+本次讲座由复旦大学附属中山医院、上海科学技术出版社、国内领先的癌友SNS社交网站青稞网、上海图书馆讲座中心联合主办。上海图书馆原本只能坐满200余人的讲座会场，被慕名前来听讲座的观众挤得水泄不通，应广大观众的要求，不得不特设加座。在会场，记者甚至碰到几位远道而来的观众，因为拜读过何裕民教授的《癌症只是慢性病》深受影响，而从全国各地赶来听讲座，希望能见到教授本人，可以针对自己的病情进行深入咨询。&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;此次讲座也是肿瘤界中、西名医的首次正面交流。主办方特别邀&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102em6u" href="http://blog.sina.com.cn/s/blog_4ca8afd80102em6u.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102em6u.html#comment" id="c_10001_4ca8afd80102em6u"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102em6u');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102em6u" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102em6u');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102em6u" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102em6u.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102em6u"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102em2r" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102em2r.html" target="_blank"&gt;心存企盼，就有希望&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-24 15:42)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102em2r'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102em2r');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D0%C4%B4%E6%C6%DA%C5%CE&amp;by=tag" target="_blank"&gt;心存期盼&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CF%A3%CD%FB&amp;by=tag" target="_blank"&gt;希望&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B0%A9%D6%A2&amp;by=tag" target="_blank"&gt;癌症&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BE%AB%C9%F1%C1%A6%C1%BF&amp;by=tag" target="_blank"&gt;精神力量&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_1_1.html"&gt;何裕民文集&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;许昌的一个老患者让我非常感慨。第一次求诊是她的三四个子女一起“冲”到上海来找我的，告诉我他们的妈妈很麻烦。原来他们母亲是左脚拇趾的恶疮，被确诊为恶性黑色素瘤，有左腹股沟转移，同时伴有左边的乳腺癌，乳腺肿大得很厉害。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;其实，老人病了很久，因不愿意麻烦子女，一直没说。直到最后伤口发炎臭了，疼痛厉害，子女们才知道。这时候，她既不能开刀，也不能做化疗、放疗。这下子女们可急坏了，匆匆赶到上海找我！&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;我记得那是2003年的事，那年的夏天特别热。他们找到我时，七嘴八舌，好几个人都哭了。当时，我只能说试试吧，先把中药用上去，希望对乳腺癌及全身情况有所控制，然后再全身调整。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;这个老太太有个愿望，想在美国念书的孙子能回来看望她一下。我让他们转告她，我们努力，她一定能见孙子一面。当年冬天，我去郑州，他们陪她来看我，当时总体情况明显好转，乳腺的肿块用中药后&lt;/font&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102em2r" href="http://blog.sina.com.cn/s/blog_4ca8afd80102em2r.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102em2r.html#comment" id="c_10001_4ca8afd80102em2r"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102em2r');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102em2r" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102em2r');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102em2r" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102em2r.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102em2r"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102elz1" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102elz1.html" target="_blank"&gt;肿瘤治疗，护胃为要&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-21 15:01)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102elz1'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102elz1');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D6%D7%C1%F6%D6%CE%C1%C6&amp;by=tag" target="_blank"&gt;肿瘤治疗&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BB%A4%CE%B8&amp;by=tag" target="_blank"&gt;护胃&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B8%A8%D6%FA&amp;by=tag" target="_blank"&gt;辅助&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D2%A9%C6%B7&amp;by=tag" target="_blank"&gt;药品&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_1_1.html"&gt;何裕民文集&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;近来，连续几位经济条件较好的家属的态度引起了我的深思。首先，是位湖南籍的女士，她妈妈生的是胰腺癌，并非晚期。门诊结束后，她一次次重新返回，问了许多问题。简单而言，自从她妈妈生病后，她只要听说对妈妈的病有好处的，就想尽办法用。最后，我请她理一张清单，看看她在接受中西医治疗之外，还另外给她妈妈用了多少辅助治疗品。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;一算，口服的十五六种，从番茄红素，到葡萄籽、深海鱼油，到维生素、硒、锗提取物，到西洋参、海参、虫草，以及巴西、澳大利亚的不知名产品；针药同时也十多种，从斑蝥、蟾蜍、天仙子等以毒攻毒的中药制剂，到胸腺五肽、干扰素等生物修饰剂……&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;我看着清单，一脸的不解、无奈和无语。她却一再强调：只要能治好我妈妈的病，再难、再贵也不在乎！我问她，你妈妈能接受吗？她说我天天逼着她吃，几乎每天为此吵架，不开心！我又问她：你妈妈的身体，胃、肝、肾能接受得了吗？她停顿了半天，一脸的不解。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inD'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102elz1" href="http://blog.sina.com.cn/s/blog_4ca8afd80102elz1.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102elz1.html#comment" id="c_10001_4ca8afd80102elz1"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102elz1');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102elz1" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102elz1');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102elz1" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102elz1.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102elz1"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102elwg" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102elwg.html" target="_blank"&gt;如何打消卵巢癌患者的错误认知&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-18 15:45)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102elwg'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102elwg');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C2%D1%B3%B2%B0%A9&amp;by=tag" target="_blank"&gt;卵巢癌&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%CC%D8%B5%E3&amp;by=tag" target="_blank"&gt;特点&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D6%D0%D2%BD%B5%F7%D6%CE&amp;by=tag" target="_blank"&gt;中医调治&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BB%AF%C1%C6&amp;by=tag" target="_blank"&gt;化疗&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_1_1.html"&gt;何裕民文集&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;对于卵巢癌患者的常见心理特点，通常的说服、疏导、支持常无济于事，因为患者陷入了现实的泥潭之中——不挣扎，慢慢陷下去；无益地挣扎，陷得更快。我们总结出的有效对策就是“综合干预，摸着石子过河”。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;首先，告诉她陷入困境的原因：一是分析这种癌组织的本身特点——缠绵、黏腻，生物活性不很活跃，却很顽强；二是指出原先的失误（告之以其败）——原本只依赖于化疗打击一种途径，等于沼泽地里的拼命挣扎，耗尽体力后仍是绝路一条。接着，帮助分析她的出路何在（语之以其善）。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;我们的经验是：换一种应对模式，不一定要死盯着Ca-125指标不放，先以中医药调治为主，改善全身体能，有效减慢癌组织生长速度；必要时补用几次化疗（此时的化疗，类似于高速公路车速太快，踩点儿刹车减慢车速而已，而不是一脚踩到底）。因为卵巢癌组织学有缠绵、顽固的特点，故大中医、小化疗（即对上述治疗思路的概括）是最佳应对模式。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102elwg" href="http://blog.sina.com.cn/s/blog_4ca8afd80102elwg.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102elwg.html#comment" id="c_10001_4ca8afd80102elwg"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102elwg');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102elwg" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102elwg');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102elwg" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102elwg.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102elwg"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102elqp" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102elqp.html" target="_blank"&gt;如何打消宫颈癌患者的错误认知&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-14 16:28)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102elqp'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102elqp');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B9%AC%BE%B1%B0%A9&amp;by=tag" target="_blank"&gt;宫颈癌&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D2%FB%CA%B3&amp;by=tag" target="_blank"&gt;饮食&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B1%A3%BD%A1%CA%B3%C6%B7&amp;by=tag" target="_blank"&gt;保健食品&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%B2%A1%C0%ED%CF%D6%CF%F3&amp;by=tag" target="_blank"&gt;病理现象&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_1_1.html"&gt;何裕民文集&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;首先，需要打消患者对“癌症等于死亡”的错误认识。此外，以下两点也尤为重要：&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;⑴让患者及家属知晓宫颈生了癌并不“丢人”，是很常见的病理现象。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;⑵即使宫颈或子宫全切了，患者仍然可以是“比较健康、很有女人味”的女性。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;对于前者，可主要通过理论说服或知识传授等来完成。一般而言，对本病有些羞耻心理的人，大多是有一定文化层次的人。故可以明确地告诉她，凡器官都会生癌，反复有炎症的器官更容易生癌，婚后几乎所有女性的宫颈都有糜烂、溃疡，这既是正常的，也是必然的；部分人则会癌变。促使这个癌变过程的因素，可能和工作压力、饮食等有关。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;我们就碰到过大量食用哈士蟆油（一种富含雌激素的保健品）而诱使生了本病的年轻女子。因此，不等于说宫颈生了癌，患者就是肮脏的、行为不检点的。通常，&lt;/font&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102elqp" href="http://blog.sina.com.cn/s/blog_4ca8afd80102elqp.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102elqp.html#comment" id="c_10001_4ca8afd80102elqp"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102elqp');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102elqp" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102elqp');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102elqp" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102elqp.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102elqp"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102ellg" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102ellg.html" target="_blank"&gt;如何消除乳腺癌患者好胜心强、常压抑自我的毛病&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-11 16:20)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102ellg'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102ellg');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C8%E9%CF%D9%B0%A9&amp;by=tag" target="_blank"&gt;乳腺癌&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C4%DA%B7%D6%C3%DA%CA%A7%B5%F7&amp;by=tag" target="_blank"&gt;内分泌失调&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D0%C4%C0%ED%D6%CE%C1%C6&amp;by=tag" target="_blank"&gt;心理治疗&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_1_1.html"&gt;何裕民文集&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;因压力、挫折导致的乳腺癌患者，她们的性格与上述常恰恰相反，好胜心强，常压抑自我，轻易不服输；表面看上去冷静、成熟、理性，内心却又为这场大灾难而痛苦万分。这多见于年龄偏轻的乳腺癌患者。对此，应对患者做出有针对性的疏导。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;⑴比较成熟、也较成功的做法是首先“告之以其所败”。这类患者常会十分苦闷：“为什么上帝对我如此不公？”“我既无家属史，又生活习惯良好、为人正派、工作努力，为什么会生乳腺癌？”这时，应明确指出：好强、好压抑自我是你的病根。长期如此，内分泌失调，乳腺生长的微环境失衡，最终就可发展成本病，故必须做出调整。该马虎、糊涂的，应马虎、糊涂些，学会张弛结合。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;⑵这类患者往往已取得一定的社会成就，或事业刚起步。生了乳腺癌，常使她们有坠入万丈深渊之感，落差很大。应明确告诉她：这只是人生旅途上的小曲折而已，切莫因此心灰意冷。我周边有许多生了乳腺癌仍干得很成功的实例，常会介绍给她们。包括美国惠普&lt;/font&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102ellg" href="http://blog.sina.com.cn/s/blog_4ca8afd80102ellg.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102ellg.html#comment" id="c_10001_4ca8afd80102ellg"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102ellg');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102ellg" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102ellg');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102ellg" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102ellg.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102ellg"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_4ca8afd80102elh9" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102elh9.html" target="_blank"&gt;如何消除乳腺癌患者的敏感、抑郁或神经症倾向&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-04-08 16:07)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4ca8afd80102elh9'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102elh9');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																			&lt;span class="SG_txtb"&gt;标签：&lt;/span&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C8%E9%CF%D9%B0%A9&amp;by=tag" target="_blank"&gt;乳腺癌&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BF%D8%D6%C6&amp;by=tag" target="_blank"&gt;控制&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%C7%E9%D0%F7&amp;by=tag" target="_blank"&gt;情绪&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D0%C4%C9%ED%D2%BD%D1%A7&amp;by=tag" target="_blank"&gt;心身医学&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%D6%CE%D3%FA&amp;by=tag" target="_blank"&gt;治愈&lt;/a&gt;&lt;/h3&gt;
+																																&lt;h3&gt;&lt;a href="http://search.sina.com.cn/?c=blog&amp;q=%BD%A1%BF%B5&amp;by=tag" target="_blank"&gt;健康&lt;/a&gt;&lt;/h3&gt;
+																												&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																			&lt;span class="SG_txtb"&gt;分类：&lt;/span&gt;
+										&lt;a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1286123480_5_1.html"&gt;何裕民谈肿瘤&lt;/a&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content"&gt;
+							&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;⑴要明确地让她们知晓抑郁是本病的危险因素，应学会自我愉悦情绪。要让她们了解：当人心情愉悦，如大笑时，心血管系统会加速运行，胸肌伸展，胸廓扩张、肺活量增大，血液中的肾上腺素会明显增加，都有益于乳腺健康。同时，开怀大笑还有利于摆脱糟糕的情绪，这是对乳房最及时的挽救。有心理学家甚至建议：乳腺癌高危妇女或患者应每天对着镜子大笑三次，保乳效果胜过药物。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;⑵可以用不经意的方式反复提及，让患者知晓乳腺癌不难治疗。乳腺癌的治疗中，患者的心态很重要。如果患者整天神经兮兮的，怕这、怕那，一有风吹草动就疑为转移复发，将非常不利于康复。因为患者情绪不稳定，必然导致神经功能与内分泌系统不稳定，免疫功能易受干扰，容易复发转移。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;⑶对语言疏导无法解决的，必要时可短期配合用些抗焦虑、抗抑郁药。&lt;/font&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT: 2em'&gt;&lt;font style=
+'FonT-siZe: 16px'&gt;⑷临床上与有上述倾向的患者沟通，包括问诊时须注&lt;/font&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_4ca8afd80102elh9" href="http://blog.sina.com.cn/s/blog_4ca8afd80102elh9.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_4ca8afd80102elh9.html#comment" id="c_10001_4ca8afd80102elh9"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('4ca8afd80102elh9');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_4ca8afd80102elh9" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('4ca8afd80102elh9');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_4ca8afd80102elh9" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_4ca8afd80102elh9.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_4ca8afd80102elh9"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div favmd5='{"4ca8afd80102emj8":"101f55c3b6812f105c3a015dd90c5d5d","4ca8afd80102emi9":"afd1416ea1802506cb24f41915556cf6","4ca8afd80102emf3":"78ce7e8b5f8eabe516003db802b06018","4ca8afd80102em6u":"03302a9f892b1316c07bd0cbcab160fd","4ca8afd80102em2r":"964063160fc6c5b13e2a8e3db321502f","4ca8afd80102elz1":"156040e65f581c79764a29131284781f","4ca8afd80102elwg":"d2acb85bbdc873d9b1040d69e9f786ab","4ca8afd80102elqp":"64c30bc905915de0fc21d5bcfec0e259","4ca8afd80102ellg":"221348e9630a1acc2c83eeee7359c204","4ca8afd80102elh9":"b3950460e5597d7edeeffe858fdec99b"}' classid="0" pagesize="10" total="768" id="pagination_10001" class="SG_page"&gt;&lt;/div&gt;
+					&lt;/div&gt;
+							  
+				&lt;/div&gt;  
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第二列start--&gt;
+	
+	&lt;!--第三列start--&gt;
+	&lt;div id="column_3" class="SG_colWnone"&gt;&lt;div style="width:0px;height:0.1px;margin:0px;"&gt;&nbsp;&nbsp;&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第三列end--&gt;
+
+	
+    &lt;/div&gt;
+   &lt;!--主题内容结束 --&gt;
+  
+
+	&lt;div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"&gt;&lt;/div&gt;
+    &lt;div class="sinablogfooter" id="sinablogfooter"  style="position:relative;"&gt;
+      
+      &lt;p class="SG_linka"&gt;&lt;a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank"&gt;新浪BLOG意见反馈留言板&lt;/a&gt;　&lt;a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');"&gt;不良信息反馈&lt;/a&gt;　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正&lt;/p&gt;
+   
+      &lt;p class="SG_linka"&gt;&lt;a href="http://corp.sina.com.cn/chn/" target="_blank"&gt;新浪简介&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/eng/" target="_blank"&gt;About Sina&lt;/a&gt; | &lt;a href="http://emarketing.sina.com.cn/" target="_blank"&gt;广告服务&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/contactus.html" target="_blank"&gt;联系我们&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank"&gt;招聘信息&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank"&gt;网站律师&lt;/a&gt; | &lt;a href="http://english.sina.com" target="_blank"&gt;SINA English&lt;/a&gt; | &lt;a href="http://members.sina.com.cn/apply/" target="_blank"&gt;会员注册&lt;/a&gt; | &lt;a href="http://help.sina.com.cn/" target="_blank"&gt;产品答疑&lt;/a&gt; &lt;/p&gt;
+      &lt;p class="copyright SG_linka"&gt; Copyright &copy; 1996 - 2014 SINA Corporation,  All Rights Reserved&lt;/p&gt;
+      &lt;p class="SG_linka"&gt; 新浪公司 &lt;a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank"&gt;版权所有&lt;/a&gt;&lt;/p&gt;
+	  &lt;a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="swfbox"&gt;&lt;/div&gt;
+&lt;script id="PVCOUNTER_FORIE" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;script type="text/javascript"&gt;
+var scope = {
+    $newTray : 1,
+    $setDomain : true,
+    $uid : "1286123480",
+    $PRODUCT_NAME : "blog7",      //blog7photo,blog7icp
+    $pageid : "index",
+    $key :  "904d3a33db3ae6ce10c81fd17621762f",
+    $uhost : "heyumin",
+    $ownerWTtype :"",
+    $private: {"cms":0,"hidecms":1,"blogsize":0,"ad":0,"sms":0,"adver":0,"tj":1,"p4p":0,"spamcms":1,"pageset":0,"invitationset":1,"top":0,"active":"4","quote":0,"foot":0,"isprivate":0,"medal7":6,"t_sina":"1286123480","oauth_token":1,"oauth_token_secret":1,"uname":"","p_push_t":0,"p_get_t":0,"articleclass":"141"},
+    $playids :{"10004":0},
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,    component_lists:{"2":{"size":730,"list":[10001]},"1":{"size":210,"list":[901,1007,1004,2,1,909,1009,1005,1003,87,1001,3,10004,63,93,1002]}},
+    formatInfo:1,
+    UserPic:[{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"}],
+    UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
+    UserColor:1,
+    backgroundcolor:"#ecf0fc",
+    tpl:"3_17",
+    reclist:0    };
+var $encrypt_code = "b56f902e2d41159102ba3f5b0069b438";
+&lt;/script&gt;
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__load_js();&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__render_page();&lt;/script&gt;
+
+
+&lt;!-- ALL CODE START--&gt;&lt;!-- SUDA_CODE_START --&gt; 
+&lt;noScript&gt; 
+&lt;div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'&gt;&lt;img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt=''  /&gt;&lt;/div&gt; 
+
+&lt;/noScript&gt; 
+&lt;!-- SUDA_CODE_END --&gt; 
+
+
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/xblogtheme/js/blog680-min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+        var slotArr = ['atcTitLi_SLOT_41', 'atcTitLi_SLOT_42','loginBarActivity']; //广告位id
+        var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
+        SinaBlog680.staticBox(slotArr, sourceArr);
+&lt;/script&gt;
+&lt;/html&gt;
+</head></html>

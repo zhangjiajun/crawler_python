@@ -1,0 +1,1606 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="58同城交友,同城,同城交友,技能交换,交换技能,技能" />
+<meta name="description" content="58同城交友网，为用户提供最方便的技能交换平台" />
+<title>技能交换-58同城交友</title>
+<link rel="stylesheet" href="http://static.58.com/jiaoyou/css/master_v3_2.css?v=130402" type="text/css" media="all" />
+<link rel="stylesheet" href="http://static.58.com/jiaoyou/css/layout_v3_v1.css?v=121224" type="text/css" media="all" />
+<link rel="shortcut icon" href="http://pic2.58.com/images/favicon.ico" />
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript">
+var _olduser = '';
+_userid = '';
+var islogin = 'false'; 
+
+var mainTop=false;
+
+var _provinceid = '2050';
+var _memberprovinceid = '';
+var _citypinyin = 'hk';
+function tologin2(){
+             window.location.href = "/user/tologin/?path="+window.location.href;
+        return false;
+}
+</script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/common.js?v=120625" charset="UTF-8"></script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/cities.js?v=120625" charset="UTF-8"></script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/cookie.js?v=120625" charset="UTF-8"></script>
+<script type="text/javascript">
+	$(function(){
+				navHead.init();
+		//点击空白处帮帮最小化
+		$(document).click(function(event){
+			if((event.target.id!="bangbangchat")){
+				//im_instance.callIM(CMD_JS_PAGE_CLICK);
+		   	}
+		});	
+	})
+</script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/head_nav.js?v=120809" charset="UTF-8"></script>
+<link rel="stylesheet" href="http://static.58.com/jiaoyou/css/list_v3_1.css?v=121219" type="text/css" media="all" />
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/basedata.js"></script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/skills.js"></script>
+<script type="text/javascript">
+	_olduser = '';
+	_userid = '';
+	var islogin = false ; 
+	var _provinceid = '2050';
+	var _memberprovinceid = '';
+		var _citypinyin = 'hk';
+			function tologin2(){
+	     	        window.location.href = "/user/tologin/?path="+window.location.href;
+	     	   return false;
+	}
+</script>
+<!-- 
+&lt;script type="text/javascript" src="http://static.58.com/jiaoyou/js/common.js?v=20120321"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://pic2.58.com/jiaoyou/js/cities.js?v=20120321"&gt;&lt;/script&gt;
+ -->
+<script type="text/javascript">
+
+	var myid = '';
+		
+	var advance = {
+	   citypingyin : 'bj',
+	   topcitypingyin : 'bj'
+	}
+	var cityrecord = {
+	   topname : '',
+	   seccityname : '',
+	   thirdcityname : '',
+	   seccity : 'bj',
+	   thirdcity : 'bj'
+	}
+	var skillrecord = {
+		type : '-1',
+		class1 : '-1',
+		class2 : '-1'
+	}
+	
+	$(function(){
+		
+	})
+	
+	function exchange(uid,skillid,type){
+		if(bzt_getCookie('www58com')==''){
+  			win_login();
+			return ;
+  		}else{
+  			if(myid == uid){
+  				failuremags("不能和自己技能交换");
+  				return;
+  			}
+  			$.ajax({
+				url:"/user/memberstate",
+				dataType :"json",
+				async :false,
+				success:function (json){
+					if(json.result=='4'){
+						finishprofile3();
+						return ;
+					}else if(json.result=='2' || json.result=='5'){
+						uploadphotonew(7);
+						return ;
+					}else if(json.result=='3'){
+						failuremags("您的头像正在审核中，无法发布技能交换信息！");
+						return ;
+					}else{
+						dialog("lei03","","iframe:/skills/exchange?uid="+uid+"&amp;skillid="+skillid+"&amp;type="+type+"&amp;sex="+2+"&amp;d="+new Date().getTime(),"600px","260px","iframe","");
+					}
+				}
+			});
+  		}
+	}	
+		
+	function firstPage(){
+		window.location.href="/skills/search?type=1&amp;class1=-1&amp;class2=-1&amp;sex=2&amp;city_py="+$("#h_city_py").val();
+	}
+	function prevPage(){
+		window.location.href="/skills/search?down=f&amp;time=1399616843465&amp;type=1&amp;class1=-1&amp;class2=-1&amp;sex=2&amp;city_py="+$("#h_city_py").val();
+	}
+	function nextPage(){
+		window.location.href="/skills/search?down=t&amp;time=1398927781445&amp;type=1&amp;class1=-1&amp;class2=-1&amp;sex=2&amp;city_py="+$("#h_city_py").val();
+	}
+	
+	function sendmsg_im(uid){
+  		if(bzt_getCookie('www58com')==''&amp;&amp;!im_isinstalled){
+  				win_login();
+				return ;
+			}else if(''=='' &amp;&amp; cookieID != ''){
+				finishprofile3();
+				return ;
+			}else if(myid == uid){
+				failuremags("不能跟自己聊天");
+			}else{
+				IM_SendMessage(uid,{id:'',title:'立刻下载58帮帮客户端，实现沟通零距离! ',url:'http://bangbang.58.com',uid:'',pubTime:'',publisher:''})
+		}
+  	}
+</script>
+<!-- 请置于所有广告位代码之前、head标签中添加 -->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+</head>
+<body>
+<link href="http://static.58.com/jiaoyou/css/head_v2.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/win_div.js"></script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+BAIDU_CLB_preloadSlots("859953","850086","849670","892164","895194","901191","901188","901187");
+</script>
+<link rel="shortcut icon" href="http://pic2.58.com/images/favicon.ico" />
+<div class="head">
+<div class="top">
+<a class="logo" href="http://jiaoyou.58.com" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/logo']);"><img src="http://pic2.58.com/jiaoyou/index_img/jy_logo.jpg" /></a><!--logo_end-->
+<div class="nav_all">
+<ul>
+<li id="jyzh"><a href="http://jiaoyou.58.com" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/jyzh']);" class="nav_a" id="top_div">交友征婚</a>
+<div class="y_icon" style="display:none">
+<ol>
+<li><a href="http://jiaoyou.58.com/usercenter" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/jyzh']);"><em class="jiaoyou"></em>我的交友</a></li>
+<li><a href="http://jiaoyou.58.com/sjjy/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/zhenghun']);"><em class="zhenghun"></em>征婚</a></li>
+<li><a href="http://jiaoyou.58.com/encounter/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/encounter']);"><em class="xiehou"></em>邂逅缘分</a></li>
+<li><a href="#" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/nearby']);this.href='/'+_citypinyin + '/';"><em class="fjdr"></em>附近的人</a></li>
+<li><a href="http://jiaoyou.58.com/giftmall" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/gift']);"><em class="lwsc"></em>礼物商场</a></li>
+<li><a href="http://jiaoyou.58.com/skills/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/skills']);"><em class="jnjh"></em>技能交换</a></li>
+<li><a href="http://jiaoyou.58.com/photowall" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/photowall']);"><em class="zpq"></em>照片墙</a></li>
+</ol>
+<p class="d_x"></p>
+</div><!--y_icon_end-->
+</li>
+<li id="spxc"><a href="http://jiaoyou.58.com/6rooms/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/jyzh']);" class="nav_a" id="top_div">美女直播</a>
+<div class="y_icon" style="display:none">
+<ol>
+<li><a href="http://jiaoyou.58.com/6rooms" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/mnzb']);"><em class="mnzb"></em>美女主播</a></li>
+<li><a href="http://jiaoyou.58.com/mmvideo" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/spjy']);"><em class="spjy"></em>视频交友</a></li>
+<li><a href="http://jiaoyou.58.com/6rooms/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/lb']);"><em class="liaoba"></em>聊吧</a></li>
+<li><a href="http://jiaoyou.58.com/6rooms/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/zy']);"><em class="zongyi"></em>K歌</a></li>
+<li><a href="http://jiaoyou.58.com/6rooms/" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/xiuchang', 'top/wq']);"><em class="wuqu"></em>舞区</a></li>
+<!--li&gt;&lt;a href="#" target="_blank" &gt;&lt;em class="gequ"&gt;&lt;/em&gt;歌区&lt;/a&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href="#" target="_blank" &gt;&lt;em class="leba"&gt;&lt;/em&gt;乐吧&lt;/a&gt;&lt;/li-->
+</ol>
+<p class="d_x"></p>
+</div>
+</li>
+<li id="yxdt"><a href="http://wan.58.com/?utm_source=top_jiaoyou_0" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/wan', 'top/wan']);" class="nav_a" id="top_div">游戏中心</a>
+<div class="y_icon" style="display:none">
+<ol>
+<li><a href="http://bbs.wan.58.com/ad/wan/jjsg/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top_jiaoyou', 'top/jjsg']);" target="_blank"><em class="n_jjsg"></em>街机三国</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/dxz/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/dxz']);" target="_blank"><em class="n_dxz"></em>大侠传</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/9lc/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/9lc']);" target="_blank"><em class="n_jlc"></em>九龙朝</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/rxhzw/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/rxhzw']);" target="_blank"><em class="n_rxhzw"></em>热血海贼王</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/mm/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/mm']);" target="_blank"><em class="n_nslm"></em>女神联盟</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/wz/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/wz']);" target="_blank"><em class="n_wz"></em>武尊</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/qszg/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/qszg']);" target="_blank"><em class="n_qszg"></em>骑士战歌</a></li>
+<li><a href="http://bbs.wan.58.com/ad/wan/qh/" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'top/jiaoyou', 'top/qh']);" target="_blank"><em class="n_qh"></em>枪魂</a></li>
+</ol>
+<p class="d_x"></p>
+</div>
+</li>
+</ul>
+</div><!--nav_end-->
+<ul class="user_top">
+<li><a href="#" onclick="headlogin()">登录</a><i>|</i></li>
+<li><a href="/user/reg" onclick="_gaq.push(['pageTracker._trackEvent', 'topbar', 'click', 'top/reg']);">注册</a></li>
+<script language="javascript">
+                $("#head_nav_login").click(function(){
+                    var currLocation = window.location.href;
+                    var reg=new RegExp("^.*jiaoyou\.58\.com","gmi");
+                    var redirectLocation = currLocation.replace(reg,"");
+                    window.location.href = "/user/tologin?path=" + redirectLocation;
+                    return false;
+                });
+                		
+                function checkold(){
+                    if(_olduser=="true"){
+                        finishprofile();
+                        return false;
+                    }
+                	return true;
+                }
+            </script>
+<input type="hidden" value="f" id="autologining" name="autologining" />
+</ul><!--user_top_end-->
+</div>
+</div><!--head_end-->
+<div class="jy_head_07">
+<a href="http://bbs.wan.58.com/ad/wan/jjsg/" class="jy_logo" target="_blank"></a>
+<span class="city_07" id="iconcity"><i>香港</i></span>
+<div class="city_box win300 top_thirdcitydiv" style="display:none;">
+<div class="city_box_top">
+<div class="left">
+<p><b class="c_000"></b><a href="javascript:void(0)" class="ml15">返回上级</a></p>
+</div>
+<a class="close_ct" href="javascript:void(0)"></a>
+<i class="fix"></i>
+</div>
+<dl class="dl_city_box">
+<dt>
+<p><a class="c_000" href="javascript:void(0)"></a></p>
+</dt>
+<dd>
+<p class="citywh"><!-- 城市 --></p>
+</dd>
+</dl>
+</div>
+<div class="city_box win300 top_seccitydiv" style="display:none;">
+<div class="city_box_top">
+<div class="left">
+<p><b class="c_000">北京</b><a href="javascript:void(0)" class="ml15">返回其他省市</a></p>
+</div>
+<i class="fix"></i>
+</div>
+<dl class="dl_city_box">
+<dd>
+<p class="citywh"><!-- 二级城市  --></p>
+</dd>
+</dl>
+</div>
+<!--所在城市开始-->
+<div style="display:none;" class="city_box win300 top_citydiv">
+<div class="city_box_top">
+<div class="left">
+<p class="c_aaa">热门</p>
+<p class="hot_citya">
+<a href="javascript:void(0)">北京</a>
+<a href="javascript:void(0)">上海</a>
+<a href="javascript:void(0)">广东</a>
+<a href="javascript:void(0)">四川</a>
+<a href="javascript:void(0)">重庆</a>
+</p>
+</div>
+<a href="javascript:void(0)" class="close_ct"></a> <i class="fix"></i>
+</div>
+<dl class="dl_city_box">
+<dd>
+<p class="zimu">A-G</p>
+<p>
+<a href="javascript:void(0)">安徽</a>
+<a href="javascript:void(0)">北京</a>
+<a href="javascript:void(0)">重庆</a>
+<a href="javascript:void(0)">福建</a>
+<a href="javascript:void(0)">甘肃</a>
+<a href="javascript:void(0)">广东</a>
+<a href="javascript:void(0)">广西</a>
+<a href="javascript:void(0)">贵州</a>
+<a href="javascript:void(0)">澳门</a>
+</p>
+</dd>
+<dd>
+<p class="zimu">H-J</p>
+<p>
+<a href="javascript:void(0)">海南</a>
+<a href="javascript:void(0)">河南</a>
+<a href="javascript:void(0)">河北</a>
+<a href="javascript:void(0)">黑龙江</a>
+<a href="javascript:void(0)">湖北</a>
+<a href="javascript:void(0)">湖南</a>
+<a href="javascript:void(0)">吉林</a>
+<a href="javascript:void(0)">江苏</a>
+<a href="javascript:void(0)">江西</a>
+</p>
+</dd>
+<dd>
+<p class="zimu">L-S</p>
+<p>
+<a href="javascript:void(0)">辽宁</a>
+<a href="javascript:void(0)">内蒙古</a>
+<a href="javascript:void(0)">宁夏</a>
+<a href="javascript:void(0)">青海</a>
+<a href="javascript:void(0)">山东</a>
+<a href="javascript:void(0)">山西</a>
+<a href="javascript:void(0)">陕西</a>
+<a href="javascript:void(0)">上海</a>
+<a href="javascript:void(0)">四川</a>
+</p>
+</dd>
+<dd>
+<p class="zimu">T-Z</p>
+<p>
+<a href="javascript:void(0)">台湾</a>
+<a href="javascript:void(0)">天津</a>
+<a href="javascript:void(0)">西藏</a>
+<a href="javascript:void(0)">香港</a>
+<a href="javascript:void(0)">新疆</a>
+<a href="javascript:void(0)">云南</a>
+<a href="javascript:void(0)">浙江</a>
+</p>
+</dd>
+</dl>
+</div>
+<!--所在城市结束-->
+</div><!--jy_head_07_end-->
+<div class="jy_top">
+<div class="jy_nav_07">
+<ul id="ul_new_nav">
+<li><a href="http://jiaoyou.58.com" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/daohang/plaza']);"><span>交友首页</span></a></li>
+<li><a href="http://jiaoyou.58.com/user/tologin" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/daohang/usercenter']);"><span>我的交友</span></a></li>
+<li><a href="#" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/daohang/nearby']);return check('/nearby/')"><span>附近的人</span></a></li>
+<li><a href="http://jiaoyou.58.com/encounter" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/daohang/encounter']);"><span>邂逅缘分</span></a></li>
+<li><a href="http://jiaoyou.58.com/photowall" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/daohang/photowall']);"><span>照片墙</span></a></li>
+<li><a href="http://jiaoyou.58.com/skills" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/daohang/skills']);"><span>技能交换</span></a></li>
+<li class="spjy-m" onmouseover="$('#spjy-sub').show();$(this).children('a:first').addClass('nav_hover')" onmouseout="$('#spjy-sub').hide();$(this).children('a:first').removeClass('nav_hover')"><a href="http://jiaoyou.58.com/6rooms/?utm_source=jiaoyou_spxc_mnzb0" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/daohang/mmvideo']);"><span>视频交友<i class="icon-arr1"></i></span></a><div class="spjy-sub" id="spjy-sub" style="display:none">
+<a href="http://jiaoyou.58.com/6rooms/?utm_source=jiaoyou_spxc_mnzb" target="_blank"><span class="mvzbico">美女主播</span></a>
+<a href="http://jiaoyou.58.com/mmvideo/?utm_source=jiaoyou_spxc_splt" target="_blank"><span class="spltico">视频聊天</span></a>
+</div></li>
+<!--li&gt;&lt;a href="#"&gt;&lt;span&gt;同城聊吧&lt;/span&gt;&lt;/a&gt;&lt;/li-->
+<li><a href="http://jiaoyou.58.com/sjjy" target="_blank" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/daohang/zhenghun']);"><span>征婚</span></a></li>
+</ul>
+</div><!--jy_nav_07_end-->
+</div><!--jy_top_end-->
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/cities.js?v=120625" charset="UTF-8"></script>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/headjs.js?v=130815" charset="UTF-8"></script>
+<script>
+function headlogin() {
+	var path = window.location.href;
+	window.location.href = "https://passport.58.com/login/?path="+path;
+}
+</script><!--header-->
+<div id="container">
+<div class="skills_top"> <a onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/home']);" href="/skills"><span class="left">技能交换</span></a> <span class="right" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/publish']);publish()">免费发布技能交换信息&gt;&gt;</span> </div>
+<div class="content clearfix">
+<div class="box724 left">
+<div class="srbox clearfix skills">
+<div class="srbox_top"> </div>
+<div class="srbox_mid newtp">
+<div class="srbox_mid_fd"><span class="mudi">我要找</span>
+<form id="searchform" action="/skills/search" method="get">
+<ul class="sr_bar">
+<input type="hidden" name="type" id="h_type" value="1" />
+<input type="hidden" name="class1" id="h_class1" value="-1" />
+<input type="hidden" name="class2" id="h_class2" value="-1" />
+<input type="hidden" name="h_sex" id="h_sex" value="2" />
+<input type="hidden" name="city_py" id="h_city_py" value="bj" />
+<input type="hidden" name="uptime" id="h_uptime" value="1399616843465" />
+<input type="hidden" name="dwtime" id="h_dwtime" value="1398927781445" />
+<input type="hidden" name="down" id="h_down" value="t" />
+<li><span id="age-start-p" class="soption win54">能教我<em class="arrow"></em></span>
+<ul id="type-start" class="hc hxcs win54">
+<li fid="1" class="selLi">能教我</li>
+<li fid="2" class="selLi">TA想学</li>
+</ul>
+</li>
+<li class="ml8"><span id="class-start-p" class="soption win54">全部<em class="arrow"></em></span>
+<ul id="class-start" class="hc hxcs win54">
+<li fid="1" class="selLi">实用</li>
+<li fid="2" class="selLi">语言</li>
+<li fid="3" class="selLi">信息</li>
+<li fid="4" class="selLi">体育</li>
+<li fid="5" class="selLi">才艺</li>
+<li fid="6" class="selLi">专业</li>
+<li fid="7" class="selLi">个性</li>
+</ul>
+</li>
+<li class="ml8"> <span id="class-end-p" class="soption win84">请选择子类<em class="arrow"></em></span>
+<ul id="class-end" class="hc hxcs win84">
+</ul>
+</li>
+<li class="sextext">
+<input type="radio" name="sex" value="1" />
+<i>男</i></li>
+<li class="sextext">
+<input type="radio" name="sex" value="2" checked="checked" />
+<i>女</i></li>
+<li class="ml8"><span id="preProvince" class="win184">北京<em class="arrow"></em></span>
+<div class="city_box win300 thirdcitydiv" style="display:none;">
+<div class="city_box_top">
+<div class="left">
+<p><b class="c_000"></b><a href="javascript:void(0)" class="ml15">返回上级</a></p>
+</div><a class="close" href="javascript:void(0)"></a>
+<i class="fix"></i>
+</div>
+<dl class="dl_city_box">
+<dt>
+<p><a class="c_000" href="javascript:void(0)"></a></p>
+</dt>
+<dd>
+<p class="citywh"><!-- 城市 --></p>
+</dd>
+</dl>
+</div>
+<div class="city_box win300 seccitydiv" style="display:none;">
+<div class="city_box_top">
+<div class="left">
+<p><b class="c_000">北京</b><a href="javascript:void(0)" class="ml15">返回上级</a></p>
+</div>
+<i class="fix"></i>
+</div>
+<dl class="dl_city_box">
+<dd>
+<p class="citywh"><!-- 城市 --></p>
+</dd>
+</dl>
+</div>
+<div class="city_box win300 citydiv" style="display:none">
+<div class="city_box_top">
+<div class="left">
+<p class="c_aaa">热门城市</p>
+<p class="hot_citya"><a href="javascript:void(0)">北京</a><a href="javascript:void(0)">上海</a><a href="javascript:void(0)">广东</a><a href="javascript:void(0)">四川</a><a href="javascript:void(0)">重庆</a></p>
+</div>
+<a class="close" href="#"></a> <i class="fix"></i> </div>
+<dl class="dl_city_box">
+<dt>
+<p class="c_aaa">选择省份</p>
+</dt>
+<dd>
+<p class="zimu">A-G</p>
+<p><a href="javascript:void(0)">安徽</a><a href="javascript:void(0)">北京</a><a href="javascript:void(0)">重庆</a><a href="javascript:void(0)">福建</a><a href="javascript:void(0)">甘肃</a><a href="javascript:void(0)">广东</a><a href="javascript:void(0)">广西</a><a href="javascript:void(0)">贵州</a><a href="javascript:void(0)">澳门</a></p>
+</dd>
+<dd>
+<p class="zimu">H-J</p>
+<p><a href="javascript:void(0)">海南</a><a href="javascript:void(0)">河南</a><a href="javascript:void(0)">河北</a><a href="javascript:void(0)">黑龙江</a><a href="javascript:void(0)">湖北</a><a href="javascript:void(0)">湖南</a><a href="javascript:void(0)">吉林</a><a href="javascript:void(0)">江苏</a><a href="javascript:void(0)">江西</a></p>
+</dd>
+<dd>
+<p class="zimu">L-S</p>
+<p><a href="javascript:void(0)">辽宁</a><a href="javascript:void(0)">内蒙古</a><a href="javascript:void(0)">宁夏</a><a href="javascript:void(0)">青海</a><a href="javascript:void(0)">山东</a><a href="javascript:void(0)">山西</a><a href="javascript:void(0)">陕西</a><a href="javascript:void(0)">上海</a><a href="javascript:void(0)">四川</a></p>
+</dd>
+<dd>
+<p class="zimu">T-Z</p>
+<p><a href="javascript:void(0)">台湾</a><a href="javascript:void(0)">天津</a><a href="javascript:void(0)">西藏</a><a href="javascript:void(0)">香港</a><a href="javascript:void(0)">新疆</a><a href="javascript:void(0)">云南</a><a href="javascript:void(0)">浙江</a></p>
+</dd>
+</dl>
+</div>
+</li>
+</ul>
+<span class="paste gjsearch1">
+<label class="lab_but">
+<input type="button" value="搜 索" onclick="search()" class="inp_but" />
+</label>
+</span>
+</form>
+</div>
+<i class="fix"></i></div>
+<div class="srbox_bot"> </div>
+</div>
+<div class="img-mid">
+<div class="img-list-box skills clearfix">
+<div class="search-boxadsts">      
+	         	         	^__^技能交换升级改版啦~赶快<a href="javascript:publish()">发布技能交换信息</a>吧~发布之后您的技能信息将会置顶显示哦~	
+	                  </div>
+<dl class="img-list fl">
+<dt>
+<a href="/user/6604287648775" target="_blank">
+<img title="苏氏小狐狸,27岁,北京朝阳" src="http://pic.58.com/jiaoyou/s/small/6604287648775/n_s11873423080458009.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/6604287648775" target="_blank">苏氏小狐狸</a>
+<span class="skillsbut" onclick="exchange(6604287648775,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:24">
+<a onclick="exchange(6604287648775,101,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">开车</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(6604287648775,101,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		保证不撞树 不撞人<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(6604287648775,101,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:23">
+<a onclick="exchange(6604287648775,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">做饭</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(6604287648775,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		无敌小厨娘<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(6604287648775,102,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:22">
+<a onclick="exchange(6604287648775,108,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">减肥</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(6604287648775,108,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		这辈子必须完成的事业<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(6604287648775,108,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:21">
+<a onclick="exchange(6604287648775,109,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">旅游</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(6604287648775,109,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		下一站 去南极看企鹅<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(6604287648775,109,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<span style="z-index:19">
+<a onclick="exchange(6604287648775,206,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">各种外语</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(6604287648775,206,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				为了出去玩不至于回不了家<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(6604287648775,206,3)"  /&gt;&lt;/label&gt;为了出去玩不至于回不了家 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:18">
+<a onclick="exchange(6604287648775,409,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">野外生存</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(6604287648775,409,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				为了能和斑马相处做准备<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(6604287648775,409,3)"  /&gt;&lt;/label&gt;为了能和斑马相处做准备 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:17">
+<a onclick="exchange(6604287648775,406,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">台球</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(6604287648775,406,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				一个要求球能进洞就好<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(6604287648775,406,3)"  /&gt;&lt;/label&gt;一个要求球能进洞就好 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fr">
+<dt>
+<a href="/user/26779505" target="_blank">
+<img title="丑女,28岁,北京朝阳" src="http://pic.58.com/jiaoyou/s/small/26779505/n_s12225826284192268005.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/26779505" target="_blank">丑女</a>
+<span class="skillsbut" onclick="exchange(26779505,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:14">
+<a onclick="exchange(26779505,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">做饭</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(26779505,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		家常饭<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(26779505,102,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<span style="z-index:9">
+<a onclick="exchange(26779505,701,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">打发时间</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(26779505,701,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				调酒<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(26779505,701,3)"  /&gt;&lt;/label&gt;调酒 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fl">
+<dt>
+<a href="/user/38705420" target="_blank">
+<img title="小天,25岁,北京朝阳" src="http://pic.58.com/jiaoyou/s/small/38705420/n_21673528524545.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/38705420" target="_blank">小天</a>
+<span class="skillsbut" onclick="exchange(38705420,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:24">
+<a onclick="exchange(38705420,201,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">普通话</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(38705420,201,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		一级乙等<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(38705420,201,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:23">
+<a onclick="exchange(38705420,301,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">PS照片</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(38705420,301,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		强<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(38705420,301,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:22">
+<a onclick="exchange(38705420,510,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">绘画</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(38705420,510,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		还可以<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(38705420,510,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<span style="z-index:19">
+<a onclick="exchange(38705420,401,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">游泳</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(38705420,401,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				入门<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(38705420,401,3)"  /&gt;&lt;/label&gt;入门 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:18">
+<a onclick="exchange(38705420,418,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">乒乓球</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(38705420,418,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				专业<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(38705420,418,3)"  /&gt;&lt;/label&gt;专业 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:17">
+<a onclick="exchange(38705420,101,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">开车</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(38705420,101,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				上路<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(38705420,101,3)"  /&gt;&lt;/label&gt;上路 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:16">
+<a onclick="exchange(38705420,108,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">减肥</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(38705420,108,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				减10斤<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(38705420,108,3)"  /&gt;&lt;/label&gt;减10斤 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fr">
+<dt>
+<a href="/user/2143876580614" target="_blank">
+<img title="璇璇,22岁," src="http://pic.58.com/jiaoyou/s/small/2143876580614/n_s12225221570415390114.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/2143876580614" target="_blank">璇璇</a>
+<span class="skillsbut" onclick="exchange(2143876580614,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:14">
+<a onclick="exchange(2143876580614,109,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">旅游</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(2143876580614,109,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		一般般<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(2143876580614,109,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:13">
+<a onclick="exchange(2143876580614,410,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">跑步</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(2143876580614,410,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		一般般<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(2143876580614,410,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:12">
+<a onclick="exchange(2143876580614,707,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">聊天</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(2143876580614,707,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		略腐<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(2143876580614,707,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<span style="z-index:9">
+<a onclick="exchange(2143876580614,209,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">韩语</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(2143876580614,209,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				够日常交流，因为我要出国留学<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(2143876580614,209,3)"  /&gt;&lt;/label&gt;够日常交流，因为我要出国留学 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fl">
+<dt>
+<a href="/user/22576934434055" target="_blank">
+<img title="安阳向暖,27岁,北京东城" src="http://pic.58.com/jiaoyou/s/small/22576934434055/n_s12236159380637643053.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/22576934434055" target="_blank">安阳向暖</a>
+<span id="bangbangchat" class="onlinebut" onclick="sendmsg_im(22576934434055);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/profile/Imbutton ']);">在线联系</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:24">
+<a onclick="exchange(22576934434055,114,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">投资理财</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22576934434055,114,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		一般般，愿意交流学习<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(22576934434055,114,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:23">
+<a onclick="exchange(22576934434055,107,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">炒股</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22576934434055,107,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		一般一般，世界第三<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(22576934434055,107,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<span style="z-index:19">
+<a onclick="exchange(22576934434055,305,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">网页制作</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22576934434055,305,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				入门<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(22576934434055,305,3)"  /&gt;&lt;/label&gt;入门 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:18">
+<a onclick="exchange(22576934434055,306,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">装电脑系统</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22576934434055,306,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				入门<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(22576934434055,306,3)"  /&gt;&lt;/label&gt;入门 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:17">
+<a onclick="exchange(22576934434055,603,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">企业管理</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22576934434055,603,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				入门<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(22576934434055,603,3)"  /&gt;&lt;/label&gt;入门 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:16">
+<a onclick="exchange(22576934434055,608,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">设计学</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22576934434055,608,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				入门<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(22576934434055,608,3)"  /&gt;&lt;/label&gt;入门 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fr">
+<dt>
+<a href="/user/14164552" target="_blank">
+<img title="bj0101jin,43岁,北京石景山" src="http://pic.58.com/jiaoyou/s/small/14164552/n_s02228930511310115124.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/14164552" target="_blank">bj0101jin</a>
+<span class="skillsbut" onclick="exchange(14164552,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:14">
+<a onclick="exchange(14164552,606,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">中医</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(14164552,606,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		中医养生<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(14164552,606,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:13">
+<a onclick="exchange(14164552,114,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">投资理财</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(14164552,114,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		finnciti 理财高手<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(14164552,114,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<a href="javascript:invite(14164552)" class="u">邀请她添加技能</a>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fl">
+<dt>
+<a href="/user/57512983" target="_blank">
+<img title="新理依生,27岁,北京朝阳" src="http://pic.58.com/jiaoyou/s/small/57512983/n_1750408637154839.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/57512983" target="_blank">新理依生</a>
+<span class="skillsbut" onclick="exchange(57512983,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:24">
+<a onclick="exchange(57512983,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">做饭</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(57512983,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		做饭  销售   生意<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(57512983,102,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:23">
+<a onclick="exchange(57512983,202,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">粤语</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(57512983,202,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		粤语<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(57512983,202,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:22">
+<a onclick="exchange(57512983,105,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">开网店</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(57512983,105,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		这个一般<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(57512983,105,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<span style="z-index:19">
+<a onclick="exchange(57512983,301,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">PS照片</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(57512983,301,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				PS  <br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(57512983,301,3)"  /&gt;&lt;/label&gt;PS   -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:18">
+<a onclick="exchange(57512983,104,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">按摩</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(57512983,104,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				保健<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(57512983,104,3)"  /&gt;&lt;/label&gt;保健 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:17">
+<a onclick="exchange(57512983,601,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">心理学</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(57512983,601,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				好<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(57512983,601,3)"  /&gt;&lt;/label&gt;好 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fr">
+<dt>
+<a href="/user/20275360676615" target="_blank">
+<img title="天恩,46岁,北京通州" src="http://pic.58.com/jiaoyou/s/small/20275360676615/n_s12236131258535635126.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/20275360676615" target="_blank">天恩</a>
+<span class="skillsbut" onclick="exchange(20275360676615,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:14">
+<a onclick="exchange(20275360676615,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">做饭</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(20275360676615,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		略懂<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(20275360676615,102,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:13">
+<a onclick="exchange(20275360676615,601,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">心理学</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(20275360676615,601,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		略懂<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(20275360676615,601,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<span style="z-index:9">
+<a onclick="exchange(20275360676615,101,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">开车</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(20275360676615,101,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				快速熟练<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(20275360676615,101,3)"  /&gt;&lt;/label&gt;快速熟练 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:8">
+<a onclick="exchange(20275360676615,401,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">游泳</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(20275360676615,401,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				不再喝水就行 <br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(20275360676615,401,3)"  /&gt;&lt;/label&gt;不再喝水就行  -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:7">
+<a onclick="exchange(20275360676615,504,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">书法</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(20275360676615,504,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				入门阶段就好<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(20275360676615,504,3)"  /&gt;&lt;/label&gt;入门阶段就好 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fl">
+<dt>
+<a href="/user/22246298826503" target="_blank">
+<img title="琴儿逎知,22岁,北京朝阳" src="http://pic.58.com/jiaoyou/s/small/22246298826503/n_s12237985225033907085.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/22246298826503" target="_blank">琴儿逎知</a>
+<span class="skillsbut" onclick="exchange(22246298826503,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<a href="javascript:invite(22246298826503)" class="u">邀请她添加技能</a>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<span style="z-index:19">
+<a onclick="exchange(22246298826503,509,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">爵士舞</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22246298826503,509,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				我好想学舞蹈啊<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(22246298826503,509,3)"  /&gt;&lt;/label&gt;我好想学舞蹈啊 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:18">
+<a onclick="exchange(22246298826503,508,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);" href="javascript:void(0)">街舞</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22246298826503,508,3);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);">
+			                				喜欢但是不会<br />(点击去教她)
+			                				<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="想教她" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/teach']);exchange(22246298826503,508,3)"  /&gt;&lt;/label&gt;喜欢但是不会 -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fr">
+<dt>
+<a href="/user/22614207" target="_blank">
+<img title="果果,26岁,北京朝阳" src="http://pic.58.com/jiaoyou/s/small/22614207/n_20321105358082.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/22614207" target="_blank">果果</a>
+<span class="skillsbut" onclick="exchange(22614207,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:14">
+<a onclick="exchange(22614207,201,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">普通话</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22614207,201,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		熟练<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(22614207,201,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<a href="javascript:invite(22614207)" class="u">邀请她添加技能</a>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fl">
+<dt>
+<a href="/user/22669481282054" target="_blank">
+<img title="只为等你,28岁,北京怀柔" src="http://pic.58.com/jiaoyou/s/small/22669481282054/n_s02237884889943180095.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/22669481282054" target="_blank">只为等你</a>
+<span class="skillsbut" onclick="exchange(22669481282054,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:24">
+<a onclick="exchange(22669481282054,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">做饭</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22669481282054,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		基本炒菜，主食都会<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(22669481282054,102,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:23">
+<a onclick="exchange(22669481282054,201,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">普通话</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22669481282054,201,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		还听的懂一些方言<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(22669481282054,201,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:22">
+<a onclick="exchange(22669481282054,416,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">爬山</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22669481282054,416,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		想和喜欢的人一起爬山<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(22669481282054,416,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+<span style="z-index:21">
+<a onclick="exchange(22669481282054,709,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">斗地主</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(22669481282054,709,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		打发时间<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(22669481282054,709,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<a href="javascript:invite(22669481282054)" class="u">邀请她添加技能</a>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<dl class="img-list fr">
+<dt>
+<a href="/user/18167926894087" target="_blank">
+<img title="阳光 ,40岁,北京宣武" src="http://pic2.58.com/jiaoyou/images/200200.jpg" width="140" height="140" /><span>查看详细信息</span>
+</a>
+</dt>
+<dd class="title">
+<a href="/user/18167926894087" target="_blank">阳光 </a>
+<span class="skillsbut" onclick="exchange(18167926894087,0,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/allchange']);">技能交换</span>
+</dd>
+<dd class="hui">
+<div class="tcbox"><strong>她&nbsp;&nbsp;&nbsp;&nbsp;会：</strong>
+<div class="tcbox_l">
+<span style="z-index:14">
+<a onclick="exchange(18167926894087,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);" href="javascript:void(0)">做饭</a>
+<div class="skills_winbox skills_winbox2" style="display:none">
+<div class="skills_winbox_top"></div>
+<div class="skills_winbox_mid" onclick="exchange(18167926894087,102,1);_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);">
+					                		还行<br />(点击跟她学)
+					                		<!-- &lt;label class="mw_lab_but right"&gt;&lt;input class="mw_inp_but" type="button" value="跟她学" onclick="_gaq.push(['pageTracker._trackEvent', 'jiaoyou', 'click', '/skills/learn']);exchange(18167926894087,102,1)" /&gt;&lt;/label&gt; -->
+</div>
+<div class="skills_winbox_bot"></div>
+</div>
+</span>
+</div>
+</div>
+</dd>
+<dd class="xue">
+<div class="tcbox"><strong>她想学：</strong>
+<div class="tcbox_l">
+<a href="javascript:invite(18167926894087)" class="u">邀请她添加技能</a>
+</div>
+<i class="fix"></i>
+</div>
+</dd>
+</dl>
+<p class="p_line"></p>
+<div class="page clear">
+<a id="firstPage">首页</a>
+<a id="firstPage">&lt;&lt;上一页 </a>
+<a class="cur" class="next" href="javascript:nextPage()">下一页  &gt;&gt;</a>
+</div>
+</div>
+</div>
+<div class="box_con_top mt5"></div>
+<div class="ad_cont">
+<!-- 广告位：JN - 底部广告位、该div中添加 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("863510");</script>
+</div>
+<div class="box_con_bot"></div>
+</div>
+<!--box724-->
+<div class="box226 right">
+<!--right-ads-->
+<div class="skills_right_ads">
+<!-- 广告位：JN - 右侧广告、该div中添加 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("863508");</script>
+</div>
+<!--photo show-->
+<div class="right_con">
+<div class="right_con_top"></div>
+<div id="showHomeTown" class="fellow-show right_con_mid">
+<div class="fellow-title"><span class="left"><strong>最新技能交换信息</strong></span></div>
+<ul class="skills_news">
+<li>
+<a href="/user/2541646779910" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/2541646779910/n_s02229119585488701143.jpg" title="黑夜,33岁,成都青羊" />
+</a>
+<div><span class="fl mb6"><a href="/user/2541646779910" target="_blank">黑夜</a></span><span class="fr mb6 c_999">2分钟前</span><span class="fc">想和 <a href="/user/16493008079111" target="_blank">唯美青春</a> 交换</span><span class="fl c_f00">肚皮舞</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<li>
+<a href="/user/2541646779910" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/2541646779910/n_s02229119585488701143.jpg" title="黑夜,33岁,成都青羊" />
+</a>
+<div><span class="fl mb6"><a href="/user/2541646779910" target="_blank">黑夜</a></span><span class="fr mb6 c_999">4分钟前</span><span class="fc">想跟 <a href="/user/13285468026374" target="_blank">唐亦歌</a> 学</span><span class="fl c_f00">做饭</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<li>
+<a href="/user/52562271" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/52562271/n_20031497466884.jpg" title="北京小聪,33岁,北京西城" />
+</a>
+<div><span class="fl mb6"><a href="/user/52562271" target="_blank">北京小聪</a></span><span class="fr mb6 c_999">6分钟前</span><span class="fc">想去教  <a href="/user/26779505" target="_blank">丑女</a> </span><span class="fl c_f00">打发时间</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<li>
+<a href="/user/3195030398214" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/3195030398214/n_1653338874544151.jpg" title="yifeng,28岁,西安雁塔" />
+</a>
+<div><span class="fl mb6"><a href="/user/3195030398214" target="_blank">yifeng</a></span><span class="fr mb6 c_999">6分钟前</span><span class="fc">想和 <a href="/user/16091589998855" target="_blank">命里缺木</a> 交换</span><span class="fl c_f00">聊天</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<li>
+<a href="/user/3195030398214" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/3195030398214/n_1653338874544151.jpg" title="yifeng,28岁,西安雁塔" />
+</a>
+<div><span class="fl mb6"><a href="/user/3195030398214" target="_blank">yifeng</a></span><span class="fr mb6 c_999">12分钟前</span><span class="fc">想跟 <a href="/user/15715352070406" target="_blank">JANE</a> 学</span><span class="fl c_f00">摄影</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<li>
+<a href="/user/6385949739526" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/6385949739526/n_19830805035268.jpg" title="良辰美景,37岁,长春朝阳" />
+</a>
+<div><span class="fl mb6"><a href="/user/6385949739526" target="_blank">良辰美景</a></span><span class="fr mb6 c_999">28分钟前</span><span class="fc">想跟 <a href="/user/35331555" target="_blank">rose</a> 学</span><span class="fl c_f00">开网店</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<li>
+<a href="/user/46251845" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/46251845/n_19896379345156.jpg" title="锦天乐,30岁,南京白下" />
+</a>
+<div><span class="fl mb6"><a href="/user/46251845" target="_blank">锦天乐</a></span><span class="fr mb6 c_999">32分钟前</span><span class="fc">想去教  <a href="/user/26779505" target="_blank">丑女</a> </span><span class="fl c_f00">打发时间</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<li>
+<a href="/user/46251845" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/46251845/n_19896379345156.jpg" title="锦天乐,30岁,南京白下" />
+</a>
+<div><span class="fl mb6"><a href="/user/46251845" target="_blank">锦天乐</a></span><span class="fr mb6 c_999">35分钟前</span><span class="fc">想跟 <a href="/user/38772597" target="_blank">涟漪潋滟湄</a> 学</span><span class="fl c_f00">设计学</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<li>
+<a href="/user/13207746351366" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/13207746351366/n_1621671749994264.jpg" title="尘,32岁,忻州代县" />
+</a>
+<div><span class="fl mb6"><a href="/user/13207746351366" target="_blank">尘</a></span><span class="fr mb6 c_999">37分钟前</span><span class="fc">想和 <a href="/user/38705420" target="_blank">小天</a> 交换</span><span class="fl c_f00">绘画</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<li>
+<a href="/user/13207746351366" target="_blank">
+<img src="http://pic.58.com/jiaoyou/s/small/13207746351366/n_1621671749994264.jpg" title="尘,32岁,忻州代县" />
+</a>
+<div><span class="fl mb6"><a href="/user/13207746351366" target="_blank">尘</a></span><span class="fr mb6 c_999">49分钟前</span><span class="fc">想跟 <a href="/user/10019709357063" target="_blank">tiffany兰</a> 学</span><span class="fl c_f00">摄影</span><span class="fr"><!-- &lt;a href="#"&gt;查看技能&gt;&gt;&lt;/a&gt; --></span> </div>
+<i class="fix"></i>
+</li>
+<i class="fix"></i>
+</ul>
+<i class="fix"></i> </div>
+<div class="right_con_bot clearfix"></div>
+<i class="fix"></i> </div>
+<div class="right_con m10">
+<!-- 
+        &lt;div class="right_con_top"&gt;&lt;/div&gt;
+        &lt;div class="right_con_mid t_c"&gt;
+          &lt;div class="ptb10"&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="right_con_bot clearfix"&gt;&lt;/div&gt;
+         -->
+</div>
+<div class="right_con m10">
+<div class="right_con_top"></div>
+<div class="right_con_mid t_c">
+<div class="ptb10">
+<script type="text/javascript">BAIDU_CLB_fillSlot("901188");</script>
+</div>
+</div>
+<div class="right_con_bot clearfix"></div>
+</div>
+</div>
+<!--porright-->
+</div>
+</div>
+<!--container-->
+<div class="jy_bottom">
+<div class="bottom_mian">
+<p>香港同城交友网为您提供真实的香港征婚，同城交友、找女朋友、找男朋友、同城邂逅等香港交友信息，欢迎您使用58同城香港交友网。</p>
+<p class="jy_link">
+<a href="http://jiaoyou.58.com/bj/">北京交友网</a>
+<a href="http://jiaoyou.58.com/sh/">上海交友网</a>
+<a href="http://jiaoyou.58.com/tj/">天津交友网</a>
+<a href="http://jiaoyou.58.com/gz/">广州交友网</a>
+<a href="http://jiaoyou.58.com/zz/">郑州交友网</a>
+<a href="http://jiaoyou.58.com/xa/">西安交友网</a>
+<a href="http://jiaoyou.58.com/sz/">深圳交友网</a>
+<a href="http://jiaoyou.58.com/su/">苏州交友网</a>
+<a href="http://jiaoyou.58.com/cq/">重庆交友网</a>
+<a href="http://jiaoyou.58.com/wh/">武汉交友网</a>
+<a href="http://jiaoyou.58.com/nj/">南京交友网</a>
+<a href="http://jiaoyou.58.com/hz/">杭州交友网</a>
+<a href="http://jiaoyou.58.com/cd/">成都交友网</a>
+<a href="http://jiaoyou.58.com/hrb/">哈尔滨交友网</a>
+<a href="http://jiaoyou.58.com/cc/">长春交友网</a>
+<a href="http://jiaoyou.58.com/sjz/">石家庄交友网</a>
+<a href="http://jiaoyou.58.com/jn/">济南交友网</a>
+<a href="http://jiaoyou.58.com/ty/">太原交友网</a>
+<a href="http://jiaoyou.58.com/fz/">福州交友网</a>
+<a href="http://jiaoyou.58.com/nc/">南昌交友网</a>
+<a href="http://jiaoyou.58.com/city/">更多交友网</a>
+</p>
+<p>
+<br />
+<a target="_blank" href="http://about.58.com/home/" rel="nofollow">关于我们</a><i>|</i>
+<a target="_blank" href="/jieri/" rel="nofollow">节日交友</a><i>|</i>
+<a target="_blank" href="/about/jiaoyoufangpian.html" rel="nofollow">安全交友</a><i>|</i>
+<a target="_blank" href="/link/" rel="nofollow">友情链接</a><i>|</i>
+<a target="_blank" href="/about/shiyongtiaokuan.html" rel="nofollow">使用条款</a><i>|</i>
+<a target="_blank" href="/about/yinsishuoming.html" rel="nofollow">隐私声明</a><i>|</i>
+<a target="_blank" href="/about/manual.html" rel="nofollow">帮助中心</a><i>|</i>
+<a target="_blank" href="http://about.58.com/home/contact.html" rel="nofollow">联系我们</a><br />
+    		京公网安备110105000809号 京ICP证060405 津网文[2013]0121-02
+    	</p>
+</div>
+</div><!--jy_bottom_end-->
+<div class="box_gd" id="back-to-top" style="display:none;">
+<a class="g_top" href="javascript:void(0);"></a>
+<a class="g_wxsys" href="javascript:void(0);">微信扫一扫 </a>
+<div class="g_wxsys_hover" style="display: none;">
+</div>
+<a class="g_tsjy" href="javascript:void(0);">投诉建议</a>
+</div>
+<script type="text/javascript" src="http://static.58.com/jiaoyou/js/win_div.js"></script>
+<script type="text/javascript" src="http://static.58.com/bangbang/webim2/interface.js"></script>
+<script type="text/javascript"> 
+var cookieID = '';
+$(document).ready(function(){
+	$("#back-to-top").hide();
+	
+	$(".g_wxsys").hover(
+	        function(){
+	            
+	            $('#back-to-top&gt;.g_wxsys_hover').show();
+	        },
+	        function(){
+	            $('#back-to-top&gt;.g_wxsys_hover').hide();
+	            
+	 });
+
+
+	
+	$(function () {
+        $(window).scroll(function(){
+            if ($(window).scrollTop()&gt;100){
+            	$("#back-to-top").fadeIn(1500);
+            }else{
+            	$("#back-to-top").fadeOut(1500);
+            }
+        });
+        if('' != 'true'){
+            var bb='';
+      		var cc='';
+      		var www58com=bzt_getCookie("www58com");
+      		var aa=www58com.split('&amp;');
+      		for(var i=0;i&lt;aa.length;i++){
+      			if(aa[i].indexOf('SiteKey')!=-1){
+      				bb=aa[i].split('=');
+      			}
+      			
+      			if(aa[i].indexOf('UserID')!=-1){
+      				cc=aa[i].split('=');
+      				cookieID = cc[1];
+      			}
+      		}
+		
+            if(''!=''){
+        		var bb_content = bb != '' ? bb[1] : "";
+        			IM_Init('' + ";" + bb_content, "jiaoyou,hk");
+        	}else if(cookieID != ''){
+        		var bb_content = bb != '' ? bb[1] : "";
+        		IM_Init(cookieID + ";" + bb_content, "jiaoyou,hk");
+        	}
+			
+			if('' != ''){
+        	  	IM_QueryUserState([],function (json){
+        			if(json[0].status==0){
+        				if($(".otherinfo_rconbox .online").size()==0){
+        					$(".c_090").html("当前在线  ");
+        					$(".c_090").before("&lt;span class='online'&gt;&nbsp;&lt;/span&gt;");
+        				}
+        				$('#bangbangchat').addClass("online_im");
+        			}
+        		});
+        	}
+		}
+	});
+	
+	
+});
+	$(".g_top").click(function(){
+		$('html,body').animate({ scrollTop:0},0);
+	})
+	$(".g_tsjy").click(function(){
+		dialog("lei03","投诉建议","iframe:/about/feedback.html","400","340","iframe","","true")
+	})
+
+	var _gaq = _gaq || []; var site_name = "58";
+	
+	//if defined _channel
+	if(typeof(_channel) != "undefined"){
+		var _trackURL = "{'channel':'" + _channel + "'}";
+	}
+	
+	_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+	_gaq.push(['pageTracker._setDomainName', '.58.com']);
+	_gaq.push(['pageTracker._setAllowLinker', true]); 
+	_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+	_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+	_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+	_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+	var googleana= googleana || "";
+	if(googleana != ""){
+		_gaq.push(['pageTracker._trackPageview',googleana]); 
+	}else
+		_gaq.push(['pageTracker._trackPageview']);
+	(function() {  
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+	  var s = document.getElementsByTagName('script')[0]; 
+	  s.parentNode.insertBefore(ga, s);
+	 document.write("&lt;script type=""&gt;&lt;\/script&gt;"); 
+	 })(); 
+</script>
+<script type="text/javascript">BAIDU_CLB_fillSlot("859953");</script>
+<div class="baidu_icon">
+<script>
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8ab01ecc799088a215d40f579da8fc64' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div></body>
+<script>
+    init();
+    
+   //第二次进入的时候带出class2内容
+  	var class1Id = $("#h_class1").val();
+	if(class1Id!=-1){
+		setClass2("class-start",class1Id);
+	}else{
+		setClass2("class-start",-1);
+	}
+	if(0 == 1){
+		publish();
+	}	
+	/*
+	$.ajax({   
+	type:"get",   
+	dataType:"jsonp",   
+	jsonp: 'jsoncallback',  
+	url:"http://www.jiayuan.com/cooperation/58_com/?a=1&amp;sex=f",   
+	success:function(data){   
+ 	$.each(
+ 	 	data,
+ 	 	function(index,item){
+ 	 		if(index &gt; 6){
+ 	 			return;
+ 	 		}
+ 	 		$("&lt;li&gt;&lt;a href='"+item.url+"' target='_blank' onclick='_gaq.push([\"pageTracker._trackEvent\", \"jiaoyou\", \"click\", \"/sjjy/skillsclick\"])' &gt;&lt;img src='"+item.avatar_url+"' title='"+item.nickname+","+item.age+","+item.height+"' /&gt;&lt;/a&gt;&lt;/li&gt;").appendTo($("#zhaoni"));
+ 	 	}
+ 	 );			 	   
+  } 
+}); 
+	*/
+</script>
+</html>

@@ -1,0 +1,1629 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Cache-control" content="public, max-age=3600" />
+<title>楼盘地图-新浪乐居</title>
+<meta name="keywords" content="北京楼盘地图,新浪乐居" />
+<meta name="description" content="楼盘地图,新浪房产楼盘地图2.0。提供全国房产分布地图、楼市地图、楼盘地图、新房地图,提供公寓、经济适用房、花园洋房、板楼、塔楼、板塔结合、别墅等各式楼盘地图。" />
+<link rel="stylesheet" type="text/css" href="/v4/css/map.css" />
+<link rel="stylesheet" type="text/css" href="/v4/css/jquery.suggest.css" />
+<script type="text/javascript" src="/v4/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/v4/js/jquery.suggest.js"></script>
+<script language="javascript" src="http://mapsrch.house.sina.com.cn:8081/webapi/auth.json?t=javascriptmap&amp;v=3.1.1&amp;key=16a4150d21aaee9be07ce960b867f37003afd183c8306ae139ac98f432932286151dc0ec55580eca"></script>
+<script type="text/javascript" src="/v4/js/search.js"></script>
+<script type="text/javascript" src="/v4/js/fullscreen.js"></script>
+<script language="javascript">
+var city_en = "bj";
+var mapObj;
+var MyHouse = new MyHouse('bj','bj','835f5ddb7f319a1357a09e2c7cc32842','010','{"keyword":"\u8bf7\u8f93\u5165\u5730\u5740\u3001\u697c\u76d8\u3001\u5c0f\u533a\u540d\u79f0","addpk":"\u52a0\u5165\u5bf9\u6bd4","housetype":"\u7269\u4e1a\u7c7b\u578b","price":"\u62a5\u4ef7","address":"\u5730\u5740","detail":"\u697c\u76d8\u8be6\u60c5","nearsearch":"\u5468\u8fb9\u67e5\u8be2","buscar":"\u516c\u4ea4\/\u9a7e\u8f66","pk_limit":"\u6700\u591a\u80fd\u9009\u62e9\u56db\u4e2a\u697c\u76d8\u8fdb\u884c\u5bf9\u6bd4\uff01","pk_notice":"\u81f3\u5c11\u9009\u62e9\u4e24\u4e2a\u697c\u76d8\u8fdb\u884c\u5bf9\u6bd4\uff01","last_page":"\u4e0a\u4e00\u9875","next_page":"\u4e0b\u4e00\u9875","tel":"\u7535\u8bdd","input_start":"\u8bf7\u8f93\u5165\u8d77\u70b9","input_end":"\u8bf7\u8f93\u5165\u7ec8\u70b9","no_search":"\u6ca1\u6709\u5bf9\u5e94\u7684\u641c\u7d22\u5730\u70b9","bus_route":"\u7ebf\u8def","bus_start":"\u8d77\u70b9","bus_end":"\u7ec8\u70b9","bus_transit":"\u6362\u4e58","bus_ride":"\u4e58\u5750","bus_walk":"\u6b65\u884c\u81f3","bus_distance":"\u8ddd\u79bb","bus_meter":"\u7c73","bus_arrive":"\u5230\u8fbe","bus_total":"\u603b\u884c\u7a0b","bus_about":"\u7ea6","bus_km":"\u516c\u91cc","bus_totaltime":"\u672c\u6b21\u67e5\u8be2\u5171\u8017\u65f6","bus_second":"\u79d2","car_route":"\u8def\u7ebf","car_noname":"\u65e0\u540d\u9053\u8def","car_along":"\u6cbf","car_to":"\u5411","car_travel":"\u884c\u9a76","view_del":"\u5220\u9664","quick_nodistrict":"\u57ce\u533a\u4e0d\u9650","quick_nocircle":"\u73af\u7ebf\u4e0d\u9650","quick_nosubway":"\u5730\u94c1\u4e0d\u9650","feed_notice1":"\u8bf7\u586b\u5199\u610f\u89c1\u6216\u5efa\u8bae\u5185\u5bb9","feed_notice2":"\u8bf7\u586b\u5199\u60a8\u7684\u90ae\u7bb1\u5730\u5740","res_opentime_down":"\u6309\u5f00\u76d8\u65f6\u95f4\u964d\u5e8f\u6392\u5217","res_price_avg_down":"\u6309\u4ef7\u683c\u964d\u5e8f\u6392\u5217","res_opentime_up":"\u6309\u5f00\u76d8\u65f6\u95f4\u5347\u5e8f\u6392\u5217","res_price_avg_up":"\u6309\u4ef7\u683c\u5347\u5e8f\u6392\u5217"}');
+function mapInit(){
+	var opt = {
+				center:new MMap.LngLat('116.396713','39.921849'),
+				//tileUrl:'http://mapsrv.house.sina.com.cn/mapabc/maptile?v=w2.61',
+		defaultTileLayer:new MMap.TileLayer({tileUrl:'http://mapsrv.house.sina.com.cn/maptile-service/maptile?x=[x]&amp;y=[y]&amp;z=[z]'}),
+		zoom:1,
+		level:11
+	};
+	mapObj = new MMap.Map("citymap",opt);
+	MyHouse.windowResize();	
+	
+		mapObj.setBounds(new MMap.Bounds(new MMap.LngLat('116.252518','39.812756'), new MMap.LngLat('116.540222','40.027089')));
+	
+	mapObj.plugin(["MMap.ToolBar","MMap.OverView,MMap.Scale"],function(){
+		//加载工具条
+		tool = new MMap.ToolBar();
+		mapObj.addControl(tool);
+		
+		//加载鹰眼
+		view = new MMap.OverView();
+		mapObj.addControl(view);
+
+		//加载比例尺
+		var scale = new MMap.Scale();
+		mapObj.addControl(scale);
+	});
+
+			MyHouse.search();
+	
+        MyHouse.unlockMap();
+    	
+}
+window.onresize = function(){
+	MyHouse.windowResize();
+}
+
+</script>
+<style type="text/css">
+.mobile_b{ position:relative; z-index:999999999;}
+.u15{ display:inline-block; background:url(http://cache.house.sina.com.cn/css/house/images/index/all_icon.png?0407) 0 -176px no-repeat; padding-left:20px;}
+/* 二维码 box */
+.h_ewm_box{ position: absolute; right:-50px; top:26px; z-index:10; width:192px; height:212px; webkit-box-shadow:3px 3px rgba(0,0,0,.09);box-shadow:3px 3px rgba(0,0,0,.09); z-index:999999999;}
+.h_ewm_box .sj{ position:absolute; right:75px; top:-5px; width:10px; height:6px; background:url(/v4/images/h_sj.png) left top no-repeat;}
+.mobile_s{width:165px;}
+.mobile_s .m_text{width:130px;}
+.of_over{ overflow:hidden;}
+</style>
+</head>
+<body style="margin:0;" scroll="no">
+<div class="wrap">
+<!--城市列表 begin-->
+<div id="citylink" class="city_list">
+<div class="con">
+<div class="top">
+<a href="javascript:void(0)" onclick="$('#citylink').hide()" class="fr close">[关闭窗口]</a>
+<h2>城市列表</h2>
+</div>
+<ul class="list">
+<li>热门城市：</li>
+<li><a href="http://map.house.sina.com.cn/bj/">北京</a>
+<a href="http://map.house.sina.com.cn/sh/">上海</a>
+<a href="http://map.house.sina.com.cn/gz/">广州</a>
+<a href="http://map.house.sina.com.cn/sz/">深圳</a>
+<a href="http://map.house.sina.com.cn/cd/">四川</a>
+<a href="http://map.house.sina.com.cn/tj/">天津</a>
+<a href="http://map.house.sina.com.cn/nanjing/">南京</a>
+<a href="http://map.house.sina.com.cn/hangzhou/">杭州</a>
+<a href="http://map.house.sina.com.cn/wh/">武汉</a>
+<a href="http://map.house.sina.com.cn/cq/">重庆</a>
+<a href="http://map.house.sina.com.cn/sanya/">三亚</a>
+</li>
+<li class="clearfix">
+					直辖市：
+
+						
+							<a href="http://map.house.sina.com.cn/bj/">北京</a>
+<a href="http://map.house.sina.com.cn/sh/">上海</a>
+<a href="http://map.house.sina.com.cn/tj/">天津</a>
+<a href="http://map.house.sina.com.cn/cq/">重庆</a>
+</li>
+<li class="clearfix">
+					阿联酋：
+						
+														<a href="http://map.house.sina.com.cn/ae/">阿联酋</a>
+</li>
+<li class="clearfix">
+					安徽：
+						
+														<a href="http://map.house.sina.com.cn/ai/">安庆</a>
+<a href="http://map.house.sina.com.cn/bb/">蚌埠</a>
+<a href="http://map.house.sina.com.cn/cj/">滁州</a>
+<a href="http://map.house.sina.com.cn/hc/">淮南</a>
+<a href="http://map.house.sina.com.cn/hf/">合肥</a>
+<a href="http://map.house.sina.com.cn/hr/">黄山</a>
+<a href="http://map.house.sina.com.cn/mas/">马鞍山</a>
+<a href="http://map.house.sina.com.cn/uc/">宣城</a>
+<a href="http://map.house.sina.com.cn/un/">六安</a>
+<a href="http://map.house.sina.com.cn/wu/">芜湖</a>
+</li>
+<li class="clearfix">
+					澳大利亚：
+						
+														<a href="http://map.house.sina.com.cn/ad/">澳大利亚</a>
+</li>
+<li class="clearfix">
+					澳门：
+						
+														<a href="http://map.house.sina.com.cn/mc/">澳门</a>
+</li>
+<li class="clearfix">
+					巴哈马联邦：
+						
+														<a href="http://map.house.sina.com.cn/bm/">巴哈马联邦</a>
+</li>
+<li class="clearfix">
+					北京：
+						
+														<a href="http://map.house.sina.com.cn/bj/">北京</a>
+</li>
+<li class="clearfix">
+					重庆：
+						
+														<a href="http://map.house.sina.com.cn/cq/">重庆</a>
+</li>
+<li class="clearfix">
+					德国：
+						
+														<a href="http://map.house.sina.com.cn/gm/">德国</a>
+</li>
+<li class="clearfix">
+					法国：
+						
+														<a href="http://map.house.sina.com.cn/fr/">法国</a>
+</li>
+<li class="clearfix">
+					福建：
+						
+														<a href="http://map.house.sina.com.cn/am/">三明</a>
+<a href="http://map.house.sina.com.cn/fj/">福州</a>
+<a href="http://map.house.sina.com.cn/nd/">宁德</a>
+<a href="http://map.house.sina.com.cn/pu/">莆田</a>
+<a href="http://map.house.sina.com.cn/quanzhou/">泉州</a>
+<a href="http://map.house.sina.com.cn/xm/">厦门</a>
+<a href="http://map.house.sina.com.cn/zo/">漳州</a>
+</li>
+<li class="clearfix">
+					甘肃：
+						
+														<a href="http://map.house.sina.com.cn/lanzhou/">兰州</a>
+</li>
+<li class="clearfix">
+					广东：
+						
+														<a href="http://map.house.sina.com.cn/dg/">东莞</a>
+<a href="http://map.house.sina.com.cn/fs/">佛山</a>
+<a href="http://map.house.sina.com.cn/gz/">广州</a>
+<a href="http://map.house.sina.com.cn/hb/">河源</a>
+<a href="http://map.house.sina.com.cn/huizhou/">惠州</a>
+<a href="http://map.house.sina.com.cn/jiangmen/">江门</a>
+<a href="http://map.house.sina.com.cn/mm/">茂名</a>
+<a href="http://map.house.sina.com.cn/qy/">清远</a>
+<a href="http://map.house.sina.com.cn/sg/">韶关</a>
+<a href="http://map.house.sina.com.cn/shantou/">汕头</a>
+<a href="http://map.house.sina.com.cn/sz/">深圳</a>
+<a href="http://map.house.sina.com.cn/yj/">阳江</a>
+<a href="http://map.house.sina.com.cn/zc/">湛江</a>
+<a href="http://map.house.sina.com.cn/zhongshan/">中山</a>
+<a href="http://map.house.sina.com.cn/zhuhai/">珠海</a>
+<a href="http://map.house.sina.com.cn/zq/">肇庆</a>
+</li>
+<li class="clearfix">
+					广西：
+						
+														<a href="http://map.house.sina.com.cn/bc/">百色</a>
+<a href="http://map.house.sina.com.cn/beihai/">北海</a>
+<a href="http://map.house.sina.com.cn/fcg/">防城港</a>
+<a href="http://map.house.sina.com.cn/guilin/">桂林</a>
+<a href="http://map.house.sina.com.cn/gx/">广西</a>
+<a href="http://map.house.sina.com.cn/liuzhou/">柳州</a>
+<a href="http://map.house.sina.com.cn/qinzhou/">钦州</a>
+<a href="http://map.house.sina.com.cn/yl/">玉林</a>
+</li>
+<li class="clearfix">
+					贵州：
+						
+														<a href="http://map.house.sina.com.cn/guizhou/">贵州</a>
+<a href="http://map.house.sina.com.cn/kl/">凯里</a>
+<a href="http://map.house.sina.com.cn/lp/">六盘水</a>
+<a href="http://map.house.sina.com.cn/zy/">遵义</a>
+</li>
+<li class="clearfix">
+					海南：
+						
+														<a href="http://map.house.sina.com.cn/boao/">博鳌</a>
+<a href="http://map.house.sina.com.cn/han/">海南</a>
+<a href="http://map.house.sina.com.cn/sanya/">三亚</a>
+</li>
+<li class="clearfix">
+					韩国：
+						
+														<a href="http://map.house.sina.com.cn/nk/">韩国</a>
+</li>
+<li class="clearfix">
+					河北：
+						
+														<a href="http://map.house.sina.com.cn/baoding/">保定</a>
+<a href="http://map.house.sina.com.cn/ce/">承德</a>
+<a href="http://map.house.sina.com.cn/co/">沧州</a>
+<a href="http://map.house.sina.com.cn/dc/">定州</a>
+<a href="http://map.house.sina.com.cn/handan/">邯郸</a>
+<a href="http://map.house.sina.com.cn/hs/">衡水</a>
+<a href="http://map.house.sina.com.cn/qhd/">秦皇岛</a>
+<a href="http://map.house.sina.com.cn/sjz/">石家庄</a>
+<a href="http://map.house.sina.com.cn/tangshan/">唐山</a>
+<a href="http://map.house.sina.com.cn/xa/">邢台</a>
+<a href="http://map.house.sina.com.cn/zjk/">张家口</a>
+</li>
+<li class="clearfix">
+					黑龙江：
+						
+														<a href="http://map.house.sina.com.cn/daqing/">大庆</a>
+<a href="http://map.house.sina.com.cn/h/">哈尔滨</a>
+<a href="http://map.house.sina.com.cn/md/">牡丹江</a>
+<a href="http://map.house.sina.com.cn/qq/">齐齐哈尔</a>
+<a href="http://map.house.sina.com.cn/ss/">佳木斯</a>
+</li>
+<li class="clearfix">
+					荷兰：
+						
+														<a href="http://map.house.sina.com.cn/od/">荷兰</a>
+</li>
+<li class="clearfix">
+					河南：
+						
+														<a href="http://map.house.sina.com.cn/ay/">安阳</a>
+<a href="http://map.house.sina.com.cn/hn/">郑州</a>
+<a href="http://map.house.sina.com.cn/ji/">焦作</a>
+<a href="http://map.house.sina.com.cn/jp/">济源</a>
+<a href="http://map.house.sina.com.cn/kf/">开封</a>
+<a href="http://map.house.sina.com.cn/le/">漯河</a>
+<a href="http://map.house.sina.com.cn/ly/">洛阳</a>
+<a href="http://map.house.sina.com.cn/ny/">南阳</a>
+<a href="http://map.house.sina.com.cn/pd/">平顶山</a>
+<a href="http://map.house.sina.com.cn/pz/">濮阳</a>
+<a href="http://map.house.sina.com.cn/sm/">商丘</a>
+<a href="http://map.house.sina.com.cn/xb/">信阳</a>
+<a href="http://map.house.sina.com.cn/xu/">许昌</a>
+<a href="http://map.house.sina.com.cn/xx/">新乡</a>
+<a href="http://map.house.sina.com.cn/zk/">周口</a>
+<a href="http://map.house.sina.com.cn/zm/">驻马店</a>
+</li>
+<li class="clearfix">
+					湖北：
+						
+														<a href="http://map.house.sina.com.cn/ax/">仙桃</a>
+<a href="http://map.house.sina.com.cn/es/">恩施</a>
+<a href="http://map.house.sina.com.cn/hg/">黄冈</a>
+<a href="http://map.house.sina.com.cn/huangshi/">黄石</a>
+<a href="http://map.house.sina.com.cn/jingzhou/">荆州</a>
+<a href="http://map.house.sina.com.cn/si/">十堰</a>
+<a href="http://map.house.sina.com.cn/wh/">武汉</a>
+<a href="http://map.house.sina.com.cn/xd/">咸宁</a>
+<a href="http://map.house.sina.com.cn/xf/">襄阳</a>
+<a href="http://map.house.sina.com.cn/yichang/">宜昌</a>
+</li>
+<li class="clearfix">
+					湖南：
+						
+														<a href="http://map.house.sina.com.cn/changde/">常德</a>
+<a href="http://map.house.sina.com.cn/chenzhou/">郴州</a>
+<a href="http://map.house.sina.com.cn/cs/">长沙</a>
+<a href="http://map.house.sina.com.cn/hengyang/">衡阳</a>
+<a href="http://map.house.sina.com.cn/hh/">怀化</a>
+<a href="http://map.house.sina.com.cn/js/">吉首</a>
+<a href="http://map.house.sina.com.cn/loudi/">娄底</a>
+<a href="http://map.house.sina.com.cn/sb/">邵阳</a>
+<a href="http://map.house.sina.com.cn/xiangtan/">湘潭</a>
+<a href="http://map.house.sina.com.cn/yiyang/">益阳</a>
+<a href="http://map.house.sina.com.cn/yongzhou/">永州</a>
+<a href="http://map.house.sina.com.cn/yueyang/">岳阳</a>
+<a href="http://map.house.sina.com.cn/zjj/">张家界</a>
+<a href="http://map.house.sina.com.cn/zz/">株洲</a>
+</li>
+<li class="clearfix">
+					加拿大：
+						
+														<a href="http://map.house.sina.com.cn/mj/">加拿大</a>
+</li>
+<li class="clearfix">
+					江苏：
+						
+														<a href="http://map.house.sina.com.cn/changshu/">常熟</a>
+<a href="http://map.house.sina.com.cn/cz/">常州</a>
+<a href="http://map.house.sina.com.cn/hj/">淮安</a>
+<a href="http://map.house.sina.com.cn/hm/">海门</a>
+<a href="http://map.house.sina.com.cn/jg/">张家港</a>
+<a href="http://map.house.sina.com.cn/jy/">江阴</a>
+<a href="http://map.house.sina.com.cn/ks/">昆山</a>
+<a href="http://map.house.sina.com.cn/nanjing/">南京</a>
+<a href="http://map.house.sina.com.cn/nt/">南通</a>
+<a href="http://map.house.sina.com.cn/qo/">启东</a>
+<a href="http://map.house.sina.com.cn/sq/">宿迁</a>
+<a href="http://map.house.sina.com.cn/suzhou/">苏州</a>
+<a href="http://map.house.sina.com.cn/tb/">泰州</a>
+<a href="http://map.house.sina.com.cn/tc/">太仓</a>
+<a href="http://map.house.sina.com.cn/wj/">吴江</a>
+<a href="http://map.house.sina.com.cn/wx/">无锡</a>
+<a href="http://map.house.sina.com.cn/xz/">徐州</a>
+<a href="http://map.house.sina.com.cn/ya/">盐城</a>
+<a href="http://map.house.sina.com.cn/yd/">扬州</a>
+<a href="http://map.house.sina.com.cn/yg/">连云港</a>
+<a href="http://map.house.sina.com.cn/yx/">宜兴</a>
+<a href="http://map.house.sina.com.cn/zd/">镇江</a>
+</li>
+<li class="clearfix">
+					江西：
+						
+														<a href="http://map.house.sina.com.cn/ganzhou/">赣州</a>
+<a href="http://map.house.sina.com.cn/jf/">吉安</a>
+<a href="http://map.house.sina.com.cn/jiujiang/">九江</a>
+<a href="http://map.house.sina.com.cn/nc/">南昌</a>
+<a href="http://map.house.sina.com.cn/sr/">上饶</a>
+<a href="http://map.house.sina.com.cn/yr/">鹰潭</a>
+</li>
+<li class="clearfix">
+					吉林：
+						
+														<a href="http://map.house.sina.com.cn/jilin/">吉林</a>
+<a href="http://map.house.sina.com.cn/jl/">长春</a>
+<a href="http://map.house.sina.com.cn/oy/">松原</a>
+<a href="http://map.house.sina.com.cn/th/">通化</a>
+</li>
+<li class="clearfix">
+					辽宁：
+						
+														<a href="http://map.house.sina.com.cn/anshan/">鞍山</a>
+<a href="http://map.house.sina.com.cn/bx/">本溪</a>
+<a href="http://map.house.sina.com.cn/dd/">丹东</a>
+<a href="http://map.house.sina.com.cn/dl/">大连</a>
+<a href="http://map.house.sina.com.cn/fa/">抚顺</a>
+<a href="http://map.house.sina.com.cn/fx/">阜新</a>
+<a href="http://map.house.sina.com.cn/hl/">葫芦岛</a>
+<a href="http://map.house.sina.com.cn/ja/">锦州</a>
+<a href="http://map.house.sina.com.cn/lx/">辽阳</a>
+<a href="http://map.house.sina.com.cn/pj/">盘锦</a>
+<a href="http://map.house.sina.com.cn/sy/">沈阳</a>
+<a href="http://map.house.sina.com.cn/tl/">铁岭</a>
+<a href="http://map.house.sina.com.cn/yk/">营口</a>
+</li>
+<li class="clearfix">
+					马来西亚：
+						
+														<a href="http://map.house.sina.com.cn/ml/">马来西亚</a>
+</li>
+<li class="clearfix">
+					美国：
+						
+														<a href="http://map.house.sina.com.cn/mg/">美国</a>
+</li>
+<li class="clearfix">
+					内蒙古：
+						
+														<a href="http://map.house.sina.com.cn/bt/">包头</a>
+<a href="http://map.house.sina.com.cn/eeds/">鄂尔多斯</a>
+<a href="http://map.house.sina.com.cn/hhht/">呼和浩特</a>
+</li>
+<li class="clearfix">
+					宁夏：
+						
+														<a href="http://map.house.sina.com.cn/yinchuan/">银川</a>
+</li>
+<li class="clearfix">
+					葡萄牙：
+						
+														<a href="http://map.house.sina.com.cn/py/">葡萄牙</a>
+</li>
+<li class="clearfix">
+					青海：
+						
+														<a href="http://map.house.sina.com.cn/xining/">西宁</a>
+</li>
+<li class="clearfix">
+					日本：
+						
+														<a href="http://map.house.sina.com.cn/rb/">日本</a>
+</li>
+<li class="clearfix">
+					塞浦路斯：
+						
+														<a href="http://map.house.sina.com.cn/cp/">塞浦路斯</a>
+</li>
+<li class="clearfix">
+					山东：
+						
+														<a href="http://map.house.sina.com.cn/bn/">滨州</a>
+<a href="http://map.house.sina.com.cn/du/">德州</a>
+<a href="http://map.house.sina.com.cn/dy/">东营</a>
+<a href="http://map.house.sina.com.cn/eh/">菏泽</a>
+<a href="http://map.house.sina.com.cn/jn/">济宁</a>
+<a href="http://map.house.sina.com.cn/lb/">临沂</a>
+<a href="http://map.house.sina.com.cn/qd/">青岛</a>
+<a href="http://map.house.sina.com.cn/rz/">日照</a>
+<a href="http://map.house.sina.com.cn/sd/">济南</a>
+<a href="http://map.house.sina.com.cn/taian/">泰安</a>
+<a href="http://map.house.sina.com.cn/weifang/">潍坊</a>
+<a href="http://map.house.sina.com.cn/weihai/">威海</a>
+<a href="http://map.house.sina.com.cn/yt/">烟台</a>
+<a href="http://map.house.sina.com.cn/zb/">淄博</a>
+</li>
+<li class="clearfix">
+					上海：
+						
+														<a href="http://map.house.sina.com.cn/sh/">上海</a>
+</li>
+<li class="clearfix">
+					陕西：
+						
+														<a href="http://map.house.sina.com.cn/aj/">宝鸡</a>
+<a href="http://map.house.sina.com.cn/az/">汉中</a>
+<a href="http://map.house.sina.com.cn/sx/">西安</a>
+<a href="http://map.house.sina.com.cn/xy/">咸阳</a>
+</li>
+<li class="clearfix">
+					山西：
+						
+														<a href="http://map.house.sina.com.cn/dt/">大同</a>
+<a href="http://map.house.sina.com.cn/jc/">晋城</a>
+<a href="http://map.house.sina.com.cn/jinzhong/">晋中</a>
+<a href="http://map.house.sina.com.cn/ll/">吕梁</a>
+<a href="http://map.house.sina.com.cn/ty/">太原</a>
+<a href="http://map.house.sina.com.cn/xc/">忻州</a>
+<a href="http://map.house.sina.com.cn/yq/">阳泉</a>
+<a href="http://map.house.sina.com.cn/yu/">运城</a>
+</li>
+<li class="clearfix">
+					圣基茨和尼维斯联邦：
+						
+														<a href="http://map.house.sina.com.cn/cw/">圣基茨和尼维斯联邦</a>
+</li>
+<li class="clearfix">
+					四川：
+						
+														<a href="http://map.house.sina.com.cn/ck/">西昌</a>
+<a href="http://map.house.sina.com.cn/dazhou/">达州</a>
+<a href="http://map.house.sina.com.cn/deyang/">德阳</a>
+<a href="http://map.house.sina.com.cn/gi/">广元</a>
+<a href="http://map.house.sina.com.cn/leshan/">乐山</a>
+<a href="http://map.house.sina.com.cn/luzhou/">泸州</a>
+<a href="http://map.house.sina.com.cn/meishan/">眉山</a>
+<a href="http://map.house.sina.com.cn/mianyang/">绵阳</a>
+<a href="http://map.house.sina.com.cn/nanchong/">南充</a>
+<a href="http://map.house.sina.com.cn/nu/">内江</a>
+<a href="http://map.house.sina.com.cn/pzh/">攀枝花</a>
+<a href="http://map.house.sina.com.cn/sc/">四川</a>
+<a href="http://map.house.sina.com.cn/suining/">遂宁</a>
+<a href="http://map.house.sina.com.cn/yibin/">宜宾</a>
+<a href="http://map.house.sina.com.cn/zigong/">自贡</a>
+</li>
+<li class="clearfix">
+					泰国：
+						
+														<a href="http://map.house.sina.com.cn/td/">泰国</a>
+</li>
+<li class="clearfix">
+					天津：
+						
+														<a href="http://map.house.sina.com.cn/tj/">天津</a>
+</li>
+<li class="clearfix">
+					香港：
+						
+														<a href="http://map.house.sina.com.cn/hk/">香港</a>
+</li>
+<li class="clearfix">
+					西班牙：
+						
+														<a href="http://map.house.sina.com.cn/by/">西班牙</a>
+</li>
+<li class="clearfix">
+					新疆：
+						
+														<a href="http://map.house.sina.com.cn/ka/">喀什</a>
+<a href="http://map.house.sina.com.cn/xj/">新疆</a>
+</li>
+<li class="clearfix">
+					新加坡：
+						
+														<a href="http://map.house.sina.com.cn/xp/">新加坡</a>
+</li>
+<li class="clearfix">
+					新西兰：
+						
+														<a href="http://map.house.sina.com.cn/xl/">新西兰</a>
+</li>
+<li class="clearfix">
+					西藏：
+						
+														<a href="http://map.house.sina.com.cn/xi/">西藏</a>
+</li>
+<li class="clearfix">
+					意大利：
+						
+														<a href="http://map.house.sina.com.cn/it/">意大利</a>
+</li>
+<li class="clearfix">
+					英国：
+						
+														<a href="http://map.house.sina.com.cn/bi/">英国</a>
+</li>
+<li class="clearfix">
+					云南：
+						
+														<a href="http://map.house.sina.com.cn/da/">大理</a>
+<a href="http://map.house.sina.com.cn/qj/">曲靖</a>
+<a href="http://map.house.sina.com.cn/yn/">昆明</a>
+</li>
+<li class="clearfix">
+					浙江：
+						
+														<a href="http://map.house.sina.com.cn/hangzhou/">杭州</a>
+<a href="http://map.house.sina.com.cn/ho/">湖州</a>
+<a href="http://map.house.sina.com.cn/jh/">金华</a>
+<a href="http://map.house.sina.com.cn/jx/">嘉兴</a>
+<a href="http://map.house.sina.com.cn/nb/">宁波</a>
+<a href="http://map.house.sina.com.cn/qw/">衢州</a>
+<a href="http://map.house.sina.com.cn/shaoxing/">绍兴</a>
+<a href="http://map.house.sina.com.cn/taizhou/">台州</a>
+<a href="http://map.house.sina.com.cn/wz/">温州</a>
+<a href="http://map.house.sina.com.cn/ze/">舟山</a>
+</li>
+</ul>
+<!--
+			&lt;ul class="list"&gt; 
+				&lt;li&gt;热门城市：&lt;/li&gt; 
+				&lt;li&gt;&lt;a href='http://map.house.sina.com.cn/bj/'&gt;北京&lt;/a&gt;
+
+					&lt;a href='http://map.house.sina.com.cn/sh/'&gt;上海&lt;/a&gt;
+					&lt;a href='http://map.house.sina.com.cn/gz/'&gt;广州&lt;/a&gt;
+					&lt;a href='http://map.house.sina.com.cn/sz/'&gt;深圳&lt;/a&gt;
+					&lt;a href='http://map.house.sina.com.cn/cd/'&gt;四川&lt;/a&gt;
+					&lt;a href='http://map.house.sina.com.cn/tj/'&gt;天津&lt;/a&gt;
+					&lt;a href='http://map.house.sina.com.cn/nanjing/'&gt;南京&lt;/a&gt;
+
+					&lt;a href='http://map.house.sina.com.cn/hangzhou/'&gt;杭州&lt;/a&gt;
+					&lt;a href='http://map.house.sina.com.cn/wh/'&gt;武汉&lt;/a&gt;
+					&lt;a href='http://map.house.sina.com.cn/cq/'&gt;重庆&lt;/a&gt;
+					&lt;a href='http://map.house.sina.com.cn/sanya/'&gt;三亚&lt;/a&gt;	
+				&lt;/li&gt;
+
+				&lt;li class='clearfix'&gt;
+					直辖市：
+
+						
+							&lt;a href='http://map.house.sina.com.cn/bj/'&gt;北京&lt;/a&gt;
+							&lt;a href='http://map.house.sina.com.cn/sh/'&gt;上海&lt;/a&gt;
+							&lt;a href='http://map.house.sina.com.cn/tj/'&gt;天津&lt;/a&gt;
+							&lt;a href='http://map.house.sina.com.cn/cq/'&gt;重庆&lt;/a&gt;
+						&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					阿联酋：
+						
+														&lt;a href='http://map.house.sina.com.cn/ae/'&gt;阿联酋&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					安徽：
+						
+														&lt;a href='http://map.house.sina.com.cn/ai/'&gt;安庆&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/bb/'&gt;蚌埠&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/cj/'&gt;滁州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hc/'&gt;淮南&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hf/'&gt;合肥&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hr/'&gt;黄山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/mas/'&gt;马鞍山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/uc/'&gt;宣城&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/un/'&gt;六安&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/wu/'&gt;芜湖&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					澳大利亚：
+						
+														&lt;a href='http://map.house.sina.com.cn/ad/'&gt;澳大利亚&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					澳门：
+						
+														&lt;a href='http://map.house.sina.com.cn/mc/'&gt;澳门&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					巴哈马联邦：
+						
+														&lt;a href='http://map.house.sina.com.cn/bm/'&gt;巴哈马联邦&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					北京：
+						
+														&lt;a href='http://map.house.sina.com.cn/bj/'&gt;北京&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					重庆：
+						
+														&lt;a href='http://map.house.sina.com.cn/cq/'&gt;重庆&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					德国：
+						
+														&lt;a href='http://map.house.sina.com.cn/gm/'&gt;德国&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					法国：
+						
+														&lt;a href='http://map.house.sina.com.cn/fr/'&gt;法国&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					福建：
+						
+														&lt;a href='http://map.house.sina.com.cn/am/'&gt;三明&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/fj/'&gt;福州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/nd/'&gt;宁德&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/pu/'&gt;莆田&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/quanzhou/'&gt;泉州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xm/'&gt;厦门&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zo/'&gt;漳州&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					甘肃：
+						
+														&lt;a href='http://map.house.sina.com.cn/lanzhou/'&gt;兰州&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					广东：
+						
+														&lt;a href='http://map.house.sina.com.cn/dg/'&gt;东莞&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/fs/'&gt;佛山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/gz/'&gt;广州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hb/'&gt;河源&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/huizhou/'&gt;惠州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jiangmen/'&gt;江门&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/mm/'&gt;茂名&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/qy/'&gt;清远&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sg/'&gt;韶关&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/shantou/'&gt;汕头&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sz/'&gt;深圳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yj/'&gt;阳江&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zc/'&gt;湛江&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zhongshan/'&gt;中山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zhuhai/'&gt;珠海&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zq/'&gt;肇庆&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					广西：
+						
+														&lt;a href='http://map.house.sina.com.cn/bc/'&gt;百色&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/beihai/'&gt;北海&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/fcg/'&gt;防城港&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/guilin/'&gt;桂林&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/gx/'&gt;广西&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/liuzhou/'&gt;柳州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/qinzhou/'&gt;钦州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yl/'&gt;玉林&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					贵州：
+						
+														&lt;a href='http://map.house.sina.com.cn/guizhou/'&gt;贵州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/kl/'&gt;凯里&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/lp/'&gt;六盘水&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zy/'&gt;遵义&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					海南：
+						
+														&lt;a href='http://map.house.sina.com.cn/boao/'&gt;博鳌&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/han/'&gt;海南&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sanya/'&gt;三亚&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					韩国：
+						
+														&lt;a href='http://map.house.sina.com.cn/nk/'&gt;韩国&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					河北：
+						
+														&lt;a href='http://map.house.sina.com.cn/baoding/'&gt;保定&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ce/'&gt;承德&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/co/'&gt;沧州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/dc/'&gt;定州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/handan/'&gt;邯郸&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hs/'&gt;衡水&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/qhd/'&gt;秦皇岛&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sjz/'&gt;石家庄&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/tangshan/'&gt;唐山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xa/'&gt;邢台&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zjk/'&gt;张家口&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					黑龙江：
+						
+														&lt;a href='http://map.house.sina.com.cn/daqing/'&gt;大庆&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/h/'&gt;哈尔滨&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/md/'&gt;牡丹江&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/qq/'&gt;齐齐哈尔&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ss/'&gt;佳木斯&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					荷兰：
+						
+														&lt;a href='http://map.house.sina.com.cn/od/'&gt;荷兰&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					河南：
+						
+														&lt;a href='http://map.house.sina.com.cn/ay/'&gt;安阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hn/'&gt;郑州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ji/'&gt;焦作&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jp/'&gt;济源&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/kf/'&gt;开封&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/le/'&gt;漯河&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ly/'&gt;洛阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ny/'&gt;南阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/pd/'&gt;平顶山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/pz/'&gt;濮阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sm/'&gt;商丘&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xb/'&gt;信阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xu/'&gt;许昌&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xx/'&gt;新乡&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zk/'&gt;周口&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zm/'&gt;驻马店&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					湖北：
+						
+														&lt;a href='http://map.house.sina.com.cn/ax/'&gt;仙桃&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/es/'&gt;恩施&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hg/'&gt;黄冈&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/huangshi/'&gt;黄石&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jingzhou/'&gt;荆州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/si/'&gt;十堰&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/wh/'&gt;武汉&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xd/'&gt;咸宁&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xf/'&gt;襄阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yichang/'&gt;宜昌&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					湖南：
+						
+														&lt;a href='http://map.house.sina.com.cn/changde/'&gt;常德&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/chenzhou/'&gt;郴州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/cs/'&gt;长沙&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hengyang/'&gt;衡阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hh/'&gt;怀化&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/js/'&gt;吉首&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/loudi/'&gt;娄底&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sb/'&gt;邵阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xiangtan/'&gt;湘潭&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yiyang/'&gt;益阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yongzhou/'&gt;永州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yueyang/'&gt;岳阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zjj/'&gt;张家界&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zz/'&gt;株洲&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					加拿大：
+						
+														&lt;a href='http://map.house.sina.com.cn/mj/'&gt;加拿大&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					江苏：
+						
+														&lt;a href='http://map.house.sina.com.cn/changshu/'&gt;常熟&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/cz/'&gt;常州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hj/'&gt;淮安&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hm/'&gt;海门&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jg/'&gt;张家港&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jy/'&gt;江阴&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ks/'&gt;昆山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/nanjing/'&gt;南京&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/nt/'&gt;南通&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/qo/'&gt;启东&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sq/'&gt;宿迁&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/suzhou/'&gt;苏州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/tb/'&gt;泰州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/tc/'&gt;太仓&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/wj/'&gt;吴江&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/wx/'&gt;无锡&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xz/'&gt;徐州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ya/'&gt;盐城&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yd/'&gt;扬州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yg/'&gt;连云港&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yx/'&gt;宜兴&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zd/'&gt;镇江&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					江西：
+						
+														&lt;a href='http://map.house.sina.com.cn/ganzhou/'&gt;赣州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jf/'&gt;吉安&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jiujiang/'&gt;九江&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/nc/'&gt;南昌&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sr/'&gt;上饶&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yr/'&gt;鹰潭&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					吉林：
+						
+														&lt;a href='http://map.house.sina.com.cn/jilin/'&gt;吉林&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jl/'&gt;长春&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/oy/'&gt;松原&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/th/'&gt;通化&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					辽宁：
+						
+														&lt;a href='http://map.house.sina.com.cn/anshan/'&gt;鞍山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/bx/'&gt;本溪&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/dd/'&gt;丹东&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/dl/'&gt;大连&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/fa/'&gt;抚顺&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/fx/'&gt;阜新&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hl/'&gt;葫芦岛&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ja/'&gt;锦州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/lx/'&gt;辽阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/pj/'&gt;盘锦&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sy/'&gt;沈阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/tl/'&gt;铁岭&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yk/'&gt;营口&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					马来西亚：
+						
+														&lt;a href='http://map.house.sina.com.cn/ml/'&gt;马来西亚&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					美国：
+						
+														&lt;a href='http://map.house.sina.com.cn/mg/'&gt;美国&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					内蒙古：
+						
+														&lt;a href='http://map.house.sina.com.cn/bt/'&gt;包头&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/eeds/'&gt;鄂尔多斯&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/hhht/'&gt;呼和浩特&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					宁夏：
+						
+														&lt;a href='http://map.house.sina.com.cn/yinchuan/'&gt;银川&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					葡萄牙：
+						
+														&lt;a href='http://map.house.sina.com.cn/py/'&gt;葡萄牙&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					青海：
+						
+														&lt;a href='http://map.house.sina.com.cn/xining/'&gt;西宁&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					日本：
+						
+														&lt;a href='http://map.house.sina.com.cn/rb/'&gt;日本&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					塞浦路斯：
+						
+														&lt;a href='http://map.house.sina.com.cn/cp/'&gt;塞浦路斯&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					山东：
+						
+														&lt;a href='http://map.house.sina.com.cn/bn/'&gt;滨州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/du/'&gt;德州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/dy/'&gt;东营&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/eh/'&gt;菏泽&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jn/'&gt;济宁&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/lb/'&gt;临沂&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/qd/'&gt;青岛&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/rz/'&gt;日照&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sd/'&gt;济南&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/taian/'&gt;泰安&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/weifang/'&gt;潍坊&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/weihai/'&gt;威海&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yt/'&gt;烟台&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zb/'&gt;淄博&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					上海：
+						
+														&lt;a href='http://map.house.sina.com.cn/sh/'&gt;上海&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					陕西：
+						
+														&lt;a href='http://map.house.sina.com.cn/aj/'&gt;宝鸡&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/az/'&gt;汉中&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sx/'&gt;西安&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xy/'&gt;咸阳&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					山西：
+						
+														&lt;a href='http://map.house.sina.com.cn/dt/'&gt;大同&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jc/'&gt;晋城&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jinzhong/'&gt;晋中&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ll/'&gt;吕梁&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ty/'&gt;太原&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xc/'&gt;忻州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yq/'&gt;阳泉&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yu/'&gt;运城&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					圣基茨和尼维斯联邦：
+						
+														&lt;a href='http://map.house.sina.com.cn/cw/'&gt;圣基茨和尼维斯联邦&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					四川：
+						
+														&lt;a href='http://map.house.sina.com.cn/ck/'&gt;西昌&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/dazhou/'&gt;达州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/deyang/'&gt;德阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/gi/'&gt;广元&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/leshan/'&gt;乐山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/luzhou/'&gt;泸州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/meishan/'&gt;眉山&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/mianyang/'&gt;绵阳&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/nanchong/'&gt;南充&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/nu/'&gt;内江&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/pzh/'&gt;攀枝花&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/sc/'&gt;四川&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/suining/'&gt;遂宁&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yibin/'&gt;宜宾&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/zigong/'&gt;自贡&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					泰国：
+						
+														&lt;a href='http://map.house.sina.com.cn/td/'&gt;泰国&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					天津：
+						
+														&lt;a href='http://map.house.sina.com.cn/tj/'&gt;天津&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					香港：
+						
+														&lt;a href='http://map.house.sina.com.cn/hk/'&gt;香港&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					西班牙：
+						
+														&lt;a href='http://map.house.sina.com.cn/by/'&gt;西班牙&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					新疆：
+						
+														&lt;a href='http://map.house.sina.com.cn/ka/'&gt;喀什&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/xj/'&gt;新疆&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					新加坡：
+						
+														&lt;a href='http://map.house.sina.com.cn/xp/'&gt;新加坡&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					新西兰：
+						
+														&lt;a href='http://map.house.sina.com.cn/xl/'&gt;新西兰&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					西藏：
+						
+														&lt;a href='http://map.house.sina.com.cn/xi/'&gt;西藏&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					意大利：
+						
+														&lt;a href='http://map.house.sina.com.cn/it/'&gt;意大利&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					英国：
+						
+														&lt;a href='http://map.house.sina.com.cn/bi/'&gt;英国&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					云南：
+						
+														&lt;a href='http://map.house.sina.com.cn/da/'&gt;大理&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/qj/'&gt;曲靖&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/yn/'&gt;昆明&lt;/a&gt;
+													&lt;/li&gt;
+					                    &lt;li class='clearfix'&gt;
+					浙江：
+						
+														&lt;a href='http://map.house.sina.com.cn/hangzhou/'&gt;杭州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ho/'&gt;湖州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jh/'&gt;金华&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/jx/'&gt;嘉兴&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/nb/'&gt;宁波&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/qw/'&gt;衢州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/shaoxing/'&gt;绍兴&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/taizhou/'&gt;台州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/wz/'&gt;温州&lt;/a&gt;
+														&lt;a href='http://map.house.sina.com.cn/ze/'&gt;舟山&lt;/a&gt;
+													&lt;/li&gt;
+															
+
+			&lt;/ul&gt; 
+			 -->
+</div>
+</div>
+<!--城市列表 end-->
+<!--顶部导航 begin-->
+<div id="top">
+<div class="top_r">
+<div class="clearfix">
+<div class="wth">
+<iframe width="175" height="20" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://news.sina.com.cn/iframe/2009/1230/408.html" allowtransparency="true"></iframe>
+</div>
+</div>
+<div class="scroll">
+<span class="red"><a href="javascript:void(0);" onclick="MyHouse.showFeedBack();">意见反馈</a></span>
+<iframe scrolling="no" width="188px" height="20px" frameborder="0" src="http://bj.house.sina.com.cn/iframe/pc/2010-03-01/45/1055.htm" allowtransparency="true"></iframe>
+</div>
+</div>
+<div class="logo"><a href="http://house.sina.com.cn" target="_blank"><img src="/v4/images/logo.png" width="112" height="31" /></a></div>
+<div id="city">
+<span class="nc" id="ccity">北京</span>
+<span class="cc">[<a href="javascript:void(0)" onclick="$('#citylink').toggle()">其它城市</a>]</span>
+<div id="map_citylist" class="showDiv linkBlack" style="display:none;">
+</div>
+</div>
+<div class="nav">
+<ul>
+<li class="act"><a href="http://map.house.sina.com.cn/bj/">新房地图</a></li>
+<li><a href="http://bj.esf.sina.com.cn/map/" target="_blank">二手房地图</a></li>
+<li><a href="http://ditu.jiaju.sina.com.cn/" target="_blank">卖场地图</a></li>
+<li><a href="http://map.sina.com.cn" target="_blank">新浪地图</a></li>
+</ul>
+</div>
+</div>
+<!--顶部导航 end-->
+<!--搜索 begin-->
+<form target="_blank" class="searchBox" id="full_searchBox" action="" method="post">
+<div class="search">
+<ul class="clearfix">
+<li class="search_type w400">
+<b>[类型]</b>
+<a class="redbg" value="" href="#">不限</a>
+<a href="javascript:void(0)" value="1">住宅</a>
+<a href="javascript:void(0)" value="2">公寓</a>
+<a href="javascript:void(0)" value="3">别墅</a>
+<a href="javascript:void(0)" value="4">写字楼</a>
+<a href="javascript:void(0)" value="5">经济适用房</a>
+</li>
+<li class="search_price w570">
+<b>[价格]</b>
+<a href="#" class="redbg" value="">不限</a>
+<a href="javascript:void(0)" value=""></a>
+<a href="javascript:void(0)" value="6千元内">6千元内</a>
+<a href="javascript:void(0)" value="6千-8千">6千-8千</a>
+<a href="javascript:void(0)" value="8千-1万">8千-1万</a>
+<a href="javascript:void(0)" value="1万-1.5万">1万-1.5万</a>
+<a href="javascript:void(0)" value="1.5万-2万">1.5万-2万</a>
+<a href="javascript:void(0)" value="2万-2.5万">2万-2.5万</a>
+<a href="javascript:void(0)" value="2.5万-3万">2.5万-3万</a>
+<a href="javascript:void(0)" value="3万元以上">3万元以上</a>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="search_salestate w400">
+<b>[销售状态]</b>
+<input type="checkbox" value="1" id="search_salestate1" checked="checked" /><label for="search_salestate1" class="lable1">新盘</label>
+<input type="checkbox" value="2" id="search_salestate2" checked="checked" /><label for="search_salestate2" class="lable2">在售</label>
+<input type="checkbox" value="10" id="search_salestate3" checked="checked" /><label for="search_salestate3" class="lable3">待售</label>
+<input type="checkbox" value="3" id="search_salestate4" /><label for="search_salestate4" class="lable4">尾盘</label>
+<input type="checkbox" value="5" id="search_salestate5" /><label for="search_salestate5" class="lable5">出租</label>
+</li>
+<li class="search_keywords w600">
+<input id="search_keyword" adsdefault="true" class="searchText" style="margin-left:0" name="search" type="text" value="请输入地址、楼盘、小区名称" />
+<input class="searchSub" name="searchSub" type="button" onclick="MyHouse.searchKeyword();" />&nbsp;&nbsp;
+            	<b>[<a href="http://data.house.sina.com.cn/bj/search_advance/" id="red" target="_blank" style="margin:0">更多条件</a>]</b>
+</li>
+<li class="mobile_b mobile_btn_css">
+<div class="h_ewm_box" style="display:none;">
+<div class="sj"></div>
+<a href="http://m.leju.com/web/app/detail.html?id=3&amp;source=xl_click" target="_blank"><img src="/v4/images/192x212.png" /></a>
+</div>
+<a id="red" href="http://m.leju.com/web/app/detail.html?id=3&amp;source=xl_click" class="u15 fb" target="_blank">手机找房</a>
+</li>
+<div class="clearfix fg" id="b02"></div>
+</ul>
+</div>
+</form>
+<!--搜索 end-->
+<div id="main" class="clearfix">
+<div id="mainmap">
+<!--楼盘信息popo star-->
+<div class="pop_up" id="house_info"></div>
+<!--楼盘信息popo end-->
+<!--意见反馈popo star-->
+<div class="pop_up" id="user_feedback">
+<div class="attitude_t">
+<cite><a href="javascript:void(0);" onclick="MyHouse.closeFeedBack();">关闭</a></cite>意见反馈
+			</div>
+<div class="pop_up_c attitude_c">
+<div id="formdiv">
+<dl>
+<form class="searchBox" action="" method="post">
+</form><dd>如果您想向我们提出意见或建议，请填写具体内容</dd>
+<dd><textarea id="ec_content" name="ec_content" class="cont_sub"></textarea></dd>
+<dd>姓名：<input id="ec_username" name="ec_username" type="text" class="mail_sub" /></dd>
+<dd>电话：<input id="ec_usertel" name="ec_usertel" type="text" class="mail_sub" /></dd>
+<dd>邮箱：<input id="ec_email" name="ec_email" type="text" class="mail_sub" /> <span style="color: red;">*</span></dd>
+<dd>
+<input class="send_sub mr10" type="button" onclick="MyHouse.userFeedBack();" />
+<input class="reset_sub" type="reset" value="" /> &nbsp;&nbsp;
+								<span id="errorinfo"></span>
+</dd>
+
+</dl>
+</div>
+<div id="noticediv" style="display:none;color: rgb(255, 51, 0); font-weight: bold; padding: 60px 20px; text-align: center;">
+					非常感谢您的建议，我们会尽快处理！
+					<br /><br /><br /><br />
+<input type="button" value="关闭" onclick="MyHouse.closeFeedBack();" />
+</div>
+</div>
+<div class="pop_up_b"></div>
+</div>
+<!--意见反馈popo end-->
+<div class="bluebox menu_bg">
+<div class="tit">
+<!--快速定位 begin-->
+<div class="mapcont">
+<ul class="mr6"><li class="boo">快速定位：</li></ul>
+<ul class="menu">
+<li class="mr6"><a href="javascript:void(0)" id="show_district">选择城区</a>
+<input type="hidden" id="search_district" />
+<input type="hidden" id="search_area" />
+<ul class="submenu" id="district_submenu">
+<li class="nobg"><a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','')">城区不限</a></li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','海淀')">海淀</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','西山别墅区')">西山别墅区</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','上地')">上地</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','中关村')">中关村</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','万柳')">万柳</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','北三环')">北三环</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','朝阳')">朝阳</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','朝阳青年路')">朝阳青年路</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','CBD')">CBD</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','望京')">望京</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','太阳宫')">太阳宫</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','百子湾')">百子湾</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','亚奥')">亚奥</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','东坝')">东坝</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','常营')">常营</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','燕莎酒仙桥')">燕莎酒仙桥</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','豆各庄')">豆各庄</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','孙河')">孙河</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','北苑')">北苑</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','东城')">东城</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','东二环')">东二环</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','西城')">西城</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','西直门')">西直门</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','金融街')">金融街</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','两广大街')">两广大街</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','丰台')">丰台</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','丽泽商圈')">丽泽商圈</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','园博园')">园博园</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','郭公庄')">郭公庄</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','丰台科技园')">丰台科技园</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','南宫')">南宫</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','花乡')">花乡</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','青塔')">青塔</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','石景山')">石景山</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','')"></a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','房山')">房山</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','长阳')">长阳</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','良乡')">良乡</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','窦店')">窦店</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','城关')">城关</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','京港澳高速')">京港澳高速</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','')"></a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','门头沟')">门头沟</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','阜石路')">阜石路</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','双峪路')">双峪路</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','永定镇')">永定镇</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','通州')">通州</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','八通线沿线')">八通线沿线</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','运河新区')">运河新区</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','台湖')">台湖</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','马驹桥')">马驹桥</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','顺义')">顺义</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','新国展')">新国展</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','天竺')">天竺</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','中央别墅区')">中央别墅区</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','顺义新城')">顺义新城</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','机场高速')">机场高速</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','昌平')">昌平</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','南邵')">南邵</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','西三旗')">西三旗</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','昌平老城')">昌平老城</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','北七家')">北七家</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','霍营')">霍营</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','小汤山')">小汤山</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','密云')">密云</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','京密路')">京密路</a></li>
+</ul>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','怀柔')">怀柔</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','京承高速')">京承高速</a></li>
+</ul>
+</li>
+<li class="nobg">
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','延庆')">延庆</a>
+</li>
+<li class="nobg">
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','平谷')">平谷</a>
+</li>
+<li>
+<a href="javascript:void(0)" onclick="MyHouse.showSelectName('district','大兴')">大兴</a>
+<ul class="childmenu">
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','黄村')">黄村</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','南中轴')">南中轴</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','京开高速')">京开高速</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','天宫院')">天宫院</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','旧宫')">旧宫</a></li>
+<li><a href="javascript:void(0)" class="childmenua" onclick="MyHouse.showSelectName('area','亦庄')">亦庄</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<input type="hidden" id="search_circlelocation" />
+<li class="mr6"><a href="javascript:void(0)" id="show_circlelocation">选择环线</a>
+<ul class="submenu nobg circlelocation" id="circlelocation_submenu">
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('circlelocation','')">环线不限</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('circlelocation','二环以内')">二环以内</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('circlelocation','二环至三环')">二环至三环</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('circlelocation','三环至四环')">三环至四环</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('circlelocation','四环至五环')">四环至五环</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('circlelocation','五环至六环')">五环至六环</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('circlelocation','六环以外')">六环以外</a></li>
+</ul>
+</li>
+<input type="hidden" id="search_subway" />
+<li class="mr6"><a href="javascript:void(0)" id="show_subway">选择地铁</a>
+<ul class="submenu nobg subway" id="subway_submenu">
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','')">线路不限</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','1号线')">1号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','2号线')">2号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','4号线')">4号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','5号线')">5号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','9号线')">9号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','10号线')">10号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','13号线')">13号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','八通线')">八通线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','6号线')">6号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','7号线')">7号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','8号线')">8号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','11号线')">11号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','12号线')">12号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','14号线')">14号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','15号线')">15号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','16号线')">16号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','机场线')">机场线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','亦庄线')">亦庄线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','大兴线')">大兴线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','房山线')">房山线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','昌平线')">昌平线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','3号线')">3号线</a></li>
+<li><a href="javascript:void(0)" onclick="MyHouse.showSelectName('subway','燕房线')">燕房线</a></li>
+</ul>
+</li>
+</ul>
+<ul><li class="hold_search"><a href="javascript:void(0)" onclick="MyHouse.lockMap();">锁定搜索结果</a></li>
+<li class="unhold_search"><a href="javascript:void(0)" onclick="MyHouse.unlockMap();">结束锁定</a></li>
+</ul>
+</div>
+<!--快速定位 end-->
+<!--测距 begin-->
+<div class="mapapp">
+<ul>
+<li id="full"><u class="u u01"></u><a href="javascript:void(0)">全屏</a></li>
+<li><u class="u u010"></u><a href="javascript:void(0)" onclick="mapObj.setMouseTool('rule');">测距</a></li>
+<!--&lt;li&gt;&lt;u class="u u110"&gt;&lt;/u&gt;&lt;a href="#" &gt;截图&lt;/a&gt;&lt;/li&gt;-->
+<li><u class="u u210"></u><a href="javascript:void(0)" onclick="MyHouse.bindUserClick();">标记</a></li>
+<!--
+						&lt;li&gt;&lt;u class="u u310"&gt;&lt;/u&gt;&lt;a href="javascript:void(0)" onclick="myhouse.saveMap()"&gt;保存&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;u class="u u410"&gt;&lt;/u&gt;&lt;a href="#" &gt;分享&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;u class="u u510"&gt;&lt;/u&gt;&lt;a href="javascript:void(0)" onclick="myhouse.printMap()"&gt;打印&lt;/a&gt;&lt;/li&gt;
+						-->
+</ul>
+</div>
+<!--测距 end-->
+</div>
+<div class="map_img">
+<div id="resultdiv" class="right_arrow" onclick="MyHouse.showResultDiv()"></div>
+<div id="citymap" style="height:692px;"></div>
+</div>
+</div>
+</div>
+<div id="res">
+<div class="tab">
+<ul id="tab_ul_a">
+<li id="tab0" class="menu_active" style="display:none">周边查询</li>
+<li id="tab1" class="menu_active" style="display:none">公交/驾车</li>
+<li id="tab2" class="menu_active" onclick="MyHouse.showSearchResult()">搜索结果</li>
+<li id="tab3" onclick="MyHouse.showViewHistory()">浏览历史</li>
+</ul>
+</div>
+<!--周边查询 start-->
+<div id="viewaroundlist" class="tab_con" style="display:none">
+<div id="roundcon">
+<ul class="list4">
+<li><strong>　　在：</strong><input id="aroundname" type="text" readonly="readonly" /></li>
+<li><strong>附近找：</strong><input type="text" /></li>
+<li><input type="button" class="around_sub" onclick="MyHouse.searchAround(this.value);" /></li>
+<input type="hidden" id="round_x" />
+<input type="hidden" id="round_y" />
+</ul>
+<ul class="list5">
+<li class="ico17"><strong>餐饮服务：</strong></li>
+<li>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('西餐');">西餐</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('中餐');">中餐</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('快餐');">快餐</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('咖啡厅');">咖啡厅</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('酒吧');">酒吧</a>
+</li>
+<li class="ico18"><strong>生活便利：</strong></li>
+<li>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('楼盘');">楼盘</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('小区');">小区</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('银行');">银行</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('ATM');">ATM</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('超市');">超市</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('药店');">药店</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('医院');">医院</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('加油站');">加油站</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('停车场');">停车场</a>
+</li>
+<li class="ico19"><strong>宾馆：</strong></li>
+<li>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('星级宾馆');">星级宾馆</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('快捷酒店');">快捷酒店</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('招待所');">招待所</a>
+</li>
+<li class="ico20"><strong>休闲娱乐</strong></li>
+<li>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('KTV');">KTV</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('网吧');">网吧</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('电影院');">电影院</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('健身中心');">健身中心</a>
+</li>
+<li class="ico21"><strong>教育</strong></li>
+<li>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('幼儿园');">幼儿园</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('小学');">小学</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('中学');">中学</a>
+</li>
+<li class="ico22"><strong>交通</strong></li>
+<li>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('地铁');">地铁</a>
+<a href="javascript:void(0);" onclick="MyHouse.searchAround('公交');">公交</a>
+</li>
+</ul>
+</div>
+<!--周边查询列表 start-->
+<div id="roundres" class="round_search">
+<h3 class="col_1" id="range_a">范围：
+		    	<a id="range0" href="javascript:void(0)" onclick="MyHouse.setAroundRange(1000,0);">1公里</a>
+<a id="range1" href="javascript:void(0)" onclick="MyHouse.setAroundRange(3000,1);" style="text-decoration: underline;">3公里</a>
+<a id="range2" href="javascript:void(0)" onclick="MyHouse.setAroundRange(5000,2);">5公里</a>
+<a href="javascript:void(0)" class="nex" onclick="MyHouse.returnStep()">上一步</a>
+</h3>
+<input id="around_keyword" type="hidden" />
+<input id="around_range" type="hidden" />
+<ul id="roundlist">
+</ul>
+<div class="pages">
+</div>
+</div>
+<!--周边查询列表 end-->
+</div>
+<!--周边查询 end-->
+<!--公交/驾车查询 start-->
+<div id="viewbuslist" class="tab_con" style="display:none">
+<div id="bus_con">
+<ul class="list4">
+<li><strong>起点：</strong><input id="startpoint" type="text" /> <a style="display:none" href="javascript:void(0)" onclick="MyHouse.setPoint(0)">设为终点</a></li>
+<li><strong>终点：</strong><input id="finishpoint" name="" type="text" readonly="readonly" /> <a href="javascript:void(0)" onclick="MyHouse.setPoint(1)">设为起点</a></li>
+<li>
+<input type="button" class="bus_sub1" onclick="MyHouse.searchCenKeywords(0)" />
+<input type="button" class="bus_sub2" onclick="MyHouse.searchCenKeywords(1)" />
+<!--&lt;input name="" type="button" value="" class="bus_sub3" /&gt;-->
+</li>
+<input id="housecoord" type="hidden" />
+</ul>
+<ul class="bus_sele" id="bus_select">
+<li class="icon mb10 point0">起点：<span class="bus_house_name"></span></li>
+<li class="mb10 point1">选择<span id="start_name">起点</span>：用鼠标设置起点</li>
+<li class="mb10 point0">选择<span id="finish_name">终点</span>：用鼠标设置终点</li>
+<li class="sele">
+<select size="6" id="selectpoint">
+</select>
+</li>
+<li class="icon mt10 point1">终点：<span class="bus_house_name"></span></li>
+<li class="sub mt10">
+<a href="javascript:void(0)" onclick="MyHouse.searchRoute()">查询</a>
+<input type="hidden" id="searchtype" />
+</li>
+</ul>
+</div>
+<div id="bus_route" class="transit_search" style="display:none">
+<!--&lt;h4 class="mb10 col_1"&gt;策略：&lt;a href="#"&gt;默认&lt;/a&gt;&lt;a href="#"&gt;最经济&lt;/a&gt;&lt;a href="#"&gt;最舒适&lt;/a&gt;&lt;a href="javascript:void(0)" class="pre" onclick="MyHouse.returnBusSelect()"&gt;上一步&lt;/a&gt;&lt;/h4&gt;-->
+<div id="bus_route_list">
+<!-- html在js里生成 -->
+</div>
+</div>
+<div id="car_route" class="drive_search" style="display:none">
+<h4 class="mb10 col_1">策略：
+				<a id="carroute0" href="javascript:void(0)" style="text-decoration:underline;" onclick="MyHouse.searchCarRoute(0)">默认</a>
+<a id="carroute2" href="javascript:void(0)" onclick="MyHouse.searchCarRoute(2)">距离优先</a>
+<a id="carroute1" href="javascript:void(0)" onclick="MyHouse.searchCarRoute(1)">费用优先</a>
+<a href="javascript:void(0)" class="pre" onclick="MyHouse.returnBusSelect()">上一步</a></h4>
+<div id="car_route_list">
+<!-- html在js里生成 -->
+</div>
+</div>
+</div>
+<!--公交/驾车查询 end-->
+<!--搜索结果 start-->
+<div id="viewhouselist" class="tab_con" style="display:block;">
+<div class="search_res">在当前图区内找到<b id="showtotalnum" class="red"></b>个结果：</div>
+<div id="housesort" class="sort">
+		排序：
+		<a id="order1" class="default1" title="按开盘时间降序排列" onclick="MyHouse.sortHouse('opentime', 1)" href="javascript:void(0)">开盘时间</a>
+<a id="order2" class="default2" title="按价格降序排列" onclick="MyHouse.sortHouse('price_avg', 2)" href="javascript:void(0)">价格</a>
+<a class="db" href="javascript:void(0)" onclick="MyHouse.housePk();">对比</a>
+<input type="hidden" id="opentime" />
+<input type="hidden" id="price_avg" />
+</div>
+<ul id="houselist" class="list1">
+</ul>
+<div class="pages">
+</div>
+</div>
+<!--搜索结果end-->
+<!--浏览历史start-->
+<div id="viewhistorylist" class="tab_con" style="display:none">
+<div class="sort"> 以下是您浏览过的楼盘：<a href="javascript:void(0)" class="db_sub" onclick="MyHouse.viewHousePk();">对 比</a><a href="javascript:void(0)" class="null_sub" onclick="MyHouse.clearViewList();">清 空</a></div>
+<div id="viewhistory" class="list2"></div>
+<div class="brow_history">
+<ul id="hislist">
+</ul>
+</div>
+</div>
+</div>
+<!--浏览历史end-->
+</div>
+</div>
+<input type="hidden" id="full_flag" value="1" />
+<input type="hidden" id="search_key" value="835f5ddb7f319a1357a09e2c7cc32842" />
+<input type="hidden" id="default_keyword" value="请输入地址、楼盘、小区名称" />
+<!-- 
+&lt;script type="text/javascript" src="http://mapapi.house.sina.com.cn/fmpv2.3.2/js/fmp.js?key=16a4150d21aaee9be07ce960b867f37003afd183f414d97b240839cb228980dc5cce48c9a32e6ad9"&gt;&lt;/script&gt;
+ -->
+<!-- Google Analytics -->
+<script type="text/javascript"> 
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript"> 
+        var pageTracker = _gat._getTracker("UA-4816708-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+    </script>
+<!-- Google Analytics end -->
+<!--点击地图 start-->
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_m_v629.js"></script>
+<script type="text/javascript">suds_init(792,100.00,1315,1);</script>
+<!--点击地图 end-->
+<!-- START OF SmartSource Data Collector TAG -->
+<script src="http://traffic.house.sina.com.cn/fangchan_5s7f_tag.js" type="text/javascript"></script>
+<!-- END OF SmartSource Data Collector TAG -->
+<script>
+mapInit();
+</script>
+<!--新版广告start-->
+<script type="text/javascript" src="http://imgcdn.house.sina.com.cn/2.0/ads/cmslead_new.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://adm.leju.sina.com.cn/get_ad_list/PG_508DF4C72371E7?callback=ads.processReqChange&amp;id_filter=" charset="utf-8"></script>
+<!--新版广告end-->
+<script type="text/javascript">
+    //TODO 1整合firefox 与 IE实现插件，2去掉全屏时候css的控制问题（未解决）
+    $(document).ready(function(){
+        $(".mobile_btn_css").mouseover(function(){
+            $(".h_ewm_box").show();
+        }).mouseout(function(){
+            $(".h_ewm_box").hide();
+        })
+        var fs = new Fullscreen({
+            element: $("#mainmap")
+        });
+        $("#full").click(function(){
+            if(navigator.userAgent.indexOf('MSIE')&gt;1)
+            {
+                ieFullscreen();
+                $("#full_flag").val(2);//Beta 1
+                hideMsg();
+                $("#full").hide();
+                return false;
+            }
+            else
+            {
+                fs.toggleFullscreen();
+            }
+        })
+    }).keyup(function(e){
+        var key =  e.which;
+        var fullscreen= (window.screenLeft == 0);
+        if(fullscreen &amp;&amp; key ==27 &amp;&amp; navigator.userAgent.indexOf('MSIE')&gt;1 &amp;&amp; $("#full_flag").val()==2)
+        {
+            //全屏状态
+            ieFullscreen();
+            $("#full_flag").val(1);
+            $("#full").show();
+            showMsg();
+            return false;
+        }
+       });
+
+    function ieFullscreen()
+    {
+        var wscript = new ActiveXObject("WScript.Shell");
+        if (wscript!=null) {
+            wscript.SendKeys("{F11}");
+        }
+        return true;
+    }
+
+    function hideMsg()
+    {
+        if($("#resultdiv").attr('class')=='right_arrow'){$("#resultdiv").click();}
+        $("#res").hide();
+        $("#top").hide();
+        $(".searchBox").hide();
+    }
+
+    function showMsg()
+    {
+        $("#resultdiv").click();
+        $("#res").show();
+        $("#top").show();
+        $(".searchBox").show();
+    }
+</script>
+</body>
+</html>

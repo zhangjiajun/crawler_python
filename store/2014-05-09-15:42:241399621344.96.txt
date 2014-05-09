@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- title -->
+<title>求职指南_求职简历_应届生求职网  -58同城</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="email=no" />
+<meta name="format-detection" content="address=no;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<meta name="description" content="58同城招聘网求职指南频道为求职者提供职业规划、个人简历模板、自我评价、面试技巧、升职加薪、跳槽策略、防欺诈技巧、劳动法规等30多个内容频道相关服务，为求职者在求职过程中的彷徨提供方向指南。" />
+<meta name="keywords" content="应届生求职网,求职简历,求职指导" />
+<!-- css -->
+<link rel="apple-touch-icon-precomposed" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="apple-touch-startup-image" href="http://pic2.58.com/m58/img/icon58b.png" />
+<link rel="stylesheet" href="http://static.58.com/m58/m3/css/m.zixun.css" />
+<script src="http://static.58.com/m58/m3/js/jq.mobi.min.js"></script>
+<script src="http://static.58.com/m58/m3/js/m.zixun.js"></script></head>
+<body>
+<!--- banner --->
+<!--- banner --->
+<div id="banner">
+<img src="http://pic2.58.com/m58/m4/index/banner/landing_banner.png" width="100%" />
+<span class="close" onclick="document.getElementById('banner').style.display='none';">&times;</span>
+</div>
+<!--- banner end ---><!--- banner end --->
+<!--- header --->
+<div class="header">
+<a class="logo_a" href="http://m.58.com/" onclick="clickLog('from=58logo')">
+<img src="http://pic2.58.com/m58/m3/img/logo.png" alt="中文最大生活信息门户" width="100%" /></a>
+<a href="http://m.58.com/" onclick="clickLog('from=58logo')"></a>
+<div class="city_a"><span class="city">求职指南</span></div>
+<a class="publish" path="http://p.m.58.com/?from=click_post_index" href="http://p.m.58.com/202/?path=http://m.58.com/&amp;from=click_post_index" onclick="clickLog('from=post')" rel="nofollow"><i class="ico"></i>发布</a>
+</div>
+<!--- header end --->
+<!-- tag  -->
+<div class="dl_nav">
+<span>
+<h1>
+<a href="/w/zp/">求职指南</a>
+										&gt; <a href="#">首页</a>
+</h1>
+</span>
+</div>
+<!-- tag end -->
+<!-- search -->
+<!-- search end -->
+<!--- nav --->
+<div class="zpnav">
+<div class="navtxt" id="navtxt">
+<span class="znarrow"></span>
+<ul>
+<li><a href="javascript:void(0)" class="catspan select" name="">首页</a></li>
+<li>
+<a href="/w/zhichangzixun/" class="catspan" name="zhichangzixun">职场资讯</a>
+</li>
+<li>
+<a href="/w/jianligonglue/" class="catspan" name="jianligonglue">简历攻略</a>
+</li>
+<li>
+<a href="/w/mianshizhinan/" class="catspan" name="mianshizhinan">面试指南</a>
+</li>
+<li>
+<a href="/w/xinchoufuli/" class="catspan" name="xinchoufuli">薪酬福利</a>
+</li>
+<li>
+<a href="/w/shenzaizc/" class="catspan" name="shenzaizc">身在职场</a>
+</li>
+<li>
+<a href="/w/laodongfayuan/" class="catspan" name="laodongfayuan">劳动法苑</a>
+</li>
+<li>
+<a href="/w/jianli/" class="catspan" name="jianli">个人简历</a>
+</li>
+<li>
+<a href="/w/zpzt/" class="catspan" name="zpzt">求职资讯专题</a>
+</li>
+</ul>
+</div>
+<div class="navlist" id="zhichangzixun">
+<p>
+<a href="/w/jiuyedongtai/">就业动态</a>
+    			    				|
+    			    		    			<a href="/w/zhengcefagui/">政策法规</a>
+    			    				|
+    			    		    			<a href="/w/hangyezixun/">行业资讯</a>
+</p>
+</div>
+<div class="navlist" id="jianligonglue">
+<p>
+<a href="/w/jiaoshiqiuzhixin/">教师求职信</a>
+    			    				|
+    			    		    			<a href="/w/jianlijiqiao/">简历技巧</a>
+    			    				|
+    			    		    			<a href="/w/jianlimoban/">简历模板</a>
+    			    				|
+    			    		    			<a href="/w/jianlifanwen/">简历范文</a>
+    			    				|
+    			    		    			<a href="/w/qiuzhixin/">求职信</a>
+    			    				|
+    			    		    			<a href="/w/ziwopingjia/">自我评价</a>
+    			    				|
+    			    		    			<a href="/w/zhizuojiqiao/">制作技巧</a>
+    			    				|
+    			    		    			<a href="/w/jianlifengmian/">简历封面</a>
+    			    				|
+    			    		    			<a href="/w/jianlibiaoge/">简历表格</a>
+    			    				|
+    			    		    			<a href="/w/zijianxin/">自荐信</a>
+    			    				|
+    			    		    			<a href="/w/ziwojianding/">自我鉴定</a>
+</p>
+</div>
+<div class="navlist" id="mianshizhinan">
+<p>
+<a href="/w/mianshijiqiao/">面试技巧</a>
+    			    				|
+    			    		    			<a href="/w/mianshitiku/">面试题库</a>
+    			    				|
+    			    		    			<a href="/w/ziwojieshao/">自我介绍</a>
+</p>
+</div>
+<div class="navlist" id="xinchoufuli">
+<p>
+<a href="/w/shengzhijiaxin/">升职加薪</a>
+    			    				|
+    			    		    			<a href="/w/fulidiantai/">福利电台</a>
+    			    				|
+    			    		    			<a href="/w/xinqingpandian/">薪情盘点</a>
+</p>
+</div>
+<div class="navlist" id="shenzaizc">
+<p>
+<a href="/w/zcchongdian/">职场充电</a>
+    			    				|
+    			    		    			<a href="/w/tiaocaocelue/">跳槽策略</a>
+    			    				|
+    			    		    			<a href="/w/lehuozc/">乐活职场</a>
+    			    				|
+    			    		    			<a href="/w/shuzhibaogao/">述职报告</a>
+</p>
+</div>
+<div class="navlist" id="laodongfayuan">
+<p>
+<a href="/w/guibixianjing/">规避陷阱</a>
+    			    				|
+    			    		    			<a href="/w/falvfagui/">法律法规</a>
+    			    				|
+    			    		    			<a href="/w/jiuyeweiquan/">就业维权</a>
+</p>
+</div>
+</div>
+<!--- nav end --->
+<!---焦点资讯-->
+<div class="zixininfo">
+<div class="zixuntit"><strong>焦点资讯</strong></div>
+<ul class="zixunlist">
+<li>
+<a href="/w/jiuyedongtai/20140312629482.html">找工作哪个网站好</a>
+</li>
+<li>
+<a href="/w/mianshijiqiao/2013032090791.html">面试技巧和注意事项</a>
+</li>
+<li>
+<a href="/w/ziwojianding/20140418630575.html">职高毕业生自我鉴定</a>
+</li>
+<li>
+<a href="/w/jianlimoban/2012070236.html">klamelin 刘同学的时间轴简历</a>
+</li>
+<li>
+<a href="/w/ziwojianding/20130318127573.html">函授本科自我鉴定</a>
+</li>
+</ul>
+</div>
+<div class="zixininfo">
+<div class="zixuntit">
+<strong>职场资讯</strong>
+<span class="cate">|</span>
+<a href="/w/jiuyedongtai/">就业动态</a>
+<span class="cate">|</span>
+<a href="/w/zhengcefagui/">政策法规</a>
+<a href="/w/zhichangzixun/" class="fr">更多&raquo;</a>
+</div>
+<ul class="zixunlist">
+<li> <a href="/w/jiuyedongtai/20140425630707.html">年轻求职者总做不到正式期</a> </li>
+<li> <a href="/w/jiuyedongtai/20140425630704.html">频繁跳槽不利于职业发展</a> </li>
+<li> <a href="/w/jiuyedongtai/20140425630703.html">用自信得到更高的薪酬</a> </li>
+<li> <a href="/w/jiuyedongtai/20140425630702.html">什么事大学生就业“直通车”</a> </li>
+<li> <a href="/w/jiuyedongtai/20140423630687.html">今年大学毕业生月均薪资</a> </li>
+</ul>
+</div>
+<div class="zixininfo">
+<div class="zixuntit">
+<strong>简历攻略</strong>
+<span class="cate">|</span>
+<a href="/w/jiaoshiqiuzhixin/">教师求职信</a>
+<span class="cate">|</span>
+<a href="/w/jianlijiqiao/">简历技巧</a>
+<a href="/w/jianligonglue/" class="fr">更多&raquo;</a>
+</div>
+<ul class="zixunlist">
+<li> <a href="/w/qiuzhixin/20140425630700.html">审计学求职信</a> </li>
+<li> <a href="/w/qiuzhixin/20140425630699.html">文员应聘求职信</a> </li>
+<li> <a href="/w/zijianxin/20140425630698.html">餐饮管理自荐书范文</a> </li>
+<li> <a href="/w/zijianxin/20140425630697.html">医学专业面试自荐书</a> </li>
+<li> <a href="/w/ziwojianding/20140425630696.html">化验员实习自我鉴定范文</a> </li>
+</ul>
+</div>
+<div class="zixininfo">
+<div class="zixuntit">
+<strong>面试指南</strong>
+<span class="cate">|</span>
+<a href="/w/mianshijiqiao/">面试技巧</a>
+<span class="cate">|</span>
+<a href="/w/mianshitiku/">面试题库</a>
+<a href="/w/mianshizhinan/" class="fr">更多&raquo;</a>
+</div>
+<ul class="zixunlist">
+<li> <a href="/w/mianshitiku/20140425630701.html">销售员笔试题</a> </li>
+<li> <a href="/w/ziwojieshao/20140425630694.html">一分钟自我介绍范文</a> </li>
+<li> <a href="/w/ziwojieshao/20140425630693.html">金融业如何我介绍范文</a> </li>
+<li> <a href="/w/mianshitiku/20140423630683.html">嘉实基金笔试题目</a> </li>
+<li> <a href="/w/ziwojieshao/20140423630682.html">应聘性格方面自我介绍</a> </li>
+</ul>
+</div>
+<div class="zixininfo">
+<div class="zixuntit">
+<strong>薪酬福利</strong>
+<span class="cate">|</span>
+<a href="/w/shengzhijiaxin/">升职加薪</a>
+<span class="cate">|</span>
+<a href="/w/fulidiantai/">福利电台</a>
+<a href="/w/xinchoufuli/" class="fr">更多&raquo;</a>
+</div>
+<ul class="zixunlist">
+<li> <a href="/w/shengzhijiaxin/20140423630685.html">升职先讨老板欢心</a> </li>
+<li> <a href="/w/xinqingpandian/20140423630684.html">化工“薪情”知多少</a> </li>
+<li> <a href="/w/fulidiantai/20140423630659.html">带薪年假是只有外企才有吗</a> </li>
+<li> <a href="/w/shengzhijiaxin/20140422630658.html">胜券在握的升职能力</a> </li>
+<li> <a href="/w/xinqingpandian/20140422630657.html">两倍工资如何计算和索要</a> </li>
+</ul>
+</div>
+<div class="zixininfo">
+<div class="zixuntit">
+<strong>身在职场</strong>
+<span class="cate">|</span>
+<a href="/w/zcchongdian/">职场充电</a>
+<span class="cate">|</span>
+<a href="/w/tiaocaocelue/">跳槽策略</a>
+<a href="/w/shenzaizc/" class="fr">更多&raquo;</a>
+</div>
+<ul class="zixunlist">
+<li> <a href="/w/shuzhibaogao/20140425630706.html">仓储公司干部述职报告</a> </li>
+<li> <a href="/w/lehuozc/20140425630705.html">男士职场着装技巧</a> </li>
+<li> <a href="/w/shuzhibaogao/20140423630686.html">市场部经理述职报告</a> </li>
+<li> <a href="/w/shuzhibaogao/20140423630663.html">银行柜员述职报告</a> </li>
+<li> <a href="/w/lehuozc/20140423630662.html">化妆品用法需谨慎</a> </li>
+</ul>
+</div>
+<div class="zixininfo">
+<div class="zixuntit">
+<strong>劳动法苑</strong>
+<span class="cate">|</span>
+<a href="/w/guibixianjing/">规避陷阱</a>
+<span class="cate">|</span>
+<a href="/w/falvfagui/">法律法规</a>
+<a href="/w/laodongfayuan/" class="fr">更多&raquo;</a>
+</div>
+<ul class="zixunlist">
+<li> <a href="/w/jiuyeweiquan/20140423630666.html">斩断违法用工需多管齐下</a> </li>
+<li> <a href="/w/falvfagui/20140423630665.html">南京市环境自动监测监控管理办法</a> </li>
+<li> <a href="/w/guibixianjing/20140423630664.html">陷阱名称：粉饰招聘岗位</a> </li>
+<li> <a href="/w/jiuyeweiquan/20140421630629.html">就业求职要学会维权</a> </li>
+<li> <a href="/w/falvfagui/20140421630628.html">商业银行保理业务管理暂行办法</a> </li>
+</ul>
+</div>
+<div class="zixininfo">
+<div class="zixuntit">
+<strong>个人简历</strong>
+<a href="/w/jianli/" class="fr">更多&raquo;</a>
+</div>
+<ul class="zixunlist">
+</ul>
+</div>
+<div class="zixininfo">
+<div class="zixuntit">
+<strong>求职资讯专题</strong>
+<a href="/w/zpzt/" class="fr">更多&raquo;</a>
+</div>
+<ul class="zixunlist">
+</ul>
+</div>
+<div class="footer">
+<p class="footer_01">
+<a class="footer_hover" rel="nofollow">触屏版</a>
+<a id="gotodownload" href="http://m.58.com/bj/down.shtml" rel="nofollow">客户端</a>
+</p>
+<p class="footer_02">手机58网：58.com&nbsp;&nbsp;&nbsp;&nbsp;京ICP证060405号</p>
+</div>
+<img class="googleanalyze" src="" style="display: none;" />
+<script type="text/javascript">
+	var prefix = "http://m.58.com/ga/?utmac=MO-35618414-1&amp;utmn=";
+	var suffix = new Date().getTime()+"&amp;utmr=http://m.58.com/w/jianlimoban/&amp;utmp=%2Flocal%2Fzixun%2F&amp;guid=ON";
+	var url = prefix+suffix;
+	$("img[class='googleanalyze']").attr("src",url);
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [],site_name = "M58",shop_count= "0",page_type = "home";
+var _trackURL = "{'cate':'6','area':'','pagetype':'home','actiontype':'zixun'}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+_gaq.push(['pageTracker._trackPageview','/m/zp/zixun/local/']);
+</script>
+<script src="http://www.google-analytics.com/ga.js" async="async"></script>
+<script src="http://tracklog.58.com/referrer_m.js" async="async"></script>
+</body>
+</html>

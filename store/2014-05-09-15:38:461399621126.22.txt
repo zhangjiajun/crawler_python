@@ -1,0 +1,336 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>学生自我评价 - 58同城</title>
+<meta name="keywords" content="自我评价,学生自评" />
+<meta name="description" content="1.本人性格热情开朗，待人友好，为人诚实谦虚。工作勤奋，认真负责，能吃苦耐劳，尽职尽责，有耐心。具有亲和力，平易近人，善于与人沟通。 
+学习刻苦认真，成绩优秀，名列前茅" />
+<link type="text/css" rel="stylesheet" href="http://static.58.com/zp/jianli/zixun.css" />
+</head>
+<script type="text/javascript"> 
+	function changeClass(){
+		var parentName = document.getElementById("pname").value;
+		var allLi = document.getElementsByName("pli");
+		if(typeof(allLi)!=='undefined'){
+			for(i=0;i&lt;allLi.length;i++){
+				var li = allLi[i];
+				var liVal = li.firstChild.firstChild.innerHTML;
+				if(liVal===parentName){
+					var attr = document.createAttribute("class");
+         	attr.value="active";
+         	li.setAttributeNode(attr);
+					break;
+				}
+			}		
+		}
+	}
+</script>
+<body>
+<!--cnzz tui-->
+<script type="text/javascript" c="hl" charset="utf-8" src="http://tui.cnzz.net/cs.php?id=1000065449"></script>
+<!--cnzz tui-->
+<div id="topbar">
+<div class="w pos">
+<div class="bar_left"><h2></h2> <span id="ipconfig"></span></div>
+<div class="bar_right">
+<div id="login"><a rel="nofollow" target="_self" href="https://passport.58.com/login/?path=http%3A//bj.58.com/">登录</a><span class="gap">|</span><a rel="nofollow" target="_self" href="https://passport.58.com/reg/">注册</a></div>
+</div></div></div>
+<div id="header">
+<div id="headerinside"><div id="logo"><a target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" src="http://pic2.58.com/images/logonew.gif" /></a><span>自我评价</span></div>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span></div>
+</div>
+<div id="nav" class="active">
+<div id="navin" class="active">
+<ul>
+<li><a href="/zp/">首页</a></li>
+<li name="pli" id="pli"><a href="/jianligonglue/" rel="dropmenu8"><span>简历攻略</span></a></li>
+<li name="pli" id="pli"><a href="/mianshizhinan/" rel="dropmenu9"><span>面试指南</span></a></li>
+<li name="pli" id="pli"><a href="/xinchoufuli/" rel="dropmenu10"><span>薪酬福利</span></a></li>
+<li name="pli" id="pli"><a href="/shenzaizc/" rel="dropmenu11"><span>身在职场</span></a></li>
+<li name="pli" id="pli"><a href="/laodongfayuan/" rel="dropmenu12"><span>劳动法苑</span></a></li>
+<li name="pli" id="pli"><a href="/zhichangzixun/" rel="dropmenu7"><span>职场资讯</span></a></li>
+<li name="pli" id="pli"><a href="/jianli/"><span>个人简历</span></a></li>
+</ul>
+<input id="pname" type="hidden" name="pname" value="简历攻略" />
+<div align="right" style="padding-top:2.5px;"><form method="get" action="http://www.baidu.com/baidu" target="_blank">
+<input name="word" size="19" maxlength="100" type="text" placeholder="58生活资讯" onfocus="if(this.placeholder=='58生活资讯'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='58生活资讯';}" />
+<input type="submit" value="资讯搜索" />
+<input name="cl" type="hidden" value="3" />
+<input name="si" type="hidden" value="www.58.com" />
+<input name="ct" type="hidden" value="2097152" />
+<input name="s" type="hidden" checked="checked" />
+</form></div>
+</div>
+</div>
+<script type="text/javascript">changeClass();</script>
+<div class="content ej">
+<div class="erji">
+<a href="/jianlimoban/">简历模板</a>
+<a href="/jianlifanwen/">简历范文</a>
+<a href="/qiuzhixin/">求职信</a>
+<a href="/ziwopingjia/" class="ac">自我评价</a>
+<a href="/zijianxin/">自荐信</a>
+<a href="/ziwojianding/">自我鉴定</a>
+</div>
+<div class="box">
+<div class="left fl">
+<h2><span class="daohang"><a href="http://www.58.comhttp://www.58.com"></a> &gt; <a href="/zp/">招聘</a> &gt; <a href="/jianligonglue/">简历攻略</a> &gt; <a href="/ziwopingjia/">自我评价</a> &gt; </span></h2>
+<div class="wenzhang">
+<h1>学生自我评价</h1>
+<div class="sm">来源：58.com - 编辑：xushaohua - 时间：2013-12-05 15:34 --阅读：152
+
+</div>
+<table cellpadding="0" cellspacing="0" width="100%" id="content">
+<tr><td>
+<p>1.本人性格热情开朗，待人友好，为人诚实谦虚。工作勤奋，认真负责，能吃苦耐劳，尽职尽责，有耐心。具有亲和力，平易近人，善于与人沟通。 <br />
+学习刻苦认真，成绩优秀，名列前茅。品学兼优，连续三年获得学院奖学金。 <br />
+曾担任系学生会外联部干部、系团总支组织部副部长、班级生活委员等，在学生工作和外出拉赞助与商家联系的过程中，大大提高了自己的办事和处事能力。此外，还积极参加课外文体活动，各种社会实践活动和兼职工作等，以增加自己的阅历，提高自己的能力。在工作中体会办事方式，锻炼口才和人际交往能力。曾连续两年获得学院&ldquo;暑期社会实践积极分子&rdquo;，&ldquo;学生会优秀干事&rdquo;等荣誉称号。 <br />
+在平时学校生活中，做过很多兼职。例如：家教、电话访问员、酒楼服务员、派传单、问卷调查，还到工厂打过暑期工，亲身体会了各种工作的不同运作程序和处事方法，锻炼成了吃苦耐劳的精神，并从工作中体会到乐趣，尽心尽力。<br />
+四年的大学生涯，让我的组织协调能力、管理能力、应变能力等大大提升，使我具备良好的心理素质，让我在竞争中拥有更大的优势，让我在人生事业中走得更高更远。获得了&ldquo;优秀大学生&rdquo;和&ldquo;优秀毕业生&rdquo;的称号。<br />
+2.活泼开朗、乐观向上、兴趣广泛、适应力强、上手快、勤奋好学、脚踏实地、认真负责、坚毅不拔、吃苦耐劳、勇于迎接新挑战。<br />
+3.忠实诚信,讲原则，说到做到，决不推卸责任；有自制力，做事情始终坚持有始有终，从不半途而废；肯学习,有问题不逃避,愿意虚心向他人学习；自信但不自负,不以自我为中心；愿意以谦虚态度赞扬接纳优越者,权威者；会用100%的热情和精力投入到工作中；平易近人。为人诚恳,性格开朗,积极进取,适应力强、勤奋好学、脚踏实地，有较强的团队精神,工作积极进取,态度认真。<br />
+4.本人性格开朗、为人诚恳、乐观向上、兴趣广泛、拥有较强的组织能力和适应能力、并具有较强的管理策划与组织管理协调能力。</p>
+<p>&nbsp;</p>
+<b>相关文章：</b><br />
+<a href="http://www.58.com/ziwopingjia/20131121455613.html" target="_blank">办公室助理职位实习自我评价	</a><br />
+<a href="http://www.58.com/ziwopingjia/20131121455610.html" target="_blank">平面设计专业毕业生自我评价	</a><br />
+<a href="http://www.58.com/ziwopingjia/20131121455606.html" target="_blank">优秀应届生自我评价	</a><br />
+<a href="http://www.58.com/ziwopingjia/20131121455602.html" target="_blank">历史学专业大学毕业生的自我评价	</a><br />
+<a href="http://www.58.com/ziwopingjia/20131121455599.html" target="_blank">公司试用期自我评价	</a><br />
+</td></tr>
+<!-- 百度分享 BEGIN -->
+<tr>
+<td>
+<!-- Baidu Button BEGIN -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+<span class="bds_more">分享给小伙伴们：</span>
+<a class="bds_qzone">QQ</a>
+<a class="bds_tsina">新浪微博</a>
+<a class="bds_tqq">腾讯微薄</a>
+<a class="bds_renren">人人</a>
+<a class="bds_t163"></a>
+<a class="shareCount"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=218186"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+<!-- Baidu Button END --> </td>
+</tr>
+<!-- 百度分享 END -->
+</table>
+<div class="n_p">
+
+
+
+                上一篇：<a href="/ziwopingjia/20131126492530.html">护理学专业个人自我评价</a> <br />
+
+
+
+                    下一篇：<a href="/ziwopingjia/20131206586419.html">大学毕业自我鉴定</a>
+<center><tr><td>
+<span class="rele"><a rel="nofollow" id="fabu" href="http://my.58.com/myseekjob/1/?menu=4">在线创建简历</a><a rel="nofollow" id="zhao" href="http://www.58.com/?path=job.shtml">我要找工作</a></span>
+</td></tr></center>
+</div>
+<!-- 热门职位推荐 start -->
+<div class="hotpRec">
+<dl>
+<dt>
+<strong>热门职位推荐</strong>
+</dt>
+<dd class="hotpList">
+<a rel="nofollow" href="/yewu/">销售</a>
+<a rel="nofollow" href="/bianji/">编辑</a>
+<a rel="nofollow" href="/wenziluru/">文员</a>
+<a rel="nofollow" href="/sheji/">平面设计</a>
+<a rel="nofollow" href="/jiaoshi/">教师</a>
+<a rel="nofollow" href="/yiliao/">医生</a>
+<a rel="nofollow" href="/waimaozhuanyuan/">外贸专员</a>
+<a rel="nofollow" href="/kefu/">客服</a>
+<a rel="nofollow" href="/caiwu/">会计</a>
+<a rel="nofollow" href="/qiantai/">前台</a>
+<a rel="nofollow" href="/wangzhanmeigong/">网页制作</a>
+<a rel="nofollow" href="/youerjiaoshi/">幼教</a>
+<a rel="nofollow" href="/hushi/">护士</a>
+<a rel="nofollow" href="/shichang/">市场公关</a>
+<a rel="nofollow" href="/dyao/">导游</a>
+<a rel="nofollow" href="/fanyizhaopin/">翻译</a>
+<a rel="nofollow" href="/zhaopinjingli/">人事专员</a>
+<a rel="nofollow" href="/jishuzhichi/">技术支持</a>
+<a rel="nofollow" href="/jypeixunshi/">培训师</a>
+<a rel="nofollow" href="/lfawurenyuan/">法务专员</a>
+<a rel="nofollow" href="/jiudianjl/">餐饮酒店管理</a>
+</dd>
+</dl>
+</div>
+<!-- 热门职位推荐 end -->
+<!--   相关资讯   -->
+<div class="n_p">
+<h3 class="about">学生自我评价相关推荐</h3>
+<div class="ul2">
+<ul>
+<li><span>04-02</span><a href="/ziwopingjia/20140402630181.html" title="" target="_self">应用艺术专业个人自我评价</a></li>
+<li><span>04-02</span><a href="/ziwopingjia/20140402630180.html" title="" target="_self">驾驶员个人自我评价</a></li>
+<li><span>04-01</span><a href="/ziwopingjia/20140401630146.html" title="" target="_self">数学系毕业生的自我评价</a></li>
+<li><span>04-01</span><a href="/ziwopingjia/20140401630145.html" title="" target="_self">经验人士工作自我评价</a></li>
+<li><span>03-31</span><a href="/ziwopingjia/20140331630120.html" title="" target="_self">通信专业个人实习鉴定</a></li>
+<li><span>03-31</span><a href="/ziwopingjia/20140331630119.html" title="" target="_self">电信营业员自我评价</a></li>
+<li><span>03-31</span><a href="/ziwopingjia/20140331630118.html" title="" target="_self">体校毕业生自我评价</a></li>
+<li><span>03-29</span><a href="/ziwopingjia/20140329630082.html" title="" target="_self">物流专业毕业生自我评价</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<!--   相关资讯   -->
+</div>
+<!-- Duoshuo Comment BEGIN -->
+<div class="ds-thread" data-thread-key="578903" data-author-key="37" data-url="http://www.58.com/ziwopingjia/20131205578903.html" data-title="学生自我评价"></div>
+<script type="text/javascript">
+	var duoshuoQuery = {short_name: "58che"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- Duoshuo Comment END --><div id="ds-ssr" class="mt1">
+<dl class="tbox">
+<dt> <strong>评论列表（网友评论仅供网友表达个人看法，并不表明本站同意其观点或证实其描述）</strong> </dt>
+<dd>
+<div class="dede_comment">
+<div class="decmt-box1">
+<ul>
+<li id="commetcontentNew"></li>
+</ul>
+</div>
+</div>
+</dd>
+</dl>
+</div>
+</div>
+<div class="fl w228">
+<div class="hot fl">
+<h2>栏目推荐</h2>
+<div class="tuijian"><a class="y1" href="/jianlimoban/">简历模板</a><a class="y2" href="/jianlifengmian/">简历封面</a><a class="y3" href="/qiuzhixin/">求职信</a><a class="y4" href="/ziwopingjia/">自我评价</a><a class="y5" href="/zhizuojiqiao/">制作技巧</a><a class="y6" href="/shenzaizc/">身在职场</a><a class="y7" href="/mianshitiku/">面试题库</a><a class="y1" href="/zijianxin/">自荐信</a><a class="y2" href="/ziwojianding/">自我鉴定</a><a class="y3" href="/ziwojieshao/">自我介绍</a><a class="y4" href="/mianshijiqiao/">面试技巧</a><a class="y5" href="/xinchoufuli/">薪酬福利</a><a class="y3" href="/zj/">总结范文</a><a class="y1" href="/gzzongjie/">工作总结</a><a class="y7" href="/zp/">求职指南</a><a class="y2" href="/sjbg/">社会实践报告</a><a class="y1" href="/zpzt/">求职资讯专题</a></div>
+</div>
+<div class="hot fl">
+<h2>58同城官方微信二维码</h2>
+<ul class="j">
+<a rel="nofollow" target="_self" href="http://58.com/"><img alt="中文最大生活信息门户" height="220" width="220" src="http://www.58.com/zp_images/allimg/131014/qrcode_for_gh_e21b1c81eaab_258.jpg" /> </a>
+<li>功能：职位订阅 精准推送 </li>
+<li>公众号：58同城</li>
+<li>微信号：amazing58</li>
+<li>提示：打开微信，点击底部菜单</li>
+<li>"发现"，选择"扫一扫"功能对准上</li>
+<li>方二维码即可关注。</li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>热点排行</h2>
+<ul class="j">
+<li><span class="z1"></span><a href="/ziwopingjia/2012052641623.html">大学应届生自我评价分享</a></li>
+<li><span class="z1"></span><a href="/ziwopingjia/2012052640708.html">财务人员的自我评价范文</a></li>
+<li><span class="z1"></span><a href="/ziwopingjia/2012052641491.html">优秀团员个人自我评价范</a></li>
+<li><span class="z1"></span><a href="/ziwopingjia/2012052642026.html">大学生个人简历自我评价</a></li>
+<li><span class="z1"></span><a href="/ziwopingjia/2012052642055.html">校园学习生活的自我评价</a></li>
+<li><span class="z1"></span><a href="/ziwopingjia/2012052642144.html">期末自我评价范文分享</a></li>
+<li><span class="z1"></span><a href="/ziwopingjia/2012052642694.html">学期学生自我评价分享</a></li>
+<li><span class="z1"></span><a href="/ziwopingjia/2012052642117.html">事业单位人员自我评价范</a></li>
+<li><span class="z1"></span><a href="/ziwopingjia/2012052642109.html">医生实习个人自我评价</a></li>
+<li><span class="z1"></span><a href="/ziwopingjia/2012052640637.html">毕业生招聘简历的自我评</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>推荐阅读</h2>
+<ul class="j">
+<li><a href="/ziwopingjia/2012052624421.html" title="" target="_self">英语专业应届毕业生个人的自我评</a></li>
+<li><a href="/plus/view.php?aid=13713" title="" target="_self">简历中求职自我评价100字范文</a></li>
+<li><a href="/ziwopingjia/2012052636027.html" title="" target="_self">播音主持专业个人自我评价</a></li>
+<li><a href="/plus/view.php?aid=15415" title="" target="_self">大学三年学习的自我评价</a></li>
+<li><a href="/ziwopingjia/20131025268696.html" title="" target="_self">自我评价的标准</a></li>
+<li><a href="/ziwopingjia/2012052634792.html" title="" target="_self">行政办公员自我评价分享</a></li>
+<li><a href="/ziwopingjia/2012052660062.html" title="" target="_self">大学生自我评价</a></li>
+<li><a href="/ziwopingjia/2012052635222.html" title="" target="_self">毕业生的自我评价分享</a></li>
+<li><a href="/ziwopingjia/2012052656788.html" title="" target="_self">会计实习的自我评价</a></li>
+<li><a href="/ziwopingjia/20131111377150.html" title="" target="_self">数字媒体技术专业在校生自我评价</a></li>
+</ul>
+</div>
+<div class="hot fl">
+<h2>精彩专区</h2>
+<ul class="j">
+<li><a class="red" href="http://www.58.com/zpzt/20131204569547.html" target="_blank">应届生简历模板</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569379.html" target="_blank">简历模板下载</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569744.html" target="_blank">面试自我介绍</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569820.html" target="_blank">英语自我介绍</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569016.html" target="_blank">转正自我鉴定</a></li>
+<li><a href="http://www.58.com/zpzt/20131204568198.html" target="_blank">2013年中国大学生就业报告专题</a></li>
+<li><a href="http://www.58.com/zpzt/20131204563853.html" target="_blank">求职信格式</a></li>
+<li><a href="http://www.58.com/zpzt/20131127512180.html" target="_blank">java面试题</a></li>
+<li><a href="http://www.58.com/zpzt/20131204564435.html" target="_blank">自我评价怎么写</a></li>
+<li><a href="http://www.58.com/zpzt/20131204569254.html" target="_blank">银行自荐信</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="box bt">
+<p class="neilian"> <b style="color:#666666">重点类别推荐：</b> <a href="/jianlimoban/">简历模版</a>|  <a href="/jianlifanwen/">简历范文</a>|  <a href="/qiuzhixin/">求职信</a>|  <a href="/ziwopingjia/">自我评价</a>|  <a href="/zijianxin/">自荐信</a>|  <a href="/ziwojianding/">自我鉴定</a>|  <a href="/ziwojieshao/">自我介绍</a>|  <a href="/zpzt/">求职资讯专题</a></p>
+<div id="flink"><strong>友情链接</strong>:
+                        <a target="_blank" href="http://www.58.com/jianlimoban/">个人简历模板</a>
+<a target="_blank" href="http://www.58.com/jianlifanwen/">个人简历范文</a>
+<a target="_blank" href="http://www.58.com/ziwopingjia/">自我评价</a>
+<a target="_blank" href="http://www.58.com/ziwojieshao/">自我介绍</a>
+<a target="_blank" href="http://www.58.com/ziwojianding/">自我鉴定</a>
+<a rel="nofollow" target="_blank" href="/link.html">更多...</a> </div>
+<div id="footer">© 58.com <a href="http://about.58.com/v5/" rel="nofollow" title="有问题请与58客服进行对话" target="_blank" id="askicon">帮助中心</a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fabfe72bfdaaf5f8020fded755b5146e4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript"> 
+	var URL=window.location.pathname;	
+var mod=URL.substring(0, URL.lastIndexOf('/'));
+var u='/zhaopin/info'+mod+'/detail/';
+
+var _gaq = _gaq || []; var site_name = "58",_trackURL = "{'channel':'qiuzhizixun'}"; 
+_gaq.push(['_setAccount', 'UA-877409-4']); 
+_gaq.push(['_setDomainName', '.58.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']); 
+_gaq.push(['_addOrganic', 'youdao', 'q']) 
+_gaq.push(['_trackPageview',u]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="http://track.58.com/referrer2.js"></script>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;uid=218186"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+</script>
+<!-- Baidu Button END -->
+<!--BAIDU_YUNTU_START-->
+<script>
+(function(d, t) {
+    var r = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    r.async = 1;
+    r.src = '//rp.baidu.com/rp3w/3w.js?sid=10275130415331873409&amp;t=' + Math.ceil(new Date/3600000)
+    s.parentNode.insertBefore(r, s);
+})(document, 'script');
+</script>
+<!--BAIDU_YUNTU_END-->
+</body>
+</html>

@@ -1,0 +1,419 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://pic2.58.com/back/favicon.ico" />
+<title>发布香港同乡会信息-香港58同城</title>
+<script type="text/javascript"> var userid = '0'; try { var ____json4fe = { catentry: [{ oid:'3', dispid: '3', name: '同城交友', listname: 'jiaoyou' }, { oid:'27', dispid: '27', name: '同乡会', listname: 'laoxiang' }, { dispid: '', name: '', listname: 'post5'}], locallist: { dispid: '2050', name: '香港', listname: 'hk' }, modules: 'postpage', ext: { uploadurl:'/flashupload/',locallist: { 'current':{ dispid: '2050', name: '香港', listname: 'hk' }, 'area':{dispid: '0', name: '', listname: ''} } } }} catch (e) { }; </script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/1.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/jquery1.3.2.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_postpage_version.js"> </script>
+<link href="http://static.58.com/ui6/post/post.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript"> document.domain = "58.com";  var postpic_version = 'java';</script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/91/34.js?v=0917"></script>
+<script type="text/javascript"> var myInfo = { infoID:'0', userid:0, loginstate:'', cityid:2050, dispCityid:2050, curDiscateid:27, rootCateName:'jiaoyou', currentCateName:'laoxiang', TopRoleMaxCount:0, CurrentPostCount:0, viewdata:{ baohushouji:''} };</script>
+<link type="text/css" rel="stylesheet" href="http://static.58.com/ui7/css/prompt.css?version=20120821" media="all" />
+<script type="text/javascript"> 
+var iqas_mcvalue = '1399620942204';var iqas_mcformula = 'function a(){var b="11096989445341399995872618";var c="";for(var d=0;d&lt;b.length;d++){if(b.charAt(d)==9) c+="0"; else c+=(parseInt(b.charAt(d))+1);}return "1"+c};try{a();}catch(e){}';$(function(){$("&lt;input name='iqas_mcresult' value='"+eval(iqas_mcformula.replace('checkValue', iqas_mcvalue))+"' / style='display:none'&gt;").appendTo($('#aspnetForm'));});
+</script></head>
+<body>
+<div id="header">
+<a href="http://www.58.com/" id="logo" target="_blank"><img src="http://pic2.58.com/ui6/post/logo.gif" title="到58同城首页" alt="58.com" /></a>
+<div class="bar_city"><h2>香港</h2>
+</div>
+<div class="post_login">
+<div id="login"><a target="_self" href="http://passport.58.com/login/?path=http%3A//post.58.com/">登录</a><span class="gap">|</span><a target="_self" href="http://passport.58.com/reg/?city=post">注册</a></div>
+</div>
+</div>
+<div class="flow_step_no3"> <!-- s --> <div class="flow_step"> <ol class="cols3"> <li class="step_1"><div><i>1</i><strong>同城交友</strong><strong class="f12">(<a href="/2050">重选大类</a>)</strong><span></span></div><em class="f1"></em></li><li class="step_2"><div><i>2</i><strong>同乡会</strong><strong class="f12"> (<a href="/2050/3/s2">重选小类</a>)</strong><span></span></div></li><li class="step_3"><div><i>3</i>填写信息<span></span></div><em class="f2"></em></li></ol> </div> <!-- e --> </div>
+<div class="minheightout w">
+<div class="c"></div>
+<div class="content"><div id="toperro" class="hc"></div><div name="mydear"><p class="ts1"><span class="ietishi">无法发布？<a href="http://about.58.com/28.html#q" target="_blank">查看帮助</a></span>
+&nbsp;亲爱的 <b> </b>，你的信用值是 <b class="red"> 0</b>，  <span name="leftcountspan" style="display:none">今天在 <b> 同乡会</b> 你还可以发布 <b name="leftcount" class="red"> </b> 条信息！</span></p></div>
+<form name="aspnetForm" method="post" target="formSubmit" id="aspnetForm" enctype="multipart/form-data">
+<span id="main">
+<table cellpadding="0" cellspacing="0" class="box1" id="formTb">
+<tr>
+<td class="t">
+<b class="red">*</b> 类 型：
+            </td>
+<td>
+<!--&lt;label&gt;&lt;input name="pagetype" value="0" type="radio" onclick="tojump(this)"  /&gt;征婚&lt;/label&gt;&nbsp;&nbsp;&nbsp;&nbsp;
+                &lt;label&gt;&lt;input name="pagetype" value="1" type="radio" onclick="tojump(this)"  /&gt;异性交友&lt;/label&gt;&nbsp;&nbsp;&nbsp;&nbsp;-->
+<label><input name="pagetype" value="2" type="radio" onclick="tojump(this)" />兴趣交友</label>&nbsp;&nbsp;&nbsp;&nbsp;
+                <label><input name="pagetype" value="3" type="radio" onclick="tojump(this)" checked="checked" />同乡会</label>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 标 题：
+            </td>
+<td>
+<input type="text" name="Title" id="Title" value="" class="text1" except="" maxlength="25" />
+<span id="Title_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 性 别：
+            </td>
+<td>
+<label>
+<input f="{0}" type="radio" id="sex_0" name="sex" value="0" /><span>男</span>
+</label>&nbsp;&nbsp;&nbsp;&nbsp;                                
+                                         <label>
+<input f="{0}" type="radio" id="sex_1" name="sex" value="1" /><span>女</span>
+</label>&nbsp;&nbsp;&nbsp;&nbsp;                                
+                                 &nbsp;&nbsp;&nbsp;&nbsp; 年 龄：<input class="text3" type="text" id="Age" name="Age" f="{0}岁" value="" except="null" maxlength="3" />
+                岁<span id="sex_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 家乡：
+            </td>
+<td>
+<select name="census" id="census" f="{0}">
+<option value="">--省份--</option>
+<option value="1">北京</option><option value="2">天津</option><option value="3">河北</option><option value="4">山西</option><option value="5">内蒙古</option><option value="6">辽宁</option><option value="7">吉林</option><option value="8">黑龙江</option><option value="9">上海</option><option value="10">江苏</option><option value="11">浙江</option><option value="12">安徽</option><option value="13">福建</option><option value="14">江西</option><option value="15">山东</option><option value="16">河南</option><option value="17">湖北</option><option value="18">湖南</option><option value="19">广东</option><option value="20">广西</option><option value="21">海南</option><option value="22">重庆</option><option value="23">四川</option><option value="24">贵州</option><option value="25">云南</option><option value="26">西藏</option><option value="27">陕西</option><option value="28">甘肃</option><option value="29">青海</option><option value="30">宁夏</option><option value="31">新疆</option><option value="32">台湾</option><option value="33">香港</option><option value="34">澳门</option><option value="35">国外</option>
+</select>&nbsp;<select name="ddlcensus2" id="ddlcensus2" f="{0}"><option value="">--城市--</option></select>
+<input type="hidden" id="census2" name="census2" value="" f="{0}" />
+<span id="census_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">区域地段：</td>
+<td><select id="localArea" name="localArea">
+<option value="">--区域--</option>
+<option value="2153">九龙城</option>
+<option value="2151">中西</option>
+<option value="2152">东区</option>
+<option value="2154">观塘</option>
+<option value="2161">湾仔</option>
+<option value="2174">沙田</option>
+<option value="2176">屯门</option>
+<option value="2183">荃湾</option>
+<option value="2160">黄大仙</option>
+<option value="2166">离岛</option>
+<option value="5602">其它</option>
+</select>&nbsp;
+                        <select id="localDiduan" name="localDiduan">
+<option value="">--商圈--</option>
+</select>
+<select id="selectDiduanHidden" style="display: none;">
+<option id="5602_2155" value="2155">南区</option>
+<option id="5602_2159" value="2159">深水埗</option>
+<option id="5602_2162" value="2162">元朗</option>
+<option id="5602_2171" value="2171">葵青</option>
+<option id="5602_2172" value="2172">北区</option>
+<option id="5602_2173" value="2173">西贡</option>
+<option id="5602_2180" value="2180">大埔</option>
+<option id="5602_5609" value="5609">其它</option>
+</select>
+</td>
+</tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 补充说明：
+            </td>
+<td><div id="div_htmleditor"></div>
+<textarea id="Content" name="Content" style="width:0px; height:0px; display:none;"></textarea>
+<span id="Content_Tip"></span><div id="divContentValue" style="display:none;"></div> </td>
+</tr>
+<tr id="pdv"><td class="t"> </td>
+<td><div id="uploadPic" value=""></div>
+<script type="text/javascript">$.c.Uploader.init();</script></td></tr>
+<tr>
+<td class="t">
+<b class="red">*</b> 联系人：
+            </td>
+<td>
+<input type="text" name="goblianxiren" id="goblianxiren" value="" class="text2" except="" maxlength="6" /> <span id="goblianxiren_Tip"></span>
+</td>
+</tr>
+<tr>
+<td class="t">
+</td>
+<td>
+                手机和QQ请至少填写一项！
+            </td>
+</tr>
+<tr>
+<td class="t">
+                手机或电话：
+            </td>
+<td>
+<input class="text2" type="text" id="Phone" name="Phone" value="" except="" />
+<span id="Phone_Tip"></span>
+</td>
+</tr>
+<tr><td class="t">QQ或MSN：</td><td><input class="text2" type="text" qtb="true" value="" id="IM" name="IM" /> <span id="IM_Tip"></span></td></tr>
+<tr>
+<td class="t"></td>
+<td><input type="submit" id="fabu" class="fabu1" value="马上发布" ct="submit" />
+</td>
+</tr>
+</table>
+</span>
+</form>
+</div>
+<link href="/css/htmleditor.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript">
+var _hEditor = { he:null, empty_msg:'请填写补充说明', tipid:'Content_Tip', focus_msg:'10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除', reg:"^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", err_msg: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" };
+$(document).ready(
+    function(){
+        if($.c.common.isIeVersion(9)){
+            $('#Content').removeAttr('style').attr('maxlength', '2000').attr('class', 'textarea2');
+            $('#Content').val($.c.common.stripHtml($('#Content').val()));
+        } else {
+            $.editor.initHtmlEditor();
+        }
+    }
+);
+
+</script>
+<script type="text/javascript" id="postScript">
+    $(document).ready(function() {
+        $.j.getCityDataFromXml(document,showCity);
+        $('#census').bind('change', showCity);
+        $('#ddlcensus2').bind('change', fillCity);
+        $(':checkbox[name="Tag"]').attr('f', '{0}');
+        $.formValidator.initConfig({ formid: "aspnetForm", errorfocus: true, btnid: 'fabu', fun:function(){
+			if(!$.c.common.isIeVersion(9)){
+				if(!$.editor.checkHtmlEditor()) return false; // 内容验证
+			}
+            return checkContact();
+        }});
+        $("#Title").formValidator({ tipid: "Title_Tip",onfocus: "6-25个字，不能填写电话和特殊符号&lt;br /&gt;标题将被展示在详情页和列表页最醒目的位置", q2b: true, 'defaultvalue':''}).inputValidator({ onerror: "请输入标题" }).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{6,}$#^(.){6,25}$", onerror: "请输入标题#标题不足6个字#6-25个字，不能填写电话和特殊符号！" }).functionValidator({
+            fun: function(val, elem) {
+                return $.formValidator.checkTitle(val);
+            },
+            onerror: "标题太过简单"
+        });
+        
+        if($.c.common.isIeVersion(9)){
+            $("#Content").formValidator({ tipid: "Content_Tip",onfocus: "10~2000个字之间，不能填写电话、QQ等联系方式或特殊符号，否则信息将会被删除", 'defaultvalue':'' }).inputValidator({ onerror: "请填写补充说明" }).regexValidator({ regexp: "^[\\s\\S]*$#^[\\s\\S]{10,}$#^([\\s\\S]){10,2000}$", onerror: "请填写补充说明#补充说明不足10个字#补充说明应在10~2000个字之间，不能填写电话、QQ等联系方式" }).functionValidator({
+                fun: function(val, elem) {
+                    return $.formValidator.checkContent(val);
+                },
+                onerror: "内容太过简单"
+            });
+        }
+        
+        
+        $(":radio[name='sex']").formValidator({tipid: "sex_Tip",onfocus:""}).inputValidator({min:1,onerror:"请选择性别",type:"radio"});
+        $("#census").formValidator({ tipid: "census_Tip",onfocus: ""}).functionValidator({
+            fun: function(val, elem) {
+                return val!="";
+            },
+            onerror: "请选择省份"
+        }).groupValidator({
+            groupName: "lcen", nextgroupid: "ddlcensus2"
+        });
+		$("#ddlcensus2").formValidator({ tipid: "census_Tip",onfocus: ""}).functionValidator({
+            fun: function(val, elem) {
+                return val!="";
+            },
+            onerror: "请选择城市"
+        }).groupValidator({
+            groupName: "lcen", nextgroupid: "census"
+        });
+        $("#Age").formValidator({ tipid: "sex_Tip",onfocus: "年龄为2~3位整数", q2b: true, 'empty':true}).inputValidator({ onerror: "请输入年龄" }).regexValidator({ regexp: "^[1-9]\\d{1,2}$", onerror: "年龄为2~3位整数" });
+
+        $("#Phone").formValidator({ tipid: "Phone_Tip",onfocus: "请正确填写电话号码，分机可以用“-”分开", q2b: true,'empty':true }).inputValidator({ onerror: "请填写电话号码" }).regexValidator({ regexp: "^[0-9][-|0-9]{4,18}[0-9]$", onerror: "电话填写错误。格式为6-20位数字或“-”" });
+        $('#goblianxiren').formValidator({ tipid:'goblianxiren_Tip', onfocus:'2～6个字，不能填写电话和特殊符号。', q2b: true, 'defaultvalue':''}).regexValidator({ regexp: "\\S+#^(.){2,6}$#^[\\w\\d\\s\\u4e00-\\u9fa5]*$", onerror: "请输入联系人#联系人不足2个字#联系人不能填写特殊符号" });
+		$("#IM").formValidator({ tipid: "IM_Tip",onfocus: "即时通讯格式为：&lt;br /&gt;QQ：123456 &nbsp;&nbsp; MSN：myname@example.com", q2b: true,'empty':true }).inputValidator({ onerror: "请填写QQ" }).regexValidator({ regexp: "(^[1-9]\\d{4,9}$)|(^\\w+((-\\w+)|(\\.\\w+))*\\@[A-Za-z0-9]+((\\.|-)[A-Za-z0-9]+)*\\.[A-Za-z0-9]+$)", onerror: "QQ或MSN输入错误" });
+		setTimeout($.j.initTagCheck, 1000);
+    });
+    $(document).ready(function(){$.c.user.user_unlogin('','');});
+    
+    // 手机或QQ至少填写一项
+    function checkContact(){
+        var a = $("#Phone").val();
+        var b = $("#IM").val();
+        if(a == '' &amp;&amp; b == ''){
+            // 错误
+            $.formValidator.setTipState(null, "onError", "手机和QQ请至少填写一项 ", "Phone_Tip");
+            return false;
+        } else {
+            $('#Phone_Tip').remove();
+        }
+        return true;
+    }
+	
+    String.prototype.TrimEnd = function(c){
+        return this.replace(new RegExp(c + '*$'), '');
+    };
+	
+	// 单选框仿超链接跳转
+	function tojump(obj){
+	    var obj = $(':radio[name="pagetype"]:checked');
+	    var index = parseInt(obj.val());
+	    var arrID = [ '837', '23', '22', '27'];
+        var url = location.href;
+        url = url.replace(location.search, '');
+        url = url.TrimEnd('/');
+        var url2 = url;
+        if(isAdd()){
+            // 新建
+            url2 = url.replace(new RegExp('/(\\d+)/s5', 'i'), '/'+arrID[index]+'/s5');
+        } else {
+            // 修改
+            url = '/2050/27/up_0/s5';
+            url2 = url.replace(new RegExp('/2050/27/up_', 'i'), '/2050/' +arrID[index]+ '/up_');
+        }
+        if(url != url2) location.href = url2;
+    }
+    
+    // 填充城市到隐藏控件中
+    function fillCity(){
+        var ddl = $('#ddlcensus2').get(0);
+        var val = ddl.options[ddl.selectedIndex].value;
+        $('#census2').val(val);
+    }
+    
+    // 显示城市
+    function showCity(){
+        var shenName = getShenfenName();
+        var arrCity = getCityList(shenName);
+        $('#ddlcensus2 option[value!=""]').remove();
+        $(arrCity).each(function(){
+            $.c.common.addOptionsToSelect('ddlcensus2', this, this);
+        });
+        selectSavedCity();
+        fillCity();
+    }
+    
+    // 在修改状态下，选中已保存的城市
+    function selectSavedCity(){
+        if(!isAdd()){
+            var state = $('#ddlcensus2').data('isFirst');
+            if(!state){
+                $('#ddlcensus2').data('isFirst', true);
+                var city = '';
+                $.c.common.setSelectedOption('ddlcensus2', null, city);
+            }
+        }
+    }
+    
+    // 获取省份名称
+    function getShenfenName(){
+        var ddl = $('#census').get(0);
+        return ddl.options[ddl.selectedIndex].text;
+    }
+    
+    // 根据省份来获取城市
+    function getCityList(shenfen){
+        var arrCity = [];
+        var arrData = $(document).data('CityData');
+        $(arrData).each(function(n,i){
+            if($(this)[0] == shenfen){
+                for(var i = 1; i &lt; $(this).length; i ++){
+                    arrCity.push($(this)[i]);
+                }
+                return false;
+            }
+        });
+        return arrCity;
+    }
+    
+    // 是否为新帖发布状态
+    function isAdd(){
+        return '0' == '0';
+    }
+
+    // 免费开通呼转功能
+    (function(){
+        $.j.freePhone_IsRunning = true;
+        $.j.asynPhone(myInfo.userid, myInfo.infoID, '', '');
+    })();
+</script>
+<script type="text/javascript">
+
+    // 页面元素
+    var _PE = {
+        xq: $('#xiaoqu'), // 小区
+        qy: $('#localArea'), // 区域
+        sq: $('#localDiduan')	// 商圈
+    };
+
+    // 刷新商圈
+    function loadShangquan() {
+        $('#localDiduan option').remove();
+        $.c.common.addOptionsToSelect('localDiduan', '', '--商圈--');
+        var v1 = _PE.qy.val(); // 区域
+        if (!!v1) {
+            $('#selectDiduanHidden option').each(function(i, n) {
+                if ($(n).attr('id').indexOf(v1 + '_') != -1) {
+                    $.c.common.addOptionsToSelect('localDiduan', n.value, n.text);
+                }
+            });
+        }
+    }
+
+    // 根据小区名称来获取区域和商圈id
+    function getCityAreaID() {
+        var xqName = _PE.xq.val();
+        if (!!xqName) {
+            var para = 'cityid=' + myInfo.dispCityid + '&amp;xq=' + encodeURIComponent(xqName);
+            $.j.callajax('getcityareabyxq', para, getCityAreaID_callback);
+        }
+    }
+    function getCityAreaID_callback(data) {
+        if (!!data) {
+            var arr = data.split(',');
+            if (arr.length == 2) {
+                var v1 = arr[0];
+                var v2 = arr[1];
+                _PE.qy.val(v1).trigger('change');
+                _PE.sq.val(v2);
+            }
+        }
+    }
+
+    // 事件绑定
+    $(document).ready(function() {
+        _PE.qy.bind('change', loadShangquan);
+
+        if (true) {
+            var v1 = '0';
+            var v2 = '0';
+            if (v1 != 0) {
+                _PE.qy.val(v1).trigger('change');
+            }
+            if (v2 != 0) {
+                _PE.sq.val(v2);
+            }
+        }
+    });
+</script>
+<iframe style="display: none" src="about:blank" id="formSubmit" name="formSubmit"></iframe>
+<script type="text/javascript">
+	var usertype = "person";
+	if(false){
+		usertype = "vip";
+	}else{
+		if(false){
+			usertype = "biz";
+		}
+	}
+	
+    var _gaq = _gaq || []; var site_name = "58"; var page_type = "post";
+    var _trackURL = "{'cate':'3,27','area':'2050','pagetype':'post','poststep':'fillout','postmode':'add','usertype':'person'}";
+    _gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+    _gaq.push(['pageTracker._setDomainName', '.58.com']);
+    _gaq.push(['pageTracker._setAllowLinker', true]);
+    _gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+    _gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+    _gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+    _gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+    _gaq.push(['pageTracker._addOrganic', '360', 'q']); 
+    _gaq.push(['pageTracker._trackPageview','/hk/jiaoyou/laoxiang/' + usertype + '/fillout/add/']);
+    $.getScript( ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+    //$.getScript('http://track.58.com/referrer2.js');
+    $.getScript('http://tracklog.58.com/referrer4.js');
+</script>
+<div id="footer">&copy; 58.com <a href="http://about.58.com/v5/">帮助中心</a></div>
+<script type="text/javascript">
+
+	$('#formSubmit').attr('src', '/submit.htm'); </script> <div id="fkdiv"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1" height="1" id="myFlash" align="middle"> <param name="movie" value="http://pic2.58.com/js/5_1/91/fc.0709.swf"> </param><param name="quality" value="high"></param><param name="allowScriptAccess" value="always"> <embed allowscriptaccess="always" src="http://pic2.58.com/js/5_1/91/fc.0709.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1" height="1" name="myFlash" swliveconnect="true"></embed> </param></object></div><script type="text/javascript">$.c.fk.i('3b879eb1-601a-4666-9d6c-6cc610bbe69a');</script></div></body></html>

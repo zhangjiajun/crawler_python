@@ -1,0 +1,765 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- &lt;meta http-equiv="x-ua-compatible" content="ie=7"  /&gt; -->
+<title>【江门市合宏汽车销售服务有限公司】 - 58同城</title>
+<meta name="Description" content="欢迎访问江门市合宏汽车销售服务有限公司网店，您可以查看江门市合宏汽车销售服务有限公司的在售二手车源信息，本公司位于广东省江门市新会区新会大道东8号，电话13426768009" />
+<!--link href="http://static.58.com/n/shop/car/car_leo.css?v=2012120601" rel="stylesheet" type="text/css"-->
+<link rel="stylesheet" href="http://static.58.com/ui7/car/shop/shop.css?v=20140110" type="text/css" />
+<script type="text/javascript" src="http://static.58.com/js/5_1/jquery1.4.4.js"></script>
+<script src="http://shop.58.com/minjs/focusad-min.js" type="text/javascript"></script>
+<!--script type="text/javascript" src="/js/share.js"&gt;&lt;/script-->
+</head>
+<body>
+<div class="top wlt_top" id="top">
+<div class="wrap">
+<h1><a href="/24231704501234451/" class="logo" title="江门市合宏汽车销售服务有限公司">
+<!--img src="http://pic2.58.com/ui7/car/shop/logo.gif"-->
+<img src="http://img1.58.com/m1/bigimage/n_s12220223304237111006_100_100.jpg" />
+</a></h1>
+<div class="about">
+<h3>江门市合宏汽车销售服务有限公司
+                        <a href="http://static.58.com/ui7/help/chengnuoshu.html" target="_blank" title="58同城认证诚信车商"> <img src="http://pic2.58.com/ui7/car/shop/4s.gif" width="112" height="23" /> </a> </h3>
+<p>
+<i class="tel"></i> 13426768009                             </p>
+</div>
+<div class="infolist">
+<a href="http://dingyue.58.com/qiantu/shengji?from=list-right-banner" target="_blank">加入VIP会员</a><i></i><a href="javascript:shopNamespace.addBookmark()">收藏店铺</a><i></i> <a href="http://jm.58.com/ershouche/" target="_blank">江门二手车</a> <br />
+<div class="info-promise">
+<a target="_blank" class="promise01" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a target="_blank" class="promise02" href="http://static.58.com/ui7/help/mfgh.html  "></a>
+<a target="_blank" class="promise03" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="navcon">
+<div class="nav">
+<div id="fast-select" class="nav-choose">
+<div id="kuaishuSelect"><span class="row"></span> <i></i>快速选车 </div><!--快速选车--全部车辆品牌--下拉部分-->
+<ul id="fastselect-con" class="nav-choose-con" style="display:block;">
+<li id="brand">
+<!-- class="hover"为展开状态-->
+<h3><i class="ico01"></i>品牌<i class="row"></i></h3>
+<div class="nav-left">
+<a href="/24231704501234451/information/1/b_408844/">奥迪(13)</a>
+<a href="/24231704501234451/information/1/b_410387/">本田(3)</a>
+<a href="/24231704501234451/information/1/b_410767/">别克(1)</a>
+<a href="/24231704501234451/information/1/b_411611/">大众(1)</a>
+<a href="/24231704501234451/information/1/b_416805/">日产(1)</a>
+</div>
+<!--快速选车下拉部分--全部车辆品牌-->
+<div id="brandlistcon" class="nav-right" style="display:none">
+<div class="line"></div>
+<h3>全部车辆品牌</h3>
+<div class="clearfix">
+<dl>
+<dt>
+                                  A
+                                  </dt>
+<dd>
+<a href="/24231704501234451/information/1/b_408844/">奥迪(13)</a>
+</dd>
+</dl>
+<dl>
+<dt>
+                                       B
+                                    </dt>
+<dd>
+<a href="/24231704501234451/information/1/b_410387/">本田(3)</a>
+<a href="/24231704501234451/information/1/b_410767/">别克(1)</a>
+</dd>
+</dl>
+<dl>
+<dt>
+                                       D
+                                    </dt>
+<dd>
+<a href="/24231704501234451/information/1/b_411611/">大众(1)</a>
+</dd>
+</dl>
+<dl>
+<dt>
+                                       R
+                                    </dt>
+<dd>
+<a href="/24231704501234451/information/1/b_416805/">日产(1)</a>
+</dd>
+</dl>
+</div>
+</div>
+</li>
+<li>
+<h3><i class="ico02"></i>车系</h3>
+<div class="nav-left">
+<a href="/24231704501234451/information/1/c_408874/">A8L(3)</a>
+<a href="/24231704501234451/information/1/c_410426/">雅阁(2)</a>
+<a href="/24231704501234451/information/1/c_517508/">A7(2)</a>
+<a href="/24231704501234451/information/1/c_409012/">A4L(2)</a>
+<a href="/24231704501234451/information/1/c_409052/">A6L(2)</a>
+<a href="/24231704501234451/information/1/c_661231/">A5(1)</a>
+<a href="/24231704501234451/information/1/c_409207/">Q7(1)</a>
+<a href="/24231704501234451/information/1/c_408986/">A3(进口)(1)</a>
+<a href="/24231704501234451/information/1/c_410869/">君威(1)</a>
+<a href="/24231704501234451/information/1/c_409187/">TT(1)</a>
+<a href="/24231704501234451/information/1/c_416966/">颐达(1)</a>
+<a href="/24231704501234451/information/1/c_410511/">飞度(1)</a>
+<a href="/24231704501234451/information/1/c_412214/">帕萨特(1)</a>
+</div>
+</li>
+<li>
+<h3><i class="ico03"></i>价格</h3>
+<div class="nav-left">
+<a href="/24231704501234451/information/1/p_3-5/">3-5万(2)</a>
+<a href="/24231704501234451/information/1/p_5-8/">5-8万(2)</a>
+<a href="/24231704501234451/information/1/p_8-12/">8-12万(1)</a>
+<a href="/24231704501234451/information/1/p_18-24/">18-24万(1)</a>
+<a href="/24231704501234451/information/1/p_24-35/">24-35万(2)</a>
+<a href="/24231704501234451/information/1/p_35-60/">35-60万(5)</a>
+<a href="/24231704501234451/information/1/p_60-100/">60-100万(5)</a>
+</div>
+</li>
+</ul>
+</div>
+<!--选车结束!
+        -->
+<!--导航条-->
+<ul class="nav_list navpd">
+<li>
+<a href="/24231704501234451" class="hover">首页</a>
+</li>
+<li>
+<a href="/24231704501234451/information/">二手车</a>
+</li>
+<li>
+<a href="/24231704501234451/honor/">诚信档案</a>
+</li>
+<li>
+<a href="/24231704501234451/introduction/">公司简介</a>
+</li>
+</ul>
+<div id="shopInfo" class="shop">
+<div class="shop_tit">
+                店铺：在售<b>18</b>&nbsp;&nbsp;&nbsp;已售<b>6</b><i class="shop_row"></i>
+</div>
+<div id="shopInfo-con" class="shopbd">
+<h3>江门市合宏汽车销售服务有限公司 
+                                    <span title="网邻通商家第1年" class="wlt-ico wlt1"></span>
+</h3>
+<dl>
+<dt>
+                        店铺状态：
+                    </dt>
+<dd>
+<ul class="salelist">
+<li>
+<b>18</b>
+<p>
+                                    在售
+                                </p>
+</li>
+</ul>
+</dd>
+<dd>
+<ul class="salelist">
+<li>
+<b>6</b>
+<p>
+                                    已售
+                                </p>
+</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dt>
+                        商家认证：
+                    </dt>
+<dd>
+<i class="zz_icon" title="营业执照认证"></i>
+<i class="shenfen_icon" title="身份证认证"></i>
+<i class="phone_icon" title="手机认证"></i>
+</dd>
+</dl>
+<dl>
+<dt>
+                        信用等级：
+                    </dt>
+<dd>
+<a href="http://about.58.com/48.html?cateid=1" target="_blank"><img src="http://pic2.58.com/images/10.gif" alt="690" title="690" /></a>
+</dd>
+</dl>
+<dl>
+<dt>
+                        电    话：
+                    </dt>
+<dd>
+                         13426768009  <br /> 15876698147                     </dd>
+</dl>
+<dl>
+<dt>
+                        地    址：
+                    </dt>
+<dd>
+                        广东省江门市新会区新会大道东8号
+                    </dd>
+</dl>
+<dl>
+<dt>
+</dt>
+<dd>
+<a href="javascript:shopNamespace.addBookmark()" class="savebtn">收藏店铺</a>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+            var global_shopUserId = parseInt('21843711437575');
+            var global_shopId = parseInt('24231704501234451');
+            var global_shopTitle = "江门市合宏汽车销售服务有限公司";
+        </script>
+<input id="shopIndex" type="hidden" value="" />
+<div class="wrap">
+<div class="lunbo">
+<div class="flexslider">
+<ul class="slides">
+<li style="display:block;">
+<a href="javascript:void(0);"><img src="http://img5.58.com/shoprotation/n_s12220225527418435124_740_300.jpg" alt="正面" /></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="area mt10">
+<div class="areatit">
+<h3><i class="ico16"></i>厂商认证二手车</h3><span class="more"><a href="/24231704501234451/information/?renzheng=1" target="_blank">查看更多</a></span>
+</div>
+<div class="area-con rz-ershouche">
+<div class="renzheng">
+<img src="http://pic2.58.com/ui7/car/shop/408844.png" width="247" height="283" />
+</div>
+<ul class="arealist">
+<li>
+<a href="http://jm.58.com/ershouche/17741433156489x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img5.58.com/p1/big/n_s12233625745507294035_210_156.jpg" alt="奥迪A8L 2013款 45 TFSI quattro舒适型 2013年上牌" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17741433156489x.shtml" class="at"> 奥迪A8L 2013款 45 TFSI quattro舒适型 2013年上牌</a>
+<p>
+<span class="time">2013年上牌</span> 0.15万公里
+                    </p>
+<div class="other-service">
+<span class="pri">73.8万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/rzesc.html" target="_blank" class="ico21" title="认证二手车"></a> <a href="http://static.58.com/ui7/help/qtkt.html" target="_blank" class="ico25" title="7天可退"></a> <a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> <a href="http://static.58.com/ui7/help/mfgh.html" target="_blank" class="ico23" title="免费过户"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17741365507719x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img7.58.com/p1/big/n_s12233615704559427126_210_156.jpg" alt="奥迪A8L 2013款 2.5AT 舒适型 2012年上牌" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17741365507719x.shtml" class="at"> 奥迪A8L 2013款 2.5AT 舒适型 2012年上牌</a>
+<p>
+<span class="time">2012年上牌</span> 0.4万公里
+                    </p>
+<div class="other-service">
+<span class="pri">69.8万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/rzesc.html" target="_blank" class="ico21" title="认证二手车"></a> <a href="http://static.58.com/ui7/help/qtkt.html" target="_blank" class="ico25" title="7天可退"></a> <a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> <a href="http://static.58.com/ui7/help/mfgh.html" target="_blank" class="ico23" title="免费过户"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17741328232322x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img4.58.com/p1/big/n_s12233611830578432096_210_156.jpg" alt="奥迪A6L 2012款 30 FSI 豪华型(2.5L) 2013年上牌" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17741328232322x.shtml" class="at"> 奥迪A6L 2012款 30 FSI 豪华型(2.5L) 2013年上牌</a>
+<p>
+<span class="time">2013年上牌</span> 1万公里
+                    </p>
+<div class="other-service">
+<span class="pri">44.8万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/rzesc.html" target="_blank" class="ico21" title="认证二手车"></a> <a href="http://static.58.com/ui7/help/qtkt.html" target="_blank" class="ico25" title="7天可退"></a> <a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> <a href="http://static.58.com/ui7/help/mfgh.html" target="_blank" class="ico23" title="免费过户"></a> </span>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="area mt10">
+<div class="areatit">
+<h3><i class="ico11"></i>店长推荐</h3>
+</div>
+<div class="area-con">
+<ul class="arealist">
+<li>
+<a href="http://jm.58.com/ershouche/17741328232322x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img4.58.com/p1/big/n_s12233611830578432096_210_156.jpg" alt="奥迪A6L 2012款 30 FSI 豪华型(2.5L) 2013年上牌" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17741328232322x.shtml" class="at"> 奥迪A6L 2012款 30 FSI 豪华型(2.5L) 2013年上牌</a>
+<p>
+<span class="time">2013年上牌</span> 1万公里
+                    </p>
+<div class="other-service">
+<span class="pri">44.8万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/rzesc.html" target="_blank" class="ico21" title="认证二手车"></a> <a href="http://static.58.com/ui7/help/qtkt.html" target="_blank" class="ico25" title="7天可退"></a> <a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> <a href="http://static.58.com/ui7/help/mfgh.html" target="_blank" class="ico23" title="免费过户"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17741433156489x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img5.58.com/p1/big/n_s12233625745507294035_210_156.jpg" alt="奥迪A8L 2013款 45 TFSI quattro舒适型 2013年上牌" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17741433156489x.shtml" class="at"> 奥迪A8L 2013款 45 TFSI quattro舒适型 2013年上牌</a>
+<p>
+<span class="time">2013年上牌</span> 0.15万公里
+                    </p>
+<div class="other-service">
+<span class="pri">73.8万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/rzesc.html" target="_blank" class="ico21" title="认证二手车"></a> <a href="http://static.58.com/ui7/help/qtkt.html" target="_blank" class="ico25" title="7天可退"></a> <a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> <a href="http://static.58.com/ui7/help/mfgh.html" target="_blank" class="ico23" title="免费过户"></a> </span>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="area mt10">
+<div class="areatit">
+<h3><i class="ico12"></i>最热车源</h3><span class="more">共<b>18</b>辆二手车源 <a href="/24231704501234451/information/" target="_blank">查看更多</a></span>
+</div>
+<div class="area-con">
+<ul class="arealist">
+<li>
+<a href="http://jm.58.com/ershouche/17676536250246x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img7.58.com/p1/big/n_s12225318473748593133_210_156.jpg" alt="奥迪A4L 2013款 35 TFSI(2.0T)自动舒适型 2013年上牌" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17676536250246x.shtml" class="at"> 奥迪A4L 2013款 35 TFSI(2.0T)自动舒适型 2013年上牌</a>
+<p>
+<span class="time">2013年上牌</span> 1.8万公里
+                    </p>
+<div class="other-service">
+<span class="pri">29.8万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/qtkt.html" target="_blank" class="ico25" title="7天可退"></a> <a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> <a href="http://static.58.com/ui7/help/mfgh.html" target="_blank" class="ico23" title="免费过户"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17829081523846x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img6.58.com/kp1/big/n_s12244845472926042096_210_156.jpg" alt="本田飞度2004款 1.5MT两厢基本型" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17829081523846x.shtml" class="at"> 本田飞度2004款 1.5MT两厢基本型</a>
+<p>
+<span class="time">2005年上牌</span> 18.10万公里
+                    </p>
+<div class="other-service">
+<span class="pri">5.20万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17828870648455x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img2.58.com/kp1/big/n_s12244818467866572055_210_156.jpg" alt="别克君威2005款 G2.5豪华版" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17828870648455x.shtml" class="at"> 别克君威2005款 G2.5豪华版</a>
+<p>
+<span class="time">2006年上牌</span> 16.50万公里
+                    </p>
+<div class="other-service">
+<span class="pri">4.80万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17828725756421x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img6.58.com/kp1/big/n_s12244799924881471076_210_156.jpg" alt="奥迪Q72006款3.6手自一体豪华型quatt" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17828725756421x.shtml" class="at"> 奥迪Q72006款3.6手自一体豪华型quatt</a>
+<p>
+<span class="time">2008年上牌</span> 13.10万公里
+                    </p>
+<div class="other-service">
+<span class="pri">43.80万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17828663291910x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img1.58.com/kp1/big/n_s12244791940942619116_210_156.jpg" alt="奥迪A6L2012款 30 FSI 豪华型" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17828663291910x.shtml" class="at"> 奥迪A6L2012款 30 FSI 豪华型</a>
+<p>
+<span class="time">2013年上牌</span> 1.00万公里
+                    </p>
+<div class="other-service">
+<span class="pri">44.80万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17828539330826x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img4.58.com/kp1/big/n_s02244776060667926063_210_156.jpg" alt="大众帕萨特2005款1.8T自动基本型天窗版三厢" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17828539330826x.shtml" class="at"> 大众帕萨特2005款1.8T自动基本型天窗版三厢</a>
+<p>
+<span class="time">2006年上牌</span> 6.80万公里
+                    </p>
+<div class="other-service">
+<span class="pri">8.80万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17828362743173x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img1.58.com/kp1/big/n_s12244753461643044064_210_156.jpg" alt="奥迪A72013款50TFSIquattor手自" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17828362743173x.shtml" class="at"> 奥迪A72013款50TFSIquattor手自</a>
+<p>
+<span class="time">2013年上牌</span> 0.80万公里
+                    </p>
+<div class="other-service">
+<span class="pri">68.50万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17828333538185x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img6.58.com/kp1/big/n_s12244749729368399064_210_156.jpg" alt="奥迪A52012款2.0T无级手动一体三厢" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17828333538185x.shtml" class="at"> 奥迪A52012款2.0T无级手动一体三厢</a>
+<p>
+<span class="time">2013年上牌</span> 0.33万公里
+                    </p>
+<div class="other-service">
+<span class="pri">42.80万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17828256367624x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img1.58.com/kp1/big/n_s12244739854829470044_210_156.jpg" alt="奥迪A8L2013款45TFSIquattro手自" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17828256367624x.shtml" class="at"> 奥迪A8L2013款45TFSIquattro手自</a>
+<p>
+<span class="time">2012年上牌</span> 0.40万公里
+                    </p>
+<div class="other-service">
+<span class="pri">69.80万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17827819987331x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img7.58.com/kp1/big/n_s02244683980919289143_210_156.jpg" alt="日产颐达2007款1.6自动时尚三厢" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17827819987331x.shtml" class="at"> 日产颐达2007款1.6自动时尚三厢</a>
+<p>
+<span class="time">2007年上牌</span> 8.30万公里
+                    </p>
+<div class="other-service">
+<span class="pri">6.20万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17817926834307x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img3.58.com/kp1/big/n_s12243511872425299113_210_156.jpg" alt="本田雅阁1999款2.3自动VTi" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17817926834307x.shtml" class="at"> 本田雅阁1999款2.3自动VTi</a>
+<p>
+<span class="time">2000年上牌</span> 18.00万公里
+                    </p>
+<div class="other-service">
+<span class="pri">3.80万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> </span>
+</div>
+</li>
+<li>
+<a href="http://jm.58.com/ershouche/17741433156489x.shtml" target="_blank">
+<div class="g_img"><span>
+<img src="http://img5.58.com/p1/big/n_s12233625745507294035_210_156.jpg" alt="奥迪A8L 2013款 45 TFSI quattro舒适型 2013年上牌" />
+</span></div>
+</a>
+<a href="http://jm.58.com/ershouche/17741433156489x.shtml" class="at"> 奥迪A8L 2013款 45 TFSI quattro舒适型 2013年上牌</a>
+<p>
+<span class="time">2013年上牌</span> 0.15万公里
+                    </p>
+<div class="other-service">
+<span class="pri">73.8万</span>
+<span class="award">
+<a href="http://static.58.com/ui7/help/rzesc.html" target="_blank" class="ico21" title="认证二手车"></a> <a href="http://static.58.com/ui7/help/qtkt.html" target="_blank" class="ico25" title="7天可退"></a> <a href="http://static.58.com/ui7/help/zcsj.html" target="_blank" class="ico22" title="真车实价"></a> <a href="http://static.58.com/ui7/help/mfgh.html" target="_blank" class="ico23" title="免费过户"></a> </span>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="area mt10">
+<div class="areatit">
+<h3><i class="ico15"></i>商家信息</h3><span class="more"><a href="/24231704501234451/introduction/" target="_blank">查看更多</a></span>
+</div>
+<div class="area-con shopmg">
+<ul>
+<li class="lifirst">
+<h3>企业简介</h3>
+<p>
+                        ****************************************************************************************************
+                        <a href="/24231704501234451/introduction/" target="_blank">更多&gt;</a>
+</p>
+</li>
+<li class="lilist">
+<h3>联系方式</h3>
+<dl>
+<dt>
+                            电话：
+                        </dt>
+<dd>
+                            13426768009  <br /> 15876698147                         </dd>
+</dl>
+<dl>
+<dt>
+                            地址：
+                        </dt>
+<dd>
+                            广东省江门市新会区新会大道东8号
+                        </dd>
+</dl>
+<dl>
+<dt>
+                            &nbsp;
+                        </dt>
+<dd>
+<a href="javascript:void(0)" id="smsanchor" class="sendmgbtn">免费发送地址到手机</a>
+<!-- &lt;a href="#" class="sendmgbtn"&gt;免费发送地址到手机&lt;/a&gt; -->
+</dd>
+</dl>
+</li>
+<li class="lilast">
+<div id="mymap" style="width:180px;height:180px;margin:0 auto;"></div>
+<!-- 百度地图-->
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.4"></script>
+<script type="text/javascript">
+		var longitude = "113.071018";
+		var latitude = "22.541561";
+		var pid = "113.071018,22.541561";
+		if((longitude) &lt;= 0 )
+			longitude = 116.403879;
+		if((latitude) &lt;= 0 )
+			latitude = 39.914875;
+		var map = new BMap.Map("mymap");
+		var cpoint = new BMap.Point(longitude, latitude);
+		map.centerAndZoom(cpoint, 14);
+		var marker1 = new BMap.Marker(cpoint);  // 创建标注
+		map.addOverlay(marker1);              // 将标注添加到地图中
+		
+		map.enableScrollWheelZoom();    //启用滚轮放大缩小，默认禁用
+		map.enableContinuousZoom();    //启用地图惯性拖拽，默认禁用
+		//map.addControl(new BMap.NavigationControl());  //添加默认缩放平移控件
+		map.addControl(new BMap.NavigationControl({anchor: BMAP_ANCHOR_BOTTOM_RIGHT, type: BMAP_NAVIGATION_CONTROL_SMALL}));  //右上角，仅包含平移和缩放按钮
+		</script>
+<p id="urlmap" align="center">
+<a title="查看详细地图" href="javascript:setbg('详细地图',760,450,'/mapbar/entMap?uid=21843711437575')">查看详细地图</a><!-- -->
+</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="display: none; position: fixed; width: 1366px; height: 768px;" id="divmask" class="fe_window_mask"></div>
+<div id="fe_window_2569_form" class="fe_window" style="display:none; left: 50%; margin: -182px 0px 0px -255px; top: 45%;">
+<div id="fe_window_2569_outer" class="outer">
+<div style="width: 450px; height: 330px; padding: 8px;" class="frame"></div>
+<div style="width: 450px; height: 330px; top: 8px; left: 8px;" class="contains">
+<div class="topbar" style="height: 34px;">
+<a id="fe_window_2569_closebtn" target="_self" class="closebtn" href="javascript:void(0);"></a><span id="fe_window_2569_title" class="title" style="">免费发布到手机 - 店铺资料</span>
+</div>
+<div id="m">
+<div class="p1">
+                            以下内容将以免费短信的方式发送到您指定的手机：
+                        </div>
+<div class="cinfo">
+<div class="spt1"></div><div class="spt2"></div>
+<div class="cinfo_n">
+<p class="cnamef">
+<label id="lbname">江门市合宏汽车销售服务有限公司</label>
+</p>
+<p>商家电话：<label id="lbtel"> 13426768009   &nbsp;/&nbsp; 15876698147  </label></p> <p>
+                                    地址：<label id="lbaddress">广东省江门市新会区新会大道东8号</label>
+</p>
+</div>
+<div class="spt1"></div><div class="spt2"></div>
+</div>
+<div class="form">
+<table width="310" border="0" align="center" cellpadding="0" cellspacing="3">
+<tr>
+<td class="greyf" style="width: 19%">手机号：</td>
+<td><label>
+<input name="txtMobile" type="text" maxlength="11" id="txtMobile" style="width: 130px" />
+</label></td>
+</tr>
+<tr>
+<td class="greyf">验证码：</td>
+<td>
+<input name="txtCode" type="text" id="txtCode" style="width:42px;" />
+                                    &nbsp;<img id="imgValidate" src="http://shop.58.com/qt/validatecode/" style="border-width:0px;" /></td>
+</tr>
+<tr>
+<td class="greyf">&nbsp;</td>
+<td>
+<input id="sendsms" pid="2902" type="button" value="发 送" class="fasong" />
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="baozhang mt10">
+<div class="wrap">
+<a target="_blank" href="http://static.58.com/ui7/help/chengnuoshu.html" class="cx" title="诚信车商"></a><a target="_blank" href="http://static.58.com/ui7/help/zcsj.html" title="真实车价" class="true"></a><a target="_blank" href="http://static.58.com/ui7/help/mfgh.html" title="部分车源，免费过户" class="guohu"></a><a target="_blank" href="http://static.58.com/ui7/help/qtkt.html" title="退货" class="tuihuo"></a>
+</div>
+</div>
+<div class="footer">
+<a target="_blank" href="http://vip.58.com/">管理网站</a>    |    <a target="_blank" href="http://shop.58.com/dutyfree.html">免责声明</a>    |    <a>Powered by 网邻通</a>
+<p><a target="_blank" href="http://static.58.com/ui7/help/chengnuoshu.html">诚信车商承诺书</a>  若该车商未履行诚信车商承诺,消费者可向58客服投诉 投诉电话:400-755-5858</p></div>
+<!--客服开始-->
+<script type="text/javascript" src="http://shop.58.com/minjs/share-min.js"></script>
+<div class="ser_online BBIM" id="kefu" callback="IMState_Honestcar">
+<a href="javascript:void(0)" id="kefu_a" iddata="24231704501234451" titledata="江门市合宏汽车销售服务有限公司" shopuserid="21843711437575">
+<h3><img id="kefutx" src="http://pic2.58.com/n/shop/car/img/talk_on.gif" width="26" height="27" alt="客服头像" /></h3>
+</a><p>您好！江门市合宏汽车销售服务有限公司 很高兴为您服务！</p>
+<div class="cow"></div>
+<span class="ser_btn_on"><img id="kefusta" src="http://pic2.58.com/n/shop/car/img/online.jpg" width="105" height="24" alt="在线交谈" /></span>
+
+</div>
+<!--客服结束-->
+<!--by周正-->
+<input type="hidden" id="shopId" value="24231704501234451" />
+<input type="hidden" id="entName" value="江门市合宏汽车销售服务有限公司" />
+<input type="hidden" id="uavalues" name="uavalues" value="shopid:24231704501234451;productid:0" />
+<script type="text/javascript" src="http://pic2.58.com/js/carused/ershoucheshop.js"></script>
+<input type="hidden" id="uavalues" name="uavalues" value="shopid:24231704501234451;productid:0" />
+<div style="display:none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F4ba549142460c9e5c665c93a23052ed2' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript"> 
+//20140102;
+var post_count = "0",page_type = "shop";
+var _trackURL = "{'cate':'4,29','area':'629','pagetype':'shop','page':'shopindex','shopid':'24231704501234451'}";
+var _gaq = _gaq || []; var site_name = "58"; 
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']); 
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']); 
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+_gaq.push(['pageTracker._addOrganic', '360', 'q']);
+_gaq.push(['pageTracker._trackPageview' ,'/jm/dershouche/ershouche/shop/shopindex']);
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+</script>
+<!-- 商业数据分析统计脚本----------begin----------- add by liuft -->
+<script>
+var _hl = _hl || [];
+_hl.push(['_setLRSM']);
+_hl.push(['_setLGP', 'http://shop.t.58.com/image/collectlog.gif']);
+_hl.push(['_setDomainName', '.58.com']);
+_hl.push(['_tp']);
+</script>
+<script src="http://tracklog.58.com/referrer4.js" type="text/javascript"></script>
+<script src="http://shop.58.com//js/ualog-min.js" type="text/javascript"></script>
+<!-- 商业数据分析统计脚本----------end----------- add by liuft -->
+</div>
+<!--script type="text/javascript" src="http://track.58.com/referrer2.js"&gt;&lt;/script-->
+<!--footer--><script src="http://static.58.com/bangbang/webim2/interface.js" type="text/javascript"></script>
+<script src="http://shop.58.com/js/shenghuofuwu/honestcar/ShopBase.js" type="text/javascript"></script>
+<script type="text/javascript">
+            function IMState_Honestcar(status) {
+                if (status == 0) {
+                    $("#kefutx").attr("src", "http://pic2.58.com/n/shop/car/img/talk_off.gif");
+                    $("#kefusta").attr("src", "http://pic2.58.com/n/shop/car/img/offbtn.jpg");
+                }
+            }
+
+            $(function() {
+                formatRecTitHeight();
+                // setCurrentMenuTab();
+                //设置当前菜单选项卡
+                $(window).scroll(function() {
+                    $("#kefu").stop();
+                    var hy = (document.documentElement.scrollTop || document.body.scrollTop) + 230;
+                    var topv = hy + 'px';
+                    $("#kefu").css("top", topv);
+                });
+            });
+            
+
+            /**
+             * 设置推荐模块标题的高度
+             */
+            function formatRecTitHeight() {
+                var tits = $(".rec_tit");
+                for (var i = tits.length - 1; i &gt;= 0; i--) {
+                    var h = $(tits[i]).height();
+                    if (h &gt; 36) {
+                        $(tits[i]).height(36);
+                        $(tits[i]).css("overflow", "hidden");
+                    }
+                }
+            }
+        </script>
+<script type="text/javascript" src="http://shop.58.com/js/car/jsbase.js"></script>
+</body>
+</html>

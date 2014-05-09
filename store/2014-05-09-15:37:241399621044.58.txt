@@ -1,0 +1,1367 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【奥迪品荐二手雪铁龙|奥迪品荐雪铁龙汽车价格】-58同城</title>
+<meta name="keywords" content="奥迪品荐二手雪铁龙，奥迪品荐雪铁龙汽车价格" />
+<meta name="description" content="58同城奥迪品荐二手雪铁龙频道为您提供大量奥迪品荐汽车价格信息，是经过厂商严格审核的奥迪品荐二手雪铁龙信息，是您网上选购二手雪铁龙的最佳选择。" />
+<link rel="stylesheet" href="http://static.58.com/ui7/car/aodi/aodi.css" type="text/css" />
+</head>
+<body>
+<div class="headercon">
+<div id="topbar">
+<div class="topcon">
+<ul>
+<li><a href="javascript:brandZoneNamespace.addBookmark();">收藏本专区</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com">58首页</a><span class="gap">|</span></li>
+<li><a target="_blank" href="http://hk.58.com/ershouche/">58二手车</a></li>
+</ul>
+</div>
+</div>
+<div class="header">
+<a href="/" class="logo"><img src="http://pic2.58.com/ui7/car/aodi/logo.png" alt="一汽-大众" width="79" height="16" /></a>
+<ul class="navlist"><!--导航条-->
+<li><a href="/">首页</a></li>
+<li><a href="/jieshao/">关于奥迪品荐</a></li>
+<li><a href="/fuwu/">奥迪品荐服务</a></li>
+<li><a href="/news/">奥迪品荐动态</a></li>
+<li><a href="/ershouche/" class="hover">二手车搜索</a></li>
+<li><a href="/shangjia/">经销商查询</a></li>
+</ul>
+<div class="audi"><a href="/"><img src="http://pic2.58.com/ui7/car/aodi/audi.png" width="143" height="20" alt="突破科技，启迪未来" /></a></div>
+</div>
+</div> <div class="dealerwrap">
+<div class="wrap">
+<div class="selection">
+<dl class="secitem01">
+<dt class="secitem_brand">所在地：</dt>
+<dd>
+<div class="obj-wrapper mr8">
+<div id="dealer-province" class="obj-cate-div">
+<span id="curr-province">选择省份</span>
+</div>
+</div>
+<div class="obj-wrapper">
+<div id="dealer-city" class="obj-cate-div">
+<span id="curr-city">选择城市</span>
+</div>
+</div>
+<input id="carListJinPin" type="hidden" />
+<input id="dealer-search" class="submitbtn" type="button" value="确定" />
+<span id="dealer-meg" class="dealermeg"></span>
+</dd>
+</dl>
+<div class="audidiv">
+<!-- 奥迪 begin  -->
+<dl class="secitem audisection">
+<dt class="secitem_brand">奥迪：&nbsp;&nbsp;&nbsp;&nbsp;</dt>
+<dd id="audi_chexi">
+<a href="http://audi.58.com/aliul/">A6L</a>
+<a href="http://audi.58.com/aodialiu/">A6</a>
+<a href="http://audi.58.com/asil/">A4L</a>
+<a href="http://audi.58.com/aodiqqi/">Q7</a>
+<a href="http://audi.58.com/aodiasi/">A4</a>
+<a href="http://audi.58.com/adabl/">A8L</a>
+<a href="http://audi.58.com/adqw/">Q5</a>
+<a href="http://audi.58.com/aoditt/">TT</a>
+<a href="http://audi.58.com/aodiyibai/">奥迪100</a>
+<a href="http://audi.58.com/aodiawu/">A5</a>
+<a href="http://audi.58.com/aodilb/">奥迪200</a>
+<a href="http://audi.58.com/aodirba/">R8</a>
+<a href="http://audi.58.com/adaljk/">A6(进口)</a>
+<a href="http://audi.58.com/aodiasan/">A3</a>
+<a href="http://audi.58.com/adqwjk/">Q5(进口)</a>
+<a href="http://audi.58.com/aqiqc/">A7</a>
+<a href="http://audi.58.com/aodiswu/">S5</a>
+<a href="http://audi.58.com/qsanqc/">Q3(进口)</a>
+<a href="http://audi.58.com/ayiqc/">A1</a>
+<a href="http://audi.58.com/aodiqsan/">Q3</a>
+<a href="http://audi.58.com/adasjk/">A4(进口)</a>
+</dd>
+</dl>
+<!-- 奥迪end -->
+<dl class="secitem">
+<dt class="secitem_brand">类型：</dt>
+<dd>
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a href="http://audi.58.com/jingjijiaoche/">轿车</a>
+<a href="http://audi.58.com/yeuyeche/">越野车/SUV</a>
+<a href="http://audi.58.com/mpv/">MPV</a>
+<a href="http://audi.58.com/paoche/">跑车</a>
+<a href="http://audi.58.com/keche/">客车</a>
+<a href="http://audi.58.com/mianbaoche/">面包车</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">品牌：</dt>
+<dd class="clearfix">
+<a href="http://audi.58.com/ershouche/">不限</a>
+<a class="select" href="http://audi.58.com/xuetielong/">雪铁龙</a>
+<a href="http://audi.58.com/aodi/">奥迪</a>
+<a href="http://audi.58.com/dazhong/">大众</a>
+<a href="http://audi.58.com/bentian/">本田</a>
+<a href="http://audi.58.com/bieke/">别克</a>
+<a href="http://audi.58.com/fengtian/">丰田</a>
+<a href="http://audi.58.com/xiali/">夏利</a>
+<a href="http://audi.58.com/richan/">日产</a>
+<a href="http://audi.58.com/qirui/">奇瑞</a>
+<a href="http://audi.58.com/baoma/">宝马</a>
+<a href="http://audi.58.com/xiandai/">现代</a>
+<a href="http://audi.58.com/mazida/">马自达</a>
+<a href="http://audi.58.com/futianche/">福田</a>
+<a href="http://audi.58.com/biyadi/">比亚迪</a>
+<a href="http://audi.58.com/lingmu/">铃木</a>
+<a href="http://audi.58.com/jili/">吉利</a>
+<a href="http://audi.58.com/benchi/">奔驰</a>
+<a href="http://audi.58.com/changanche/">长安</a>
+<a href="http://audi.58.com/fute/">福特</a>
+<a href="http://audi.58.com/xuefulan/">雪佛兰</a>
+<a id="moreBrand" name="b_link" para="custom" cl="" href="javascript:void(0)">更多<i class="bak_i_down"></i>
+<!-- &lt;i class="bak_i"&gt;&lt;/i&gt; --></a>
+<div id="moreBrandContainer" class="morepinpai">
+<br /> <a href="http://audi.58.com/jinbei/">金杯</a>
+<a href="http://audi.58.com/qiya/">起亚</a>
+<a href="http://audi.58.com/jianghuai/">江淮</a>
+<a href="http://audi.58.com/biaozhi/">标致</a>
+<a href="http://audi.58.com/jeep/">吉普</a>
+<a href="http://audi.58.com/yiqi/">一汽</a>
+<a href="http://audi.58.com/zhonghua/">中华</a>
+<a href="http://audi.58.com/jinlong/">金龙</a>
+<a href="http://audi.58.com/hafei/">哈飞</a>
+<a href="http://audi.58.com/feiyate/">菲亚特</a>
+<a href="http://audi.58.com/haima/">海马</a>
+<a href="http://audi.58.com/dadi/">长城</a>
+<a href="http://audi.58.com/leikesasi/">雷克萨斯</a>
+<a href="http://audi.58.com/rongwei/">荣威</a>
+<a href="http://audi.58.com/sanling/">三菱</a>
+<a href="http://audi.58.com/sikeda/">斯柯达</a>
+<a href="http://audi.58.com/luhu/">路虎</a>
+<a href="http://audi.58.com/woerwo/">沃尔沃</a>
+<a href="http://audi.58.com/baoshijie/">保时捷</a>
+<a href="http://audi.58.com/baicmotor/">北汽</a>
+<a href="http://audi.58.com/kaidilake/">凯迪拉克</a>
+<a href="http://audi.58.com/minicar/">MINI</a>
+<a href="http://audi.58.com/hongqiche/">红旗</a>
+<a href="http://audi.58.com/benteng/">奔腾</a>
+<a href="http://audi.58.com/lifanc/">力帆</a>
+<a href="http://audi.58.com/oubao/">欧宝</a>
+<a href="http://audi.58.com/cfqc/">长丰</a>
+<a href="http://audi.58.com/dihaoc/">帝豪</a>
+<a href="http://audi.58.com/daoqi/">道奇</a>
+<a href="http://audi.58.com/fengxing/">风行</a>
+<a href="http://audi.58.com/oulangcar/">欧朗</a>
+<a href="http://audi.58.com/qqy/">全球鹰</a>
+<a href="http://audi.58.com/ruiqi/">瑞麒</a>
+<a href="http://audi.58.com/subaru/">斯巴鲁</a>
+<a href="http://audi.58.com/mgc/">MG</a>
+<a href="http://audi.58.com/huatai/">华泰</a>
+<a href="http://audi.58.com/yfnd/">英菲尼迪</a>
+<a href="http://audi.58.com/jiebao/">捷豹</a>
+<a href="http://audi.58.com/dffs/">东风风神</a>
+<a href="http://audi.58.com/xinkai/">新凯</a>
+<a href="http://audi.58.com/yinglun/">英伦</a>
+<a href="http://audi.58.com/zhongtai/">众泰</a>
+<a href="http://audi.58.com/sabo/">萨博</a>
+<a href="http://audi.58.com/lnc/">雷诺</a>
+<a href="http://audi.58.com/nqxyt/">南汽新雅途</a>
+<a href="http://audi.58.com/yyfd/">永源</a>
+<a href="http://audi.58.com/shuanglong/">双龙</a>
+<a href="http://audi.58.com/smartc/">精灵smart</a>
+<a href="http://audi.58.com/ouge/">讴歌</a>
+<a href="http://audi.58.com/linian/">理念</a>
+</div>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">车系：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/xuetielong/">不限</a>
+<a href="http://audi.58.com/ailishe/">爱丽舍</a>
+<a href="http://audi.58.com/fukang/">富康</a>
+<a href="http://audi.58.com/sjsx/">世嘉三厢</a>
+<a href="http://audi.58.com/xuecer/">C2</a>
+<a href="http://audi.58.com/xuekaixuan/">凯旋</a>
+<a href="http://audi.58.com/sjlx/">世嘉两厢</a>
+<a href="http://audi.58.com/xuecwu/">C5</a>
+<a href="http://audi.58.com/bijiasuo/">毕加索</a>
+</dd>
+</dl>
+<dl class="secitem">
+<dt class="secitem_brand">价格：</dt>
+<dd>
+<a class="select" href="http://audi.58.com/ershouche/">不限</a> <a target="_self" href="http://audi.58.com/xuetielong/pve_5864_0_1/">1万以内</a>
+<a target="_self" href="http://audi.58.com/xuetielong/pve_5864_1_2/">1-2万</a>
+<a target="_self" href="http://audi.58.com/xuetielong/pve_5864_2_3/">2-3万</a>
+<a target="_self" href="http://audi.58.com/xuetielong/pve_5864_3_4/">3-4万</a>
+<a target="_self" href="http://audi.58.com/xuetielong/pve_5864_4_5/">4-5万</a>
+<a target="_self" href="http://audi.58.com/xuetielong/pve_5864_5_6/">5-6万</a>
+<a target="_self" href="http://audi.58.com/xuetielong/pve_5864_6_999999/">6万以上</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="listcon">
+<div class="list-tit">
+<h3>
+<!--共找到&lt;b&gt;35&lt;/b&gt; 辆车源 -->
+<span class="rz"><label for="checkbox"><input type="checkbox" id="checkbox" class="checkbox" />奥迪认证车</label></span>
+</h3>
+<div class="list-r">
+<span class="pagenow"><b>1</b>/1</span>
+<span class="qiehuan"> <a href=" javascript:void(0)" class="pre gray"></a> <a href=" javascript:void(0)" class="next gray"></a>
+</span> </div>
+</div>
+<div class="area-con01">
+<ul class="arealist">
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17868475216646x.shtml" target="_blank">
+<img title="雪铁龙C52011款2.3L手自一体尊驭型三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12249887897340134065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17868475216646x.shtml" title="雪铁龙C52011款2.3L手自一体尊驭型三厢-诚信之品，专业之荐" target="_blank">雪铁龙C52011款2.3L手自一体尊驭型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										9.18万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 11.70<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京中润发汽车销售有限公司" href="http://shop.58.com/24063784337909524/">北京中润发汽车销售有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17861561338755x.shtml" target="_blank">
+<img title="雪铁龙爱丽舍2000款1.6手动SX三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12249002887529507035.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17861561338755x.shtml" title="雪铁龙爱丽舍2000款1.6手动SX三厢-诚信之品，专业之荐" target="_blank">雪铁龙爱丽舍2000款1.6手动SX三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2004年上牌 </span><span class="gap">|</span>
+										15.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 1.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京华阳奥通汽车有限公司" href="http://shop.58.com/24058481294125588/">北京华阳奥通汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17861281359494x.shtml" target="_blank">
+<img title="雪铁龙凯旋2008款2自动尊贵型三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12248967082706392023.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17861281359494x.shtml" title="雪铁龙凯旋2008款2自动尊贵型三厢-诚信之品，专业之荐" target="_blank">雪铁龙凯旋2008款2自动尊贵型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										9.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.70<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海开隆汽车贸易有限公司" href="http://shop.58.com/24056299481881919/">上海开隆汽车贸易有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hd.58.com/ershouche/17857843514626x.shtml" target="_blank">
+<img title="雪铁龙世嘉两厢 2011款 1.6 手动悦雅型-无任何事故,成色很新" src="http://1.pic.58control.cn/p1/small/n_s12248518945326571056.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hd.58.com/ershouche/17857843514626x.shtml" title="雪铁龙世嘉两厢 2011款 1.6 手动悦雅型-无任何事故,成色很新" target="_blank">雪铁龙世嘉两厢 2011款 1.6 手动悦雅型-无任何事故,成色很新</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										5.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.8<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="邯郸市宝驰雅迪汽车销售服务有限公司" href="http://shop.58.com/26250678414966591/">邯郸市宝驰雅迪汽车销售服…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">邯郸</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17857854814728x.shtml" target="_blank">
+<img title="雪铁龙富康2004款1.6手动新浪潮AXCA两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12248528457597212004.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17857854814728x.shtml" title="雪铁龙富康2004款1.6手动新浪潮AXCA两厢-诚信之品，专业之荐" target="_blank">雪铁龙富康2004款1.6手动新浪潮AXCA两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2004年上牌 </span><span class="gap">|</span>
+										15.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 2.20<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京华阳奥通汽车有限公司" href="http://shop.58.com/24058481294125588/">北京华阳奥通汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wf.58.com/ershouche/17850500076682x.shtml" target="_blank">
+<img title="雪铁龙富康2005款1.6手动8V两厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12247587056322111046.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wf.58.com/ershouche/17850500076682x.shtml" title="雪铁龙富康2005款1.6手动8V两厢-诚信之品，专业之荐" target="_blank">雪铁龙富康2005款1.6手动8V两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										14.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 2.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="潍坊广华汽车销售服务有限公司" href="http://shop.58.com/24056458924113172/">潍坊广华汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">潍坊</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17848655046918x.shtml" target="_blank">
+<img title="雪铁龙凯旋2006款2自动尊贵型三厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12247350884369762043.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17848655046918x.shtml" title="雪铁龙凯旋2006款2自动尊贵型三厢-诚信之品，专业之荐" target="_blank">雪铁龙凯旋2006款2自动尊贵型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										20.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京正德永成汽车贸易服务有限公司" href="http://shop.58.com/24061817907357247/">北京正德永成汽车贸易服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://ny.58.com/ershouche/17840096154630x.shtml" target="_blank">
+<img title="雪铁龙世嘉两厢 2008款1.6手动时尚型两厢 2009年上牌-诚信之品,专业之荐" src="http://2.pic.58control.cn/kp1/small/n_s12246255332279262005.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://ny.58.com/ershouche/17840096154630x.shtml" title="雪铁龙世嘉两厢 2008款1.6手动时尚型两厢 2009年上牌-诚信之品,专业之荐" target="_blank">雪铁龙世嘉两厢 2008款1.6手动时尚型两厢 2009年上牌-诚信之品,专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										5.09万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.38<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="南阳赢嘉汽车销售服务有限公司" href="http://shop.58.com/24060279241014036/">南阳赢嘉汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://yancheng.58.com/ershouche/17839058351369x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢2009款2手动舒适型三廂-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12246122485645401006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://yancheng.58.com/ershouche/17839058351369x.shtml" title="雪铁龙世嘉三厢2009款2手动舒适型三廂-诚信之品，专业之荐" target="_blank">雪铁龙世嘉三厢2009款2手动舒适型三廂-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										9.45万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="江苏森风怀德汽车有限公司" href="http://shop.58.com/24055514627847956/">江苏森风怀德汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">盐城</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://su.58.com/ershouche/17838290455048x.shtml" target="_blank">
+<img title="雪铁龙C2VTS2006款1.4手动SX两厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12246024010630691053.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://su.58.com/ershouche/17838290455048x.shtml" title="雪铁龙C2VTS2006款1.4手动SX两厢-诚信之品，专业之荐" target="_blank">雪铁龙C2VTS2006款1.4手动SX两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										11.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.10<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="苏州国兴汽车服务有限公司" href="http://shop.58.com/24060246610326036/">苏州国兴汽车服务有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">苏州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://su.58.com/ershouche/17838076170376x.shtml" target="_blank">
+<img title="雪铁龙C2 2007款 VTS 1.4 SX MT-国兴奥迪5S店精品二手车之C2" src="http://3.pic.58control.cn/p1/small/n_s12245989098588646086.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://su.58.com/ershouche/17838076170376x.shtml" title="雪铁龙C2 2007款 VTS 1.4 SX MT-国兴奥迪5S店精品二手车之C2" target="_blank">雪铁龙C2 2007款 VTS 1.4 SX MT-国兴奥迪5S店精品二手车之C2</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										11万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.1<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="苏州国兴汽车服务有限公司" href="http://shop.58.com/24060246610326036/">苏州国兴汽车服务有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">苏州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17837141669505x.shtml" target="_blank">
+<img title="雪铁龙爱丽舍2008款1.6手动标准型三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s02245877026099627153.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17837141669505x.shtml" title="雪铁龙爱丽舍2008款1.6手动标准型三厢-诚信之品，专业之荐" target="_blank">雪铁龙爱丽舍2008款1.6手动标准型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										5.70万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京天润汽车贸易服务有限公司" href="http://shop.58.com/24063855449984788/">北京天润汽车贸易服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://deyang.58.com/ershouche/17836867836296x.shtml" target="_blank">
+<img title="雪铁龙世嘉两厢2010款1.6手自一体炫雅型两厢-诚信之品，专业之荐" src="http://4.pic.58control.cn/kp1/small/n_s12245842132209630136.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://deyang.58.com/ershouche/17836867836296x.shtml" title="雪铁龙世嘉两厢2010款1.6手自一体炫雅型两厢-诚信之品，专业之荐" target="_blank">雪铁龙世嘉两厢2010款1.6手自一体炫雅型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										3.23万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="德阳华星万路汽车销售服务有限公司" href="http://shop.58.com/24055640397549588/">德阳华星万路汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">德阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://tj.58.com/ershouche/17835738013953x.shtml" target="_blank">
+<img title="雪铁龙C22012款1.4L手动运动型两厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12245697465224285096.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://tj.58.com/ershouche/17835738013953x.shtml" title="雪铁龙C22012款1.4L手动运动型两厢-诚信之品，专业之荐" target="_blank">雪铁龙C22012款1.4L手动运动型两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2013年上牌 </span><span class="gap">|</span>
+										1.46万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="天津港保税区捷丰国际贸易有限公司" href="http://shop.58.com/24061470913824788/">天津港保税区捷丰国际贸易…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">天津</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hf.58.com/ershouche/17829173431173x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢2010款1.6手自一体时尚型三厢-诚信之品，专业之荐" src="http://1.pic.58control.cn/kp1/small/n_s12244857232739659123.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hf.58.com/ershouche/17829173431173x.shtml" title="雪铁龙世嘉三厢2010款1.6手自一体时尚型三厢-诚信之品，专业之荐" target="_blank">雪铁龙世嘉三厢2010款1.6手自一体时尚型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										8.56万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="安徽得佳汽车销售有限公司" href="http://shop.58.com/24054072804228372/">安徽得佳汽车销售有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">合肥</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hf.58.com/ershouche/17828834754056x.shtml" target="_blank">
+<img title="雪铁龙凯旋2006款2手动精英型三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244813887768154055.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hf.58.com/ershouche/17828834754056x.shtml" title="雪铁龙凯旋2006款2手动精英型三厢-诚信之品，专业之荐" target="_blank">雪铁龙凯旋2006款2手动精英型三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										15.75万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.90<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="安徽安迪汽车有限公司" href="http://shop.58.com/24052910601550399/">安徽安迪汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">合肥</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sx.58.com/ershouche/17828197971465x.shtml" target="_blank">
+<img title="雪铁龙C2VTS2006款1.4手动SX两厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12244732365769419086.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sx.58.com/ershouche/17828197971465x.shtml" title="雪铁龙C2VTS2006款1.4手动SX两厢-诚信之品，专业之荐" target="_blank">雪铁龙C2VTS2006款1.4手动SX两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										15.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="浙江绍兴联奥汽车销售服务有限公司" href="http://shop.58.com/24056310195400468/">浙江绍兴联奥汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">绍兴</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://ny.58.com/ershouche/17828040575747x.shtml" target="_blank">
+<img title="雪铁龙世嘉两厢 2008款 1.6手动时尚型-车况佳" src="http://3.pic.58control.cn/p1/small/n_s12244711720243034135.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://ny.58.com/ershouche/17828040575747x.shtml" title="雪铁龙世嘉两厢 2008款 1.6手动时尚型-车况佳" target="_blank">雪铁龙世嘉两厢 2008款 1.6手动时尚型-车况佳</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2009年上牌 </span><span class="gap">|</span>
+										5.1万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.38<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="南阳赢嘉汽车销售服务有限公司" href="http://shop.58.com/24060279241014036/">南阳赢嘉汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南阳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://cz.58.com/ershouche/17827826248577x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢2011款1.6L手自一体三厢冠军版-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s02244684775541446093.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://cz.58.com/ershouche/17827826248577x.shtml" title="雪铁龙世嘉三厢2011款1.6L手自一体三厢冠军版-诚信之品，专业之荐" target="_blank">雪铁龙世嘉三厢2011款1.6L手自一体三厢冠军版-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										5.00万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.00<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="常州新奥汽车销售有限公司" href="http://shop.58.com/24063732539892755/">常州新奥汽车销售有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">常州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sz.58.com/ershouche/17817947863816x.shtml" target="_blank">
+<img title="雪铁龙毕加索2001款2手自一体两厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12243420350909603116.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sz.58.com/ershouche/17817947863816x.shtml" title="雪铁龙毕加索2001款2手自一体两厢-诚信之品，专业之荐" target="_blank">雪铁龙毕加索2001款2手自一体两厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2002年上牌 </span><span class="gap">|</span>
+										22.10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.80<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="深圳市奥德汽车贸易有限公司" href="http://shop.58.com/24053146509594387/">深圳市奥德汽车贸易有限公…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">深圳</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://cz.58.com/ershouche/17817986512773x.shtml" target="_blank">
+<img title="雪铁龙爱丽舍2005款1.6自动16V天窗版三厢-诚信之品，专业之荐" src="http://3.pic.58control.cn/kp1/small/n_s12243425169866967006.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://cz.58.com/ershouche/17817986512773x.shtml" title="雪铁龙爱丽舍2005款1.6自动16V天窗版三厢-诚信之品，专业之荐" target="_blank">雪铁龙爱丽舍2005款1.6自动16V天窗版三厢-诚信之品，专业之荐</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2006年上牌 </span><span class="gap">|</span>
+										5.50万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.50<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="常州新奥汽车销售有限公司" href="http://shop.58.com/24063732539892755/">常州新奥汽车销售有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">常州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xa.58.com/ershouche/17782440446211x.shtml" target="_blank">
+<img title="雪铁龙富康 2002款 1.4RT-新丰泰博奥【奥迪品荐二手车】" src="http://2.pic.58control.cn/p1/small/n_s12238874329842572024.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xa.58.com/ershouche/17782440446211x.shtml" title="雪铁龙富康 2002款 1.4RT-新丰泰博奥【奥迪品荐二手车】" target="_blank">雪铁龙富康 2002款 1.4RT-新丰泰博奥【奥迪品荐二手车】</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2002年上牌 </span><span class="gap">|</span>
+										20.52万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 1.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="陕西新丰泰博奥汽车有限责任公司" href="http://shop.58.com/24231174431519763/">陕西新丰泰博奥汽车有限责…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">西安</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://cz.58.com/ershouche/17780400589833x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢 2009款 1.6 自动时尚型-" src="http://4.pic.58control.cn/p1/small/n_s12238612353369899065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://cz.58.com/ershouche/17780400589833x.shtml" title="雪铁龙世嘉三厢 2009款 1.6 自动时尚型" target="_blank">雪铁龙世嘉三厢 2009款 1.6 自动时尚型</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										5万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="常州新奥汽车销售有限公司" href="http://shop.58.com/24063732539892755/">常州新奥汽车销售有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">常州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wx.58.com/ershouche/17772809484167x.shtml" target="_blank">
+<img title="雪铁龙凯旋 2008款 2.0 自动旗舰型-德尔奥迪品荐二手车" src="http://4.pic.58control.cn/p1/small/n_s12237641940599216004.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wx.58.com/ershouche/17772809484167x.shtml" title="雪铁龙凯旋 2008款 2.0 自动旗舰型-德尔奥迪品荐二手车" target="_blank">雪铁龙凯旋 2008款 2.0 自动旗舰型-德尔奥迪品荐二手车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2008年上牌 </span><span class="gap">|</span>
+										10万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.8<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="无锡德尔汽车有限公司" href="http://shop.58.com/24232372459016468/">无锡德尔汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">无锡</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://jn.58.com/ershouche/17769499551746x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢 2009款 1.6 手动时尚型-济南银座奥迪 品鉴二手车" src="http://4.pic.58control.cn/p1/small/n_s02230198550597637146.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://jn.58.com/ershouche/17769499551746x.shtml" title="雪铁龙世嘉三厢 2009款 1.6 手动时尚型-济南银座奥迪 品鉴二手车" target="_blank">雪铁龙世嘉三厢 2009款 1.6 手动时尚型-济南银座奥迪 品鉴二手车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4.36万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.7<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="山东银座天尊汽车有限公司" href="http://shop.58.com/24059565057321791/">山东银座天尊汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">济南</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hz.58.com/ershouche/17713945829765x.shtml" target="_blank">
+<img title="雪铁龙凯旋 2006款 2.0 手动精英型-" src="http://4.pic.58control.cn/p1/small/n_s12230117165927372116.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hz.58.com/ershouche/17713945829765x.shtml" title="雪铁龙凯旋 2006款 2.0 手动精英型" target="_blank">雪铁龙凯旋 2006款 2.0 手动精英型</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2007年上牌 </span><span class="gap">|</span>
+										9.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 4.2<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="浙江百得利汽车有限公司" href="http://shop.58.com/24063499711419923/">浙江百得利汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">杭州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://sh.58.com/ershouche/17703862542209x.shtml" target="_blank">
+<img title="雪铁龙C5 2012款 2.0L 手自一体 尊享型 2012年上牌-雪铁龙 C5 2012年 2.0L 手自一体 尊享型" src="http://3.pic.58control.cn/p1/small/n_s12228817276897593065.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://sh.58.com/ershouche/17703862542209x.shtml" title="雪铁龙C5 2012款 2.0L 手自一体 尊享型 2012年上牌-雪铁龙 C5 2012年 2.0L 手自一体 尊享型" target="_blank">雪铁龙C5 2012款 2.0L 手自一体 尊享型 2012年上牌-雪铁龙 C5 2012年 2.0L 手自一体 尊享型</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2012年上牌 </span><span class="gap">|</span>
+										5.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 12<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="上海东联松奥汽车销售服务有限公司" href="http://shop.58.com/24059458603273492/">上海东联松奥汽车销售服务…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">上海</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17684396850050x.shtml" target="_blank">
+<img title="雪铁龙爱丽舍 2005款 1.6 X手动档-" src="http://4.pic.58control.cn/p1/small/n_s02226325002783098095.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17684396850050x.shtml" title="雪铁龙爱丽舍 2005款 1.6 X手动档" target="_blank">雪铁龙爱丽舍 2005款 1.6 X手动档</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2005年上牌 </span><span class="gap">|</span>
+										16万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 3.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京华阳奥通汽车有限公司" href="http://shop.58.com/24058481294125588/">北京华阳奥通汽车有限公司</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://wh.58.com/ershouche/17683805514885x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢 2009款 1.6L 手自一体 时尚型 2010年上牌-雪铁龙 世嘉三厢 2009年 1.6L 手自一体 时尚型" src="http://3.pic.58control.cn/p1/small/n_s12226250038463956123.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://wh.58.com/ershouche/17683805514885x.shtml" title="雪铁龙世嘉三厢 2009款 1.6L 手自一体 时尚型 2010年上牌-雪铁龙 世嘉三厢 2009年 1.6L 手自一体 时尚型" target="_blank">雪铁龙世嘉三厢 2009款 1.6L 手自一体 时尚型 2010年上牌-雪铁龙 世嘉三厢 2009年 1.6L 手自一体 时尚型</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										5.1万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.98<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="湖北奥泽汽车销售服务有限公司" href="http://shop.58.com/24059040747599935/">湖北奥泽汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">武汉</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://bj.58.com/ershouche/17680972334216x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢 2011款 2.0 手动锐尚型-自家用车,内饰为黑色" src="http://1.pic.58control.cn/p1/small/n_s12225885124805303005.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://bj.58.com/ershouche/17680972334216x.shtml" title="雪铁龙世嘉三厢 2011款 2.0 手动锐尚型-自家用车,内饰为黑色" target="_blank">雪铁龙世嘉三厢 2011款 2.0 手动锐尚型-自家用车,内饰为黑色</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										4万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 7.5<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="北京联拓奥通汽车贸易有限责任公司" href="http://shop.58.com/24055339692319508/">北京联拓奥通汽车贸易有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">北京</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://heze.58.com/ershouche/17670112812419x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢 2009款 1.6 自动时尚型-菏泽世泰奥迪品鉴二手车" src="http://3.pic.58control.cn/p1/small/n_s02224496910796962064.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://heze.58.com/ershouche/17670112812419x.shtml" title="雪铁龙世嘉三厢 2009款 1.6 自动时尚型-菏泽世泰奥迪品鉴二手车" target="_blank">雪铁龙世嘉三厢 2009款 1.6 自动时尚型-菏泽世泰奥迪品鉴二手车</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2010年上牌 </span><span class="gap">|</span>
+										6.6万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+<a class="ico24" target="_blank" title="原厂质保" href="http://static.58.com/ui7/help/yczb.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="菏泽世泰汽车销售服务有限公司" href="http://shop.58.com/24055661653519636/">菏泽世泰汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">菏泽</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://xj.58.com/ershouche/17660526782209x.shtml" target="_blank">
+<img title="雪铁龙爱丽舍 2010款 1.6 手动科技型-自用车辆,按时保养,车况良好" src="http://2.pic.58control.cn/p1/small/n_s02223257428395878064.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://xj.58.com/ershouche/17660526782209x.shtml" title="雪铁龙爱丽舍 2010款 1.6 手动科技型-自用车辆,按时保养,车况良好" target="_blank">雪铁龙爱丽舍 2010款 1.6 手动科技型-自用车辆,按时保养,车况良好</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										5.4万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 5.3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="新疆华奥汽车销售服务有限责任公司" href="http://shop.58.com/24054217111758100/">新疆华奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">乌鲁木齐</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://hd.58.com/ershouche/17638793607434x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢 2009款 1.6 自动时尚型-车龄短 无事故 家用车首选" src="http://2.pic.58control.cn/p1/small/n_s12220486428230508033.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://hd.58.com/ershouche/17638793607434x.shtml" title="雪铁龙世嘉三厢 2009款 1.6 自动时尚型-车龄短 无事故 家用车首选" target="_blank">雪铁龙世嘉三厢 2009款 1.6 自动时尚型-车龄短 无事故 家用车首选</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										11.7万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 6.8<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="邯郸市奥华汽车销售服务有限公司" href="http://shop.58.com/24060438535598143/">邯郸市奥华汽车销售服务有…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">邯郸</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://lz.58.com/ershouche/17614549895811x.shtml" target="_blank">
+<img title="雪铁龙世嘉三厢 2009款 1.6 自动时尚型-" src="http://1.pic.58control.cn/p1/small/n_s12217383716260955114.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://lz.58.com/ershouche/17614549895811x.shtml" title="雪铁龙世嘉三厢 2009款 1.6 自动时尚型" target="_blank">雪铁龙世嘉三厢 2009款 1.6 自动时尚型</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										1.9万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 8.3<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+<a class="ico23" target="_blank" title="免费过户" href="http://static.58.com/ui7/help/mfgh.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="兰州兰奥汽车销售服务有限公司" href="http://shop.58.com/24057714658745108/">兰州兰奥汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">兰州</div>
+</div>
+</li>
+<li>
+<div class="g_img"><span>
+<a href="http://ny.58.com/ershouche/17614259701514x.shtml" target="_blank">
+<img title="雪铁龙C5 11款东方之旅2.3L自动豪华型 2011年上牌-全车原车漆,无任何事故" src="http://2.pic.58control.cn/p1/small/n_s02217347298332484145.jpg" alt="" width="240" height="180" />
+</a>
+</span></div>
+<div class="txt">
+<a href="http://ny.58.com/ershouche/17614259701514x.shtml" title="雪铁龙C5 11款东方之旅2.3L自动豪华型 2011年上牌-全车原车漆,无任何事故" target="_blank">雪铁龙C5 11款东方之旅2.3L自动豪华型 2011年上牌-全车原车漆,无任何事故</a>
+</div>
+<div class="paizhao">
+<span class="time">
+																2011年上牌 </span><span class="gap">|</span>
+										3.2万公里
+			</div>
+<div class="other-service">
+<span class="pri">
+										 14.38<em>万</em>
+</span>
+<span class="award">
+<a class="ico22" target="_blank" title="真车实价" href="http://static.58.com/ui7/help/zcsj.html"></a>
+<a class="ico25" target="_blank" title="7天可退" href="http://static.58.com/ui7/help/qtkt.html"></a>
+</span>
+</div>
+<div class="cheshang">
+<a target="_blank" title="南阳赢嘉汽车销售服务有限公司" href="http://shop.58.com/24060279241014036/">南阳赢嘉汽车销售服务有限…</a>
+<a href="http://apply.vip.58.com/productinfo/qc/" target="_blank" rel="nofollow">
+<span class="wlt-ico wlt1" title="58同城认证商家"></span>
+</a>
+<div class="site">南阳</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="pagerout">
+<div class="pager">
+<strong><span>1</span></strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+		24小时客户关怀热线：400-8171-888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0431-85990888<br />
+		©58.com
+	</div>
+<div class="floatbar">
+<div class="liulan">
+<i class="bar01"></i>
+<div id="myfeetBox" class="hc">
+<ul id="feet_listLs">
+<h4 class="category">最近浏览的信息</h4>
+</ul>
+</div>
+</div>
+<a href="http://my.58.com/shoucangjianli/" id="collection" target="_blank"><i class="bar02"></i></a> <a href="#top"><i class="bar03"></i></a>
+</div>
+<script type="text/javascript" src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/getcookie.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi_brandzone.js"></script>
+<script type="text/javascript" src="http://pic2.58.com/js/carused/audi.js"></script>
+<script type="text/javascript">
+		$(function() {
+			$('.liulan').hover(
+					function() {
+						$(this).addClass('hover');
+						$('#myfeetBox').show();
+						var container = document.getElementById("feet_listLs");
+						brandZoneNamespace.docookieFunction("final_history",
+								container);
+					}, function() {
+						$(this).removeClass('hover');
+						$('#myfeetBox').hide();
+					})
+		})
+		brandZoneNamespace.brandListEvent().fastSelectLevel().listMorebrand()
+				.dealerSearch().renZhengCar();
+	</script>
+<script type="text/javascript">
+		var achexi = $("#audi_chexi").find("a");
+		var url = window.location.href;
+		for(var i = 0 ; i &lt; achexi.length ; i++){
+			var $item =$(achexi[i]);
+			if($item.attr("href") == url){
+				$item.addClass("select");
+			}
+		}
+							
+	</script>
+<script type="text/javascript">
+		var _gaq = _gaq || [];
+		var site_name = "58";
+		var _trackURL = "{'cate':'29','area':'','pagetype':'list','class':'ershouche'}";
+		_gaq.push([ 'pageTracker._setAccount', 'UA-877409-4' ]);
+		_gaq.push([ 'pageTracker._setDomainName', '.58.com' ]);
+		_gaq.push([ 'pageTracker._setAllowLinker', true ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'sogou', 'query' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'baidu', 'word' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'soso', 'w' ]);
+		_gaq.push([ 'pageTracker._addOrganic', 'youdao', 'q' ]);
+		_gaq.push([ 'pageTracker._addOrganic', '360', 'q' ]);
+		_gaq.push([ 'pageTracker._trackPageview',
+				'/car/ershouche/audi/ershouche/' ]);
+		$.getScript(('https:' == document.location.protocol ? 'https://ssl'
+				: 'http://www')
+				+ '.google-analytics.com/ga.js');
+		$.getScript('http://tracklog.58.com/referrer4.js');
+	</script>
+</body>
+</html>

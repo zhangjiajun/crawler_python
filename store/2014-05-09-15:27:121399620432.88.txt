@@ -1,0 +1,1026 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[115,238,1] published at 2014-05-09 00:00:22 from #187 by system-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>专题汇总_新浪游戏_新浪网</title>
+<meta name="description" content="新浪游戏专题汇总，汇集游戏频道实时制作的专题，并可以搜索查看到历年来游戏频道所制作的所有专题。" />
+<style type="text/css">
+/* ================== css reset ================== */
+body { margin:5px 0; padding:0; font-size:12px; color:#333; background:#fff; }
+p, ul, ol, dl, dt, dd, h1, h2, h3, form { margin:0; padding:0; }
+img { border:0; vertical-align:middle; }
+li { list-style:none; }
+input, select, textarea { vertical-align:middle; font-size:12px; }
+a { color:#333; text-decoration:none; }
+a:hover { color:#f00; text-decoration:underline; }
+div, dl { zoom:1; }
+div:after, ul:after, dl:after { content:"."; display:block; height:0; clear:both; visibility:hidden; }
+/* ================== block define ================== */
+#wrap { width:950px; margin:0 auto; }
+
+/* 导航 */
+.topNav { background:url(http://i1.sinaimg.cn/dy/deco/2009/0721/yocc090721img/topImgBg.gif) 0 0 repeat-x; height:98px; }
+.topNav h2 { float:left; padding:20px 0 0 50px; height:49px; }
+.topNav .search { float:right; padding:10px 10px 0 25px; color:#666; background:url(http://i1.sinaimg.cn/dy/deco/2009/0721/yocc090721img/search.png) 0 30px no-repeat; }
+.topNav2 { clear:both; line-height:29px; color:#86bee2; text-align:center; }
+.topNav2 a { color:#fff; text-decoration:none; }
+.topNav2 a:hover { color:#fff; text-decoration:underline; }
+a.cur_page{padding:8px 12px;background:url(http://i2.sinaimg.cn/dy/deco/2009/0721/yocc090721img/cur_page.gif) 0 3px no-repeat;color:#000;}
+/* 框架 */
+.main { background:url(http://i1.sinaimg.cn/dy/deco/2009/0721/yocc090721img/topImgBg.gif) 0 -98px repeat-x; border:solid #ccc; border-width:0 1px 1px 1px; padding-bottom:5px; }
+.mainL { width:390px; float:left; }
+.sideBar { float:right; margin-right:10px; display:inline; width:139px; overflow:hidden; margin-top:-25px; }
+.main2{margin-top:10px;border:1px solid #ccc;}
+.main2L{width:468px;float:left;}
+.main2R{width:468px;float:right;}
+/* ================= commen define ================ */
+/* 列表 */
+.ul_list1 { padding:10px;clear:both; }
+.ul_list1 li { border-bottom:1px solid #e8e8ec; padding-left:13px; color:#afafaf; text-align:right; line-height:30px; height:30px; background:url(http://i3.sinaimg.cn/dy/deco/2009/0721/yocc090721img/dot.gif) no-repeat 5px 50%; }
+.ul_list1 li a { color:#023499; font-size:14px; float:left; }
+.ul_list1 li a:hover { color:#f00; }
+.ul_list1 .pg01 {color:#afafaf; font-size:12px; float:right;}
+.ul_list1 .pg01 a {color:#afafaf; font-size:12px;}
+.dl_list{background:url(http://i3.sinaimg.cn/dy/deco/2009/0721/yocc090721img/linkBg.gif) bottom no-repeat; padding-bottom:5px;margin-bottom:10px; }
+.dl_list dt { line-height:34px; font-size:14px; padding:0 20px;background:url(http://i3.sinaimg.cn/dy/deco/2009/0721/yocc090721img/linkBg.gif) top no-repeat;  }
+.dl_list dd a { display:block; line-height:24px; padding:0 20px;color:#023499; }
+.dl_list dd a:hover{color:#f00;}
+.dl_list dd a.selected { background:url(http://i1.sinaimg.cn/dy/deco/2009/0721/yocc090721img/cur_select.gif) center 0 no-repeat; }
+/* 标题 */
+.title1{background:url(http://i3.sinaimg.cn/dy/deco/2009/0721/yocc090721img/titleBg.gif);line-height:28px;margin:-1px;position:relative;padding:0 10px 0 25px;overflow:hidden;}
+.title1 h2{font-size:14px;font-weight:normal;float:left;}
+.title1 .more{float:right;}
+.title1 .more,.title1 .more a{color:#023499;}
+.title1 .more a:hover{color:#f00;}
+.h3TItle{font-size:14px;font-weight:normal;line-height:30px;margin:0 10px -5px;position:relative;border-bottom:1px solid #E8E8EC;padding:15px 0 0 5px;width:780px;}
+/* footer */
+.footer { line-height:23px; text-align:center; padding:20px 0 30px; clear:both; }
+.footer, .footer a { color:#333; }
+.footer a:hover { color:#f00; }
+/* 其他定义 */
+.input_text{border:1px solid #7f9db9;}
+a.cur_page:hover { color:#000; text-decoration:none; }
+.unify_search {clear:right;display: inline;float: right;font-family: '宋体';margin-right: 10px;}
+.unify_search .kw{float: left;width: 130px;height: 18px;margin-right: 6px;line-height: 18px;padding: 2px 2px 2px 20px;border: 0;background: url(http://i0.sinaimg.cn/dy/deco/2010/1123/images/search_sprite.png) 0 0 no-repeat;}
+.unify_search select{float: left;width: 53px;height: 22px;margin-right: 6px;*margin-top: 1px;border: 1px solid #ccc;padding: 1px;color: #666;}
+.unify_search .gray{color: #ccc;}
+.unify_search .sb{float: left;width: 58px;height: 22px;padding-bottom: 2px;overflow: hidden;*line-height: 23px;_line-height: 25px;cursor: pointer;border:0;background: url(http://i0.sinaimg.cn/dy/deco/2010/1123/images/search_sprite.png) -240px 0 no-repeat;color: #444;}
+.date{display: inline;float: right;margin: 10px;}
+.topNav h2 {float: left;font: 30px/34px '微软雅黑','黑体';height: 49px;padding: 18px 0 2px 50px;}
+
+</style>
+</head>
+<body><!-- SUDA_CODE_START -->
+<script type="text/javascript"> 
+//&lt;!--
+(function(){var al="V=2.1.10";var af=window,F=document,s=navigator,V=s.userAgent,am=af.screen,i=af.location.href;var aB="https:"==af.location.protocol?"https://s":"http://",aw="beacon.sina.com.cn";var N=aB+aw+"/a.gif?",z=aB+aw+"/g.gif?",Q=aB+aw+"/f.gif?",ae=aB+aw+"/e.gif?",az=aB+"beacon.sinauda.com/i.gif?";var ay=F.referrer.toLowerCase();var Z="SINAGLOBAL",X="FSINAGLOBAL",H="Apache",P="ULV",k="SUP",aC="UOR",E="_s_acc",W="_s_tentry",n=false,ax=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aD=false,A=false;var aj="";var l=16777215,Y=0,C,K=0;var r="",b="",a="";var M=[],R=[],I=[];var u=0;var v=0;var p="";var ak=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aB+aw+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function j(){var e=document.createElement("iframe");e.src=aB+aw+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aB+aw+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aF,D){var aE=F.getElementsByName(aF);var e=(D&gt;0)?D:0;return(aE.length&gt;e)?aE[e].content:""}function m(){var aG=F.getElementsByName("sudameta");var aH=[];for(var e=0;e&lt;aG.length;e++){var aF=aG[e].content;if(aF){if(aF.indexOf(";")!=-1){var aI=aF.split(";");for(var aE=0;aE&lt;aI.length;aE++){var D=au(aI[aE]);if(!D){continue}aH.push(D)}}else{aH.push(aF)}}}return aH}function U(aI,aE,aG,aF){if(aI==""){return""}aF=(aF=="")?"=":aF;aE+=aF;var aH=aI.indexOf(aE);if(aH&lt;0){return""}aH+=aE.length;var D=aI.indexOf(aG,aH);if(D&lt;aH){D=aI.length}return aI.substring(aH,D)}function t(e){if(undefined==e||""==e){return""}return U(F.cookie,e,";","")}function aq(aG,e,D,aF){if(e!=null){if((undefined==aF)||(null==aF)){aF="sina.com.cn"}if((undefined==D)||(null==D)||(""==D)){F.cookie=aG+"="+e+";domain="+aF+";path=/"}else{var aE=new Date();var aH=aE.getTime();aH=aH+86400000*D;aE.setTime(aH);aH=aE.getTime();F.cookie=aG+"="+e+";domain="+aF+";expires="+aE.toUTCString()+";path=/"}}}function f(aE){try{var D=document.getElementById("sudaDataFrame").contentWindow.storage;return D.get(aE)}catch(aF){return false}}function ap(aE,aF){try{var D=document.getElementById("sudaDataFrame").contentWindow.storage;D.set(aE,aF);return true}catch(aG){return false}}function L(){var aH=15;var aE=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(aE&amp;&amp;aE!=undefined){w=true}ls_gid=f(Z);if(ls_gid===false||w==false){return false}else{ak=true}if(ls_gid&amp;&amp;ls_gid.length&gt;aH){aq(Z,ls_gid,3650);n=true;return ls_gid}else{if(aE&amp;&amp;aE.length&gt;aH){aq(Z,aE,3650);ax=true}var D=0,aG=500;var aF=setInterval((function(){var e=t(Z);if(w){e=aE}D+=1;if(D&gt;3){clearInterval(aF)}if(e.length&gt;aH){clearInterval(aF);ap(Z,e)}}),aG);return w?aE:t(Z)}}function T(e,aF,aE){var D=e;if(D==null){return false}aF=aF||"click";if((typeof aE).toLowerCase()!="function"){return}if(D.attachEvent){D.attachEvent("on"+aF,aE)}else{if(D.addEventListener){D.addEventListener(aF,aE,false)}else{D["on"+aF]=aE}}return true}function ad(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var aE=arguments.callee.caller;var D;var aF=0;while(aE!=null&amp;&amp;aF&lt;40){D=aE.arguments[0];if(D&amp;&amp;(D.constructor==Event||D.constructor==MouseEvent||D.constructor==KeyboardEvent)){return D}aF++;aE=aE.caller}return D}}function g(D){D=D||ad();if(!D.target){D.target=D.srcElement;D.pageX=D.x;D.pageY=D.y}if(typeof D.layerX=="undefined"){D.layerX=D.offsetX}if(typeof D.layerY=="undefined"){D.layerY=D.offsetY}return D}function au(aF){if(typeof aF!=="string"){throw"trim need a string as parameter"}var e=aF.length;var aE=0;var D=/(\u3000|\s|\t|\u00A0)/;while(aE&lt;e){if(!D.test(aF.charAt(aE))){break}aE+=1}while(e&gt;aE){if(!D.test(aF.charAt(e-1))){break}e-=1}return aF.slice(aE,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aE,aI){var aK=au(aE).split("&amp;");var aJ={};var D=function(aM){if(aI){try{return decodeURIComponent(aM)}catch(aN){return aM}}else{return aM}};for(var aG=0,aH=aK.length;aG&lt;aH;aG++){if(aK[aG]){var aF=aK[aG].split("=");var e=aF[0];var aL=aF[1];if(aF.length&lt;2){aL=e;e="$nullName"}if(!aJ[e]){aJ[e]=D(aL)}else{if(c(aJ[e])!=true){aJ[e]=[aJ[e]]}aJ[e].push(D(aL))}}}return aJ}function ab(D,aF){for(var aE=0,e=D.length;aE&lt;e;aE++){aF(D[aE],aE)}}function ai(D){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(D.match(e)){return D.match(e)[1].toString()}else{return""}}function ah(aL){try{var aI="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aN=function(e){var aO="",aP=0;for(;aP&lt;e.length;aP++){aO+="%"+aE(e[aP])}return decodeURIComponent(aO)};var aE=function(e){var aO="0"+e.toString(16);return aO.length&lt;=2?aO:aO.substr(1)};var aM=function(aV,aS,aO){if(typeof(aV)=="string"){aV=aV.split("")}var aU=function(a4,a6){for(var a5=0;a5&lt;a4.length;a5++){if(a4[a5]==a6){return a5}}return -1};var aP=[];var a3,a1,aY="";var a2,a0,aX,aW="";if(aV.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var aZ=aI.split("");if(aS=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;aZ=D.split("")}var aR=0;if(aS=="binnary"){aZ=[];for(aR=0;aR&lt;=64;aR++){aZ[aR]=aR+128}}if(aS!="binnary"&amp;&amp;e.exec(aV.join(""))){return aO=="array"?[]:""}aR=0;do{a2=aU(aZ,aV[aR++]);a0=aU(aZ,aV[aR++]);aX=aU(aZ,aV[aR++]);aW=aU(aZ,aV[aR++]);a3=(a2&lt;&lt;2)|(a0&gt;&gt;4);a1=((a0&amp;15)&lt;&lt;4)|(aX&gt;&gt;2);aY=((aX&amp;3)&lt;&lt;6)|aW;aP.push(a3);if(aX!=64&amp;&amp;aX!=-1){aP.push(a1)}if(aW!=64&amp;&amp;aW!=-1){aP.push(aY)}a3=a1=aY="";a2=a0=aX=aW=""}while(aR&lt;aV.length);if(aO=="array"){return aP}var aT="",aQ=0;for(;aQ&lt;aP.lenth;aQ++){aT+=String.fromCharCode(aP[aQ])}return aT};var aF=[];var aK=aL.substr(0,3);var aH=aL.substr(3);switch(aK){case"v01":for(var aG=0;aG&lt;aH.length;aG+=2){aF.push(parseInt(aH.substr(aG,2),16))}return decodeURIComponent(aN(aM(aF,"binnary","array")));break;case"v02":aF=aM(aH,"urlsafe","array");return aN(aM(aF,"binnary","array"));break;default:return decodeURIComponent(aL)}}catch(aJ){return""}}var an={screenSize:function(){return(l&amp;8388608==8388608)?am.width+"x"+am.height:""},colorDepth:function(){return(l&amp;4194304==4194304)?am.colorDepth:""},appCode:function(){return(l&amp;2097152==2097152)?s.appCodeName:""},appName:function(){return(l&amp;1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":s.appName):""},cpu:function(){return(l&amp;524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(l&amp;262144==262144)?(s.platform):""},jsVer:function(){if(l&amp;131072!=131072){return""}var aG,e,aI,aE=1,aF=0,D=(s.appName.indexOf("Microsoft Internet Explorer")&gt;-1)?"MSIE":s.appName,aH=s.appVersion;if("MSIE"==D){e="MSIE";aG=aH.indexOf(e);if(aG&gt;=0){aI=window.parseInt(aH.substring(aG+5));if(3&lt;=aI){aE=1.1;if(4&lt;=aI){aE=1.3}}}}else{if(("Netscape"==D)||("Opera"==D)||("Mozilla"==D)){aE=1.3;e="Netscape6";aG=aH.indexOf(e);if(aG&gt;=0){aE=1.5}}}return aE},network:function(){if(l&amp;65536!=65536){return""}var D="";D=(s.connection&amp;&amp;s.connection.type)?s.connection.type:D;try{F.body.addBehavior("#default#clientCaps");D=F.body.connectionType}catch(aE){D="unkown"}return D},language:function(){return(l&amp;32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(l&amp;16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(l&amp;8192!=8192){return""}var aH=s.plugins,aE,aI,aK;if(aH&amp;&amp;aH.length){for(var aG in aH){aI=aH[aG];if(aI.description==null){continue}if(aE!=null){break}aK=aI.description.toLowerCase();if(aK.indexOf("flash")!=-1){aE=aI.version?parseInt(aI.version):aK.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aF=10;aF&gt;=2;aF--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aF);if(D){aE=aF;break}}catch(aJ){}}}else{if(V.indexOf("webtv/2.5")!=-1){aE=3}else{if(V.indexOf("webtv")!=-1){aE=2}}}}return aE},javaEnabled:function(){if(l&amp;4096!=4096){return""}var aE=s.plugins,D=s.javaEnabled(),aF,aG;if(D==true){return 1}if(aE&amp;&amp;aE.length){for(var e in aE){aF=aE[e];if(aF.description==null){continue}if(D!=null){break}aG=aF.description.toLowerCase();if(aG.indexOf("java plug-in")!=-1){D=parseInt(aF.version);continue}}}else{if(window.ActiveXObject){D=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return D?1:0}};var ac={pageId:function(D){var aE=D||r,aI="-9999-0-0-1";if((undefined==aE)||(""==aE)){try{var aF=h("publishid");if(""!=aF){var aH=aF.split(",");if(aH.length&gt;0){if(aH.length&gt;=3){aI="-9999-0-"+aH[1]+"-"+aH[2]}aE=aH[0]}}else{aE="0"}}catch(aG){aE="0"}aE=aE+aI}return aE},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(l&amp;2048!=2048){return""}var e=/^[^\?&amp;#]*.swf([\?#])?/;if((ay=="")||(ay.match(e))){var D=U(i,"ref","&amp;","");if(D!=""){return escape(D)}}return escape(ay)},isHomepage:function(){if(l&amp;1024!=1024){return""}var aE="";try{F.body.addBehavior("#default#homePage");aE=F.body.isHomePage(i)?"Y":"N"}catch(D){aE="unkown"}return aE},PGLS:function(){return(l&amp;512==512)?h("stencil"):""},ZT:function(){if(l&amp;256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(l&amp;128==128)?h("mediaid"):""},domCount:function(){return(l&amp;64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(l&amp;32==32)?F.getElementsByTagName("iframe").length:""}};var at={visitorId:function(){var D=15;var e=t(Z);if(e.length&gt;D&amp;&amp;u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(X);return e}else{aq(X,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var D=new Date();e=Math.random()*10000000000000+"."+D.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var aE=t(H);var aG=t(P);var aF=aG.split(":");var aH="",D;if(aF.length&gt;=6){if(aE!=aF[4]){D=new Date();var e=new Date(window.parseInt(aF[0]));aF[1]=window.parseInt(aF[1])+1;if(D.getMonth()!=e.getMonth()){aF[2]=1}else{aF[2]=window.parseInt(aF[2])+1}if(((D.getTime()-e.getTime())/86400000)&gt;=7){aF[3]=1}else{if(D.getDay()&lt;e.getDay()){aF[3]=1}else{aF[3]=window.parseInt(aF[3])+1}}aH=aF[0]+":"+aF[1]+":"+aF[2]+":"+aF[3];aF[5]=aF[0];aF[0]=D.getTime();aq(P,aF[0]+":"+aF[1]+":"+aF[2]+":"+aF[3]+":"+aE+":"+aF[5],360)}else{aH=aF[5]+":"+aF[1]+":"+aF[2]+":"+aF[3]}}else{D=new Date();aH=":1:1:1";aq(P,D.getTime()+aH+":"+aE+":",360)}return aH},userNick:function(){if(aj!=""){return aj}var aE=unescape(t(k));if(aE!=""){var D=U(aE,"ag","&amp;","");var e=U(aE,"user","&amp;","");var aF=U(aE,"uid","&amp;","");var aH=U(aE,"sex","&amp;","");var aG=U(aE,"dob","&amp;","");aj=D+":"+e+":"+aF+":"+aH+":"+aG;return aj}else{return""}},userOrigin:function(){if(l&amp;4!=4){return""}var e=t(aC);var D=e.split(":");if(D.length&gt;=2){return D[0]}else{return""}},advCount:function(){return(l&amp;2==2)?t(E):""},setUOR:function(){var aJ=t(aC),aN="",D="",aM="",aG="",aK=i.toLowerCase(),aE=F.referrer.toLowerCase();var aO=/[&amp;|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aI=new Date();if(aK.match(aO)){aM=aK.match(aO)[0]}else{if(aE.match(aO)){aM=aE.match(aO)[0]}}if(aM!=""){aM=aM.substr(3)+":"+aI.getTime()}if(aJ==""){if(t(P)==""){aN=ai(aE);D=ai(aK)}aq(aC,aN+","+D+","+aM,365)}else{var aH=0,aL=aJ.split(",");if(aL.length&gt;=1){aN=aL[0]}if(aL.length&gt;=2){D=aL[1]}if(aL.length&gt;=3){aG=aL[2]}if(aM!=""){aH=1}else{var aF=aG.split(":");if(aF.length&gt;=2){var e=new Date(window.parseInt(aF[1]));if(e.getTime()&lt;(aI.getTime()-86400000*30)){aH=1}}}if(aH){aq(aC,aN+","+D+","+aM,365)}}},setAEC:function(e){if(""==e){return}var D=t(E);if(D.indexOf(e+",")&lt;0){D=D+e+","}aq(E,D,7)},ssoInfo:function(){var aE=unescape(ah(t("sso_info")));if(aE!=""){if(aE.indexOf("uid=")!=-1){var D=U(aE,"uid","&amp;","");return escape("uid:"+D)}else{var e=U(aE,"u","&amp;","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ag={CI:function(){var e=["sz:"+an.screenSize(),"dp:"+an.colorDepth(),"ac:"+an.appCode(),"an:"+an.appName(),"cpu:"+an.cpu(),"pf:"+an.platform(),"jv:"+an.jsVer(),"ct:"+an.network(),"lg:"+an.language(),"tz:"+an.timezone(),"fv:"+an.flashVer(),"ja:"+an.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var D=["pid:"+ac.pageId(e),"st:"+ac.sessionCount(),"et:"+ac.excuteCount(),"ref:"+ac.referrer(),"hp:"+ac.isHomepage(),"PGLS:"+ac.PGLS(),"ZT:"+ac.ZT(),"MT:"+ac.mediaType(),"keys:","dom:"+ac.domCount(),"ifr:"+ac.iframeCount()];return"PI="+D.join("|")},UI:function(){var e=["vid:"+at.visitorId(),"sid:"+at.sessionId(),"lv:"+at.lastVisit(),"un:"+at.userNick(),"uo:"+at.userOrigin(),"ae:"+at.advCount(),"lu:"+at.fvisitorId(),"si:"+at.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+at.subp()];return"UI="+e.join("|")},EX:function(D,e){if(l&amp;1!=1){return""}D=(null!=D)?D||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+D+"|ex2:"+e},MT:function(){return"MT="+m().join("|")},V:function(){return al},R:function(){return"gUid_"+new Date().getTime()}};function av(){var aI="-",aF=F.referrer.toLowerCase(),aE=i.toLowerCase();if(""==t(W)){if(""!=aF){aI=ai(aF)}aq(W,aI,"","weibo.com")}var aG=/weibo.com\/reg.php/;if(aE.match(aG)){var aH=U(unescape(aE),"sharehost","&amp;","");var D=U(unescape(aE),"appkey","&amp;","");if(""!=aH){aq(W,aH,"","weibo.com")}aq("appkey",D,"","weibo.com")}}function d(e,D){G(e,D)}function G(D,aE){aE=aE||{};var e=new Image(),aF;if(aE&amp;&amp;aE.callback&amp;&amp;typeof aE.callback=="function"){e.onload=function(){clearTimeout(aF);aF=null;aE.callback(true)}}SUDA.img=e;e.src=D;aF=setTimeout(function(){if(aE&amp;&amp;aE.callback&amp;&amp;typeof aE.callback=="function"){aE.callback(false);e.onload=null}},aE.timeout||2000)}function x(e,aF,aE){SUDA.sudaCount++;if(!at.visitorId()&amp;&amp;!L()){if(u&lt;3){u++;setTimeout(x,500);return}}var D=N+[ag.V(),ag.CI(),ag.PI(e),ag.UI(),ag.MT(),ag.EX(aF,aE),ag.R()].join("&amp;");G(D);var aG=az+ag.R();G(aG);if(window.location.host.search("auto.sina.com.cn")&gt;=0){wrating_url="http://m.wrating.com/m.gif?a=&amp;c=860010-2370010112&amp;mcookie="+at.visitorId()+"&amp;"+ag.R()+"=";G(wrating_url)}}function y(e,aE,D){if(aD||A){return}if(SUDA.sudaCount!=0){return}x(e,aE,D)}function aa(e,aF){if((""==e)||(undefined==e)){return}at.setAEC(e);if(0==aF){return}var aE="AcTrack||"+t(Z)+"||"+t(H)+"||"+at.userNick()+"||"+e+"||";var D=ae+aE+"&amp;gUid_"+new Date().getTime();d(D)}function ao(aG,e,D,aH){aH=aH||{};if(!D){D=""}else{D=escape(D)}var aF="UATrack||"+t(Z)+"||"+t(H)+"||"+at.userNick()+"||"+aG+"||"+e+"||"+ac.referrer()+"||"+D+"||";var aE=ae+aF+"&amp;gUid_"+new Date().getTime();d(aE,aH)}function aA(aI){var D=g(aI);var aG=D.target;var aF="",aJ="",aE="";var aH;if(aG!=null&amp;&amp;aG.getAttribute&amp;&amp;(!aG.getAttribute("suda-uatrack")&amp;&amp;!aG.getAttribute("suda-actrack")&amp;&amp;!aG.getAttribute("suda-data"))){while(aG!=null&amp;&amp;aG.getAttribute&amp;&amp;(!!aG.getAttribute("suda-uatrack")||!!aG.getAttribute("suda-actrack")||!!aG.getAttribute("suda-data"))==false){if(aG==F.body){return}aG=aG.parentNode}}if(aG==null||aG.getAttribute==null){return}aF=aG.getAttribute("suda-actrack")||"";aJ=aG.getAttribute("suda-uatrack")||aG.getAttribute("suda-data")||"";sudaUrls=aG.getAttribute("suda-urls")||"";if(aJ){aH=J(aJ);if(aG.tagName.toLowerCase()=="a"){aE=aG.href}aH.key&amp;&amp;SUDA.uaTrack&amp;&amp;SUDA.uaTrack(aH.key,aH.value||aH.key,aE)}if(aF){aH=J(aF);aH.key&amp;&amp;SUDA.acTrack&amp;&amp;SUDA.acTrack(aH.key,aH.value||aH.key)}}aD=(function(aE,D){if(af.top==af){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight&gt;=aE)&amp;&amp;(F.body.clientWidth&gt;=D))?false:true}catch(aF){return true}}})(320,240);A=(function(){return false})();at.setUOR();var ar=at.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){aa.apply(null,arguments)};SUDA.uaTrack=function(){ao.apply(null,arguments)};T(F.body,"click",aA);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){aa.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){ao.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){aa.apply(null,arguments)};window._S_uaTrack=function(){ao.apply(null,arguments)};window._S_PID_="";y();try{j()}catch(S){}})();
+//--&gt;
+</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden"><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></div>
+</noscript>
+<!-- SUDA_CODE_END -->
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&amp;");var arrtmp;var arrResult={};for(var i=0;i&lt;arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i&lt;f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<div id="wrap">
+<!-- 标准二级导航_专题汇总 begin -->
+<style type="text/css">
+.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+.sHLogo span{display:block;float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+.sHLogo span img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;}
+</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://www.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" alt="新浪网" /></a><a href="http://news.sina.com.cn/zt/"><img src="http://i2.sinaimg.cn/dy/deco/2009/1230/zt.gif" alt="专题汇总" /></a></span></div>
+<div class="sHLinks"><a href="http://games.sina.com.cn/">游戏首页</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/">新浪导航</a></div>
+</div>
+</div>
+<!-- 标准二级导航_专题汇总 end -->
+<div style="height: 5px;"></div>
+<!-- Nav begin -->
+<div class="topNav">
+<!-- nav begin -->
+<h2>游戏专题</h2>
+<script type="text/javascript">
+&lt;!--
+function ck()
+{
+		if(document.f.q.value=="" || document.f.q.value=="请输入关键词") /*qiaotengfei 101202 增加判断条件*/
+		{		
+				var channel=document.f.col.value;
+				window.alert("请输入搜索关键词!");/*qiaotengfei 101202 改变搜索错误提示方式*/
+				return false;
+		} 
+		else
+		{
+		document.f.action="http://search.sina.com.cn/";
+		}				
+}
+--&gt;
+</script>
+<div class="date">
+	北京时间：<script language="JavaScript">today=new Date();document.write(today.getFullYear(),"-",today.getMonth()+1,"-",today.getDate());</script>
+</div>
+<form class="unify_search" method="get" name="f" onsubmit="return ck();" target="_blank">
+<input type="text" name="q" class="kw gray" value="请输入关键词" onfocus="this.className='kw';if (this.value=='请输入关键词') {this.value=''}" onblur="if(this.value==''){this.className+=' gray';this.value='请输入关键词'}" />
+<input type="hidden" name="c" value="zt" />
+<input type="hidden" name="range" value="title" />
+<select name="col" class="opt">
+<option value="all">全部</option>
+<option value="1">新闻</option>
+<option value="2">体育</option>
+<option value="3">娱乐</option>
+<option value="4">科技</option>
+<option value="5">财经</option>
+<option value="6">读书</option>
+<option value="7">教育</option>
+<option value="8">汽车</option>
+<option value="9">女性</option>
+<option value="10">房产</option>
+<option value="11">军事</option>
+<option value="12" selected="selected">游戏</option>
+<option value="13">视频</option>
+<option value="14">博客</option>
+<option value="15">旅游</option>
+</select>
+<input type="submit" class="sb" value="搜 索" />
+</form>
+<p class="topNav2"><a href="http://news.sina.com.cn/zt/">首页</a> | <a href="http://news.sina.com.cn/zt/col_china/">国内</a> | <a href="http://news.sina.com.cn/zt/col_world/">国际</a> | <a href="http://news.sina.com.cn/zt/col_society/">社会</a> | <a href="http://sports.sina.com.cn/zt/">体育</a> | <a href="http://ent.sina.com.cn/zt/">娱乐</a> | <a href="http://finance.sina.com.cn/zt/">财经</a> | <a href="http://tech.sina.com.cn/zt/">科技</a> | <a href="http://mil.news.sina.com.cn/zt/">军事</a> | <a href="http://video.sina.com.cn/subject/">视频</a> | <a href="http://blog.sina.com.cn/lm/zt/">博客</a> | <a href="http://edu.sina.com.cn/subject/">教育</a> | <a href="http://book.sina.com.cn/subject/">读书</a> | <a href="http://auto.sina.com.cn/zzn/">汽车</a> | <a href="http://travel.sina.com.cn/zzn/index.shtml">旅游</a> | <a href="http://eladies.sina.com.cn/z/">女性</a> | <a href="http://house.sina.com.cn/focus/index.html">房产</a> | <a href="http://baby.sina.com.cn/zt/">育儿</a> | <a href="http://news.sina.com.cn/zt/col_health/">健康</a> | <a href="http://style.sina.com.cn/z/">尚品</a> | <a href="http://games.sina.com.cn/zt/" class="cur_page">游戏</a></p>
+<!-- nav end -->
+</div>
+<!-- Nav end -->
+<!-- 主内容 begin -->
+<div class="main">
+<h3 class="h3TItle">游戏热点</h3>
+<!-- focus begin -->
+<div class="mainL">
+<ul class="ul_list1">
+<li><a target="_blank" href="http://games.sina.com.cn/ng/szglqxz/index.shtml" title="我爱游戏解说：真古龙群侠传Online">我爱游戏解说：真古龙群侠传Online</a>05/08</li><li><a target="_blank" href="http://games.sina.com.cn/ng/sff14gf/index.shtml" title="我爱游戏解说：最终幻想14">我爱游戏解说：最终幻想14</a>04/29</li><li><a target="_blank" href="http://games.sina.com.cn/xyz/zt/sanguosha/index.html" title="三国杀回顾与新版《界限突破》展望">三国杀回顾与新版《界限突破》展望</a>04/24</li><li><a target="_blank" href="http://games.sina.com.cn/ng/wt7/index.shtml" title="新游尾行：刀锋铁骑">新游尾行：刀锋铁骑</a>04/23</li><li><a target="_blank" href="http://games.sina.com.cn/ng/slol/index.shtml" title="我爱游戏解说：英雄联盟 无限火力">我爱游戏解说：英雄联盟 无限火力</a>04/08</li><li><a target="_blank" href="http://games.sina.com.cn/g/zt/iamagamer004/index.shtml" title="《我是玩家》第四期：李金铭">《我是玩家》第四期：李金铭</a>04/03</li><li><a target="_blank" href="http://games.sina.com.cn/ng/whxsy/index.shtml" title="新游尾行：幻想神域">新游尾行：幻想神域</a>03/28</li><li><a target="_blank" href="http://games.sina.com.cn/ng/sxlxsjld2q/index.shtml" title="我爱游戏解说：新流星搜剑录 第2期">我爱游戏解说：新流星搜剑录 第2期</a>03/26</li><li><a target="_blank" href="http://games.sina.com.cn/ng/shjd2q/index.shtml" title="我爱游戏解说：黑金 第2期">我爱游戏解说：黑金 第2期</a>03/26</li><li><a target="_blank" href="http://games.sina.com.cn/ng/smjc/index.shtml" title="我爱游戏解说：魔界村">我爱游戏解说：魔界村</a>03/20</li>
+</ul>
+</div>
+<div class="mainL">
+<ul class="ul_list1">
+<li><a target="_blank" href="http://games.sina.com.cn/ng/slhhx/index.shtml" title="我爱游戏解说：灵魂回响">我爱游戏解说：灵魂回响</a>04/29</li><li><a target="_blank" href="http://games.sina.com.cn/g/zt/iamagamer006/index.shtml" title="《我是玩家》第六期：M4M">《我是玩家》第六期：M4M</a>04/24</li><li><a target="_blank" href="http://games.sina.com.cn/ng/sqnyh2/index.shtml" title="我爱游戏解说：倩女幽魂2">我爱游戏解说：倩女幽魂2</a>04/24</li><li><a target="_blank" href="http://games.sina.com.cn/g/zt/iamagamer005/index.shtml" title="《我是玩家》第五期：柳岩">《我是玩家》第五期：柳岩</a>04/15</li><li><a target="_blank" href="http://games.sina.com.cn/ng/wtianyu/index.shtml" title="新游尾行：天谕">新游尾行：天谕</a>04/04</li><li><a target="_blank" href="http://games.sina.com.cn/g/zt/EyesOnMe/index.shtml" title="王菲《最终幻想：Eyes On Me》">王菲《最终幻想：Eyes On Me》</a>03/28</li><li><a target="_blank" href="http://games.sina.com.cn/g/zt/nmirc012/index.shtml" title="一切为了玩家的性福">一切为了玩家的性福</a>03/28</li><li><a target="_blank" href="http://games.sina.com.cn/ng/sqszx/index.shtml" title="我爱游戏解说：骑士之心">我爱游戏解说：骑士之心</a>03/26</li><li><a target="_blank" href="http://games.sina.com.cn/g/zt/iamagamer003/index.shtml" title="《我是玩家》第三期：陈汉典">《我是玩家》第三期：陈汉典</a>03/25</li><li><a target="_blank" href="http://games.sina.com.cn/ng/wxjh2/index.shtml" title="新游尾行：江湖（第二弹）">新游尾行：江湖（第二弹）</a>03/19</li>
+</ul>
+</div>
+<!-- focus begin -->
+<div class="sideBar">
+<dl class="dl_list">
+<!-- ydns begin -->
+<dt>游戏年度专题</dt>
+<dd> <a href="/zt/old/2013/index.shtml">2013年度全部专题</a>
+<a href="/zt/old/2012/index.shtml">2012年度全部专题</a>
+<a href="/zt/old/2011/index.shtml">2011年度全部专题</a><a href="/zt/old/2010/index.shtml">2010年度全部专题</a>
+<a href="/zt/old/2009/index.shtml">2009年度全部专题</a>
+<a href="/zt/old/2008/index.shtml">2008年度全部专题</a>
+<a href="/zt/old/2007/index.shtml">2007年度全部专题</a>
+<a href="/zt/old/2006/index.shtml">2006年度全部专题</a>
+<a href="/zt/old/2005/index.shtml">2005年度全部专题</a>
+<a href="/zt/old/2004/index.shtml">2004年度全部专题</a>
+<a href="/zt/old/2003/index.shtml">2003年度全部专题</a>
+</dd>
+<!-- ydns end -->
+</dl>
+</div>
+</div>
+<!-- channel list begin -->
+<div class="main2">
+<div class="title1">
+<h2>网络游戏专题</h2>
+<p class="more"><a href="http://games.sina.com.cn/zt/all/o/index.shtml">更多&gt;&gt;</a></p>
+</div>
+<div class="main2L">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/ng/szglqxz/index.shtml" target="_blank">我爱游戏解说：真古龙群侠传Online</a> (2014-05-08)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/ffys/index.shtml" target="_blank">最终幻想系列六大经典传承元素</a> (2014-04-30)</li>
+<li><a href="http://games.sina.com.cn/zt/51xsk/index.shtml" target="_blank">欢乐五一 特权礼包大派送</a> (2014-04-29)</li>
+<li><a href="http://games.sina.com.cn/ng/sff14gf/index.shtml" target="_blank">我爱游戏解说：最终幻想14</a> (2014-04-29)</li>
+<li><a href="http://games.sina.com.cn/g/zt/talk014/index.shtml" target="_blank">非理勿言014：那些年的最终幻想</a> (2014-04-25)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140428/index.shtml" target="_blank">一周测试新网游2014.04.28-05.04</a> (2014-04-25)</li>
+<li><a href="http://games.sina.com.cn/g/zt/iamagamer006/index.shtml" target="_blank">《我是玩家》第六期：M4M</a> (2014-04-24)</li>
+<li><a href="http://games.sina.com.cn/ng/sqnyh2/index.shtml" target="_blank">我爱游戏解说：倩女幽魂2</a> (2014-04-24)</li>
+<li><a href="http://games.sina.com.cn/g/zt/gametalkFF14/index.shtml" target="_blank">游戏微侃:最终幻想14国服首测体验</a> (2014-04-22)</li>
+<li><a href="http://games.sina.com.cn/o/kb/rmfk0420.shtml" target="_blank">一周（0414-0420）热门发卡排行榜TOP10</a> (2014-04-18)</li>
+<li><a href="http://games.sina.com.cn/zt/ffxrz/index.shtml" target="_blank">最终幻想系列经典传承元素之仙人掌</a> (2014-04-15)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/up2014/index.shtml" target="_blank">腾讯UP2014全程报道</a> (2014-04-14)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140414/index.shtml" target="_blank">一周测试新网游2014.04.14-04.20</a> (2014-04-11)</li>
+<li><a href="http://games.sina.com.cn/r/yyt003/index.shtml" target="_blank">游戏一言堂第三期：无限饥渴的自噬之蛇 打金工作室的…</a> (2014-04-09)</li>
+<li><a href="http://games.sina.com.cn/ng/slol/index.shtml" target="_blank">我爱游戏解说：英雄联盟 无限火力</a> (2014-04-08)</li>
+<li><a href="http://games.sina.com.cn/g/zt/talk013/index.shtml" target="_blank">非理勿言013：又是一年清明时</a> (2014-04-04)</li>
+<li><a href="http://games.sina.com.cn/g/zt/girlsweekly26/index.shtml" target="_blank">一周精选美女图赏 游戏嫩模做小三骗财骗婚</a> (2014-04-04)</li>
+<li><a href="http://games.sina.com.cn/g/zt/iamagamer004/index.shtml" target="_blank">《我是玩家》第四期：李金铭</a> (2014-04-03)</li>
+<li><a href="http://games.sina.com.cn/ng/whxsy/index.shtml" target="_blank">新游尾行：幻想神域</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/g/zt/girlsweekly25/index.shtml" target="_blank">一周精选美女图赏 波多野结衣代言无节操页游</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/2014mar/index.shtml" target="_blank">2014年3月测试新游全回顾</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140331/index.shtml" target="_blank">一周测试新网游2014.03.31-04.06</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/ng/sqszx/index.shtml" target="_blank">我爱游戏解说：骑士之心</a> (2014-03-26)</li>
+<li><a href="http://games.sina.com.cn/g/zt/girlsweekly24/index.shtml" target="_blank">一周精选美女图赏 台湾萌妹游戏直播秀内衣</a> (2014-03-21)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/hazg/index.shtml" target="_blank">《黑暗之光》特色专题</a> (2014-03-21)</li>
+<li><a href="http://games.sina.com.cn/r/cgwr286/index.shtml" target="_blank">CGWR《激战2》前瞻测试辣评</a> (2014-03-19)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/jx2/index.shtml" target="_blank">《剑侠世界2》特色及不删档内测内容</a> (2014-03-19)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/xytm/index_2.shtml" target="_blank">新游探秘_新浪游戏</a> (2014-03-18)</li>
+<li><a href="http://games.sina.com.cn/ng/szyzq/index.shtml" target="_blank">我爱游戏解说：自由足球</a> (2014-03-14)</li>
+<li><a href="http://games.sina.com.cn/g/zt/girlsweekly23/index.shtml" target="_blank">一周精选美女图赏 游戏招声优可与女神同床</a> (2014-03-14)</li>
+<li><a href="http://games.sina.com.cn/ng/szld2q/index.shtml" target="_blank">我爱游戏解说：战灵 第2期</a> (2014-03-13)</li>
+<li><a href="http://games.sina.com.cn/g/zt/gametalkFF/index.shtml" target="_blank">游戏微侃:那些年我们玩过的最终幻想</a> (2014-03-11)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/moba3/index.shtml" target="_blank">神之浩劫领衔 近期MOBA类测试新游盘点</a> (2014-03-07)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140310/index.shtml" target="_blank">一周测试新网游2014.03.10-03.16</a> (2014-03-07)</li>
+<li><a href="http://games.sina.com.cn/ng/ssjfzrd2q/index.shtml" target="_blank">我爱游戏解说：疾风之刃 视频解说专题</a> (2014-03-06)</li>
+<li><a href="http://games.sina.com.cn/m/zt/jiezoudashi/index.shtml" target="_blank">节奏大师专区_97973手游网</a> (2014-02-28)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140303/index.shtml" target="_blank">一周测试新网游2014.03.03-03.09</a> (2014-02-28)</li>
+<li><a href="http://games.sina.com.cn/g/zt/PVZGardenWarfare/index.shtml" target="_blank">《植物大战僵尸:花园战争》体验评测专题</a> (2014-02-24)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140224/index.shtml" target="_blank">一周测试新网游2014.02.24-03.02</a> (2014-02-21)</li>
+<li><a href="http://games.sina.com.cn/ng/stttj/index.shtml" target="_blank">我爱游戏解说：泰坦天降</a> (2014-02-19)</li>
+<li><a href="http://games.sina.com.cn/g/zt/iamagamer/index.shtml" target="_blank">新浪游戏《我是玩家》强档上线</a> (2014-02-18)</li>
+<li><a href="http://games.sina.com.cn/ng/elderscroll/index.shtml" target="_blank">无比精致的大作——《上古卷轴OL》内测试玩体验</a> (2014-02-17)</li>
+<li><a href="http://games.sina.com.cn/g/zt/talk010/index.shtml" target="_blank">非理勿言010：情人节</a> (2014-02-14)</li>
+<li><a href="http://games.sina.com.cn/ng/syxqrtbk/index.shtml" target="_blank">我爱游戏解说：元宵情人特别刊</a> (2014-02-14)</li>
+<li><a href="http://games.sina.com.cn/ng/sff14/index.shtml" target="_blank">我爱游戏解说：最终幻想14</a> (2014-02-13)</li>
+<li><a href="http://games.sina.com.cn/ng/sxntjtbk/index.shtml" target="_blank">我爱游戏解说：新年推荐特别刊</a> (2014-01-28)</li>
+<li><a href="http://games.sina.com.cn/ng/slmsol/index.shtml" target="_blank">我爱游戏解说：猎命师Online</a> (2014-01-27)</li>
+<li><a href="http://games.sina.com.cn/ng/srxjh2/index.shtml" target="_blank">我爱游戏解说：热血江湖2</a> (2014-01-24)</li>
+<li><a href="http://games.sina.com.cn/r/cgwr285/index.shtml" target="_blank">新浪CGWR评测专题第285期 -《反恐精英Online》</a> (2014-01-24)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/nssg/index.shtml" target="_blank">以女神为主体《女神三国》首测揭秘</a> (2014-01-21)</li>
+</ul>
+</div>
+<div class="main2R">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/xyz/zt/jianghu/index.shtml" target="_blank">巨人《江湖》内测发布会报道</a> (2014-05-05)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140505/index.shtml" target="_blank">一周测试新网游2014.05.05-05.11</a> (2014-04-30)</li>
+<li><a href="http://games.sina.com.cn/ng/slhhx/index.shtml" target="_blank">我爱游戏解说：灵魂回响</a> (2014-04-29)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/2014apr/index.shtml" target="_blank">2014年4月测试新游全回顾</a> (2014-04-29)</li>
+<li><a href="http://games.sina.com.cn/zt/rmfk0427/index.shtml" target="_blank">一周（4.21-4.27）热门发卡排行榜TOP10</a> (2014-04-25)</li>
+<li><a href="http://games.sina.com.cn/g/zt/fflxn/index.shtml" target="_blank">最终幻想系列经典传承元素之陆行鸟</a> (2014-04-25)</li>
+<li><a href="http://games.sina.com.cn/ng/icarus/index.shtml" target="_blank">《伊卡洛斯》韩服公测试玩</a> (2014-04-24)</li>
+<li><a href="http://games.sina.com.cn/ng/wt7/index.shtml" target="_blank">新游尾行：刀锋铁骑</a> (2014-04-23)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/mtf/index.shtml" target="_blank">国产MOBA网游《梦塔防》4.29封测前瞻</a> (2014-04-21)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140421/index.shtml" target="_blank">一周测试新网游2014.04.21-04.27</a> (2014-04-18)</li>
+<li><a href="http://games.sina.com.cn/g/zt/iamagamer005/index.shtml" target="_blank">《我是玩家》第五期：柳岩</a> (2014-04-15)</li>
+<li><a href="http://games.sina.com.cn/kb/13204.shtml" target="_blank">一周（04.07-04.13）热门发卡排行榜TOP10</a> (2014-04-14)</li>
+<li><a href="http://games.sina.com.cn/r/cgwr288/index.shtml" target="_blank">新浪CGWR评测专题第288期 -《江湖》</a> (2014-04-10)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/fffkt/index.shtml" target="_blank">最终幻想经典传承元素之飞空艇</a> (2014-04-09)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/qmj/index.shtml" target="_blank">清明祭之那些经典不复存在的网游续作</a> (2014-04-05)</li>
+<li><a href="http://games.sina.com.cn/ng/wtianyu/index.shtml" target="_blank">新游尾行：天谕</a> (2014-04-04)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140407/index.shtml" target="_blank">一周测试新网游2014.04.07-04.13</a> (2014-04-04)</li>
+<li><a href="http://games.sina.com.cn/g/zt/EyesOnMe/index.shtml" target="_blank">王菲《最终幻想：Eyes On Me》</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/g/zt/2014FoolsDay/index.shtml" target="_blank">2014愚人节</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/g/zt/nmirc012/index.shtml" target="_blank">一切为了玩家的性福</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/m/zt/973recommended4/index.shtml" target="_blank">一周精选手机游戏推荐第四期</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/ng/sxlxsjld2q/index.shtml" target="_blank">我爱游戏解说：新流星搜剑录 第2期</a> (2014-03-26)</li>
+<li><a href="http://games.sina.com.cn/ng/shjd2q/index.shtml" target="_blank">我爱游戏解说：黑金 第2期</a> (2014-03-26)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140324/index.shtml" target="_blank">一周测试新网游2014.03.24-03.30</a> (2014-03-21)</li>
+<li><a href="http://games.sina.com.cn/ng/smjc/index.shtml" target="_blank">我爱游戏解说：魔界村</a> (2014-03-20)</li>
+<li><a href="http://games.sina.com.cn/ng/wxjh2/index.shtml" target="_blank">新游尾行：江湖（第二弹）</a> (2014-03-19)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/xytm/index_3.shtml" target="_blank">新游探秘_新浪游戏</a> (2014-03-18)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/xytm/index.shtml" target="_blank">新游探秘_新浪游戏</a> (2014-03-18)</li>
+<li><a href="http://games.sina.com.cn/g/zt/talk012/index.shtml" target="_blank">非理勿言012：腐女毁灭世界？</a> (2014-03-14)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140317/index.shtml" target="_blank">一周测试新网游2014.03.17-03.23</a> (2014-03-14)</li>
+<li><a href="http://games.sina.com.cn/ng/wff14/index.shtml" target="_blank">新游尾行：最终幻想14</a> (2014-03-13)</li>
+<li><a href="http://games.sina.com.cn/ng/wjz2/index.shtml" target="_blank">新游尾行：激战2（第二弹）</a> (2014-03-07)</li>
+<li><a href="http://games.sina.com.cn/g/zt/girlsweekly22/index.shtml" target="_blank">一周精选美女图赏 女神徐若瑄为网游站台</a> (2014-03-07)</li>
+<li><a href="http://games.sina.com.cn/ng/sdczg/index.shtml" target="_blank">我爱游戏解说：地城之光</a> (2014-03-07)</li>
+<li><a href="http://games.sina.com.cn/g/zt/talk011/index.shtml" target="_blank">非理勿言011：究竟在玩什么</a> (2014-02-28)</li>
+<li><a href="http://games.sina.com.cn/g/zt/girlsweekly21/index.shtml" target="_blank">一周精选美女图赏 台湾辣妹裸身直播LOL</a> (2014-02-28)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/2014feb/index.shtml" target="_blank">2014年2月测试新游全回顾</a> (2014-02-26)</li>
+<li><a href="http://games.sina.com.cn/g/zt/girlsweekly20/index.shtml" target="_blank">一周精选美女图赏 网曝游戏外围女价格表</a> (2014-02-21)</li>
+<li><a href="http://games.sina.com.cn/ng/sfbyx/index.shtml" target="_blank">我爱游戏解说：风暴英雄</a> (2014-02-20)</li>
+<li><a href="http://games.sina.com.cn/g/zt/iamagamer002/index.shtml" target="_blank">《我是玩家》第二期：JPM</a> (2014-02-18)</li>
+<li><a href="http://games.sina.com.cn/ng/changyouol/index.shtml" target="_blank">产品线不输腾讯 畅游10大新作展望</a> (2014-02-17)</li>
+<li><a href="http://games.sina.com.cn/g/zt/titanfallbetareview/index.shtml" target="_blank">划时代的机甲射击 《泰坦天降》Beta版评测</a> (2014-02-17)</li>
+<li><a href="http://games.sina.com.cn/ng/ch/140217/index.shtml" target="_blank">一周测试新网游2014.02.17-02.23</a> (2014-02-14)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/qz2014/index.shtml" target="_blank">2014年枪战类新网游盘点</a> (2014-02-13)</li>
+<li><a href="http://games.sina.com.cn/g/zt/2014damncouples/index.shtml" target="_blank">情侣必须死 2014年死死团团员能力测定</a> (2014-02-13)</li>
+<li><a href="http://games.sina.com.cn/g/zt/iamgamer001/index.shtml" target="_blank">《我是玩家》第一期</a> (2014-01-27)</li>
+<li><a href="http://games.sina.com.cn/g/zt/girlsweekly19/index.shtml" target="_blank">一周精选美女图赏 网曝游戏外围女价格表</a> (2014-01-24)</li>
+<li><a href="http://games.sina.com.cn/r/cgwrevent9/index.shtml" target="_blank">活动大事纪9 - 新锐战老将：台北电玩展网游PK</a> (2014-01-24)</li>
+<li><a href="http://games.sina.com.cn/ng/smfmzgjdj/index.shtml" target="_blank">我爱游戏解说：魔法门之冠军对决</a> (2014-01-21)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/nbazf/index.shtml" target="_blank">新浪专访李天石NBA梦之队</a> (2014-01-20)</li>
+</ul>
+</div>
+</div>
+<div class="main2">
+<div class="title1">
+<h2>产业服务专题</h2>
+<p class="more"><a href="http://games.sina.com.cn/zt/all/y/index.shtml">更多&gt;&gt;</a></p>
+</div>
+<div class="main2L">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/zt/GMGC2014/index.shtml" target="_blank">GMGC2014全球移动游戏大会</a> (2014-02-24)</li>
+<li><a href="http://games.sina.com.cn/zt/eGameIndustry2013/index.shtml" target="_blank">第十届中国游戏行业年会专题报道</a> (2013-12-10)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/mbjh/index.shtml" target="_blank">拯救大战？面包计划能否推动电竞发展</a> (2013-08-30)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/cj2013kd/index.shtml" target="_blank">Chinajoy2013逛什么？展会看点前瞻</a> (2013-07-22)</li>
+<li><a href="http://games.sina.com.cn/chinajoy2013/index.shtml" target="_blank">ChinaJoy|ChinaJoy2013全面报道_Chinajoy官网_门票_…</a> (2013-06-19)</li>
+<li><a href="http://games.sina.com.cn/zt/Survey2012res/index.shtml" target="_blank">2012中国网吧行业发展调查报告</a> (2013-04-16)</li>
+<li><a href="http://games.sina.com.cn/zt/cgia2012/index.shtml" target="_blank">2012第九届中国游戏行业年会</a> (2013-03-18)</li>
+<li><a href="http://games.sina.com.cn/zt/immtonline/index.shtml" target="_blank">《我叫MT OL》火因山口山,还是好品质?</a> (2013-02-21)</li>
+<li><a href="http://games.sina.com.cn/zt/gamer2013/index.shtml" target="_blank">2013迎祥蛇 游戏人嬉闹拜年</a> (2013-02-07)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw130118/index.shtml" target="_blank">2012中国游戏英雄榜公布</a> (2013-01-18)</li>
+<li><a href="http://games.sina.com.cn/dreamclub/46/luxiaoxu.shtml" target="_blank">一起创业吧四十六期</a> (2013-01-12)</li>
+<li><a href="http://games.sina.com.cn/zt/2012CGIAC/index.shtml" target="_blank">2012年度中国游戏产业年会全程报道</a> (2012-12-28)</li>
+<li><a href="http://focus.weibo.com/games/yingxiao/index.shtml" target="_blank">末日后八一卦 2012游戏微博营销style</a> (2012-12-25)</li>
+<li><a href="http://games.sina.com.cn/zt/2012Christmas/index.shtml" target="_blank">2012圣诞节专题</a> (2012-12-19)</li>
+<li><a href="http://games.sina.com.cn/dreamclub/45/zhangrui.shtml" target="_blank">一起创业吧四十五期</a> (2012-12-09)</li>
+<li><a href="http://games.sina.com.cn/zt/gamemxdy/index.shtml" target="_blank">娱乐明星频频助阵 借势网游逆向宣传</a> (2012-12-04)</li>
+<li><a href="http://games.sina.com.cn/zt/engine/index.shtml" target="_blank">Gstar热门新游背后的游戏引擎之争</a> (2012-11-26)</li>
+<li><a href="http://games.sina.com.cn/zt/gmgc/index.shtml" target="_blank">2012移动游戏大会</a> (2012-11-22)</li>
+<li><a href="http://games.sina.com.cn/zt/2012cj/index.shtml" target="_blank">2012CJ评估揭秘 微博火爆成传播利器</a> (2012-11-16)</li>
+<li><a href="http://games.sina.com.cn/zt/zhonghan/index.shtml" target="_blank">从“星际之差尤甚男足”看中韩网游差距之现状</a> (2012-11-13)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw121109/index.shtml" target="_blank">为了DOTA你放弃过什么</a> (2012-11-09)</li>
+<li><a href="http://games.sina.com.cn/gtime/1/index.shtml" target="_blank">第一期新浪游戏微时代线下沙龙活动_游戏微博</a> (2012-11-05)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw121102/index.shtml" target="_blank">剑灵国服已加速本地化</a> (2012-11-02)</li>
+<li><a href="http://games.sina.com.cn/zt/tw/aniwow2012/index.shtml" target="_blank">Aniwow！2012第七届中国（北京）国际大学生动画节</a> (2012-10-26)</li>
+<li><a href="http://games.sina.com.cn/vtop/2/index.shtml" target="_blank">熊猫人回归！游戏微博影响力排行榜第二期揭晓</a> (2012-10-24)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw121019/index.shtml" target="_blank">客服世界杯总决赛落幕</a> (2012-10-19)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw121012/index.shtml" target="_blank">中国战队止步S2八强赛</a> (2012-10-12)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw120821/index.shtml" target="_blank">魔兽跨服地图纷争升级</a> (2012-09-21)</li>
+<li><a href="http://games.sina.com.cn/zt/TGS2012/index.shtml" target="_blank">东京电玩展2012新浪报道</a> (2012-09-05)</li>
+<li><a href="http://games.sina.com.cn/dreamclub/40/chenxuebing.shtml" target="_blank">一起创业吧星火立方陈雪冰</a> (2012-09-03)</li>
+<li><a href="http://www.twgame.com.cn/zt/tw/caiyuan/index.shtml" target="_blank">减薪又裁员，是谁动了我的游戏橘子？</a> (2012-08-22)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw120817/index.shtml" target="_blank">剑灵激活码售价上千元</a> (2012-08-17)</li>
+<li><a href="http://games.sina.com.cn/zt/whly2012/index.shtml" target="_blank">2012第二届中国国际文化旅游周</a> (2012-08-09)</li>
+<li><a href="http://games.sina.com.cn/weekly/116/index.html" target="_blank">微端市场白热化</a> (2012-08-07)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw120727/index.shtml" target="_blank">熊猫人之谜将全球上市</a> (2012-07-27)</li>
+<li><a href="http://games.sina.com.cn/zt/gamesalon3/index.shtml" target="_blank">中国网络游戏评论文化沙龙</a> (2012-07-05)</li>
+<li><a href="http://focus.weibo.com/games/gaokao/index.shtml" target="_blank">能力全开！游戏人祝福考生金榜提名！</a> (2012-06-05)</li>
+<li><a href="http://focus.weibo.com/games/biye/index.shtml" target="_blank">又是一年#毕业季# 回首那段悄然逝去的时光</a> (2012-05-22)</li>
+<li><a href="http://games.sina.com.cn/zt/csdgame/index.shtml" target="_blank">次世代网游侵袭市场</a> (2012-05-11)</li>
+<li><a href="http://games.sina.com.cn/zt/dswebgame/index.shtml" target="_blank">文化部反页游低俗宣传</a> (2012-04-28)</li>
+<li><a href="http://games.sina.com.cn/zt/cegames/index.shtml" target="_blank">国外网游刮“中国风”</a> (2012-04-08)</li>
+<li><a href="http://games.sina.com.cn/weekly/97/index.html" target="_blank">网易续约WOW</a> (2012-03-29)</li>
+<li><a href="http://games.sina.com.cn/zt/wmg5/index.shtml" target="_blank">第五届网页游戏&amp;移动游戏高峰论坛</a> (2012-03-26)</li>
+<li><a href="http://games.sina.com.cn/zt/cjgameweibo/index.shtml" target="_blank">2012CJ微游戏参展报名</a> (2012-03-23)</li>
+<li><a href="http://topic.t.sina.com.cn/games/talk2/index.shtml" target="_blank">#V语录#第2期：时空裂痕最炫民族风 骑熊猫长城上打龙</a> (2012-03-20)</li>
+<li><a href="http://games.sina.com.cn/zt/2012315games/index.shtml" target="_blank">315透视游戏圈侵权案</a> (2012-03-15)</li>
+<li><a href="http://focus.weibo.com/games/cgwr2011/index.shtml" target="_blank">2011新浪中国网络游戏排行榜（CGWR）颁奖典礼</a> (2012-03-12)</li>
+<li><a href="http://games.sina.com.cn/zt/gamesf/index.shtml" target="_blank">网游收费模式演变史</a> (2012-03-06)</li>
+<li><a href="http://games.sina.com.cn/zt/ipadgames/index.shtml" target="_blank">游戏布局平板电脑市场</a> (2012-03-04)</li>
+<li><a href="http://topic.t.sina.com.cn/games/fuerdai/index.shtml" target="_blank">游戏把妹纸 你拼得过富二代吗？</a> (2012-02-27)</li>
+</ul>
+</div>
+<div class="main2R">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/zt/CGIAC2013/index.shtml" target="_blank">2013年度中国游戏产业年会专题报道</a> (2013-12-23)</li>
+<li><a href="http://games.sina.com.cn/digichina2013.shtml" target="_blank">2013年第十一届网博会新浪游戏全面报道</a> (2013-10-08)</li>
+<li><a href="http://games.sina.com.cn/g/zt/sgcj/index.shtml" target="_blank">Showgirl谈CJ:我们非红花 只为游戏添风彩</a> (2013-08-07)</li>
+<li><a href="http://games.sina.com.cn/zt/touzi/3/index.shtml" target="_blank">游戏创业开放日深圳站</a> (2013-07-03)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/stg/index.shtml" target="_blank">那些年我们一起玩过的STG游戏</a> (2013-05-27)</li>
+<li><a href="http://games.sina.com.cn/zt/waad/index.shtml" target="_blank">游戏的世界里你不会孤单</a> (2013-03-29)</li>
+<li><a href="http://games.sina.com.cn/zt/2013315games/index.shtml" target="_blank">2013年315特别专题</a> (2013-03-11)</li>
+<li><a href="http://games.sina.com.cn/weekly/142/index.html" target="_blank">掌趣收购动网</a> (2013-02-07)</li>
+<li><a href="http://games.sina.com.cn/zt/gtime/2/index.shtml" target="_blank">桌游如何过冬 第2期新浪游戏微时代线下沙龙</a> (2013-01-22)</li>
+<li><a href="http://games.sina.com.cn/zt/tw/2013tgs/index.shtml" target="_blank">新浪游戏带你玩转2013台北国际电玩展</a> (2013-01-16)</li>
+<li><a href="http://games.sina.com.cn/zt/disandai/index.shtml" target="_blank">死亡OR重生 看国内第三代网游企业现状</a> (2013-01-07)</li>
+<li><a href="http://games.sina.com.cn/zt/2012pd/index.shtml" target="_blank">2012年游戏业界盘点回顾</a> (2012-12-28)</li>
+<li><a href="http://games.sina.com.cn/zt/award2012/index.shtml" target="_blank">2012年金翎奖颁奖典礼</a> (2012-12-24)</li>
+<li><a href="http://games.sina.com.cn/zt/2012doomsday/index.shtml" target="_blank">后世界末日生存指南</a> (2012-12-13)</li>
+<li><a href="http://games.sina.com.cn/digichina2012/index.shtml" target="_blank">2012年第十届网博会新浪游戏全面报道_digichina2012</a> (2012-12-04)</li>
+<li><a href="http://games.sina.com.cn/zt/gamercareer/index.shtml" target="_blank">游戏宅蜕变高富帅不是梦?</a> (2012-11-29)</li>
+<li><a href="http://games.sina.com.cn/dreamclub/44/yijianliang.shtml" target="_blank">一起创业吧四十四期</a> (2012-11-24)</li>
+<li><a href="http://games.sina.com.cn/zt/gamevs/index.shtml" target="_blank">RIFT与WOW卖萌搞基 欧美网游能否逆袭</a> (2012-11-17)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw121116/index.shtml" target="_blank">DOTA2国服正式上线</a> (2012-11-16)</li>
+<li><a href="http://games.sina.com.cn/dreamclub/43/yuhong.shtml" target="_blank">一起创业吧四十三期</a> (2012-11-11)</li>
+<li><a href="http://games.sina.com.cn/zt/zhengnengliang/index.shtml" target="_blank">友爱互助献血事件体现游戏圈正能量</a> (2012-11-07)</li>
+<li><a href="http://games.sina.com.cn/zt/mggames/index.shtml" target="_blank">Win8等新品强势来袭</a> (2012-11-03)</li>
+<li><a href="http://games.sina.com.cn/dreamclub/42/maohaibin.shtml" target="_blank">一起创业吧四十二期</a> (2012-10-27)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw121026/index.shtml" target="_blank">新仙剑OL再续仙剑情缘</a> (2012-10-26)</li>
+<li><a href="http://games.sina.com.cn/zt/zlp/index.shtml" target="_blank">资料片更新难掩端游颓势</a> (2012-10-21)</li>
+<li><a href="http://games.sina.com.cn/vtop/1/index.shtml" target="_blank">谁的微博最给力 游戏微博影响力排行榜重磅出炉</a> (2012-10-15)</li>
+<li><a href="http://games.sina.com.cn/dreamclub/41/jiangchunlin.shtml" target="_blank">一起创业吧41期：畅思得姜春林</a> (2012-10-09)</li>
+<li><a href="http://focus.weibo.com/games/jiaoshijie/index.shtml" target="_blank">教师节专题：献给领路人 游戏人感念恩师</a> (2012-09-10)</li>
+<li><a href="http://games.sina.com.cn/zt/shenmo/index.shtml" target="_blank">神魔大陆“狼行天下”呼唤狼性之旅</a> (2012-09-04)</li>
+<li><a href="http://focus.weibo.com/games/kaixue/index.shtml" target="_blank">无苹果，不开学——开学雷人奇葩事儿</a> (2012-08-28)</li>
+<li><a href="http://focus.weibo.com/games/2012qixi/index.shtml" target="_blank">七夕特献：末日前的狂欢 晒出你的“栖息”地</a> (2012-08-22)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw120810/index.shtml" target="_blank">魔兽玩家很傻很天真</a> (2012-08-10)</li>
+<li><a href="http://games.sina.com.cn/zt/gamesonolympic/index.shtml" target="_blank">扒一扒奥运会上的游戏元素</a> (2012-08-09)</li>
+<li><a href="http://games.sina.com.cn/weekly/115/index.html" target="_blank">CJ专访蔡明宏</a> (2012-07-31)</li>
+<li><a href="http://games.sina.com.cn/zt/gameshm/index.shtml" target="_blank">2.5D时代刚来临？</a> (2012-07-13)</li>
+<li><a href="http://games.sina.com.cn/zt/shoufei/index.shtml" target="_blank">道具收费七年之痒 剖析国内收费模式迷局</a> (2012-06-28)</li>
+<li><a href="http://games.sina.com.cn/zt/d3gf/index.shtml" target="_blank">暗黑3国服还有多远</a> (2012-05-24)</li>
+<li><a href="http://games.sina.com.cn/col/wsd.html" target="_blank">游戏V时代</a> (2012-05-15)</li>
+<li><a href="http://games.sina.com.cn/chinajoy2012/index.shtml" target="_blank">ChinaJoy|ChinaJoy2012全面报道_Chinajoy官网_门票_…</a> (2012-05-03)</li>
+<li><a href="http://games.sina.com.cn/weekly/99/index.html" target="_blank">浙报收购边锋</a> (2012-04-10)</li>
+<li><a href="http://games.sina.com.cn/weekly/98/index.html" target="_blank">网游跨界代言</a> (2012-04-03)</li>
+<li><a href="http://games.sina.com.cn/zt/tggames/index.shtml" target="_blank">体感游戏催生全民运动新观念</a> (2012-03-27)</li>
+<li><a href="http://games.sina.com.cn/zt/3dhuihe/index.shtml" target="_blank">3D回合制网游英雄命短</a> (2012-03-25)</li>
+<li><a href="http://games.sina.com.cn/weekly/96/index.html" target="_blank">征途六年总结</a> (2012-03-20)</li>
+<li><a href="http://topic.t.sina.com.cn/games/weibogames/index.shtml" target="_blank">#猜厂商拿大奖#四大国际巨头联手新浪微博 神秘力作即…</a> (2012-03-16)</li>
+<li><a href="http://games.sina.com.cn/weekly/95/index.html" target="_blank">双核运营启动</a> (2012-03-13)</li>
+<li><a href="http://games.sina.com.cn/zt/gamesmagazine/index.shtml" target="_blank">从电软停刊看产业弊病</a> (2012-03-07)</li>
+<li><a href="http://games.sina.com.cn/weekly/94/index.html" target="_blank">专访姚壮宪</a> (2012-03-06)</li>
+<li><a href="http://games.sina.com.cn/weekly/93/index.html" target="_blank">网易加强自研产品线</a> (2012-02-28)</li>
+<li><a href="http://games.sina.com.cn/weekly/92/index.html" target="_blank">FireFall发布会</a> (2012-02-21)</li>
+</ul>
+</div>
+</div>
+<div class="main2">
+<div class="title1">
+<h2>单机游戏专题</h2>
+<p class="more"><a href="http://games.sina.com.cn/zt/all/j/index.shtml">更多&gt;&gt;</a></p>
+</div>
+<div class="main2L">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/j/zt/2014pcqm/index.shtml" target="_blank">追忆我们失去的那些游戏和青春</a> (2014-04-01)</li>
+<li><a href="http://games.sina.com.cn/j/zt/dragonage3/index.shtml" target="_blank">龙腾世纪3：审判专题站</a> (2014-03-11)</li>
+<li><a href="http://games.sina.com.cn/j/zt/mgs5/index.shtml" target="_blank">合金装备5专题站</a> (2014-02-24)</li>
+<li><a href="http://games.sina.com.cn/j/zt/thief4/index.shtml" target="_blank">神偷4专题站</a> (2014-02-10)</li>
+<li><a href="http://games.sina.com.cn/j/zt/titanfall/index.shtml" target="_blank">泰坦陨落专题站</a> (2013-12-10)</li>
+<li><a href="http://games.sina.com.cn/j/zt/xinchang14/index.shtml" target="_blank">信长之野望14：创造专题站</a> (2013-10-22)</li>
+<li><a href="http://games.sina.com.cn/ng/sytxmz/index.shtml" target="_blank">我爱游戏解说：御天降魔传</a> (2013-09-06)</li>
+<li><a href="http://games.sina.com.cn/j/zt/watchdogs/index.shtml" target="_blank">看门狗专题站</a> (2013-08-05)</li>
+<li><a href="http://games.sina.com.cn/j/zt/sc2party/index.shtml" target="_blank">《星际争霸2：虫群之心》竞技狂热派</a> (2013-07-13)</li>
+<li><a href="http://games.sina.com.cn/j/zt/nfs18/index.shtml" target="_blank">极品飞车18：宿敌专题站</a> (2013-07-08)</li>
+<li><a href="http://games.sina.com.cn/j/zt/fifa14/index.shtml" target="_blank">FIFA 14中文专题站</a> (2013-06-25)</li>
+<li><a href="http://games.sina.com.cn/j/zt/cod10/index.shtml" target="_blank">使命召唤10：幽灵专题站</a> (2013-06-18)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicmsp02/index.shtml" target="_blank">经典台词特囧篇：天雷滚滚</a> (2013-05-30)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm012/index.shtml" target="_blank">游戏经典台词与对白赏第12期</a> (2013-05-17)</li>
+<li><a href="http://games.sina.com.cn/j/zt/rome2/index.shtml" target="_blank">罗马2：全面战争专题站</a> (2013-05-08)</li>
+<li><a href="http://games.sina.com.cn/zt/starcraft15/index.shtml" target="_blank">星际争霸十五周年</a> (2013-04-23)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm008/index.shtml" target="_blank">游戏经典台词与对白赏第八期</a> (2013-04-11)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicmsp1/index.shtml" target="_blank">一大波熊孩子来了</a> (2013-03-18)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm005/index.shtml" target="_blank">游戏经典台词与对白赏第五期</a> (2013-03-08)</li>
+<li><a href="http://games.sina.com.cn/j/zt/gujian2/index.shtml" target="_blank">古剑奇谭2专区</a> (2013-02-28)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm002/index.shtml" target="_blank">游戏经典台词及对白第二期</a> (2013-02-07)</li>
+<li><a href="http://games.sina.com.cn/j/zt/projectcars/index.shtml" target="_blank">赛车计划专区</a> (2013-01-09)</li>
+<li><a href="http://games.sina.com.cn/j/zt/arma3/index.shtml" target="_blank">武装突袭3专区</a> (2012-12-17)</li>
+<li><a href="http://games.sina.com.cn/j/zt/hostest/index.shtml" target="_blank">虫群之心试玩体验</a> (2012-09-07)</li>
+<li><a href="http://games.sina.com.cn/zt/spidermanvbatman/index.shtml" target="_blank">蜘蛛侠VS蝙蝠侠超级大比拼</a> (2012-08-22)</li>
+<li><a href="http://games.sina.com.cn/j/zt/tffc/index.shtml" target="_blank">变形金刚：塞伯坦的陨落专区</a> (2012-07-11)</li>
+<li><a href="http://games.sina.com.cn/j/zt/coh2/index.shtml" target="_blank">英雄连2专区</a> (2012-07-02)</li>
+<li><a href="http://games.sina.com.cn/j/zt/deadspace3/index.shtml" target="_blank">死亡空间3专区</a> (2012-06-18)</li>
+<li><a href="http://games.sina.com.cn/j/zt/d3new/index.shtml" target="_blank">暗黑破坏神3上手必读</a> (2012-05-18)</li>
+<li><a href="http://games.sina.com.cn/j/zt/crysis3/index.shtml" target="_blank">孤岛危机3专区</a> (2012-05-07)</li>
+<li><a href="http://games.sina.com.cn/j/zt/ghostrecon4/index.shtml" target="_blank">幽灵行动：未来战士专题站</a> (2012-04-16)</li>
+<li><a href="http://games.sina.com.cn/j/zt/fool2012/index.shtml" target="_blank">2012年4月1日单机游戏新闻播报</a> (2012-03-26)</li>
+<li><a href="http://games.sina.com.cn/j/zt/dotahistory/index.shtml" target="_blank">DOTA游戏的发展历程</a> (2012-02-22)</li>
+<li><a href="http://games.sina.com.cn/j/zt/trine2/index.shtml" target="_blank">三位一体2专题站</a> (2011-12-21)</li>
+<li><a href="http://games.sina.com.cn/j/zt/sc2hosr2/index.shtml" target="_blank">星际争霸2：虫群之心最新前瞻</a> (2011-10-28)</li>
+<li><a href="http://games.sina.com.cn/j/zt/csgo/index.shtml" target="_blank">反恐精英：全球突击专题站</a> (2011-08-30)</li>
+<li><a href="http://games.sina.com.cn/zt/201107hotgame/index.shtml" target="_blank">7月热门游戏下载回顾</a> (2011-07-20)</li>
+<li><a href="http://games.sina.com.cn/zt/Paladin5/index.shtml" target="_blank">十六载守候 仙剑因你感动</a> (2011-06-23)</li>
+<li><a href="http://games.sina.com.cn/j/zt/devilmaycry5/index.shtml" target="_blank">鬼泣5专题站</a> (2011-06-16)</li>
+<li><a href="http://games.sina.com.cn/j/zt/sc2hos/index.shtml" target="_blank">星际争霸2：虫群之心前瞻</a> (2011-06-07)</li>
+<li><a href="http://games.sina.com.cn/j/zt/d3wiki/index.shtml" target="_blank">暗黑3资料百科</a> (2011-05-30)</li>
+<li><a href="http://games.sina.com.cn/j/zt/antipirate/index.shtml" target="_blank">游戏反盗版的是是非非</a> (2011-05-23)</li>
+<li><a href="http://games.sina.com.cn/j/zt/witcher2/index.shtml" target="_blank">巫师2专题站</a> (2011-05-18)</li>
+<li><a href="http://games.sina.com.cn/zt/pkgame13/index.shtml" target="_blank">星际2收费方式满意吗？</a> (2011-03-23)</li>
+<li><a href="http://games.sina.com.cn/j/zt/heroes6/index.shtml" target="_blank">英雄无敌6专题站</a> (2011-01-18)</li>
+<li><a href="http://games.sina.com.cn/zt/sgame/index.shtml" target="_blank">打败大制作的小游戏</a> (2010-12-27)</li>
+<li><a href="http://games.sina.com.cn/j/zt/pc2010/index.shtml" target="_blank">单机游戏2010年度热点回顾</a> (2010-12-03)</li>
+<li><a href="http://games.sina.com.cn/zt/codblackops/index.shtml" target="_blank">《使命召唤：黑色行动》敏感剧情受到谴责</a> (2010-11-12)</li>
+<li><a href="http://games.sina.com.cn/zt/mjgameworld/index.shtml" target="_blank">迈克尔·杰克逊的游戏世界</a> (2010-11-05)</li>
+<li><a href="http://games.sina.com.cn/zt/jieji/index.shtml" target="_blank">经典街机游戏下载</a> (2010-11-01)</li>
+</ul>
+</div>
+<div class="main2R">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/j/zt/357/index.shtml" target="_blank">真三国无双7专题站</a> (2014-03-19)</li>
+<li><a href="http://games.sina.com.cn/j/zt/witcher3/index.shtml" target="_blank">巫师3：狂猎专题站</a> (2014-03-03)</li>
+<li><a href="http://games.sina.com.cn/j/zt/ff15/index.shtml" target="_blank">最终幻想15专题站</a> (2014-02-20)</li>
+<li><a href="http://games.sina.com.cn/j/zt/pvzgarden/index.shtml" target="_blank">植物大战僵尸：花园战争专题站</a> (2014-01-20)</li>
+<li><a href="http://games.sina.com.cn/blizzcon2013/index.shtml" target="_blank">暴雪嘉年华2013专题报道</a> (2013-10-30)</li>
+<li><a href="http://games.sina.com.cn/j/zt/naruto3/index.shtml" target="_blank">火影忍者：究极忍者风暴3专题站</a> (2013-09-25)</li>
+<li><a href="http://games.sina.com.cn/j/zt/nba2k14/index.shtml" target="_blank">NBA 2K14专题站</a> (2013-08-27)</li>
+<li><a href="http://games.sina.com.cn/j/zt/ac4/index.shtml" target="_blank">刺客信条4专题站</a> (2013-07-29)</li>
+<li><a href="http://games.sina.com.cn/j/zt/pes2014/index.shtml" target="_blank">实况足球2014专题站</a> (2013-07-11)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm016/index.shtml" target="_blank">游戏经典台词与对白赏第16期</a> (2013-06-26)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm015/index.shtml" target="_blank">游戏经典台词与对白赏第15期</a> (2013-06-19)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm014/index.shtml" target="_blank">游戏经典台词与对白赏第14期</a> (2013-06-08)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm013/index.shtml" target="_blank">游戏经典台词与对白赏第13期</a> (2013-05-23)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm011/index.shtml" target="_blank">游戏经典台词与对白赏第11期</a> (2013-05-10)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm010/index.shtml" target="_blank">游戏经典台词与对白赏第十期</a> (2013-04-26)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm009/index.shtml" target="_blank">游戏经典台词与对白赏第九期</a> (2013-04-19)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm007/index.shtml" target="_blank">游戏经典台词与对白赏第七期</a> (2013-03-29)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm006/index.shtml" target="_blank">游戏经典台词与对白赏第六期</a> (2013-03-14)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm004/index.shtml" target="_blank">游戏经典台词与对白赏第四期</a> (2013-02-28)</li>
+<li><a href="http://games.sina.com.cn/j/zt/joypicm003/index.shtml" target="_blank">游戏经典台词及对白赏第三期</a> (2013-02-19)</li>
+<li><a href="http://games.sina.com.cn/j/zt/hoscompaign/index.shtml" target="_blank">星际争霸2：虫群之心战役初探</a> (2013-01-21)</li>
+<li><a href="http://games.sina.com.cn/j/zt/acecombat7/index.shtml" target="_blank">皇牌空战：突击地平线专区</a> (2012-12-24)</li>
+<li><a href="http://games.sina.com.cn/j/zt/hitman5/index.shtml" target="_blank">杀手5：赦免专区</a> (2012-12-03)</li>
+<li><a href="http://games.sina.com.cn/pal5q/index.shtml" target="_blank">仙剑奇侠传5前传专区</a> (2012-08-31)</li>
+<li><a href="http://games.sina.com.cn/j/zt/swd6/index.shtml" target="_blank">轩辕剑6专区</a> (2012-07-16)</li>
+<li><a href="http://games.sina.com.cn/j/zt/ff7pc/index.shtml" target="_blank">最终幻想7重制版专区</a> (2012-07-05)</li>
+<li><a href="http://games.sina.com.cn/j/zt/pes2013/index.shtml" target="_blank">实况足球2013专区</a> (2012-06-25)</li>
+<li><a href="http://games.sina.com.cn/j/zt/nfs17/index.shtml" target="_blank">极品飞车17：最高通缉专题站</a> (2012-06-13)</li>
+<li><a href="http://games.sina.com.cn/j/zt/d3handon/index.shtml" target="_blank">暗黑3试玩报告</a> (2012-05-09)</li>
+<li><a href="http://games.sina.com.cn/j/zt/cod9/index.shtml" target="_blank">使命召唤9：黑色行动2专题站</a> (2012-05-02)</li>
+<li><a href="http://games.sina.com.cn/j/zt/hurricanex/index.shtml" target="_blank">风卷残云专区</a> (2012-04-05)</li>
+<li><a href="http://games.sina.com.cn/j/zt/simcity5/index.shtml" target="_blank">模拟城市5专区</a> (2012-03-08)</li>
+<li><a href="http://games.sina.com.cn/j/zt/pchistory/index.shtml" target="_blank">单机游戏不得不说的一些过去</a> (2011-12-27)</li>
+<li><a href="http://games.sina.com.cn/zt/COD8MW3/index.shtml" target="_blank">劫匪大爱使命召唤系列</a> (2011-11-11)</li>
+<li><a href="http://games.sina.com.cn/j/zt/d3play/index.shtml" target="_blank">《暗黑3》BETA试玩</a> (2011-09-21)</li>
+<li><a href="http://games.sina.com.cn/zt/201108hotgame/index.shtml" target="_blank">8月热门游戏下载回顾</a> (2011-08-24)</li>
+<li><a href="http://games.sina.com.cn/j/zt/d3beta/index.shtml" target="_blank">暗黑破坏神3 BETA测试</a> (2011-07-04)</li>
+<li><a href="http://games.sina.com.cn/zt/201106hotgame/index.shtml" target="_blank">6月热门游戏下载回顾</a> (2011-06-22)</li>
+<li><a href="http://games.sina.com.cn/j/zt/eggache/index.shtml" target="_blank">那些让人蛋疼的单机游戏</a> (2011-06-13)</li>
+<li><a href="http://games.sina.com.cn/j/zt/d3story/index.shtml" target="_blank">暗黑3故事背景专题</a> (2011-05-31)</li>
+<li><a href="http://games.sina.com.cn/j/zt/torchlight2/index.shtml" target="_blank">火炬之光2专题站</a> (2011-05-25)</li>
+<li><a href="http://games.sina.com.cn/zt/201105hotgame/index.shtml" target="_blank">5月热门游戏下载回顾</a> (2011-05-23)</li>
+<li><a href="http://games.sina.com.cn/zt/pkgame14/index.shtml" target="_blank">仙剑5盗版你会抵制吗？</a> (2011-04-25)</li>
+<li><a href="http://games.sina.com.cn/video/vzt2/index.shtml" target="_blank">新浪游戏视频直播专题-游戏直播专题第一期</a> (2011-01-24)</li>
+<li><a href="http://games.sina.com.cn/j/zt/homefront/index.shtml" target="_blank">国土防线专题站</a> (2011-01-07)</li>
+<li><a href="http://games.sina.com.cn/j/zt/dukeforever/index.shtml" target="_blank">永远的毁灭公爵专题站</a> (2010-12-15)</li>
+<li><a href="http://games.sina.com.cn/zt/zumadown/index.shtml" target="_blank">祖玛游戏下载专题_新浪游戏下载_新浪游戏</a> (2010-11-22)</li>
+<li><a href="http://games.sina.com.cn/zt/pcfun/index.shtml" target="_blank">单机游戏万人下载精选</a> (2010-11-11)</li>
+<li><a href="http://games.sina.com.cn/zt/palcos/index.shtml" target="_blank">仙剑奇侠传官方COSPLAY评选活动</a> (2010-11-01)</li>
+<li><a href="http://games.sina.com.cn/zt/gamegirls/index.shtml" target="_blank">游戏美女你最爱谁</a> (2010-10-28)</li>
+</ul>
+</div>
+</div>
+<div class="main2">
+<div class="title1">
+<h2>休闲娱乐专题</h2>
+<p class="more"><a href="http://games.sina.com.cn/zt/all/l/index.shtml">更多&gt;&gt;</a></p>
+</div>
+<div class="main2L">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/xyz/zt/sanguosha/index.html" target="_blank">三国杀回顾与新版《界限突破》展望</a> (2014-04-24)</li>
+<li><a href="http://games.sina.com.cn/zt/2014happynewyear/index.shtml" target="_blank">马上嗨翻天2014新春小游戏专题</a> (2014-01-21)</li>
+<li><a href="http://games.sina.com.cn/g/zt/nmirc006/index.shtml" target="_blank">壕，我们做朋友吧！</a> (2013-10-10)</li>
+<li><a href="http://games.sina.com.cn/g/zt/nmirc005/index.shtml" target="_blank">不能啪啪啪的原因</a> (2013-09-03)</li>
+<li><a href="http://games.sina.com.cn/g/zt/absolute/index.shtml" target="_blank">绝对领域VS绝对空域</a> (2013-07-09)</li>
+<li><a href="http://games.sina.com.cn/zt/diaosi/index.shtml" target="_blank">全民皆屌丝？你躺着中几枪！</a> (2012-04-24)</li>
+<li><a href="http://focus.weibo.com/games/cangjingkong/index.shtml" target="_blank">“德艺双馨”苍老师被封杀 众多宅男何去何从？？？</a> (2012-04-17)</li>
+<li><a href="http://topic.t.sina.com.cn/games/funvjie/index.shtml" target="_blank">男人们都弱爆了 看MM玩家霸气侧漏</a> (2012-03-07)</li>
+<li><a href="http://games.sina.com.cn/zt/lwzk06/index.shtml" target="_blank">那些年我们一起追过的动漫女孩-乐玩周刊06</a> (2012-02-21)</li>
+<li><a href="http://games.sina.com.cn/zt/lwzk4/index.shtml" target="_blank">乐玩周刊第四期</a> (2012-02-07)</li>
+<li><a href="http://games.sina.com.cn/zt/lxm/index.shtml" target="_blank">人气美女cos组合螺旋猫专辑</a> (2011-12-13)</li>
+<li><a href="http://games.sina.com.cn/zt/shangman/index.shtml" target="_blank">动漫月刊《尚漫》专区</a> (2011-11-16)</li>
+<li><a href="http://games.sina.com.cn/zt/klbb/index.shtml" target="_blank">恐龙宝贝</a> (2011-10-18)</li>
+<li><a href="http://games.sina.com.cn/zt/pixar/index.shtml" target="_blank">皮克斯25年动画生涯</a> (2011-08-01)</li>
+<li><a href="http://games.sina.com.cn/zt/fu/index.shtml" target="_blank">非腐勿扰！那些和谐的腐剧，腐动画们！</a> (2011-07-14)</li>
+<li><a href="http://games.sina.com.cn/comic/yaoji/index.shtml" target="_blank">表情一扎堆儿之小幺鸡</a> (2011-07-07)</li>
+<li><a href="http://games.sina.com.cn/zt/zwjp/index.shtml" target="_blank">中文精品小游戏</a> (2011-06-13)</li>
+<li><a href="http://games.sina.com.cn/zt/2011kids/index.shtml" target="_blank">新浪游戏小编童年大起底</a> (2011-05-26)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw110429/index.shtml" target="_blank">官方严惩裸体补丁玩家</a> (2011-04-28)</li>
+<li><a href="http://games.sina.com.cn/214/love/index.shtml" target="_blank">动漫也有爱“将爱”进行到底</a> (2011-02-14)</li>
+<li><a href="http://games.sina.com.cn/zt/christmasgame/index.shtml" target="_blank">圣诞节小游戏专题</a> (2010-12-23)</li>
+<li><a href="http://games.sina.com.cn/zt/motorcycle/index.shtml" target="_blank">赛车小游戏专题</a> (2010-11-29)</li>
+<li><a href="http://games.sina.com.cn/zt/groover/index.shtml" target="_blank">黄金矿工小游戏专题</a> (2010-11-24)</li>
+<li><a href="http://games.sina.com.cn/zt/supermario/index.shtml" target="_blank">超级玛丽小游戏专题</a> (2010-11-17)</li>
+<li><a href="http://games.sina.com.cn/video/hot.shtml" target="_blank">新浪游戏原创视频节目《游戏沸点》</a> (2010-11-03)</li>
+<li><a href="http://games.sina.com.cn/zt/national2010/index.shtml" target="_blank">玩儿转十一小游戏专题</a> (2010-09-20)</li>
+<li><a href="/littlegame/zt/08jp.shtml" target="_blank">小游戏年终精品推荐</a> (2009-01-16)</li>
+<li><a href="/littlegame/zt/warcraft_mini/index.shtml" target="_blank">魔兽RPG小游戏专题</a> (2007-06-26)</li>
+<li><a href="/littlegame/zt/office061127/index.shtml" target="_blank">办公室小游戏全集</a> (2006-11-27)</li>
+<li><a href="/littlegame/zt/basketball061116/index.shtml" target="_blank">篮球游戏经典全集</a> (2006-11-16)</li>
+<li><a href="/littlegame/zt/thelittlesims/index.shtml" target="_blank">模拟人生小游戏经典全集</a> (2006-10-31)</li>
+<li><a href="/littlegame/zt/rpgrpg/index.shtml" target="_blank">rpg小游戏经典全集</a> (2006-10-16)</li>
+<li><a href="/littlegame/zt/holiday/index.shtml" target="_blank">疯狂假日小游戏集锦</a> (2006-09-25)</li>
+<li><a href="/littlegame/zt/racego/index.shtml" target="_blank">赛车竞速类小游戏全集</a> (2006-09-06)</li>
+<li><a href="/littlegame/zt/shootall/index.shtml" target="_blank">街机经典空战游戏全集</a> (2006-08-24)</li>
+<li><a href="/littlegame/zt/clothes/index.shtml" target="_blank">美女更衣化妆理发造型设计</a> (2006-08-10)</li>
+<li><a href="/littlegame/zt/xinliceshi/index.shtml" target="_blank">心理爱情与智商情商测试集</a> (2006-07-26)</li>
+<li><a href="/littlegame/zt/hanghaixiaoyouxi/index.shtml" target="_blank">航海小游戏合集</a> (2006-07-24)</li>
+<li><a href="/littlegame/zt/xxyl/laborday06/index.shtml" target="_blank">放松身心 玩转五一劳动节</a> (2006-04-28)</li>
+<li><a href="/littlegame/zt/xxyl/chunjiexiaoyouxi/index.shtml" target="_blank">春节休闲小游戏荟萃</a> (2006-01-26)</li>
+<li><a href="/littlegame/zt/xxyl/taiqiu/index.shtml" target="_blank">单机版台球游戏全集</a> (2005-11-25)</li>
+<li><a href="/littlegame/zt/xxyl/majiang/index.shtml" target="_blank">单机版麻将全集</a> (2005-09-30)</li>
+<li><a href="/littlegame/zt/xxyl/puke/index.shtml" target="_blank">单机棋牌类游戏之《棋篇》</a> (2005-09-29)</li>
+<li><a href="/littlegame/zt/xxyl/zuian/index.shtml" target="_blank">惊悚悬疑 尽在罪案现场</a> (2005-09-27)</li>
+<li><a href="/littlegame/zt/xxyl/childrengame/index.shtml" target="_blank">20款儿童小游戏 你快乐我开心</a> (2005-05-31)</li>
+<li><a href="/littlegame/zt/xxyl/foolday/index.shtml" target="_blank">愚人节的小游戏精选</a> (2005-03-31)</li>
+<li><a href="/littlegame/zt/xxyl/littlemm/index.shtml" target="_blank">《美眉小游戏合集》</a> (2005-01-12)</li>
+<li><a href="/littlegame/zt/xxyl/huana/index.shtml" target="_blank">《华纳冒险＋米勒山庄》惊世合集</a> (2004-12-10)</li>
+<li><a href="/littlegame/zt/llk/index.shtml" target="_blank">《一起连连看》最热大杂烩</a> (2004-09-21)</li>
+<li><a href="/littlegame/zt/pcgames/lookout/index.shtml" target="_blank">《大家来找茬》完美合集</a> (2004-09-09)</li>
+</ul>
+</div>
+<div class="main2R">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/g/zt/nmirc011/index.shtml" target="_blank">都教授走了谁来陪你？</a> (2014-03-03)</li>
+<li><a href="http://games.sina.com.cn/g/zt/nmirc007/index.shtml" target="_blank">人人都爱眼镜娘</a> (2013-10-28)</li>
+<li><a href="http://games.sina.com.cn/zt/2013midautumnfestival/index.shtml" target="_blank">新浪玩玩2013中秋小游戏专题</a> (2013-09-17)</li>
+<li><a href="http://games.sina.com.cn/g/zt/nmirc004/index.shtml" target="_blank">男男相拥菊不香</a> (2013-07-15)</li>
+<li><a href="http://games.sina.com.cn/zt/ribenmanhua/index.shtml" target="_blank">你的画风不可能这么坑爹！日本漫画家蜕变报告</a> (2012-04-25)</li>
+<li><a href="http://games.sina.com.cn/zt/jjys/index.shtml" target="_blank">囧囧有神第七届动漫同人展现场报道</a> (2012-04-21)</li>
+<li><a href="http://games.sina.com.cn/zt/dufu/index.shtml" target="_blank">千年之后的微博king——杜甫的漫画人生</a> (2012-03-26)</li>
+<li><a href="http://games.sina.com.cn/zt/lwzk07/index.shtml" target="_blank">票房口碑双丰收的动画电影乐玩周刊第七期</a> (2012-02-27)</li>
+<li><a href="http://games.sina.com.cn/zt/lwzk05/index.shtml" target="_blank">乐玩周刊第五期WF2012汇总</a> (2012-02-16)</li>
+<li><a href="http://games.sina.com.cn/zt/lwzk2/index.shtml" target="_blank">乐玩周刊02</a> (2011-12-27)</li>
+<li><a href="http://games.sina.com.cn/zt/lyxxl/index.shtml" target="_blank">萌狼的圣诞节：《狼与香辛料》cosplay大赛</a> (2011-11-21)</li>
+<li><a href="http://games.sina.com.cn/zt/mhyz03/index.shtml" target="_blank">漫话一周第三期</a> (2011-10-31)</li>
+<li><a href="http://games.sina.com.cn/zt/ft/index.shtml" target="_blank">足球小游戏专题</a> (2011-10-13)</li>
+<li><a href="http://games.sina.com.cn/zt/lapin1/index.shtml" target="_blank">一周辣评：国产动画的抄袭之路</a> (2011-07-18)</li>
+<li><a href="http://games.sina.com.cn/zt/dadatu/index.shtml" target="_blank">表情一扎堆儿之达达兔</a> (2011-07-12)</li>
+<li><a href="http://games.sina.com.cn/zt/best_xyx/index.shtml" target="_blank">经典必玩小游戏专题</a> (2011-06-15)</li>
+<li><a href="http://games.sina.com.cn/zt/haidao/index.shtml" target="_blank">海盗游戏专题</a> (2011-06-02)</li>
+<li><a href="http://games.sina.com.cn/zt/yzzw110506/index.shtml" target="_blank">雷人游戏外设增长鼻子</a> (2011-05-05)</li>
+<li><a href="http://games.sina.com.cn/zt/wanwanpk/index.shtml" target="_blank">玩玩游戏PK周</a> (2011-04-18)</li>
+<li><a href="http://games.sina.com.cn/zt/springfestival2011/index.shtml" target="_blank">春节长假小游戏陪你过七天</a> (2011-01-31)</li>
+<li><a href="http://games.sina.com.cn/zt/naruto/index.shtml" target="_blank">火影忍者小游戏专题</a> (2010-12-02)</li>
+<li><a href="http://games.sina.com.cn/zt/sgs/index.shtml" target="_blank">三国杀衍生体</a> (2010-11-29)</li>
+<li><a href="http://games.sina.com.cn/zt/zuma/index.shtml" target="_blank">祖玛小游戏专题</a> (2010-11-18)</li>
+<li><a href="http://games.sina.com.cn/zt/lianliankan/index.shtml" target="_blank">连连看小游戏专题</a> (2010-11-16)</li>
+<li><a href="http://games.sina.com.cn/zt/halloweenday2010/index.shtml" target="_blank">万圣节小游戏专题</a> (2010-10-26)</li>
+<li><a href="http://games.sina.com.cn/littlegame/zt/hmbb/index.shtml" target="_blank">海绵宝宝小游戏专题</a> (2009-10-14)</li>
+<li><a href="/littlegame/zt/xmas08/index.shtml" target="_blank">新浪游戏2008圣诞专题</a> (2008-12-22)</li>
+<li><a href="/littlegame/zt/61games/index.shtml" target="_blank">庆六一儿童乐园畅玩小游戏</a> (2007-05-31)</li>
+<li><a href="/littlegame/zt/beaman061121/index.shtml" target="_blank">是男人就xx系列全集</a> (2006-11-21)</li>
+<li><a href="/littlegame/zt/football061106/index.shtml" target="_blank">足球游戏经典全集</a> (2006-11-06)</li>
+<li><a href="/littlegame/zt/busyfinger/index.shtml" target="_blank">断指游戏经典全集</a> (2006-10-25)</li>
+<li><a href="/littlegame/zt/mmosingle/index.shtml" target="_blank">热门网游单机练习版全集</a> (2006-09-29)</li>
+<li><a href="/littlegame/zt/goldfish/index.shtml" target="_blank">黄金矿工休闲垂钓全集</a> (2006-09-22)</li>
+<li><a href="/littlegame/zt/hundouluo/index.shtml" target="_blank">绝世经典魂斗罗游戏全集</a> (2006-09-01)</li>
+<li><a href="/littlegame/zt/fightko/index.shtml" target="_blank">街机经典格斗全集</a> (2006-08-15)</li>
+<li><a href="/littlegame/zt/metalslug/index.shtml" target="_blank">合金弹头火爆射击游戏全集</a> (2006-08-03)</li>
+<li><a href="/littlegame/zt/hanghaixiaoyouxi2/index.shtml" target="_blank">航海小游戏合集</a> (2006-07-24)</li>
+<li><a href="/littlegame/zt/xxyl/meinvcanting/index.shtml" target="_blank">美女餐厅全系列最强集锦</a> (2006-05-19)</li>
+<li><a href="/littlegame/zt/xxyl/zhengfushijiebei/index.shtml" target="_blank">《征服任意球2》世界杯有奖游戏</a> (2006-04-24)</li>
+<li><a href="/littlegame/zt/xxyl/xiaochu/index.shtml" target="_blank">方块与消除类休闲游戏集锦</a> (2006-01-18)</li>
+<li><a href="/littlegame/zt/xxyl/sportsgame/index.shtml" target="_blank">一起做运动！运动类小游戏集粹</a> (2005-10-18)</li>
+<li><a href="/littlegame/zt/xxyl/puke2/index.shtml" target="_blank">单机棋牌类游戏之《牌篇》</a> (2005-09-30)</li>
+<li><a href="/littlegame/zt/xxyl/supermario/index.shtml" target="_blank">我们的好朋友 超级玛丽</a> (2005-09-28)</li>
+<li><a href="/littlegame/zt/xxyl/onehand/index.shtml" target="_blank">教师节超级休闲游戏推荐</a> (2005-09-09)</li>
+<li><a href="/littlegame/zt/xxyl/laborday/index.shtml" target="_blank">疯狂流汗 玩转五一劳动节</a> (2005-04-29)</li>
+<li><a href="/littlegame/zt/xxyl/mmgameday/index.shtml" target="_blank">《美眉的游戏日》</a> (2005-03-07)</li>
+<li><a href="/littlegame/zt/xxyl/shengdan/index.shtml" target="_blank">《圣诞节小游戏集合》</a> (2004-12-20)</li>
+<li><a href="/littlegame/zt/pcgames/zuma/index.shtml" target="_blank">《祖玛泡泡龙》 休闲一刻钟</a> (2004-11-24)</li>
+<li><a href="/littlegame/zt/pcgames/roadkiller/index.shtml" target="_blank">《我是清道夫游戏合集》</a> (2004-09-15)</li>
+<li><a href="/littlegame/zt/pcgames/crazyclass/index.shtml" target="_blank">考场必杀计－－考生应该通关的20款游戏</a> (2004-06-18)</li>
+</ul>
+</div>
+</div>
+<div class="main2">
+<div class="title1">
+<h2>电视游戏专题</h2>
+<p class="more"><a href="http://games.sina.com.cn/zt/all/t/index.shtml">更多&gt;&gt;</a></p>
+</div>
+<div class="main2L">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/t/zt/yangcongquan04/index.shtml" target="_blank">洋葱圈新闻第四期</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/t/zt/yangcongquan02/index.shtml" target="_blank">洋葱圈新闻第二期</a> (2014-03-14)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/ngg3/index.shtml" target="_blank">游戏世界地理第3期</a> (2014-02-28)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/ngg2/index.shtml" target="_blank">游戏世界地理第2期</a> (2014-01-21)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/ngg1/index.shtml" target="_blank">游戏世界地理第1期</a> (2014-01-06)</li>
+<li><a href="http://games.sina.com.cn/t/zt/gc2013/index.shtml" target="_blank">2013科隆游戏展新浪报道</a> (2013-08-16)</li>
+<li><a href="http://games.sina.com.cn/t/ps4/mainpage/index.html" target="_blank">新浪电玩PS4特企专题</a> (2013-07-16)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/psscg/index.shtml" target="_blank">索尼PS系主机中文游戏回顾</a> (2013-04-22)</li>
+<li><a href="http://games.sina.com.cn/t/zt/ps4/index.shtml" target="_blank">索尼PlayStation Meeting发布会</a> (2013-02-20)</li>
+<li><a href="http://games.sina.com.cn/zt/Nintendo2012/index.shtml" target="_blank">任天堂游戏2012年度盘点</a> (2012-12-21)</li>
+<li><a href="http://games.sina.com.cn/t/zt/PS3Awards2012/index.shtml" target="_blank">2012年PS3年度游戏</a> (2012-12-08)</li>
+<li><a href="http://games.sina.com.cn/t/zt/plapkcod/index.shtml" target="_blank">光荣使命PK使命召唤</a> (2012-09-04)</li>
+<li><a href="http://games.sina.com.cn/t/zt/projectdivaf/index.shtml" target="_blank">《初音未来f》中文专题站</a> (2012-08-22)</li>
+<li><a href="http://games.sina.com.cn/t/zt/gc2012.shtml" target="_blank">2012科隆国际游戏展</a> (2012-08-09)</li>
+<li><a href="http://games.sina.com.cn/t/zt/yakuza5/index.shtml" target="_blank">《如龙5》中文专题站</a> (2012-07-24)</li>
+<li><a href="http://games.sina.com.cn/t/zt/mh4/index.shtml" target="_blank">《怪物猎人4》中文专题站</a> (2012-07-09)</li>
+<li><a href="http://games.sina.com.cn/t/zt/mgsr/index.shtml" target="_blank">合金装备崛起：复仇</a> (2012-06-27)</li>
+<li><a href="http://games.sina.com.cn/t/zt/splintercell6/index.shtml" target="_blank">《细胞分裂6》中文专题站</a> (2012-06-20)</li>
+<li><a href="http://games.sina.com.cn/t/zt/e32012/index.shtml" target="_blank">E3 2012电子游戏娱乐展</a> (2012-06-03)</li>
+<li><a href="http://games.sina.com.cn/t/zt/seiya/index.shtml" target="_blank">《圣斗士星矢Ω》中文专题站</a> (2012-04-05)</li>
+<li><a href="http://games.sina.com.cn/t/zt/mohw/index.shtml" target="_blank">《荣誉勋章：战士》中文专题站</a> (2012-03-15)</li>
+<li><a href="http://games.sina.com.cn/t/zt/farcry3/index.shtml" target="_blank">《孤岛惊魂3》中文专题站</a> (2012-02-27)</li>
+<li><a href="http://games.sina.com.cn/t/zt/max3/index.shtml" target="_blank">《马克思佩恩3》中文专题站</a> (2012-02-15)</li>
+<li><a href="http://games.sina.com.cn/t/zt/lastofus/index.shtml" target="_blank">《最后生还者》中文专题站</a> (2012-01-10)</li>
+<li><a href="http://games.sina.com.cn/t/zt/onepiecekm/index.shtml" target="_blank">《海贼王无双》中文专题站</a> (2011-12-26)</li>
+<li><a href="http://games.sina.com.cn/t/psv/sms/index.shtml" target="_blank">PS Vita中文说明书</a> (2011-12-19)</li>
+<li><a href="http://games.sina.com.cn/t/zt/prototype2/index.shtml" target="_blank">《虐杀原形2》中文专题站</a> (2011-10-20)</li>
+<li><a href="http://games.sina.com.cn/t/zt/seiya_senki/index.shtml" target="_blank">《圣斗士星矢战记》中文专题站</a> (2011-07-25)</li>
+<li><a href="http://games.sina.com.cn/t/zt/kof13/index.shtml" target="_blank">《拳皇13》中文专题站</a> (2011-07-12)</li>
+<li><a href="http://games.sina.com.cn/t/zt/ng3/index.shtml" target="_blank">《忍者龙剑传3》中文专题站</a> (2011-07-08)</li>
+<li><a href="http://games.sina.com.cn/t/zt/batmancity/index.shtml" target="_blank">蝙蝠侠：阿甘之城专题站</a> (2011-06-22)</li>
+<li><a href="http://games.sina.com.cn/t/zt/e3_2011.html" target="_blank">2011年E3电子游戏娱乐展</a> (2011-05-24)</li>
+<li><a href="http://games.sina.com.cn/t/zt/Revelations/index.shtml" target="_blank">《刺客信条：启示录》中文专题站</a> (2011-05-23)</li>
+<li><a href="http://games.sina.com.cn/t/zt/shd/index.shtml" target="_blank">《寂静岭：暴雨》中文专题站</a> (2011-05-17)</li>
+<li><a href="http://games.sina.com.cn/t/zt/bhm3ds/index.shtml" target="_blank">《生化危机：佣兵3D》中文专题站</a> (2011-05-11)</li>
+<li><a href="http://games.sina.com.cn/t/zt/tombraider9/index.shtml" target="_blank">《古墓丽影9》中文专题站</a> (2011-04-28)</li>
+<li><a href="http://games.sina.com.cn/t/zt/fear3/index.shtml" target="_blank">《极度恐慌3》中文专题站</a> (2011-04-25)</li>
+<li><a href="http://games.sina.com.cn/t/zt/dehr3/index.shtml" target="_blank">《杀出重围3》中文专题站</a> (2011-04-20)</li>
+<li><a href="http://games.sina.com.cn/t/zt/ds3/index.shtml" target="_blank">《地牢围攻3》中文专题站</a> (2011-04-18)</li>
+<li><a href="http://games.sina.com.cn/t/zt/elderscrolls5/index.shtml" target="_blank">《上古卷轴5》专区</a> (2011-04-02)</li>
+<li><a href="http://games.sina.com.cn/t/zt/zhuanti/index.shtml" target="_blank">新浪单机电视游戏专题</a> (2011-03-31)</li>
+<li><a href="http://games.sina.com.cn/t/zt/psp2/index.shtml" target="_blank">索尼PSP2中文专题</a> (2011-01-13)</li>
+<li><a href="http://games.sina.com.cn/t/zt/angrybirds/index.shtml" target="_blank">《愤怒的小鸟》新浪专区</a> (2011-01-04)</li>
+<li><a href="http://games.sina.com.cn/t/zt/dragonage2/index.shtml" target="_blank">《龙腾世纪2》中文专题站</a> (2010-12-07)</li>
+<li><a href="http://games.sina.com.cn/t/zt/tv2010/index.shtml" target="_blank">电视游戏2010年度盘点</a> (2010-12-01)</li>
+<li><a href="http://games.sina.com.cn/t/zt/smusou6/index.shtml" target="_blank">《真三国无双6》中文专题站</a> (2010-11-25)</li>
+<li><a href="http://games.sina.com.cn/t/zt/spata/index.shtml" target="_blank">《战神：斯巴达幽灵》中文专题站</a> (2010-10-11)</li>
+<li><a href="http://games.sina.com.cn/t/psp/zero/index.shtml" target="_blank">《英雄传说7》中文专题站</a> (2010-08-09)</li>
+<li><a href="http://games.sina.com.cn/t/zt/pjd2.shtml" target="_blank">《初音未来2》中文专题站</a> (2010-07-19)</li>
+<li><a href="http://games.sina.com.cn/t/zt/gamescon2010/index.shtml" target="_blank">科隆电玩展2010新浪报道</a> (2010-06-30)</li>
+</ul>
+</div>
+<div class="main2R">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/t/zt/yangcongquan03/index.shtml" target="_blank">洋葱圈新闻第三期</a> (2014-03-21)</li>
+<li><a href="http://games.sina.com.cn/t/zt/yangcongquan01/index.shtml" target="_blank">洋葱圈新闻第一期</a> (2014-03-07)</li>
+<li><a href="http://games.sina.com.cn/t/zt/ff10hd/index.shtml" target="_blank">最终幻想10高清版专题站</a> (2014-02-13)</li>
+<li><a href="http://games.sina.com.cn/t/zt/chinavg/index.shtml" target="_blank">游戏机13年禁令终将解除</a> (2014-01-08)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/gt6/index.shtml" target="_blank">GT赛车6中文专题站</a> (2013-12-19)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/tgs2013/index.shtml" target="_blank">东京电玩展2013新浪报道</a> (2013-08-09)</li>
+<li><a href="http://games.sina.com.cn/zt/0521xbox360/index.shtml" target="_blank">XBOX次世代主机揭露</a> (2013-05-22)</li>
+<li><a href="http://games.sina.com.cn/t/zt/gyakutensaiban5/index.shtml" target="_blank">《逆转裁判5》中文专题站</a> (2013-03-07)</li>
+<li><a href="http://games.sina.com.cn/t/zt/pokemonxy/index.shtml" target="_blank">《口袋妖怪X/Y》中文专题站</a> (2013-01-11)</li>
+<li><a href="http://games.sina.com.cn/zt/iQue3DSXL/index.shtml" target="_blank">新浪游戏神游3DSXL评测</a> (2012-12-13)</li>
+<li><a href="http://games.sina.com.cn/t/zt/ios5/index.shtml" target="_blank">新浪苹果iOS游戏排行榜第五期</a> (2012-09-18)</li>
+<li><a href="http://games.sina.com.cn/t/zt/dishonored/index.shtml" target="_blank">《羞辱》中文专题站</a> (2012-08-27)</li>
+<li><a href="http://games.sina.com.cn/t/zt/stickerstar/index.shtml" target="_blank">《纸片马里奥》中文专题站</a> (2012-08-20)</li>
+<li><a href="http://games.sina.com.cn/t/zt/doa5/index.shtml" target="_blank">《死或生5》中文专题站</a> (2012-08-08)</li>
+<li><a href="http://games.sina.com.cn/t/zt/nba2k13/index.shtml" target="_blank">《NBA 2K13》中文专题站</a> (2012-07-16)</li>
+<li><a href="http://games.sina.com.cn/t/zt/sleepingdogs/index.shtml" target="_blank">《热血无赖》中文专题站</a> (2012-07-02)</li>
+<li><a href="http://games.sina.com.cn/t/zt/fifa13/index.shtml" target="_blank">《FIFA 13》中文专题站</a> (2012-06-25)</li>
+<li><a href="http://games.sina.com.cn/t/zt/godofwarascension/index.shtml" target="_blank">《战神：升天》中文专题站</a> (2012-06-18)</li>
+<li><a href="http://games.sina.com.cn/t/zt/halo4/index.shtml" target="_blank">《光环4》中文专题站</a> (2012-04-16)</li>
+<li><a href="http://games.sina.com.cn/t/zt/darksiders2/index.shtml" target="_blank">《暗黑血统2》中文专题站</a> (2012-03-22)</li>
+<li><a href="http://games.sina.com.cn/t/zt/ac3/index.shtml" target="_blank">《刺客信条3》中文专题站</a> (2012-03-02)</li>
+<li><a href="http://games.sina.com.cn/t/zt/borderlands2/index.shtml" target="_blank">《无主之地2》中文专题站</a> (2012-02-24)</li>
+<li><a href="http://games.sina.com.cn/t/zt/bio6/index.shtml" target="_blank">《生化危机6》中文专题站</a> (2012-01-29)</li>
+<li><a href="http://games.sina.com.cn/t/zt/bioshockinfinite/index.shtml" target="_blank">《生化奇兵：无限》中文专题站</a> (2012-01-04)</li>
+<li><a href="http://games.sina.com.cn/t/zt/gta5/index.shtml" target="_blank">GTA5中文专题站</a> (2011-12-21)</li>
+<li><a href="http://games.sina.com.cn/t/2011.shtml" target="_blank">新浪单机电视游戏2011年度回顾专题</a> (2011-12-16)</li>
+<li><a href="http://games.sina.com.cn/t/zt/gc2011.shtml" target="_blank">2011科隆国际游戏展</a> (2011-08-02)</li>
+<li><a href="http://games.sina.com.cn/t/zt/nfs16/index.shtml" target="_blank">《极品飞车16》中文专题站</a> (2011-07-19)</li>
+<li><a href="http://games.sina.com.cn/t/zt/ff13-2/index.shtml" target="_blank">《最终幻想13-2》中文专题站</a> (2011-07-11)</li>
+<li><a href="http://games.sina.com.cn/t/zt/mass3/index.shtml" target="_blank">《质量效应3》中文专题站</a> (2011-06-24)</li>
+<li><a href="http://games.sina.com.cn/t/zt/wiiu/index.shtml" target="_blank">任天堂Wii U中文专题站</a> (2011-06-13)</li>
+<li><a href="http://games.sina.com.cn/t/zt/dd/index.shtml" target="_blank">《龙之信条》中文专题站</a> (2011-05-24)</li>
+<li><a href="http://games.sina.com.cn/t/zt/cod8/index.shtml" target="_blank">《使命召唤8》专区</a> (2011-05-19)</li>
+<li><a href="http://games.sina.com.cn/t/zt/ao_psp/index.shtml" target="_blank">《碧之轨迹》中文专题站</a> (2011-05-12)</li>
+<li><a href="http://games.sina.com.cn/t/zt/fft0/index.shtml" target="_blank">《最终幻想 零式》中文专题站</a> (2011-05-03)</li>
+<li><a href="http://games.sina.com.cn/t/zt/lan/index.shtml" target="_blank">《黑色洛城》中文专题站</a> (2011-04-28)</li>
+<li><a href="http://games.sina.com.cn/t/zt/gowar3/index.shtml" target="_blank">《战争机器3》中文专题站</a> (2011-04-21)</li>
+<li><a href="http://games.sina.com.cn/t/zt/uncharted3/index.shtml" target="_blank">《神秘海域3》中文专题站</a> (2011-04-19)</li>
+<li><a href="http://games.sina.com.cn/t/zt/portal2/index.shtml" target="_blank">《传送门2》中文专题站</a> (2011-04-14)</li>
+<li><a href="http://games.sina.com.cn/t/zt/bhorc/index.shtml" target="_blank">《生化危机:浣熊市行动》专题站</a> (2011-04-01)</li>
+<li><a href="http://games.sina.com.cn/tv/tpgs2011.html" target="_blank">2011台北电玩展</a> (2011-02-16)</li>
+<li><a href="http://games.sina.com.cn/t/zt/patapon3/index.shtml" target="_blank">《啪嗒砰3》新浪中文专区</a> (2011-01-07)</li>
+<li><a href="http://games.sina.com.cn/t/zt/deadspace2/index.shtml" target="_blank">《死亡空间2》中文专题站</a> (2010-12-28)</li>
+<li><a href="http://games.sina.com.cn/t/zt/nfs15/index.shtml" target="_blank">《极品飞车15》中文专题站</a> (2010-12-07)</li>
+<li><a href="http://games.sina.com.cn/t/zt/crysis2/index.shtml" target="_blank">《孤岛危机2》中文专题站</a> (2010-11-29)</li>
+<li><a href="http://games.sina.com.cn/t/zt/3rd_birthday/index.shtml" target="_blank">《寄生前夜3》中文专题站</a> (2010-10-18)</li>
+<li><a href="http://games.sina.com.cn/t/zt/MHP3/index.shtml" target="_blank">《怪物猎人P3》中文专题站</a> (2010-09-27)</li>
+<li><a href="http://games.sina.com.cn/t/zt/TGS2010/index.shtml" target="_blank">东京电玩展2010新浪报道</a> (2010-08-04)</li>
+<li><a href="http://games.sina.com.cn/t/zt/ysvssora/index.shtml" target="_blank">《伊苏VS空轨》中文专题站</a> (2010-07-12)</li>
+<li><a href="http://games.sina.com.cn/t/zt/3DS/index.shtml" target="_blank">任天堂3DS中文专题站</a> (2010-06-23)</li>
+</ul>
+</div>
+</div>
+<div class="main2">
+<div class="title1">
+<h2>电子竞技专题</h2>
+<p class="more"><a href="http://games.sina.com.cn/zt/all/e/index.shtml">更多&gt;&gt;</a></p>
+</div>
+<div class="main2L">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/g/zt/talk004/index.shtml" target="_blank">非理勿言004：LOL和DOTA2</a> (2013-09-10)</li>
+<li><a href="http://games.sina.com.cn/e/zt/wcg2012/index.shtml" target="_blank">WCG2012专题报道</a> (2012-09-13)</li>
+<li><a href="http://games.sina.com.cn/e/zt/2012wcg/index.shtml" target="_blank">WCG即将“变质” 昔日盛会何去何从</a> (2012-04-23)</li>
+<li><a href="http://games.sina.com.cn/zt/twdjgame/index.shtml" target="_blank">台湾电竞联盟专访</a> (2011-08-12)</li>
+<li><a href="http://games.sina.com.cn/e/zt/cpl2011/index.shtml" target="_blank">CPL2011专题报道</a> (2011-06-20)</li>
+<li><a href="http://games.sina.com.cn/zt/videovzt6/index.shtml" target="_blank">xiaot的职业电竞星路历程</a> (2011-05-30)</li>
+<li><a href="http://games.sina.com.cn/j/zt/wcg2010/index.shtml" target="_blank">WCG2010专题报道</a> (2010-09-13)</li>
+<li><a href="/e/zt/Estars2009/index.shtml" target="_blank">Estars2009洲际杯</a> (2009-07-02)</li>
+<li><a href="/v/zt/starcraft/index.shtml" target="_blank">《星际争霸2》视频集</a> (2008-11-27)</li>
+<li><a href="/e/zt/djrs/index.shtml" target="_blank">电竞人生视频集</a> (2008-06-06)</li>
+<li><a href="/e/zt/ROTK08/index.shtml" target="_blank">ROTK08魔兽团队赛</a> (2008-05-12)</li>
+<li><a href="/e/zt/dzjj08/index.shtml" target="_blank">电竞视频宝典</a> (2008-02-20)</li>
+<li><a href="/e/zt/gamebusvideo/index.shtml" target="_blank">游戏班车视频集</a> (2008-01-25)</li>
+<li><a href="/e/zt/g2007/index.shtml" target="_blank">G联赛视频专题</a> (2007-09-29)</li>
+<li><a href="/e/zt/mbcw3/index.shtml" target="_blank">MBCw3魔兽视频</a> (2007-06-01)</li>
+<li><a href="/e/zt/WSVG2007/index.shtml" target="_blank">WSVG中国视频集</a> (2007-05-12)</li>
+<li><a href="/e/zt/djsj/index.shtml" target="_blank">最经典的电竞瞬间</a> (2007-03-28)</li>
+<li><a href="/e/zt/sinappl/index.shtml" target="_blank">PPL魔兽视频站</a> (2007-02-12)</li>
+<li><a href="/e/zt/SS/index.shtml" target="_blank">SS女子魔兽赛专题</a> (2007-02-05)</li>
+<li><a href="/e/zt/djsp/index.shtml" target="_blank">2006电竞视频回顾</a> (2006-12-30)</li>
+<li><a href="/e/zt/pps06/index.shtml" target="_blank">PPS中韩魔兽对抗赛</a> (2006-11-20)</li>
+<li><a href="/e/zt/WEGSF/index.shtml" target="_blank">WEG皇帝BoxeR告别赛专题</a> (2006-10-13)</li>
+<li><a href="/e/zt/WEG2006/index.shtml" target="_blank">WEG2006电竞大赛</a> (2006-09-20)</li>
+<li><a href="/e/zt/intel2006/index.shtml" target="_blank">英特尔训练营四核处理器亮相</a> (2006-08-22)</li>
+<li><a href="/e/zt/PLU2006/index.shtml" target="_blank">PLU06电竞超级联赛</a> (2006-07-14)</li>
+<li><a href="/e/zt/csvod/index.shtml" target="_blank">新浪电竞CS视频站</a> (2006-07-11)</li>
+<li><a href="/e/zt/mstx/index.shtml" target="_blank">《魔兽天下》魔兽综合节目</a> (2006-07-05)</li>
+<li><a href="/e/zt/dzjj/IEST2006/index.shtml" target="_blank">IEST2006电子竞技大赛</a> (2006-06-07)</li>
+<li><a href="/e/zt/dzjj/Starswar3/index.shtml" target="_blank">Starswar3国际明星邀请赛</a> (2006-05-19)</li>
+<li><a href="/zt/dzjj/Dzjjmm/index.shtml" target="_blank">新浪游戏电竞MM专题</a> (2006-05-17)</li>
+<li><a href="/e/zt/dzjj/xxdj/index.shtml" target="_blank">《小水当家》美女教你玩CS</a> (2006-04-29)</li>
+<li><a href="/wgt/index.shtml" target="_blank">WGT2006中国官方网站</a> (2006-04-17)</li>
+<li><a href="/e/zt/dzjj/ESWC2006/index.shtml" target="_blank">ESWC2006电子竞技大赛专题</a> (2006-03-31)</li>
+<li><a href="/e/zt/dzjj/Moon/index.shtml" target="_blank">暗夜王者Moon经典视频专题</a> (2006-02-17)</li>
+<li><a href="/zt/dzjj/FIFA2005/index.shtml" target="_blank">FIFA2005世界杯中国预选赛</a> (2005-10-11)</li>
+<li><a href="/zt/dzjj/CKCG/index.shtml" target="_blank">CKCG2005中韩电子竞技大赛</a> (2005-06-01)</li>
+<li><a href="/zt/dzjj/WCG2005/index.shtml" target="_blank">WCG2005中国官方网站</a> (2005-03-31)</li>
+<li><a href="/zt/dzjj/WEG2005/index.shtml" target="_blank">WEG2005世界电子竞技大赛</a> (2005-02-02)</li>
+<li><a href="/zt/dzjj/progamer/index.shtml" target="_blank">2004年度职业游戏玩家评选</a> (2004-11-24)</li>
+<li><a href="/zt/dzjj/aomei_games/index.shtml" target="_blank">奥美王中王超级争霸赛</a> (2004-08-05)</li>
+<li><a href="/zt/CPLCHINA2004/index.shtml" target="_blank">CPL2004冬季锦标赛</a> (2004-03-30)</li>
+<li><a href="/zt/aomei_esport/index.shtml" target="_blank">奥美电子竞技软件授权</a> (2004-02-18)</li>
+</ul>
+</div>
+<div class="main2R">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/zt/lol/index.shtml" target="_blank">《英雄联盟》一周热点</a> (2013-07-31)</li>
+<li><a href="http://games.sina.com.cn/j/zt/bwc2012/index.shtml" target="_blank">战网世界锦标赛2012</a> (2012-08-15)</li>
+<li><a href="http://games.sina.com.cn/ng/tw/ttapollo/index.shtml" target="_blank">台湾电竞联盟之曜越太阳神</a> (2011-08-31)</li>
+<li><a href="http://games.sina.com.cn/e/zt/dota2/index.shtml" target="_blank">DOTA2专题站</a> (2011-06-21)</li>
+<li><a href="http://games.sina.com.cn/zt/SkyVSFly/index.shtml" target="_blank">谁是电玩达人？！ 人皇SkyVS兽王FLy100%</a> (2011-06-10)</li>
+<li><a href="http://games.sina.com.cn/e/zt/wcg2011/index.shtml" target="_blank">WCG2011专题报道</a> (2011-05-19)</li>
+<li><a href="http://games.sina.com.cn/e/zt/WCG2009final/index.shtml" target="_blank">WCG2009世界总决赛</a> (2009-11-03)</li>
+<li><a href="/e/zt/IEF2009/index.shtml" target="_blank">IEF09数字娱乐嘉年华</a> (2009-05-11)</li>
+<li><a href="/e/zt/Estars2008/index.shtml" target="_blank">Estars2008洲际杯</a> (2008-07-15)</li>
+<li><a href="/e/zt/PGL08WAR3VOD/index.shtml" target="_blank">PGL2008第3季魔兽视频集</a> (2008-06-06)</li>
+<li><a href="/WCG/index.shtml" target="_blank">WCG2008中国官方网站</a> (2008-04-27)</li>
+<li><a href="/e/zt/gamebus2/index.shtml" target="_blank">游戏班车第2期</a> (2008-02-02)</li>
+<li><a href="/e/zt/gamebus/index.shtml" target="_blank">游戏班车</a> (2008-01-18)</li>
+<li><a href="/e/zt/PGL2007/index.shtml" target="_blank">PGL精彩视频集</a> (2007-06-20)</li>
+<li><a href="/e/zt/goodgames/index.shtml" target="_blank">童年经典游戏回顾</a> (2007-05-31)</li>
+<li><a href="/e/zt/WWI/index.shtml" target="_blank">暴雪2007全球邀请赛</a> (2007-04-09)</li>
+<li><a href="/e/zt/djxn/index.shtml" target="_blank">电竞新年专题</a> (2007-02-13)</li>
+<li><a href="/e/zt/sinayc/index.shtml" target="_blank">新浪YC专题站</a> (2007-02-12)</li>
+<li><a href="/e/zt/djmh/index.shtml" target="_blank">2007电竞漫画专题</a> (2007-01-29)</li>
+<li><a href="/e/zt/blogstar/index.shtml" target="_blank">新浪派族博客之星</a> (2006-12-11)</li>
+<li><a href="/e/zt/WCG2006/index.shtml" target="_blank">WCG2006世界总决赛专题</a> (2006-10-19)</li>
+<li><a href="/e/zt/PGL2006/index.shtml" target="_blank">PGL2006魔兽天王赛视频集</a> (2006-10-10)</li>
+<li><a href="/e/zt/weigesky/index.shtml" target="_blank">魔兽天王李晓峰WE.IGE.Sky</a> (2006-08-28)</li>
+<li><a href="/e/zt/NUGL2006/index.shtml" target="_blank">NUGL2006高校联赛</a> (2006-08-10)</li>
+<li><a href="/e/zt/gflt/index.shtml" target="_blank">2006中国电子竞技高峰论坛</a> (2006-07-13)</li>
+<li><a href="/e/zt/scvod/index.shtml" target="_blank">新浪电竞星际视频站</a> (2006-07-06)</li>
+<li><a href="/e/zt/game8/index.shtml" target="_blank">电视真人游戏节目G任务</a> (2006-07-04)</li>
+<li><a href="/e/zt/dzjj/war3vod/index.shtml" target="_blank">新浪电竞魔兽视频站</a> (2006-06-01)</li>
+<li><a href="/e/zt/dzjj/CEG06/index.shtml" target="_blank">CEG2006全国电子竞技大赛</a> (2006-05-19)</li>
+<li><a href="/blog/zt/blogstar/index.shtml" target="_blank">电竞名人博客圈</a> (2006-05-16)</li>
+<li><a href="/zt/dzjj/IEF2006/index.shtml" target="_blank">IEF2006电子竞技大赛专题</a> (2006-04-20)</li>
+<li><a href="/e/zt/dzjj/GOC2006/index.shtml" target="_blank">GOC2006电子竞技大赛专题</a> (2006-04-05)</li>
+<li><a href="/e/zt/dzjj/dzjjzt/index.shtml" target="_blank">《电子竞技》杂志专题</a> (2006-03-20)</li>
+<li><a href="/e/zt/dzjj/CPL/index.shtml" target="_blank">CPL2006电子竞技大赛</a> (2006-02-09)</li>
+<li><a href="/zt/dzjj/cig/index.shtml" target="_blank">CIG中国电子竞技大会</a> (2005-07-27)</li>
+<li><a href="/zt/dzjj/ESWC2005/index.shtml" target="_blank">ESWC2005电子竞技世界杯</a> (2005-04-05)</li>
+<li><a href="/zt/dzjj/ACON5/index.shtml" target="_blank">ACON5世界电脑游戏大赛</a> (2005-03-23)</li>
+<li><a href="/zt/dzjj/weg/index.shtml" target="_blank">WEG中韩电子竞技对抗赛</a> (2004-11-29)</li>
+<li><a href="/zt/dzjj/NUGL/index.shtml" target="_blank">全国高校电子竞技联赛</a> (2004-09-13)</li>
+<li><a href="/zt/cig2004/index.shtml" target="_blank">2004中国电子竞技大会</a> (2004-04-02)</li>
+<li><a href="/zt/icas/index.shtml" target="_blank">电子飞行竞技国际比赛专题</a> (2004-03-03)</li>
+</ul>
+</div>
+</div>
+<div class="main2">
+<div class="title1">
+<h2>手机游戏专题</h2>
+<p class="more"><a href="http://games.sina.com.cn/zt/all/m/index.shtml">更多&gt;&gt;</a></p>
+</div>
+<div class="main2L">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/m/zt/kdgame11/index.shtml" target="_blank">坑爹游戏盘点11：跟风数字无下限</a> (2014-05-07)</li>
+<li><a href="http://games.sina.com.cn/m/zt/kdgame10/index.shtml" target="_blank">坑爹游戏盘点10：丧心病狂是山寨</a> (2014-04-25)</li>
+<li><a href="http://games.sina.com.cn/m/zt/kdgame08/index.shtml" target="_blank">坑爹游戏盘点08：茫茫然黑白异想</a> (2014-04-11)</li>
+<li><a href="http://games.sina.com.cn/m/zt/rainmemorial97973com/index.shtml" target="_blank">雨中的祭奠_97973手游网</a> (2014-04-04)</li>
+<li><a href="http://games.sina.com.cn/m/zt/sanguozhi/index.shtml" target="_blank">《三国志》天天抽红米</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/m/zt/gamesection/index.shtml" target="_blank">97973手游专区汇总页</a> (2014-03-25)</li>
+<li><a href="http://games.sina.com.cn/m/zt/kdgame05/index.shtml" target="_blank">坑爹游戏盘点05：一波一波闪瞎眼</a> (2014-03-21)</li>
+<li><a href="http://games.sina.com.cn/m/zt/CHAINCHRONICLE/index.shtml" target="_blank">《锁链战记》前瞻</a> (2014-03-14)</li>
+<li><a href="http://games.sina.com.cn/m/zt/godoflight/index.shtml" target="_blank">God of Light《神之光》专区_97973手游网</a> (2014-03-11)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/wysy/index.shtml" target="_blank">网易吴鑫鑫解读手游布局曝新细节</a> (2014-03-07)</li>
+<li><a href="http://games.sina.com.cn/m/zt/badgame02/index.shtml" target="_blank">那些坑爹的游戏盘点第02期</a> (2014-02-21)</li>
+<li><a href="http://games.sina.com.cn/m/227/2014/0129/2255.html" target="_blank">坑爹游戏榜第01期</a> (2014-01-29)</li>
+<li><a href="http://games.sina.com.cn/m/zt/iosrecommended1/index.shtml" target="_blank">一周精选iOS游戏推荐第一期</a> (2014-01-20)</li>
+<li><a href="http://games.sina.com.cn/m/kb/13100.shtml" target="_blank">《地铁跑酷》专题回顾_97973手游网</a> (2013-12-30)</li>
+<li><a href="http://games.sina.com.cn/m/zt/fenglinhuoshan/index.shtml" target="_blank">Q版三国志专区</a> (2013-12-09)</li>
+<li><a href="http://games.sina.com.cn/m/zt/Mobi-X/index.shtml" target="_blank">第六届海峡两岸（厦门）文博会</a> (2013-09-16)</li>
+<li><a href="http://games.sina.com.cn/m/zt/gmgc2013/agenda/b2b.shtml" target="_blank">第二届GMGC全球移动游戏大会-大会议程</a> (2013-05-03)</li>
+<li><a href="http://games.sina.com.cn/m/zt/gmgc2013/agenda/tc.shtml" target="_blank">第二届GMGC全球移动游戏大会-大会议程</a> (2013-05-03)</li>
+<li><a href="http://games.sina.com.cn/m/zt/gmgc2013/speakers.shtml" target="_blank">第二届GMGC全球移动游戏大会-演讲嘉宾</a> (2013-05-03)</li>
+<li><a href="http://games.sina.com.cn/zt/mt/index.shtml" target="_blank">手游我叫MTonline全面登录安卓平台</a> (2013-03-25)</li>
+<li><a href="http://topic.t.sina.com.cn/games/qingrenjie/index.shtml" target="_blank">2012年情人节微博活动专题</a> (2012-02-13)</li>
+<li><a href="http://topic.t.sina.com.cn/games/laomo/index.shtml" target="_blank">2011神棍节单身劳模大盘点</a> (2011-10-19)</li>
+<li><a href="http://games.sina.com.cn/m/kb/11517.shtml" target="_blank">实况足球2011</a> (2011-02-11)</li>
+<li><a href="http://games.sina.com.cn/zt/news/index.shtml" target="_blank">《金游奖》会议报道</a> (2011-01-05)</li>
+<li><a href="http://games.sina.com.cn/zt/js/index.shtml" target="_blank">《金游奖》会议介绍</a> (2011-01-05)</li>
+<li><a href="http://games.sina.com.cn/m/zt/jinyou2010/index.shtml" target="_blank">2010手机游戏金游奖</a> (2010-12-29)</li>
+<li><a href="http://games.sina.com.cn/m/zt/castlevaniados/index.shtml" target="_blank">恶魔城-晓月圆舞曲</a> (2010-11-25)</li>
+<li><a href="http://games.sina.com.cn/m/zt/Contra/index.shtml" target="_blank">手机版《魂斗罗》新浪专区</a> (2010-06-23)</li>
+<li><a href="http://games.sina.com.cn/zt/jds/index.shtml" target="_blank">《超级方块角斗士》新游首发</a> (2010-04-02)</li>
+<li><a href="http://games.sina.com.cn/m/sango.html" target="_blank">煮酒三国免费玩</a> (2008-10-24)</li>
+<li><a href="http://games.sina.com.cn/m/pingxuan3/index.html" target="_blank">第三届优秀手机游戏评选</a> (2008-06-04)</li>
+<li><a href="/m/zt/vediogame/index.shtml" target="_blank">新浪PC电视同名手机游戏馆</a> (2008-04-22)</li>
+<li><a href="/m/NG2games/index.shtml" target="_blank">N-Gage2.0手机游戏专题</a> (2008-02-27)</li>
+<li><a href="/m/pingxuan2/pingshen.shtml" target="_blank">优秀手机游戏评选专家评审会</a> (2007-09-07)</li>
+<li><a href="/m/pingxuan2/toupiao.shtml" target="_blank">优秀手机游戏评选网络投票</a> (2007-06-04)</li>
+<li><a href="/m/zt/qqb/index.shtml" target="_blank">玩《七巧板》得PSP</a> (2007-03-22)</li>
+<li><a href="/m/zt/jpsy/index.shtml" target="_blank">新浪精品手机游戏专区</a> (2007-02-08)</li>
+<li><a href="/m/zt/JPMG/index.shtml" target="_blank">日本手游专区</a> (2006-11-14)</li>
+<li><a href="/m/zt/VAS2006/index.shtml" target="_blank">电信增值业务高层论坛</a> (2006-11-01)</li>
+<li><a href="/m/zt/cldfg/index.shtml" target="_blank">《丛林大反攻》游戏专题</a> (2006-09-25)</li>
+<li><a href="/m/zt/sm_zdr/index.shtml" target="_blank">炸弹人介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_xxdf/index.shtml" target="_blank">吸星大法介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_tcb/index.shtml" target="_blank">天婵变写真秀介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_qmwjd/index.shtml" target="_blank">清末无间道介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_jysg/index.shtml" target="_blank">九阳神功介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_stdrj/index.shtml" target="_blank">神探狄仁杰介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_clxcq/index.shtml" target="_blank">楚留香传奇介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_dxggz/index.shtml" target="_blank">爆笑关公传介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_djec/index.shtml" target="_blank">刀剑恩仇1介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/hywx/index.shtml" target="_blank">华娱无线厂商专区</a> (2006-07-05)</li>
+</ul>
+</div>
+<div class="main2R">
+<ul class="ul_list1">
+<li><a href="http://games.sina.com.cn/m/zt/973recommended6/index.shtml" target="_blank">精选手机游戏推荐 第六期</a> (2014-04-25)</li>
+<li><a href="http://games.sina.com.cn/m/zt/kdgame09/index.shtml" target="_blank">坑爹游戏盘点09：差评换汤不换药</a> (2014-04-18)</li>
+<li><a href="http://games.sina.com.cn/m/zt/973recommended5/index.shtml" target="_blank">一周精选手机游戏推荐第五期</a> (2014-04-04)</li>
+<li><a href="http://games.sina.com.cn/m/zt/kdgame07/index.shtml" target="_blank">坑爹游戏盘点07：作死鸟重力失控</a> (2014-04-04)</li>
+<li><a href="http://games.sina.com.cn/m/zt/kdgame06/index.shtml" target="_blank">坑爹游戏盘点06：色彩艳丽考手残</a> (2014-03-28)</li>
+<li><a href="http://games.sina.com.cn/m/zt/qinshimingyue/index.shtml" target="_blank">秦时明月PK国产三剑</a> (2014-03-25)</li>
+<li><a href="http://games.sina.com.cn/m/zt/badgame04/index.shtml" target="_blank">那些坑爹的游戏盘点第04期</a> (2014-03-14)</li>
+<li><a href="http://games.sina.com.cn/m/zt/coc/index.shtml" target="_blank">COC-部落战争|部落冲突专区_97973手游网</a> (2014-03-13)</li>
+<li><a href="http://games.sina.com.cn/m/zt/hearthstoneotk/index.shtml" target="_blank">《炉石传说》各职业OTK卡组推荐</a> (2014-03-07)</li>
+<li><a href="http://games.sina.com.cn/m/zt/badgame03/index.shtml" target="_blank">那些坑爹的游戏盘点第03期</a> (2014-03-07)</li>
+<li><a href="http://games.sina.com.cn/m/zt/flappy_bird/index.shtml" target="_blank">Flappy Bird专区_97973手游网</a> (2014-02-12)</li>
+<li><a href="http://games.sina.com.cn/m/zt/973recommended2/index.shtml" target="_blank">一周精选手游推荐第二期</a> (2014-01-26)</li>
+<li><a href="http://games.sina.com.cn/m/zt/bwlb2/index.shtml" target="_blank">保卫萝卜2专区_97973手游网</a> (2014-01-09)</li>
+<li><a href="http://games.sina.com.cn/m/2013top10.shtml" target="_blank">97973手游网2013年度手游排行榜</a> (2013-12-25)</li>
+<li><a href="http://games.sina.com.cn/zt/mobileworld/1/index.shtml" target="_blank">周游世界第一期</a> (2013-11-12)</li>
+<li><a href="http://games.sina.com.cn/xyz/zt/mayining/index.shtml" target="_blank">马亦宁解读七尘斋移动游戏布局</a> (2013-06-25)</li>
+<li><a href="http://games.sina.com.cn/m/zt/gmgc2013/agenda/pc.shtml" target="_blank">第二届GMGC全球移动游戏大会-大会议程</a> (2013-05-03)</li>
+<li><a href="http://games.sina.com.cn/m/zt/gmgc2013/agenda.shtml" target="_blank">第二届GMGC全球移动游戏大会-大会议程</a> (2013-05-03)</li>
+<li><a href="http://games.sina.com.cn/m/zt/gmgc2013/index.shtml" target="_blank">第二届GMGC全球移动游戏大会</a> (2013-05-03)</li>
+<li><a href="http://games.sina.com.cn/m/zt/pvz2/index.shtml" target="_blank">植物大战僵尸2中文版专题站</a> (2013-03-19)</li>
+<li><a href="http://topic.t.sina.com.cn/games/zhapian/index.shtml" target="_blank">年底小心骗子出没! 防网络诈骗小编支招</a> (2011-11-15)</li>
+<li><a href="http://games.sina.com.cn/m/sanguo.html" target="_blank">鼎盛三国之蜀国争霸</a> (2011-03-14)</li>
+<li><a href="http://games.sina.com.cn/zt/gbreport/index.shtml" target="_blank">社交游戏手机游戏报告</a> (2011-01-20)</li>
+<li><a href="http://games.sina.com.cn/zt/yc/index.shtml" target="_blank">《金游奖》会议议程</a> (2011-01-05)</li>
+<li><a href="http://games.sina.com.cn/m/zt/bm/index.shtml" target="_blank">2010金游奖报名</a> (2010-12-29)</li>
+<li><a href="http://games.sina.com.cn/t/zt/castlevaniayc/index.shtml" target="_blank">勇闯恶魔城</a> (2010-11-25)</li>
+<li><a href="http://games.sina.com.cn/m/zt/iPhone/index.shtml" target="_blank">iPhone手机游戏下载站</a> (2010-11-10)</li>
+<li><a href="http://games.sina.com.cn/m/zt/EXPOG/index.shtml" target="_blank">新浪手机游戏世博专区</a> (2010-06-10)</li>
+<li><a href="http://games.sina.com.cn/m/10th/index.html" target="_blank">手机游戏这十年</a> (2008-12-30)</li>
+<li><a href="/m/mboxdownload/index.shtml" target="_blank">移动梦网手机游戏排行榜</a> (2008-06-30)</li>
+<li><a href="/m/zt/olympic/index.shtml" target="_blank">新浪奥运手机游戏专辑</a> (2008-04-22)</li>
+<li><a href="/m/zt/moviegame/index.shtml" target="_blank">新浪电影手机游戏馆</a> (2008-04-21)</li>
+<li><a href="/m/iphone.shtml" target="_blank">iPhone手机游戏专题</a> (2008-02-18)</li>
+<li><a href="/m/pingxuan2/index.shtml" target="_blank">优秀手机游戏评选</a> (2007-08-06)</li>
+<li><a href="/m/zt/petbar/index.shtml" target="_blank">《怪宝贝》恶搞漫画吧</a> (2007-04-29)</li>
+<li><a href="/m/zt/wxqk_sjzq/index.shtml" target="_blank">《无限乾坤》手机游戏专区</a> (2007-03-12)</li>
+<li><a href="/m/zt/cyfz/index.shtml" target="_blank">手游产业发展论坛</a> (2006-11-15)</li>
+<li><a href="/m/zt/wllzn/index.shtml" target="_blank">武林擂一周年</a> (2006-11-07)</li>
+<li><a href="/m/zt/clfg/index.shtml" target="_blank">《丛林大反攻》游戏专题</a> (2006-09-28)</li>
+<li><a href="/m/zt/mgame0910/index.shtml" target="_blank">优秀手机游戏评选活动</a> (2006-09-12)</li>
+<li><a href="/m/zt/sm_ymny/index.shtml" target="_blank">野蛮女友介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_xesz/index.shtml" target="_blank">古惑狼邪恶双子介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_thqy/index.shtml" target="_blank">桃花情缘介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_mfsn/index.shtml" target="_blank">魔法少女介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_gysf/index.shtml" target="_blank">鬼域神斧介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_dfqmm/index.shtml" target="_blank">达芬奇密码介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_yxe/index.shtml" target="_blank">游侠儿介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_djec2/index.shtml" target="_blank">刀剑恩仇2介绍</a> (2006-08-07)</li>
+<li><a href="/m/zt/sm_wll/index.shtml" target="_blank">手机网游《武林擂》介绍</a> (2006-08-07)</li>
+<li><a href="/zt/mobilegames/pingxuan/index.shtml" target="_blank">优秀手游评选</a> (2006-06-07)</li>
+</ul>
+</div>
+</div>
+<!-- channel list end -->
+<!-- 主内容 end -->
+<!-- 标准尾 begin -->
+<div class="footer">
+<div id="uni_footer">
+<div style="text-align:center; font-size:12px; margin:0 auto;"><div id="ZWTrail">
+<p><a href="http://corp.sina.com.cn/chn/" class="sinatail">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/" class="sinatail">About Sina</a> | <a href="http://games.sina.com.cn/guide/index.shtml" class="sinatail">网站地图</a> | <a href="http://emarketing.sina.com.cn/" class="sinatail">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html" class="sinatail">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html" class="sinatail">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml" class="sinatail">网站律师</a> | <a href="http://english.sina.com" class="sinatail">SINA English</a> | <a href="https://login.sina.com.cn/signup/signup.php" class="sinatail">通行证注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml" class="sinatail">产品答疑</a></p>
+<br />
+<p>Copyright &copy; 1996-2014 SINA Corporation, All Rights Reserved</p>
+<br />
+<p>新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a></p>
+</div></div>
+</div>
+</div>
+<!-- 标准尾 end -->
+</div>
+<!-- 页面最底部包含读取留言数接口文件，该部分不需要改动保持原样即可 -->
+<script type="text/javascript" src="http://news.sina.com.cn/comment/cmnt_counter.js"></script>
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&amp;")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&amp;":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c&lt;d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&amp;":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g&gt;5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d&lt;c){o={retcode:6203}}else{if(d-h+m&gt;c){o={retcode:6110}}else{if(d-c&gt;p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-36851483-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">
+(function(){
+    if(window.top !== window.self || window._thereIsNoRealTimeMessage){return};
+    var script = document.createElement('script');
+    script.setAttribute('charset', 'gb2312');
+    script.src = 'http://news.sina.com.cn/js/694/2012/0830/realtime.js?ver=1.5.1';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&amp;")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&amp;":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c&lt;d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&amp;":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g&gt;5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d&lt;c){o={retcode:6203}}else{if(d-h+m&gt;c){o={retcode:6110}}else{if(d-c&gt;p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+<!-- Start  Wrating  -->
+<script language="javascript">
+var wrUrl="//sina.wrating.com/";var wrDomain="sina.com.cn";var wratingDefaultAcc="860010-0323010000";var wratingAccArray={"2012.sina.com.cn":"860010-0308150000","torch.2008.sina.com.cn":"860010-0308070000","video.sina.com.cn":"860010-0309010000","ent.sina.com.cn":"860010-0312010000","tech.sina.com.cn":"860010-0313010000","mobile.sina.com.cn":"860010-0313020000","house.sina.com.cn":"860010-0315010000","bj.house.sina.com.cn":"860010-0315020000","auto.sina.com.cn":"860010-0316010000","eladies.sina.com.cn":"860010-0317010000","woman.sina.com.cn":"860010-0317010000","games.sina.com.cn":"860010-0318010000","edu.sina.com.cn":"860010-0307010000","baby.sina.com.cn":"860010-0320010000","astro.sina.com.cn":"860010-0321020000","news.sina.com.cn":"860010-0310010000","weather.news.sina.com.cn":"860010-0310020000","mil.news.sina.com.cn":"860010-0310030000","www.sina.com.cn":"860010-0322010000","home.sina.com.cn":"860010-0322010000","sports.sina.com.cn":"860010-0308010000","shidefc.sina.com.cn":"860010-0308020000","weiqi.sina.com.cn":"860010-0308030000","f1.sina.com.cn":"860010-0308040000","golf.sina.com.cn":"860010-0308050000","2002.sina.com.cn":"860010-0308060000","2004.sina.com.cn":"860010-0308060000","2006.sina.com.cn":"860010-0308060000","2008.sina.com.cn":"860010-0308070000","yayun2002.sina.com.cn":"860010-0308060000","yayun2006.sina.com.cn":"860010-0308060000","book.sina.com.cn":"860010-0319010000","cul.book.sina.com.cn":"860010-0319020000","comic.book.sina.com.cn":"860010-0319030000","finance.sina.com.cn":"860010-0314010000","money.sina.com.cn":"860010-0314020000","yue.sina.com.cn":"860010-0324010000","www.sina.com":"860010-0322010000"};function vjTrack(){var U=1800;var T=false;var S=false;var R="";var Q="0";var P="";var N;var L;var K;var J;var I;var H="expires=Fri, 1 Jan 2038 00:00:00 GMT;";var G=0;if(document.location.protocol=="file:"){return }T=navigator.cookieEnabled?"1":"0";S=navigator.javaEnabled()?"1":"0";var F="0";var E;var C=-1;var D=document.cookie;if(T=="1"){C=D.indexOf("vjuids=");if(C&lt;0){E=vjVisitorID();document.cookie="vjuids="+escape(E)+";"+H+";domain="+wrDomain+";path=/;";if(document.cookie.indexOf("vjuids=")&lt;0){T="0"}else{Q="1"}}else{E=vjGetCookie("vjuids")}}L=document.referrer;if(!L||L==""){L=""}R=vjFlash();if(self.screen){N=screen.width+"x"+screen.height+"x"+screen.colorDepth}else{if(self.java){var M=java.awt.Toolkit.getDefaultToolkit();var O=M.getScreenSize();N=O.width+"x"+O.height+"x0"}}if(navigator.language){K=navigator.language.toLowerCase()}else{if(navigator.browserLanguage){K=navigator.browserLanguage.toLowerCase()}else{K="-"}}I="";var B;var X;X=new Date();J=X.getTimezoneOffset()/-60;J=X.getTimezoneOffset()/-60;B="&amp;s="+N+"&amp;l="+K+"&amp;z="+J+"&amp;j="+S+"&amp;f="+R;if(T=="1"){C=document.cookie.indexOf("vjlast=");if(C&lt;0){G=0}else{G=parseInt(vjGetCookie("vjlast"))}}if((X.getTime()/1000)-G&gt;U){F="1";document.cookie="vjlast="+Math.round(X.getTime()/1000)+";"+H+";domain="+wrDomain+";path=/;"}if(L!=""){B=B+"&amp;r="+escape(L)}if(F!="0"){B=B+"&amp;n="+G}if(Q!="0"){B=B+"&amp;u="+Q}var V;var A=vjGetAcc();var W=vjGetDomain();V=wrUrl+"a.gif?a="+X.getTime().toString(16)+"&amp;t="+escape(I)+"&amp;i="+escape(E)+"&amp;b="+escape(document.location)+"&amp;c="+A+B+"&amp;ck="+W;document.write('&lt;img src="'+V+'" width="1" height="1" style="visibility:hidden;position:absolute;left:0px;top:0px;z-index:-1"  /&gt;')}function vjGetAcc(){var B=document.location.toString().toLowerCase();var C=(B.split("/"))[2];var A=wratingAccArray[C];if(typeof (A)=="undefined"){A=wratingDefaultAcc}return A}function vjFlash(){var _wr_f="-",_wr_n=navigator;if(_wr_n.plugins&amp;&amp;_wr_n.plugins.length){for(var ii=0;ii&lt;_wr_n.plugins.length;ii++){if(_wr_n.plugins[ii].name.indexOf("Shockwave Flash")!=-1){_wr_f=_wr_n.plugins[ii].description.split("Shockwave Flash ")[1];break}}}else{if(window.ActiveXObject){for(var ii=10;ii&gt;=2;ii--){try{var fl=eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+ii+"');");if(fl){_wr_f=ii+".0";break}}catch(e){}}}}return _wr_f}function vjHash(B){if(!B||B==""){return 0}var D=0;for(var C=B.length-1;C&gt;=0;C--){var A=parseInt(B.charCodeAt(C));D=(D&lt;&lt;5)+D+A}return D}function vjVisitorID(){var B=vjHash(document.location+document.cookie+document.referrer).toString(16);var A;A=new Date();return B+"."+A.getTime().toString(16)+"."+Math.random().toString(16)}function vjGetCookieVal(B){var A=document.cookie.indexOf(";",B);if(A==-1){A=document.cookie.length}return unescape(document.cookie.substring(B,A))}function vjGetCookie(C){var B=C+"=";var F=B.length;var A=document.cookie.length;var E=0;while(E&lt;A){var D=E+F;if(document.cookie.substring(E,D)==B){return vjGetCookieVal(D)}E=document.cookie.indexOf(" ",E)+1;if(E==0){break}}return null}function vjGetDomain(){var A=0;try{if(window.self.parent!=self){var D=/sina.com/i;var C=document.location.toString().toLowerCase();var B=parent.location.toString().toLowerCase();if(D.test(C)&amp;&amp;D.test(B)){A=1}}}catch(e){A=1}return A}vjTrack();
+</script>
+<!-- End Wrating-->
+</body>
+</html>
