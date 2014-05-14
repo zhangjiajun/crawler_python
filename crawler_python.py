@@ -124,7 +124,7 @@ if __name__=='__main__':
 	Page = html_open(example)
 	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
 	fp = open("test.txt",'wb+')
-	soup = str (soup.title)
+	soup = str (soup)
 	fp.writelines(soup)
 	time.sleep(1)
 	fp.close()
@@ -138,7 +138,7 @@ if __name__=='__main__':
 
 	fp_2=open("title.txt",'wb+')
 	fp_2.truncate()
-	for i in links[4:10]:
+	for i in links[4:100]:
 		queue.put(i)
 	thread_go(thread_num)
 	time.sleep(20)
