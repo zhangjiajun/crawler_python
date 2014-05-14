@@ -1,0 +1,676 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>恐怖电影_最新恐怖电影高清在线观看_新浪大片_新浪网</title>
+<meta name="keywords" content="恐怖电影,最新恐怖,最新恐怖电影,恐怖片,好看的恐怖电影,经典恐怖" />
+<meta name="description" content="新浪恐怖电影频道,作为中国最大的正版高清恐怖电影在线观看视频平台,提供最新最热恐怖电影高清在线观看,清晰度可达DVD标准,更多好看的恐怖电影、经典恐怖片尽在新浪电影频道." />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link type="text/css" rel="stylesheet" href=" http://sjs3.sinajs.cn/video/css/common/common_1.css?v=1.0.0.2" />
+<link type="text/css" rel="stylesheet" href="http://sjs2.sinajs.cn/video/movie/css/list.css?v=1.2" />
+<script type="text/javascript">
+var $SCOPE  = {
+	SET_DOMAIN:		'sina.com.cn',	// 转域设置
+	PRODUCT_NAME : 	"movie",		// 产品名称
+	PAGE_ID : 		"mlist",		// 页面ID 
+	JS_VER: 		"0.0.0.2",				// js版本号
+	CSS_VER: 		"0.0.0.2",				// css版本号
+	list:{Page:1,
+			pageSize:{"1":20,'2':20},
+			COUNT:"4"-0
+			},
+	leftid:'type-7',
+	category:'movie',
+	topid :'2',
+	liststyle :'1'
+};
+
+</script>
+</head>
+<body>
+<!-- SUDA_CODE_START -->
+<div style="position:absolute;top:0;left:0;width:0;height:0;z-index:1"><div style="position:absolute;top:0;left:0;width:1;height:1;"><iframe id="SUDA_FC" src="" width="1" height="1" scrolling="NO" frameborder="0"></iframe></div><div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden" id="SUDA_CS_DIV"></div></div>
+<script type="text/javascript"> 
+//&lt;!--
+var SSL={Config:{},Space:function(str){var a=str,o=null;a=a.split('.');o=SSL;for(i=0,len=a.length;i&lt;len;i++){o[a[i]]=o[a[i]]||{};o=o[a[i]]}return o}};
+SSL.Space('Global');SSL.Space('Core.Dom');SSL.Space('Core.Event');SSL.Space('App');SSL.Global={win:window||{},doc:document,nav:navigator,loc:location};SSL.Core.Dom={get:function(id){return document.getElementById(id)}};SSL.Core.Event={on:function(){}};
+SSL.App={
+	_S_gConType:function(){var ct="";try{SSL.Global.doc.body.addBehavior("#default#clientCaps");ct=SSL.Global.doc.body.connectionType}catch(e){ct="unkown"}return ct},
+	_S_gKeyV:function(src,k,e,sp){if(src==""){return""}if(sp==""){sp="="}k=k+sp;var ps=src.indexOf(k);if(ps&lt;0){return""}ps=ps+k.length;var pe=src.indexOf(e,ps);if(pe&lt;ps){pe=src.length}return src.substring(ps,pe)},
+	_S_gUCk:function(ckName){if((undefined==ckName)||(""==ckName))return"";return SSL.App._S_gKeyV(SSL.Global.doc.cookie,ckName,";","")},
+	_S_sUCk:function(ckName,ckValue,ckDays,ckDomain){if(ckValue!=null){if((undefined==ckDomain)||(null==ckDomain)){ckDomain="sina.com.cn";}if((undefined==ckDays)||(null==ckDays)||(''==ckDays)){SSL.Global.doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";path=/";}else{var now=new Date();var time=now.getTime();time=time+86400000*ckDays;now.setTime(time);time=now.getTime();SSL.Global.doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";expires="+now.toUTCString()+";path=/";}}},
+	_S_gJVer:function(_S_NAV_,_S_NAN_){var p,appsign,appver,jsver=1.0,isN6=0;if('MSIE'==_S_NAN_){appsign='MSIE';p=_S_NAV_.indexOf(appsign);if(p&gt;=0){appver=parseInt(_S_NAV_.substring(p+5));if(3&lt;=appver){jsver=1.1;if(4&lt;=appver){jsver=1.3}}}}else if(("Netscape"==_S_NAN_)||("Opera"==_S_NAN_)||("Mozilla"==_S_NAN_)){jsver=1.3;appsign='Netscape6';p=_S_NAV_.indexOf(appsign);if(p&gt;=0){jsver=1.5}}return jsver},
+	_S_gFVer:function(nav){var ua=SSL.Global.nav.userAgent.toLowerCase();var flash_version=0;if(SSL.Global.nav.plugins&amp;&amp;SSL.Global.nav.plugins.length){var p=SSL.Global.nav.plugins['Shockwave Flash'];if(typeof p=='object'){for(var i=10;i&gt;=3;i--){if(p.description&amp;&amp;p.description.indexOf(' '+i+'.')!=-1){flash_version=i;break}}}}else if(ua.indexOf("msie")!=-1&amp;&amp;ua.indexOf("win")!=-1&amp;&amp;parseInt(SSL.Global.nav.appVersion)&gt;=4&amp;&amp;ua.indexOf("16bit")==-1){for(var i=10;i&gt;=2;i--){try{var object=eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+i+"');");if(object){flash_version=i;break}}catch(e){}}}else if(ua.indexOf("webtv/2.5")!=-1){flash_version=3}else if(ua.indexOf("webtv")!=-1){flash_version=2}return flash_version},
+	_S_gMeta:function(MName,pidx){var pMeta=SSL.Global.doc.getElementsByName(MName);var idx=0;if(pidx&gt;0){idx=pidx}return(pMeta.length&gt;idx)?pMeta[idx].content:""},
+	_S_gHost:function(sUrl){var r=new RegExp('^http(?:s)?\://([^/]+)','im');if(sUrl.match(r)){return sUrl.match(r)[1].toString()}else{return""}},
+	_S_gDomain:function(sHost){var p=sHost.indexOf('.sina.');if(p&gt;0){return sHost.substr(0,p)}else{return sHost}},
+	_S_gTJMTMeta:function(){return SSL.App._S_gMeta("mediaid")},
+	_S_gTJZTMeta:function(){var zt=SSL.App._S_gMeta('subjectid');zt.replace(",",".");zt.replace(";",",");return zt},
+	_S_isFreshMeta:function(){var ph=SSL.Global.doc.documentElement.innerHTML.substring(0,1024);var reg=new RegExp("&lt;meta\\s*http-equiv\\s*=((\\s*refresh\\s*)|(\'refresh\')|(\"refresh\"))\s*content\s*=","ig");return reg.test(ph)},
+	_S_isIFrameSelf:function(minH,minW){if(SSL.Global.win.top==SSL.Global.win){return false}else{try{if(SSL.Global.doc.body.clientHeight==0){return false}if((SSL.Global.doc.body.clientHeight&gt;=minH)&amp;&amp;(SSL.Global.doc.body.clientWidth&gt;=minW)){return false}else{return true}}catch(e){return true}}},
+	_S_isHome:function(curl){var isH="";try{SSL.Global.doc.body.addBehavior("#default#homePage");isH=SSL.Global.doc.body.isHomePage(curl)?"Y":"N"}catch(e){isH="unkown"}return isH;}
+}
+function SUDA(config,ext1,ext2){
+	var SG=SSL.Global,SSD=SSL.Core.Dom,SSE=SSL.Core.Event,SA=SSL.App;var _S_JV_="webbug_meta_ref_mod_noiframe_async_fc_:9.10a",_S_DPID_="-9999-0-0-1";var _S_NAN_=SG.nav.appName.indexOf('Microsoft Internet Explorer')&gt;-1?'MSIE':SG.nav.appName;var _S_NAV_=SG.nav.appVersion;var _S_PURL_=SG.loc.href.toLowerCase();var _S_PREF_=SG.doc.referrer.toLowerCase();var _SP_MPID_="";var _S_PID_="",_S_UNA_="SUP",_S_MI_="",_S_SID_="Apache",_S_GID_="SINAGLOBAL",_S_LV_="ULV",_S_UO_="UOR",_S_UPA_="_s_upa",_S_IFW=320,_S_IFH=240,_S_GIDT=0,_S_EXT1="",_S_EXT2="",_S_SMC=0,_S_SMM=10000,_S_ET=0,_S_ACC_="_s_acc";var _S_HTTP=_S_PURL_.indexOf('https')&gt;-1?'https://':'http://',_S_BCNDOMAIN="beacon.sina.com.cn",_S_CP_RF=_S_HTTP+_S_BCNDOMAIN+"/a.gif",_S_CP_RF_D=_S_HTTP+_S_BCNDOMAIN+"/d.gif",_S_CP_RF_E=_S_HTTP+_S_BCNDOMAIN+"/e.gif",_S_CP_FC=_S_HTTP+_S_BCNDOMAIN+"/fc.html";
+	var _S_T1=100,_S_T2=1000;
+	var handler={
+		_S_sSID:function(){handler._S_p2Bcn("",_S_CP_RF_D)},_S_gsSID:function(){var sid=SA._S_gUCk(_S_SID_);if(""==sid){handler._S_sSID()}return sid},
+		_S_sGID:function(gid){if(""!=gid){SA._S_sUCk(_S_GID_,gid,3650)}},_S_gGID:function(){return SA._S_gUCk(_S_GID_)},_S_gsGID:function(){if(""!=_S_GID_){var gid=SA._S_gUCk(_S_GID_);if(""==gid){handler._S_IFC2GID()}return gid}else{return""}},_S_IFC2GID:function(){var _S_ifc=SSD.get("SUDA_FC");if(_S_ifc){_S_ifc.src=_S_CP_FC+"?a=g&amp;n="+_S_GID_+"&amp;r="+Math.random()}},
+		_S_gCid:function(){try{var metaTxt=SA._S_gMeta("publishid");if(""!=metaTxt){var pbidList=metaTxt.split(",");if(pbidList.length&gt;0){if(pbidList.length&gt;=3){_S_DPID_="-9999-0-"+pbidList[1]+"-"+pbidList[2]}return pbidList[0]}}else{return"0"}}catch(e){return"0"}},
+		_S_gAEC:function(){return SA._S_gUCk(_S_ACC_)},_S_sAEC:function(eid){if(""==eid){return}var acc=handler._S_gAEC();if(acc.indexOf(eid+",")&lt;0){acc=acc+eid+",";}SA._S_sUCk(_S_ACC_,acc,7);},
+		_S_p2Bcn:function(q,u){var scd=SSD.get("SUDA_CS_DIV");if(null!=scd){var now=new Date();scd.innerHTML="&lt;img width=0 height=0 src='"+u+"?"+q+"&amp;gUid_"+now.getTime()+"' border='0' alt=''  /&gt;"}},
+		_S_gSUP:function(){if(_S_MI_!=""){return _S_MI_}var sup=unescape(SA._S_gUCk(_S_UNA_));if(sup!=""){var ag=SA._S_gKeyV(sup,"ag","&amp;","");var user=SA._S_gKeyV(sup,"user","&amp;","");var uid=SA._S_gKeyV(sup,"uid","&amp;","");var sex=SA._S_gKeyV(sup,"sex","&amp;","");var bday=SA._S_gKeyV(sup,"dob","&amp;","");_S_MI_=ag+":"+user+":"+uid+":"+sex+":"+bday;return _S_MI_}else{return""}},
+		_S_gsLVisit:function(sid){var lvi=SA._S_gUCk(_S_LV_);var lva=lvi.split(":");var lvr="";if(lva.length&gt;=6){if(sid!=lva[4]){var lvn=new Date();var lvd=new Date(parseInt(lva[0]));lva[1]=parseInt(lva[1])+1;if(lvn.getMonth()!=lvd.getMonth()){lva[2]=1}else{lva[2]=parseInt(lva[2])+1}if(((lvn.getTime()-lvd.getTime())/86400000)&gt;=7){lva[3]=1}else{if(lvn.getDay()&lt;lvd.getDay()){lva[3]=1}else{lva[3]=parseInt(lva[3])+1}}lvr=lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3];lva[5]=lva[0];lva[0]=lvn.getTime();SA._S_sUCk(_S_LV_,lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3]+":"+sid+":"+lva[5],360)}else{lvr=lva[5]+":"+lva[1]+":"+lva[2]+":"+lva[3]}}else{var lvn=new Date();lvr=":1:1:1";SA._S_sUCk(_S_LV_,lvn.getTime()+lvr+":"+sid+":",360)}return lvr},
+		_S_gUOR:function(){var uoc=SA._S_gUCk(_S_UO_);var upa=uoc.split(":");if(upa.length&gt;=2){return upa[0]}else{return""}},
+		_S_sUOR:function(){var uoc=SA._S_gUCk(_S_UO_),uor="",uol="",up_t="",up="";var re=/[&amp;|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var ct=new Date();if(_S_PURL_.match(re)){up_t=_S_PURL_.match(re)[0]}else{if(_S_PREF_.match(re)){up_t=_S_PREF_.match(re)[0]}}if(up_t!=""){up_t=up_t.substr(3)+":"+ct.getTime()}if(uoc==""){if(SA._S_gUCk(_S_LV_)==""&amp;&amp;SA._S_gUCk(_S_LV_)==""){uor=SA._S_gDomain(SA._S_gHost(_S_PREF_));uol=SA._S_gDomain(SA._S_gHost(_S_PURL_))}SA._S_sUCk(_S_UO_,uor+","+uol+","+up_t,365)}else{var ucg=0,uoa=uoc.split(",");if(uoa.length&gt;=1){uor=uoa[0]}if(uoa.length&gt;=2){uol=uoa[1]}if(uoa.length&gt;=3){up=uoa[2]}if(up_t!=""){ucg=1}else{var upa=up.split(":");if(upa.length&gt;=2){var upd=new Date(parseInt(upa[1]));if(upd.getTime()&lt;(ct.getTime()-86400000*30)){ucg=1}}}if(ucg){SA._S_sUCk(_S_UO_,uor+","+uol+","+up_t,365)}}},
+		_S_gRef:function(){var re=/^[^\?&amp;#]*.swf([\?#])?/;if((_S_PREF_=="")||(_S_PREF_.match(re))){var ref=SA._S_gKeyV(_S_PURL_,"ref","&amp;","");if(ref!=""){return ref}}return _S_PREF_},
+		_S_MEvent:function(){if(_S_SMC==0){_S_SMC++;var c=SA._S_gUCk(_S_UPA_);if(c==""){c=0}c++;if(c&lt;_S_SMM){var re=/[&amp;|?]c=spr(_[A-Za-z0-9]{2,}){3,}/;if(_S_PURL_.match(re)||_S_PREF_.match(re)){c=c+_S_SMM}}SA._S_sUCk(_S_UPA_,c)}},_S_gMET:function(){var c=SA._S_gUCk(_S_UPA_);if(c==""){c=0}return c},
+		_S_gCInfo_v2:function(){var now=new Date();return"sz:"+screen.width+"x"+screen.height+"|dp:"+screen.colorDepth+"|ac:"+SG.nav.appCodeName+"|an:"+_S_NAN_+"|cpu:"+SG.nav.cpuClass+"|pf:"+SG.nav.platform+"|jv:"+SA._S_gJVer(_S_NAV_,_S_NAN_)+"|ct:"+SA._S_gConType()+"|lg:"+SG.nav.systemLanguage+"|tz:"+now.getTimezoneOffset()/60+"|fv:"+SA._S_gFVer(SG.nav)},
+		_S_gPInfo_v2:function(pid,ref){if((undefined==pid)||(""==pid)){pid=handler._S_gCid()+_S_DPID_}return"pid:"+pid+"|st:"+handler._S_gMET()+"|et:"+_S_ET+"|ref:"+escape(ref)+"|hp:"+SA._S_isHome(_S_PURL_)+"|PGLS:"+SA._S_gMeta("stencil")+"|ZT:"+escape(SA._S_gTJZTMeta())+"|MT:"+escape(SA._S_gTJMTMeta())+"|keys:"},
+		_S_gUInfo_v2:function(vid){return"vid:"+vid+"|sid:"+handler._S_gsSID()+"|lv:"+handler._S_gsLVisit(handler._S_gsSID())+"|un:"+handler._S_gSUP()+"|uo:"+handler._S_gUOR()+"|ae:"+handler._S_gAEC()},
+		_S_gEXTInfo_v2:function(ext1,ext2){_S_EXT1=(undefined==ext1)?_S_EXT1:ext1;_S_EXT2=(undefined==ext2)?_S_EXT2:ext2;return"ex1:"+_S_EXT1+"|ex2:"+_S_EXT2},
+		_S_pBeacon:function(pid,ext1,ext2){try{var gid=handler._S_gsGID();if(""==gid){if(_S_GIDT&lt;1){setTimeout(function(){handler._S_pBeacon(pid,ext1,ext2)},_S_T2);_S_GIDT++;return}else{gid=handler._S_gsSID();handler._S_sGID(gid)}}var sVer="V=2";var sCI=handler._S_gCInfo_v2();var sPI=handler._S_gPInfo_v2(pid,handler._S_gRef());var sUI=handler._S_gUInfo_v2(gid);var sEX=handler._S_gEXTInfo_v2(ext1,ext2);var lbStr=sVer+"&amp;CI="+sCI+"&amp;PI="+sPI+"&amp;UI="+sUI+"&amp;EX="+sEX;handler._S_p2Bcn(lbStr,_S_CP_RF)}catch(e){}},
+		_S_acTrack_i:function(eid,p){if((""==eid)||(undefined==eid)){return}handler._S_sAEC(eid);if(0==p){return}var s="AcTrack||"+handler._S_gGID()+"||"+handler._S_gsSID()+"||"+handler._S_gSUP()+"||"+eid+"||";handler._S_p2Bcn(s,_S_CP_RF_E)},
+		_S_uaTrack_i:function(acode,aext){var s="UATrack||"+handler._S_gGID()+"||"+handler._S_gsSID()+"||"+handler._S_gSUP()+"||"+acode+"||"+aext+"||";handler._S_p2Bcn(s,_S_CP_RF_E)}
+	};
+	if(_S_SMC==0){if('MSIE'==_S_NAN_){SSL.Global.doc.attachEvent("onclick",handler._S_MEvent);SSL.Global.doc.attachEvent("onmousemove",handler._S_MEvent);SSL.Global.doc.attachEvent("onscroll",handler._S_MEvent)}else{SSL.Global.doc.addEventListener("click",handler._S_MEvent,false);SSL.Global.doc.addEventListener("mousemove",handler._S_MEvent,false);SSL.Global.doc.addEventListener("scroll",handler._S_MEvent,false)}};handler._S_sUOR();
+	return{
+		_S_pSt:function(pid,ext1,ext2){try{if((SA._S_isFreshMeta())||(SA._S_isIFrameSelf(_S_IFH,_S_IFW))){return}if(_S_ET&gt;0){return}++_S_ET;setTimeout(function(){handler._S_gsSID()},_S_T1);setTimeout(function(){handler._S_pBeacon(pid,ext1,ext2,0)},_S_T2)}catch(e){}},
+		_S_pStM:function(pid,ext1,ext2){++_S_ET;handler._S_pBeacon(pid,((undefined==ext1)?handler._S_upExt1():ext1),ext2)},
+		_S_acTrack:function(eid,p){try{if((undefined!=eid)&amp;&amp;(""!=eid)){setTimeout(function(){handler._S_acTrack_i(eid,p)},_S_T1)}}catch(e){}},
+		_S_uaTrack:function(acode,aext){try{if(undefined==acode){acode=""}if(undefined==aext){aext=""}if((""!=acode)||(""!=aext)){setTimeout(function(){handler._S_uaTrack_i(acode,aext)},_S_T1)}}catch(e){}}
+	}
+}
+var GB_SUDA;if(GB_SUDA==null){GB_SUDA=new SUDA({})}
+var _S_PID_="";
+function _S_pSt(pid,ext1,ext2){GB_SUDA._S_pSt(pid,ext1,ext2);}
+function _S_pStM(pid,ext1,ext2){GB_SUDA._S_pStM(pid,ext1,ext2);}
+function _S_acTrack(eid){GB_SUDA._S_acTrack(eid,1);}
+function _S_uaTrack(acode,aext){GB_SUDA._S_uaTrack(acode,aext);}
+//--&gt;
+</script>
+<script type="text/javascript"> 
+//&lt;!--
+GB_SUDA._S_pSt("");
+//--&gt;
+ 
+</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden"><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></div>
+</noscript>
+<!-- SUDA_CODE_END -->
+<link href="http://sjs0.sinajs.cn/video/css/header/header.css" type="text/css" rel="stylesheet" />
+<!-- 导航 begin -->
+<div class="header2011 clearfix" style=" position:relative; z-index: 999;">
+<div class="logo"><a href="http://video.sina.com.cn"><img src="http://sjs0.sinajs.cn/video/images/header/video_zxh_0718_logo.png" title="" alt="" /></a></div>
+<div style="float:right;width:762px;"><div>
+<div class="search">
+<form id="search_form" action="http://video.sina.com.cn/search/index.php" method="get" name="topSearchform" onsubmit="return checkmyform(this);">
+<input type="text" value="请输入查询词" onclick="if(nmytrim(this.value) == '请输入查询词')this.value='';" onblur="if(nmytrim(this.value) == '')this.value='请输入查询词';" class="inp_key" name="k" formid="search_form" searchtype="movie" id="search_input" autocomplete="off" />
+<input type="submit" value="  " class="search_btn" />
+<input type="hidden" id="form_search_type" name="type" value="movie" />
+<input type="hidden" id="stype" name="stype" value="1" />
+<input type="hidden" id="s" name="s" value="sup" />
+</form>
+</div>
+<div class="upload"><a href="http://vupload.you.video.sina.com.cn/u.php?m=1" class="f_red isLine">上传视频</a></div>
+<div class="topTrayNav2" id="topBox"></div><div class="topTrayNav2" id="topTrayBox" style="display:none; width:1px; height:1px;"></div>
+</div>
+</div>
+</div>
+<div class="navTop">
+<div class="navTop_box">
+<div class="nav01 clearfix">
+<ul>
+<li><a href="http://video.sina.com.cn">首页</a></li>
+<li><a href="http://video.sina.com.cn/news/">新闻</a></li>
+<li><a href="http://video.sina.com.cn/sports/">体育</a></li>
+<li><a href="http://video.sina.com.cn/ent/">娱乐</a></li>
+<li class="home"><a href="http://video.sina.com.cn/movie/">大片</a></li>
+<li><a href="http://v.sina.com.cn/v/gaoxiao.html">搞笑</a></li>
+</ul>
+<div class="olink"><a href="http://video.sina.com.cn/list/videolist.php" target="_blank" class="f_grey">热门</a> | <a href="http://video.sina.com.cn/radio/" target="_blank" class="f_grey">电台</a> | <a href="http://video.sina.com.cn/ipad/" target="_blank" class="f_grey">ipad专区</a> | <a href="http://news.sina.com.cn/guide/" target="_blank" class="f_grey">导航</a> | <a href="http://www.sina.com.cn/" target="_blank" class="f_grey">新浪首页</a></div>
+</div>
+<div class="nav02">
+<div class="nav02_c">
+<div style="padding-left:28px; text-align: left;"><span>电影</span>  |  <a target="_blank" href="http://video.sina.com.cn/movie/teleplay/">电视剧</a>  |   <a target="_blank" href="http://video.sina.com.cn/movie/zongyi/">综艺</a>  |   <a target="_blank" href="http://video.sina.com.cn/movie/comic/">动漫</a>  |  <a target="_blank" href="http://video.sina.com.cn/movie/real/">纪录片</a> | <a href="http://v.sina.com.cn/v/dv/" target="_blank">微电影</a> | <a target="_blank" href="http://video.sina.com.cn/movie/zt/">专题</a> </div>
+</div>
+</div>
+</div>
+</div>
+<!-- 导航 end -->
+<script type="text/javascript"> 
+function nmytrim(str){return str.replace(/(^[\s]*)|($[\s]*)/g,'')}
+function checkmyform(fn){
+	if((fn.k.value == "")||(fn.k.value == "请输入查询词"))
+	{
+		fn.k.value = "请输入查询词";
+		fn.k.focus();
+		return false;
+	}
+	return true;
+}
+ 
+function TopSearchSelect(value) {
+  document.topSearchform.stype.value = value;
+  document.topSearchform.submit();
+}
+try{document.domain = "sina.com.cn";}catch(e){};
+//var loc = window.location;
+//moviePattern=/^http:\/\/video\.sina\.com\.cn\/movie\/category\/movie.*/;
+//teleplayPattern=/^http:\/\/video\.sina\.com\.cn\/movie\/category\/teleplay.*/;
+//documentaryPattern=/^http:\/\/video\.sina\.com\.cn\/movie\/category\/documentary.*/;
+//if(moviePattern.exec(loc)){
+//document.getElementById('n2').className = 'on';
+//}else if(teleplayPattern.exec(loc)){
+//document.getElementById('n3').className = 'on';
+//}else if(documentaryPattern.exec(loc)){
+//document.getElementById('n4').className = 'on';
+//}else if(loc == 'http://video.sina.com.cn/movie/zt/index.html'){
+//document.getElementById('n5').className = 'on';
+//}
+</script>
+<!-- head end--> <div class="co_wrap950">
+<div class="LeftBox">
+<div class="leftnav">
+<div class="leftnav_bg1">
+<div class="leftnav_bg2">
+<div class="leftnav_hd">
+<h3>分类索引</h3>
+</div>
+<div class="leftnav_bd">
+<!-- 左侧导航 begin-->
+<ul class="leftnav_list" id="Left_menu">
+<li class="cur" id="Left_movie">
+<div class="category">
+<a id="leftMenu" href="
+		#" onfocus="blur()">电 影</a>
+</div>
+<div id="leftSmallMenu"> <h4>按类型：</h4>
+<ul>
+<li><a href="/movie/category/movie/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/movie/type/1.html" onfocus="blur()">剧情</a></li>
+<li>
+<a href="/movie/category/movie/type/2.html" onfocus="blur()">喜剧</a></li>
+<li>
+<a href="/movie/category/movie/type/3.html" onfocus="blur()">爱情</a></li>
+<li>
+<a href="/movie/category/movie/type/4.html" onfocus="blur()">动作</a></li>
+<li>
+<a href="/movie/category/movie/type/5.html" onfocus="blur()">惊悚</a></li>
+<li>
+<a href="/movie/category/movie/type/6.html" onfocus="blur()">犯罪</a></li>
+<li class="cur">
+<a href="/movie/category/movie/type/7.html" onfocus="blur()">恐怖</a></li>
+<li>
+<a href="/movie/category/movie/type/8.html" onfocus="blur()">冒险</a></li>
+<li>
+<a href="/movie/category/movie/type/9.html" onfocus="blur()">家庭</a></li>
+<li>
+<a href="/movie/category/movie/type/10.html" onfocus="blur()">伦理</a></li>
+<li>
+<a href="/movie/category/movie/type/11.html" onfocus="blur()">动画</a></li>
+<li>
+<a href="/movie/category/movie/type/12.html" onfocus="blur()">悬疑</a></li>
+<li>
+<a href="/movie/category/movie/type/13.html" onfocus="blur()">短片</a></li>
+<li>
+<a href="/movie/category/movie/type/14.html" onfocus="blur()">战争</a></li>
+<li>
+<a href="/movie/category/movie/type/15.html" onfocus="blur()">歌舞</a></li>
+<li>
+<a href="/movie/category/movie/type/16.html" onfocus="blur()">传记</a></li>
+<li>
+<a href="/movie/category/movie/type/17.html" onfocus="blur()">历史</a></li>
+<li>
+<a href="/movie/category/movie/type/18.html" onfocus="blur()">古装</a></li>
+<li>
+<a href="/movie/category/movie/type/19.html" onfocus="blur()">运动</a></li>
+<li>
+<a href="/movie/category/movie/type/20.html" onfocus="blur()">武侠</a></li>
+<li>
+<a href="/movie/category/movie/type/21.html" onfocus="blur()">儿童</a></li>
+<li>
+<a href="/movie/category/movie/type/22.html" onfocus="blur()">青春</a></li>
+<li>
+<a href="/movie/category/movie/type/23.html" onfocus="blur()">纪实</a></li>
+<li>
+<a href="/movie/category/movie/type/24.html" onfocus="blur()">科幻魔幻</a></li>
+<li>
+<a href="/movie/category/movie/type/25.html" onfocus="blur()">黑色幽默</a></li>
+</ul>
+<h4>按地区：</h4>
+<ul>
+<li><a href="/movie/category/movie/index.html" onfocus="blur()">全部</a></li>
+<li><a href="/movie/category/movie/area/1.html" onfocus="blur()">大陆</a></li>
+<li><a href="/movie/category/movie/area/2.html" onfocus="blur()">香港</a></li>
+<li><a href="/movie/category/movie/area/3.html" onfocus="blur()">台湾</a></li>
+<li><a href="/movie/category/movie/area/4.html" onfocus="blur()">美国</a></li>
+<li><a href="/movie/category/movie/area/6.html" onfocus="blur()">欧洲</a></li>
+<li><a href="/movie/category/movie/area/7.html" onfocus="blur()">日本</a></li>
+<li><a href="/movie/category/movie/area/5.html" onfocus="blur()">韩国</a></li>
+<li><a href="/movie/category/movie/area/8.html" onfocus="blur()">其他</a></li>
+</ul>
+<h4>按年份：</h4>
+<ul class="last">
+<li><a href="/movie/category/movie/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/movie/year/2014.html" onfocus="blur()">2014</a></li>
+<li>
+<a href="/movie/category/movie/year/2013.html" onfocus="blur()">2013</a></li>
+<li>
+<a href="/movie/category/movie/year/2012.html" onfocus="blur()">2012</a></li>
+<li>
+<a href="/movie/category/movie/year/2011.html" onfocus="blur()">2011</a></li>
+<li class="last">
+<a href="/movie/category/movie/year/earlier.html" onfocus="blur()">更早</a></li>
+</ul>
+</div> </li>
+<li id="Left_tele">
+<div class="category">
+<a href="/movie/category/teleplay/index.html" onfocus="blur()">电视剧</a></div>
+<h4>按类型：</h4>
+<ul>
+<li><a href="/movie/category/teleplay/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/teleplay/type/1.html" onfocus="blur()">剧情</a></li>
+<li>
+<a href="/movie/category/teleplay/type/2.html" onfocus="blur()">喜剧</a></li>
+<li>
+<a href="/movie/category/teleplay/type/3.html" onfocus="blur()">爱情</a></li>
+<li>
+<a href="/movie/category/teleplay/type/4.html" onfocus="blur()">动作</a></li>
+<li>
+<a href="/movie/category/teleplay/type/5.html" onfocus="blur()">惊悚</a></li>
+<li>
+<a href="/movie/category/teleplay/type/6.html" onfocus="blur()">犯罪</a></li>
+<li class="cur">
+<a href="/movie/category/teleplay/type/7.html" onfocus="blur()">恐怖</a></li>
+<li>
+<a href="/movie/category/teleplay/type/8.html" onfocus="blur()">冒险</a></li>
+<li>
+<a href="/movie/category/teleplay/type/9.html" onfocus="blur()">家庭</a></li>
+<li>
+<a href="/movie/category/teleplay/type/10.html" onfocus="blur()">伦理</a></li>
+<li>
+<a href="/movie/category/teleplay/type/11.html" onfocus="blur()">动画</a></li>
+<li>
+<a href="/movie/category/teleplay/type/12.html" onfocus="blur()">悬疑</a></li>
+<li>
+<a href="/movie/category/teleplay/type/13.html" onfocus="blur()">短片</a></li>
+<li>
+<a href="/movie/category/teleplay/type/14.html" onfocus="blur()">战争</a></li>
+<li>
+<a href="/movie/category/teleplay/type/15.html" onfocus="blur()">歌舞</a></li>
+<li>
+<a href="/movie/category/teleplay/type/16.html" onfocus="blur()">传记</a></li>
+<li>
+<a href="/movie/category/teleplay/type/17.html" onfocus="blur()">历史</a></li>
+<li>
+<a href="/movie/category/teleplay/type/18.html" onfocus="blur()">古装</a></li>
+<li>
+<a href="/movie/category/teleplay/type/19.html" onfocus="blur()">运动</a></li>
+<li>
+<a href="/movie/category/teleplay/type/20.html" onfocus="blur()">武侠</a></li>
+<li>
+<a href="/movie/category/teleplay/type/21.html" onfocus="blur()">儿童</a></li>
+<li>
+<a href="/movie/category/teleplay/type/22.html" onfocus="blur()">青春</a></li>
+<li>
+<a href="/movie/category/teleplay/type/23.html" onfocus="blur()">纪实</a></li>
+<li>
+<a href="/movie/category/teleplay/type/24.html" onfocus="blur()">科幻魔幻</a></li>
+<li>
+<a href="/movie/category/teleplay/type/25.html" onfocus="blur()">黑色幽默</a></li>
+</ul>
+<h4>按地区：</h4>
+<ul>
+<li><a href="/movie/category/teleplay/index.html" onfocus="blur()">全部</a></li>
+<li><a href="/movie/category/teleplay/area/1.html" onfocus="blur()">大陆</a></li>
+<li><a href="/movie/category/teleplay/area/2.html" onfocus="blur()">香港</a></li>
+<li><a href="/movie/category/teleplay/area/3.html" onfocus="blur()">台湾</a></li>
+<li><a href="/movie/category/teleplay/area/4.html" onfocus="blur()">美国</a></li>
+<li><a href="/movie/category/teleplay/area/6.html" onfocus="blur()">欧洲</a></li>
+<li><a href="/movie/category/teleplay/area/7.html" onfocus="blur()">日本</a></li>
+<li><a href="/movie/category/teleplay/area/5.html" onfocus="blur()">韩国</a></li>
+<li><a href="/movie/category/teleplay/area/8.html" onfocus="blur()">其他</a></li>
+</ul>
+<h4>按年份：</h4>
+<ul class="last">
+<li></li><li><a href="/movie/category/teleplay/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/teleplay/year/2014.html" onfocus="blur()">2014</a></li>
+<li>
+<a href="/movie/category/teleplay/year/2013.html" onfocus="blur()">2013</a></li>
+<li>
+<a href="/movie/category/teleplay/year/2012.html" onfocus="blur()">2012</a></li>
+<li>
+<a href="/movie/category/teleplay/year/2011.html" onfocus="blur()">2011</a></li>
+<li class="last">
+<a href="/movie/category/teleplay/year/earlier.html" onfocus="blur()">更早</a></li>
+</ul>
+</li>
+<li id="Left_tele">
+<div class="category">
+<a href="/movie/category/cartoon/index.html" onfocus="blur()">动画片</a></div>
+<h4>按类型：</h4>
+<ul>
+<li><a href="/movie/category/cartoon/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/cartoon/type/1.html" onfocus="blur()">搞笑</a></li>
+<li>
+<a href="/movie/category/cartoon/type/2.html" onfocus="blur()">剧情</a></li>
+<li>
+<a href="/movie/category/cartoon/type/3.html" onfocus="blur()">冒险</a></li>
+<li>
+<a href="/movie/category/cartoon/type/4.html" onfocus="blur()">魔幻</a></li>
+<li>
+<a href="/movie/category/cartoon/type/5.html" onfocus="blur()">励志</a></li>
+<li>
+<a href="/movie/category/cartoon/type/6.html" onfocus="blur()">体育</a></li>
+<li class="cur">
+<a href="/movie/category/cartoon/type/7.html" onfocus="blur()">益智</a></li>
+<li>
+<a href="/movie/category/cartoon/type/8.html" onfocus="blur()">神话</a></li>
+<li>
+<a href="/movie/category/cartoon/type/9.html" onfocus="blur()">童话</a></li>
+<li>
+<a href="/movie/category/cartoon/type/10.html" onfocus="blur()">真人</a></li>
+</ul>
+<h4>按地区：</h4>
+<ul>
+<li><a href="/movie/category/cartoon/index.html" onfocus="blur()">全部</a></li>
+<li><a href="/movie/category/cartoon/area/1.html" onfocus="blur()">大陆</a></li>
+<li><a href="/movie/category/cartoon/area/2.html" onfocus="blur()">香港</a></li>
+<li><a href="/movie/category/cartoon/area/3.html" onfocus="blur()">台湾</a></li>
+<li><a href="/movie/category/cartoon/area/4.html" onfocus="blur()">美国</a></li>
+<li><a href="/movie/category/cartoon/area/6.html" onfocus="blur()">欧洲</a></li>
+<li><a href="/movie/category/cartoon/area/7.html" onfocus="blur()">日本</a></li>
+<li><a href="/movie/category/cartoon/area/5.html" onfocus="blur()">韩国</a></li>
+<li><a href="/movie/category/cartoon/area/8.html" onfocus="blur()">其他</a></li>
+</ul>
+<h4>按年份：</h4>
+<ul class="last">
+<li></li><li><a href="/movie/category/cartoon/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/cartoon/year/2014.html" onfocus="blur()">2014</a></li>
+<li>
+<a href="/movie/category/cartoon/year/2013.html" onfocus="blur()">2013</a></li>
+<li>
+<a href="/movie/category/cartoon/year/2012.html" onfocus="blur()">2012</a></li>
+<li>
+<a href="/movie/category/cartoon/year/2011.html" onfocus="blur()">2011</a></li>
+<li class="last">
+<a href="/movie/category/cartoon/year/earlier.html" onfocus="blur()">更早</a></li>
+</ul>
+</li>
+<li id="Left_tele">
+<div class="category">
+<a href="/movie/category/original/index.html" onfocus="blur()">原创</a></div>
+<h4>按类型：</h4>
+<ul>
+<li><a href="/movie/category/original/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/original/type/1.html" onfocus="blur()">剧情</a></li>
+<li>
+<a href="/movie/category/original/type/2.html" onfocus="blur()">喜剧</a></li>
+<li>
+<a href="/movie/category/original/type/3.html" onfocus="blur()">爱情</a></li>
+<li>
+<a href="/movie/category/original/type/4.html" onfocus="blur()">动画</a></li>
+<li>
+<a href="/movie/category/original/type/5.html" onfocus="blur()">惊悚</a></li>
+<li>
+<a href="/movie/category/original/type/6.html" onfocus="blur()">家庭</a></li>
+<li class="cur">
+<a href="/movie/category/original/type/7.html" onfocus="blur()">科幻奇幻</a></li>
+<li>
+<a href="/movie/category/original/type/8.html" onfocus="blur()">黑色幽默</a></li>
+</ul>
+<h4>按地区：</h4>
+<ul>
+<li><a href="/movie/category/original/index.html" onfocus="blur()">全部</a></li>
+<li><a href="/movie/category/original/area/1.html" onfocus="blur()">大陆</a></li>
+<li><a href="/movie/category/original/area/2.html" onfocus="blur()">香港</a></li>
+<li><a href="/movie/category/original/area/3.html" onfocus="blur()">台湾</a></li>
+<li><a href="/movie/category/original/area/4.html" onfocus="blur()">美国</a></li>
+<li><a href="/movie/category/original/area/6.html" onfocus="blur()">欧洲</a></li>
+<li><a href="/movie/category/original/area/7.html" onfocus="blur()">日本</a></li>
+<li><a href="/movie/category/original/area/5.html" onfocus="blur()">韩国</a></li>
+<li><a href="/movie/category/original/area/8.html" onfocus="blur()">其他</a></li>
+</ul>
+<h4>按年份：</h4>
+<ul class="last">
+<li></li><li><a href="/movie/category/original/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/original/year/2014.html" onfocus="blur()">2014</a></li>
+<li>
+<a href="/movie/category/original/year/2013.html" onfocus="blur()">2013</a></li>
+<li>
+<a href="/movie/category/original/year/2012.html" onfocus="blur()">2012</a></li>
+<li>
+<a href="/movie/category/original/year/2011.html" onfocus="blur()">2011</a></li>
+<li class="last">
+<a href="/movie/category/original/year/earlier.html" onfocus="blur()">更早</a></li>
+</ul>
+</li>
+<li id="Left_tele">
+<div class="category">
+<a href="/movie/category/arts/index.html" onfocus="blur()">综艺</a></div>
+<h4>按类型：</h4>
+<ul>
+<li><a href="/movie/category/arts/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/arts/type/1.html" onfocus="blur()">真人秀</a></li>
+<li>
+<a href="/movie/category/arts/type/2.html" onfocus="blur()">访谈</a></li>
+<li>
+<a href="/movie/category/arts/type/3.html" onfocus="blur()">搞笑</a></li>
+<li>
+<a href="/movie/category/arts/type/4.html" onfocus="blur()">游戏</a></li>
+<li>
+<a href="/movie/category/arts/type/5.html" onfocus="blur()">选秀</a></li>
+<li>
+<a href="/movie/category/arts/type/6.html" onfocus="blur()">时尚</a></li>
+<li class="cur">
+<a href="/movie/category/arts/type/7.html" onfocus="blur()">杂谈</a></li>
+<li>
+<a href="/movie/category/arts/type/8.html" onfocus="blur()">情感</a></li>
+<li>
+<a href="/movie/category/arts/type/9.html" onfocus="blur()">盛会</a></li>
+</ul>
+<h4>按地区：</h4>
+<ul>
+<li><a href="/movie/category/arts/index.html" onfocus="blur()">全部</a></li>
+<li><a href="/movie/category/arts/area/1.html" onfocus="blur()">大陆</a></li>
+<li><a href="/movie/category/arts/area/2.html" onfocus="blur()">香港</a></li>
+<li><a href="/movie/category/arts/area/3.html" onfocus="blur()">台湾</a></li>
+<li><a href="/movie/category/arts/area/4.html" onfocus="blur()">美国</a></li>
+<li><a href="/movie/category/arts/area/6.html" onfocus="blur()">欧洲</a></li>
+<li><a href="/movie/category/arts/area/7.html" onfocus="blur()">日本</a></li>
+<li><a href="/movie/category/arts/area/5.html" onfocus="blur()">韩国</a></li>
+<li><a href="/movie/category/arts/area/8.html" onfocus="blur()">其他</a></li>
+</ul>
+<h4>按年份：</h4>
+<ul class="last">
+<li></li><li><a href="/movie/category/arts/index.html" onfocus="blur()">全部</a></li>
+<li>
+<a href="/movie/category/original/year/2014.html" onfocus="blur()">2014</a></li>
+<li>
+<a href="/movie/category/original/year/2013.html" onfocus="blur()">2013</a></li>
+<li>
+<a href="/movie/category/original/year/2012.html" onfocus="blur()">2012</a></li>
+<li>
+<a href="/movie/category/original/year/2011.html" onfocus="blur()">2011</a></li>
+<li class="last">
+<a href="/movie/category/original/year/earlier.html" onfocus="blur()">更早</a></li>
+</ul>
+</li>
+<li id="Left_documentary">
+<div class="category">
+<a href="/movie/category/documentary/index.html" onfocus="blur()">纪录片</a></div>
+<h4>按分类：</h4>
+<ul>
+<li><a href="/movie/category/documentary/index.html" onfocus="blur()">全部</a></li>
+<li><a href="/movie/category/documentary/type/1.html" onfocus="blur()">社会人文</a></li>
+<li><a href="/movie/category/documentary/type/2.html" onfocus="blur()">自然探索</a></li>
+<li><a href="/movie/category/documentary/type/3.html" onfocus="blur()">战争军事</a></li>
+<li><a href="/movie/category/documentary/type/4.html" onfocus="blur()">历史人物</a></li>
+<li><a href="/movie/category/documentary/type/5.html" onfocus="blur()">文化生活</a></li>
+</ul>
+</li>
+<li>
+<div class="category"><a href="http://video.sina.com.cn/movie/zt/index.html" onfocus="blur()">专题</a></div>
+</li>
+<li>
+<div class="category"><a href="#" id="hot_Tab" onfocus="blur()">热门标签</a></div>
+<div id="hotSmallMenu">
+<ul>
+<li><a href="http://video.sina.com.cn/search/index.php?k=%E5%BC%A0%E8%89%BA%E8%B0%8B" target="_blank" onfocus="blur()">张艺谋</a></li>
+<li><a href="http://video.sina.com.cn/search/index.php?k=%E5%86%AF%E5%B0%8F%E5%88%9A" target="_blank" onfocus="blur()">冯小刚</a></li>
+<li><a href="http://video.sina.com.cn/search/index.php?k=%E6%B5%B7%E5%B2%A9" target="_blank" onfocus="blur()">海岩</a></li>
+<li><a href="http://video.sina.com.cn/search/index.php?k=%E8%B5%B5%E5%AE%9D%E5%88%9A" target="_blank" onfocus="blur()">赵宝刚</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id="f_Cookie" style=" width:1px; height:1px;"></div>
+<!-- 左侧导航 end--> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="RightBox">
+<!-- 标题 begin-->
+<div class="video_box_hd">
+<div class="sort" id="topidBox"><strong>排序方式：</strong><a href="#" id="topid_1" onfocus="blur()">最新发布</a> | <a href="#" id="topid_2" class="cur" onfocus="blur()">最多播放</a> | <a href="#" id="topid_3" onfocus="blur()">最高评分</a> | <a href="#" id="topid_4" onfocus="blur()">最热评论</a> | <a href="#" id="topid_5" onfocus="blur()">字母排序</a></div>
+<div class="mode" id="m_mode"><strong>显示方式</strong><span id="placard" class="cur">海报模式</span><em id="list">列表模式</em></div>
+<div class="index" id="M_5_letter_box" style="display:none">
+<ul id="M_5_letter">
+<li class="tit"><strong></strong></li>
+<li><a href="#" onfocus="blur()" id="a" class="cur">A</a></li>
+<li><a href="#" onfocus="blur()" id="b">B</a></li>
+<li><a href="#" onfocus="blur()" id="c">C</a></li>
+<li><a href="#" onfocus="blur()" id="d">D</a></li>
+<li><a href="#" onfocus="blur()" id="e">E</a></li>
+<li><a href="#" onfocus="blur()" id="f">F</a></li>
+<li><a href="#" onfocus="blur()" id="g">G</a></li>
+<li><a href="#" onfocus="blur()" id="h">H</a></li>
+<li><a href="#" onfocus="blur()" id="i">I</a></li>
+<li><a href="#" onfocus="blur()" id="j">J</a></li>
+<li><a href="#" onfocus="blur()" id="k">K</a></li>
+<li><a href="#" onfocus="blur()" id="l">L</a></li>
+<li><a href="#" onfocus="blur()" id="m">M</a></li>
+<li><a href="#" onfocus="blur()" id="n">N</a></li>
+<li><a href="#" onfocus="blur()" id="o">O</a></li>
+<li><a href="#" onfocus="blur()" id="p">P</a></li>
+<li><a href="#" onfocus="blur()" id="q">Q</a></li>
+<li><a href="#" onfocus="blur()" id="r">R</a></li>
+<li><a href="#" onfocus="blur()" id="s">S</a></li>
+<li><a href="#" onfocus="blur()" id="t">T</a></li>
+<li><a href="#" onfocus="blur()" id="u">U</a></li>
+<li><a href="#" onfocus="blur()" id="v">V</a></li>
+<li><a href="#" onfocus="blur()" id="w">W</a></li>
+<li><a href="#" onfocus="blur()" id="x">X</a></li>
+<li><a href="#" onfocus="blur()" id="y">Y</a></li>
+<li><a href="#" onfocus="blur()" id="z">Z</a></li>
+<li><a href="#" onfocus="blur()" id="0">0-9</a></li>
+</ul><div class="co_linedot"></div>
+</div>
+</div>
+<!-- 标题 end-->
+<!-- 视频列表 begin-->
+<div class="list_video" id="M_1">
+<table border="0" cellspacing="0" cellpadding="0" id="M_1_2_1">
+<tr>
+<td class="td_1"><div class="v_Info">
+<div class="pic "><a href="/m/wyhc_62252747.html" target="_blank"><img src="http://ps3.v.iask.com/nd/movievideo/thumb/76/4176_120160.jpg" width="115" height="155" alt="午夜火车" onerror="this.src='http://sjs0.sinajs.cn/video/movie/images/temp_120x160.gif'" /></a>
+</div>
+<div class="name"><a target="_blank" href="/m/wyhc_62252747.html" title="午夜火车">午夜火车</a></div>
+</div></td>
+<td class="td_2"><div class="v_Info">
+<div class="pic "><a href="/m/xjxs_61983055.html" target="_blank"><img src="http://ps3.v.iask.com/nd/movievideo/thumb/52/4152_120160.jpg" width="115" height="155" alt="凶间雪山" onerror="this.src='http://sjs1.sinajs.cn/video/movie/images/temp_120x160.gif'" /></a>
+</div>
+<div class="name"><a target="_blank" href="/m/xjxs_61983055.html" title="凶间雪山">凶间雪山</a></div>
+</div></td>
+<td class="td_3"><div class="v_Info">
+<div class="pic "><a href="/m/ensj_61846035.html" target="_blank"><img src="http://ps3.v.iask.com/nd/movievideo/thumb/82/4082_120160.jpg" width="115" height="155" alt="恶男事件" onerror="this.src='http://sjs3.sinajs.cn/video/movie/images/temp_120x160.gif'" /></a>
+</div>
+<div class="name"><a target="_blank" href="/m/ensj_61846035.html" title="恶男事件">恶男事件</a></div>
+</div></td>
+<td class="td_4"><div class="v_Info">
+<div class="pic "><a href="/m/fsd_61095513.html" target="_blank"><img src="http://ps3.v.iask.com/nd/movievideo/thumb/49/649_120160.jpg" width="115" height="155" alt="浮士德" onerror="this.src='http://sjs2.sinajs.cn/video/movie/images/temp_120x160.gif'" /></a>
+</div>
+<div class="name"><a target="_blank" href="/m/fsd_61095513.html" title="浮士德">浮士德</a></div>
+</div></td>
+</tr>
+<tr>
+<td class="td_1"><div class="v_Info">
+<ul>
+<li><strong>导演：</strong><a href="#" target="_blank"></a><a title="张江南" href="http://video.sina.com.cn/search/index.php?k=%E5%BC%A0%E6%B1%9F%E5%8D%97" target="_blank">张江南</a></li>
+<li><strong>主演：</strong><a href="#" target="_blank"></a><a title="霍思燕" href="http://video.sina.com.cn/search/index.php?k=%E9%9C%8D%E6%80%9D%E7%87%95" target="_blank">霍思燕</a> <a title="惠英红" href="http://video.sina.com.cn/search/index.php?k=%E6%83%A0%E8%8B%B1%E7%BA%A2" target="_blank">惠英红</a>  </li>
+<li><strong>类型：</strong><a href="http://video.sina.com.cn/movie/category/movie/type/5.html" target="_blank"></a><a href="/movie/category/movie/type/7.html">恐怖</a> <a href="/movie/category/movie/type/5.html">惊悚</a></li>
+<li><strong>年份：</strong><a href="http://video.sina.com.cn/movie/category/movie/year/&lt;a href='/movie/category/movie/year/2013.html'&gt;2013年&lt;/a&gt;.html"></a><a href="/movie/category/movie/year/2013.html">2013年</a>.html" target="_blank"&gt;<a href="/movie/category/movie/year/2013.html">2013年</a></li>
+<li><span class="score"><strong>评分：</strong><em>6.4分</em></span><span class="num">156568评</span></li>
+</ul>
+<div class="btn"><span class="btn_play"><a href="/m/wyhc_62252747.html" target="_blank">播放</a></span></div>
+</div></td>
+<td class="td_2"><div class="v_Info">
+<ul>
+<li><strong>导演：</strong><a href="#" target="_blank"></a><a title="周耀武" href="http://video.sina.com.cn/search/index.php?k=%E5%91%A8%E8%80%80%E6%AD%A6" target="_blank">周耀武</a></li>
+<li><strong>主演：</strong><a href="#" target="_blank"></a><a title="吴卓羲" href="http://video.sina.com.cn/search/index.php?k=%E5%90%B4%E5%8D%93%E7%BE%B2" target="_blank">吴卓羲</a> <a title="邓丽欣" href="http://video.sina.com.cn/search/index.php?k=%E9%82%93%E4%B8%BD%E6%AC%A3" target="_blank">邓丽欣</a>  </li>
+<li><strong>类型：</strong><a href="http://video.sina.com.cn/movie/category/movie/type/5.html" target="_blank"></a><a href="/movie/category/movie/type/7.html">恐怖</a> <a href="/movie/category/movie/type/5.html">惊悚</a></li>
+<li><strong>年份：</strong><a href="http://video.sina.com.cn/movie/category/movie/year/&lt;a href='/movie/category/movie/year/2012.html'&gt;2012年&lt;/a&gt;.html"></a><a href="/movie/category/movie/year/2012.html">2012年</a>.html" target="_blank"&gt;<a href="/movie/category/movie/year/2012.html">2012年</a></li>
+<li><span class="score"><strong>评分：</strong><em>4.9分</em></span><span class="num">304982评</span></li>
+</ul>
+<div class="btn"><span class="btn_play"><a href="/m/xjxs_61983055.html" target="_blank">播放</a></span></div>
+</div></td>
+<td class="td_3"><div class="v_Info">
+<ul>
+<li><strong>导演：</strong><a href="#" target="_blank"></a><a title="李光耀" href="http://video.sina.com.cn/search/index.php?k=%E6%9D%8E%E5%85%89%E8%80%80" target="_blank">李光耀</a></li>
+<li><strong>主演：</strong><a href="#" target="_blank"></a><a title="张致恒" href="http://video.sina.com.cn/search/index.php?k=%E5%BC%A0%E8%87%B4%E6%81%92" target="_blank">张致恒</a> <a title="蒋雅文" href="http://video.sina.com.cn/search/index.php?k=%E8%92%8B%E9%9B%85%E6%96%87" target="_blank">蒋雅文</a>  </li>
+<li><strong>类型：</strong><a href="http://video.sina.com.cn/movie/category/movie/type/5.html" target="_blank"></a><a href="/movie/category/movie/type/7.html">恐怖</a> <a href="/movie/category/movie/type/5.html">惊悚</a></li>
+<li><strong>年份：</strong><a href="http://video.sina.com.cn/movie/category/movie/year/&lt;a href='/movie/category/movie/year/2008.html'&gt;2008年&lt;/a&gt;.html"></a><a href="/movie/category/movie/year/2008.html">2008年</a>.html" target="_blank"&gt;<a href="/movie/category/movie/year/2008.html">2008年</a></li>
+<li><span class="score"><strong>评分：</strong><em>6.3分</em></span><span class="num">19778评</span></li>
+</ul>
+<div class="btn"><span class="btn_play"><a href="/m/ensj_61846035.html" target="_blank">播放</a></span></div>
+</div></td>
+<td class="td_4"><div class="v_Info">
+<ul>
+<li><strong>导演：</strong><a href="#" target="_blank"></a><a title="F-W-茂瑙" href="http://video.sina.com.cn/search/index.php?k=F-W-%E8%8C%82%E7%91%99" target="_blank">F-W-茂瑙</a></li>
+<li><strong>主演：</strong><a href="#" target="_blank"></a><a title="爱米尔-强宁斯" href="http://video.sina.com.cn/search/index.php?k=%E7%88%B1%E7%B1%B3%E5%B0%94-%E5%BC%BA%E5%AE%81%E6%96%AF" target="_blank">爱米尔-强宁斯</a> </li>
+<li><strong>类型：</strong><a href="http://video.sina.com.cn/movie/category/movie/type/5.html" target="_blank"></a><a href="/movie/category/movie/type/7.html">恐怖</a> <a href="/movie/category/movie/type/1.html">剧情</a></li>
+<li><strong>年份：</strong><a href="http://video.sina.com.cn/movie/category/movie/year/&lt;a href='/movie/category/movie/year/1926.html'&gt;1926年&lt;/a&gt;.html"></a><a href="/movie/category/movie/year/1926.html">1926年</a>.html" target="_blank"&gt;<a href="/movie/category/movie/year/1926.html">1926年</a></li>
+<li><span class="score"><strong>评分：</strong><em>7.6分</em></span><span class="num">854424评</span></li>
+</ul>
+<div class="btn"><span class="btn_play"><a href="/m/fsd_61095513.html" target="_blank">播放</a></span></div>
+</div></td>
+</tr>
+</table>
+<!--公用分页-->
+<div id="M_1_loading" style="display:none; float:left"></div>
+<div class="co_page" id="M_1_pageList" style="display:none;width:70%; clear:right; margin-right:0; margin-left:auto"></div>
+<!--公用分页 /-->
+</div>
+<div class="list_video v_Info_2" id="M_2" style="display:none">
+<div id="M_2_loading" style="display:none; float:left"></div>
+<div id="M_2_pageList" style="display:none;width:70%; clear:right; margin-right:0; margin-left:auto" class="co_page"></div>
+</div>
+<!-- 视频列表 end-->
+<div id="M_5" style="display:none">
+<div id="M_5_loading" style="display:none; float:left;"></div>
+<div class="co_page" id="M_5_pageList" style="display:none;width:70%; clear:right; margin-right:0; margin-left:auto"></div>
+</div>
+</div>
+</div>
+<div class="foot">
+<p>欢迎联系我们，提出您的宝贵意见　E-mail：bn@staff.sina.com.cn</p>
+<div class="boxborder"></div>
+<p class="link"><a href="http://corp.sina.com.cn/chn/" target="_blank">新浪简介</a><span>|</span><a href="http://corp.sina.com.cn/eng/" target="_blank">About Sina</a><span>|</span><a href="http://emarketing.sina.com.cn/" target="_blank">广告服务</a><span>|</span><a href="http://www.sina.com.cn/contactus.html" target="_blank">联系我们</a><span>|</span><a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank">招聘信息</a><span>|</span><a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">网站律师</a><span>|</span><a href="http://english.sina.com/" target="_blank">SINA English</a><span>|</span> <a href="http://members.sina.com.cn/apply/" target="_blank">会员注册</a><span>|</span><a href="http://tech.sina.com.cn/focus/sinahelp.shtml" target="_blank">产品答疑</a></p>
+<p>Copyright © 1996-2012 SINA Corporation, All Rights Reserved</p>
+<p>新浪公司 版权所有</p>
+</div> </body>
+<script type="text/javascript" src="http://sjs0.sinajs.cn/video/movie/js/movie/boot.js"></script>
+<script type="text/javascript">__load_js();__render_page();</script>
+</html> 

@@ -1,0 +1,878 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<title>留学帮帮忙_教育频道_新浪网</title>
+<meta name="keywords" content="出国留学机构，留学机构，留学中介机构，留学中介，教育频道出国留学机构榜" />
+<meta name="description" content="教育频道出国留学机构榜，按全国和地区提供热门出国留学机构排名，出国留学顾问排名，金牌顾问榜，提供按所在地和留学国家来筛选和查询留学中介机构，提供顾问在线咨询。" />
+<link href="/css/style.css?v=1" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://i1.sinaimg.cn/home/sinaflash.js"></script>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+var timer,idx=1;
+$(function() {
+	// 搜索
+	$('#skey').focus(function() {
+		$(this).addClass('hover');
+	}).blur(function() {
+		if ($(this).val()=="") {
+			$(this).removeClass('hover');
+		}
+	});
+
+	// 机构介绍
+	$('.jgintro_tabs li').hover(function() {
+		var index = $('.jgintro_tabs li').index($(this));
+		$(this).addClass('current').siblings().removeClass('current');
+		$('.jgintro_cont .jg_box').eq(index).show().siblings().hide();
+	});
+
+	// 显示隐藏顾问选择
+	$('#purper_type').change(function() {
+		if ($(this).val() == 'yes') {
+			$('#guwen_blk').show();
+		} else {
+			$('#guwen_blk').hide();
+		}
+	});
+
+	// 焦点图
+	createTimer();
+	$('.focusnum em').mouseover(function(){
+		clearInterval(timer);
+		idx = $('.focusnum em').index($(this));
+		scrollFocus(idx);
+		clearInterval(timer);
+	}).mouseout(function(){
+		idx+=1;
+		createTimer();
+	});
+
+	// 机构徽章 - 2012.08.27
+	$('.jg_medal img').hover(function() {
+		var pos = $(this).position();
+		var bpurl = $(this).attr('rel');
+		$('.jg_medal').css('z-index','999').append('&lt;img src="'+bpurl+'" alt="" style="position: absolute;top:'+(pos.top+26)+'px;left:'+(pos.left-90)+'px" id="bigmedal"  /&gt;');
+	}, function() {
+		$(this).parent().css('z-index','0')
+		$('#bigmedal').remove();
+	});
+});
+function createTimer() {
+	timer = setInterval(function(){
+		scrollFocus(idx++ % 5);
+	}, 5000);
+}
+function scrollFocus(idx) {
+	$('.focusnum em').eq(idx).addClass('current').siblings().removeClass('current');
+	$('.focuspic').stop().animate({left: -300*idx}, 500);
+}
+</script>
+<!-- styles -->
+<link rel="stylesheet" href="http://news.sina.com.cn/css/268/2011/1110/17/weibo-all.css" />
+<!-- lib -->
+<script src="http://news.sina.com.cn/js/87/20110714/205/sinalib.js"></script>
+<!-- Weibo -->
+<script src="/js/weibo-all1011.js"></script>
+<!-- SSO -->
+<script src="http://i.sso.sina.com.cn/js/ssologin.js"></script>
+<script src="http://news.sina.com.cn/js/268/2012/0116/24/wblist.debug.js"></script>
+<script src="/js/Jquery.Query.js"></script>
+</head>
+<body>
+<div class="wrap">
+<!-- 标准二级导航_教育 begin -->
+<style type="text/css">
+	.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;}
+	.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+	.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+	.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+	.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+	.sHLogo span{display:block;float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+	.sHLogo span img{vertical-align:middle;}
+	.sHLinks{float:right;line-height:31px;}
+	
+	.funav {height:32px;overflow:hidden;padding-top:5px;padding-left:10px;height:31px; width:800px;float:left;}
+	.funav li {line-height:17px;padding-left:15px; float:left;}
+	li.funavone {padding:2px 15px 0 5px;border-right:1px solid #999;}
+	.funav li a {height:18px;weight:76px;}
+
+	</style>
+<style>
+	.edu_url a{outline: none;}
+	.edu_url a:active {star:expression(this.onFocus=this.blur());}
+	</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<h1 class="sHLogo"><span><a href="http://www.sina.com.cn"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" alt="新浪网" /></a><a href="http://edu.sina.com.cn"><img src="http://i1.sinaimg.cn/dy/images/header/2008/standardl2nav_edu.gif" alt="新浪教育" /></a></span></h1>
+<div class="sHLinks"><a href="http://edu.sina.com.cn">教育首页</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/">网站地图</a></div>
+</div>
+</div>
+<!-- 标准二级导航_教育 end -->
+<!-- header.html -->
+<div class="lx_header">
+<div class="lx_top">
+<div class="lx_name">留学机构库</div>
+<p class="lx_name2">教育频道<br />重磅推出</p>
+<div class="edu_url">
+<span>lx.edu.sina.com.cn</span>
+				目前已拥有顾问数量：<a style='font-size:15px;font-weight:800;font-family:"Microsoft YaHei","SimHei";' class="headadvcount" style="text-decoration:none"></a>&nbsp;&nbsp;
+				已回答问题数：<a style='font-size:15px;font-weight:800;font-family:"Microsoft YaHei","SimHei";' class="headaskcount" style="text-decoration:none"></a>
+<!--span&gt;上千位资深顾问 24小时免费咨询&lt;/span&gt;
+				  &nbsp;&nbsp;&nbsp;你身边的留学助手 助你通往世界名校&lt;a href="http://weibo.com/u/1225314032" target="_blank"&gt;新浪教育微博&lt;/a&gt; !-->
+</div>
+</div>
+</div>
+<div class="lx_navbar">
+<ul class="lx_nav">
+<li class="active danav">
+</li><li><a href="/">出国平台首页</a></li>
+<li class="active"><a href="/adv/faq?qastat=1">留学帮帮忙</a></li>
+<li><a href="/search">留学机构</a></li>
+<li><a href="/searchadv">留学顾问</a></li>
+<li><a href="/order">排行榜</a></li>
+<li><a href="/university">海外院校</a></li>
+<li><a href="/personal/daren">留学达人</a></li>
+</ul>
+<div class="lx_other menudrop" id="menudrop"><a href="http://edu.sina.com.cn/">其他教育产品库</a>
+<ul>
+<li><a href="http://kaoshi.edu.sina.com.cn/bschool/mbalist.php">MBA库</a></li>
+<li><a href="http://kaoshi.edu.sina.com.cn/abroad/list.php">海外院校库</a></li>
+<li><a href="http://edu.sina.com.cn/college/">高考院校库</a></li>
+</ul>
+</div>
+<div style="float:left;">
+<ul class="funav">
+<li><a href="/country?cid=101"><img src="/images/us.jpg" /></a></li><li class="funavone"><a href="/country?cid=101">美国</a></li>
+<li><a href="/country?cid=103"><img src="/images/en.jpg" /></a></li><li class="funavone"><a href="/country?cid=103">英国</a></li>
+<li><a href="/country?cid=104"><img src="/images/ca.jpg" /></a></li><li class="funavone"><a href="/country?cid=104"><span>加拿大</span></a></li>
+<li><a href="/country?cid=102"><img src="/images/au.jpg" /></a></li><li class="funavone"><a href="/country?cid=102"><span>澳洲</span></a></li>
+<li><a href="/country?cid=106"><img src="/images/eu.jpg" /></a></li><li class="funavone"><a href="/country?cid=106"><span>欧洲</span></a></li>
+<li><a href="/country?cid=107"><img src="/images/as.jpg" /></a></li><li style="padding:2px 0 0 5px;"><a href="/country?cid=107"><span>亚洲</span></a></li>
+</ul>
+</div>
+<script type="text/javascript">
+		(function() { 
+		if (!sina) {
+			var sina = {}
+		}
+		sina.addEvent = function(c, b, a) {
+			c.attachEvent ? c.attachEvent("on" + b, a) : c.addEventListener(b, a, false)
+		};
+		sina.delEvent = function(c, b, a) {
+			c.detachEvent ? c.detachEvent("on" + b, a) : c.removeEventListener(b, a, false)
+		};
+		//sina.jq = $.noConflict();
+		sina.getid = function(a) {
+			return document.getElementById(a)
+		};
+		function dropmenuList(a) {
+			this.div = sina.getid(a);
+			this.ul = this.div.getElementsByTagName("ul")[0];
+			this.ul.style.display = "none";
+			this.init()
+		}
+		dropmenuList.prototype = {
+			init: function() {
+				var a = this;
+				sina.addEvent(a.div, "mouseover", 
+				function() {
+					a.div.className += ' menudrop_hover'
+					a.show()
+				});
+				sina.addEvent(a.div, "mouseout", 
+				function(b) {
+					a.div.className =  a.div.className.replace(/menudrop_hover/,'');
+					a.hide(b)
+				})
+			},
+			show: function() {
+				this.ul.style.display = "block";
+			},
+			hide: function(c) {
+				var a = c || window.event;
+				var b = a.relatedTarget || a.toElement;
+				if (!b) {
+					return
+				}
+				if (!this.containsElement(this.div, b)) {
+					this.ul.style.display = "none"
+				}
+			},
+			containsElement: function(b, a) {
+				while (a.nodeName != "HTML") {
+					if (a == b) {
+						return true
+					}
+					a = a.parentNode
+				}
+				return false
+			}
+		};
+        new dropmenuList("menudrop");
+		})();
+        </script>
+<div class="lx_login"><iframe width="948" scrolling="no" height="27" id="loginfr" name="loginfr" frameborder="0" allowtransparency="yes" src="/iframe/login?random=3040550497360"></iframe></div>
+<script>
+		//获得新闻和头部的统计数
+		$.getJSON('/headerInfo', 
+			function(data){
+				$.each(data, 
+					function(k,v){
+						if(k == "askcount"){
+							$('.headaskcount').append("&lt;b&gt;"+v+"&lt;/b&gt;");	
+						}
+						else if(k == "advcount"){
+							$('.headadvcount').append("&lt;b&gt;"+v+"&lt;/b&gt;");	
+						}
+						else if(k == "hotnews"){
+							$.each(v, function(i, item){
+								$('&lt;a&gt;').text(item.title).css('display','none').attr('href',item.url).appendTo('.lx_logintwo');
+								//$('&lt;a&gt;').text(item.title).attr('href',item.id).appendTo('.lx_logintwo');
+							});
+						}
+						else{}
+					}
+				);
+			}
+		);
+		
+		var r = Math.random();
+		$("#loginfr").attr("src","/iframe/login?r="+r);
+		</script>
+<div class="lx_search">
+<form id="gsearch" method="get" target="_blank" action="/search">
+<label for="skey">留学信息搜索</label>
+<select name="qtype">
+<option selected="selected" value="0">搜索类别</option>
+<option value="1">留学机构</option>
+<option value="2">留学顾问</option>
+<option value="3">留学问答</option>
+</select>
+<span class="inpbar">输入所在地区/留学国别/留学层次/机构名称<input type="text" name="keyword" id="skey" class="inp_t" value="" /></span>
+<input type="submit" value="查询" class="btn" />
+<input type="reset" value="重置" class="btn" />
+</form>
+</div>
+<script>
+		$(function(){
+			$("#gsearch").submit(function(event){
+					switch($("#gsearch").find("select[name='qtype']").val() )
+					{
+						case "0":
+							alert("请选择搜索类别");
+							return false;
+						case "1":
+							window.open("/search?qtype=1&amp;keyword=" + $("#gsearch input[name=keyword]").val());
+							break;
+						case "2":
+							window.open("/searchadv/search?keyword=" + $("#gsearch input[name=keyword]").val());
+							break;
+						case "3":
+							window.open("/adv/faq?keyword=" + $("#gsearch  input[name=keyword]").val());
+							break;
+						default:
+							break;
+					}
+					
+					return false;
+					
+			});
+		});
+		</script>
+</div>
+<div style="clear:both;"></div><!-- styles -->
+<link rel="stylesheet" href="/css/weibo-all.css" />
+<style>
+/* 列表相关样式 */
+.weibolist-pages {text-align: center; margin: 20px 0 20px;}
+.pagebox{display:inline-block;overflow:hidden; zoom:1; font-size:12px; font-size:12px; font-family:Arial;}
+.pagebox span{float:left; margin-right:4px; overflow:hidden; text-align:center; background:#fff;}
+.pagebox span a{display:block; overflow:hidden; zoom:1; _float:left;}
+.pagebox span.pagebox_all_num{padding:0 5px; height:21px; line-height:21px; color:#8e9197; cursor:default; background:none;}
+.pagebox span.pagebox_pre_nolink{border:1px #e8e8ec solid; height:21px; line-height:21px; padding:0 9px 0 20px; color:#dcdcdc; background:url(http://www.sinaimg.cn/dy/deco/2008/0430/content_page_box_bg_1.gif) no-repeat 0 0 #fff; cursor:default;}
+.pagebox span.pagebox_pre{color:#333; height:23px;}
+.pagebox span.pagebox_pre a,.pagebox span.pagebox_pre a:visited{border:1px #dcdcdc solid; color:#333; text-decoration:none; padding:0 9px 0 20px; background:url(http://www.sinaimg.cn/dy/deco/2008/0430/content_page_box_bg_1.gif) no-repeat 0 -50px; cursor:pointer; height:21px; line-height:21px;}
+.pagebox span.pagebox_pre a:hover,.pagebox span.pagebox_pre a:active{color:#fff; background:url(http://www.sinaimg.cn/dy/deco/2008/0430/content_page_box_bg_1.gif) no-repeat 0 -100px #8e9197; border:1px #8e9197 solid;}
+.pagebox span.pagebox_num_nonce{padding:0 5px; height:23px; line-height:23px; color:#8e9197; cursor:default; background:none;}
+.pagebox span.pagebox_num{color:#333; height:23px;}
+.pagebox span.pagebox_num a,.pagebox span.pagebox_num a:visited{border:1px #dcdcdc solid; color:#333; text-decoration:none; padding:0 6px; cursor:pointer; height:21px; line-height:21px;}
+.pagebox span.pagebox_num a:hover,.pagebox span.pagebox_num a:active{color:#fff; border:1px #8e9197 solid; background:#8e9197;}
+.pagebox span.pagebox_num_ellipsis{color:#8e9197; width:26px; background:none;}
+.pagebox span.pagebox_next_nolink{border:1px #e8e8ec solid; height:21px; line-height:21px; padding:0 20px 0 9px; color:#dcdcdc; background:url(http://www.sinaimg.cn/dy/deco/2008/0430/content_page_box_bg_1.gif) no-repeat 100% -25px #fff; cursor:default;}
+.pagebox span.pagebox_next a,.pagebox span.pagebox_next a:visited{border:1px #dcdcdc solid; color:#333; text-decoration:none; padding:0 20px 0 9px; background:url(http://www.sinaimg.cn/dy/deco/2008/0430/content_page_box_bg_1.gif) no-repeat 100% -75px; cursor:pointer; height:21px; line-height:21px;}
+.pagebox span.pagebox_next a:hover,.pagebox span.pagebox_next a:active{color:#fff; background:url(http://www.sinaimg.cn/dy/deco/2008/0430/content_page_box_bg_1.gif) no-repeat 100% -125px #8e9197; border:1px #8e9197 solid;}
+
+.zctit7{height:24px;line-height:24px;background:url(http://i2.sinaimg.cn/edu/deco/2010/1108/images/cg_wzc15.png) no-repeat left top; overflow:hidden; }
+.zctit7 h3 { float:left;padding:0 0 0 5px;font-size:14px;}
+.zctit7 h3 a:hover {text-decoration:none;color:#f00;}
+.zctit7 h3 span {font-size:12px;font-family:arial;color:#b3b3b3;font-weight:bold;padding-left:2px; }
+
+.zccont {padding:8px 0 10px 0;background:url(http://i2.sinaimg.cn/edu/deco/2010/1108/images/cg_wzc06.png) repeat-x left bottom;}
+.zch {font-size:12px; }
+.zcwords {width:108px;color:#6b6b6b; }
+.zcwords a {color:#ba180e;}
+.zcas {padding-top:10px;}
+
+.zcbox {line-height:20px;}
+.zcbox .zch {font-size:14px;}
+.zcbox .zcimg {float:left;margin-right:10px;}
+.zcbox .zcimg img {display:block; }
+.zcbox .zcwords {width:140px;float:left;}
+.zcbox a:visited {color:#800080  !important;}
+.zcbox a:hover {color:#f00  !important;}
+
+a.weibo-button {
+    margin:0px;
+}
+.weibo-clearfix{
+	width: auto;
+}
+.weibo-message-content .weibo-message-tip p{
+	width: 100px;
+}
+.weibo-message-content .weibo-dialog-bd{
+	padding: 0 8px;
+}
+.weibo-publisher .weibo-publisher-submit{
+	line-height: 100px;
+    overflow: hidden;
+    text-indent: 0;
+}
+.weibo-publisher .weibo-publisher-submit1{
+	line-height: 100px;
+    overflow: hidden;
+    text-indent: 0;
+	background-position:-140px 0;
+	background: url(../images/liuxue_gs_03.png) no-repeat -200px -554px;
+	border:0;
+	width:70px;
+	height:28px;
+	float:right;
+	display:inline;
+}
+.weibo-publisher .weibo-publisher-editor {
+    height: 93px;
+}
+.weibo-retweet-quote{
+	word-wrap:break-word; word-break:break-all;
+}
+.quecountry li{padding-left:30px;}
+/* .tinfo a{display:inline;cursor:pointer;} */
+</style>
+<div class="part_loca"><a href="/">首页</a> &gt; <a href="">留学帮帮忙</a></div>
+<div class="partG clearfix">
+<div class="pg_left" style="width:252px">
+<div class="blk04 blkmod">
+<div class="blk_hd">
+<div class="current" style="display:block"><a href="*" style="cursor:text;">问题分类</a></div>
+</div>
+<div class="blk_bd clearfix">
+<div class="blk_cont" style="display:block;">
+<ul class="rightsidebar">
+<li style="cursor:auto;">共提问问题数:<div style="color:#F60;display:inline"><font size="4"><b>15161</b></font></div></li>
+<li style="cursor:auto;">已解决问题数：<div style="color:#F60;display:inline"><font size="4"><b>12567</b></font></div></li>
+<hr style="border-top: 1px dashed #ccc; width: 100%; height: 0px;" />
+<li class="questionc" qtype="1">留学申请</li>
+<ul class="quecountry">
+<li><a href="javascript:void();" cid="101"><span class="flag_left flag_us">美国</span></a></li>
+<li><a href="javascript:void();" cid="103"><span class="flag_left flag_en">英国</span></a></li>
+<li><a href="javascript:void();" cid="102"><span class="flag_left flag_au">澳大利亚</span></a></li>
+<li><a href="javascript:void();" cid="104"><span class="flag_left flag_ca">加拿大</span></a></li>
+<li><a href="javascript:void();" cid="106"><span class="flag_left flag_eu">欧洲</span></a></li>
+<li><a href="javascript:void();" cid="107"><span class="flag_left flag_as">亚洲</span></a></li>
+</ul>
+<hr style="border-top: 1px dashed #ccc; width: 100%; height: 0px;" />
+<li class="questionc" qtype="2">签证问题</li>
+<hr style="border-top: 1px dashed #ccc; width: 100%; height: 0px;" />
+<li class="questionc" qtype="3">海外生活</li>
+<hr style="border-top: 1px dashed #ccc; width: 100%; height: 0px;" />
+<li class="questionc" qtype="4">留学考试</li>
+<hr style="border-top: 1px dashed #ccc; width: 100%; height: 0px;" />
+<li class="questionc" qtype="5">其他</li>
+<hr style="border-top: 1px dashed #ccc; width: 100%; height: 0px;" />
+</ul>
+</div>
+</div>
+</div>
+<div class="blk04 blkmod" style="margin-top:10px; width:252px">
+<div class="blk_hd">
+<div class="current"><a href="#" style="cursor:text;">留学流程</a></div>
+</div>
+<div class="blk_bd clearfix">
+<img style="margin-top:15px" src="/images/lxlc.jpg" />
+</div>
+</div>
+<div class="blk04 blkmod" style="margin-top:10px; width:252px">
+<div class="blk_hd">
+<div class="current"><a href="#" style="cursor:text;">护照流程</a></div>
+</div>
+<div class="blk_bd clearfix">
+<img style="margin-top:15px" src="/images/hzlc.jpg" />
+</div>
+</div>
+<div class="blk04 blkmod" style="margin-top:10px; width:252px">
+<div class="blk_hd">
+<div class="current"><a href="#" style="cursor:text;">各国要求</a></div>
+</div>
+<div class="zccont clearfix" style="padding-left:5px;">
+<div class="zcbox clearfix">
+<a href="http://edu.sina.com.cn/a/2009-04-22/1804169736.shtml" target="_blank" class="zcimg aPd2">
+<img width="88" height="65" title="美国签证" alt="美国签证" src="http://i1.sinaimg.cn/edu/263/2010-11-09/U2440P42T263D17F8488DT20101111143132.jpg" />
+</a>
+<h3 class="zch"><a href="http://edu.sina.com.cn/a/2009-04-22/1804169736.shtml" target="_blank">美国签证</a></h3>
+<p class="zcwords">大部分第一次申请签证的申请人都必须……<a href="http://edu.sina.com.cn/a/2009-04-22/1804169736.shtml" target="_blank">[详情]</a></p>
+</div>
+<p class="zcas"><a href="http://edu.sina.com.cn/a/2010-11-11/1411195357.shtml" target="_blank">英国</a> | <a href="http://edu.sina.com.cn/a/2010-11-11/1417195359.shtml" target="_blank">加拿大</a> | <a href="http://edu.sina.com.cn/a/2010-11-11/1420195360.shtml" target="_blank">澳大利亚</a> | <a href="http://edu.sina.com.cn/a/2010-11-23/1112195750.shtml" target="_blank">新西兰</a> | <a href="http://edu.sina.com.cn/a/2010-11-11/1453195363.shtml" target="_blank">申根签证</a> | <a href="http://edu.sina.com.cn/a/2010-11-11/1449195362.shtml" target="_blank">日本</a> | <a href="http://edu.sina.com.cn/a/2010-11-11/1459195365.shtml" target="_blank">新加坡</a> | <a href="http://edu.sina.com.cn/a/2010-11-11/1506195368.shtml" target="_blank" class="zcred">韩国</a></p>
+</div>
+</div>
+<div class="blk04 blkmod" style="margin-top:10px; width:252px">
+<div class="blk_hd">
+<div class="current"><a href="#" style="cursor:text;">留学新闻</a></div>
+</div>
+<div class="blk_bd clearfix">
+<iframe width="100%" height="180" scrolling="no" id="rd" name="rd" frameborder="0" allowtransparency="yes" src="http://edu.sina.com.cn/iframe/a/lxk/rdsj.html"></iframe>
+</div>
+</div>
+<div class="blk04 blkmod" style="margin-top:10px; width:252px">
+<div class="blk_hd">
+<div class="current"><a href="#" style="cursor:text;">推荐顾问</a></div>
+</div>
+<div class="blk_bd clearfix" style="width:90%;margin:0 auto;">
+<div style="padding-top:13px">
+<div><span class="flag_left flag_"></span></div>
+<div style="padding-top:10px">
+</div>
+</div>
+<div style="float:right;padding-right:15px;padding-bottom:15px"><a href="/searchadv">更多&gt;&gt;</a></div>
+</div>
+</div>
+</div>
+<div class="pg_right" style=" width:684px">
+<div class="blk04 blkmod" style="background-image:url(/images/nav_bm.jpg); background-repeat:repeat-x; background-position:top;">
+<div class="blk_hd">
+<div class="qzonetab"><a href="#url">提问</a></div>
+<div class="szonetab"><a href="#url">搜索答案</a></div>
+</div>
+<div class="blk_bd clearfix">
+<!-- 提问 -->
+<div class="qzone" style="background-image:url(/images/bmwbbg.jpg); background-repeat:no-repeat; height:168px">
+<div style="padding-left:165px;padding-top:20px">
+<select name="province">
+<option value="">您所在地区</option>
+<option value="21">北京</option>
+<option value="22">天津</option>
+<option value="23">上海</option>
+<option value="24">重庆</option>
+<option value="25">河北</option>
+<option value="26">河南</option>
+<option value="27">山东</option>
+<option value="28">山西</option>
+<option value="29">安徽</option>
+<option value="30">江西</option>
+<option value="31">江苏</option>
+<option value="32">浙江</option>
+<option value="33">湖北</option>
+<option value="34">湖南</option>
+<option value="35">广东</option>
+<option value="36">广西</option>
+<option value="37">云南</option>
+<option value="38">贵州</option>
+<option value="39">四川</option>
+<option value="40">陕西</option>
+<option value="41">青海</option>
+<option value="42">宁夏</option>
+<option value="43">黑龙江</option>
+<option value="44">吉林</option>
+<option value="45">辽宁</option>
+<option value="46">西藏</option>
+<option value="47">新疆</option>
+<option value="48">内蒙</option>
+<option value="49">海南</option>
+<option value="50">福建</option>
+<option value="51">甘肃</option>
+<option value="52">港澳</option>
+</select>
+<select name="country">
+<option value="">留学目的地</option>
+<option value="101">美国</option>
+<option value="102">澳洲</option>
+<option value="103">英国</option>
+<option value="104">加拿大</option>
+<option value="105">港/澳</option>
+<option value="106">欧洲</option>
+<option value="107">亚洲</option>
+<option value="108">其它</option>
+</select>
+<select name="adv_name">
+<option value="">选择顾问</option>
+</select>
+<select name="asktype">
+<option value="">问题类型</option>
+<option value="1">留学问题</option>
+<option value="2">签证问题</option>
+<option value="3">海外生活</option>
+<option value="4">留学考试</option>
+<option value="5">其他</option>
+</select>
+</div>
+<textarea class="question" style="float:left;margin-top:15px;margin-left:100px;width:400px; height:80px"></textarea>
+<div style="float:left;margin-top:40px;padding-left:30px">
+<a class="weibo_ask" href="javascript:void(0);"><img src="/images/bmtw.jpg" /></a>
+</div>
+<input type="hidden" value="" name="page" id="page" />
+<!--br  /&gt;剩下&lt;span id="textCount"&gt;121&lt;/span&gt;&lt;br /-->
+</div>
+<style>
+				 .inpbar { float: left; width:400px; height: 24px; line-height: 24px; border: 1px solid #E3E9EF; border-top-color: #ABADB3; color: #CCC; margin-right: 10px; position: relative; padding-left: 30px; background: #FFF url(http://consultants.edu.sina.com.cn/images/liuxue_gs_04.png) no-repeat -178px 3px; }
+ .inpbar input { border: 0; height: 20px; line-height: 22px; width:400px; position: absolute; left: 30px; top: 0; background: #FFF; opacity: 0; filter: Alpha(opacity=0); }
+ .inpbar input.hover { opacity: 1; filter: Alpha(opacity=100); }
+.</style>
+<!-- 搜索 -->
+<!--div class="blk_cont szone" style="margin-top:30px;text-align:center;"-->
+<div class="sousuo szone">
+<div class="sous" style="padding:20px 0 0 80px;">
+<form action="/adv/faq">
+<span class="inpbar">输入关键词
+											<input type="text" name="keyword" id="skeyword" class="inp_t" value="" />
+</span>
+<input onclick="inputsearch()" style="cursor:pointer;" type="image" src="/images/bbss.jpg" value=" " />
+</form>
+</div>
+</div>
+<script>
+					$('#skeyword').focus(function() {
+		$(this).addClass('hover');
+	}).blur(function() {
+		if ($(this).val()=="") {
+			$(this).removeClass('hover');
+		}
+	});
+						//$("#skey2").blur(function(){$(this).val('');});
+						function inputsearch()
+						{
+							keyword = $("#skeyword").val();
+							if(keyword){
+								window.open("/adv/faq?keyword="+keyword, "_self");
+							}
+							else{
+								alert("请输入问题");
+							}
+							return false;
+						}
+					</script>
+<!--/div-->
+</div>
+</div>
+<div class="userblk01 blkmod" style="margin-top:15px">
+<div class="blk_hd">
+<!--h2&gt;提问/回复&lt;/h2-->
+<div class="xxk_tp_bt">提问/回复</div>
+<div class="xxk_tp">
+<ul>
+<li><a href="/adv/faq">已提问：15161</a></li>
+<li><a href="/adv/faq?qastat=1">已答复：12567</a></li>
+<li><a href="/adv/faq?qastat=2">最新答复：<span>0</span></a></li>
+</ul>
+</div>
+</div>
+<div class="blk_bd" style="border-top:2px solid #0079C0;">
+<div id="eduaskcontent" class="zxzxblk02 blk_cont" style="height:auto;">
+<div class="list" id="list_1">
+<div class="weibolist-loading"><p>载入中，请稍后......</p></div>
+<div class="weibolist"></div>
+<div class="weibolist-pages"></div>
+</div>
+<div id="recomweibo" style="display:none;">
+<hr />
+<div class="blk_hd">
+<h3 style="color:#0079C0;padding-left:12px;">推荐区</h3>
+</div>
+<div class="list" id="list_2">
+<div class="weibolist-loading"><p>载入中，请稍后......</p></div>
+<div class="weibolist"></div>
+<div class="weibolist-pages"></div>
+</div>
+</div>
+</div>
+<div class="blk_pager"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="partA clearfix">
+<div class="blksm blkmod">
+<div class="blk_hd">
+<h2><a href="javascript:void(0);" style="cursor: default;text-decoration:none">免责声明</a></h2>
+</div>
+<div class="blk_bd clearfix">
+<p>所有地址以“lx.edu.sina.com.cn”开始的网页信息来源为两部分：一为根据部分留学业内知名合法机构所提供的公司及其分支机构信息整理获得；二为根据教育部涉外监管信息网提供的自费留学中介名单，在各机构官方网站中整理获得。其中有少部分机构因以下原因未能在库中得到展示：1、无法准确获取官网等官方介绍信息；2、因违规操作被吊销留学资质；3、留学资质未及时年审而过期。新浪网提供此信息之目的在于为有留学意向的学生和家庭提供信息参考及实时在线咨询帮助。本产品所涉及的排行功能为每4小时更新一次。如果您发现网页当中的任何错误，欢迎以邮件或电话形式联系我们改正，谢谢！ &nbsp;&nbsp; 产品技术支持：<a target="_blank" href="http://www.iesson.com">北京博云创想科技有限公司</a></p>
+</div>
+</div>
+</div>
+<div style="padding:15px;font-size:12px;line-height:20px;background:url(http://i3.sinaimg.cn/edu/2008edu/edu/ks_hz_083.gif) no-repeat center top;text-align:center;font:">
+<a href="http://comment4.news.sina.com.cn/comment/skin/feedback.html" target="_blank">教育频道意见反馈留言板</a> 新浪电话：010-62676816　欢迎批评指正<br /><br />
+<a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://emarketing.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="http://members.sina.com.cn/apply/">会员注册</a> | <a href="http://help.sina.com.cn/">产品答疑</a>
+<p>Copyright &copy; 1996 - 2012 SINA Corporation, All Rights Reserved<br /><br />新浪公司 <a href="http://corp.sina.com.cn/chn/copyright.html" target="_blank">版权所有</a>
+</p></div>
+</div>
+<!--统计代码-->
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+<script type="text/javascript">
+_S_pSt();
+</script>
+<!-- SUDA_CODE_END -->
+<!--统计代码-->
+</body>
+</html>
+<script>
+    var _apis = Weibo.apis, Login = Weibo.Login, Widgets = Weibo.Widgets;
+    var text = jQuery.trim(jQuery('textarea.question').val());
+	var text_len = text.length;
+
+	var M = Weibo.Widgets.Messages;//弹出框方法
+	jQuery(".weibo_ask").on("click",function(){
+		
+		var M = Weibo.Widgets.Messages;//弹出框方法
+		
+		if(!jQuery("select[name=asktype]").val()){
+			M.alert('请选择问题类型', 'wrong');
+			return;
+		}
+		if(!jQuery("select[name=adv_name]").val()){
+			M.alert('请选择顾问', 'wrong');
+			return;
+		}
+						
+		text = jQuery.trim(jQuery('textarea.question').val());
+		text_len = text.length;
+		if (!Weibo.Login.check()) {//如果未登录
+			Weibo.Widgets.getLoginDialog().show();
+			return;
+		}
+		else{//已登录
+			if (text_len&lt;118) {
+				//setTimeout(function(){
+				var params = {
+					status: text + "【http://t.cn/zjdSzyv】"
+				}
+				Weibo._postRequest({
+					url:"http://api.sina.com.cn/weibo/2/statuses/update.json?source=2745748629",
+					data:params,
+					onsuccess:function(e){
+						// 微博发布成功，开始入库
+						var postdata = {
+							id:e.id, 
+							tid:$("select[name=province]").val(),
+							cid:$("select[name=country]").val(),
+							content:text.replace('向@'+ $("select[name=adv_name]").val() +' 提问：',''),
+							qtype: $("select[name=asktype]").val()
+						};
+						
+						jQuery.post("asksub", postdata, function(res){
+							if(res != '1') {
+								alert("提交失败，请稍后再试！");
+								return;
+							}
+						});
+						
+						M.alert('发布成功', 'right');
+						$("select[name=adv_name]").val(''); // 先清除文字
+					},
+					onfailure:function(result){
+						M.alert('发布失败，请重试', 'wrong');
+					}
+				});				
+			}
+		}
+	});
+	
+	
+	//end
+
+	
+	
+	function advlist(event)
+	{
+		if( $("select[name=country]").val() &amp;&amp; $("select[name=province]").val()  ){
+			$("select[name=adv_name] option:not(:first)").remove()
+			$.getJSON("/api/adv/getAdv", 
+				{cid:$("select[name=country]").val(), pid:$("select[name=province]").val()}, 
+				function(data){
+					$.each(data, function(i,val){
+						$("select[name=adv_name]").append('&lt;option value=' + val.weibo_id + '&gt;'+ val.adv_name + '&lt;/option&gt;');
+					})
+				}
+			);
+		
+		}
+		
+	}
+	
+	$("select[name=country]").on("change",advlist);
+	$("select[name=province]").on("change",advlist);
+	$("select[name=adv_name]").on({
+		focus: function(){
+			if(!($("select[name=country]").val() &amp;&amp; $("select[name=province]").val() ) ){
+				M.alert('请先选择所在地区和留学目的地', 'wrong');
+				//alert("请先选择来自哪里和要去哪里");
+				return false;
+			}
+		},
+		change: function(){
+			if($("select[name=adv_name]").val()){
+				$("textarea.question").text('向@'+ $("select[name=adv_name]").find("option:selected").text() +' 提问:');
+			}
+		}
+	});
+	
+	$("textarea.question").on("keydown keyup focus", function(){
+		var curLength=$("textarea.question").val().length;	
+		if(curLength&gt;118){
+			var num=$("textarea.question").val().substr(0,118);
+			$("textarea.question").val(num);
+			alert("超过字数限制，多出的字将被截断！" );
+		}
+		else{
+			$("#textCount").text(118-$("textarea.question").val().length)
+		}
+	});
+	
+	//问答
+	var keyword = $.query.get("keyword");
+	if(keyword == '关键词')
+		keyword = '';
+	var qtype = $.query.get("qtype");
+	var cid = $.query.get("cid");
+	var qastat = $.query.get("qastat");
+	var page = $.query.get("page");
+	var eduweiboid = $.query.get("id");
+
+	$(function(){
+		$(".xxk_tp ul li").eq(Number($.query.get("qastat"))).addClass("open");
+	if(eduweiboid &gt; 0){
+		$(".qzonetab").removeClass("current");
+		$(".szonetab").addClass("current");
+		$(".qzone").hide();
+		$(".szone").show();
+	
+		getListData('#list_1', {
+			url: '/api/adv/getWeibo',
+			data: {
+				id: eduweiboid
+			}
+		});
+
+		$("#list_1  div.weibolist-pages").hide();
+		
+		$("#recomweibo").show();
+		getListData('#list_2', {
+			url: '/api/adv/getRecWeibo',
+			data:{
+			}
+		});
+		
+		//为什么不起作用？
+		$("#list_2  .weibolist-pages").hide();
+		$("#list_2").ajaxComplete(function(){
+			$("#list_2  .weibolist-pages").hide();
+		});
+		//不好意思，没找到别的方法来实现
+		setInterval(function(){
+			$("#list_1  .weibolist-pages").hide();
+			$("#list_2  .weibolist-pages").hide();
+		},1);
+
+	}
+	else{
+		getListData('#list_1', {
+			url: '/api/adv/qalists',
+			data: {
+				keyword: keyword,
+				cid: cid,
+				qastat: qastat,
+				page:page,
+				qtype:qtype
+			}
+		});
+	}
+	});
+
+	//刷新
+	function afresh(){
+		var p1 = {
+		url: '/api/adv/qalists',
+		data: {
+			keyword: keyword,
+			cid: cid,
+			qastat: qastat,
+			page:page
+			}
+		};
+		getListData('#list_1', p1);
+	}
+
+	//自动刷新
+	function auto_afresh(){
+		var check = check = $("#afresh").attr("checked");
+		if(check){
+			//afresh();
+		}
+		setTimeout(auto_afresh, 30000);
+	}
+	auto_afresh();
+
+	$(".weibo-list-action-cmt").click(function(){
+		//return false;
+	});
+	
+	//提问区和搜索区的头部的tab切换
+	$(".qzonetab").addClass("current");
+	$(".szone").hide();
+	
+	$(".szonetab").hover(function(){
+		$(".qzonetab").removeClass("current");
+		$(".szonetab").addClass("current");
+		$(".qzone").hide();
+		$(".szone").show();
+	});
+	$(".qzonetab").hover(function(){
+		$(".szonetab").removeClass("current");
+		$(".qzonetab").addClass("current");
+		$(".szone").hide();
+		$(".qzone").show();
+	});
+	
+	//问题类型选择
+	$(".rightsidebar&gt;li.questionc").on("hover",function(){
+			$(this).after($(".quecountry").show());
+		/*
+		if($(this).next().hasClass("quecountry")){
+			$(".quecountry").hide();
+		}
+		else{
+			$(this).after($(".quecountry").show());
+		}
+		*/
+	})	;
+	
+	$(".quecountry li").click(function(){
+		qtype = $(".quecountry").prev().attr("qtype");
+		cid = $(this).find("a").attr("cid");
+		window.open("/adv/faq?cid="+cid+"&qtype;="+qtype);
+	});
+	
+</script>
+<script>
+    Weibo.Login.autoLogin();
+</script>
+<script type="text/javascript" charset="UTF-8" src="http://i.sso.sina.com.cn/js/sinaSSOManager.js"></script>
+<script src="http://i.sso.sina.com.cn/js/sinaSSOUpdateCookie.js"></script>
+<script language="javascript" type="text/javascript">
+// 当登录状态变化时
+function loginStatusChange(is_login){
+	window.location.reload();
+}
+sinaSSOManager.regStatusChangeCallBack(loginStatusChange);
+</script>

@@ -172,7 +172,7 @@ if __name__=='__main__':
 	time.sleep(1)
 	fp_1.close()
 #-------store url source Page---------	
-	for i in links[1:500]:
+	for i in links[1:50]:
 		queue_page.put(i)
 	thread_gogo(thread_number)
 

@@ -1,0 +1,2270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="apple-touch-icon" href="http://i2.sinaimg.cn/dy/deco/2010/0709/icon.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>新闻搜索_新浪搜索_新浪网</title>
+<meta name="keywords" content="新闻搜索,新浪搜索,新浪网" />
+<meta name="description" content="新浪新闻搜索" />
+<meta name="viewport" content="initial-scale = 1.0,maximum-scale=1.0" />
+<style type="text/css">
+/* 脥篓脫脙 */
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, table, td, img { margin: 0; padding: 0; }
+input, select, textarea { margin:0; }
+fieldset, img { border:none; }
+address, caption, cite, code, dfn, em, th, var { font-style: normal; font-weight: normal; }
+ul, ol { list-style-type:none; }
+select, input { vertical-align:middle; }
+select, input, textarea { font-size:12px; }
+body { background:#fff; color:#000; font:13px/20px "arial"; }
+.clearfix:after { content:"."; display:block; height:0; visibility:hidden; clear:both; }
+.clearfix { zoom:1; }
+.clearit { clear:both; height:0px; overflow:hidden; }
+.lh20 { line-height:20px; }
+.pl20{padding-left:20px;}
+.lh23 { line-height:23px; }
+.sp10 { height:10px; overflow:hidden; }
+.f12 { font-size:12px; }
+.f14 { font-size:14px; }
+.fB { font-weight:bold; }
+.fwhite, a.fwhite { color:#fff; }
+.fblack { color:#000; }
+.fred { color:#c00; }
+.fgreen { color:#009900; font-size:12px; }
+.fgray_time { color:#666; font-size:12px; }
+a.fnoL { text-decoration:none; }
+a.fnoL:hover { text-decoration:underline; }
+.fB { font-weight:bold; }
+.fgray { color:#999; }
+.space { height:10px; background:#fff; overflow:hidden; clear:both; }
+.fblue { color:#000099; }
+.wbret-wrap { margin-top:15px; margin-bottom:19px;/* width:205px; *//* 20120910 dalong3*/ display:block; padding:10px 15px; /*background-color:#f2f6f9; */border-bottom:1px dashed #c3d0ed; }
+a.wbret-wrap, a.wbret-wrap:link, a.wbret-wrap:visited, a.wbret-wrap:active, a.wbret-wrap:hover, a.wbret-wrap:focus { text-decoration:none; }
+.wbret-wrap { margin-top:10px; }/*20120910 dalong3*/
+.wbret-tt { display:block; padding:0 0 0 20px; background:url(images/swb_01.png) 0 0 no-repeat; }
+.wbret-tt span { text-decoration:none; font-size:14px; }
+.wbret-p1 { display:block; padding:10px 0 5px 0; border-bottom:1px dotted #ccc; font-size:12px; color:#333; }
+.wbret-date1 { display:block; color:#999; }
+.wbret-p2 { word-wrap:break-word;display:block; padding:5px 0 5px 0; font-size:12px; color:#333; }
+.wbret-link1 { padding:0; color:#000099; }
+a.wbret-link1:link, a.wbret-link1:visited { color:#00099; text-decoration:none; }
+a.wbret-link1:active, a.wbret-link1:hover, a.wbret-link1:focus { text-decoration:underline; }
+.wbret-p3 { display:block; padding:0; font-size:12px; }
+.wblink { color:#26A2DA; }
+a { color:#000099; text-decoration:none; }
+a:hover { color: #ff0000; text-decoration:underline; }
+.tac { text-align:center; }
+.tar { text-align:right; }
+.pad10 { padding:10px; }
+.wrap { width:1000px; }
+/*碌炉鲁枚虏茫脳篓脫脙*/
+a.fred { color:#c00; }
+.layer-frame { border:0; position:absolute; filter: alpha(opacity=0); }
+.l { float:left; }
+.r { float:right; }
+.r a { margin:5px; }
+.r a.style_a { margin-left:0px; }
+/*20120912 dalong3 start*/
+.r a { color:#000000; }
+.product_l .r .style_box { border-right:dotted 1px #ccc; margin-right:5px; padding-right:10px }
+.product_l .r a:link, .r a:visited { color:#000 }
+.product_l .r a:hover { color:#000; text-decoration:underline; }
+.zcblk01 .titChange1 { width:550px; }
+/*20120912 dalong3 end*/
+
+/* xuehua1 modify 20130911 start*/
+.topWrap{ background-color:#f6f6f6; border-bottom:solid 1px #ececec; min-width:1000px; margin-bottom:8px;}
+.navType{ float:left; font-size:14px;padding:18px 0 0 9px}
+/* xuehua1 modify 20130911 end*/
+.r .style_cion { margin-left:0 }
+.top {position:relative; line-height:26px; padding:8px 10px 0 5px;}/* xuehua1 modify 20130911 */
+.top .l a { float:left; display:inline; margin:2px 3px 0; padding:0 5px; outline:0 }
+.top .l a:link { text-decoration:none; color:#009; }/* xuehua1 modify 20130911 */
+.top .l a:visited { color:#009; }/* xuehua1 modify 20130911 */
+.top .l a:hover { color:#e42f36;}/* xuehua1 modify 20130911 */
+.top .l a.selected { color:#e42f36; font-weight:bold; /*text-decoration:underline*/}/* xuehua1 modify 20130911 */
+.top a:hover, .top a:active, .top a:focus { text-decoration:none; }
+.top .r{ line-height:34px;}/* xuehua1 modify 20130911 */
+.top2 { position: relative; z-index:100; height:80px; width:950px; }
+.top h1 { padding:0 0 0 19px; }/* xuehua1 modify 20130911 */
+.search-form { padding:6px 0 0 31px; zoom:1; }/* xuehua1 modify 20130911 */
+.search-form a:hover, .search-form a:focus { text-decoration:none; }
+.ipt-02 { border:1px solid #898989; padding:3px 5px; line-height:24px; height:24px; font-size:14px; width:608px; margin:0 10px 0 0; }/* xuehua1 modify 20130911 */
+input.ipt-03 { background: url(images/search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_zt { background: url(images/zt_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_img { background: url(images/img_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_blog { background: url(images/blog_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_product { background: url(images/product_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03 { margin-left:7px;}
+form input.ipt-03:hover, input.ipt-03.hover { background-position:0 -50px; }
+input.ipt-03:focus, input.ipt-03:active { outline:none 0; border:none }
+input.ipt-03::-moz-focus-inner {
+border: 0;
+}
+/*20120823 moidfy yan*/
+input.ipt-03b { background:url(images/search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+input.ipt-03b:hover, input.hoverb { background:url(images/search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_zt { background:url(images/zt_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_zt:hover, input.hoverb { background:url(images/zt_search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_img { background:url(images/img_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_img:hover, input.hoverb { background:url(images/img_search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_blog { background:url(images/blog_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_blog:hover, input.hoverb { background:url(images/blog_search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_product { background:url(images/product_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_product:hover, input.hoverb { background:url(images/product_search_btn_yan.png) 0 -50px no-repeat; }
+/* 脭脷陆谩鹿没脰脨脣脩脣梅*/
+.ipt-04 { background:url(http://www.sinaimg.cn/dy/search/images/searchin_btn.png); width:90px; height:26px; border:none; color:#fff; margin:0 3px 0 0; }
+.search-form p { padding:10px 0 0 228px; }
+.search-form p label input { margin:-3px 3px 0 0; }
+.search-form p label { margin:0 1.5em 0 0; }
+/* 赂脽录露脣脩脣梅 by liusong */
+.adv_search { padding:10px 20px; height:600px; }
+.adv_search table { width:100%; margin:20px auto; border-collapse:collapse; border-spacing:0 }
+.adv_search th, .adv_search td { border:dashed 1px #E4E9FA; border-width:1px 0; padding:10px }
+.adv_search th { text-align:left; font-size:14px; width:160px; padding-right:15px }
+.adv_search td p { padding-bottom:10px ;margin:5px;}
+.adv_search .btns { text-align:center; border-width:0; padding:20px }
+.adv_search .btns input { font-size:14px }
+.adv_search label { margin-right:2em; vertical-align:middle }
+.adv_search .inp_txt_long { /*border:solid 1px #9EB5E4;*/  width:220px;padding:3px 4px ;float:right;margin-right:280px;}
+.adv_search .inp_txt { /*border:solid 1px #9EB5E4;*/  width:220px;padding:3px 4px ;margin-right:40px;}
+.date_pick .inp_txt { width:100px; background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_011.png) no-repeat 95% center; cursor:pointer; }
+.data-select { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_011.png) no-repeat 95% center; border:1px solid #8fcee0; padding:2px; height:14px; line-height:14px; width:80px; cursor:pointer; }
+.adv_search select { width:110px; margin-right:16px }
+
+.sec_tit h2 { font-weight:bold; margin:-10px 0 0px; font-family:"脦垄脠铆脩脜潞脷", "潞脷脤氓"; font-size:18px }
+.nav { border-bottom:solid 1px #ddd;; line-height:28px; color:#666; margin-left:30px; width:700px}
+.nav .l{ padding:0 0 0 155px; }
+.nav .r_v2{ float:right; margin-top:-28px;padding:0px 5px;}
+.nav .r_v2 span{ display:inline-block; border-bottom:solid 1px #e42f36; position:relative; margin-bottom:-1px;}
+.nav .r{ color:#787878; position:relative }
+.nav .r strong, .nav .product_l { font-weight:normal; zoom:1 }
+.nav a:hover, .nav a:focus { text-decoration:none; }
+.nav2 { background:#eef7f9; margin-top:1px; line-height:30px; padding:0 10px; }
+.nav2 .l { border-right:1px solid #cfe9ef; width:150px; }
+.nav2 .r { line-height:normal; height:22px; padding:6px 0 0 0; }
+/*20120823 added yan start*/
+/*common bg*/
+/* 20120908 dalong3 start*/
+li .product_cur, .imgcur, dd ul li, dt .cur, .main .l .toClose, .main .l .toOpen, .reset, .r_list .selected a, .r_list dd .del_h { background:url(images/search_btn_yan.png) 999px 999px no-repeat; }
+.main .l dt{ height:25px; line-height:25px; padding-bottom:2px }
+.wrap .main .sidebar dl ul .selected, .imgcur, .main .l dt .cur, .sRight .r_list dd .cur { background-color:#ffffff; background-position:5px -94px; font-size:14px; margin-bottom:3px; padding-left:18px; }
+ .c_list span.cur li { background-color:#ffffff; background-position:5px -96px; font-size:14px; padding-bottom:3px; }
+.imgcur, .main .l dl dd ul span li .cur {cursor:pointer} 
+.l .sidebar dl dt a span, .sidebar dl dt a, dd ul li {cursor:pointer}
+.imgcur { color:#000; }
+li.imgcur:hover { background-color:#e9eff5; }
+.img_sidebar li a { display:block; }
+.main .l dl dt a, .main .l dl dd li a { color:#000000; }
+.search_history { width:205px; }
+.sRight .wbret-wrap .wbret-p3 .wbret-link1 { color:#7F7FCC; }
+#nav_result_container .zcblk { margin: 0 0 30px 0; padding:10px 0 10px 0; /*width:550px;*/}
+.zcblk .zch .nav_add_log { width:300px; margin-right:23px; }
+/*.zcblk .zcbox .zcwords { width:399px; } hongliang4 脰卤麓茂脟酶脧脭脢戮脠楼碌么*/ 
+/*20120908 dalong3 end*/
+
+.fgrey a:link, .fgrey a:visited { color:#5d5d5d}
+.fgrey a:hover { color:#333; text-decoration:none; }
+
+.main { cursor:default; }
+.main .l { width:125px; cursor:auto; }
+.main .l dl { padding:25px 0 0 0; }
+
+.main .l dt span { display:inline-block; padding-right:10px;}
+.main .l dt a, .main .l dd ul li { display:block; padding-left:17px; }
+.main .l .product_sidebar dl dt { display:block; padding-left:17px;}
+.main .l .product_sidebar .product_sidebar_dl dt { padding-left:0; }
+.main .l .product_sidebar dl dt.product_reset { padding-left:0; }
+#sidebar .product_sidebar { padding-top:10px; width:135px; }
+.main .product_sidebar dl dd ul li.cur:hover { background-color:#e9eff5; }
+.product_sidebar li a:hover { background-color:#e9eff5; }
+.product_sidebar li a { display:block; }
+.c_list a {display:block;}
+.main .l .toClose { background-position:100% -132px; }
+.main .l .toOpen { background-position:100% -170px; }
+.main .l #cannel.toOpen { background-position:-25px -170px; }
+.main .l #sYear.toOpen { background-position:-28px -170px; }
+.main .l #cdatebtn.toOpen { background-position:-3px -170px; }
+
+.main .l a:hover .toClose { background-position:100% -332px; }
+.main .l #cannel.toClose { background-position:-25px -332px; }
+.main .l #sYear.toClose { background-position:-28px -332px; }
+.main .l #cdatebtn.toClose { background-position:-3px -332px; }
+.main .l a:hover .toOpen { background-position:100% -370px; }
+
+.main .l a:link, .main .l a:visited { color:#000 }
+.main .l #sYear { display:inline-block; padding-right:10px;}
+.main .l a.reset { background-position:15px -234px; padding-left:30px }
+.main .l a.reset:hover { background-position:15px -254px; }
+.main .c_list { padding-top:5px; }
+.main .c_list li { height:20px; line-height:20px; padding-left:17px; margin:0 0 5px }
+.main .c_list li.on, .main .c_list li:hover, dd ul li:hover { background-color:#e9eff5; }
+/*.main .c_list a:link, .c_list a:visited { color#333333 }    dalong3 20120922*/
+.main .c_list a:hover { text-decoration:none; }
+.main .result { float:left; padding:10px 0px 10px 30px; width:589px; zoom:1; cursor:auto; position:relative; overflow:hidden; }/* xuehua1 modify 20130911 */
+.main .product_result { width:700px; padding-left:10px; margin-left:10px; }
+.main .sLeft { float:left; width:619px; }/* xuehua1 modify 20130911 */
+.main .sRight { float:right; width:235px; background-color:#fff; border:solid 1px #eaeaea; margin-top:-22px;}/* xuehua1 modify 20130911 */
+.main .zcad { float:left; width:210px; float:right; }
+
+.r_list { padding-bottom:15px; }
+.r_list dt { font-size:14px; font-weight:bold; color:#3d3d3d; padding-left:15px; padding-bottom: 10px;}
+.r_list dd, .r_list dd .highlighted  { line-height:22px; height:22px; font-weight:normal}
+.r_list dd a, .r_list dd .highlighted  { padding: 0 20px 0 15px; display:inline-block; }
+.r_list .selected a { background-position: 0 -94px; font-size:14px; }
+.r_list dd a:hover, .r_list dd .highlighted:hover { background-color:#e9eff5 }
+/*.r_list dt a:hover, dalong3 20120919*/
+.main .sidebar dl dt a:hover, .product_sidebar ul li:hover { background-color:#e9eff5 }/*dalong3*/
+.main .sidebar dt .cur_time { padding-left:17px; }
+/*.nav .wrap .main .l .sidebar dl dt a.cur:hover { background-color:#e9eff5 }/*dalong3*/
+.sidebar dl a span { width:97px } /*dalong3 20120919*/
+.r_list dd .del_h { background-position:15px -273px; padding-left:30px; }
+.r_list dd a.del_h:hover { background-position:15px -293px; padding-left:30px; }
+.r_list dd .highlighted { cursor:pointer; }
+.r_list.fgrey a, .r_list dd .highlighted  { width:205px; }
+
+.about_search{ background-color:#f3f5f8; padding:10px 0;}
+.about_search_box{ width:800px; padding-left:150px;}
+.about_search .Stabl01 th{font-size: 14px;font-weight: normal; line-height:30px; text-align: left; vertical-align: top;    white-space: nowrap;}
+.about_search .Stabl01 .tt{ padding:0 25px 0 0}
+.about_search .Stabl01 td{ width: 5%;}
+.about_search .Stabl01 a:hover{ text-decoration:none; color:#000099}
+
+.foot { text-align:center; padding:10px 0; color:#666666; background-color:#e1e1e1;font-size: 12px;}
+.foot a:link,.foot a:visited { color:#666; }
+.foot a:hover, .foot a:focus { text-decoration:none;color:#666; }
+
+/*20120823 added yan end*/
+
+
+a.amore { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_007.png) no-repeat 100% -88px; padding-right:15px; }
+a.amore2 { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_007.png) no-repeat 100% -49px; padding-right:15px; }
+.list-more { position:absolute; left:5px; top:18px; width:95px; z-index:10000; }
+.list-more .more-arr { background: url(http://www.sinaimg.cn/dy/search/images/sea_m_arr.png) no-repeat 10px 0; height:5px; overflow:hidden; position:relative; margin-bottom:-1px; zoom:1 }
+.ipt-01 { border:1px solid #60a9cc; padding:3px; line-height:20px; height:20px; width:426px; margin:0; float:left; font-size:14px; outline:none }
+.more-link { border:1px solid #687DCE; background:#fff; padding:3px 0 0 0; }
+.more-link a { display:block; margin:1px; line-height:24px; padding:0 0 0 13px; text-decoration:none; background:#fff; zoom:1; height:24px; overflow:hidden; }
+.more-link a:hover { background-color:#ECEEF9; text-decoration:none; color:#000099; }
+.more-link .line-dot { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_004.png) repeat-x; }
+.data-select { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_011.png) no-repeat 95% center; border:1px solid #8fcee0; padding:2px; height:14px; line-height:14px; width:80px; cursor:pointer; }
+.box-define { padding:0 0 0 7px; }
+.box-define p { padding:2px 0; }
+a.areset { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_012.png) no-repeat 0 center; padding:0 0 0 15px; }
+a.back { background:url(http://www.sinaimg.cn/dy/search/images/back.png) no-repeat 0 center; padding:0 0 0 12px; margin:0 0 0 -10px; }
+/* 脛脷脠脻露楼虏驴脤谩脢戮脟酶脫貌 mod_bar */
+.mod_bar { zoom:1; overflow:hidden; padding:0 0 5px; width:605px; margin:0 0 0 1px; } /*20120912 dalong3*/
+/* 脜脜脨貌路陆脢陆 */
+.sort_option { float: right; margin:0; width:160px; height:25px; line-height:25px; text-align:center; }/*2010/10/26*/
+.sort_option_product { margin:0; display:block; width:558px; text-align:right; height:25px; line-height:25px; z-index:9999; }
+.result .sort_option a { margin-left:0px; text-decoration:none; }
+.result .sort_option_product a { text-decoration:none; }
+.cur_sort { color:#000; padding-bottom:5px; background:url(http://www.sinaimg.cn/dy/search/images/arr.png) no-repeat 50% 100%;/*margin-left:10px;*/ }
+/* 掳麓脢卤录盲脜脜脨貌脤谩脢戮脨脜脧垄 */
+.tips_01 { position: relative; height:30px; line-height: 30px; background:#F2F6F9; margin: 0 18px 5px 0; padding:0 10px;border: 1px solid #e0ebf1; color: #000; }
+.tips_01 { /*width:529px; *width:547px;*/ }/*20120912 dalong3 */
+.tips_01 p em { color: #CC0033; }
+.tips_01 .close { color:#959ebe; position: absolute; right:6px; top:6px; line-height: 14px; font-family: arial; cursor: pointer; }
+/*  鹿脴卤脮脡赂脩隆脝梅掳麓脜楼虏禄虏脡脫脙 20120821  碌芦脥录脝卢脣脩脣梅脨猫脪陋脝么脫脙 20120912 --dalong3*/
+#sidebtn{background:url(images/side_arr3.png) no-repeat 0 0;display:block; position:absolute; width:11px;height:30px;overflow:hidden;text-indent:-999em;margin:120px 0 0 -31px;padding:0;outline:none;}
+a#sidebtn.sideclose{background-position:100% 0;margin-left:-30px; }
+a.sideopen{}
+#sidebtn:hover{background-position:0 -30px; }
+a#sidebtn.sideclose:hover{background-position:100% 100%;}
+
+.result h2 { line-height:24px; }
+.box-result { zoom:1; padding:0 0 0 10px; border: 1px solid #fff; position:relative;margin-bottom:8px; }/*20120823*/
+.box-result { /*width:569px; *width:579px;*/}/*20120910 about ie by dalong3*/
+.box-result .r-img { margin:5px 0; float:left; width:140px; position:relative; }
+.box-result .r-img .video { position:absolute; left:5px; bottom:5px; *bottom:9px;
+border:none; }
+a.a-img img { border:1px solid #ccc; padding:1px; }
+a.a-img:hover img { border-color:#69c; }
+.box-result .r-info { margin:5px 0; float:left; width:417px; }/* 20120823*/
+.box-result .r-info p { word-wrap:break-word; word-break:break-all; }
+.box-result .r-info p a:link,.box-result .r-info p a:visited{ color:#7F7FCC}/* 20120829 modify yan*/
+.box-result .r-info p a:hover{ color:#4949b5}/* 20120829 modify yan*/
+.box-result .r-info p .col3 { display:inline-block; width:22%; overflow:hidden; height:16px; }
+.box-result .r-info p .update { width:45% }
+.box-result .r-info2 { float:none; width:auto; }
+.box-result h2 { font:normal normal normal 16px/1.67em "arial"; }/*20120828 modify yan*/
+.box-result h2 .fgreen { font-size:12px; font-family:Arial; }/*20120828 modify yan*/
+a strong.highlight, a:link strong.highlight, a:visited strong.highlight, .highlight { color:#c00; font-weight:normal; }
+a strong.highlight { text-decoration:underline }
+.box-result .fblue { color:#7f7fcc; text-decoration:none; }/*20120828 modify yan*/
+/*.box-result .r-info h2 a {padding-right:10px;}*/
+.acmt { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_014.png) no-repeat 0 center; padding-left:12px; }
+.box-result a:visited { color:#800080; }
+.box-result a.fblue:visited { color:#7f7fcc; }/*20120828 modify yan*/
+.box-result a.fblue:hover, .box-result a.fblue:focus { color:#f00; text-decoration:none; }
+.box-result .r-info a { text-decoration:underline; }
+.box-result h2 a{text-decoration: underline;} 
+.box-result .time { white-space:nowrap; }
+.box-result span.zts { /*white-space:nowrap;*/}
+.product_box-result { width:579px; }
+img.noimg { vertical-align:middle; margin:0 2px; }
+.list-img { overflow:hidden; zoom:1; padding:5px 0 0 0; height:94px; }
+.list-img li { float:left; margin:0 5px 0 0; display:inline; }
+.list-img li img { display:block; margin:0 auto; float:left; }
+.list-img li.lastall { border:none; width:auto; padding:78px 0 0 15px; }
+.result .hover { background: #F3F7FA; border-color: #E0EBF1 }/*2010/11/22*/
+/* 路脰脪鲁 */
+
+.pagebox { font-size:12px; margin-bottom:10px; margin-top:5px; }
+.pagebox a, .pagebox a:visited, .pagebox a:link { border:1px solid #ddd; color:#2c98c7; cursor:pointer; height:21px; line-height:21px; padding:0 8px; text-decoration:none; display:inline-block; overflow:hidden; margin-right:4px; }
+.pagebox a:hover { background:#044580 none repeat scroll 0 0; color:#FFFFFF; border-color:#044580 }
+.pagebox span.pagebox_cur_page { color:#000; cursor:default; font-weight:bold; height:23px; line-height:23px; padding:0 8px; display:inline-block; overflow:hidden; margin-right:4px; }
+/*脰卤麓茂脟酶鹿芦脫脙css*/
+.box-nav { /*background:#F3F7FA url(http://www.sinaimg.cn/dy/search/images/dot_line.png) repeat-x 0 100%; */padding:0 0 0 10px; margin-bottom:25px; }
+/*鹿脡脝卤*/
+.box-finance {/*padding-left:15px;*/ }
+.box-finance .r-img { width:auto; margin:2px 5px 0 0; }
+.box-finance .r-info { width:auto; padding-left:15px; }
+.box-finance h2 { padding: 0 0 10px 0; }
+.box-finance .r-num { font-family:arial; padding:0px 0 7px; zoom:1; }
+.box-finance .r-num:after { content:"."; display:block; height:0; visibility:hidden; clear:both; }
+.box-finance .r-num h3 { font-size:24px; font-weight:normal; line-height:1.0; padding:4px 14px 2px 0; float:left; margin:0 10px 0 0; border-right:1px solid #999; }
+.fgreen { color:#090; }
+.box-finance .r-num p { line-height:14px; white-space:nowrap; }
+.box-finance .r-num .num_detail { float:left; padding:2px 0 2px 14px; }
+.box-finance .r-data { padding:4px 1em 2px 2px; border-top:1px solid #999999; clear:both; _float:left; }
+.f_table { border-spacing:0; border-collapse:collapse; }
+.f_table th, .f_table td { padding-right:10px; text-align:left }
+.f_table td { padding-left:2px }
+/* end of 鹿脡脝卤 */
+
+/*脤矛脝酶*/
+.box-weather {/*padding-left:10px;*/ }
+.box-weather h2 { padding:0 0 8px 0; }
+.box-weather .w-cnt { overflow:hidden; zoom:1; margin:0 0 0 0; }
+.box-weather .w-icon { vertical-align:middle; }
+.box-weather dl { float:left; width:174px; padding:0 0 0 0px; border-right:1px dotted #ccc; margin-right:15px; }
+.box-weather dl.last { border:none; margin-right:-25px; }
+.box-weather dd p { line-height:normal; padding:3px 0; }
+/* 麓贸脝卢 */
+/* 脢脫脝碌 */
+.nav_16 .r-info h2 .hd { background: url(http://www.sinaimg.cn/dy/search/images/hd.png) repeat-x; border:solid 1px #9FB6E4; color:#8697D9; padding:3px 6px }
+.nav_16 .hd a {
+color:color:#8697D9; text-decoration:none }
+.nav_16 .blue { color:#6699cc; }
+/*禄媒路脰掳帽*/
+.box-socre h2 { padding:0 0 5px 0; }
+.tbl-score { border-collapse:collapse; border:1px solid #CFE9EF; line-height:24px; font-family:arial; margin:5px 0; }
+.tbl-score th { background:#F1F4FC; padding-left:12px; text-align:left; border-right:1px solid #fff; }
+.tbl-score td { padding-left:12px; border-bottom:1px solid #CFE9EF; }
+.tbl-score td.tar { font-family:"arial"; padding:0 1em 0 0; }
+.more-keyword { font:normal normal normal 14px/1.67em "arial"; padding:10px; }
+.more-keyword td { padding:0 0 0 3px; line-height:26px; text-align:center; }
+.more-keyword td.item { padding: 0 25px; text-align:left; }
+.search-form-bot { padding:10px 0 20px;}
+.search-form-bot form { width:530px; padding-left:15px; }
+.sidebar { width:125px ;}
+.more-keyword a, .result a { text-decoration:none; }
+.from { color:#666; padding:10px 0 15px; }
+.from strong { font-weight:normal; color:#000 }
+.from strong a { text-decoration:none; color:#000; }
+/*赂么脨脨禄禄脡芦*/
+/*.zebra { background:#F3F7FA; padding:10px; }/* modified by  youhuata 0415 */
+.zebra { padding: 10px 0 10px 10px; } /* 20120913 dalong3 */
+.zebra .r-info { width:389px; }/* added by youhuata 0415 */
+.zebra .r-info2 { float:none; width:auto; }
+/* 脟脨禄禄脧脭脢戮路陆脢陆脥录卤锚 */
+.view_icon { width:18px; height:15px; vertical-align:-10%; background:url(http://www.sinaimg.cn/dy/search/images/thumbs.png) no-repeat 0 0; }
+#thumb { background-position: 0 0 }
+#list { background-position:100% 0 }
+#thumb.on { background-position: 0 100% }
+#list.on { background-position:100% 100% }
+/* 虏煤脝路驴芒 */
+.box-prd { padding:10px; margin-bottom:15px }
+.box-prd h2 { margin-top:-3px }
+.box-prd .r-img { width:102px; text-align:center; vertical-align:middle; height:102px; line-height:102px; border:solid 1px #ccc; background:#fff; position:relative; overflow:hidden; zoom:1; display:table; }
+.box-prd .r-img a { position:static; +position:absolute;
+top:50%; vertical-align:middle; display:table-cell; _display:inline; zoom:1; _blr:expression(this.onFocus=this.blur());
+outline-style:none; }
+/*.box-prd .r-img a:after { content:" "; font-size:1px; visibility:hidden }*/
+.box-prd .r-img a img { border:none; padding:0; vertical-align:middle; position:static; +position:relative;
+top:-50%; left:-50%; max-height:98px; max-width:98px; }
+.box-prd .r-info { float:none; margin-left:124px; width:auto; zoom:1 }
+.box-prd h3 { font-weight:normal; text-align:right; margin:-23px 0 0; font-size:12px }
+.box-prd h3 .price { color:#c00; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:normal; line-height:28px; }
+.box-prd h3 .noprice { line-height:28px; }
+/* 虏煤脝路驴芒 &gt; 脠铆录镁 */
+.box-software .r-img { width:44px; height:44px }
+.box-software .r-img a { width:42px; height:42px; line-height:42px }
+.box-software .r-img a img { margin-top:6px }
+.box-software .r-info { margin-left:60px }
+/* 麓贸脥录脧脭脢戮 */
+.dN { display:none }
+.thumbnail { font-size:12px; overflow:hidden; height:16px; }
+.thumbnail_view .box-prd { float:left; width:181px; padding:0; vertical-align:top }
+.thumbnail_view .r-img { float:none; width:142px; height:142px; line-height:142px }
+.thumbnail_view .r-img img { max-height:140px; max-width:140px; /*  麓脣麓娄脫脨CSS驴脴脰脝脥录脝卢驴铆赂脽拢卢脠莽脢盲鲁枚脢卤驴脴脰脝鹿媒脥录脝卢鲁脽麓莽拢卢脭貌驴脡脪脭脳垄脢脥碌么脰脨虏驴路脰 */ _height:expression(this.scrollHeight&gt;139?"140px":"auto");
+_width:expression(this.scrollWidth&gt;139?"140px":"auto");
+/*  麓脣麓娄脫脨CSS驴脴脰脝脥录脝卢驴铆赂脽拢卢脠莽脢盲鲁枚脢卤驴脴脰脝鹿媒脥录脝卢鲁脽麓莽拢卢脭貌驴脡脪脭脳垄脢脥碌么脰脨虏驴路脰 IE6 脳篓脫脙 */
+    }
+.thumbnail_view .r-info { margin-left:0; padding:10px 0 0 0; zoom:1 }
+.thumbnail_view .r-info h3 { text-align:left; margin:0 }
+.thumbnail_view .r-info p.content { display:none }
+/* .thumbnail_view .r-info p span, .thumbnail_view .r-info h3 span { display:none } */
+.thumbnail_view .r-info p .thumbnail { display:block }
+.thumbnail_view .r-info p .thumbnail { display:block; width:auto }/* modified by youhua 2010-8-20 */
+/* 脦垄虏漏脧脿鹿脴 */
+.small_icon { background:url(http://simg.sinajs.cn/miniblog2style/images/common/sicon.gif) no-repeat 0 0; overflow:hidden; }
+.male, .man { background-position:0 -20px; width:9px; height:12px; }
+.female, .sicon_female { width:9px; height:12px; background-position:0 0; }
+.vip { background-position:-32px -20px; width:11px; height:10px; }
+/* 脰卤脥篓鲁碌 */
+.box-map .r-img { width:250px }
+.box-map .r-info { width:auto; margin-left:250px; float:none }
+/*脠脮脝脷脩隆脭帽*/
+#ui-datepicker-div { margin-top:5px; margin-left:-10px;/* 脨脼脮媒脝芦虏卯 */ margin-bottom:20px; font-size:12px; font-family:Arial, Helvetica, sans-serif; background:#fff; display:none; border:1px #9ca9cb solid; width:244px; padding:3px; color:#434343; overflow:hidden; z-index:99 }
+#ui-datepicker-div select { height:21px; color:#434343; cursor:pointer }
+.ui-datepicker-header { width:244px; height:25px; border-bottom:1px #fff solid; overflow:hidden; background:url(http://i3.sinaimg.cn/dy/home/090605/bg_news.png) no-repeat 0 0; position:relative }
+.ui-datepicker-header a.ui-state-disabled, .ui-datepicker-header a.ui-state-disabled:visited { background:#d8ebfe; cursor:default }
+.ui-datepicker-prev { width:30px; height:21px; overflow:hidden; cursor:pointer; position:absolute; top:2px; left:4px; display:block }
+.ui-datepicker-next { width:30px; height:21px; overflow:hidden; cursor:pointer; position:absolute; top:2px; right:5px; display:block }
+.ui-datepicker-title { text-align:center; width:175px; height:21px; position:absolute; top:2px; left:34px }
+.ui-datepicker-year, .ui-datepicker-month { width:60px }
+.ui-datepicker-calendar { width:245px; border-collapse:collapse; border-left:1px #fff solid }
+.ui-datepicker-calendar th, .ui-datepicker-calendar td { padding:0; background:#efefef; color:#686868; border-right:1px #fff solid; border-bottom:1px #fff solid; line-height:22px; text-align:center; cursor:default; font-weight:400 }
+.ui-datepicker-calendar th {/* 卤铆脥路脩霉脢陆脭脷麓脣 */ background:#e9e9e9 }
+.ui-datepicker-calendar th span { display:block }
+.ui-datepicker-calendar th.ui-datepicker-week-end, .ui-datepicker-calendar td.ui-datepicker-week-end {/* 脰脺脛漏碌楼脭陋赂帽脩霉脢陆脭脷麓脣 */ }
+.ui-datepicker-calendar td { font-size:10px }
+.ui-datepicker-calendar td.ui-state-disabled { color:#aaa }
+.ui-datepicker-calendar td a, .ui-datepicker-calendar td a:visited { display:block; cursor:pointer; color:#686868; text-decoration:none; text-align:center; border:1px #efefef solid; line-height:20px; height:/* IE6脭脷a碌脛display脦陋block脢卤拢卢卤脴脨毛脡猫脰脙height禄貌width脰脨碌脛脪禄赂枚虏脜脛脺脮媒脠路麓楼路垄hover脦卤脌脿 */20px }
+.ui-datepicker-calendar td a:hover, .ui-datepicker-calendar td a:active, .ui-datepicker-calendar td a:focus { background:#ec6e6b; color:#fff; border:1px #a40300 solid }
+.ui-datepicker-calendar td a.ui-state-active, .ui-datepicker-calendar td a.ui-state-active:visited {/* .ui-state-active卤脴脨毛脭脷.ui-state-highlight脰庐脟掳拢卢麓脣脩霉脢陆脫脙脫脷卤锚脳垄脰赂露篓碌脛碌芦虏禄脢脟陆帽脤矛碌脛脠脮脝脷 */ background:#fff; border-color:#efefef }
+.ui-datepicker-calendar td a.ui-state-active:hover, .ui-datepicker-calendar td a.ui-state-active:active, .ui-datepicker-calendar td a.ui-state-active:focus { color:#ca0e0a; text-decoration:underline; background:#fff; border-color:#efefef }
+.ui-datepicker-calendar td a.ui-state-highlight, .ui-datepicker-calendar td a.ui-state-highlight:visited { background:#ca0e0a; color:#fff; border:1px #a40300 solid }
+.ui-datepicker-calendar td a.ui-state-highlight:hover, .ui-datepicker-calendar td a.ui-state-highlight:active, .ui-datepicker-calendar td a.ui-state-highlight:focus { background:#ca0e0a; color:#ff0; text-decoration:underline; border:1px #a40300 solid }
+.ui-icon, .ui-datepicker-cover, .ui-datepicker-trigger { display:none }
+.pagenum { font-size:11px; font-family:verdana; }
+.noresult { margin-left:25px; clear:left; font-size:14px; padding-bottom:100px; }
+.noresult h4 { font-weight:normal; font-size:14px; line-height:30px; }
+.noresult h4 span { color:#cc0033; }
+.noresult p { font-size:14px; line-height:50px; }
+.noresult ul { }
+.noresult ul li { font-size:14px; line-height:20px; margin-left:30px; list-style-type:disc; }
+.more_switch { text-align:right; }
+.more_switch a.amore, .more_switch a.amore2 { background-image:url(http://www.sinaimg.cn/dy/search/images/sw.png); outline:none 0; text-decoration:none; }
+span.style1 { color:#f00; }
+/**/
+.gray_lv2 { color:#666 }
+.cur_area { margin:0 0 5px 30px; }
+.notice { background:url(http://www.sinaimg.cn/dy/search/images/notice.gif) no-repeat 0 50%; padding:2px 2px 2px 15px; }
+/* 脭脷陆谩鹿没脰脨脣脩 */
+#search_more { padding:0 20px; font-size:14px; height:300px; position:relative; z-index:2 }
+#search_more h2 { font-weight:bold; margin:-10px 0 18px; font-family:"脦垄脠铆脩脜潞脷", "潞脷脤氓"; font-size:18px; position:relative; z-index:20 }
+#search_more p { line-height:157% }
+.main .l li .type-more li { padding-left:7px; }/* added by youhuata 2010-03-26  16:33 */
+.type-more { zoom:1; overflow:hidden }
+/* range radio add pointer */
+label.label_range { cursor:pointer; }
+label.label_range input { cursor:pointer; }
+/* world cup 2010 */
+/* added by youhuata 100602 */
+.WorldCupTop { height:95px!important }
+.w_c_p { background: url(http://www.sinaimg.cn/dy/search/images/sjb_banner.png) no-repeat 100% 100%; height:95px }
+.world_cup_filter { position:absolute; margin:0; color:#cc0000; }
+.world_cup_filter a { color:#00f; text-decoration:none }
+.world_cup_filter a:hover { color:#f00; text-decoration:none; }
+.main .l li span { color:#000000 }
+/* 脨脗脦脜脣脩脣梅脧脗脡赂脩隆脝梅 脢脌陆莽卤颅卤锚脳垄脤脴脢芒脩脮脡芦 */
+.sidebar li.wc2010_a a { color:#f60; }
+.sidebar li.wc2010_a a:hover { color:#f00; }
+/* 脥录脝卢脣脩脣梅 掳麓脨搂鹿没赂脽脟氓卤锚脢露 */
+img.size_hd { /*vertical-align:text-top;*/ margin-left:2px; }
+/*脠楼碌么hover 脧脗禄庐脧脽*/
+.sidebar a:hover, .sidebar a:focus { text-decoration:none; }
+/* 脳贸虏脿脡赂脩隆脝梅脰赂露篓脠脮脝脷路露脦搂 */
+.cdatehost { text-align:right; margin-right:2px; }
+.cdatehost p { padding:2px 0 0 0; }
+.cdatehost .btns { text-align:center; border-width:0; padding:20px }
+.cdatehost .btns input { font-size:14px }
+.cdatehost label { margin-right:2em; vertical-align:middle }
+.cdatehost .inp_txt { border:solid 1px #9EB5E4; width:90px; padding:3px 4px; height:13px; }
+.cdatehost select { width:90px; margin-right:16px }
+/*2010/11/3begin*/
+.mod_thumb { float: left; width: 140px; text-align: center; }
+.mod_thumb table { margin: auto; text-align: center; }
+.mod_thumb .video { text-align: left; }
+.mod_thumb .video a { position: relative; display: block; margin: -25px 0 0 5px; }
+.mod_thumb .btn_play { display: inline-block; width: 73px; height: 25px; background: url(http://www.sinaimg.cn/dy/search/images/search_btn_play.png) 0 0 no-repeat; }
+#search_ft_02 { display: none; }
+.dropselectbox { display:inline; }
+.dropdown { outline:none; display:inline-block; vertical-align: middle; *display:inline;
+zoom:1; background:#dee3fa; }
+.dropdown * { -moz-user-select:none; }
+.dropdown h4 { cursor:pointer; text-indent:5px; height:24px; padding-right: 5px; font:12px/24px '脣脦脤氓', sans-serif; border:solid 1px #667bce; background:url(http://www.sinaimg.cn/dy/search/images/search_slt_arr.png) no-repeat right center; }
+.dropdown h4.over { border-color:#667bce; background-image:url(http://www.sinaimg.cn/dy/search/images/search_slt_arr.png); }
+.dropdown h4.current { border-color:#667bce; }
+.dropdown div { display:block;}
+.dropdown ul { position:absolute; display:none; margin:0; padding:0; float:left; clear:both; border:1px solid #667bce; background:#FFF; }
+.dropdown ul li { text-indent:5px; display:block; cursor:default; background:#FFF; height:19px; }
+.dropdown ul li.over { background:#39f; color:#FFF; }
+/*2010/11/3end*/
+
+.icon_arr { padding-right: 10px; background: url(http://www.sinaimg.cn/dy/search/images/search3.png) right center no-repeat; }
+
+.ipt-00 { border:1px solid #898989; padding:3px 5px; line-height:24px; height:24px; font-size:14px; width:400px; margin:0 10px 0 0; }
+.filterzz {height: 24px;padding: 10px 0;text-align: center;}
+.filterzz a:link, .filterzz a:visited {background: none repeat scroll 0 0 #F6F6F6;border: 1px solid #EFEFEF;color: #6699CC;text-decoration: none;}
+.filterzz a {background: none repeat scroll 0 0 #F6F6F6;border: 1px solid #EFEFEF;color: #6699CC;display: inline-block;height: 22px;line-height: 22px;margin: 0 auto;padding: 0 75px;}
+.foot_tip{padding:10px 0;color:#777;margin:10px 0 5px 0;border-top: dashed 1px #999;}
+
+.result_s { display:inline;float:left;width:124px;margin:30px 50px 0px 20px;}
+.result_s .result_s_pic { display:block;position:relative;padding:1px;border:1px solid #dcdcdc;line-height:0px;font-size:0px;zoom:1;}
+.result_s .result_s_pic span { position:absolute;left:1px;bottom:1px;width:120px;height:18px;line-height:18px;font-size:12px;color:white;text-align:right;}
+.result_s .result_s_marker { background-color:black;opacity:0.6;filter:alpha(opacity=60);}
+.result_s .result_s_pic .result_s_length { width:114px;padding-right:6px;}
+.result_s .result_s_play { display:none;position:absolute;left:50%;top:50%;margin-left:-16px;margin-top:-20px;width:32px;height:32px;background:url(images/result_play_btn.png);_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='images/result_play_btn.png');}
+.result_s .result_s_pic:hover .result_s_play { display:block;}
+.result_s p { color:#666666;}
+.result_s .result_key { color:red;}
+.result_s .result_s_title { height:36px;line-height:18px;margin:5px 0;}
+
+</style>
+<script type="text/javascript" src="/js/global.v2.js"></script>
+<script type="text/javascript" src="http://www.sinaimg.cn/jslib/jquery-1.4.2.min.js"></script>
+<!-- suggest by liusong@20110105 $-->
+<script type="text/javascript" src="js/jquery.suggest.js"></script>
+<style type="text/css">
+	.ac_results {
+			width: 384px;
+			border: 1px solid gray;
+		background-color: white;
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		overflow: hidden;
+		position: absolute;
+		z-index: 10000;
+		display: none;
+	}
+	
+	.ac_results li {
+		padding: 2px 5px;
+		white-space: nowrap;
+		color: #333;
+		text-align: left;
+		font-size:14px;
+		height:20px;
+		line-height:20px;
+			}
+	
+	.ac_over {
+		cursor: pointer;
+		background-color: #d9e1f6;
+	}
+	</style>
+<script type="text/javascript">
+function bindSuggest(obj) {
+		var url = "iframe/suggest/index.php";
+	var selector = obj!=null ? ('#'+obj.target.id) : 'a.selected';
+	url += $(selector).attr('id') == 'tab08' ? '?type=intraproducts' : '';
+		$(".ipt-01").filter(function(){return $(this).parents('div.search-ipt')[0].style.display=='block';}).add($(".ipt-02:first")).suggest(url,{
+		minchars: 1,
+		delay: 0,
+		onSelect: function() {$(this).parents('form').submit();}
+	});
+	}
+$(function() {
+	$('a').filter(function(){return this.id.match(/tab0\d+/);}).each(function(){$(this).click(bindSuggest);});
+	bindSuggest(null);
+});
+</script>
+<script language="javascript">
+//2010/11/3 begin
+(function($) {
+	$.fn.extend({
+		sSelect: function() {
+			var self=this;
+			return this.each(function(i, obj) {
+				var selectId = (this.name || this.id) + '__jQSelect' + i || '__jQSelect' + i;
+				if (obj.style.display != 'none' &amp;&amp; $(this).parents()[0].id.indexOf('__jQSelect') &lt; 0) {
+					var tabindex = this.tabIndex || 0;
+					$(this).before("&lt;div class='dropdown' id=" + selectId + " tabIndex=" + tabindex + "&gt;&lt;/div&gt;").prependTo($("#" + selectId));
+					var selectZindex = $(this).css('z-index'),
+					selectIndex = $('#' + selectId + ' option').index($('#' + selectId + ' option:selected')[0]);
+					$('#' + selectId).append('&lt;div class="dropselectbox"&gt;&lt;h4&gt;&lt;/h4&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/div&gt;');
+					$('#' + selectId + ' h4').empty().append($('#' + selectId + ' option:selected').text());
+					
+					var w = self.outerWidth();
+					$('#' + selectId + ' h4').css({
+						width: w
+					});
+					var selectUlwidth = w + parseInt($('#' + selectId + ' h4').css("padding-left")) + parseInt($('#' + selectId + ' h4').css("padding-right"));
+					$('#' + selectId + ' ul').css({
+						width: selectUlwidth + 'px'
+					});
+					$('#' + selectId + ' select').hide();
+					$('#' + selectId + ' div').hover(function() {
+						$('#' + selectId + ' h4').addClass("over");
+					},
+					function() {
+						$('#' + selectId + ' h4').removeClass("over");
+					});
+					$('#' + selectId)
+					.bind("focus", 
+					function() {
+						$.fn.clearSelectMenu(selectId, selectZindex);
+						$('#' + selectId + ' h4').addClass("over");
+					})
+					.bind("click", 
+					function(e) {
+						if ($('#' + selectId + ' ul').css("display") == 'block') {
+							$.fn.clearSelectMenu(selectId, selectZindex);
+							return false;
+						} else {
+							$('#' + selectId + ' h4').addClass("current");
+							$('#' + selectId + ' ul').show();
+							var selectZindex = $(this).css('z-index');
+							if ($.browser.msie || $.browser.opera) {
+								$('.dropdown').css({
+									'position': 'relative',
+									'z-index': '0'
+								});
+							}
+							$('#' + selectId).css({
+								'position': 'relative',
+								'z-index': '999'
+							});
+							$.fn.setSelectValue(selectId);
+							selectIndex = $('#' + selectId + ' li').index($('.selectedli')[0]);
+							var windowspace = ($(window).scrollTop() + document.documentElement.clientHeight) - $(this).offset().top;
+							var ulspace = $('#' + selectId + ' ul').outerHeight(true);
+							var windowspace2 = $(this).offset().top - $(window).scrollTop() - ulspace;
+							windowspace &lt; ulspace &amp;&amp; windowspace2 &gt; 0 ? $('#' + selectId + ' ul').css({
+								top: -ulspace
+							}) : $('#' + selectId + ' ul').css({
+								top: $('#' + selectId + ' h4').outerHeight(true)
+							});
+							$(window).scroll(function() {
+								windowspace = ($(window).scrollTop() + document.documentElement.clientHeight) - $('#' + selectId).offset().top;
+								windowspace &lt; ulspace ? $('#' + selectId + ' ul').css({
+									top: -ulspace
+								}) : $('#' + selectId + ' ul').css({
+									top: $('#' + selectId + ' h4').outerHeight(true)
+								});
+
+							});
+							$('#' + selectId + ' li').click(function(e) {
+								selectIndex = $('#' + selectId + ' li').index(this);
+								$.fn.keyDown(selectId, selectIndex);
+								$('#' + selectId + ' h4').empty().append($('#' + selectId + ' option:selected').text());
+								$.fn.clearSelectMenu(selectId, selectZindex);
+								e.stopPropagation();
+								e.cancelbubble = true;
+
+							})
+							.hover(
+							function() {
+								$('#' + selectId + ' li').removeClass("over");
+								$(this).addClass("over").addClass("selectedli");
+								selectIndex = $('#' + selectId + ' li').index(this);
+
+							},
+							function() {
+								$(this).removeClass("over");
+
+							}
+							);
+
+						};
+						e.stopPropagation();
+
+					})
+					.bind('mousewheel', 
+					function(e, delta) {
+						e.preventDefault();
+						var mousewheel = {
+							$obj: $('#' + selectId + ' li.over'),
+							$slength: $('#' + selectId + ' option').length,
+							mup: function() {
+								this.$obj.removeClass("over");
+								selectIndex == 0 ? selectIndex = 0: selectIndex--;
+								$.fn.keyDown(selectId, selectIndex, true);
+
+							},
+							mdown: function() {
+								this.$obj.removeClass("over");
+								selectIndex == (this.$slength - 1) ? selectIndex = this.$slength - 1: selectIndex++;
+								$.fn.keyDown(selectId, selectIndex, true);
+
+							}
+
+						}
+						delta &gt; 0 ? mousewheel.mup() : mousewheel.mdown();
+
+					})
+					.bind("dblclick", 
+					function() {
+						$.fn.clearSelectMenu(selectId, selectZindex);
+						return false;
+
+					})
+					.bind("keydown", 
+					function(e) {
+						$(this).bind('keydown', 
+						function(e) {
+							if (e.keyCode == 40 || e.keyCode == 38 || e.keyCode == 35 || e.keyCode == 36) {
+								return false;
+
+							}
+
+						});
+						var $obj = $('#' + selectId + ' li.over'),
+						$slength = $('#' + selectId + ' option').length;
+						var noChange = true;
+						switch (e.keyCode) {
+							case 9:
+							return true;
+							break;
+							case 13:
+							//enter
+							$.fn.clearSelectMenu(selectId, selectZindex);
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 27:
+							//esc
+							$.fn.clearSelectMenu(selectId, selectZindex);
+							break;
+							case 33:
+							$obj.removeClass("over");
+							selectIndex = 0;
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 34:
+							$obj.removeClass("over");
+							selectIndex = ($slength - 1);
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 35:
+							$obj.removeClass("over");
+							selectIndex = ($slength - 1);
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 36:
+							$obj.removeClass("over");
+							selectIndex = 0;
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 38:
+							//up
+							e.preventDefault();
+							$obj.removeClass("over");
+							selectIndex == 0 ? selectIndex = 0: selectIndex--;
+							$.fn.keyDown(selectId, selectIndex, noChange);
+							break;
+							case 40:
+							//down
+							e.preventDefault();
+							$obj.removeClass("over");
+							selectIndex == ($slength - 1) ? selectIndex = $slength - 1: selectIndex++;
+							$.fn.keyDown(selectId, selectIndex, noChange);
+							break;
+							default:
+							e.preventDefault();
+							break;
+
+						};
+
+					})
+					.bind("blur", 
+					function() {
+						$.fn.clearSelectMenu(selectId, selectZindex);
+						return false;
+
+					})
+					.bind("selectstart", 
+					function() {
+						return false;
+
+					});
+
+				} else if ($(this).parents()[0].id.indexOf('__jQSelect') &gt; 0) {
+					selectId = $(this).parents()[0].id;
+					$.fn.setSelectValue(selectId);
+					var w = self.outerWidth();
+					$('#' + selectId + ' h4').css({
+						width: w
+					});
+					var selectUlwidth = w + parseInt($('#' + selectId + ' h4').css("padding-left")) + parseInt($('#' + selectId + ' h4').css("padding-right"));
+					$('#' + selectId + ' ul').css({
+						width: selectUlwidth + 'px'
+					});
+					if (this.style.display != 'none') {
+						$(this).hide();
+					}
+
+				}
+			})
+		},
+		clearSelectMenu: function(selectId, selectZindex) {
+			if (selectId != undefined) {
+				selectZindex = selectZindex || '999';
+				$('#' + selectId + ' ul').empty().hide();
+				$('#' + selectId + ' h4').removeClass("over").removeClass("current");
+				$('#' + selectId).css({
+					'z-index': selectZindex
+				});
+			}
+		},
+		setSelectValue: function(sID) {
+			var content = [];
+			$.each($('#' + sID + ' option'), 
+			function(i) {
+				content.push("&lt;li class="FixSelectBrowser"&gt;" + $(this).text() + "&lt;/li&gt;");
+			});
+			content = content.join('');
+			$('#' + sID + ' ul').html(content);
+			$('#' + sID + ' h4').html($('#' + sID + ' option:selected').text());
+			$('#' + sID + ' li').eq($('#' + sID + ' select')[0].selectedIndex).addClass("over").addClass("selectedli");
+		},
+		keyDown: function(sID, selectIndex, noChange) {
+			var $obj = $('#' + sID + ' select');
+			$obj[0].selectedIndex = selectIndex;
+			if (!noChange) {
+				$obj.change();
+			};
+			$('#' + sID + ' li:eq(' + selectIndex + ')').toggleClass("over");
+			$('#' + sID + ' h4').html($('#' + sID + ' option:selected').text());
+		}
+	});
+	var types = ['DOMMouseScroll', 'mousewheel'];
+	$.event.special.mousewheel = {
+		setup: function() {
+			if (this.addEventListener)
+			for (var i = types.length; i;)
+			this.addEventListener(types[--i], handler, false);
+			else
+			this.onmousewheel = handler;
+		},
+		teardown: function() {
+			if (this.removeEventListener)
+			for (var i = types.length; i;)
+			this.removeEventListener(types[--i], handler, false);
+			else
+			this.onmousewheel = null;
+		}
+	};
+	$.fn.extend({
+		mousewheel: function(fn) {
+			return fn ? this.bind("mousewheel", fn) : this.trigger("mousewheel");
+		},
+		unmousewheel: function(fn) {
+			return this.unbind("mousewheel", fn);
+		}
+	});
+	function handler(event) {
+		var args = [].slice.call(arguments, 1),
+		delta = 0,
+		returnValue = true;
+		event = $.event.fix(event || window.event);
+		event.type = "mousewheel";
+		if (event.wheelDelta) delta = event.wheelDelta / 120;
+		if (event.detail) delta = -event.detail / 3;
+		args.unshift(event, delta);
+		return $.event.handle.apply(this, args);
+	}
+})(jQuery);
+//2010/11/3 end
+</script>
+<script type="text/javascript">
+(function(){
+if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+
+//style
+var css = 'a{text-decoration:none!important}';
+var style = document.createElement('style');
+document.getElementsByTagName('head')[0].appendChild(style);
+style.textContent = css;
+
+//进入式
+document.addEventListener('mousedown',function(e){
+	var ele = e.target;
+	do{
+		if(ele.tagName == 'A'){
+			ele.target = '_self';
+			return;
+		};
+		if(ele.tagName == 'DIV'){return};
+	}while(ele = ele.parentNode);
+	},false);
+})();
+</script>
+<script type="text/javascript">
+&lt;!--//--&gt;&lt;![CDATA[/ /&gt;&lt;!--
+//ipad不需要背景变色
+if( !(/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)) ){
+	$(document).ready(function () {
+		$('.box-result').hover(
+			function () {
+				$(this).addClass("hover");
+			},
+			function () {
+				$(this).removeClass("hover");
+			}
+		);
+	});
+}
+//--&gt;&lt;!]]&gt;
+</script>
+<style type="text/css">
+.top2 .search-form .ipt-02 {margin:0 3px 0 0}
+.sidebar { width:125px ;border-right: 1px solid rgb(200, 213, 240);}
+</style>
+</head>
+<body>
+<div class="topWrap">
+<div style="position:relative;z-index:10000" id="top_column">
+<div class="top clearfix">
+<div class="l">
+<div class="l">
+<h1 class="l"><a href="/?t=news"><img src="images/logo_new_yan.png" alt="新浪搜索" /></a></h1>
+<div class="navType l">
+<a rel="/?q=[keyword]&amp;c=news" href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;c=news" class="selected" id="tab02" suda-uatrack="key=SearchHeader&amp;value=news">新闻</a>
+<a rel="/?q=[keyword]&amp;c=zt" href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;c=zt&amp;range=title" id="tab02" suda-uatrack="key=SearchHeader&amp;value=topic">专题</a>
+<a rel="/?q=[keyword]&amp;c=blog" href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;c=blog" id="tab03" suda-uatrack="key=SearchHeader&amp;value=blog">博客</a>
+<a rel="http://s.weibo.com/weibo/[keyword]" href="http://s.weibo.com/weibo/%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96" target="_blank" id="tab04" suda-uatrack="key=SearchHeader&amp;value=weibo">微博</a>
+<a rel="/?q=[keyword]&amp;c=img" href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;c=img" id="tab07" suda-uatrack="key=SearchHeader&amp;value=pic">新闻图片</a>
+<a rel="/?q=[keyword]&amp;c=video" href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;c=video&amp;range=title" id="tab02">新闻视频</a>
+<!-- &lt;a rel="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&amp;q=[keyword]&amp;name=%CD%F2%BF%C6A&amp;t=keyword&amp;c=all&amp;k=%CD%F2%BF%C6A&amp;range=all&amp;col=1_7&amp;from=channel" href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&amp;q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;name=%CD%F2%BF%C6A&amp;t=keyword&amp;c=all&amp;k=%CD%F2%BF%C6A&amp;range=all&amp;col=1_7&amp;from=channel" target="_blank" id="tab05" suda-uatrack="key=SearchHeader&amp;value=gupiao"&gt;股票&lt;/a&gt; -->
+<!-- &lt;a rel="http://music.sina.com.cn/yueku/search/s.php?t=all&amp;k=[keyword]" href="http://music.sina.com.cn/yueku/search/s.php?t=all&amp;k=%D0%A6%B0%C1%BD%AD%BA%FE" target="_blank" id="tab06" suda-uatrack="key=SearchHeader&amp;value=music"&gt;音乐&lt;/a&gt;
+			&lt;a rel="/?q=[keyword]&amp;c=product" href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;c=product" id="tab08" suda-uatrack="key=SearchHeader&amp;value=product"&gt;产品库&lt;/a&gt;
+			&lt;a href="zl/search.php?q=%D0%A6%B0%C1%BD%AD%BA%FE" title="专栏搜索" target="_BLANK"&gt;专栏&lt;/a&gt; -->
+<a rel="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&amp;q=[keyword]&amp;name=s&amp;t=keyword&amp;c=all&amp;k=s&amp;range=all&amp;col=1_7&amp;from=channel" href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&amp;q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;name=s&amp;t=keyword&amp;c=all&amp;k=s&amp;range=all&amp;col=1_7&amp;from=channel" target="_blank" id="tab04" suda-uatrack="key=SearchHeader&amp;value=weibo">股票</a>
+<a href="?c=more" id="topamore" suda-uatrack="key=SearchHeader&amp;value=more">更多&gt;&gt;</a>
+</div>
+</div>
+</div>
+<div class="r">
+<a href="http://news.sina.com.cn/guide/" suda-uatrack="key=SearchHeader&amp;value=daohang">新浪导航</a>
+<a href="http://www.sina.com.cn" suda-uatrack="key=SearchHeader&amp;value=sinahomepage">新浪首页</a>
+</div>
+</div>
+<div class="list-more" id="topcmore" style="left:292px;top:26px;display:none;"><!-- left:485px -->
+<div class="more-arr"></div>
+<div class="more-link">
+<a rel="http://biz.finance.sina.com.cn/suggest/lookup_n.php?suggest_radio=lookupn&amp;country=&amp;q=[keyword]&amp;t=keyword&amp;c=all&amp;k=[keyword]&amp;name=[keyword]" href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?suggest_radio=lookupn&amp;country=&amp;q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;t=keyword&amp;c=all&amp;k=%D0%A6%B0%C1%BD%AD%BA%FE&amp;name=%D0%A6%B0%C1%BD%AD%BA%FE" target="_blank">股票</a>
+<a rel="http://php.weather.sina.com.cn/search.php?city=[keyword]&amp;c=1&amp;f=1&amp;dpc=1" href="http://php.weather.sina.com.cn/search.php?city=%D0%A6%B0%C1%BD%AD%BA%FE&amp;c=1&amp;f=1&amp;dpc=1" target="_blank">天气</a>
+<a rel="http://map.sina.com.cn/#city=北京!type=0!cr=12,11639794,3990817!k=[keyword]!strt=0!snum=10" href="http://map.sina.com.cn/#city=北京!type=0!cr=12,11639794,3990817!k=笑傲江湖!strt=0!snum=10" target="_blank">地图</a>
+<a rel="http://yingxun.ent.sina.com.cn/search_key.php?keyword=[keyword]" href="http://yingxun.ent.sina.com.cn/search_key.php?keyword=%D0%A6%B0%C1%BD%AD%BA%FE" target="_blank">影讯</a>
+<a rel="http://data.ent.sina.com.cn/show/search.php?keyword=[keyword]" href="http://data.ent.sina.com.cn/show/search.php?keyword=%D0%A6%B0%C1%BD%AD%BA%FE" target="_blank">演出</a>
+<a href="http://bbs.sina.com.cn/" target="_blank" class="line-dot">论坛</a>
+<a href="?c=more" class="line-dot">更多&gt;&gt;</a>
+</div>
+</div>
+</div> <div class="top2">
+<!--             &lt;h1 class="l"&gt;&lt;a href="/?t=news"&gt;&lt;img src="images/logo_new_yan.png" alt="新浪搜索"  /&gt;&lt;/a&gt;&lt;/h1&gt;
+         -->
+<div class="search-form l">
+<form method="get" action="/" onsubmit="return submit_form(this)">
+<input type="text" name="q" autocomplete="off" maxlength="100" value="笑傲江湖" class="ipt-02" onblur="set_top_column_href(this.value);" id="keyword" />
+<input type="submit" value="" class="ipt-03" hidefocus="true" suda-uatrack="key=SearchHeader&amp;value=searchnews" />
+<a href="/?c=adv&amp;q=%D0%A6%B0%C1%BD%AD%BA%FE" suda-uatrack="key=SearchHeader&amp;value=advancedsearch">高级搜索</a>
+<p>
+<label class="label_range" for="range1_all">
+<input type="radio" onclick="news_range_search_base_click(this);" id="range1_all" checked="checked" name="range" value="all" />新闻全文                </label>
+<label class="label_range" for="range1_title">
+<input type="radio" onclick="news_range_search_base_click(this);" id="range1_title" suda-uatrack="key=SearchHeader&amp;value=title" name="range" value="title" />新闻标题                </label>
+</p>
+<input name="c" type="hidden" value="news" />
+<input name="sort" type="hidden" value="time" />
+</form>
+</div>
+</div>
+</div>
+<div class="wrap" id="wrap">
+<div class="main clearfix">
+<div class="nav clearfix">
+<span id="correct_box"></span>
+<script type="text/javascript">
+&lt;!--//--&gt;&lt;![CDATA[/ /&gt;&lt;!--
+				  
+$(document).ready(function(){
+	var url = "/iframe/correct.php?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;tpl_c=";
+	$('#correct_box').load(url); 
+});
+
+//--&gt;&lt;!]]&gt;
+</script>
+<div class="l_v2">找到相关新闻7,593篇</div>
+<div class="r_v2"> 
+                                 
+                 
+                   按时间排序 
+                                  
+                                | 
+                                    <a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=rel&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=correlation">
+                    按相关度排序</a> 
+                                  
+                                | 
+                                    <a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=count&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=clicksort">
+                    按点击量排序</a>
+</div>
+<!-- -->
+</div>
+<div class="l" id="sidebar" style="border-right: medium none; display: none;">
+<div class="sidebar">
+<!--  &lt;dl&gt;
+                                                        &lt;dt&gt;&lt;a class="cur" onclick="return false;" href="?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=timesort"&gt;按时间排序&lt;/a&gt;&lt;/dt&gt;
+                                                        &lt;dt&gt;&lt;a																	href="/?c=news&amp;q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;sort=rel&amp;range=all"
+								 href="?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=rel&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=correlation"&gt;按相关度排序&lt;/a&gt;&lt;/dt&gt;
+                                                        &lt;dt&gt;&lt;a																	href="/?c=news&amp;q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;sort=count&amp;range=all"
+								 href="?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=count&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=correlation"&gt;按点击量排序&lt;/a&gt;&lt;/dt&gt;
+                                            &lt;/dl&gt; -->
+<!-- &lt;dl&gt;
+                                                                                &lt;dt&gt;&lt;a class="cur" href="javascript:void(0);" suda-uatrack="key=SearchHeader&amp;value=fulltext"&gt;按全文检索&lt;/a&gt;&lt;/dt&gt;
+                                                                                                        &lt;dt&gt;&lt;a href="/?c=news&amp;q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;sort=time&amp;range=title" suda-uatrack="key=SearchHeader&amp;value=title"&gt;按标题检索&lt;/a&gt;&lt;/dt&gt;
+                                                                    &lt;/dl&gt; -->
+<dl>
+<dt><a class="cur" onclick="return false;" href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;t=">全部</a></dt>
+<dt><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;t=3_5_6" suda-uatrack="key=SearchBody&amp;value=includepic">含图片</a></dt>
+<dt><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;t=2" suda-uatrack="key=SearchBody&amp;value=includevideo">含视频</a></dt>
+</dl>
+<dl>
+<dt>
+<a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchHeader&amp;value=allchannels">
+<span id="cannel" class="toClose">全部频道</span>
+</a>
+</dt>
+<dd>
+<ul class="c_list" id="c_list">
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_3&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_3">新闻</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_7&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_7">财经</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_10&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_10">体育</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_8&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_8">娱乐</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_6&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_6">科技</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_9&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_9">军事</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_15&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_15">读书</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_29&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_29">历史</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_27&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_27">传媒</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_24&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_24">健康</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_18&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_18">教育</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_11&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_11">女性</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_16&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_16">育儿</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_22&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_22">时尚</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_28&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_28">收藏</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_13&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_13">汽车</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_12&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_12">房产</a></li>
+<span class="cur"></span><li><a href="javascript:void(0);" suda-uatrack="key=SearchBody&amp;value=1_14">游戏</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_20&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_20">星座</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_21&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_21">旅游</a></li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_30&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=" suda-uatrack="key=SearchBody&amp;value=1_30">航空</a></li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dt><a class="cur" onclick="return false;" href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;stime=&amp;etime=">全部</a></dt>
+<dt><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=h&amp;a=&amp;stime=&amp;etime=" suda-uatrack="key=SearchBody&amp;value=1hour">1小时内</a></dt>
+<dt><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=d&amp;a=&amp;stime=&amp;etime=" suda-uatrack="key=SearchBody&amp;value=1day">1天内</a></dt>
+<dt><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=w&amp;a=&amp;stime=&amp;etime=" suda-uatrack="key=SearchBody&amp;value=1week">1周内</a></dt>
+<dt><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=m&amp;a=&amp;stime=&amp;etime=" suda-uatrack="key=SearchBody&amp;value=1month">1个月内</a></dt>
+<dt>
+<a suda-uatrack="key=SearchBody&amp;value=unfoldyear" href="javascript:void(0);">
+<span id="sYear" class="toOpen">展开年份</span>
+</a>
+</dt>
+<dd>
+<ul id="list_years" class="c_list" style="display:none;">
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=2014&amp;a=&amp;stime=&amp;etime=">2014</a> </li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=2013&amp;a=&amp;stime=&amp;etime=">2013</a> </li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=2012&amp;a=&amp;stime=&amp;etime=">2012</a> </li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=2011&amp;a=&amp;stime=&amp;etime=">2011</a> </li>
+<li><a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=2010&amp;a=&amp;stime=&amp;etime=">2010</a> </li>
+</ul>
+</dd>
+<dt>
+<a suda-uatrack="key=SearchBody&amp;value=daterange" href="javascript:void(0);">
+<span id="cdatebtn" class="toOpen">指定日期范围</span>
+</a>
+</dt>
+</dl>
+<div id="customdate" class="cdatehost date_pick" style="display:none;">
+<form action="/" method="get" onsubmit="return chkDateForm(this)" autocomplete="off">
+<input type="hidden" name="time" value="custom" />
+<p>从 <input id="s_time" name="stime" class="inp_txt" maxlength="10" type="text" value="" /></p>
+<p>到 <input id="e_time" name="etime" class="inp_txt" maxlength="10" type="text" value="" /></p>
+<p style="padding-right:43px;"><input type="submit" name="" value="搜索" style="width:48px;height:23px;" /></p>
+<input type="hidden" name="q" value="笑傲江湖" />
+<input type="hidden" name="col" value="1_14" />
+<input type="hidden" name="range" value="all" />
+<input type="hidden" name="c" value="news" />
+<input type="hidden" name="sort" value="time" />
+<input type="hidden" name="_lid" value="54c42821d0391a2e3b51585740ca43e0" />
+<input type="hidden" name="source" value="" />
+<input type="hidden" name="from" value="" />
+<input type="hidden" name="country" value="" />
+<input type="hidden" name="size" value="" />
+<input type="hidden" name="a" value="" />
+</form>
+</div>
+<script type="text/javascript">
+        $('#cannel').click(function () {
+            if($('#c_list')[0].style.display=='none') {
+                $('#c_list').slideDown();
+                this.className='toClose';
+            } else {
+                $('#c_list').slideUp();
+                this.className='toOpen';
+            }
+        });
+        $('#sYear').click(function () {
+            if($('#list_years')[0].style.display=='none') {
+                $('#list_years').slideDown();
+                this.className='toClose';
+                this.innerHTML="收起年份";
+            } else {
+                $('#list_years').slideUp();
+                this.className='toOpen';
+                this.innerHTML="展开年份";
+            }
+        });
+        $('#cdatebtn').click(function () {
+            if($('#customdate')[0].style.display=='none') {
+                $('#customdate').slideDown();
+                this.className='toClose';
+        
+            } else {
+                $('#customdate').slideUp();
+                this.className='toOpen';
+            
+            }
+        });
+        $('.c_list&gt;li').mouseover(function(){this.className='on'});
+        $('.c_list&gt;li').mouseout(function(){this.className=''}); 
+        //$('.l&gt;dt').mouseover(function(){ this.style.backgroundColor='#e9eff5'})
+        //$('.l&gt;dt').mouseover(function(){ this.style.backgroundColor='#EFEFEF'})
+        //--&gt;
+        </script>
+<script type="text/javascript">
+&lt;!--//--&gt;&lt;![CDATA[/ /&gt;&lt;!--
+
+//显示自定日期范围
+function show_cdatehost(){
+        $('#customdate').show();
+        $('#cdatebtn01').hide();
+        $('#cdatebtn02').show();
+}
+//隐藏自定日期范围
+function hide_cdatehost(){
+        $('#customdate').hide();
+        $('#cdatebtn01').show();
+        $('#cdatebtn02').hide();
+}
+
+/*
+//去掉其他选项上的红色箭头
+function hide_other_focus_arrow(){
+    //去掉全部 1小时内等选项的箭头
+    $('#normal_time_list li').each(function(){
+                                            if($(this).attr('class').indexOf('selected') !== -1){
+                                                    //取消箭头标记
+                                                    $(this).removeClass('selected');
+                                                    //还原a链接节点 借助data属性保留a.href
+                                                    $txt = $(this).html();
+                                                    $url = $(this).attr('data');
+                                                    if($url){
+                                                        $a = '&lt;a href="'+$url+'"&gt;'+$txt+'&lt;/a&gt;';
+                                                        $(this).html($a)
+                                                    }
+                                            }
+                                            });
+    //去掉年份选项的箭头
+    $('#list_years li').each(function(){
+                                            if($(this).attr('class').indexOf('selected') !== -1){
+                                                    //取消箭头标记
+                                                    $(this).removeClass('selected');
+                                                    //还原a链接节点 借助data属性保留a.href
+                                                    $txt = $(this).html();
+                                                    $url = $(this).attr('data');
+                                                    if($url){
+                                                        $a = '&lt;a href="'+$url+'"&gt;'+$txt+'&lt;/a&gt;';
+                                                        $(this).html($a)
+                                                    }
+                                            }
+                            });
+}
+*/
+
+//如果time==custom 则打开指定日期范围区域
+
+$('#cdatebtn').bind('click',function(){
+    //显示自定日期容器
+    show_cdatehost();
+    //将红色箭头标记到自定日期范围上
+//    hide_other_focus_arrow();
+
+    return false;
+});
+
+//--&gt;&lt;!]]&gt;
+&lt;/script&gt;
+
+
+                                                                &lt;dt&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=&amp;range=&amp;c=news&amp;sort=&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;t=&amp;stime=&amp;etime=" class=" reset"&gt;重置筛选条件&lt;/a&gt;&lt;/dt&gt;
+                                    &lt;/div&gt;
+            &lt;/div&gt;
+            
+        &lt;div class="result" id="result"&gt;
+                                   &lt;a href="javascript:void(0)" class="sideclose" id="sidebtn" hidefocus="true" title="打开筛选器"&gt;打开筛选器&lt;/a&gt;
+                  &lt;!-- 
+                          &lt;a href="javascript:void(0)" class="sideopen" id="sidebtn" hidefocus="true" title="关闭筛选器"&gt;关闭筛选器&lt;/a&gt;
+                     --&gt;		
+ 			          
+        
+                    &lt;div class="mod_bar" &gt;
+        
+                                
+                                
+                &lt;!--
+                //2013-11-14号删除这个提示 by：hongliang4
+                                 --&gt;
+                    &lt;script type="text/javascript"&gt;
+                        (function ($) {
+                            //Cookies
+                            $.setCookie=function (opt) {
+                                var defaults={
+                                    name:'',
+                                    value:'',
+                                    expire:1
+                                }
+                                var options=$.extend(defaults,opt);
+                                var exdate=new Date();
+                                exdate.setDate(exdate.getDate()+options.expire);
+                                document.cookie=options.name+ "=" +escape(options.value)+((options.expire==null) ? "" : ";expires="+exdate.toGMTString());
+                            }
+
+                            $.getCookie=function (cName){
+                                if (document.cookie.length&gt;0){
+                                    c_start=document.cookie.indexOf(cName + "=");
+                                    if (c_start!=-1){
+                                        c_start=c_start + cName.length+1;
+                                        c_end=document.cookie.indexOf(";",c_start);
+                                        if (c_end==-1) c_end=document.cookie.length;
+                                        return unescape(document.cookie.substring(c_start,c_end));
+                                    }
+                                }
+                                return '';
+                            }
+
+                            $('.tips_01 .close').click(function () {
+                                $('.tips_01').remove();
+                                //$.setCookie({name:'tips_01',value:'hide'});
+                            });
+                            var is_show_tips=$.getCookie('tips_01');
+                            if (is_show_tips=='hide') {
+                                $('.tips_01').remove();
+                            }
+                        })(jQuery);
+                    &lt;/script&gt;
+            &lt;/div&gt;
+
+    &lt;!--移动直达区到提示信息下方 20120908 dalong3--&gt;
+                        &lt;div id="nav_result_container"&gt;			&lt;!-- 大片：电影 begin --&gt;
+			&lt;div class="box-result clearfix box-nav nav_16" data-sudaclick="nav_result_16"&gt;
+				&lt;div class="r-img"&gt; &lt;div style="position:relative;"&gt;&lt;a href="http://movie.video.sina.com.cn/documentary/xajhzy/detail.html" target="_blank" class="a-img nav_add_log"&gt;&lt;img onload="a_r_i(this);" onerror="delete_self(this);" alt="" width="120" src="http://cache.mars.sina.com.cn/nd/movievideo/thumb/31/3531_12090.jpg" class="nav_add_log"  /&gt;&lt;/a&gt;
+                &lt;/div&gt;
+                &lt;div style="margin-top:5px;"&gt;&lt;a href="http://movie.video.sina.com.cn/documentary/xajhzy/detail.html" target="_blank" class="nav_add_log"&gt;&lt;img src="http://www.sinaimg.cn/dy/search/images/dp_cion.gif" width="73" height="25" title="播放"  /&gt;&lt;/a&gt;&lt;/div&gt;
+                &lt;/div&gt;
+				&lt;div class="r-info"&gt;
+					&lt;h2&gt;&lt;a href="http://movie.video.sina.com.cn/documentary/xajhzy/detail.html" target="_blank" class="nav_add_log"&gt;大片：笑傲江湖&lt;/a&gt; &lt;span class="fgray f12"&gt;[&lt;a href="http://movie.video.sina.com.cn/category/movie.html" target="_blank" class="nav_add_log"&gt;电影&lt;/a&gt;]&lt;/span&gt;&lt;/h2&gt;
+					&lt;p class="content"&gt;
+                    	&lt;span class="fgray"&gt;题材：&lt;/span&gt;剧情&nbsp;&nbsp;
+                        &lt;span class="fgray"&gt;地区：&lt;/span&gt;中国大陆&nbsp;&nbsp;
+                        &lt;span class="fgray"&gt;上映时间：&lt;/span&gt;2011
+                                                
+                    &lt;/p&gt;                    
+                    &lt;p class="fgray"&gt;
+                        导演：&lt;span class="nav_add_log blue"&gt;&lt;a href="?q=郭德纲&amp;c=news" target="_blank" class="fblue nav_add_log"&gt;郭德纲&lt;/a&gt;&nbsp;&lt;/span&gt;&nbsp;
+                        主演：&lt;span class="nav_add_log blue"&gt;&lt;a href="?q=无&amp;c=news" target="_blank" class="fblue nav_add_log"&gt;无&lt;/a&gt;&nbsp;&lt;/span&gt;
+                    &lt;/p&gt;
+					&lt;p class="content"&gt;
+                    	&lt;span class="fgray"&gt;描述：&lt;/span&gt;天津卫视大型喜剧真人秀《笑傲江湖》是由天津卫视联手北京德云社联合推出的“寻找新一代喜剧之星大赛”。一档长达4个月的赛事，在全国范围甚至全球华人范围甄选出的“喜剧之星”，将从相声、......
+                        [&lt;a href="http://movie.video.sina.com.cn/documentary/xajhzy/detail.html" target="_blank" class="nav_add_log"&gt;详情&lt;/a&gt;]
+                    &lt;/p&gt;
+					&lt;p class="fgray"&gt;
+                    	&lt;span&gt;更新时间：2012-12-14 11:25:55&nbsp;&nbsp; &lt;/span&gt;
+                    &lt;/p&gt;
+
+				&lt;/div&gt;
+			&lt;/div&gt;			&lt;!-- 大片：电影 end --&gt;&lt;/div&gt;
+        
+                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_0"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/w/n/2014-05-14/1153784057.shtml" target="_blank"&gt;富甲一方《群侠演义》有钱大家一起赚&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-14 11:53:27&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/w/n/2014-05-14/1153784057.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t0.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0514%2FU4511P115DT20140514115233.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;需要玩家在闲暇的时候可以挂机，挂机获得的药品也可以换得大量铜钱。少年出英雄，只要努力，人人都可能成为&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;的英雄。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					&lt;p&gt;&lt;span class="fgray"&gt;标签：&lt;/span&gt;&lt;a style="text-decoration:none;" href="/?c=news&amp;q=群侠演义"&gt;群侠演义&lt;/a&gt;&lt;/p&gt;--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 视频新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_1"&gt;
+					&lt;h2&gt;&lt;a href="http://games.sina.com.cn/m/n/2014-05-14/1104783990.shtml" target="_blank"&gt;视频：完美武侠巨制《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》3D手游公布&lt;/a&gt; 
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-14 11:04:10&lt;/span&gt;&lt;/h2&gt; 
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/m/n/2014-05-14/1104783990.shtml" target="_blank" class="a-img"&gt;&lt;img width="120" alt="" class="left_img" onerror="set_right_url2(this);" src="http://t0.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2Fm%2Fn%2F2014-05-14%2FU10528P115T9D783990F167DT20140514110410.png"  /&gt;&lt;/a&gt;
+					&lt;a href="http://games.sina.com.cn/m/n/2014-05-14/1104783990.shtml" target="_blank"&gt;&lt;img src="http://www.sinaimg.cn/dy/search/images/ss_cl_016.png" class="video"  alt="视频"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;此新闻一出引起多方猜测，今日，此款手游产品终于正式亮相，其取材于金庸武侠经典小说《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》，有着同题材端游的珠玉在前，《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;3D手游》将会为玩家打造一个真实的掌上江 ...&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;
+					--&gt;
+													&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 视频新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_2"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/o/n/2014-05-14/1036783951.shtml" target="_blank"&gt;挑战自身极限尽在《&lt;span style="color:#C03"&gt;江湖&lt;/span&gt;》试炼之地&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-14 10:36:22&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/o/n/2014-05-14/1036783951.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t1.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0514%2FU7233P115DT20140514103435.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;即将开始火爆内测，还等什么？绚丽中国风的极致画面，畅快淋漓的PK操作，以及智能化的任务模式，新鲜有趣绝对刺激，赶紧召集你的小伙伴一起相濡以沫，&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;吧。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					&lt;p&gt;&lt;span class="fgray"&gt;标签：&lt;/span&gt;&lt;a style="text-decoration:none;" href="/?c=news&amp;q=江湖"&gt;江湖&lt;/a&gt;&lt;/p&gt;--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 视频新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_3"&gt;
+					&lt;h2&gt;&lt;a href="http://games.sina.com.cn/v/n/2014-05-14/1011783923.shtml" target="_blank"&gt;视频：《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》3D手游概念宣传视频首曝&lt;/a&gt; 
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-14 10:11:11&lt;/span&gt;&lt;/h2&gt; 
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/v/n/2014-05-14/1011783923.shtml" target="_blank" class="a-img"&gt;&lt;img width="120" alt="" class="left_img" onerror="set_right_url2(this);" src="http://t1.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2Fv%2Fn%2F2014-05-14%2FU10642P167T248D10414F8543DT20140514101111.jpg"  /&gt;&lt;/a&gt;
+					&lt;a href="http://games.sina.com.cn/v/n/2014-05-14/1011783923.shtml" target="_blank"&gt;&lt;img src="http://www.sinaimg.cn/dy/search/images/ss_cl_016.png" class="video"  alt="视频"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;武侠硬派动作手游，超越真实的&lt;span style="color:#C03"&gt;江湖&lt;/span&gt;！《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》3D手游是金庸正版授权的武侠动作手机游戏，采用自研AngelicaⅢ引擎，结合Unity3D精心打造恢宏的游戏场景；采用真人动作捕捉技术，还原 ...&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;
+					--&gt;
+													&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 视频新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_4"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/xyz/n/2014-05-14/1003783917.shtml" target="_blank"&gt;完美《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;3D手游》正式公布 截图曝光&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-14 10:03:15&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/xyz/n/2014-05-14/1003783917.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t2.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0514%2FU5732P115DT20140514095201.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;新浪游戏讯 5月14日消息，完美世界旗下网游《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL》已商业运营多时，而其手游产品《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;3D手游》今日也正式亮相，详情曝光。据悉，《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;3D手游》采用完美世界自研的 ...&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 视频新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_5"&gt;
+					&lt;h2&gt;&lt;a href="http://video.sina.com.cn/p/games/o/n/2014-05-14/093663873315.html" target="_blank"&gt;视频：直播回顾：专访《TERA》配音光合积木&lt;/a&gt; 
+					&lt;span class="fgray_time"&gt; 2014-05-14 09:36:52&lt;/span&gt;&lt;/h2&gt; 
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://video.sina.com.cn/p/games/o/n/2014-05-14/093663873315.html" target="_blank" class="a-img"&gt;&lt;img width="120" alt="" class="left_img" onerror="set_right_url2(this);" src="http://t2.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fbook%2Fp%2Fgames%2Fo%2Fn%2F2014-05-14%2FU4300P167T248D10413F8543DT20140514093652.jpg"  /&gt;&lt;/a&gt;
+					&lt;a href="http://video.sina.com.cn/p/games/o/n/2014-05-14/093663873315.html" target="_blank"&gt;&lt;img src="http://www.sinaimg.cn/dy/search/images/ss_cl_016.png" class="video"  alt="视频"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;爱丽丝梦游仙境》、《钢铁侠》系列、《变形金刚》系列；电视剧《甄嬛传》、《宫》；动画《名侦探柯南》、《魁拔》游戏、《仙剑奇侠传五》系列、《轩辕剑6》、《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL》等 ...&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+																&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;
+					&lt;p&gt;&lt;span class="fgray"&gt;标签：&lt;/span&gt;&lt;a style="text-decoration:none;" href="/?c=news&amp;q=游戏"&gt;游戏&lt;/a&gt; &lt;a style="text-decoration:none;" href="/?c=news&amp;q=视频"&gt;视频&lt;/a&gt; &lt;a style="text-decoration:none;" href="/?c=news&amp;q=TERA"&gt;TERA&lt;/a&gt;&lt;/p&gt;
+					--&gt;
+													&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 视频新闻 end --&gt;                        
+                            
+                			&lt;!-- 文字新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_6"&gt;
+				&lt;div class="r-info r-info2"&gt;
+					&lt;h2&gt;&lt;a href="http://games.sina.com.cn/o/z/xa/2014-05-13/1951541531.shtml" target="_blank"&gt;&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL峨眉老玩家心得18条&lt;/a&gt; &lt;span class="fgray_time"&gt; 2014-05-13 19:51:20&lt;/span&gt;&lt;/h2&gt;
+					&lt;p class="content"&gt;2、不要以为奶妈攻击低，一样的宝石，峨眉单体攻击至少排进前三。3、不要因为你攻击高就一心想着杀人，因为你打一套要扭半天，因为你扭的时候有以下两种可能：一、还没扭完自己被敌 ...&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+																&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+								&lt;/div&gt;
+				
+			&lt;/div&gt;
+			&lt;!-- 文字新闻 end --&gt;                        
+                            
+                			&lt;!-- 文字新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_7"&gt;
+				&lt;div class="r-info r-info2"&gt;
+					&lt;h2&gt;&lt;a href="http://games.sina.com.cn/o/z/xa/2014-05-13/1945541530.shtml" target="_blank"&gt;&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;ol维护更新公告 战场以及门派调整&lt;/a&gt; &lt;span class="fgray_time"&gt; 2014-05-13 19:45:50&lt;/span&gt;&lt;/h2&gt;
+					&lt;p class="content"&gt;随着参与《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL》各位大侠步入&lt;span style="color:#C03"&gt;江湖&lt;/span&gt;，武林盟最近收到的各类建议数量也急剧上升。5月14日各派长老联手，就一些工作安排进行更新，确保每一位侠士都能够自由的快意&lt;span style="color:#C03"&gt;江湖&lt;/span&gt;，今后的 ...&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+																&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+								&lt;/div&gt;
+				
+			&lt;/div&gt;
+			&lt;!-- 文字新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_8"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/g/n/2014-05-12/1146783404.shtml" target="_blank"&gt;和撞脸说再见 十大捏脸系统优秀的网游盘点&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-12 11:46:11&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/g/n/2014-05-12/1146783404.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t3.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0512%2FU8781P115DT20140512113432.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;《完美世界》《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL》《完美世界》一炮打响之后，完美公司再接再厉，在短短数年内批量生产出“多胞胎”式的网游作品，UI设置、画面效果等均与前作极为相似，捏脸系统自然也是 ...&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+					&lt;p class="fgray"&gt;该新闻共有5页 当前为第1页 &lt;a href="http://games.sina.com.cn/g/n/2014-05-12/1146783404.shtml" target="_blank" class="fblue"&gt;查看第&lt;span class="pagenum"&gt;1&lt;/span&gt;页&lt;/a&gt;&lt;/p&gt;				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_9"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/v/n/2014-05-12/1049783343.shtml" target="_blank"&gt;直播预告：今日16：30专访《TERA》配音光合积木&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-12 10:49:26&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/v/n/2014-05-12/1049783343.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t0.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0512%2FU11141P115DT20140512102849.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;变形金刚》系列；电视剧《甄嬛传》、《宫》；动画《名侦探柯南》、《魁拔》游戏、《仙剑奇侠传五》系列、《轩辕剑6》、《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL》等。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					&lt;p&gt;&lt;span class="fgray"&gt;标签：&lt;/span&gt;&lt;a style="text-decoration:none;" href="/?c=news&amp;q=圣王"&gt;圣王&lt;/a&gt;&lt;/p&gt;--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_10"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/o/z/xa/2014-05-11/2053541021.shtml" target="_blank"&gt;《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》日服近日上线 日系style浓厚&lt;/a&gt;
+					&lt;span class="fgray_time"&gt; 2014-05-11 20:53:42&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/o/z/xa/2014-05-11/2053541021.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t1.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0511%2FU3711P115DT20140511205006.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;继越南服和国际服(欧美)后，&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL近期又登陆日本，日服的名称为：VANITY of VANITIES。日服的运营商为C&amp;C Media，用搜索引擎查了下资料，发现这家公司早在2010年就被完美收购。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+																&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_11"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/xyz/n/2014-05-09/1711783152.shtml" target="_blank"&gt;西山居20周年回顾之人物篇：求伯君&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-09 17:11:23&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/xyz/n/2014-05-09/1711783152.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t2.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0509%2FU5732P115DT20140509171014.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;古装游戏人物造型的俊男美女穿梭往来。舞台上，有个年轻人一袭白衣，作古代侠客打扮，稳坐古筝前抚了一曲《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》，虽略显生涩却有&lt;span style="color:#C03"&gt;江湖&lt;/span&gt;沧桑之感。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                					&lt;!-- 专题新闻 begin --&gt;
+			&lt;div class="box-result clearfix zebra" data-sudaclick="blk_result_index_12"&gt;
+							&lt;div class="r-info r-info2"&gt;
+					&lt;h2&gt;&lt;a href="http://games.sina.com.cn/zt/rmfk0511/index.shtml" target="_blank"&gt;专题：一周（5.05-5.11）热门发卡排行榜TOP10&lt;/a&gt; &lt;span class="fgray_time"&gt; 2014-05-09 14:11:09&lt;/span&gt; &lt;/h2&gt;
+					&lt;p class="content"&gt;《问道》八周年至尊礼包位居排行榜第三位。此外《魔域》新浪龙骑宝盒、《梦三国》新浪专属卡、《300英雄》圣杯礼包依旧蝉联发卡排行榜前十。&lt;/p&gt;
+					&lt;p&gt;http://games.sina.com.cn/zt/rmfk0511/index.shtml&lt;/p&gt;
+&lt;!--			
+					&lt;p class="fgray"&gt;频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;&lt;/p&gt;
+--&gt;
+														&lt;/div&gt;
+				
+			&lt;/div&gt;
+			&lt;!-- 专题新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_13"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/o/n/2014-05-08/1700782798.shtml" target="_blank"&gt;金山《月影传说》百科全书重现&lt;span style="color:#C03"&gt;江湖&lt;/span&gt;&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-08 17:00:23&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/o/n/2014-05-08/1700782798.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t3.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0508%2FU7233P115DT20140508165907.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;所有的疑问都能在游历图上找到答案，跟着它走准没错！游历图【变强有秘诀】成为侠之大者，首先要不断提升自己的战斗力，才能用实力&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					&lt;p&gt;&lt;span class="fgray"&gt;标签：&lt;/span&gt;&lt;a style="text-decoration:none;" href="/?c=news&amp;q=月影传说"&gt;月影传说&lt;/a&gt;&lt;/p&gt;--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 文字新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_14"&gt;
+				&lt;div class="r-info r-info2"&gt;
+					&lt;h2&gt;&lt;a href="http://games.sina.com.cn/o/z/xa/2014-05-07/2343540395.shtml" target="_blank"&gt;《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL》充值大放送活动奖励开放领取&lt;/a&gt; &lt;span class="fgray_time"&gt; 2014-05-07 23:43:28&lt;/span&gt;&lt;/h2&gt;
+					&lt;p class="content"&gt;广大玩家：您好！所有参加充值活动的用户，现在开放奖励领取了，快来领取吧！活动奖励领取时间：2014年5月5日-2014年6月5日 领取奖励链接：http://event.wanmei.com/xa/giftoflove/index 领取奖励步骤 ...&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+																&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+								&lt;/div&gt;
+				
+			&lt;/div&gt;
+			&lt;!-- 文字新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_15"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/o/n/2014-05-07/1434782366.shtml" target="_blank"&gt;涉足大娱乐 网易投资蔡志忠动画电影《功夫少林寺》&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-07 14:34:24&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/o/n/2014-05-07/1434782366.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t0.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0507%2FU4511P115DT20140507143148.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;每个国人心目中都有一个尘嚣之外的武侠&lt;span style="color:#C03"&gt;江湖&lt;/span&gt;，少年时代的我们都曾梦想有一天能背上行囊远走少林，练不成易筋经也要学会降龙十八掌，然后&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					&lt;p&gt;&lt;span class="fgray"&gt;标签：&lt;/span&gt;&lt;a style="text-decoration:none;" href="/?c=news&amp;q=功夫少林寺"&gt;功夫少林寺&lt;/a&gt;&lt;/p&gt;--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 文字新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_16"&gt;
+				&lt;div class="r-info r-info2"&gt;
+					&lt;h2&gt;&lt;a href="http://games.sina.com.cn/y/n/2014-05-06/1615782036.shtml" target="_blank"&gt;腾讯起诉37WAN侵权事件告终：双方已经达成和解&lt;/a&gt; &lt;span class="fgray_time"&gt;新浪游戏 2014-05-06 16:15:39&lt;/span&gt;&lt;/h2&gt;
+					&lt;p class="content"&gt;460万元人民币。37WAN侵权历史：2013年8月，完美时空相关负责人指责37WAN平台联运产品《横扫天下》推广的广告，直接盗用了完美旗下《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》的主题曲。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+								&lt;/div&gt;
+				
+			&lt;/div&gt;
+			&lt;!-- 文字新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_17"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/m/n/2014-05-06/1155781911.shtml" target="_blank"&gt;手机游戏也有《步步惊情》 金庸笔下那些狗血组合&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-06 11:55:04&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/m/n/2014-05-06/1155781911.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t1.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0506%2FU1782P115DT20140506115110.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;岳灵珊+东方不败 先不吐槽新版《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》中东方不败换心给任盈盈的“高科技外科手术”情节，很多观众还是相当同情这个为爱牺牲的角色。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_18"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/w/n/2014-05-06/1009781785.shtml" target="_blank"&gt;完美世界宣布近期推出《冰火破坏神》&lt;/a&gt;
+					&lt;span class="fgray_time"&gt;新浪游戏 2014-05-06 10:09:13&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/w/n/2014-05-06/1009781785.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t2.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0506%2FU7232P115DT20140506100224.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;神鬼传奇》、《梦幻诛仙》、《降龙之剑》、《神魔大陆》、《神鬼世界》，《倚天屠龙记》、《神雕侠侣》、《圣王》、《圣斗士星矢》、《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》、《Touch》等网游产品。&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+											来源：新浪游戏					&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					&lt;p&gt;&lt;span class="fgray"&gt;标签：&lt;/span&gt;&lt;a style="text-decoration:none;" href="/?c=news&amp;q=冰火破坏神"&gt;冰火破坏神&lt;/a&gt;&lt;/p&gt;--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;                        
+                            
+                			&lt;!-- 图片新闻 begin --&gt;
+			&lt;div class="box-result clearfix" data-sudaclick="blk_result_index_19"&gt;
+								&lt;h2&gt;&lt;a href="http://games.sina.com.cn/o/z/xa/2014-05-05/1611539833.shtml" target="_blank"&gt;墨宝征集 《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL》截图党大显身手&lt;/a&gt;
+					&lt;span class="fgray_time"&gt; 2014-05-05 16:11:04&lt;/span&gt;&lt;/h2&gt;
+				&lt;div class="r-img"&gt;
+					&lt;a href="http://games.sina.com.cn/o/z/xa/2014-05-05/1611539833.shtml" target="_blank" class="a-img"&gt;&lt;img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'');" src="http://t3.sinaimg.cn/pic?url=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2F2014%2F0505%2FU3711P115DT20140505160647.jpg"  /&gt;&lt;/a&gt;
+				&lt;/div&gt;
+							&lt;div class="r-info"&gt;
+					&lt;p class="content"&gt;《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;OL》官方微博发起的游戏图画征集活动已经圆满结束，并收到了大量玩家们的优秀作品！福州碧海蓝天，剑阁月夜落华，夜岚谷青山绿水——玩家截图的精美程度大大超出预料 ...&lt;/p&gt;
+					&lt;!--
+&lt;p class="fgray"&gt;
+											频道：&lt;a href="http://games.sina.com.cn/" target="_blank" class="fblue"&gt;游戏&lt;/a&gt;&nbsp;&nbsp;
+																&lt;/p&gt;
+					&lt;p class="fgray"&gt;
+											&lt;/p&gt;					
+					--&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 图片新闻 end --&gt;        
+                           &lt;!--                                  &lt;div class="box-result clearfix foot_tip"&gt;
+                  当前在&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a="&gt;游戏&lt;/a&gt;频道搜索，点击切换到&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a="&gt;全部&lt;/a&gt;
+                &lt;/div&gt;
+                                 --&gt;
+            &lt;!-- 分页 begin --&gt;
+            &lt;table cellspacing="0" style="margin:0 auto;"&gt;&lt;tr&gt;&lt;td&gt;
+                &lt;div class="pagebox" id="_function_code_page"&gt;
+                    &lt;b&gt;&lt;span class="pagebox_cur_page"&gt;1&lt;/span&gt;&lt;/b&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=2&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page2');" title="第2页"&gt;2&lt;/a&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=3&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page3');" title="第3页"&gt;3&lt;/a&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=4&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page4');" title="第4页"&gt;4&lt;/a&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=5&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page5');" title="第5页"&gt;5&lt;/a&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=6&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page6');" title="第6页"&gt;6&lt;/a&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=7&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page7');" title="第7页"&gt;7&lt;/a&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=8&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page8');" title="第8页"&gt;8&lt;/a&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=9&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page9');" title="第9页"&gt;9&lt;/a&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=10&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page10');" title="第10页"&gt;10&lt;/a&gt;&lt;a href="/?q=%D0%A6%B0%C1%BD%AD%BA%FE&amp;col=1_14&amp;range=all&amp;c=news&amp;sort=time&amp;_lid=54c42821d0391a2e3b51585740ca43e0&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=2&amp;pf=2131425467&amp;ps=2134309112&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page2');" title="下一页"&gt;下一页&lt;!--  --&gt;&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+            &lt;!-- 分页 end --&gt;
+                                    &lt;!-- 在结果中搜索 begin --&gt;
+&lt;div class="search-form search-form-bot"&gt;
+	&lt;!-- 2010/11/11 --&gt;
+		&lt;!-- 2010/11/3 begin --&gt;
+	&lt;form method="get" action="/" onsubmit="return submit_form(this)"&gt;
+				&lt;input type="text" name="q" maxlength="100" value="笑傲江湖 " class="ipt-00"  /&gt;
+		&lt;input type="submit" value="" class="ipt-03 ipt-03b ipt-03_news" hidefocus="true" suda-uatrack="key=SearchBody&amp;value=searchbelow"  /&gt;
+						&lt;input type="hidden" value="1_14" name="col"&gt;
+					&lt;input type="hidden" value="all" name="range"&gt;
+					&lt;input type="hidden" value="news" name="c"&gt;
+					&lt;input type="hidden" value="time" name="sort"&gt;
+					&lt;input type="hidden" value="54c42821d0391a2e3b51585740ca43e0" name="_lid"&gt;
+					&lt;input type="hidden" value="" name="source"&gt;
+					&lt;input type="hidden" value="" name="from"&gt;
+					&lt;input type="hidden" value="" name="country"&gt;
+					&lt;input type="hidden" value="" name="size"&gt;
+					&lt;input type="hidden" value="" name="time"&gt;
+					&lt;input type="hidden" value="" name="a"&gt;
+			&lt;/form&gt;
+	&lt;!-- 2010/11/3 end --&gt;
+&lt;/div&gt;
+&lt;!-- 在结果中搜索 end --&gt;            &lt;/div&gt;
+&lt;script type="text/javascript"&gt;
+$(function(){$("div.box-result").mouseover(function(){$(this).find('div.wbShareBtn').show();}).mouseout(function(){$(this).find('div.wbShareBtn').hide();});});
+&lt;/script&gt;
+        &lt;div class="sRight"   &gt;
+        &lt;!-- 微博搜索直达区 --&gt;
+        &lt;!-- liuxiaolong edited @2012.1.5  --&gt;
+                                                &lt;a class="wbret-wrap" href="http://s.weibo.com/weibo/%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96&amp;Refer=sina_newsearch" target="_blank" data-sudaclick="weibo_nav"&gt;
+                        &lt;span class="wbret-tt"&gt;
+                            &lt;span class="fred"&gt;笑傲江湖&lt;/span&gt;&lt;span class="fblue"&gt;的相关微博&lt;/span&gt;
+                        &lt;/span&gt;
+                                                    &lt;span  class="wbret-p1" &gt;
+                                &lt;span class="wblink" s-role="wblink" url="http://weibo.com/1666680885/profile?&amp;Refer=sina_newsearch"&gt;大鹏董成鹏&lt;/span&gt;&lt;span&gt;&lt;img src="images/mingren.gif" width="13" height="13"  /&gt;&lt;/span&gt;&lt;strong&gt;: &lt;/strong&gt;姜涛是我很佩服的一个人，上相亲节目找不到对象，上求职节目找不到工作，上选秀节目首轮就淘汰，今晚又到《&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;》来了。。。&lt;span class="wbret-date1"&gt;2014-05-04 21:05&lt;/span&gt;
+                            &lt;/span&gt;
+                                                                            &lt;span class="wbret-p2"&gt;
+                                &lt;span class="wblink" s-role="wblink" url="http://weibo.com/1211759277/profile?&amp;Refer=sina_newsearch"&gt;弇阳山明&lt;/span&gt;&lt;strong&gt;: &lt;/strong&gt;问题是做杨涟，左光斗的成本太高啊！&lt;span style="color:#C03"&gt;笑傲江湖&lt;/span&gt;里面的刘正风不就是如此？//@历史袁老师:最深重的奴役，在人的内心！&lt;span class="wbret-date1"&gt;2分钟前&lt;/span&gt;
+                            &lt;/span&gt;
+                        &lt;span class="wbret-p3"&gt;
+                            &lt;span class="wbret-link1" href="http://s.weibo.com/weibo/%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96&amp;Refer=sina_newsearch" target="_blank"&gt;更多18,389,802条微博结果&gt;&gt;&lt;/span&gt;
+                        &lt;/span&gt;
+                                            &lt;/a&gt;
+                            
+&lt;script type="text/javascript"&gt;
+(function(){
+    var $bluesReds = $( '.fblue, .fred', $('.wbret-tt') ),
+        $links = $( '.wbret-link1' );
+
+    $wblinks = $( 'span[s-role=wblink]' );
+    $wblinks.click(function(e){
+        e = e || event;
+        window.open( $(this).attr('url') );
+        if( e.preventDefault ) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+        else {
+            e.returnValue = false;
+            e.cancelBubble = true;
+        }
+    });
+
+    $wblinks.bind( 'mouseenter', function(e){
+        $( this ).css( { 'color': '#f00' } );
+    });
+    $wblinks.bind( 'mouseleave', function(e){
+        $( this ).css( { 'color': '#26A2DA' } );
+    });
+
+    var hoverHandler = function( e ){
+        e = e || event;
+        var src = e.target || e.srcElement;
+
+        if( src.className.indexOf('fred') &gt;= 0 ) {
+            $( src ).next( '.fblue' ).css( 'color', 'red' );
+        }
+        else if ( src.className.indexOf('fblue') &gt;= 0 ) {
+            $( src ).css( 'color', 'red' );
+        }
+        else if ( src.className.indexOf('wbret-link1') &gt;= 0 ) {
+            $( src ).css({
+                'color': '#4949b5',
+                'text-decoration': 'none'
+            });
+        }
+    };
+
+    var leaveHandler = function( e ) {
+        e = e || event;
+        var src = e.target || e.srcElement;
+
+        if( src.className.indexOf('fred') &gt;= 0 ) {
+            $( src ).next( '.fblue' ).css( 'color', '#009' );
+        }
+        else if ( src.className.indexOf('fblue') &gt;= 0 ) {
+            $( src ).css( 'color', '#009' );
+        }
+        else if ( src.className.indexOf('wbret-link1') &gt;= 0 ) {
+            $( src ).css({
+                'text-decoration': 'none',
+                'color': '#7F7FCC'
+            });
+        }
+    };
+
+    $bluesReds.bind( 'mouseenter', hoverHandler );
+    $links.bind( 'mouseenter', hoverHandler );
+
+    $bluesReds.bind( 'mouseleave', leaveHandler );
+    $links.bind( 'mouseleave', leaveHandler );
+
+})();
+&lt;/script&gt;&lt;!--搜索推荐--&gt;
+
+                            &lt;dl class="r_list fgrey" data-sudaclick="search_hot_words"&gt;
+                    &lt;dt&gt;搜索推荐&lt;/dt&gt;
+                                                                        &lt;dd&gt;
+                                &lt;a href="/?from=index_hotword&amp;c=news&amp;q=印度人 香港地铁"&gt;印度人香港地铁打人&lt;/a&gt;
+                                                    &lt;/dd&gt;
+                                                                        &lt;dd&gt;
+                                &lt;a href="/?from=index_hotword&amp;c=news&amp;q=70码 胡斌 事故"&gt;70码主角再酿事故&lt;/a&gt;
+                                                    &lt;/dd&gt;
+                                                                        &lt;dd&gt;
+                                &lt;a href="/?from=index_hotword&amp;c=news&amp;q=上海 老式居民楼 倒塌"&gt;上海老式居民楼倒塌&lt;/a&gt;
+                                                    &lt;/dd&gt;
+                                                                        &lt;dd&gt;
+                                &lt;a href="/?from=index_hotword&amp;c=news&amp;q=聘任制公务员 年薪"&gt;聘任制公务员年薪30万&lt;/a&gt;
+                                                    &lt;/dd&gt;
+                                    &lt;/dl&gt;
+                        &lt;!--
+            一彤要求去掉搜索历史 2013-08-5 by:hongliang4
+            &lt;script type="text/javascript"&gt;
+                function DelHistory() {
+                        sina.writeCookie('search_history', 'deleted', -1);
+                        $("dd.search_history").remove();
+                        $("dd .del_h").remove();
+                }
+
+            &lt;/script&gt;
+
+            &lt;dl class="r_list fgrey" data-sudaclick="search_history"&gt;
+                &lt;dt&gt;搜索历史&lt;/dt&gt;
+
+                                &lt;dd&gt;
+                    &lt;a class='del_h' href="javascript:void(0);" onclick="DelHistory();"&gt;清除历史&lt;/a&gt;
+                &lt;/dd&gt;
+            &lt;/dl&gt;
+            --&gt;
+
+        &lt;div class="zcad"&gt;
+				&lt;!-- ad start--&gt;
+&lt;table border="0" cellpadding="0" cellspacing="0"&gt;
+				&lt;tr&gt;&lt;td height="5"&gt;&lt;/td&gt;&lt;/tr&gt;
+				&lt;tr&gt;&lt;td height=0&gt;&lt;/td&gt;
+				&lt;td&gt;				
+				&lt;script language=Javascript&gt;
+				/*按照参数,设置iframe对象的高度*/
+				function setHeight(theHeight){
+					if (theHeight &lt; 16) //iframe内容为空时高度是15
+					{
+						theHeight = 0; //iframe内容为空时,高度为0
+					}
+					//设置指定id的iframe对象的高度, 留余
+					document.getElementById('Ads').height = theHeight;
+				}
+				&lt;/script&gt;                
+				&lt;iframe id="Ads" name="Adsname" width="210" height="1" frameborder="0" scrolling="no" src="/iframe/iask_pc.php?key=%D0%A6%B0%C1%BD%AD%BA%FE&amp;pid=&amp;page=1"&gt;&lt;/iframe&gt;
+
+				&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+				&lt;!-- ad end--&gt;
+				&lt;!--100125001 begin--&gt;				
+				&lt;style type="text/css"&gt;
+				&lt;!--
+				.div0713{padding:5px;width:200px; background:#edf7ff; font-size:12px;display:none}
+				.div0713 b{font-weight:normal!important;}
+				.div0713 div{text-align:left;color:#33c;}
+				.div0713 div a{display:inline; color:#33c!important; text-decoration:underline;}
+				.div0713 div a:hover,.div0713 div a:active{color:#f00!important; text-decoration:underline;}
+				.div0713 a{display:block;text-decoration:none;color:#33c;margin:5px 0 10px;}
+				.div0713 a h4{font-size:14px;font-weight:normal;text-decoration:underline;color:#33c;margin:0;line-height:20px;}
+				.div0713 a p{color:#666!important;margin:0;line-height:16px; text-decoration:none!important;}
+				.div0713 a span{color:#008000!important;text-decoration:underline;}
+				--&gt;
+				&lt;/style&gt;
+				&lt;div class="div0713" id="ads0713"&gt;&lt;/div&gt;
+			
+				&lt;!--100125001 end--&gt;
+	&lt;/div&gt;                &lt;/div&gt;
+
+                        
+      
+                         &lt;script type="text/javascript"&gt;
+	//&lt;![CDATA[
+	(function(){
+		//打开关闭边栏
+		var sidebar = $("#sidebar");
+		var sidebtn = $("#sidebtn");
+		var result = $("#result");
+		var sideMore = $("#amore");
+		var cm = $("#cmore");
+		function set_filter_cookie(type){
+			sina.writeCookie('news_filter', type, 30*24);
+		}
+
+		function toggleSidebar() {
+			var sidebarHeight = sidebar[0].style.display=='none' ? 0 : sidebar.outerHeight()
+			if (result.outerHeight() &lt; sidebarHeight){
+				result.css("border-left", "none");
+			} else {
+				sidebar.css("border-right", "none");
+			}
+		}
+
+		function openfilter(){
+			sidebar.animate({width:"show"},"fast",function(){
+				sideMore.css("visibility","visible");
+				sidebtn[0].className = "sideopen";
+				sidebtn.html("关闭筛选器");
+				sidebtn[0].title = "关闭筛选器";
+				
+				cm.width(cm.parent().width());
+			});
+									
+						toggleSidebar();
+			//记录开关状态到cookie
+			set_filter_cookie(1);
+			//alert('1')
+			//uatrack
+			_S_uaTrack('SearchBody','openfilter');
+		}
+		
+		function closefilter(){
+			sideMore.css("visibility","hidden");
+			sidebar.animate({width:"hide"},"slow",function(){
+				sidebtn[0].className = "sideclose";
+				sidebtn.html("打开筛选器");
+				sidebtn[0].title = "打开筛选器";
+
+												
+								toggleSidebar();
+			});
+			set_filter_cookie(0);
+			//alert('0')
+			_S_uaTrack('SearchBody','closefilter');
+		}
+
+		toggleSidebar();
+		
+				sidebtn.toggle(openfilter,closefilter);		
+		
+		/*
+		var minHeight = 600 ;//防止筛选栏中点击展开年份后高度溢出 by liusong@20101112
+		if (sidebar.outerHeight() &lt; minHeight){
+			sidebar.css("height" ,minHeight+"px");
+		}
+		if (result.outerHeight() &lt; sidebar.outerHeight() ){
+			result.css("height", sidebar.outerHeight() +"px");
+		}
+		*/
+		
+		//列表、大图模式切换-未使用
+		/*
+		var thumb = $("#thumb"),list = $("#list"),result = $("#result");
+		thumb.click(function(){
+								   list.removeClass("on");
+								   thumb.addClass("on");
+								   result.addClass("thumbnail_view");
+								   }
+	
+						  )
+		list.click(function(){
+								   thumb.removeClass("on");
+								   list.addClass("on");
+								   result.removeClass("thumbnail_view");
+								   }
+						  )
+		*/
+	  })();		
+	//]]&gt;
+	&lt;/script&gt;    &lt;/div&gt;
+&lt;/div&gt; 
+&lt;!--反馈入口 start--&gt;
+&lt;style type="text/css"&gt;
+.scrollDiv{bottom:185px;right:0;width: 14px;font-size: 14px;background: #e4e4e4;border-radius: 5px 0 0 5px;padding: 12px 7px;}
+.scrollDiv a{font-size: 14px;color: #5d5d5d;font-family: "Microsoft Yahei","微软雅黑","SimSun","宋体","Arial Narrow",serif;}
+.scrollDiv a:visited{color: #5d5d5d;text-decoration: none;}
+.scrollDiv a:hover{color: #ff8400;text-decoration: none;}
+&lt;/style&gt;
+&lt;div id="scrollDiv" class='scrollDiv'&gt;
+&lt;a href="http://comment5.news.sina.com.cn/comment/skin/feedback.html?channel=ly&amp;newsid=231" target='_blank'&gt;我要反馈&lt;/a&gt;
+&lt;/div&gt;
+&lt;script type="text/javascript"&gt;
+~function(){var a="scrollDiv";var d=document.getElementById(a);function c(g,e,f){if(g.attachEvent){g.attachEvent("on"+e,f);}else{g.addEventListener(e,f,false);}}function b(){var g=navigator.appVersion.indexOf("MSIE 6")!=-1?true:false;var e=0,f=0;if(g){d.style.position="absolute";}else{d.style.position="fixed";}}c(window,"scroll",b);c(window,"resize",b);b();}();
+&lt;/script&gt;
+&lt;!--反馈入口 end--&gt; 
+        &lt;script type="text/javascript" src="/js/jquery.ui.datepicker.js?t=20121010"&gt;&lt;/script&gt;  
+&lt;script type="text/javascript"&gt;
+&lt;!--//--&gt;&lt;![CDATA[/ /&gt;&lt;!--
+
+var s_timeOptions = {
+	dateFormat: 'yy-mm-dd',
+	changeMonth: true,
+	changeYear: true,
+	showOn: 'both',
+	buttonImage: 'http://www.sinaimg.cn/dy/search/images/calendar.gif',
+	buttonImageOnly: true,
+	maxDate:'d', //today
+	minDate:new Date(1998, 0, 1),
+	yearRange : 'c-15:c+15',
+	monthNamesShort:['1','2','3','4','5','6','7','8','9','10','11','12'],
+	dayNamesMin:[ '日','一', '二', '三', '四', '五', '六'],
+	showOtherMonths:false,
+	duration:'fast',
+	onSelect: function(dateText, inst){
+		$("#" + inst.input[0].id + "_err").css('display','none');
+	}
+};
+var e_timeOptions = {
+	dateFormat: 'yy-mm-dd',
+	changeMonth: true,
+	changeYear: true,
+	showOn: 'both',
+	buttonImage: 'http://www.sinaimg.cn/dy/search/images/calendar.gif',
+	buttonImageOnly: true,
+	maxDate:'d', //today
+	minDate:new Date(1998, 0, 1),
+	yearRange : 'c-15:c+15',
+	monthNamesShort:['1','2','3','4','5','6','7','8','9','10','11','12'],
+	dayNamesMin:[ '日','一', '二', '三', '四', '五', '六'],
+	showOtherMonths:false,
+	duration:'fast',
+	beforeShow : function(input, inst){
+		var sd = $('#s_time').attr('value').match(/^(\d{4})\-0?(\d{1,2})\-0?(\d{1,2})$/i),nDate;;
+		if(sd &amp;&amp; (sd[1] - 1998 &gt;=0)){
+			nDate = new Date(sd[1],sd[2]-1,sd[3]);
+		}else{
+			nDate = new Date(1998, 0, 1);
+		};
+		if($("#e_time").datepicker("option","minDate").getTime() == nDate.getTime()){return};
+		$("#e_time").datepicker("option","minDate",nDate);
+	},
+	onSelect : function(dateText,inst){
+		$("#" + inst.input[0].id + "_err").css('display','none');
+	}
+};
+$("#s_time").datepicker(s_timeOptions);
+$("#e_time").datepicker(e_timeOptions);
+function chkDate(){ //检查时间格式
+	if(this.value !== ''){
+		var err = false;
+		var data = this.value.match(/^(\d{4})\-0?(\d{1,2})\-0?(\d{1,2})$/i);
+		if(data){
+            current_date = new Date();
+			if(data[1] &lt; 1998 || data[1] &gt; current_date.getFullYear()){err = true};
+			if(data[2] == 0 || data[2] &gt; 12){err = true};
+			if(data[3] == 0 || data[3] &gt; 31){err = true};
+			if(data[2] == 2 &amp;&amp; data[3] &gt; 28){
+				err = true;
+				if(data[1]%4==0 &amp;&amp; data[3] == 29){err = false};
+			};
+			if((data[2] == 4 || data[2] == 6 || data[2] == 9 || data[2] == 11) &amp;&amp; data[3] &gt; 30){err = true};
+		}else{
+			err = true;
+		}
+	}else{
+		err = false;
+	}
+	
+	if(err){
+		if($("#" + this.id + "_err").length == 0){
+			$("#" + this.id).after('&lt;span id="' + this.id + '_err" style="font-size:12px;color:#f00;line-height:20px;display:block;"&gt;您选择的日期不合理&lt;/span&gt;');
+		};
+		$("#" + this.id + "_err").css('display','block');
+	}else{
+		$("#" + this.id + "_err").css('display','none');
+	};
+};
+$("#s_time").bind("blur",chkDate);
+$("#e_time").bind("blur",chkDate);
+//验证表单提交
+function chkDateForm(form){
+    var s_date_value = form.stime.value;
+    var e_date_value = form.etime.value;
+	var s_date = s_date_value.match(/^(\d{4})\-0?(\d{1,2})\-0?(\d{1,2})$/i);
+	var e_date = e_date_value.match(/^(\d{4})\-0?(\d{1,2})\-0?(\d{1,2})$/i);
+	if(!s_date || !e_date){
+		alert('您选择的日期不合理');
+		return false;
+	};
+    
+    /*选择的日期大于当前日期，给出提示 --dalong3 20120920*/
+    var s_date_string = new String();
+    var current_date = new Date();
+    s_date_year = s_date[1];
+    e_date_year = e_date[1];
+    min_date_year = 1998;
+    if((s_date_year - current_date.getFullYear() &gt; 0) || (min_date_year - s_date_year &gt;0) || (s_date_year - e_date_year &gt;0)) {
+		alert('您选择的日期不合理');
+		return false;
+    }
+	s_date = new Date(s_date[1],s_date[2] - 1,s_date[3]);
+	e_date = new Date(e_date[1],e_date[2] - 1,e_date[3]);
+
+
+	if(s_date &gt; e_date){
+		alert('您选择的日期不合理');
+		return false;
+	};
+	return true;
+};
+
+//--&gt;&lt;!]]&gt;
+&lt;/script&gt;    
+
+    &lt;!-- for iPad begin --&gt;
+&lt;script type="text/javascript"&gt;
+//翻页
+var iPadPage = {
+	    nextPage : '', //下一页url
+	    prePage : '', //上一页url
+	   pageObj : document.getElementById('wrap'), //翻页对象
+	   x : 0,
+	   y : 0,
+	   lastX : 0,
+	   lastY : 0,
+	   status : 'ok',
+	   parentObj : null,
+	   init : function(){
+			if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+			var tempThis = this;
+			this.addEvent(this.pageObj,'touchstart',function(e){tempThis._touchstart(e)});
+			this.addEvent(this.pageObj,'touchmove',function(e){tempThis._touchmove(e)});
+			this.addEvent(this.pageObj,'touchend',function(e){tempThis._touchend(e)});
+	   },
+_touchstart : function(e){
+		      this.x = e.touches[0].pageX;
+		      this.scrollX = window.pageXOffset;
+		      this.scrollY = window.pageYOffset; //用于判断页面是否滚动
+	      },
+_touchmove : function(e){
+		     if(e.touches.length &gt; 1){ //多点触摸
+			     this.status = 'ok';
+			     return;
+		     };
+		     this.lastX = e.touches[0].pageX;
+		     var cX = this.x - this.lastX;
+
+		     if(cX&lt;0){//第一页禁止向左
+			     if(!this.prePage){
+				     return;
+			     };
+		     };
+		     if(this.status == 'ok'){
+			     if(this.scrollY == window.pageYOffset &amp;&amp; this.scrollX == window.pageXOffset &amp;&amp; Math.abs(cX)&gt;50){ //横向触摸
+				     if(cX&gt;0){//最后一页禁止向右
+					     if(!this.nextPage){
+						     return;
+					     };
+				     };
+				     if(!this.parentObj){
+					     this.parentObj = document.createElement('div');
+					     this.parentObj.style.width = this.pageObj.offsetWidth + 'px';
+					     this.parentObj.style.overflow = 'hidden';
+						 this.pageObj.style.width = this.pageObj.offsetWidth + 'px';
+					     this.pageObj.style.overflow = 'hidden';
+					     this.pageObj.parentNode.insertBefore(this.parentObj,this.pageObj);
+					     this.parentObj.appendChild(this.pageObj);
+				     }
+				     this.status = 'touch';
+			     }else{
+				     return;
+			     };
+		     };
+
+		     this.pageObj.style.marginLeft = - cX + 'px';
+		     e.preventDefault();
+	     },
+_touchend : function(e){
+		    if(this.status != 'touch'){return};
+		    this.status = 'ok';
+		    var cX = this.x - this.lastX;
+		    var tempThis = this;
+		    if(this.alertStatus == 'open'){this.hideAlert()};
+		    this.actPX(this.pageObj.style,'marginLeft',this.pageObj.offsetLeft,cX&gt;0?-(this.parentObj.offsetWidth+2):this.parentObj.offsetWidth+2,200,function(){
+				    if(cX&lt;0){
+				    if(tempThis.prePage){window.location.href = tempThis.prePage}else{tempThis.pageObj.style.marginLeft = 0};
+				    }else{
+				    if(tempThis.nextPage){window.location.href = tempThis.nextPage}else{tempThis.pageObj.style.marginLeft = 0};
+				    };
+				    });
+	    },
+actPX : function(obj,key,start,end,speed,endFn,u){
+		if(typeof(u) == 'undefined'){u = 'px'};
+		clearTimeout(obj['_extend_actPX' + key.replace(/\-\.\=/,'_') + '_timeOut']);
+		if(start &gt; end){
+			speed = - Math.abs(speed);
+		}else{
+			speed = Math.abs(speed);
+		};
+		var now = start;
+		var length = end - start;
+		obj['_extend_actPX' + key.replace(/\-\.\=/,'_') + '_timeOut'] = setTimeout(function(){
+				now += speed;
+				//debugger;
+				var space = end - now;
+				if(start &lt; end){
+				if(space &lt; length/3){
+				speed = Math.ceil(space/3);
+				};
+				if(space &lt;= 0){ //end
+				obj[key] = end + u;
+				if(endFn){endFn()};
+				return;
+				};
+				}else{
+				if(space &gt; length/3){
+				speed = Math.floor(space/3);
+				};
+				if(space &gt;= 0){ //end
+				obj[key] = end + u;
+				if(endFn){endFn()};
+				return;
+				};
+				};
+
+				obj[key] = now + u;
+				obj['_extend_actPX' + key.replace(/\-\.\=/,'_') + '_timeOut'] = setTimeout(arguments.callee,20);
+
+		},20);
+	},
+addEvent : function(obj,eventType,func){if(obj.attachEvent){obj.attachEvent("on" + eventType,func);}else{obj.addEventListener(eventType,func,false)}}
+};
+~function(){
+	var pageDiv = document.getElementById('_function_code_page');
+	if(pageDiv!=null) {
+		var pageList = pageDiv.getElementsByTagName('a');
+		for(var i=0;i&lt;pageList.length;i++){
+			if(pageList[i].title == '上一页'){iPadPage.prePage = pageList[i].href;};
+			if(pageList[i].title == '下一页'){iPadPage.nextPage = pageList[i].href;};
+		};
+	}
+}();
+iPadPage.init();
+&lt;/script&gt;
+
+&lt;!-- for iPad end --&gt;            &lt;!--新闻 点击地图 --&gt;
+&lt;script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_m_v629.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;suds_init(1586,20.00,965,2);&lt;/script&gt;
+    &lt;!-- SUDA_CODE_START --&gt;
+&lt;script type="text/javascript" charset="utf-8" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"&gt;&lt;/script&gt;
+&lt;!-- SUDA_CODE_END --&gt;    &lt;div id="footer" class="foot"&gt;
+	&lt;a href="javascript:void(0);" onclick="setHomePage();"&gt;设为首页&lt;/a&gt; - &lt;a href="http://comment4.news.sina.com.cn/comment/skin/feedback.html?channel=ly&amp;newsid=231" target="_blank"&gt;意见反馈&lt;/a&gt; - &lt;a href="http://corp.sina.com.cn/chn/" target="_blank"&gt;新浪简介&lt;/a&gt; - &lt;a href="http://corp.sina.com.cn/eng/" target="_blank"&gt;About Sina&lt;/a&gt;
+	&lt;/br&gt;
+	&copy;2014 - &lt;a href="http://corp.sina.com.cn/chn/sina_priv.html" target="_blank"&gt;隐私保护 &lt;/a&gt; -  &lt;a href="http://corp.sina.com.cn/chn/sina_intr.html" target="_blank"&gt;新浪公司&lt;/a&gt; &lt;a href="http://corp.sina.com.cn/chn/copyright.html" target="_blank"&gt;版权所有&lt;/a&gt; &lt;a href="http://www.miibeian.gov.cn/" target="_blank"&gt;京ICP证000007 &lt;img src="images/logo_homeIcon.png" width="13" height="17" class="Icon01"  /&gt;&lt;/a&gt;
+	&lt;br /&gt;
+	&lt;a href="http://news.sina.com.cn/c/2013-01-29/171826152112.shtml" target="_blank"&gt;共同抵制网络低俗色情信息&lt;/a&gt; - 文明办网文明上网举报电话：010-82615762
+&lt;/div&gt;
+        
+&lt;!-- ie6 下按钮hover状态改变 --&gt;    
+&lt;!--[if lte IE 6]&gt;
+&lt;script type="text/javascript"&gt;
+	(function(){
+		var inps = document.getElementsByTagName("input");
+		for(i=0,len=inps.length;i&lt;len;i++){
+				if(inps[i].className.match("ipt-03")){
+						inps[i].onmouseover = function(){
+								this.className += " hover";
+							}
+						inps[i].onmouseout = function(){
+								this.className =this.className.replace(/ hover/g,"");
+							}	
+					}
+			}			
+	})();
+&lt;/script&gt;
+&lt;![endif]--&gt;&lt;/body&gt;
+&lt;/html&gt;
+</script></div></div></div></div></body></html>

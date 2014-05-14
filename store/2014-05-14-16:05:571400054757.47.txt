@@ -1,0 +1,808 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>洪巧俊_新浪博客</title>
+<meta name="keywords" content="洪巧俊_新浪博客,洪巧俊" />
+<meta name="description" content="洪巧俊_新浪博客,洪巧俊,文化是艺术的根基,留住泥瓦匠就别让他们没日没夜地干,艺术是一棵树,漂洋过海的潮州朱泥壶,漂洋过海的潮州朱泥壶,俄为何不怕“麻烦制造者”罗戈津制造麻烦？,燕明壶艺馆艺术的殿堂,中南海里的燕明壶艺,“天下第一所”是奢靡之风的一个标本,如何衡量大师在行业中的地位？" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+&lt;!–[if lte IE 6]&gt;
+&lt;script type="text/javascript"&gt;
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+&lt;/script&gt;
+&lt;![endif]–&gt;
+&lt;script type="text/javascript"&gt;
+window.staticTime=new Date().getTime();
+&lt;/script&gt;
+&lt;link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php"  /&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd"  /&gt;
+&lt;link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest"  /&gt;
+&lt;link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1226712984.xml" title="RSS"  /&gt;
+&lt;link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet"  /&gt;&lt;style id="tplstyle" type="text/css"&gt;@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/5/5_3/t.css");
+&lt;/style&gt;
+&lt;style id="positionstyle"  type="text/css"&gt;
+.sinabloghead .blogtoparea{ left:102px;top:31%;}
+&lt;/style&gt;
+&lt;style id="bgtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="headtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;style id="navtyle"  type="text/css"&gt;
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--$sinatopbar--&gt;
+&lt;div style="z-index:512;" class="nsinatopbar"&gt;
+  &lt;div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"&gt;&lt;/div&gt;
+  &lt;div class="ntopbar_main"&gt; 
+    &lt;a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"&gt;&lt;img class="ntopbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"&gt;&lt;/a&gt;
+    &lt;div class="ntopbar_floatL"&gt;
+      &lt;div class="ntopbar_search" id="traySearchBar"&gt;&lt;/div&gt;
+	  &lt;div class="ntopbar_ad" id="loginBarActivity" style="display:none;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="ntopbar_loading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"&gt;加载中…&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--$end sinatopbar--&gt;
+
+&lt;div class="sinabloga" id="sinabloga"&gt;
+	&lt;div id="sinablogb" class="sinablogb"&gt;
+
+	   
+ &lt;div id="sinablogHead" class="sinabloghead"&gt;
+     &lt;div style="display: none;" id="headflash" class="headflash"&gt;&lt;/div&gt;
+	   &lt;div id="headarea" class="headarea"&gt;
+      &lt;div id="blogTitle" class="blogtoparea"&gt;
+      &lt;h1 id="blogname" class="blogtitle"&gt;&lt;a href="http://blog.sina.com.cn/hqj78"&gt;&lt;span id="blognamespan"&gt;洪巧俊&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;
+	  	  &lt;div class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/v/verify" target="_blank"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/v_blog_y.jpg"  width="80" height="20" title="新浪个人认证" align="absmiddle"  /&gt;&lt;/a&gt;知名时评家、杂文家&lt;/div&gt;
+	  		
+					&lt;div id="bloglink" class="bloglink"&gt;&lt;a href="http://blog.sina.com.cn/hqj78"&gt;http://blog.sina.com.cn/hqj78&lt;/a&gt;  &lt;a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss"&gt;[&lt;cite&gt;订阅&lt;/cite&gt;]&lt;/a&gt;&lt;a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1226712984'));"&gt;[&lt;cite&gt;手机订阅&lt;/cite&gt;]&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="blognav" id="blognav"&gt;
+      			  &lt;div id="blognavBg" class="blognavBg"&gt;&lt;/div&gt; &lt;div class="blognavInfo"&gt; 
+		&lt;span&gt;&lt;a  class="on" href="http://blog.sina.com.cn/hqj78"&gt;首页&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a  href="http://blog.sina.com.cn/s/articlelist_1226712984_0_1.html"&gt;博文目录&lt;/a&gt;&lt;/span&gt;
+      &lt;span&gt;&lt;a href="http://photo.blog.sina.com.cn/hqj78"&gt;图片&lt;/a&gt;&lt;/span&gt;
+      &lt;span class="last"&gt;&lt;a  href="http://blog.sina.com.cn/s/profile_1226712984.html"&gt;关于我&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;      		      		 	
+      
+             &lt;div class="autoskin" id="auto_skin"&gt;
+       &lt;/div&gt;
+
+&lt;div class="adsarea"&gt;
+     &lt;a href="#"&gt;&lt;div id="template_clone_pic" class="pic"&gt;&lt;/div&gt;&lt;/a&gt;
+     &lt;div id="template_clone_link" class="link wdc_HInf"&gt;&lt;/div&gt;
+     &lt;div id="template_clone_other" class="other"&gt;&lt;/div&gt;        
+&lt;/div&gt;
+    &lt;/div&gt;
+    	    	    &lt;/div&gt;
+    
+    &lt;!--主题内容开始 --&gt;
+    &lt;div class="sinablogbody" id="sinablogbody"&gt;
+	    &lt;div id="blogads" style="display: none;" class="blogads" uid="1226712984" formatInfo="1"&gt;&lt;div class="ad_head"&gt;&lt;/div&gt;&lt;div class="ad_body"&gt;&lt;div id="adversite_top" class="adsle"&gt;
+	&lt;/div&gt;&lt;div class="adsrig"&gt;新浪广告共享计划&gt;&lt;/div&gt;&lt;div class="clearit"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="ad_foot"&gt;&lt;/div&gt;&lt;/div&gt;
+		
+	&lt;!--第一列start--&gt;
+    &lt;div id="column_1" class="SG_colW21 SG_colFirst"&gt;&lt;div class="SG_conn" id="module_901"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="个人资料"&gt;个人资料&lt;/span&gt;
+            &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+        &lt;div class="info"&gt;
+                            
+            &lt;div class="info_img" id="comp_901_head"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://portrait1.sinaimg.cn/1226712984/blog/180" id="comp_901_head_image" width="180" height="180" alt="洪巧俊" title="洪巧俊"  /&gt;&lt;/div&gt;
+            
+            &lt;div class="info_txt"&gt;
+              &lt;div class="info_nm"&gt;
+                &lt;img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;
+                &lt;span class="SG_txtb"&gt;&lt;strong id="ownernick"&gt;洪巧俊                &lt;a href="http://blog.sina.com.cn/v/verify" target="_blank"&gt;&lt;img class="SG_icon SG_icon146" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" title="新浪个人认证" alt="新浪个人认证" align="absmiddle"  /&gt;&lt;/a&gt;                &lt;/strong&gt;&lt;/span&gt;
+                
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class="info_btn1"&gt;
+              &lt;!--user['qing_url'] --&gt;
+                &lt;a target="_blank" href="http://qing.blog.sina.com.cn/u/1226712984" onclick="v7sendLog &amp;&amp; v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;Qing&lt;/cite&gt;&lt;/a&gt;
+                &lt;a target="_blank" href="http://weibo.com/u/1226712984?source=blog" class="SG_aBtn SG_aBtn_ico"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;微博&lt;/cite&gt;&lt;/a&gt;
+                &lt;div class="clearit"&gt;&lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class="SG_j_linedot"&gt;&lt;/div&gt;        &lt;div class="info_locate" id = "info_locate_id"&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;div class="info_btn2"&gt;
+    &lt;p&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"&gt;&lt;cite &gt;加好友&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"&gt;&lt;cite &gt;发纸条&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;a href="http://blog.sina.com.cn/s/profile_1226712984.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"&gt;&lt;cite&gt;写留言&lt;/cite&gt;&lt;/a&gt;
+    &lt;a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"&gt;&lt;cite onclick="Module.SeeState.add()"&gt;加关注&lt;/cite&gt;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+                  &lt;div class="info_list"&gt;     
+                                   &lt;ul class="info_list1"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客等级：&lt;/span&gt;&lt;span id="comp_901_grade"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/2.gif"   /&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/2.gif"   /&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客积分：&lt;/span&gt;&lt;span id="comp_901_score"&gt;&lt;strong&gt;4007&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;ul class="info_list2"&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;博客访问：&lt;/span&gt;&lt;span id="comp_901_pv"&gt;&lt;strong&gt;8,162,755&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;span class="SG_txtc"&gt;关注人气：&lt;/span&gt;&lt;span id="comp_901_attention"&gt;&lt;strong&gt;34,166&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/div&gt;
+&lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="clearit"&gt;&lt;/div&gt;
+&lt;/div&gt;
+            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="adps_person" style="display:none"&gt;
+&lt;div class="SG_conn" id="module_946"&gt;
+    &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="广告共享计划"&gt;广告共享计划&lt;/span&gt;
+            &lt;span class="edit"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="SG_connBody"&gt;
+                    &lt;!--广告容器 --&gt; 
+           &lt;div class="widgetcen"&gt; 
+           &lt;div class="widgetconn" id="adps000001" &gt; 
+            广告共享计划&lt;!--广告内容 --&gt; 
+           &lt;/div&gt; 
+           &lt;/div&gt; 
+            &lt;!--广告容器结束 --&gt; 
+         &lt;div class="clearit"&gt;&lt;/div&gt;
+    &lt;/div&gt;       
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="SG_conn" id="module_1003"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="公告"&gt;公告&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget" style="position:relative"&gt;&lt;DIV&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;拿笔当锄头，决心锄草除稗，为正社会之风而呼。朴实、坚韧乃父母之赋，正义、直言却是我的追求。&lt;BR  /&gt;&lt;/DIV&gt;&lt;DIV&gt;&nbsp;&lt;wbr&gt;&lt;/DIV&gt;&lt;DIV&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;&nbsp;&lt;wbr&gt;本博客文章系洪巧俊原创作品，如有媒体要刊登转载，请与我联系：&lt;A&gt;hqjchaozhou78@163.com&lt;/A&gt;&lt;/DIV&gt;&lt;DIV&gt;&nbsp;&lt;wbr&gt;&lt;/DIV&gt;&lt;DIV&gt;&nbsp;&lt;wbr&gt;&lt;/DIV&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="评论"&gt;评论&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_12"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="访客"&gt;访客&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="wdtLoading"&gt;&lt;img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif"  /&gt;加载中…&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;div class="SG_conn" id="module_1001"&gt;
+            &lt;div class="SG_connHead"&gt;
+            &lt;span class="title" comp_title="友情链结"&gt;友情链结&lt;/span&gt;
+                       &lt;span class="edit"&gt;
+                        &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="SG_connBody"&gt;
+            	&lt;div class="diywidget"&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/hxw93525" target="_blank"&gt;洪雪云子&lt;/a&gt;&lt;p&gt;那朵美丽的云彩&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/hsb1107" target="_blank"&gt;洪仕斌&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.ifeng.com/974323.html" target="_blank"&gt;洪巧俊凤凰博&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://xiaoshu7878.blog.sohu.com/" target="_blank"&gt;大树底下好乘凉&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_5e7210290100bzvi.html" target="_blank"&gt;飞飞&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1228227702" target="_blank"&gt;练洪洋&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1253377597" target="_blank"&gt;冯树盛&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/u/1231636803" target="_blank"&gt;周样波&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;&lt;div class="diyList"&gt;&lt;p class="SG_dot"&gt;&lt;a href="http://blog.sina.com.cn/beast2060" target="_blank"&gt;吴德伟&lt;/a&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;            &lt;/div&gt;       
+            &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第一列end--&gt;
+	
+	&lt;!--第二列start--&gt;
+	&lt;div id="column_2" class="SG_colW73"&gt;&lt;div id="module_10001" class="SG_conn"&gt;
+	&lt;div class="SG_connHead"&gt;
+		&lt;span comp_title="博文" class="title"&gt;博文&lt;/span&gt;
+		&lt;span class="edit"&gt;
+        		&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class="SG_connBody"&gt;
+															&lt;div class="bloglist"&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_491e27980102ecz3" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecz3.html" target="_blank"&gt;文化是艺术的根基&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-14 15:59)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecz3'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecz3');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; TexT-inDenT: 36pt; mso-pagination: widow-orphan; mso-char-indent-count: 2.0'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 18pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体'&gt;
+文化是艺术的根基&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; TexT-inDenT: 24pt; mso-pagination: widow-orphan; mso-char-indent-count: 2.0'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 12pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体'&gt;
+有人说，章燕明大师只是小学毕业，制作的壶艺能有多少文化内涵？这显然是一种偏见。获诺贝尔文学奖的莫言不也是小学毕业吗？壶艺泰斗顾景舟也只读了个私塾。章燕明大师虽然只读了小学，但他从小随父学艺，悉心钻研壶&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecz3" href="http://blog.sina.com.cn/s/blog_491e27980102ecz3.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecz3.html#comment" id="c_10001_491e27980102ecz3"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecz3');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecz3" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecz3');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecz3" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecz3.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecz3"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/lm/book/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到文化博客，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_491e27980102ecyz" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecyz.html" target="_blank"&gt;留住泥瓦匠就别让他们没日没夜地干&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-14 10:02)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecyz'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecyz');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style='MArGin: 0cm 0cm 0pt'&gt;&lt;span style=
+'FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 14pt; mso-hansi-font-family: Arial'&gt;
+留住泥瓦匠就别让他们没日没夜地干 &lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-inDenT: 28pt; MArGin: 0cm 0cm 0pt; mso-char-indent-count: 2.0'&gt;
+&lt;span style=
+'FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 14pt; mso-hansi-font-family: Arial'&gt;
+洪巧俊&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-inDenT: 28pt; MArGin: 0cm 0cm 0pt; mso-char-indent-count: 2.0'&gt;
+&lt;span style=
+'FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 14pt; mso-hansi-font-family: Arial'&gt;
+“人口红利消失，首先会在建筑业出现。”广州市总工会原常务副主席刘小钢告诉记者，新生代农民工文化知识提高之后，当然愿意到相应的制造企业去工作，而建筑工地工人基本不需要什么教育程度，工作强度又大。刘小钢说，在很多城市泥水匠月收入已经超过万元，但还经常招不到人。虽然钱多，但新生代农民工除了看收入外，更注重工作的环境，未来建筑业劳动力会更加短缺。（
+&lt;font face=
+'黑体'&gt;&lt;span&gt;5&lt;/span&gt;月&lt;span&gt;13&lt;/span&gt;日&lt;/font&gt;《第一财经日报》）&lt;/span&gt;&lt;/p&gt;
+&lt;p style='TexT-inDenT:'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecyz" href="http://blog.sina.com.cn/s/blog_491e27980102ecyz.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecyz.html#comment" id="c_10001_491e27980102ecyz"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecyz');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecyz" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecyz');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecyz" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecyz.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecyz"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_491e27980102ecyw" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecyw.html" target="_blank"&gt;艺术是一棵树&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-13 17:41)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecyw'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecyw');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; TexT-inDenT: 36px; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan; mso-char-indent-count: 1.5'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 24px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+艺术是一棵树&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; TexT-inDenT: 36px; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan; mso-char-indent-count: 1.5'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 24px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+&lt;a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=491e27980102ecyw&amp;url=http://album.sina.com.cn/pic/001l1a5igy6IQB4Xiuq6e'
+target='_blank'&gt;&lt;img name='image_operate_15241399974117484' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s15.sinaimg.cn/mw690/001l1a5igy6IQB4Xiuq6e&amp;690" alt=''
+title='' id="image_operate_15241399974117484"  /&gt;&lt;/a&gt;&lt;br  /&gt;
+&lt;br  /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style='TexT-ALiGn: left;'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecyw" href="http://blog.sina.com.cn/s/blog_491e27980102ecyw.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecyw.html#comment" id="c_10001_491e27980102ecyw"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecyw');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecyw" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecyw');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecyw" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecyw.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecyw"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_491e27980102ecys" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecys.html" target="_blank"&gt;漂洋过海的潮州朱泥壶&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-13 13:28)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecys'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecys');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 140%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan; margin-top-alt: auto; margin-bottom-alt: auto'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 140%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 24px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+漂洋过海的潮州朱泥壶&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 140%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan; margin-top-alt: auto; margin-bottom-alt: auto'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 140%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 24px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+&nbsp;&lt;wbr&gt;&lt;wbr  /&gt;&lt;span style=
+'Line-HeiGHT: 140%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 18px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;洪巧俊&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 140%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan; margin-top-alt: auto; margin'&gt;
+&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecys" href="http://blog.sina.com.cn/s/blog_491e27980102ecys.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecys.html#comment" id="c_10001_491e27980102ecys"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecys');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecys" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecys');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecys" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecys.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecys"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_491e27980102ecym" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecym.html" target="_blank"&gt;漂洋过海的潮州朱泥壶&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-12 17:25)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecym'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecym');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 140%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan; margin-top-alt: auto; margin-bottom-alt: auto'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 140%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 24px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+漂洋过海的潮州朱泥壶&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 140%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan; margin-top-alt: auto; margin-bottom-alt: auto'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 140%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 24px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+&nbsp;&lt;wbr&gt;&lt;span style=
+'Line-HeiGHT: 140%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 18px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;洪巧俊&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 140%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan; margin-top-alt: auto; margin-bottom'&gt;
+&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecym" href="http://blog.sina.com.cn/s/blog_491e27980102ecym.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecym.html#comment" id="c_10001_491e27980102ecym"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecym');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecym" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecym');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecym" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecym.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecym"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_491e27980102ecyj" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecyj.html" target="_blank"&gt;俄为何不怕“麻烦制造者”罗戈津制造麻烦？&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-12 11:52)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecyj'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecyj');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 18pt; TexT-inDenT: 21pt; MArGin-BoTToM: 18.75pt; mso-pagination: widow-orphan; mso-margin-top-alt: auto'
+align='left'&gt;&lt;span style=
+'FonT-FAMiLY: 黑体; LeTTer-spACinG: -1.15pt; CoLor: #2b2b2b; FonT-siZe: 14pt'&gt;
+俄&lt;/span&gt;&lt;span style=
+'FonT-FAMiLY: 黑体; CoLor: #2b2b2b; FonT-siZe: 14pt; mso-font-kerning: 0pt; mso-hansi-font-family: simsun'&gt;为何不怕&lt;/span&gt;&lt;span style='FonT-FAMiLY: 黑体; CoLor: #2b2b2b; FonT-siZe: 14pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: simsun'&gt;“麻烦制造者”罗戈津&lt;/span&gt;&lt;span style='FonT-FAMiLY: 黑体; CoLor: #2b2b2b; FonT-siZe: 14pt; mso-font-kerning: 0pt; mso-hansi-font-family: simsun'&gt;制造麻烦？
+&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 18pt; TexT-inDenT: 21pt; MArGin-BoTToM: 18.75pt; mso-pagination: widow-orphan; mso-margin-top-alt: auto'
+align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecyj" href="http://blog.sina.com.cn/s/blog_491e27980102ecyj.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecyj.html#comment" id="c_10001_491e27980102ecyj"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecyj');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecyj" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecyj');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecyj" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecyj.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecyj"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_491e27980102ecxz" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecxz.html" target="_blank"&gt;燕明壶艺馆艺术的殿堂&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-10 21:03)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecxz'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecxz');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan'&gt;
+&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 16px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+燕明壶艺馆艺术的殿堂&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan'&gt;
+&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 16px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+洪巧俊&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; TexT-inDenT: 32px; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan; mso-char-indent-count: 2.0'&gt;
+&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 16px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体; mso-bidi-font-size: 15px'&gt;
+这是一座独立的楼院，名叫燕明艺术馆，建筑面积&lt;span&gt;1000&lt;/span&gt;平方米。一楼是文化走廊，二楼是&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecxz" href="http://blog.sina.com.cn/s/blog_491e27980102ecxz.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecxz.html#comment" id="c_10001_491e27980102ecxz"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecxz');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecxz" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecxz');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecxz" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecxz.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecxz"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_491e27980102ecxn" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecxn.html" target="_blank"&gt;中南海里的燕明壶艺&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-09 16:07)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecxn'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecxn');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 24px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+中南海里的燕明壶艺&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; MArGin: 0cm 0cm 0px; mso-pagination: widow-orphan'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 16px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+洪巧俊&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 24px; TexT-inDenT: 32px; MArGin: 0cm 0cm 0px; BACKGroUnD: white; mso-pagination: widow-orphan; mso-char-indent-count: 2.0'
+align='left'&gt;&lt;span style=
+'FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 16px; mso-bidi-font-family: 宋体; mso-font-kerning: 0px; mso-hansi-font-family: 宋体'&gt;
+中南海紫光阁这个地方，我们常在电视中看到，因为这里&lt;/span&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecxn" href="http://blog.sina.com.cn/s/blog_491e27980102ecxn.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecxn.html#comment" id="c_10001_491e27980102ecxn"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecxn');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecxn" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecxn');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecxn" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecxn.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecxn"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+														&lt;div id="t_10001_491e27980102ecwt" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecwt.html" target="_blank"&gt;“天下第一所”是奢靡之风的一个标本&lt;/a&gt;
+							&lt;/div&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-08 21:03)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecwt'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecwt');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 18pt; MArGin-BoTToM: 18.75pt; mso-pagination: widow-orphan; mso-margin-top-alt: auto'
+align='left'&gt;&lt;span style=
+'FonT-FAMiLY: 黑体; LeTTer-spACinG: -1.15pt; CoLor: #2b2b2b; FonT-siZe: 14pt'&gt;
+“&lt;/span&gt;&lt;span style=
+'FonT-FAMiLY: 黑体; LeTTer-spACinG: -1.15pt; CoLor: #2b2b2b; FonT-siZe: 14pt; mso-bidi-font-family: 黑体; mso-hansi-font-family: 黑体'&gt;天下第一所&lt;/span&gt;&lt;span style='FonT-FAMiLY: 黑体; LeTTer-spACinG: -1.15pt; CoLor: #2b2b2b; FonT-siZe: 14pt'&gt;”是&lt;/span&gt;&lt;span style='FonT-FAMiLY: 黑体; FonT-siZe: 14pt'&gt;奢靡之风的一个标本
+&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 18pt; MArGin-BoTToM: 18.75pt; mso-pagination: widow-orphan; mso-margin-top-alt: auto'
+align='left'&gt;&lt;span style=
+'FonT-FAMiLY: 黑体; FonT-siZe: 14pt'&gt;洪巧俊&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 18pt; TexT-inDenT: 28pt; MArGin-BoTToM: 18.75pt; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-char-indent-count: 2.0'
+align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecwt" href="http://blog.sina.com.cn/s/blog_491e27980102ecwt.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecwt.html#comment" id="c_10001_491e27980102ecwt"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecwt');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecwt" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecwt');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecwt" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecwt.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecwt"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div class="blog_title_h"&gt;
+							&lt;span class="img1"&gt;&lt;/span&gt;
+							&lt;a href="http://blog.sina.com.cn/lm/book/" target ="_blank"&gt;&lt;img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到文化博客，点击查看更多精彩内容" align="absmiddle"  /&gt;&lt;/a&gt;							&lt;div id="t_10001_491e27980102ecwn" class="blog_title"&gt;
+								&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecwn.html" target="_blank"&gt;如何衡量大师在行业中的地位？&lt;/a&gt;
+							&lt;/div&gt;
+																	&lt;img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18" /&gt;
+														&lt;span class="time SG_txtc"&gt;(2014-05-08 16:12)&lt;/span&gt;
+									
+							&lt;div class="turnBoxzz"&gt;&lt;a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'491e27980102ecwn'}"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"&gt;转载&lt;em class="arrow"&gt;▼&lt;/em&gt;&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+							&lt;!--
+								&lt;div class="turnBoxzz"&gt;&lt;a  href="javascript:;"    onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecwn');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"&gt;&lt;cite&gt;&lt;img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle"  /&gt;转载&lt;/cite&gt;&lt;/a&gt;&lt;/div&gt;
+								—--&gt;
+													&lt;/div&gt;
+						&lt;div class="articalTag"&gt;
+							&lt;table&gt;
+								&lt;tr&gt;
+									&lt;td class="blog_tag"&gt;
+																		&lt;/td&gt;
+									&lt;td class="blog_class"&gt;
+																		&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+													&lt;/div&gt;
+										&lt;div class="content newfont_family"&gt;
+							&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; TexT-inDenT: 48px; MArGin: 0cm 0cm 0px; mso-char-indent-count: 2.0; mso-pagination: widow-orphan'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 24px; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0px'&gt;
+地位的衡量&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; TexT-inDenT: 48px; MArGin: 0cm 0cm 0px; mso-char-indent-count: 2.0; mso-pagination: widow-orphan'
+align='left'&gt;&lt;span style=
+'Line-HeiGHT: 170%; FonT-FAMiLY: 黑体; CoLor: black; FonT-siZe: 16px; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0px'&gt;
+&lt;span style='FonT-siZe: 20px'&gt;洪巧俊&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=
+'TexT-ALiGn: left; Line-HeiGHT: 170%; TexT-inDenT: 32px; MArGin: 0cm 0cm 0px; mso-char-indent-count: 2.0; mso-pagination: widow-orphan'
+align='left'&gt;&nbsp;&lt;wbr&gt;&lt;/p&gt;
+						&lt;/div&gt;
+										
+						&lt;div class="tagMore"&gt;
+							&lt;div class="tag SG_txtc"&gt;
+								&lt;a id="r_10001_491e27980102ecwn" href="http://blog.sina.com.cn/s/blog_491e27980102ecwn.html" target="_blank"&gt;阅读&lt;/a&gt;&nbsp;
+								┆&nbsp;&lt;a target="_blank" href="http://blog.sina.com.cn/s/blog_491e27980102ecwn.html#comment" id="c_10001_491e27980102ecwn"&gt;评论&lt;/a&gt;&nbsp;																																						┆&nbsp;&lt;a href="#" onclick="scope.articel_quote_alert &amp;&amp; scope.articel_quote_alert('491e27980102ecwn');return false;"&gt;转载&lt;/a&gt;&lt;a id="z_10001_491e27980102ecwn" href="#"  onclick="scope.articleQuoteShow  &amp;&amp; scope.articleQuoteShow('491e27980102ecwn');return false;" class="zznum"&gt;&lt;/a&gt;
+																																			┆&nbsp;&lt;a id="f_10001_491e27980102ecwn" href="javascript:;" onclick="return false;"&gt;收藏&lt;/a&gt;&nbsp;
+							&lt;/div&gt;
+														&lt;div class="more"&gt;
+								&lt;span class="SG_more"&gt;&lt;a href="http://blog.sina.com.cn/s/blog_491e27980102ecwn.html" target="_blank"&gt;查看全文&lt;/a&gt;&gt;&gt;&lt;/span&gt;
+							&lt;/div&gt;
+													&lt;/div&gt;
+						&lt;div style="display: none;" class="blogzz_zzlist borderc" id="ff_491e27980102ecwn"&gt;&lt;/div&gt;
+						&lt;div class="SG_j_linedot"&gt;&lt;/div&gt;
+											&lt;div favmd5='{"491e27980102ecz3":"ba35eb385cb1779b5ce5754487625496","491e27980102ecyz":"df2a3a5f61016eae0151fd1c5ef39a2c","491e27980102ecyw":"b6507b9adf8d2d13414112c4946dca9d","491e27980102ecys":"314b43333c8542219affb35aeeea6451","491e27980102ecym":"6f01d811320b8861b2e99ee26a2fe248","491e27980102ecyj":"b32ccae8de2a15676e75cc9d38156f30","491e27980102ecxz":"a580da5e4f6e1b17c8145fd362724c48","491e27980102ecxn":"4959a7eb43a526037bbb0ad8755a5681","491e27980102ecwt":"f4e11188de945011c80bf27e003fc2bc","491e27980102ecwn":"d209bfeefbc0624c8eb0603d99a22a86"}' classid="0" pagesize="10" total="1640" id="pagination_10001" class="SG_page"&gt;&lt;/div&gt;
+					&lt;/div&gt;
+							  
+				&lt;/div&gt;  
+    &lt;div class="SG_connFoot"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+	&lt;!--第二列start--&gt;
+	
+	&lt;!--第三列start--&gt;
+	&lt;div id="column_3" class="SG_colWnone"&gt;&lt;div style="width:0px;height:0.1px;margin:0px;"&gt;&nbsp;&nbsp;&lt;/div&gt;&lt;/div&gt;
+	&lt;!--第三列end--&gt;
+
+	
+    &lt;/div&gt;
+   &lt;!--主题内容结束 --&gt;
+  
+
+	&lt;div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"&gt;&lt;/div&gt;
+    &lt;div class="sinablogfooter" id="sinablogfooter"  style="position:relative;"&gt;
+      
+      &lt;p class="SG_linka"&gt;&lt;a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank"&gt;新浪BLOG意见反馈留言板&lt;/a&gt;　&lt;a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');"&gt;不良信息反馈&lt;/a&gt;　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正&lt;/p&gt;
+   
+      &lt;p class="SG_linka"&gt;&lt;a href="http://corp.sina.com.cn/chn/" target="_blank"&gt;新浪简介&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/eng/" target="_blank"&gt;About Sina&lt;/a&gt; | &lt;a href="http://emarketing.sina.com.cn/" target="_blank"&gt;广告服务&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/contactus.html" target="_blank"&gt;联系我们&lt;/a&gt; | &lt;a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank"&gt;招聘信息&lt;/a&gt; | &lt;a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank"&gt;网站律师&lt;/a&gt; | &lt;a href="http://english.sina.com" target="_blank"&gt;SINA English&lt;/a&gt; | &lt;a href="http://members.sina.com.cn/apply/" target="_blank"&gt;会员注册&lt;/a&gt; | &lt;a href="http://help.sina.com.cn/" target="_blank"&gt;产品答疑&lt;/a&gt; &lt;/p&gt;
+      &lt;p class="copyright SG_linka"&gt; Copyright &copy; 1996 - 2014 SINA Corporation,  All Rights Reserved&lt;/p&gt;
+      &lt;p class="SG_linka"&gt; 新浪公司 &lt;a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank"&gt;版权所有&lt;/a&gt;&lt;/p&gt;
+	  &lt;a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="swfbox"&gt;&lt;/div&gt;
+&lt;script id="PVCOUNTER_FORIE" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;script type="text/javascript"&gt;
+var scope = {
+    $newTray : 1,
+    $setDomain : true,
+    $uid : "1226712984",
+    $PRODUCT_NAME : "blog7",      //blog7photo,blog7icp
+    $pageid : "index",
+    $key :  "4f593aa29423143f7185d69a63c6d32f",
+    $uhost : "hqj78",
+    $ownerWTtype :"0",
+    $private: {"cms":0,"hidecms":0,"blogsize":0,"ad":1,"sms":0,"adver":0,"tj":1,"p4p":0,"pageset":0,"invitationset":0,"spamcms":0,"top":0,"active":"4","medal":4,"t_sina":"1226712984","oauth_token":1,"oauth_token_secret":1,"uname":"\u6d2a\u5de7\u4fca","p_push_t":1,"p_get_t":1,"medal7":7,"uid":"1226712984"},
+    $playids :"",
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,    component_lists:{"2":{"size":730,"list":[10001]},"1":{"size":210,"list":[901,946,1003,1,12,1001]}},
+    formatInfo:1,
+    UserPic:[{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":""},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":""},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":""}],
+    UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
+    UserColor:1,
+    backgroundcolor:"#9caec1",
+    tpl:"5_3",
+    reclist:0    };
+var $encrypt_code = "6111d29edb35659d77024d0629904d75";
+&lt;/script&gt;
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__load_js();&lt;/script&gt;
+&lt;script type="text/javascript"&gt;__render_page();&lt;/script&gt;
+
+
+&lt;!-- ALL CODE START--&gt;&lt;!-- SUDA_CODE_START --&gt; 
+&lt;noScript&gt; 
+&lt;div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'&gt;&lt;img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt=''  /&gt;&lt;/div&gt; 
+
+&lt;/noScript&gt; 
+&lt;!-- SUDA_CODE_END --&gt; 
+
+
+
+&lt;script type="text/javascript" src="http://sjs.sinajs.cn/xblogtheme/js/blog680-min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+        var slotArr = ['atcTitLi_SLOT_41', 'atcTitLi_SLOT_42','loginBarActivity']; //广告位id
+        var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
+        SinaBlog680.staticBox(slotArr, sourceArr);
+&lt;/script&gt;
+&lt;/html&gt;
+</head></html>
