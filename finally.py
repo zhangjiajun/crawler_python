@@ -21,8 +21,8 @@ def crawler_init():
 	sleep_time = 0.1
 	time_out = 20
 	time_join = 6
-	thread_num = 8 
-	thread_number = 108
+	thread_num = 2
+	thread_number = 8
 	store_dir = "/home/admin/crawler_python/store"
 	
 #------ founction get domain-----
@@ -136,7 +136,7 @@ if __name__=='__main__':
 	count = 0
 	count_page = 0
 	example = url_open[0]
-	global inloop
+	global inloop,links_done,links_todo
 	inloop =0
 	crawler_init()
 
@@ -145,36 +145,23 @@ if __name__=='__main__':
 	domain = domain_get(example)
 	print "url input: ",example,'\n',"url domain: ",domain
 
-	Page = html_open(example)
-	soup = BeautifulSoup.BeautifulSoup(Page,fromEncoding="gb18030")
-	fp = open("test.txt",'wb+')
-	soup = str (soup)
-	fp.writelines(soup)
-	time.sleep(1)
-	fp.close()
 #---------deep dig url-----------	
 	queue.put(example)
 	link_get(queue.get())
 	deep_crawler -= 1
+	links_done = list(set(example))
 
 	while deep_crawler:
 		deep_crawler -= 1
-		inloop += 1
-		links = list(set(links))
-		for i in links:
+		links_todo =list(set(links)-links_done)
+		for i in links_todo:
 			queue.put(i)
 		thread_go(thread_num)
-
-	links = list(set(links))
-	fp_1=open("url_result.txt",'wb+')
-	fp_1.truncate()
-	fp_1.writelines(links)
-	time.sleep(1)
-	fp_1.close()
+		links_done = set(links)
 #-------store url source Page---------	
-	for i in links[1:650]:
-		queue_page.put(i)
-	thread_gogo(thread_number)
+		for i in links_todo[1:60]:
+			queue_page.put(i)
+		thread_gogo(thread_number)
 
 
 	print "loop is ",count,"in while",inloop
